@@ -1,0 +1,874 @@
+head(dggp2008)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2009 <- read.csv(file.path(path, "PrincipalesCIF2008-2009.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");
+head(dggp2009)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2009[, 2:ncol(dggp2009)] <- removePunct(dggp2009)#
+names(dggp2009) <- dggpNames
+ncol(dggp2009)
+ncol(dggp2008)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2009 <- read.csv(file.path(path, "PrincipalesCIF2008-2009.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+dggp2009[, 2:ncol(dggp2009)] <- removePunct(dggp2009)#
+names(dggp2009) <- dggpNames
+head(dggp2009)
+dggp2010 <- read.csv(file.path(path, "principales_cifras_2009_2010.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");
+dggp2010 <- read.csv(file.path(path, "principales_cifras_2009_2010.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");
+dggp2010 <- read.csv(file.path(path, "principales_cifras_2009_2010.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");
+headd(dggp2010)
+head(dggp2010)
+dggp2010 <- read.csv(file.path(path, "principales_cifras_2009_2010.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");
+head(dggp2010)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010 <- read.csv(file.path(path, "principales_cifras_2009_2010.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+dggp2010[, 2:ncol(dggp2010)] <- removePunct(dggp2010)#
+names(dggp2010) <- dggpNames
+z <- ts(matrix(rt(200 * 8, df = 3), 200, 8), start=c(1961, 1), frequency=12)
+z
+plot(z, yax.flip = TRUE)
+2004-2005#
+dggp2005 <- read.csv(file.path(path, "Principales_Cifras_2004_2005_2.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+names(dggp2005) <- dggpNames#
+dggp2005[, 2:ncol(dggp2005)] <- removePunct(dggp2005)
+head(dggp2005)
+dggp2004 <- read.csv(file.path(path, "Principales_Cifras_2004_2005_2.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+names(dggp2004) <- dggpNames#
+dggp2004[, 2:ncol(dggp2004)] <- removePunct(dggp2004)
+head(dggp2004)
+dggp2004 <- read.csv(file.path(path, "Principales_Cifras_2004_2005_2.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");
+head(dggp2004)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+2003-2004#
+dggp2004 <- read.csv(file.path(path, "Princcif2003_2004.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+names(dggp2004) <- dggpNames#
+dggp2004[, 2:ncol(dggp2004)] <- removePunct(dggp2004)
+head(dggp2004)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2003 <- read.csv(file.path(path, "publicacion2002_2003.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+names(dggp2003) <- dggpNames#
+dggp2003[, 2:ncol(dggp2003)] <- removePunct(dggp2003)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2003 <- read.csv(file.path(path, "publicacion2002_2003.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");
+head(dggp2003)
+names(dggp2003) <- c("state", "specializedTrainingStudents", "MAStudents", "PhDStudents", "students", "enteringStudents", "successulComplete", "graduate", "pctMen", "pctWomen",#
+	"faculty", "partTime", "fullTime", "Hourly", "schools", "institutions")
+head(dggp)
+head(dggp2003)
+dggp2003[, 2:ncol(dggp2003)] <- removePunct(dggp2003, ",")
+head(dggp)
+head(dggp2003)
+for(j in 2003:2010){#
+	get(paste("dgp", j, sep=""))#
+}
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+for(j in 2003:2010){#
+	get(paste("dggp", j, sep=""))#
+}
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+for(j in 2003:2010){#
+	print(get(paste("dggp", j, sep="")))#
+}
+dggp2010 <- read.csv(file.path(path, "principales_cifras_2009_2010.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");
+dggp2010
+dggp2009
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010 <- read.csv(file.path(path, "principales_cifras_2009_2010.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="utf-8");
+dggp2010$state
+dggp2010
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+P.168#
+dggp2010 <- read.csv(file.path(path, "principales_cifras_2009_2010.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="utf-8");#
+dggp2010[, 2:ncol(dggp2010)] <- removePunct(dggp2010)#
+names(dggp2010) <- dggpNames#
+timeDF$students <- timeDF$facult <- timeDF$schools <-rep(NA, nrow(timeDF))#
+#
+for(j in 2003:2010){#
+	get(paste("dggp", j, sep=""))$state#
+}
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+for(j in 2003:2010){#
+	print(get(paste("dggp", j, sep=""))$state)#
+}
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+for(j in 2003:2010){#
+	get(paste("dggp", j, sep=""))$iso <- countrycode(get(paste("dggp", j, sep=""))$state, "country.name", "iso3166_2")#
+}
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+countrycode(get(paste("dggp", j, sep=""))$state, "country.name", "iso3166_2")
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+get(paste("dggp", j, sep=""))$iso
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+get(paste("dggp", j, sep=""))$iso <- countrycode(get(paste("dggp", j, sep=""))$state, "country.name", "iso3166_2")
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+countrycode(get(paste("dggp", j, sep=""))$state, "country.name", "iso3166_2")
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+for(j in 2003:2010){#
+	get(paste("dggp", j, sep=""))[, "iso"] <- countrycode(get(paste("dggp", j, sep=""))$state, "country.name", "iso3166_2")#
+}
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+for(j in 2003:2010){#
+	get(paste("dggp", j, sep=""))[, "iso"] <- NA#
+	get(paste("dggp", j, sep=""))[, "iso"] <- countrycode(get(paste("dggp", j, sep=""))$state, "country.name", "iso3166_2")#
+}
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+for(j in 2003:2010){#
+	get(paste("dggp", j, sep=""))[, "iso"] <- NA#
+	#get(paste("dggp", j, sep=""))[, "iso"] <- countrycode(get(paste("dggp", j, sep=""))$state, "country.name", "iso3166_2")#
+}
+?assign
+edData <- list(dggp2003, dggp2004, dggp2005, dggp2006, dggp2007, dggp2008, dggp2009, dggp2010)
+for(j in i:length(edData)){#
+ 	edData[[j]]$iso<- countrycode(edData[[j]]$state, "country.name", "iso3166_2")
+}
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+for(j in 1:length(edData)){#
+ 	edData[[j]]$iso<- countrycode(edData[[j]]$state, "country.name", "iso3166_2")#
+}
+head(edData)
+head(edData)
+edData[[1]]
+edData[[10]]
+edData[[6]]
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+for(j in 2003:2010){#
+	for row in edData[[j]]{#
+		timeDF$students[timeDF$year==j & timeDF$iso==edData[[j]][row,"iso"]] <- edDataa[[j]][row, "students"] #
+	}#
+}
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+for(j in 2003:2010){#
+	for row in edData[[j]]{#
+		timeDF$students[timeDF$year==j & timeDF$iso==edData[[j]][row,"iso"] <- edDataa[[j]][row, "students"] #
+	}#
+}
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+for(j in 2003:2010){#
+	for (row in 1:nrow(edData[[j]]){#
+		timeDF$students[timeDF$year==j & timeDF$iso==edData[[j]][row,"iso"] <- edDataa[[j]][row, "students"] #
+	}#
+}
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+for(j in 2003:2010){#
+	for (row in 1:nrow(edData[[j]])){#
+		timeDF$students[timeDF$year==j & timeDF$iso==edData[[j]][row,"iso"] <- edDataa[[j]][row, "students"] #
+	}#
+}
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+for(j in 2003:2010){#
+	for (row in 1:nrow(edData[[j]])){#
+		#timeDF$students[timeDF$year==j & timeDF$iso==edData[[j]][row,"iso"] <- edDataa[[j]][row, "students"] #
+	}#
+}
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+year = 2003#
+for(j in 1:length(edData))){#
+	for (row in 1:nrow(edData[[j]])){#
+		#timeDF$students[timeDF$year==j & timeDF$iso==edData[[j]][row,"iso"] <- edDataa[[j]][row, "students"] #
+	}#
+}
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+for(j in 1:length(edData)){#
+	for (row in 1:nrow(edData[[j]])){#
+		#timeDF$students[timeDF$year==j & timeDF$iso==edData[[j]][row,"iso"] <- edDataa[[j]][row, "students"] #
+	}#
+}
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+year = 2003#
+for(j in 1:length(edData)){#
+	for (row in 1:nrow(edData[[j]])){#
+		timeDF$students[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"] <- edDataa[[j]][row, "students"] #
+	}#
+	year <- year + 1#
+}
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+year = 2003#
+for(j in 1:length(edData)){#
+	for (row in 1:nrow(edData[[j]])){#
+		timeDF$students[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edDataa[[j]][row, "students"] #
+	}#
+	year <- year + 1#
+}
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+year = 2003#
+for(j in 1:length(edData)){#
+	for (row in 1:nrow(edData[[j]])){#
+		timeDF$students[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edData[[j]][row, "students"] #
+	}#
+	year <- year + 1#
+}
+head(timeDF)
+head(timeDF,40)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+rm(list=ls())#
+library(devtools)#
+library(plyr)#
+path <- "/Users/aaronerlich/Library/R/2.15/TestPackages/countrycode"#
+#
+load_all(path, TRUE)#
+#
+uniEduc <- 	read.csv(file = "/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/rawData/EducationData/UniversityEducation.csv", header = TRUE, skip = 1, stringsAsFactors = FALSE,#
+	encoding="latin1")#
+#
+uniEduc$iso <- countrycode(uniEduc$estado, "country.name", "iso3166_2")#
+#
+#Data from TI#
+tiData <- read.csv("/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/rawData/TI/tiData.csv", header = TRUE, stringsAsFactors = FALSE, )#
+tiData$state[tiData$state == "Estado de Mexico"] <- "Mexico"#
+tiData <- tiData[order(tiData$state), ]#
+mean(as.vector(unlist(tiData[,3:6])))	#
+tiData$iso <- countrycode(tiData$state, "country.name", "iso3166_2")#
+stateSeq <- rep(seq(1995,2010), 32)#
+timeDF <- data.frame(year =stateSeq, state=rep(NA,length(stateSeq)))#
+#
+timeDF$iso <- sort(rep(countrycode(uniEduc$estado, "country.name", "iso3166_2"),length(seq(1995,2010))))#
+timeDF$state <- countrycode(timeDF$iso, "iso3166_2", "country.name")#
+#
+timeDF$year <- rep(seq(1995,2010), 32)#
+#
+timeDF$totEduc <- timeDF$menEduc <- timeDF$womEduc <-rep(NA, nrow(timeDF))#
+for(i in 1:nrow(uniEduc)){#
+	timeDF$totEduc[timeDF$year==2000 & timeDF$iso==uniEduc[i,"iso"]] <- uniEduc$tot2000[i] #
+	timeDF$totEduc[timeDF$year==2005 & timeDF$iso==uniEduc[i,"iso"]] <- uniEduc$tot2005[i] #
+	timeDF$menEduc[timeDF$year==2000 & timeDF$iso==uniEduc[i,"iso"]] <- uniEduc$men2000[i] #
+	timeDF$menEduc[timeDF$year==2005 & timeDF$iso==uniEduc[i,"iso"]] <- uniEduc$men2005[i] #
+	timeDF$womEduc[timeDF$year==2000 & timeDF$iso==uniEduc[i,"iso"]] <- uniEduc$wom2000[i] #
+	timeDF$womEduc[timeDF$year==2005 & timeDF$iso==uniEduc[i,"iso"]] <- uniEduc$wom2005[i] #
+}#
+#
+timeDF$ICBG <-rep(NA, nrow(timeDF))#
+for(i in 1:nrow(tiData)){#
+	timeDF$ICBG[timeDF$year==2001 & timeDF$iso==tiData[i,"iso"]] <- tiData$ICBG2001[i] 	#
+	timeDF$ICBG[timeDF$year==2003 & timeDF$iso==tiData[i,"iso"]] <- tiData$ICBG2003[i] #
+	timeDF$ICBG[timeDF$year==2005 & timeDF$iso==tiData[i,"iso"]] <- tiData$ICBG2005[i] #
+	timeDF$ICBG[timeDF$year==2007 & timeDF$iso==tiData[i,"iso"]] <- tiData$ICBG2007[i] #
+	timeDF$ICBG[timeDF$year==2010 & timeDF$iso==tiData[i,"iso"]] <- tiData$ICBG2010[i] #
+}#
+setwd("/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/rawData/Economic_Data")#
+#get total population data#
+tmp <- read.csv("inafed_bd_2000_POP.csv", skip =3, blank.lines.skip = TRUE, stringsAsFactors = FALSE, encoding="latin1")#
+tmp <- tmp[tmp$id_estado > 0 & tmp$id_municipio == 0 & !is.na(tmp$id_municipio) ,  ]#
+tmp$iso <- countrycode(tmp$estado, "country.name", "iso3166_2")#
+tmp$total#
+#
+tmp2005 <- read.csv("inafed_bd_2005_POP.csv", skip =3, blank.lines.skip = TRUE, stringsAsFactors = FALSE, encoding="latin1")#
+tmp2005 <- tmp2005[tmp2005$id_estado > 0 & tmp2005$id_municipio == 0 & !is.na(tmp2005$id_municipio) ,  ]#
+tmp2005$total#
+tmp2005$iso <- countrycode(tmp2005$estado, "country.name", "iso3166_2")#
+#
+timeDF$totalPop <-rep(NA, nrow(timeDF))#
+for(i in 1:nrow(tmp)){#
+	timeDF$totalPop[timeDF$year==2000 & timeDF$iso==tmp[i,"iso"]] <- tmp$total[i] 	#
+}#
+#
+for(i in 1:nrow(tmp2005)){#
+	timeDF$totalPop[timeDF$year==2005 & timeDF$iso==tmp2005[i,"iso"]] <- tmp2005$total[i] 	#
+}#
+#
+avgEduc <- read.csv("/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/rawData/EducationData/averageYearsofSchool.csv", header = TRUE, stringsAsFactors = FALSE, encoding="UTF-8")#
+avgEduc$iso <- countrycode(avgEduc$state,  "country.name", "iso3166_2")#
+#
+timeDF$avgEduc <- timeDF$illit <-rep(NA, nrow(timeDF))#
+for(i in 1:nrow(avgEduc)){#
+	for (j in 2:5){#
+		yr <- regmatches(names(avgEduc)[j],regexpr("[12][90][0-9][0-9]", names(avgEduc)[j]))#
+		timeDF$avgEduc[timeDF$year==yr & timeDF$iso==avgEduc[i,"iso"]] <- avgEduc[i, j] 		#
+	}#
+}#
+for(i in 1:nrow(avgEduc)){#
+	for (j in 7:11){#
+		yr <- regmatches(names(avgEduc)[j],regexpr("[12][90][0-9][0-9]", names(avgEduc)[j]))#
+		timeDF$illit[timeDF$year==yr & timeDF$iso==avgEduc[i,"iso"]] <- avgEduc[i, j] 		#
+	}#
+}#
+#
+path <- "/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/rawData/EducationData/DGPP"#
+dggpNames <- c("state", "students", "maleStudents", "femaleStudents", "specializedTrainingStudents", "MAStudents", "PhDStudents", "faculty", "schools", "institutions", "enteringStudents",#
+				"successulComplete", "graduate")#
+#
+removePunct <- function(df, punct = " "){#
+	apply(df[2:ncol(df)], 2, function(x)  as.numeric(gsub(punct, "", x)))#
+}#
+#
+##2002 -2003#
+dggp2003 <- read.csv(file.path(path, "publicacion2002_2003.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+names(dggp2003) <- c("state", "specializedTrainingStudents", "MAStudents", "PhDStudents", "students", "enteringStudents", "successulComplete", "graduate", "pctMen", "pctWomen",#
+	"faculty", "partTime", "fullTime", "Hourly", "schools", "institutions")#
+dggp2003[, 2:ncol(dggp2003)] <- removePunct(dggp2003, ",")#
+#
+##2003-2004#
+dggp2004 <- read.csv(file.path(path, "Princcif2003_2004.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+names(dggp2004) <- dggpNames#
+dggp2004[, 2:ncol(dggp2004)] <- removePunct(dggp2004)#
+#
+##2004-2005#
+dggp2005 <- read.csv(file.path(path, "Principales_Cifras_2004_2005_2.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+names(dggp2005) <- dggpNames#
+dggp2005[, 2:ncol(dggp2005)] <- removePunct(dggp2005)#
+#
+#http://www.dgpp.sep.gob.mx/estadistica.html#
+##2005-2006 #
+#Page 185#
+dggp2006 <- read.csv(file.path(path, "PRINCIPALES CIFRAS CICLO ESCOLAR 2005-2006_Grises.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+names(dggp2006) <- dggpNames#
+dggp2006[, 2:ncol(dggp2006)] <- removePunct(dggp2006)#
+#
+#2006-2007#
+dggp2007 <- read.csv(file.path(path, "Principales cifras 2006-2007 gris1.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+names(dggp2007) <- dggpNames#
+dggp2007[, 2:ncol(dggp2007)] <- removePunct(dggp2007)#
+#
+##2007-2008#
+#Page 185#
+dggp2008 <- read.csv(file.path(path, "Principales_cifras_2007_2008.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+dggp2008[, 2:ncol(dggp2008)] <- removePunct(dggp2008)#
+names(dggp2008) <- dggpNames#
+#
+#2008-2009 #
+#P.166#
+dggp2009 <- read.csv(file.path(path, "PrincipalesCIF2008-2009.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+dggp2009[, 2:ncol(dggp2009)] <- removePunct(dggp2009)#
+names(dggp2009) <- dggpNames#
+#
+#2009-2010#
+#P.168#
+dggp2010 <- read.csv(file.path(path, "principales_cifras_2009_2010.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="utf-8");#
+dggp2010[, 2:ncol(dggp2010)] <- removePunct(dggp2010)#
+names(dggp2010) <- dggpNames#
+timeDF$students <- timeDF$faculty <- timeDF$schools <-rep(NA, nrow(timeDF))#
+#
+edData <- list(dggp2003, dggp2004, dggp2005, dggp2006, dggp2007, dggp2008, dggp2009, dggp2010)#
+#
+for(j in 1:length(edData)){#
+ 	edData[[j]]$iso<- countrycode(edData[[j]]$state, "country.name", "iso3166_2")#
+}#
+#
+year = 2003#
+for(j in 1:length(edData)){#
+	for (row in 1:nrow(edData[[j]])){#
+		timeDF$students[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edData[[j]][row, "students"] #
+		timeDF$students[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edData[[j]][row, "faculty"] #
+		timeDF$students[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edData[[j]][row, "schools"] #
+	}#
+	year <- year + 1#
+}
+head(timeDF)
+head(timeDF,40)
+head(timeDF,40)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+year = 2003#
+for(j in 1:length(edData)){#
+	for (row in 1:nrow(edData[[j]])){#
+		timeDF$students[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edData[[j]][row, "students"] #
+		timeDF$faculty[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edData[[j]][row, "faculty"] #
+		timeDF$school[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edData[[j]][row, "schools"] #
+	}#
+	year <- year + 1#
+}
+head(timeDF,40)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010 <- read.csv(file.path(path, "principales_cifras_2009_2010.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="utf-8");
+head(dggp2010)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010[, 2:ncol(dggp2010)] <- removePunct(dggp2010)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+names(dggp2010) <- dggpNames
+head(dggp2010)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010 <- read.csv(file.path(path, "principales_cifras_2009_2010.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="utf-8");#
+dggp2010[, 2:ncol(dggp2010)] <- removePunct(dggp2010)#
+names(dggp2010) <- dggpNames
+head(dggp2010)
+rm(dggp2010)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010 <- read.csv(file.path(path, "principales_cifras_2009_2010.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="utf-8");
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010 <- read.csv(file.path(path, "principales_cifras_2009_2010.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="utf-8");#
+dggp2010[, 2:ncol(dggp2010)] <- removePunct(dggp2010)
+head(dggp2010)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010[, 2:ncol(dggp2010)] <- removePunct(dggp2010)#
+names(dggp2010) <- dggpNames
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010$state <- dggp2009$state
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010 <- read.csv(file.path(path, "principales_cifras_2009_2010.csv"), header = FALSE, stringsAsFactors = FALSE, encoding="utf-8")#
+dggp2010$state <- dggp2009$state
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010[, 2:ncol(dggp2010)] <- removePunct(dggp2010)#
+names(dggp2010) <- dggpNames
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010 <- read.csv(file.path(path, "principales_cifras_2009_2010.csv"), header = FALSE, stringsAsFactors = FALSE, encoding="utf-8")#
+dggp2010$state <- dggp2009$state
+head(dggp)
+head(dggp2010)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010 <- dggp2010[, c("state", dggp[,1:ncol(dggp)-1]]
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010[, c("state", dggp[,1:ncol(dggp)-1]]
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010[, c("state", dggp[,1:ncol(dggp)-1])]
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010[, c("state", dggp[,1:ncol(dggp2010)-1])]
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010[, c("state", dggp2010[,1:ncol(dggp2010)-1])]
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010[, c("state", names(dggp2010)[1:ncol(dggp2010)-1])
+]
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010 <- dggp2010[, c("state", names(dggp2010)[1:ncol(dggp2010)-1]]
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010 <- dggp2010[, c("state", names(dggp2010)[1:ncol(dggp2010)-1]
+]
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010 <- dggp2010[, c("state", names(dggp2010)[1:ncol(dggp2010)-1])]
+head(dggp2010)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010[, 2:ncol(dggp2010)] <- removePunct(dggp2010)]
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010[, 2:ncol(dggp2010)] <- removePunct(dggp2010)]
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+dggp2010[, 2:ncol(dggp2010)] <- removePunct(dggp2010)#
+names(dggp2010) <- dggpNames
+head(dggpNames)
+dggp2010
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+for(j in 1:length(edData)){#
+ 	edData[[j]]$iso<- countrycode(edData[[j]]$state, "country.name", "iso3166_2")#
+}#
+#
+year = 2003#
+for(j in 1:length(edData)){#
+	for (row in 1:nrow(edData[[j]])){#
+		timeDF$students[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edData[[j]][row, "students"] #
+		timeDF$faculty[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edData[[j]][row, "faculty"] #
+		timeDF$school[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edData[[j]][row, "schools"] #
+	}#
+	year <- year + 1#
+}
+head(timeDF)
+head(timeDF,40)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+timeDF$students <- timeDF$faculty <- timeDF$schools <-rep(NA, nrow(timeDF))#
+#
+edData <- list(dggp2003, dggp2004, dggp2005, dggp2006, dggp2007, dggp2008, dggp2009, dggp2010)#
+#
+for(j in 1:length(edData)){#
+ 	edData[[j]]$iso<- countrycode(edData[[j]]$state, "country.name", "iso3166_2")#
+}#
+#
+year = 2003#
+for(j in 1:length(edData)){#
+	for (row in 1:nrow(edData[[j]])){#
+		timeDF$students[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edData[[j]][row, "students"] #
+		timeDF$faculty[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edData[[j]][row, "faculty"] #
+		timeDF$school[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edData[[j]][row, "schools"] #
+	}#
+	year <- year + 1#
+}
+head(timeDF,40)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+xyplot( students ~ year | state, data=timeDF ,type ="l")
+library(lattic)
+library(lattice)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+xyplot( students ~ year | state, data=timeDF ,type ="l")
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+xyplot( students ~ year | state, data=timeDF ,panel=panel.lines)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+xyplot( students ~ year | state, data=timeDF ,layout = c(1))
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+xyplot( students ~ year | state, data=timeDF ,layout = c(1,2))
+DF <- data.frame(Date = Sys.Date() + c(1:4, 1:4), Symbol = #
+rep(LETTERS[1:2], each = 4), Price = 1:8)
+head(DF)
+library(zoo) #
+z <- read.zoo(DF, split = 2)
+On Sat, Jan 22, 2011 at 12:46 PM, Nick Torenvliet #
+<[hidden email]> wrote:#
+#
+> Hi all, #
+> #
+> I've got an xts time series of stock symbols and closing prices. #
+> #
+>> head(x) #
+>           symbol close #
+> 2010-01-04 "AFB"  "13.46" #
+> 2010-01-04 "AKP"  "12.80" #
+> 2010-01-04 "APX"  " 8.78" #
+> 2010-01-04 "AYN"  "13.15" #
+> 2010-01-04 "BAF"  "13.50" #
+> 2010-01-04 "BBF"  "12.86" #
+>> tail(x) #
+>           symbol close #
+> 2011-01-21 "VMO"  "12.35" #
+> 2011-01-21 "VOQ"  "13.77" #
+> 2011-01-21 "VPV"  "11.97" #
+> 2011-01-21 "VTJ"  "14.74" #
+> 2011-01-21 "VTN"  "13.16" #
+> 2011-01-21 "XAA"  "12.82" #
+> #
+>> is.xts(x) #
+> [1] TRUE #
+> #
+> I've made the symbols a factor #
+> #
+>> head(xFactor) #
+> symbol   <NA>   <NA>   <NA>   <NA>   <NA> #
+>   AFB    AKP    APX    AYN    BAF    BBF #
+> 154 Levels: AFB AKP APX AYN BAF BBF BBK BFK BFO BFZ BIE BJZ BKK BKN BLH ... #
+> XAA #
+>#
+... [show rest of quote]#
+#
+read.zoo has a split argument.  Assume we have a data frame with Date, #
+Symbol and Price columns. Then: #
+#
+DF <- data.frame(Date = Sys.Date() + c(1:4, 1:4), Symbol = #
+rep(LETTERS[1:2], each = 4), Price = 1:8) #
+#
+library(zoo) #
+z <- read.zoo(DF, split = 2) #
+plot(z, screen = 1)
+DF
+z
+zdf
+zdf <- read.zoo(timeDF, split = 1)
+zdf
+?read.zoo
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+zdf <- read.zoo(timeDF, split = "state")
+zdf
+zdf <- read.zoo(timeDF, split = "state")
+?plot.zoo
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+plot.zoo(zdf)
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+library(ggplot2)#
+ggplot(timeDF,aes(x=year,y=students,colour=state,group=state)) + geom_line()
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+ggplot(timeDF[,timeDF$year >2002],aes(x=year,y=students,colour=state,group=state)) + geom_line()
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+ggplot(timeDF[timeDF$year >2002,],aes(x=year,y=students,colour=iso,group=is)) + geom_line()
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+ggplot(timeDF[timeDF$year >2002,],aes(x=year,y=students,colour=iso,group=iso)) + geom_line()
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+ggplot(timeDF[timeDF$year >2002,],aes(x=year,y=faculty,colour=iso,group=iso)) + geom_line()
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+ggplot(timeDF[timeDF$year >2002,],aes(x=year,y=schools,colour=iso,group=iso)) + geom_line()
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+ggplot(timeDF[timeDF$year >2002,],aes(x=year,y=schools,colour=iso,group=iso)) + geom_line()
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+year = 2003#
+for(j in 1:length(edData)){#
+	for (row in 1:nrow(edData[[j]])){#
+		timeDF$students[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edData[[j]][row, "students"] #
+		timeDF$faculty[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edData[[j]][row, "faculty"] #
+		timeDF$schools[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edData[[j]][row, "schools"] #
+	}#
+	year <- year + 1#
+}#
+#
+library(ggplot2)#
+ggplot(timeDF[timeDF$year >2002,],aes(x=year,y=students,colour=iso,group=iso)) + geom_line()#
+ggplot(timeDF[timeDF$year >2002,],aes(x=year,y=faculty,colour=iso,group=iso)) + geom_line()#
+ggplot(timeDF[timeDF$year >2002,],aes(x=year,y=schools,colour=iso,group=iso)) + geom_line()
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+rm(list=ls())#
+library(devtools)#
+library(plyr)#
+path <- "/Users/aaronerlich/Library/R/2.15/TestPackages/countrycode"#
+#
+load_all(path, TRUE)#
+#
+uniEduc <- 	read.csv(file = "/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/rawData/EducationData/UniversityEducation.csv", header = TRUE, skip = 1, stringsAsFactors = FALSE,#
+	encoding="latin1")#
+#
+uniEduc$iso <- countrycode(uniEduc$estado, "country.name", "iso3166_2")#
+#
+#Data from TI#
+tiData <- read.csv("/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/rawData/TI/tiData.csv", header = TRUE, stringsAsFactors = FALSE, )#
+tiData$state[tiData$state == "Estado de Mexico"] <- "Mexico"#
+tiData <- tiData[order(tiData$state), ]#
+mean(as.vector(unlist(tiData[,3:6])))	#
+tiData$iso <- countrycode(tiData$state, "country.name", "iso3166_2")#
+stateSeq <- rep(seq(1995,2010), 32)#
+timeDF <- data.frame(year =stateSeq, state=rep(NA,length(stateSeq)))#
+#
+timeDF$iso <- sort(rep(countrycode(uniEduc$estado, "country.name", "iso3166_2"),length(seq(1995,2010))))#
+timeDF$state <- countrycode(timeDF$iso, "iso3166_2", "country.name")#
+#
+timeDF$year <- rep(seq(1995,2010), 32)#
+#
+timeDF$totEduc <- timeDF$menEduc <- timeDF$womEduc <-rep(NA, nrow(timeDF))#
+for(i in 1:nrow(uniEduc)){#
+	timeDF$totEduc[timeDF$year==2000 & timeDF$iso==uniEduc[i,"iso"]] <- uniEduc$tot2000[i] #
+	timeDF$totEduc[timeDF$year==2005 & timeDF$iso==uniEduc[i,"iso"]] <- uniEduc$tot2005[i] #
+	timeDF$menEduc[timeDF$year==2000 & timeDF$iso==uniEduc[i,"iso"]] <- uniEduc$men2000[i] #
+	timeDF$menEduc[timeDF$year==2005 & timeDF$iso==uniEduc[i,"iso"]] <- uniEduc$men2005[i] #
+	timeDF$womEduc[timeDF$year==2000 & timeDF$iso==uniEduc[i,"iso"]] <- uniEduc$wom2000[i] #
+	timeDF$womEduc[timeDF$year==2005 & timeDF$iso==uniEduc[i,"iso"]] <- uniEduc$wom2005[i] #
+}#
+#
+timeDF$ICBG <-rep(NA, nrow(timeDF))#
+for(i in 1:nrow(tiData)){#
+	timeDF$ICBG[timeDF$year==2001 & timeDF$iso==tiData[i,"iso"]] <- tiData$ICBG2001[i] 	#
+	timeDF$ICBG[timeDF$year==2003 & timeDF$iso==tiData[i,"iso"]] <- tiData$ICBG2003[i] #
+	timeDF$ICBG[timeDF$year==2005 & timeDF$iso==tiData[i,"iso"]] <- tiData$ICBG2005[i] #
+	timeDF$ICBG[timeDF$year==2007 & timeDF$iso==tiData[i,"iso"]] <- tiData$ICBG2007[i] #
+	timeDF$ICBG[timeDF$year==2010 & timeDF$iso==tiData[i,"iso"]] <- tiData$ICBG2010[i] #
+}#
+setwd("/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/rawData/Economic_Data")#
+#get total population data#
+tmp <- read.csv("inafed_bd_2000_POP.csv", skip =3, blank.lines.skip = TRUE, stringsAsFactors = FALSE, encoding="latin1")#
+tmp <- tmp[tmp$id_estado > 0 & tmp$id_municipio == 0 & !is.na(tmp$id_municipio) ,  ]#
+tmp$iso <- countrycode(tmp$estado, "country.name", "iso3166_2")#
+tmp$total#
+#
+tmp2005 <- read.csv("inafed_bd_2005_POP.csv", skip =3, blank.lines.skip = TRUE, stringsAsFactors = FALSE, encoding="latin1")#
+tmp2005 <- tmp2005[tmp2005$id_estado > 0 & tmp2005$id_municipio == 0 & !is.na(tmp2005$id_municipio) ,  ]#
+tmp2005$total#
+tmp2005$iso <- countrycode(tmp2005$estado, "country.name", "iso3166_2")#
+#
+timeDF$totalPop <-rep(NA, nrow(timeDF))#
+for(i in 1:nrow(tmp)){#
+	timeDF$totalPop[timeDF$year==2000 & timeDF$iso==tmp[i,"iso"]] <- tmp$total[i] 	#
+}#
+#
+for(i in 1:nrow(tmp2005)){#
+	timeDF$totalPop[timeDF$year==2005 & timeDF$iso==tmp2005[i,"iso"]] <- tmp2005$total[i] 	#
+}#
+#
+avgEduc <- read.csv("/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/rawData/EducationData/averageYearsofSchool.csv", header = TRUE, stringsAsFactors = FALSE, encoding="UTF-8")#
+avgEduc$iso <- countrycode(avgEduc$state,  "country.name", "iso3166_2")#
+#
+timeDF$avgEduc <- timeDF$illit <-rep(NA, nrow(timeDF))#
+for(i in 1:nrow(avgEduc)){#
+	for (j in 2:5){#
+		yr <- regmatches(names(avgEduc)[j],regexpr("[12][90][0-9][0-9]", names(avgEduc)[j]))#
+		timeDF$avgEduc[timeDF$year==yr & timeDF$iso==avgEduc[i,"iso"]] <- avgEduc[i, j] 		#
+	}#
+}#
+for(i in 1:nrow(avgEduc)){#
+	for (j in 7:11){#
+		yr <- regmatches(names(avgEduc)[j],regexpr("[12][90][0-9][0-9]", names(avgEduc)[j]))#
+		timeDF$illit[timeDF$year==yr & timeDF$iso==avgEduc[i,"iso"]] <- avgEduc[i, j] 		#
+	}#
+}#
+#
+path <- "/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/rawData/EducationData/DGPP"#
+dggpNames <- c("state", "students", "maleStudents", "femaleStudents", "specializedTrainingStudents", "MAStudents", "PhDStudents", "faculty", "schools", "institutions", "enteringStudents",#
+				"successulComplete", "graduate")#
+#
+removePunct <- function(df, punct = " "){#
+	apply(df[2:ncol(df)], 2, function(x)  as.numeric(gsub(punct, "", x)))#
+}#
+#
+##2002 -2003#
+dggp2003 <- read.csv(file.path(path, "publicacion2002_2003.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+names(dggp2003) <- c("state", "specializedTrainingStudents", "MAStudents", "PhDStudents", "students", "enteringStudents", "successulComplete", "graduate", "pctMen", "pctWomen",#
+	"faculty", "partTime", "fullTime", "Hourly", "schools", "institutions")#
+dggp2003[, 2:ncol(dggp2003)] <- removePunct(dggp2003, ",")#
+#
+##2003-2004#
+dggp2004 <- read.csv(file.path(path, "Princcif2003_2004.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+names(dggp2004) <- dggpNames#
+dggp2004[, 2:ncol(dggp2004)] <- removePunct(dggp2004)#
+#
+##2004-2005#
+dggp2005 <- read.csv(file.path(path, "Principales_Cifras_2004_2005_2.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+names(dggp2005) <- dggpNames#
+dggp2005[, 2:ncol(dggp2005)] <- removePunct(dggp2005)#
+#
+#http://www.dgpp.sep.gob.mx/estadistica.html#
+##2005-2006 #
+#Page 185#
+dggp2006 <- read.csv(file.path(path, "PRINCIPALES CIFRAS CICLO ESCOLAR 2005-2006_Grises.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+names(dggp2006) <- dggpNames#
+dggp2006[, 2:ncol(dggp2006)] <- removePunct(dggp2006)#
+#
+#2006-2007#
+dggp2007 <- read.csv(file.path(path, "Principales cifras 2006-2007 gris1.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+names(dggp2007) <- dggpNames#
+dggp2007[, 2:ncol(dggp2007)] <- removePunct(dggp2007)#
+#
+##2007-2008#
+#Page 185#
+dggp2008 <- read.csv(file.path(path, "Principales_cifras_2007_2008.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+dggp2008[, 2:ncol(dggp2008)] <- removePunct(dggp2008)#
+names(dggp2008) <- dggpNames#
+#
+#2008-2009 #
+#P.166#
+dggp2009 <- read.csv(file.path(path, "PrincipalesCIF2008-2009.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="latin1");#
+dggp2009[, 2:ncol(dggp2009)] <- removePunct(dggp2009)#
+names(dggp2009) <- dggpNames#
+#
+#2009-2010#
+#P.168#
+dggp2010 <- read.csv(file.path(path, "principales_cifras_2009_2010.csv"), header = FALSE, stringsAsFactors = FALSE, encoding="utf-8")#
+dggp2010$state <- dggp2009$state#
+dggp2010 <- dggp2010[, c("state", names(dggp2010)[1:ncol(dggp2010)-1])]#
+dggp2010[, 2:ncol(dggp2010)] <- removePunct(dggp2010)#
+names(dggp2010) <- dggpNames#
+timeDF$students <- timeDF$faculty <- timeDF$schools <-rep(NA, nrow(timeDF))#
+#
+edData <- list(dggp2003, dggp2004, dggp2005, dggp2006, dggp2007, dggp2008, dggp2009, dggp2010)#
+#
+for(j in 1:length(edData)){#
+ 	edData[[j]]$iso<- countrycode(edData[[j]]$state, "country.name", "iso3166_2")#
+}#
+#
+year = 2003#
+for(j in 1:length(edData)){#
+	for (row in 1:nrow(edData[[j]])){#
+		timeDF$students[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edData[[j]][row, "students"] #
+		timeDF$faculty[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edData[[j]][row, "faculty"] #
+		timeDF$schools[timeDF$year==year & timeDF$iso==edData[[j]][row,"iso"]] <- edData[[j]][row, "schools"] #
+	}#
+	year <- year + 1#
+}#
+#
+library(ggplot2)#
+ggplot(timeDF[timeDF$year >2002,],aes(x=year,y=students,colour=iso,group=iso)) + geom_line()#
+ggplot(timeDF[timeDF$year >2002,],aes(x=year,y=faculty,colour=iso,group=iso)) + geom_line()#
+ggplot(timeDF[timeDF$year >2002,],aes(x=year,y=schools,colour=iso,group=iso)) + geom_line()#
+#
+#http://www.cefp.gob.mx/intr/bancosdeinformacion/estatales/indicadores_socioeconomicos/is001.xls#
+#numbers from census and population count with inter census estimates#
+cefpPop <- read.csv(file.path("/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/rawData/PopulationData", "is001_ae.csv"), header = TRUE, stringsAsFactors = FALSE, encoding="UTF-8")#
+cefpPop$iso <- countrycode(cefpPop$Entidad,  "country.name", "iso3166_2")#
+for(i in 1:nrow(cefpPop)){#
+	for (j in 7:ncol(cefpPop)){#
+		yr <- regmatches(names(cefpPop)[j],regexpr("[12][90][0-9][0-9]", names(cefpPop)[j]))#
+		timeDF$cefpPop[timeDF$year==yr & timeDF$iso==cefpPop[i,"iso"]] <- cefpPop[i, j] 		#
+	}#
+}#
+#
+makeTimeVarying <- function(dataFrameIn, datFrameOut, newVarName, startCol=2, endCol = nrow(dataFrameIn)) {#
+	for(i in 1:nrow(dataFrameIn)){#
+		for (j in startCol:endCol){#
+			#print(names(dataFrameIn)[j])#
+			yr <- as.numeric(regmatches(names(dataFrameIn)[j],regexpr("[12][90][0-9][0-9]", names(dataFrameIn)[j])))#
+			#print(yr)#
+			datFrameOut[datFrameOut$year==yr & datFrameOut$iso==dataFrameIn[i,"iso"], newVarName] <- dataFrameIn[i, j] 		#
+		}#
+	}#
+	return(datFrameOut)#
+}#
+#page 43#
+#page 43 in volume#
+#PIB en Miles de Pesos a Precios Corrientes en Valores Básicos#
+#1993-2000#
+pibe00 <- read.csv(file.path("/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/rawData/Economic_Data/PIB", "PIBE2000_currentprices.csv"), header=TRUE, stringsAsFactors=FALSE,#
+	encoding="latin1")#
+pibe00[2:ncol(pibe00)] <- apply(pibe00[2:ncol(pibe00)], 2, function(x)  as.numeric(gsub(",", "", x)))#
+pibe00$iso <- countrycode(pibe00$Entidad.Federativa,  "country.name", "iso3166_2")#
+timeDF <- makeTimeVarying(pibe00, timeDF, "gdpReal", 2, ncol(pibe00)-1)#
+#page 43 in volume#
+#PIB en Miles de Pesos a Precios Corrientes en Valores Básicos#
+#1997-2002#
+pibe02 <- read.csv(file.path("/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/rawData/Economic_Data/PIB", "pibef97_02_currentprices.csv"), header=TRUE, stringsAsFactors=FALSE,#
+	encoding="latin1")#
+pibe02[2:ncol(pibe02)] <- apply(pibe02[2:ncol(pibe02)], 2, function(x)  as.numeric(gsub(" *", "", x)))#
+pibe02 <- pibe02[2:nrow(pibe02), ] #
+pibe02$iso <- countrycode(pibe02$Entidad.Federativa,  "country.name", "iso3166_2")#
+timeDF <- makeTimeVarying(pibe02, timeDF, "gdpReal", 2, ncol(pibe02)-1)#
+#
+#page 43 in volume#
+#PIB en Miles de Pesos a Precios Corrientes en Valores Básicos#
+#1999-2004#
+pibe1 <- read.csv(file.path("/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/rawData/Economic_Data/PIB", "PIBE2004_currentprices.csv"), header=TRUE, stringsAsFactors=FALSE)#
+#
+pibe1[2:ncol(pibe1)] <- apply(pibe1[2:ncol(pibe1)], 2, function(x)  as.numeric(gsub(" *", "", x)))#
+pibe1 <- pibe1[2:nrow(pibe1), ]#
+pibe1$iso <- countrycode(pibe1$Entidad.Federativa,  "country.name", "iso3166_2")#
+timeDF <- makeTimeVarying(pibe1, timeDF, "gdpReal", 2, ncol(pibe1)-1)#
+#
+#PIB en Millones de Pesos a Precios Corrientes en Valores Básicos	#
+#2003-2007#
+pibe2 <- read.csv(file.path("/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/rawData/Economic_Data/PIB", "PIBE2007_currentprices.csv"), header=TRUE, stringsAsFactors=FALSE)#
+pibe2[2:ncol(pibe2)] <- apply(pibe2[2:ncol(pibe2)], 2, function(x)  as.numeric(gsub(" *", "", x)))*1000#
+pibe2 <- pibe2[2:nrow(pibe2), ] #
+pibe2$iso <- countrycode(pibe1$Entidad.Federativa,  "country.name", "iso3166_2")#
+timeDF <- makeTimeVarying(pibe2, timeDF, "gdpReal", 2, ncol(pibe2)-1)#
+#
+#PIB en valores básicos de la actividad económica total, por entidad federativa #
+#they moved back to thousands of pesos#
+#2006-2010#
+pibe10 <- read.csv(file.path("/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/rawData/Economic_Data/PIB", "PIBE2010_currentprices.csv"), header=TRUE, stringsAsFactors=FALSE,#
+	encoding="latin1")#
+pibe10 <- pibe10[2:nrow(pibe10), ] #
+pibe10[2:ncol(pibe10)] <- apply(pibe10[2:ncol(pibe10)], 2, function(x)  as.numeric(gsub(" *", "", x)))#
+pibe10$iso <- countrycode(pibe10$Entidad.Federativa,  "country.name", "iso3166_2")#
+timeDF <- makeTimeVarying(pibe10, timeDF, "gdpReal", 2, ncol(pibe10)-1)#
+#
+#http://imfstatext.imf.org/WBOS-query/ModalQueryManager2.aspx?Random=0.7669474007561803, http://imfstatext.imf.org/WBOS-query/ModalQueryManager2.aspx?#
+imfDeflator <- read.csv(file.path("/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/rawData/Economic_Data/IMF", "IMF_deflator.csv"), stringsAsFactors=FALSE, header=TRUE)#
+imfDeflator2 <- imfDeflator[imfDeflator$Country.and.Group=="Mexico" & imfDeflator$Unit.Of.Measure == "Index 2005=100 Seasonally Adjusted", 0:(ncol(imfDeflator)-1)]#
+names(imfDeflator2)[6] = "year"#
+names(imfDeflator2)[7] = "deflator2005Index"#
+#
+seasonalAdjust <- imfDeflator[imfDeflator$Country.and.Group=="Mexico" & #
+	imfDeflator$Unit.Of.Measure == "Percent Change over Corresponding Period of Previous Year", ]#
+seasonalAdjust <- seasonalAdjust[, c("Time", "Value")]#
+names(seasonalAdjust) <- c("year", "pctChangeDeflator")#
+#
+imfDeflator2 <- join(imfDeflator2, seasonalAdjust, by = "year", type ="left")#
+#
+timeDF <- join(timeDF, imfDeflator2[, c("year", "deflator2005Index", "pctChangeDeflator")], by =c("year"), type ="left")#
+#
+timeDF$deflator1Factor <- timeDF$deflator2005Index/100#
+timeDF$gdpReal <- as.numeric(timeDF$gdpReal)#
+timeDF$gdpNominal2005 <- timeDF$gdpReal/timeDF$deflator1Factor#
+beer <- read.csv("/Volumes/Optibay-1TB/Data/Beer_Caroline/ISQciv_news.csv", header = TRUE, stringsAsFactors=FALSE)#
+#
+beer$iso <- countrycode(beer$state, "beerMex", "iso3166_2")#
+#
+timeDF <- join(timeDF, beer[, names(beer)[2:8]], by =c("year", "iso"), type ="left")#
+#
+#write.csv(sort(unique(beer$state)), "/Volumes/Optibay-1TB/Data/Beer_Caroline/beerStateCodes.csv")#
+#
+write.csv(timeDF, file.path("/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/foiDataset", "foiDatasetLongV2.csv"))
+setwd('/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/RCode')
+library(ggplot2)#
+pdf(file = file.path("/Volumes/Optibay-1TB/Dropbox/FOI_Mexico/Plots", "educationDataPlots"))#
+ggplot(timeDF[timeDF$year >2002,],aes(x=year,y=students,colour=iso,group=iso)) + geom_line()#
+ggplot(timeDF[timeDF$year >2002,],aes(x=year,y=faculty,colour=iso,group=iso)) + geom_line()#
+ggplot(timeDF[timeDF$year >2002,],aes(x=year,y=schools,colour=iso,group=iso)) + geom_line()#
+dev.off()
+ln(-9)
+log(-9)
+log(9)
+setwd('/Volumes/Optibay-1TB/Dropbox/Content_Wilker/Content_Analysis/Code')
+for(i in 1:nrow(bills))	{#
+	write(bills[i,1], file = paste(i, "bill.txt", sep=""))#
+	print(paste("bill", i))#
+}
+setwd('/Volumes/Optibay-1TB/Dropbox/Content_Wilker/Content_Analysis/Code')
+library(ReadMe)
+setwd('/Volumes/Optibay-1TB/Dropbox/Content_Wilker/Content_Analysis/Code')
+setwd(file.path('/Volumes/Optibay-1TB/Dropbox/Content_Wilker/LatexSlides/4_readMe',#
+		'billTexts'))
+setwd('/Volumes/Optibay-1TB/Dropbox/Content_Wilker/Content_Analysis/Code')
+for(i in 1:nrow(bills))	{#
+	write(bills[i,1], file = paste(i, "bill.txt", sep=""))#
+	print(paste("bill", i))#
+}
+setwd('/Volumes/Optibay-1TB/Dropbox/Content_Wilker/Content_Analysis/Code')
+bills <- read.csv('/Volumes/Optibay-1TB/Dropbox/Content_Wilker/LatexSlides/4_readMe/ReadmeforAaron.csv',#
+	stringsAsFactors=FALSE, header=FALSE)
+setwd('/Volumes/Optibay-1TB/Dropbox/Content_Wilker/Content_Analysis/Code')
+write out the files one per text document#
+for(i in 1:nrow(bills))	{#
+	write(bills[i,1], file = paste(i, "bill.txt", sep=""))#
+	print(paste("bill", i))#
+}
+len(bills)
+length(bills)
+nrow(bills)
+bills$ROWID <- paste(seq(1:nrow(bills)), "bill.txt")#
+#
+names(bills)[2] <- "TRUTH"#
+names(bills)[3] <- "TRAININGSET"#
+names(bills)[4] <- "SUBID"
+head(bills)
