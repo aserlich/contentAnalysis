@@ -1,0 +1,40 @@
+<bill session="103" type="s" number="2459" updated="2012-07-17T05:52:34-04:00">
+	<state datetime="1994-09-23">REFERRED</state>
+	<status><introduced datetime="1994-09-23"/></status>
+
+	<introduced datetime="1994-09-23"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide a 1-year extension of the applicability of the authority to transfer funds under the programs for block grants regarding mental health and substance abuse.</title>
+	</titles>
+	<sponsor id="300057"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="1994-09-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-23" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="5094" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Block grants"/>
+		<term name="Drug abuse"/>
+		<term name="Economics and public finance"/>
+		<term name="Federal aid to alcoholism programs"/>
+		<term name="Federal aid to health facilities"/>
+		<term name="Mental health services"/>
+		<term name="Treatment and rehabilitation of narcotic addicts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/23/1994--Introduced.
+Amends the Public Health Service Act to provide a one-year extension of the applicability to mental health and substance abuse block grant programs of specified provisions regarding transfers between allotments.
+
+	</summary>
+</bill>

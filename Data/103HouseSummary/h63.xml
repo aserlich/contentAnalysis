@@ -1,0 +1,82 @@
+<bill session="103" type="h" number="63" updated="2012-07-17T05:17:01-04:00">
+	<state datetime="1993-08-04">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-08-04" /></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Spring Mountains National Recreation Area Act</title>
+		<title type="short" as="passed house">Spring Mountains National Recreation Area Act</title>
+		<title type="short" as="passed senate">Spring Mountains National Recreation Area Act</title>
+		<title type="short" as="enacted">Spring Mountains National Recreation Area Act</title>
+		<title type="official" as="introduced">To establish the Spring Mountains National Recreation Area in Nevada, and for other purposes.</title>
+	</titles>
+	<sponsor id="401446"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-01-26"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-02-09"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from USDA.</text></action>
+		<action datetime="1993-03-02"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-03-31"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-03-31"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-04-20T12:02:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-59.</text></action>
+		<calendar number="28" datetime="1993-04-20T12:03:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 28.</text></calendar>
+		<action datetime="1993-04-20T13:31:00-04:00"><text>Mr. Vento moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-04-20T13:32:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1915-1917"/></action>
+		<action datetime="1993-04-20T13:32:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-04-20T13:37:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-04-20T13:37:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-04-21"><text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-04-22"><committee name="House Committee on Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1993-04-26"><committee name="House Committee on Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of Agriculture, and Office of Management and Budget.</text></action>
+		<action datetime="1993-05-06"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee on Public Lands, National Parks. Hearings held.</text></action>
+		<calendar datetime="1993-05-26" ><committee name="House Committee on Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1993-06-22"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments. With written report No. 103-63.</text></action>
+		<calendar under="General Orders" number="101" datetime="1993-06-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 101.</text></calendar>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-06-29" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with amendments by Voice Vote.</text><reference label="consideration" ref="CR S8272"/></vote>
+		<action datetime="1993-07-01"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-07-26T13:41:00-04:00"><text>Mr. Vento moved that the House suspend the rules and agree to the Senate amendments.</text></action>
+		<action datetime="1993-07-26T13:41:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="pingpong" datetime="1993-07-26T13:48:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.</text><reference label="consideration" ref="CR H5094-5096"/></vote>
+		<action datetime="1993-07-26T13:48:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-07-26" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-07-30" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-08-04" ><text>Signed by President.</text></signed>
+		<enacted number="103-63" type="public" datetime="1993-08-04"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-63.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Recreation"/>
+		<term name="Energy policy"/>
+		<term name="Fishing"/>
+		<term name="Geothermal resources"/>
+		<term name="Hunting"/>
+		<term name="Land transfers"/>
+		<term name="Mines and mineral resources"/>
+		<term name="Mining leases"/>
+		<term name="National forests"/>
+		<term name="National recreation areas"/>
+		<term name="Nevada"/>
+		<term name="Trapping"/>
+		<term name="Wilderness areas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/29/1993--Passed Senate amended. Spring Mountains National Recreation Area Act - Establishes the Spring Mountains National Recreation Area in Nevada. Requires the Secretary of Agriculture to develop a general management plan for the Area as an amendment to the Toiyabe National Forest Land and Resource Management Plan. Requires inclusion in the plan of any Bureau of Land Management recommendations as to the suitability or nonsuitability of specified lands within the Areas for preservation as wilderness. Directs the Secretary, acting through the Chief of the Forest Service, to manage the lands and waters within the wilderness study areas to maintain their potential for inclusion within the National Wilderness Preservation System, pending submission of such recommendation and until otherwise directed by an Act of the Congress. Authorizes the Secretary to acquire lands and interests within the boundaries of the Area by donation, purchase with donated or appropriated funds, exchange, or transfer from another Federal agency, except that such lands or interests owned by the State of Nevada or a political subdivision may be acquired only by donation or exchange. Withdraws all Federal lands within the Area from public land and mining laws (including mineral and geothermal leasing). Authorizes appropriations.
+
+	</summary>
+</bill>

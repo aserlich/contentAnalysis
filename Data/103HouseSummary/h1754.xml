@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="1754" updated="2010-04-19T03:45:25-04:00">
+	<state datetime="1993-04-21">REFERRED</state>
+	<status><introduced datetime="1993-04-21"/></status>
+
+	<introduced datetime="1993-04-21"/>
+	<titles>
+		<title type="short" as="introduced">Election Day Registration Act of 1993</title>
+		<title type="official" as="introduced">To amend the Federal Election Campaign Act of 1971 to provide for election day registration for elections for Federal office, and for other purposes.</title>
+	</titles>
+	<sponsor id="408618"/>
+	<cosponsors>
+		<cosponsor id="401494" joined="1993-04-27"/>
+		<cosponsor id="400170" joined="1993-04-21"/>
+		<cosponsor id="400424" joined="1993-05-06"/>
+		<cosponsor id="400306" joined="1993-06-24"/>
+		<cosponsor id="400409" joined="1993-04-27"/>
+		<cosponsor id="400354" joined="1993-04-21"/>
+		<cosponsor id="400502" joined="1993-04-27"/>
+		<cosponsor id="407672" joined="1993-06-17"/>
+		<cosponsor id="409966" joined="1993-05-06" withdrawn="1993-06-16"/>
+		<cosponsor id="410407" joined="1993-04-21"/>
+		<cosponsor id="404139" joined="1993-04-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-21"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-04-22"><text>Sponsor introductory remarks on measure. (CR E1015-1016)</text></action>
+		<action datetime="1993-04-28"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Elections.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="HSHA-08" name="House Administration" subcommittee="Elections" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Elections"/>
+		<term name="Congressional elections"/>
+		<term name="Election Day"/>
+		<term name="Presidential elections"/>
+		<term name="Voter registration"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/21/1993--Introduced.
+Election Day Registration Act of 1993 - Amends the Federal Election Campaign Act of 1971 to provide for election day polling place registration for Federal elections.
+
+	</summary>
+</bill>

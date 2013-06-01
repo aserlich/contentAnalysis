@@ -1,0 +1,51 @@
+<bill session="103" type="s" number="519" updated="2012-07-17T05:37:09-04:00">
+	<state datetime="1993-03-05">REFERRED</state>
+	<status><introduced datetime="1993-03-05"/></status>
+
+	<introduced datetime="1993-03-05"/>
+	<titles>
+		<title type="official" as="introduced">A bill to reduce Federal budget deficits by prohibiting further funding of the Trident II ballistic missile program.</title>
+	</titles>
+	<sponsor id="402004"/>
+	<cosponsors>
+		<cosponsor id="403346" joined="1993-05-12"/>
+		<cosponsor id="409580" joined="1993-03-05"/>
+		<cosponsor id="400557" joined="1993-04-22"/>
+		<cosponsor id="300037" joined="1993-11-22"/>
+		<cosponsor id="411818" joined="1993-08-05"/>
+		<cosponsor id="300061" joined="1993-04-22"/>
+		<cosponsor id="300031" joined="1993-04-22"/>
+		<cosponsor id="300026" joined="1993-07-13"/>
+		<cosponsor id="300064" joined="1993-11-22"/>
+		<cosponsor id="300042" joined="1993-03-09"/>
+		<cosponsor id="300051" joined="1993-06-29"/>
+		<cosponsor id="300057" joined="1993-05-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-05" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2490-2492)</text></action>
+		<action datetime="1993-03-05" state="REFERRED"><text>Read twice and referred to the Committee on Appropriations.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAP" name="Senate Appropriations" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Appropriations"/>
+		<term name="Ballistic missiles"/>
+		<term name="Budget deficits"/>
+		<term name="Defense budgets"/>
+		<term name="Government spending reductions"/>
+		<term name="Nuclear submarines"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/5/1993--Introduced.
+Prohibits funds appropriated after enactment of this Act for the Department of Defense from being obligated or expended for the Trident II ballistic missile program, with the exception of a maximum specified sum solely for termination of the program.
+
+	</summary>
+</bill>

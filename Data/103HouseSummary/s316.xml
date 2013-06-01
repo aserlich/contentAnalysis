@@ -1,0 +1,85 @@
+<bill session="103" type="s" number="316" updated="2012-07-17T05:51:39-04:00">
+	<state datetime="1994-10-14">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-14" /></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Saguaro National Monument Protection Act of 1993</title>
+		<title type="short" as="reported to senate">Saguaro National Park Establishment Act of 1994</title>
+		<title type="short" as="passed senate">Saguaro National Park Establishment Act of 1994</title>
+		<title type="short" as="enacted">Saguaro National Park Establishment Act of 1994</title>
+		<title type="official" as="introduced">A bill to expand the boundaries of the Saguaro National Monument, and for other purposes.</title>
+		<title type="official" as="amended by senate">An Act to establish the Saguaro National Park in the State of Arizona, and for other purposes.</title>
+	</titles>
+	<sponsor id="403346"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1394)</text></action>
+		<action datetime="1993-02-04" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-02-05"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1993-03-09"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1993-04-22" state="REPORTED"><text>Sponsor introductory remarks on measure. (CR S4861)</text></action>
+		<action datetime="1993-11-08" state="REFERRED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1993-11-08"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1993-11-18"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed: S.Hrg. 103-539.</text></action>
+		<calendar datetime="1994-05-11"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-05-25"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment in the nature of a substitute and an amendment to the title. With written report No. 103-270.</text></action>
+		<calendar under="General Orders" number="441" datetime="1994-05-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 441.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-06-16" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text><reference label="consideration" ref="CR S7094"/></vote>
+		<action datetime="1994-06-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-06-21T12:07:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-06-21"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-08-04"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Hearings Held by the Subcommittee on National Parks, Forests and Public Lands Prior to Referral.</text></action>
+		<action datetime="1994-08-30"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28" ><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T20:28:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 103-815.</text></action>
+		<calendar number="460" datetime="1994-10-03T20:29:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 460.</text></calendar>
+		<action datetime="1994-10-03T20:30:00-04:00"><text>Mr. Vento moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-10-03T20:32:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-03T20:32:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10666-10668"/></action>
+		<vote how="by voice vote" type="vote2" datetime="1994-10-03T20:34:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-03T20:34:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-10-03" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-10-06" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-14" ><text>Signed by President.</text></signed>
+		<enacted number="103-364" type="public" datetime="1994-10-14"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-364.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1826" />
+		<bill relation="unknown" session="103" type="h" number="1826" />
+	</relatedbills>
+	<subjects>
+		<term name="Monuments and memorials"/>
+		<term name="Arizona"/>
+		<term name="Commemorations"/>
+		<term name="Desert ecology"/>
+		<term name="Deserts"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Environmental protection"/>
+		<term name="Geothermal resources"/>
+		<term name="Land transfers"/>
+		<term name="Mines and mineral resources"/>
+		<term name="Mining leases"/>
+		<term name="National monuments"/>
+		<term name="National parks"/>
+		<term name="Public lands and natural resources"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/16/1994--Passed Senate amended. Saguaro National Park Establishment Act of 1994 - Establishes the Saguaro National Park in Arizona. Abolishes the Saguaro National Monument and incorporates all of its lands and interest into the Park. Deems any reference to the Monument to be a reference to the Park. Modifies the boundaries of the Park to include additional lands. Authorizes the Secretary of the Interior to acquire lands and interests within the additional lands only with the owner's consent unless the lands are being developed in a manner which is detrimental to the Park's integrity. Withdraws Federal lands within the Park from public land, U.S. mining, and all related mineral, geothermal leasing, and mineral materials laws. Authorizes appropriations.
+
+	</summary>
+</bill>

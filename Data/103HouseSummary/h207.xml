@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="207" updated="2010-04-18T23:32:09-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">Entitled the &quot;Former Presidential Enough Is Enough and Taxpayers Relief Act of 1991&quot;.</title>
+	</titles>
+	<sponsor id="405939"/>
+	<cosponsors>
+		<cosponsor id="408839" joined="1993-08-04"/>
+		<cosponsor id="407351" joined="1993-05-06"/>
+		<cosponsor id="400504" joined="1993-03-31"/>
+		<cosponsor id="400520" joined="1993-09-13"/>
+		<cosponsor id="412001" joined="1993-04-21"/>
+		<cosponsor id="400269" joined="1993-07-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Presidents"/>
+		<term name="Ex-presidents"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Presidential compensation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Prohibits the total annual Government expenditures for the care of a former President, excepting Secret Service protection, from exceeding ten times the poverty level income for one family of four.
+
+	</summary>
+</bill>

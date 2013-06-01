@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="74" updated="2010-04-18T23:11:29-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Health Payor Forms Simplification Act of 1993</title>
+		<title type="official" as="introduced">To provide for the simplification of health payor forms.</title>
+	</titles>
+	<sponsor id="405507"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Sponsor introductory remarks on measure. (CR E52)</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-12"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Government paperwork"/>
+		<term name="Health insurance"/>
+		<term name="Insurance companies"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Health Payor Forms Simplification Act of 1993 - Mandates development of simple and uniform model forms for consumers and health care providers.
+
+	</summary>
+</bill>

@@ -1,0 +1,63 @@
+<bill session="103" type="s" number="1126" updated="2012-07-17T06:07:12-04:00">
+	<state datetime="1993-10-06">REPORTED</state>
+	<status><calendar datetime="1993-10-06" /></status>
+
+	<introduced datetime="1993-06-17"/>
+	<titles>
+		<title type="short" as="introduced">Atlantic Coastal Fisheries Cooperative Management Act</title>
+		<title type="short" as="reported to senate">Atlantic Coastal Fisheries Cooperative Management Act</title>
+		<title type="official" as="introduced">A bill to improve the conservation and management of interjurisdictional fisheries along the Atlantic coast by providing for greater cooperation among the States in implementing conservation and management programs, and for other purposes.</title>
+	</titles>
+	<sponsor id="300053"/>
+	<cosponsors>
+		<cosponsor id="300060" joined="1993-06-17"/>
+		<cosponsor id="300086" joined="1993-06-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-17" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S7511)</text></action>
+		<action datetime="1993-06-17" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<calendar datetime="1993-10-06"  state="REPORTED"><committee name="Committee on Commerce"/><text>Committee on Commerce. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1993-11-20"><text>Committee on Commerce. Reported to Senate by Senator Hollings with an amendment in the nature of a substitute. With written report No. 103-201.</text></action>
+		<calendar under="General Orders" number="328" datetime="1993-11-20" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 328.</text></calendar>
+		<action datetime="1993-11-24"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S17231"/></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2134" />
+		<bill relation="unknown" session="103" type="h" number="2150" />
+	</relatedbills>
+	<subjects>
+		<term name="Fisheries"/>
+		<term name="Agriculture and food"/>
+		<term name="Anadromous fishes"/>
+		<term name="Animals"/>
+		<term name="Aquaculture"/>
+		<term name="Atlantic Coast (U.S.)"/>
+		<term name="Environmental protection"/>
+		<term name="Federal-state relations"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Fishery management"/>
+		<term name="Fishing boats"/>
+		<term name="Forfeiture"/>
+		<term name="Government operations and politics"/>
+		<term name="Gulf States"/>
+		<term name="Interstate compacts"/>
+		<term name="Interstate relations"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Pacific States (U.S.)"/>
+		<term name="Research"/>
+		<term name="Science, technology, communications"/>
+		<term name="Seizure of vessels and cargoes"/>
+		<term name="Territorial waters"/>
+		<term name="Transportation and public works"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Reported to Senate amended. Atlantic Coastal Fisheries Cooperative Management Act - Defines various terms as used in this Act, including defining: (1) the &quot;exclusive economic zone&quot; to extend 200 miles outward from the baseline from which the territorial sea is measured; (2) &quot;fishing&quot; to exclude scientific research or the catching, taking, or harvesting of fish in an aquaculture operation; and (3) &quot;State&quot; to mean Maine, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, North Carolina, South Carolina, Georgia, Florida, the District of Columbia, or the Potomac River Fisheries Commission. (Sec. 4) Mandates a program to support the interstate fishery management efforts of the Atlantic States Marine Commission. Authorizes (in the absence of an approved and implemented fishery management plan under the Magnuson Fishery Conservation and Management Act) the Secretary of Commerce to implement regulations to govern fishing in the exclusive economic zone that are necessary for implementation of a coastal fishery management plan and consistent with national standards under the Magnuson Act. Applies specified provisions of the Magnuson Act to those regulations. (Sec. 5) Requires the Commission to adopt coastal fishery management plans to provide for the conservation and management of coastal fishery resources. Requires States identified by the Commission to implement and enforce the plan under a time schedule set by the Commission. Mandates a moratorium on fishing in the fishery in question in the waters of a noncomplying State, prohibiting fishing, possession, transportation, sale, resistance to boarding and inspection, and related acts. Imposes penalties, including forfeiture of vessels and fish. (Sec. 8) Authorizes financial assistance to the Commission and the States to carry out their responsibilities under this Act. (Sec. 9) Authorizes appropriations to carry out this Act (Sec. 10) Repeals a provision of the Atlantic Striped Bass Conservation Act terminating the effectiveness of that Act on a specified date. (Sec. 11) Authorizes appropriations to support the Atlantic States Marine Fisheries Compact, the Pacific Marine Fisheries Compact, and the Gulf States Marine Fisheries Compact in developing interstate fishery management plans for interjurisdictional fishery resources.
+
+	</summary>
+</bill>

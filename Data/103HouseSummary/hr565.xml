@@ -1,0 +1,45 @@
+<bill session="103" type="hr" number="565" updated="2010-04-19T14:26:56-04:00">
+	<state datetime="1994-10-06T12:57:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-10-06T12:57:00-04:00" where="h" result="pass" how="roll" roll="493"/></status>
+
+	<introduced datetime="1994-10-04"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (S. 455) to amend title 31, United States Code, to increase Federal payments to units of general local government for entitlement lands, and for other purposes.</title>
+	</titles>
+	<sponsor id="400155"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-04T20:00:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-830, by Mr. Gordon.</text></action>
+		<action datetime="1994-10-04T20:00:00-04:00"><text>Rule provides for consideration of S. 455 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be read by section. Specified amendments are in order. No amendment shall be in order except those printed in the report accompanying this resolution, if offered in the order and manner specified. Said amendments shall not be subject to amendment except as specified in the report. All points of order against the amendments shall be waived.</text></action>
+		<calendar datetime="1994-10-04T20:01:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 241.</text></calendar>
+		<action datetime="1994-10-05T19:08:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H10946-10951"/></action>
+		<action datetime="1994-10-05T19:09:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1994-10-05T19:43:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<action datetime="1994-10-05T19:44:00-04:00"><text>POSTPONED VOTE - After ordering the previous question, the Chair put the question on agreeing to the resolution and by voice vote declared that the ayes had prevailed. Mr. Vento demanded the yeas and nays on the question and the yeas and nays were ordered. Pursuant to the provisions of clause 5 of Rule I, the Chair postponed further proceedings on the resolution.</text></action>
+		<action datetime="1994-10-06T12:33:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H11009-11010"/></action>
+		<vote how="roll" type="vote" roll="493" datetime="1994-10-06T12:57:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 384 - 28 (Roll no. 493).</text></vote>
+		<action datetime="1994-10-06T12:57:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="455" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congress"/>
+		<term name="House rules and procedure"/>
+		<term name="Public lands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/4/1994--Introduced.
+Sets forth the rule for the consideration of S. 455 (Federal payments to local governments for entitlement lands).
+
+	</summary>
+</bill>

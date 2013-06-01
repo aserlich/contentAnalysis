@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="2636" updated="2010-04-19T06:02:29-04:00">
+	<state datetime="1993-07-14">REFERRED</state>
+	<status><introduced datetime="1993-07-14"/></status>
+
+	<introduced datetime="1993-07-14"/>
+	<titles>
+		<title type="short" as="introduced">Commissions on Regulatory Reform Act of 1993</title>
+		<title type="official" as="introduced">To direct the Director of the Office of Management and Budget to establish commissions to review regulations issued by certain Federal departments and agencies.</title>
+	</titles>
+	<sponsor id="300097"/>
+	<cosponsors>
+		<cosponsor id="412001" joined="1993-07-14"/>
+		<cosponsor id="409633" joined="1993-07-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-14"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-07-16"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Administrative procedure"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Department of Labor"/>
+		<term name="Economic impact statements"/>
+		<term name="Environmental Protection Agency"/>
+		<term name="Environmental protection"/>
+		<term name="Executive departments"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Government regulation"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Occupational health and safety"/>
+		<term name="Office of Management and Budget"/>
+		<term name="Public assistance programs"/>
+		<term name="Regulatory impact statements"/>
+		<term name="Regulatory reform"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/14/1993--Introduced.
+Commissions on Regulatory Reform Act of 1993 - Requires the Director of the Office of Management and Budget to establish five commissions to review the regulations issued by the: (1) Environmental Protection Agency; (2) the Occupational Health and Safety Administration; (3) the Health Care Financing Administration; and (4) two Federal agencies selected by the Director. Establishes standards for such review.
+
+	</summary>
+</bill>

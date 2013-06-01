@@ -1,0 +1,63 @@
+<bill session="103" type="h" number="1755" updated="2010-04-19T03:45:34-04:00">
+	<state datetime="1993-04-21">REFERRED</state>
+	<status><introduced datetime="1993-04-21"/></status>
+
+	<introduced datetime="1993-04-21"/>
+	<titles>
+		<title type="short" as="introduced">Fair Elections Act of 1993</title>
+		<title type="official" as="introduced">To enforce the guarantees of the first, fourteenth, and fifteenth amendments to the Constitution of the United States by prohibiting certain devices used to deny the right to participate in certain elections.</title>
+	</titles>
+	<sponsor id="408618"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-06-14"/>
+		<cosponsor id="400080" joined="1993-06-17"/>
+		<cosponsor id="401494" joined="1993-04-27"/>
+		<cosponsor id="400170" joined="1993-04-21"/>
+		<cosponsor id="400885" joined="1993-08-06"/>
+		<cosponsor id="400161" joined="1993-07-13"/>
+		<cosponsor id="400306" joined="1993-06-24"/>
+		<cosponsor id="400409" joined="1993-04-27"/>
+		<cosponsor id="404869" joined="1993-04-21"/>
+		<cosponsor id="400316" joined="1993-09-23"/>
+		<cosponsor id="407672" joined="1993-06-17"/>
+		<cosponsor id="400269" joined="1993-08-02"/>
+		<cosponsor id="400649" joined="1993-06-24"/>
+		<cosponsor id="409966" joined="1993-05-06"/>
+		<cosponsor id="404139" joined="1993-04-27"/>
+		<cosponsor id="400314" joined="1993-10-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-21"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-04-22"><text>Sponsor introductory remarks on measure. (CR E1015-1016)</text></action>
+		<action datetime="1993-04-28"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Elections.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="HSHA-08" name="House Administration" subcommittee="Elections" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Elections"/>
+		<term name="Administrative procedure"/>
+		<term name="Ballots"/>
+		<term name="Congressional candidates"/>
+		<term name="Congressional elections"/>
+		<term name="Department of Justice"/>
+		<term name="Election administration"/>
+		<term name="Political parties"/>
+		<term name="Presidential candidates"/>
+		<term name="Presidential elections"/>
+		<term name="Third parties (U.S. politics)"/>
+		<term name="Voting"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/21/1993--Introduced.
+Fair Elections Act of 1993 - Sets forth ballot access rights for Federal elections.
+
+	</summary>
+</bill>

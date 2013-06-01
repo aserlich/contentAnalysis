@@ -1,0 +1,39 @@
+<bill session="103" type="sr" number="101" updated="2010-04-19T22:15:07-04:00">
+	<state datetime="1993-05-11">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-05-11" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-04-28"/>
+	<titles>
+		<title type="official" as="introduced">A resolution authorizing printing additional copies of Senate hearing titled &quot;Nomination of Judge Clarence Thomas to be Associate Justice of the Supreme Court of the United States&quot;.</title>
+	</titles>
+	<sponsor id="300008"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="1993-04-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-28"><text>Referred to the Committee on Rules.</text></action>
+		<action datetime="1993-05-11"><text>Senate Committee on Rules discharged by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-05-11" where="s" result="pass"  state="PASSED:SIMPLERES"><text>Resolution agreed to in Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S5746"/></vote>
+	</actions>
+	<committees>
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Senate"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Congressional hearings"/>
+		<term name="Congressional publications"/>
+		<term name="Supreme Court nominations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/28/1993--Introduced.
+Authorizes the printing of additional copies of the Senate hearing entitled, &quot;Nomination of Judge Clarence Thomas to be Associate Justice of the Supreme Court of the United States,&quot; for the use of the Committee on the Judiciary.
+
+	</summary>
+</bill>

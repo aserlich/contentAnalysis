@@ -1,0 +1,62 @@
+<bill session="103" type="sc" number="14" updated="2010-04-19T21:13:15-04:00">
+	<state datetime="1993-06-09">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-06-09" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-03-09"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution welcoming the XLVI Congress of the Interallied Confederation of Reserve Officers (CIOR), commending the Department of Defense and the Reserve Officers Association of the United States for hosting the XLVI Congress of the CIOR, and urging other departments and agencies of the Federal Government to cooperate with and assist the XLVI Congress of the CIOR to carry out its activities and programs.</title>
+	</titles>
+	<sponsor id="300157"/>
+	<cosponsors>
+		<cosponsor id="300053" joined="1993-03-09"/>
+		<cosponsor id="300071" joined="1993-03-09"/>
+		<cosponsor id="300092" joined="1993-03-09"/>
+		<cosponsor id="300057" joined="1993-03-16"/>
+		<cosponsor id="403346" joined="1993-03-16"/>
+		<cosponsor id="300023" joined="1993-03-09"/>
+		<cosponsor id="402727" joined="1993-03-16"/>
+		<cosponsor id="403515" joined="1993-03-09"/>
+		<cosponsor id="300069" joined="1993-03-09"/>
+		<cosponsor id="300155" joined="1993-03-09"/>
+		<cosponsor id="300099" joined="1993-03-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-09"><text>Sponsor introductory remarks on measure. (CR S2561)</text></action>
+		<action datetime="1993-03-09"><text>Referred to the Committee on Armed Services.</text></action>
+		<calendar datetime="1993-05-19"  state="REPORTED"><committee name="Committee on Armed Services"/><text>Committee on Armed Services. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-05-19"><text>Committee on Armed Services. Reported to Senate by Senator Thurmond without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="66" datetime="1993-05-19" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 66.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-06-09" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text><reference label="consideration" ref="CR S7041"/></vote>
+		<action datetime="1993-06-10T10:28:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-06-10"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-06-10"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-06-14"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-06-14"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1993-07-16"><committee name="House Committee on Armed Services"/><text>Favorable Executive Comment Received from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAS" name="Senate Armed Services" activity="Referral, Markup, Reporting" />
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hc" number="67" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Armed forces reserves"/>
+		<term name="Commemorations"/>
+		<term name="Conferences"/>
+		<term name="Congressional tributes"/>
+		<term name="NATO countries"/>
+		<term name="NATO military forces"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/9/1993--Introduced.
+Welcomes the Interallied Confederation of Reserve Officers (an association of reserve officers representing nations of the North Atlantic Treaty Organization) to the United States for its XLVI Congress at Washington, D.C., during August 1993. Urges and commends efforts of the Department of Defense, the U.S. Reserve Officers Association, and all Federal departments and agencies in hosting such Congress and carrying out appropriate activities and programs.
+
+	</summary>
+</bill>

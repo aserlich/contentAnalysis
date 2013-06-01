@@ -1,0 +1,57 @@
+<bill session="103" type="h" number="4456" updated="2010-04-19T10:45:41-04:00">
+	<state datetime="1994-05-19">REFERRED</state>
+	<status><introduced datetime="1994-05-19"/></status>
+
+	<introduced datetime="1994-05-19"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 10, United States Code, to give a priority to the States for the transfer of nonlethal excess supplies of the Department of Defense.</title>
+	</titles>
+	<sponsor id="400201"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1994-10-03"/>
+		<cosponsor id="400424" joined="1994-10-03"/>
+		<cosponsor id="400306" joined="1994-10-04"/>
+		<cosponsor id="400143" joined="1994-10-03"/>
+		<cosponsor id="400107" joined="1994-10-03"/>
+		<cosponsor id="408476" joined="1994-10-03"/>
+		<cosponsor id="400240" joined="1994-10-03"/>
+		<cosponsor id="405258" joined="1994-10-03"/>
+		<cosponsor id="400516" joined="1994-10-03"/>
+		<cosponsor id="300058" joined="1994-10-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-19"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-06-01"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+		<action datetime="1994-06-01"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-06" name="House Armed Services" subcommittee="Oversight and Investigations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="American economic assistance"/>
+		<term name="Defense policy"/>
+		<term name="Disaster relief"/>
+		<term name="Emergency management"/>
+		<term name="Federal-local relations"/>
+		<term name="Federal-state relations"/>
+		<term name="Foreign aid"/>
+		<term name="International relief"/>
+		<term name="Military and naval supplies"/>
+		<term name="State and local government"/>
+		<term name="Surplus government property"/>
+		<term name="Weapons systems"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/19/1994--Introduced.
+Requires nonlethal excess supplies of the Department of Defense to be made available to States before being made available for humanitarian relief purposes.
+
+	</summary>
+</bill>

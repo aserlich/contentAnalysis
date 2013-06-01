@@ -1,0 +1,66 @@
+<bill session="103" type="h" number="1067" updated="2010-04-19T01:54:12-04:00">
+	<state datetime="1993-02-23">REFERRED</state>
+	<status><introduced datetime="1993-02-23"/></status>
+
+	<introduced datetime="1993-02-23"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Immigration and Nationality Act to require a report by the Federal Bureau of Investigation on the criminal record for aliens who are residing in the United States and who apply to immigrate to the United States.</title>
+	</titles>
+	<sponsor id="400401"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="1993-03-04"/>
+		<cosponsor id="410147" joined="1993-03-04"/>
+		<cosponsor id="400510" joined="1993-07-14"/>
+		<cosponsor id="407320" joined="1993-03-02"/>
+		<cosponsor id="400113" joined="1993-03-02"/>
+		<cosponsor id="400267" joined="1993-03-11"/>
+		<cosponsor id="400091" joined="1993-03-02"/>
+		<cosponsor id="404587" joined="1993-03-24"/>
+		<cosponsor id="400574" joined="1993-03-04"/>
+		<cosponsor id="400176" joined="1993-03-31"/>
+		<cosponsor id="400307" joined="1993-03-02"/>
+		<cosponsor id="400365" joined="1993-02-24"/>
+		<cosponsor id="400192" joined="1993-03-02"/>
+		<cosponsor id="411725" joined="1993-03-18"/>
+		<cosponsor id="405758" joined="1993-03-17"/>
+		<cosponsor id="403545" joined="1993-03-11"/>
+		<cosponsor id="400502" joined="1993-03-17"/>
+		<cosponsor id="400144" joined="1993-02-24"/>
+		<cosponsor id="406343" joined="1993-03-16"/>
+		<cosponsor id="406729" joined="1993-04-21"/>
+		<cosponsor id="400343" joined="1993-03-11"/>
+		<cosponsor id="400083" joined="1993-03-24"/>
+		<cosponsor id="400568" joined="1993-04-26"/>
+		<cosponsor id="400601" joined="1993-02-24"/>
+		<cosponsor id="407669" joined="1993-03-17"/>
+		<cosponsor id="411997" joined="1993-03-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-08-06"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1994-02-23"><committee name="House Committee on Judiciary" subcommittee="International Law, Immigration, and Refugees"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Administrative fees"/>
+		<term name="Aliens"/>
+		<term name="Criminal justice information"/>
+		<term name="Government paperwork"/>
+		<term name="Visas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1993--Introduced.
+Amends the Immigration and Nationality Act to require a criminal record report for certain aliens residing in the United States who apply for immigrant status.
+
+	</summary>
+</bill>

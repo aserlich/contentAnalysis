@@ -1,0 +1,47 @@
+<bill session="103" type="sj" number="34" updated="2012-07-17T04:29:40-04:00">
+	<state datetime="1993-01-28">REFERRED</state>
+	<status><introduced datetime="1993-01-28"/></status>
+
+	<introduced datetime="1993-01-28"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution proposing a constitutional amendment to limit congressional terms.</title>
+	</titles>
+	<sponsor id="401874"/>
+	<cosponsors>
+		<cosponsor id="409923" joined="1993-06-30"/>
+		<cosponsor id="300079" joined="1994-02-25"/>
+		<cosponsor id="300029" joined="1993-06-24"/>
+		<cosponsor id="400562" joined="1993-06-24"/>
+		<cosponsor id="406256" joined="1993-06-24"/>
+		<cosponsor id="300015" joined="1993-06-24"/>
+		<cosponsor id="408420" joined="1993-06-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-28" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S932)</text></action>
+		<action datetime="1993-01-28" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-02-04"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Constitution.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Constitution" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional candidates"/>
+		<term name="Congressional terms of office"/>
+		<term name="Constitutional amendments"/>
+		<term name="Referendum"/>
+		<term name="State laws"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/1993--Introduced.
+Constitutional Amendment - Limits Members of the Senate to two consecutive terms and Members of the House of Representatives to six consecutive terms. Authorizes each State to enact, by its legislature or by ballot initiative, additional restrictions and regulations on qualified candidates for the Congress.
+
+	</summary>
+</bill>

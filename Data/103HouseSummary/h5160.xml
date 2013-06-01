@@ -1,0 +1,36 @@
+<bill session="103" type="h" number="5160" updated="2010-04-19T12:35:35-04:00">
+	<state datetime="1994-10-03">REFERRED</state>
+	<status><introduced datetime="1994-10-03"/></status>
+
+	<introduced datetime="1994-10-03"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Oscar Salas-Velazquez.</title>
+	</titles>
+	<sponsor id="400332"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-03"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-10-20"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Immigration"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Introduced.
+Prohibits the Attorney General from disapproving a named individual's petition for classification as an immediate relative, or application for adjustment of status to that of an alien lawfully admitted for permanent residence, on the grounds that his marriage to a named individual was entered into in order to evade U.S. immigration laws.
+
+	</summary>
+</bill>

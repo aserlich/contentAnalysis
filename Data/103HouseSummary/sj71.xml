@@ -1,0 +1,76 @@
+<bill session="103" type="sj" number="71" updated="2012-07-17T04:59:11-04:00">
+	<state datetime="1993-06-16">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-06-16" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-03-25"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution to designate June 5, 1993, as &quot;National Trails Day&quot;.</title>
+	</titles>
+	<sponsor id="401874"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-04-02"/>
+		<cosponsor id="300150" joined="1993-05-18"/>
+		<cosponsor id="300052" joined="1993-05-18"/>
+		<cosponsor id="300056" joined="1993-06-10"/>
+		<cosponsor id="400559" joined="1993-06-09"/>
+		<cosponsor id="409225" joined="1993-04-02"/>
+		<cosponsor id="400564" joined="1994-05-19"/>
+		<cosponsor id="300066" joined="1993-04-27"/>
+		<cosponsor id="300036" joined="1993-04-02"/>
+		<cosponsor id="300086" joined="1993-06-10"/>
+		<cosponsor id="300026" joined="1993-05-18"/>
+		<cosponsor id="407663" joined="1993-05-18"/>
+		<cosponsor id="403142" joined="1993-05-18"/>
+		<cosponsor id="409923" joined="1993-06-10"/>
+		<cosponsor id="402675" joined="1993-04-02"/>
+		<cosponsor id="300037" joined="1993-05-18"/>
+		<cosponsor id="300067" joined="1993-05-18"/>
+		<cosponsor id="300061" joined="1993-05-18"/>
+		<cosponsor id="403968" joined="1993-06-09"/>
+		<cosponsor id="403515" joined="1993-05-18"/>
+		<cosponsor id="300029" joined="1993-04-27"/>
+		<cosponsor id="300079" joined="1993-05-18"/>
+		<cosponsor id="300017" joined="1993-04-02"/>
+		<cosponsor id="300057" joined="1993-04-27"/>
+		<cosponsor id="300084" joined="1993-06-10"/>
+		<cosponsor id="403669" joined="1993-06-10"/>
+		<cosponsor id="408898" joined="1993-04-02"/>
+		<cosponsor id="403346" joined="1993-06-10"/>
+		<cosponsor id="402412" joined="1993-06-10"/>
+		<cosponsor id="300023" joined="1993-04-02"/>
+		<cosponsor id="400565" joined="1993-06-10"/>
+		<cosponsor id="406188" joined="1993-06-10"/>
+		<cosponsor id="407992" joined="1993-06-10"/>
+		<cosponsor id="405310" joined="1993-05-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-25" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-06-16"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S7394"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-06-16" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment and with a preamble by Voice Vote.</text></vote>
+		<action datetime="1993-06-17T10:02:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-06-17"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-06-17"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="186" />
+		<bill relation="unknown" session="103" type="hj" number="186" />
+		<bill relation="identical" session="103" type="sj" number="64" />
+	</relatedbills>
+	<subjects>
+		<term name="Special days"/>
+		<term name="Commemorations"/>
+		<term name="Trails"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/25/1993--Introduced.
+Designates June 5, 1993, as National Trails Day.
+
+	</summary>
+</bill>

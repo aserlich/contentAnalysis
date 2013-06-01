@@ -1,0 +1,44 @@
+<bill session="103" type="s" number="2338" updated="2012-07-17T06:04:44-04:00">
+	<state datetime="1994-07-29">REFERRED</state>
+	<status><introduced datetime="1994-07-29"/></status>
+
+	<introduced datetime="1994-07-29"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide that for taxable years beginning before 1980 the Federal income tax deductibility of flight training expenses shall be determined without regard to whether such expenses were reimbursed through certain veterans educational assistance allowances.</title>
+	</titles>
+	<sponsor id="401874"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-29" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S10143-10144)</text></action>
+		<action datetime="1994-07-29" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+		<action datetime="1994-08-01"><text>Sponsor introductory remarks on measure. (CR S10231)</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="642" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Armed forces and national security"/>
+		<term name="Costs"/>
+		<term name="Education"/>
+		<term name="Flight training"/>
+		<term name="Higher education"/>
+		<term name="Tax deductions"/>
+		<term name="Taxation"/>
+		<term name="Transportation and public works"/>
+		<term name="Veterans' education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/29/1994--Introduced.
+Requires that, for pre-1980 tax years, the Federal income tax deductibility of flight training expenses be determined without considering whether the taxpayer received reimbursement through veterans' educational programs.
+
+	</summary>
+</bill>

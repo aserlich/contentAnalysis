@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="2506" updated="2010-04-19T05:42:16-04:00">
+	<state datetime="1993-06-23">REFERRED</state>
+	<status><introduced datetime="1993-06-23"/></status>
+
+	<introduced datetime="1993-06-23"/>
+	<titles>
+		<title type="official" as="introduced">To suspend temporarily the duty on photographic gelatin.</title>
+	</titles>
+	<sponsor id="408976"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-23"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-06-24"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1994-01-14"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Photographic film"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/23/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1994, the duty on photographic gelatin.
+
+	</summary>
+</bill>

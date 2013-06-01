@@ -1,0 +1,72 @@
+<bill session="103" type="h" number="3886" updated="2012-07-17T05:21:52-04:00">
+	<state datetime="1994-03-21T12:57:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-03-21T12:57:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-02-23"/>
+	<titles>
+		<title type="official" as="introduced">To amend the boundaries of the Flower Garden Banks National Marine Sanctuary.</title>
+	</titles>
+	<sponsor id="400302"/>
+	<cosponsors>
+		<cosponsor id="404068" joined="1994-03-16"/>
+		<cosponsor id="406625" joined="1994-03-16"/>
+		<cosponsor id="400428" joined="1994-03-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-23" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E217)</text></action>
+		<action datetime="1994-02-23" state="REFERRED"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1994-02-25"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Oceanography, Gulf of Mexico, and the Outer Continental Shelf.</text></action>
+		<action datetime="1994-02-25"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Commerce.</text></action>
+		<action datetime="1994-03-10"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Oceanography, Gulf of Mexico, and the Outer Continental Shelf"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-03-10"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Oceanography, Gulf of Mexico, and the Outer Continental Shelf"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1994-03-16"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-03-16"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-03-21T12:42:00-05:00"><text>Reported by the Committee on Merchant Marine and Fisheries. H. Rept. 103-441.</text></action>
+		<calendar number="244" datetime="1994-03-21T12:42:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 244.</text></calendar>
+		<action datetime="1994-03-21T12:55:00-05:00"><text>Mr. Studds moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-03-21T12:56:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1608-1610"/></action>
+		<action datetime="1994-03-21T12:56:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-03-21T12:57:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-03-21T12:57:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-03-23"><text>Received in the Senate and read twice and referred to the Committee on Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Oceanography, Gulf of Mexico and the Outer Continental Shelf" activity="Referral, Markup, Reporting" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4008" />
+		<bill relation="unknown" session="103" type="h" number="4852" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Armed forces and national security"/>
+		<term name="Coral reef conservation"/>
+		<term name="Coral reefs"/>
+		<term name="Defense budgets"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Higher education"/>
+		<term name="Louisiana"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Marine parks and reserves"/>
+		<term name="Merchant marine"/>
+		<term name="Merchant seamen"/>
+		<term name="National parks"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Reprogramming of appropriated funds"/>
+		<term name="Service academies"/>
+		<term name="Shipbuilding"/>
+		<term name="Texas"/>
+		<term name="Transportation and public works"/>
+		<term name="Warships"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/21/1994--Passed House amended. Modifies the boundaries of the Flower Garden Banks National Marine Sanctuary to include an area popularly known as Stetson Bank. Directs the Secretary of the Navy to transfer funds to the Administrator of the Maritime Administration for the conversion of the USNS Chauvenet to a training ship for the Texas Maritime Academy's Training Program.
+
+	</summary>
+</bill>

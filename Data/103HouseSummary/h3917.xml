@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="3917" updated="2012-07-17T05:08:55-04:00">
+	<state datetime="1994-10-07T12:04:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-07T12:04:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1994-02-24"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Arthur A. Carron, Jr.</title>
+	</titles>
+	<sponsor id="400391"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-24" state="REFERRED"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-03-01"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+		<action datetime="1994-10-05T11:45:00-04:00"><text>Reported by the Committee on Judiciary. H. Rept. 103-837.</text></action>
+		<calendar datetime="1994-10-05T11:46:00-04:00"  state="REPORTED"><text>Placed on the Private Calendar, Calendar No. 15.</text></calendar>
+		<action datetime="1994-10-07T12:04:00-04:00"><text>Considered from the Private Calendar.</text></action>
+		<vote how="without objection" type="vote" datetime="1994-10-07T12:04:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-10-07T12:04:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-07"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Read twice and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Reporting" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+		<committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Claims"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1994--Introduced.
+Waives time limitations with respect to a claim by a named individual for amounts due to him by the Department of the Navy for certain checks received but not negotiated by such individual.
+
+	</summary>
+</bill>

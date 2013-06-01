@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="1987" updated="2010-04-19T04:22:01-04:00">
+	<state datetime="1993-05-05">REFERRED</state>
+	<status><introduced datetime="1993-05-05"/></status>
+
+	<introduced datetime="1993-05-05"/>
+	<titles>
+		<title type="short" as="introduced">Taxpayer's Right to View Act of 1993</title>
+		<title type="official" as="introduced">To prohibit pay-per-view charges for entertainment events that receive public financial support whether or including private entities, nonprofit organizations or governmental entities.</title>
+	</titles>
+	<sponsor id="400243"/>
+	<cosponsors>
+		<cosponsor id="406873" joined="1993-05-19"/>
+		<cosponsor id="400126" joined="1993-05-19"/>
+		<cosponsor id="400295" joined="1993-09-22"/>
+		<cosponsor id="400170" joined="1993-07-26"/>
+		<cosponsor id="400291" joined="1993-07-21"/>
+		<cosponsor id="400554" joined="1993-07-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-05-06"><text>Sponsor introductory remarks on measure. (CR E1173)</text></action>
+		<action datetime="1993-06-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Communications"/>
+		<term name="Cable television"/>
+		<term name="Consumer protection"/>
+		<term name="Cultural centers"/>
+		<term name="Income tax"/>
+		<term name="Public finance"/>
+		<term name="Sports facilities"/>
+		<term name="Subscription television"/>
+		<term name="Tax exemption"/>
+		<term name="Tax incentives"/>
+		<term name="Tax-exempt organizations"/>
+		<term name="Television broadcasting of sports"/>
+		<term name="Theater"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/5/1993--Introduced.
+Taxpayer's Right to View Act of 1993 - Amends the Communications Act of 1934 to prohibit a cable operator from assessing separate charges for any video programming of a sporting, theatrical, or other entertainment event if that event is performed at a facility constructed, renovated, or maintained with tax revenues or by an organization that receives public financial support. Authorizes the Federal Communications Commission and local franchising authorities to make determinations concerning the applicability of such prohibition. Sets forth conditions under which a facility is considered to have been constructed, maintained, or renovated with tax revenues. Considers events performed by nonprofit or public organizations that receive tax subsidies to be subject to this Act if the event is sponsored by, or includes the participation of a team that is part of, a tax exempt organization.
+
+	</summary>
+</bill>

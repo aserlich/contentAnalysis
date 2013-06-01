@@ -1,0 +1,45 @@
+<bill session="103" type="sj" number="2" updated="2010-04-19T21:23:45-04:00">
+	<state datetime="1993-01-15">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-01-15" /></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution to authorize the United States Secret Service to continue to furnish protection to the former Vice President or his spouse.</title>
+	</titles>
+	<sponsor id="403515"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-01-05" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S10"/></vote>
+		<action datetime="1993-01-05T15:20:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-01-05T17:57:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H57"/></action>
+		<action datetime="1993-01-05T17:57:00-05:00"><text>Mr. Brooks asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<vote how="without objection" type="vote2" datetime="1993-01-05T17:58:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-01-05T17:58:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-01-05" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-01-08" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-01-15" ><text>Signed by President.</text></signed>
+		<enacted number="103-1" type="public" datetime="1993-01-15"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-1.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Vice Presidents"/>
+		<term name="Politicians' families"/>
+		<term name="Protection of officials"/>
+		<term name="Secret service"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Authorizes the United States Secret Service to furnish protection to the former Vice President or his spouse, if the President determines that such person may be in significant danger, until July 20, 1993.
+
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="103" type="hj" number="406" updated="2010-04-18T22:56:11-04:00">
+	<state datetime="1994-08-21">REFERRED</state>
+	<status><introduced datetime="1994-08-21"/></status>
+
+	<introduced datetime="1994-08-21"/>
+	<titles>
+		<title type="official" as="introduced">To approve the location of a World War II Memorial in the Nation's Capitol.</title>
+	</titles>
+	<sponsor id="400211"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-21"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-10-05"><committee name="House Committee on Natural Resources"/><text>Late Referral to the Subcommittee on National Parks, Forests and Public Lands (Nov 21, 94).</text></action>
+		<action datetime="1994-10-06"><committee name="House Committee on Natural Resources"/><text>Provisions of Measure Incorporated into S.J.Res.227.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="sj" number="217" />
+		<bill relation="unknown" session="103" type="sj" number="217" />
+	</relatedbills>
+	<subjects>
+		<term name="Monuments and memorials"/>
+		<term name="Commemorations"/>
+		<term name="District of Columbia"/>
+		<term name="History"/>
+		<term name="Public lands"/>
+		<term name="Veterans"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/21/1994--Introduced.
+Approves a specified location on Federal land in the District of Columbia for a World War II Memorial.
+
+	</summary>
+</bill>

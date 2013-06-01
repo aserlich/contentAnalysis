@@ -1,0 +1,87 @@
+<bill session="103" type="sc" number="29" updated="2010-04-19T21:15:34-04:00">
+	<state datetime="1993-06-16">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-06-16" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-06-09"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution relating to the Asia Pacific Economic Cooperation organization.</title>
+	</titles>
+	<sponsor id="407254"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="1993-06-09"/>
+		<cosponsor id="405212" joined="1993-06-09"/>
+		<cosponsor id="401709" joined="1993-06-09"/>
+		<cosponsor id="409917" joined="1993-06-15"/>
+		<cosponsor id="411271" joined="1993-06-15"/>
+		<cosponsor id="300070" joined="1993-06-09"/>
+		<cosponsor id="411818" joined="1993-06-09"/>
+		<cosponsor id="400559" joined="1993-06-09"/>
+		<cosponsor id="401874" joined="1993-06-09"/>
+		<cosponsor id="408597" joined="1993-06-09"/>
+		<cosponsor id="300060" joined="1993-06-09"/>
+		<cosponsor id="300057" joined="1993-06-09"/>
+		<cosponsor id="300034" joined="1993-06-09"/>
+		<cosponsor id="408420" joined="1993-06-09"/>
+		<cosponsor id="408898" joined="1993-06-09"/>
+		<cosponsor id="400565" joined="1993-06-15"/>
+		<cosponsor id="409580" joined="1993-06-09"/>
+		<cosponsor id="400564" joined="1993-06-09"/>
+		<cosponsor id="300001" joined="1993-06-09"/>
+		<cosponsor id="300076" joined="1993-06-09"/>
+		<cosponsor id="300150" joined="1993-06-09"/>
+		<cosponsor id="300043" joined="1993-06-15"/>
+		<cosponsor id="300154" joined="1993-06-09"/>
+		<cosponsor id="300084" joined="1993-06-09"/>
+		<cosponsor id="403669" joined="1993-06-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-09"><text>Sponsor introductory remarks on measure. (CR S7033-7034)</text></action>
+		<action datetime="1993-06-09"><text>Referred to the Committee on Foreign Relations.</text></action>
+		<calendar datetime="1993-06-10"  state="REPORTED"><committee name="Committee on Foreign Relations"/><text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-06-10"><text>Committee on Foreign Relations. Reported to Senate by Senator Pell without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="89" datetime="1993-06-10" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 89.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-06-16" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text><reference label="consideration" ref="CR S7394-7395"/></vote>
+		<action datetime="1993-06-17T10:02:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-06-17"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-06-17"><text>Referred jointly to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-06-17"><text>Referred jointly to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-06-21"><committee name="Committee on Foreign Relations"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-06-28"><committee name="Committee on Foreign Relations"/><text>Referred to the Subcommittee on Economic Policy, Trade and Environment.</text></action>
+		<action datetime="1993-06-28"><committee name="Committee on Foreign Relations"/><text>Referred to the Subcommittee on Asia and the Pacific.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting" />
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Economic Policy, Trade, and Environment" activity="Referral" />
+		<committee code="HSFA-05" name="House Foreign Affairs" subcommittee="Asia and the Pacific" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hc" number="113" />
+		<bill relation="unknown" session="103" type="hc" number="113" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="American investments"/>
+		<term name="Asia"/>
+		<term name="Conferences"/>
+		<term name="East-West trade"/>
+		<term name="Foreign investments"/>
+		<term name="Foreign trade"/>
+		<term name="Foreign trade policy"/>
+		<term name="International agencies"/>
+		<term name="International economic relations"/>
+		<term name="Nontariff trade barriers"/>
+		<term name="Pacific area"/>
+		<term name="Standards"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/9/1993--Introduced.
+Encourages U.S. leadership in the Asia Pacific Economic Cooperation organization. Calls on the President, the Secretary of State, and other representatives of the U.S. Government to take the opportunity presented by the scheduled chairing and hosting by the United States of the ministerial meeting of the organization in Seattle, Washington, on November 17 through 19, 1993, to reaffirm the U.S. commitment to make it an effective regional economic organization that reduces barriers to increased intra-regional trade through the harmonization of standards, trade, and investment policies.
+
+	</summary>
+</bill>

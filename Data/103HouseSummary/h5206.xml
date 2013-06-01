@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="5206" updated="2010-04-19T12:42:34-04:00">
+	<state datetime="1994-10-06">REFERRED</state>
+	<status><introduced datetime="1994-10-06"/></status>
+
+	<introduced datetime="1994-10-06"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the reliquidation of certain entries.</title>
+	</titles>
+	<sponsor id="401014"/>
+	<cosponsors>
+		<cosponsor id="400369" joined="1994-10-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-10-17"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Business"/>
+		<term name="Canada"/>
+		<term name="Customs unions"/>
+		<term name="Electronic industries"/>
+		<term name="Free trade"/>
+		<term name="International affairs"/>
+		<term name="Latin America"/>
+		<term name="Mexico"/>
+		<term name="North America"/>
+		<term name="Semiconductors"/>
+		<term name="Tariff"/>
+		<term name="Technology"/>
+		<term name="Trade"/>
+		<term name="Trade agreements"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/6/1994--Introduced.
+Declares that, upon proper request filed with the Customs Service after January 1, 1995, and before June 1, 1995, any entry of metal oxide varistors made after December 31, 1992, and before January 1, 1994, shall be liquidated or reliquidated (refunded) as if certain provisions of the North American Free Trade Agreement (NAFTA) applied to such entry.
+
+	</summary>
+</bill>

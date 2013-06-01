@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="1075" updated="2010-04-19T01:55:30-04:00">
+	<state datetime="1993-02-23">REFERRED</state>
+	<status><introduced datetime="1993-02-23"/></status>
+
+	<introduced datetime="1993-02-23"/>
+	<titles>
+		<title type="official" as="introduced">To allow an item veto in appropriation Acts for fiscal years 1994, 1995, 1996, 1997, and 1998 by the President to reduce spending to levels necessary to achieve a balanced budget by fiscal year 1998, and to establish select committees on congressional budget and appropriation process reform in the House of Representatives and in the Senate.</title>
+	</titles>
+	<sponsor id="411247"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Government Operations"/><text>See H.R.1578.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1578" />
+	</relatedbills>
+	<subjects>
+		<term name="Appropriations"/>
+		<term name="Balanced budgets"/>
+		<term name="Congressional budget process"/>
+		<term name="Congressional committee jurisdiction"/>
+		<term name="Congressional committee membership"/>
+		<term name="Congressional committees (House)"/>
+		<term name="Congressional committees (Senate)"/>
+		<term name="Congressional reorganization"/>
+		<term name="Federal budget process"/>
+		<term name="Federal budgets"/>
+		<term name="Government spending reductions"/>
+		<term name="Item veto"/>
+		<term name="Presidential powers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1993--Introduced.
+TABLE OF CONTENTS: Title I: Item Veto to Achieve Balanced Budget by Fiscal Year 1998 Title II: Changing Budgeting and Appropriating by Eliminating the Committees on Appropriations Title I: Item Veto to Achieve Balanced Budget by Fiscal Year 1998 - Requires the President to submit budgets for FY 1995 through 1997 to achieve a balanced budget by FY 1998. Requires the FY 1998 budget to be balanced. Grants the President an item veto authority for appropriations for FY 1994 through 1998. Title II: Changing Budgeting and Appropriating by Eliminating the Committees on Appropriations - Establishes a select committee in the House of Representatives and a select committee in the Senate to report to their respective Houses in January 1994 resolutions amending their respective Rules to: (1) eliminate the Committees on Appropriations; (2) modify the membership and jurisdiction of the Committees on the Budget; and (3) modify the jurisdiction of each standing committee to authorize it to make appropriations with respect to its subject matter jurisdiction.
+
+	</summary>
+</bill>

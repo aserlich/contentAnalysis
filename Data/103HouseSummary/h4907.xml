@@ -1,0 +1,77 @@
+<bill session="103" type="h" number="4907" updated="2012-07-17T06:28:35-04:00">
+	<state datetime="1994-08-12T14:00:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-08-12T14:00:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-08-05"/>
+	<titles>
+		<title type="short" as="introduced">Full Budget Disclosure Act of 1994</title>
+		<title type="short" as="passed house">Baseline Reform Act of 1994</title>
+		<title type="official" as="introduced">To reform the concept of baseline budgeting.</title>
+	</titles>
+	<sponsor id="400386"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-05" state="REFERRED"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-08-05"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1994-08-09"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1994-08-09"><committee name="House Committee on Rules"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-08-09"  state="REPORTED"><committee name="House Committee on Rules"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-08-09T18:33:00-04:00"><text>Reported (Amended) by the Committee on Rules. H. Rept. 103-688, Part I.</text></action>
+		<action datetime="1994-08-09T20:07:00-04:00"><text>Rules Committee Resolution H. Res. 512 Reported to House. Rule provides for consideration of H.R. 4907 with 1 hour of general debate. Previous question shall be considered as ordered except motion to recommit. Measure will be read by section. Specified amendments are in order. It shall be in order to consider as an original bill for the purpose of amendment the amendment in the nature of a substitute now printed in the bill. No amendment to the substitute shall be in order except those amendments printed in the report accompanying this resolution, if offered in the order and manner specified in the report.</text></action>
+		<action datetime="1994-08-11T15:15:00-04:00"><text>Rule H. Res. 512 passed House.</text></action>
+		<action datetime="1994-08-12T10:53:00-04:00"><text>Considered under the provisions of rule H. Res. 512.</text><reference label="consideration" ref="CR H8000-8022"/></action>
+		<action datetime="1994-08-12T10:53:00-04:00"><text>Rule provides for consideration of H.R. 4907 with 1 hour of general debate. Previous question shall be considered as ordered except motion to recommit. Measure will be read by section. Specified amendments are in order. It shall be in order to consider as an original bill for the purpose of amendment the amendment in the nature of a substitute now printed in the bill. No amendment to the substitute shall be in order except those amendments printed in the report accompanying this resolution, if offered in the order and manner specified in the report.</text></action>
+		<action datetime="1994-08-12T10:53:00-04:00"><text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 512 and Rule XXIII.</text></action>
+		<action datetime="1994-08-12T10:53:00-04:00"><text>The Speaker designated the Honorable Patricia Schroeder to act as Chairwoman of the Committee.</text></action>
+		<action datetime="1994-08-12T10:53:00-04:00"><text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate.</text></action>
+		<action datetime="1994-08-12T12:05:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 30 minutes of debate on the Penny amendment in the nature of a substitute.</text></action>
+		<action datetime="1994-08-12T13:02:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 30 minutes of debate on the Spratt amendment in the nature of a substitute.</text></action>
+		<action datetime="1994-08-12T13:58:00-04:00"><text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4907.</text></action>
+		<action datetime="1994-08-12T13:59:00-04:00"><text>The previous question was ordered pursuant to the rule.</text></action>
+		<action datetime="1994-08-12T13:59:00-04:00"><text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-08-12T14:00:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed by voice vote.</text></vote>
+		<action datetime="1994-08-12T14:02:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-08-16"><text>Received in the Senate and read twice and referred jointly to the Committees on Budget; Governmental Affairs pursuant to the order of August 4, 1977, with instructions that if one Committee reports, the other Committee have thirty days to report or be discharged.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, Markup, Reporting" />
+		<committee code="SSBU" name="Senate Budget" activity="Referral, In Committee" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="103" type="hr" number="512" />
+		<bill relation="unknown" session="103" type="h" number="4914" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Appropriations"/>
+		<term name="Budget deficits"/>
+		<term name="Congress"/>
+		<term name="Congressional budget"/>
+		<term name="Congressional budget process"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Economics and public finance"/>
+		<term name="Entitlements"/>
+		<term name="Federal budget process"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Government spending reductions"/>
+		<term name="Graphs and charts"/>
+		<term name="Indexing (Economic policy)"/>
+		<term name="Legislation"/>
+		<term name="Legislative resolutions"/>
+		<term name="Tax expenditures"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+		<amendment number="h843"/>
+		<amendment number="h844"/>
+	</amendments>
+	<summary>
+	8/12/1994--Passed House amended. Baseline Reform Act of 1994 - Amends the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act) to revise the definition of baseline to provide for certain inflation adjustments only for the purpose of adjusting discretionary spending limits. Requires the President's budget to include: (1) estimated expenditures and appropriations for the current year; (2) new budget authority in budget outlay comparisons; and (3) a certain comparison of levels of estimated expenditures and proposed appropriations that includes the proposed increase or decrease in spending in percentage terms. Amends the Congressional Budget Act of 1974 to make conforming changes to the development of the concurrent resolution on the budget. Requires the Congressional Budget Office (CBO) to include in reports to budget committees certain current year comparisons and a table on sources of spending growth under current law in total mandatory spending for the budget year and the ensuing four fiscal years. Requires the CBO to include in cost estimates of pending legislation a comparison of prior year spending levels to current year levels. Requires the CBO to report to the Congress annually on all programs, projects, and activities that fall within the definition of direct spending.
+
+	</summary>
+</bill>

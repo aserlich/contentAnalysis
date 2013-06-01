@@ -1,0 +1,59 @@
+<bill session="103" type="h" number="2751" updated="2012-07-17T05:52:37-04:00">
+	<state datetime="1993-09-21T15:02:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-09-21T15:02:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-07-27"/>
+	<titles>
+		<title type="short" as="introduced">Federal Employees Humanitarian Leave Act of 1993</title>
+		<title type="short" as="passed house">Federal Employees Humanitarian Leave Act of 1993</title>
+		<title type="official" as="introduced">To amend title 5, United States Code, to provide for the granting of leave to Federal employees wishing to serve as bone-marrow or organ donors, and to allow Federal employees to use sick leave for purposes relating to the adoption of a child.</title>
+	</titles>
+	<sponsor id="400003"/>
+	<cosponsors>
+		<cosponsor id="400524" joined="1993-07-27"/>
+		<cosponsor id="400439" joined="1993-07-27"/>
+		<cosponsor id="400192" joined="1993-07-27"/>
+		<cosponsor id="400435" joined="1993-07-27"/>
+		<cosponsor id="400189" joined="1993-07-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-27" state="REFERRED"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-08-03"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+		<action datetime="1993-09-09"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-09-09"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-09-14"><committee name="House Committee on Post Office and Civil Service"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-09-14"  state="REPORTED"><committee name="House Committee on Post Office and Civil Service"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1993-09-15T14:42:00-04:00"><text>Reported (Amended) by the Committee on Post Office and Civil Service. H. Rept. 103-243.</text></action>
+		<calendar number="134" datetime="1993-09-15T14:43:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 134.</text></calendar>
+		<action datetime="1993-09-21T14:53:00-04:00"><text>Ms. Norton moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-09-21T14:54:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6802-6804"/></action>
+		<action datetime="1993-09-21T14:54:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-09-21T15:02:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-09-21T15:03:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-09-22"><text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral, Markup, Reporting" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Adoption"/>
+		<term name="Bone banks"/>
+		<term name="Donation of organs, tissues, etc."/>
+		<term name="Health"/>
+		<term name="Leave of absence"/>
+		<term name="Sick leave"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/21/1993--Passed House amended. Federal Employees Humanitarian Leave Act of 1993 - Allows executive agency employees to take up to seven days of leave each year without a reduction in pay or leave to which they are otherwise entitled in order to donate organs or bone marrow. Allows Federal employees to use sick leave for purposes relating to the adoption of a child. Provides for the restoration of annual leave used for adoption-related purposes.
+
+	</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="103" type="s" number="801" updated="2010-04-19T16:35:08-04:00">
+	<state datetime="1993-05-25">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-05-25" /></status>
+
+	<introduced datetime="1993-04-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize the conduct and development of NAEP assessments for fiscal year 1994.</title>
+	</titles>
+	<sponsor id="300059"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-04-21" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S4741"/></vote>
+		<action datetime="1993-04-22"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-04-22T16:08:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-04-22T16:08:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-05-11T12:47:00-04:00"><text>Mr. Kildee asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1993-05-11T12:47:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H2355-2356"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-05-11T12:48:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-05-11T12:48:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-05-11" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-05-13" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-05-25" ><text>Signed by President.</text></signed>
+		<enacted number="103-33" type="public" datetime="1993-05-25"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-33.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Authorization"/>
+		<term name="Educational accountability"/>
+		<term name="Educational statistics"/>
+		<term name="Educational tests"/>
+		<term name="Elementary education"/>
+		<term name="Mathematics"/>
+		<term name="Reading"/>
+		<term name="Secondary education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/21/1993--Introduced.
+Amends the General Education Provisions Act to direct the National Assessment of Educational Progress to conduct certain trial assessments, and develop other trial assessments for administration, in 1994.
+
+	</summary>
+</bill>

@@ -1,0 +1,84 @@
+<bill session="103" type="h" number="890" updated="2010-10-13T17:40:32-04:00">
+	<state datetime="1993-06-28">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-06-28" /></status>
+
+	<introduced datetime="1993-02-16"/>
+	<titles>
+		<title type="short" as="introduced">Unclaimed Deposits Amendments Act of 1993</title>
+		<title type="short" as="passed house">Unclaimed Deposits Amendments Act of 1993</title>
+		<title type="official" as="introduced">To amend the Federal Deposit Insurance Act to provide for extended periods of time for claims on insured deposits.</title>
+	</titles>
+	<sponsor id="400140"/>
+	<cosponsors>
+		<cosponsor id="401547" joined="1993-02-24"/>
+		<cosponsor id="410496" joined="1993-02-23"/>
+		<cosponsor id="400003" joined="1993-02-23"/>
+		<cosponsor id="400585" joined="1993-02-23"/>
+		<cosponsor id="400178" joined="1993-02-23"/>
+		<cosponsor id="400291" joined="1993-02-23"/>
+		<cosponsor id="400283" joined="1993-02-23"/>
+		<cosponsor id="410887" joined="1993-02-23"/>
+		<cosponsor id="400301" joined="1993-02-23"/>
+		<cosponsor id="400537" joined="1993-02-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-16"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Financial Institutions Supervision, Regulation and Deposit Insurance.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on Banking, Finance + Urban Affrs" subcommittee="Financial Institutions Supervision, Regulation and Deposit Insurance"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on Banking, Finance + Urban Affrs" subcommittee="Financial Institutions Supervision, Regulation and Deposit Insurance"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on Banking, Finance + Urban Affrs" subcommittee="Financial Institutions Supervision, Regulation and Deposit Insurance"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-03-02T12:56:00-05:00"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Mr. Neal (NC) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-03-02T12:57:00-05:00"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H920-923"/></action>
+		<action datetime="1993-03-02T12:57:00-05:00"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-03-02T13:08:00-05:00"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1993-03-02T14:54:00-05:00"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H948"/></action>
+		<vote how="roll" type="vote" roll="43" datetime="1993-03-02T15:19:00-05:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 409 - 1 (Roll No. 43).</text></vote>
+		<action datetime="1993-03-02T15:19:00-05:00"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-03-02T15:20:00-05:00"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-03-03"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Received in the Senate.</text></action>
+		<calendar under="General Orders" number="33" datetime="1993-03-11" calendar="Senate Legislative" ><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 33.</text></calendar>
+		<action datetime="1993-05-27"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S2777"/></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Amendment SP 387 proposed by Senator Mitchell for Senator Riegle.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Amendment SP 387 agreed to in Senate by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-05-27" where="s" result="pass"  state="PASS_BACK:SENATE"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Passed Senate with an amendment by Voice Vote.</text><reference label="consideration" ref="CR S6730-6731"/></vote>
+		<action datetime="1993-06-08"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-06-09T13:52:00-04:00"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Mr. Neal (NC) asked unanimous consent that the House agree to the Senate amendments.</text></action>
+		<vote how="without objection" type="pingpong" datetime="1993-06-09T13:53:00-04:00" where="h" result="pass"  state="PASSED:BILL"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>On motion that the House agree to the Senate amendments Agreed to without objection.</text><reference label="consideration" ref="CR H3355"/></vote>
+		<action datetime="1993-06-09T13:54:00-04:00"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-06-09" ><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-06-16" ><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Presented to President.</text></topresident>
+		<signed datetime="1993-06-28" ><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Signed by President.</text></signed>
+		<enacted number="103-44" type="public" datetime="1993-06-28"  state="ENACTED:SIGNED"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Became Public Law No: 103-44.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="Financial Institutions Supervision, Regulation and Deposit Insurance" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Banks and banking"/>
+		<term name="Administrative procedure"/>
+		<term name="Bank deposits"/>
+		<term name="Bank failures"/>
+		<term name="Certificates of deposit"/>
+		<term name="Claims"/>
+		<term name="Credit unions"/>
+		<term name="Deposit insurance"/>
+		<term name="Federal Deposit Insurance Corporation"/>
+		<term name="Forfeiture"/>
+		<term name="Government paperwork"/>
+		<term name="Limitation of actions"/>
+		<term name="National Credit Union Administration"/>
+		<term name="Savings and loan associations"/>
+		<term name="State laws"/>
+	</subjects>
+	<amendments>
+		<amendment number="s387"/>
+	</amendments>
+	<summary>
+	5/27/1993--Passed Senate amended. Amends the Federal Deposit Insurance Act to require the Federal Deposit Insurance Corporation (FDIC) to send: (1) a first notice to all insured depositors within 30 days after beginning to pay off depositors that they must claim their deposits from the FDIC (or from any transferee institution if the deposit has been transferred); and (2) a second notice after 15 months after beginning to pay off depositors to all those who have not responded to the first notice. Requires the FDIC to transfer, within 18 months after beginning to pay off depositors, any unclaimed deposits to the State of a depositor's last known address (or, if the address is outside the United States, to the State in which the failed institution had its main office). Permits an insured depositor to claim from the FDIC after the 18-month period any deposit a State has refused to accept, but only until the receivership is terminated. Permits States to keep an unclaimed deposit for ten years, after which, if remaining unclaimed, it must refund the deposit to the FDIC. Makes a specified rule for receiverships in progress before the enactment of this Act.
+
+	</summary>
+</bill>

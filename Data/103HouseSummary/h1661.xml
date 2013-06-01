@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="1661" updated="2010-04-19T03:30:48-04:00">
+	<state datetime="1993-04-02">REFERRED</state>
+	<status><introduced datetime="1993-04-02"/></status>
+
+	<introduced datetime="1993-04-02"/>
+	<titles>
+		<title type="official" as="introduced">To suspend temporarily the duty on C.I. Pigment Yellow 138.</title>
+	</titles>
+	<sponsor id="400397"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-02"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-04-06"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-04-07"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1993-08-11"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="709" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Dyes and dyeing"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/2/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1997, the duty on C.I. pigment yellow 138.
+
+	</summary>
+</bill>

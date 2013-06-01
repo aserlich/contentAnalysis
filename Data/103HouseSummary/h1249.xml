@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="1249" updated="2010-04-19T02:25:08-04:00">
+	<state datetime="1993-03-09">REFERRED</state>
+	<status><introduced datetime="1993-03-09"/></status>
+
+	<introduced datetime="1993-03-09"/>
+	<titles>
+		<title type="official" as="introduced">To permit Members of the House of Representatives to use their unspent official allowances for college scholarships for residents of their congressional districts and for reduction of the national debt.</title>
+	</titles>
+	<sponsor id="400017"/>
+	<cosponsors>
+		<cosponsor id="400149" joined="1993-03-09"/>
+		<cosponsor id="400170" joined="1993-03-09"/>
+		<cosponsor id="400322" joined="1993-03-09"/>
+		<cosponsor id="400267" joined="1993-03-09"/>
+		<cosponsor id="401547" joined="1993-03-09"/>
+		<cosponsor id="404587" joined="1993-03-09"/>
+		<cosponsor id="400161" joined="1993-03-09"/>
+		<cosponsor id="400191" joined="1993-03-09"/>
+		<cosponsor id="400127" joined="1993-03-09"/>
+		<cosponsor id="400524" joined="1993-03-09"/>
+		<cosponsor id="403545" joined="1993-03-09"/>
+		<cosponsor id="400037" joined="1993-03-09"/>
+		<cosponsor id="400329" joined="1993-03-09"/>
+		<cosponsor id="400551" joined="1993-03-09"/>
+		<cosponsor id="400205" joined="1993-03-09"/>
+		<cosponsor id="400083" joined="1993-03-09"/>
+		<cosponsor id="400251" joined="1993-03-09"/>
+		<cosponsor id="405560" joined="1993-03-09"/>
+		<cosponsor id="400107" joined="1993-03-09"/>
+		<cosponsor id="400056" joined="1993-03-09"/>
+		<cosponsor id="403864" joined="1993-03-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-09"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-03-10"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Accounts.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Accounts" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congressional allowances"/>
+		<term name="Education"/>
+		<term name="Members of Congress (House)"/>
+		<term name="Public debt"/>
+		<term name="Scholarships"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/9/1993--Introduced.
+Makes unspent allowances of a Member of the House of Representatives available to the Member for college scholarships to residents of the Member's congressional district and reduction of the national debt.
+
+	</summary>
+</bill>

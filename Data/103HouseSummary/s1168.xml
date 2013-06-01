@@ -1,0 +1,37 @@
+<bill session="103" type="s" number="1168" updated="2012-07-17T04:22:55-04:00">
+	<state datetime="1993-06-29">REFERRED</state>
+	<status><introduced datetime="1993-06-29"/></status>
+
+	<introduced datetime="1993-06-29"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide that certain deductions of school bus drivers shall be allowable in computing adjusted gross income.</title>
+	</titles>
+	<sponsor id="406084"/>
+	<cosponsors>
+		<cosponsor id="300012" joined="1993-06-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-29" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8233)</text></action>
+		<action datetime="1993-06-29" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Bus drivers"/>
+		<term name="School buses"/>
+		<term name="Tax deductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/29/1993--Introduced.
+Amends the Internal Revenue Code to allow the deduction of certain expenses of school bus drivers in computing their adjusted gross income.
+
+	</summary>
+</bill>

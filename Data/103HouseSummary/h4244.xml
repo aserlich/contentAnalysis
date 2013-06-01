@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="4244" updated="2010-04-19T10:12:28-04:00">
+	<state datetime="1994-04-18">REFERRED</state>
+	<status><introduced datetime="1994-04-18"/></status>
+
+	<introduced datetime="1994-04-18"/>
+	<titles>
+		<title type="short" as="introduced">Transportation Employee Equitable Treatment Act of 1994</title>
+		<title type="official" as="introduced">To amend title 46, United States Code, to provide equitable treatment for certain individuals employed on vessels with respect to State and local income taxes.</title>
+	</titles>
+	<sponsor id="411040"/>
+	<cosponsors>
+		<cosponsor id="410496" joined="1994-04-18"/>
+		<cosponsor id="400370" joined="1994-09-21"/>
+		<cosponsor id="400243" joined="1994-06-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-18"><text>Sponsor introductory remarks on measure. (CR H2387)</text></action>
+		<action datetime="1994-04-18"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-04-18"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1994-04-20"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee On Merchant Marine.</text></action>
+		<action datetime="1994-04-20"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Labor, DOT.</text></action>
+		<action datetime="1994-04-25"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Merchant Marine" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Marine transportation"/>
+		<term name="Income tax"/>
+		<term name="Intergovernmental tax relations"/>
+		<term name="Labor"/>
+		<term name="Local taxation"/>
+		<term name="Merchant seamen"/>
+		<term name="Residence requirements"/>
+		<term name="State and local government"/>
+		<term name="State taxation"/>
+		<term name="Tax administration"/>
+		<term name="Taxation"/>
+		<term name="Transportation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/18/1994--Introduced.
+Transportation Employee Equitable Treatment Act of 1994 - Amends Federal maritime law to prohibit an individual who is employed as a master, seaman, or pilot of a vessel in more than one State or local government jurisdiction from being liable for the payment of income taxes in a State or local government jurisdiction other than the one where he or she resides.
+
+	</summary>
+</bill>

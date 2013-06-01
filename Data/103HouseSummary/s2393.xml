@@ -1,0 +1,41 @@
+<bill session="103" type="s" number="2393" updated="2012-07-17T06:05:16-04:00">
+	<state datetime="1994-08-16">REFERRED</state>
+	<status><introduced datetime="1994-08-16"/></status>
+
+	<introduced datetime="1994-08-16"/>
+	<titles>
+		<title type="official" as="introduced">A bill to eliminate a maximum daily diversion restriction with respect to the pumping of certain water from Lake Powell, and for other purposes.</title>
+	</titles>
+	<sponsor id="403346"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="1994-08-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-16" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S11898-11899)</text></action>
+		<action datetime="1994-08-16" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-08-17"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Water and Power.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee" />
+		<committee code="SSEG-3" name="Senate Energy and Natural Resources" subcommittee="Water and Power" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="5025" />
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Arizona"/>
+		<term name="Colorado River development"/>
+		<term name="Infrastructure"/>
+		<term name="Lakes"/>
+		<term name="Water supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/16/1994--Introduced.
+Amends the Reclamation Development Act of 1974 to eliminate a maximum daily water diversion restriction with respect to the pumping of water from Lake Powell, Arizona.
+
+	</summary>
+</bill>

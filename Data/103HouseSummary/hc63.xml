@@ -1,0 +1,67 @@
+<bill session="103" type="hc" number="63" updated="2010-04-18T21:10:31-04:00">
+	<state datetime="1993-03-11">REFERRED</state>
+	<status><introduced datetime="1993-03-11"/></status>
+
+	<introduced datetime="1993-03-11"/>
+	<titles>
+		<title type="official" as="introduced">Concerning the establishment of a North American Commission on the Environment.</title>
+	</titles>
+	<sponsor id="300100"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1993-03-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-11"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-03-19"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Economic Policy, Trade and Environment.</text></action>
+		<action datetime="1993-03-19"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Western Hemisphere Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Economic Policy, Trade, and Environment" activity="Referral" />
+		<committee code="HSFA-07" name="House Foreign Affairs" subcommittee="Western Hemisphere Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Arizona"/>
+		<term name="Bonds"/>
+		<term name="Boundaries"/>
+		<term name="California"/>
+		<term name="Canada"/>
+		<term name="Corporations"/>
+		<term name="Customs unions"/>
+		<term name="Environmental health"/>
+		<term name="Environmental protection groups"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Foreign trade"/>
+		<term name="Free trade"/>
+		<term name="Government trust funds"/>
+		<term name="Imports"/>
+		<term name="International agencies"/>
+		<term name="International environmental cooperation"/>
+		<term name="Medical care"/>
+		<term name="Mexico"/>
+		<term name="Negotiations"/>
+		<term name="New Mexico"/>
+		<term name="North America"/>
+		<term name="Pollution control"/>
+		<term name="Public health"/>
+		<term name="Refuse and refuse disposal"/>
+		<term name="Tariff"/>
+		<term name="Texas"/>
+		<term name="Trade agreements"/>
+		<term name="User charges"/>
+		<term name="Volunteer workers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/1993--Introduced.
+Urges the President to reach agreement with Mexico and Canada on the establishment of a North American Commission on the Environment (NACE) to address environmental concerns and promote the protection of the environment and the public health in the North American Free Trade Agreement (NAFTA) region. Urges NACE to create a Border Environmental Fund to address cleanup of existing environmental problems and construction of facilities to help prevent future environmental and related public health problems in the U.S.-Mexico border region. Urges NACE to participate as an equal partner with the Free Trade Commission established under NAFTA on environmental issues related to NAFTA. Requires NACE to establish and oversee a Secretariat comprising national sections.
+
+	</summary>
+</bill>

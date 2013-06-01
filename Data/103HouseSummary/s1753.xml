@@ -1,0 +1,37 @@
+<bill session="103" type="s" number="1753" updated="2012-07-17T05:46:44-04:00">
+	<state datetime="1993-11-20">REFERRED</state>
+	<status><introduced datetime="1993-11-20"/></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="official" as="introduced">A bill amending the Harmonized Tariff Schedule.</title>
+	</titles>
+	<sponsor id="401709"/>
+	<cosponsors>
+		<cosponsor id="300064" joined="1993-11-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-20" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S16768)</text></action>
+		<action datetime="1993-11-20" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3174" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Chemicals"/>
+		<term name="Drugs"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1996, the duty on N-(1,1-dimethylethyl- 3-oxo-4-aza-5-alpha-androst-1-ene-17-beta-carboxamide (finasteride and finasteride tablets).
+
+	</summary>
+</bill>

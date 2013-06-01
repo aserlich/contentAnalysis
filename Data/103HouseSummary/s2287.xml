@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="2287" updated="2012-07-17T04:45:17-04:00">
+	<state datetime="1994-07-14">REFERRED</state>
+	<status><introduced datetime="1994-07-14"/></status>
+
+	<introduced datetime="1994-07-14"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to simplify the assessment and collection of the excise tax on arrows.</title>
+	</titles>
+	<sponsor id="300052"/>
+	<cosponsors>
+		<cosponsor id="403962" joined="1994-08-24"/>
+		<cosponsor id="300007" joined="1994-08-25"/>
+		<cosponsor id="300023" joined="1994-08-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-14" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S9041-9042)</text></action>
+		<action datetime="1994-07-14" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4901" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Equipment and supplies"/>
+		<term name="Excise tax"/>
+		<term name="Sports and recreation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/14/1994--Introduced.
+Amends the Internal Revenue Code by including in the excise tax on bows and arrows any shaft, point, nock, or vane used in the manufacture of an arrow.
+
+	</summary>
+</bill>

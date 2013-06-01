@@ -1,0 +1,47 @@
+<bill session="103" type="s" number="2213" updated="2012-07-17T05:07:56-04:00">
+	<state datetime="1994-09-21">REPORTED</state>
+	<status><calendar datetime="1994-09-21" /></status>
+
+	<introduced datetime="1994-06-20"/>
+	<titles>
+		<title type="official" as="introduced">A bill to make applicable the provisions of the Act commonly known as the &quot;Warren Act&quot; to the Central Utah Project, Utah, and for other purposes.</title>
+	</titles>
+	<sponsor id="300007"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="1994-06-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-20" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S7150)</text></action>
+		<action datetime="1994-06-20" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-06-21"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Water and Power.</text></action>
+		<action datetime="1994-06-28"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Water and Power. Hearings held. Hearings printed: S.Hrg. 103-844.</text></action>
+		<calendar datetime="1994-09-21"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action datetime="1994-09-26"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment. With written report No. 103-380.</text></action>
+		<calendar under="General Orders" number="634" datetime="1994-09-26" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 634.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-3" name="Senate Energy and Natural Resources" subcommittee="Water and Power" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4615" />
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Environmental protection"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Government operations and politics"/>
+		<term name="Utah"/>
+		<term name="Water conservation"/>
+		<term name="Water districts"/>
+		<term name="Water storage"/>
+		<term name="Water supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/26/1994--Reported to Senate amended. Authorizes the Secretary of the Interior, using any facilities associated with the Central Utah Project, Utah, to enter into: (1) contracts with private entities pursuant to the Warren Act for the impoundment, storage, and carriage of nonproject water for domestic, municipal, fish and wildlife, industrial, and other beneficial purposes; and (2) agreements under such Act with appropriate officials of other Federal agencies, municipalities, water districts and agencies, and States for the use of nonproject water for such purposes. Permits any employee, or member of the Board of Directors, of the Central Utah Water Conservancy District to serve as a member of the Utah Reclamation Mitigation and Conservation Commission.
+
+	</summary>
+</bill>

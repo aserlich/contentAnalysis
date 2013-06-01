@@ -1,0 +1,61 @@
+<bill session="103" type="s" number="2155" updated="2012-07-17T06:02:56-04:00">
+	<state datetime="1994-06-29">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-06-29" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-05-25"/>
+	<titles>
+		<title type="short" as="introduced">Forest Ecosystem Research Laboratory Authorization Act of 1994</title>
+		<title type="official" as="introduced">A bill to authorize the appropriation of funds for the Federal share of the cost of the construction of a Forest Ecosystem Research Laboratory at Oregon State University in Corvallis, Oregon, and for other purposes.</title>
+	</titles>
+	<sponsor id="405212"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-25" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6397)</text></action>
+		<action datetime="1994-05-25" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1994-06-29"><text>Senate Committee on Agriculture discharged by Unanimous Consent.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-06-29" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S7971"/></vote>
+		<action datetime="1994-06-30"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-06-30T10:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-06-30"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-07-22"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Department Operations and Nutrition.</text></action>
+		<action datetime="1994-07-22"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged" />
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Department Operations and Nutrition" activity="Referral" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4705" />
+	</relatedbills>
+	<subjects>
+		<term name="Forests and forestry"/>
+		<term name="Authorization"/>
+		<term name="Colleges"/>
+		<term name="Ecological research"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Environmental protection"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Federal aid to research"/>
+		<term name="Forest ecology"/>
+		<term name="Forestry research"/>
+		<term name="Higher education"/>
+		<term name="Laboratories"/>
+		<term name="Oregon"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Research centers"/>
+		<term name="Science, technology, communications"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/25/1994--Introduced.
+Forest Ecosystem Research Laboratory Authorization Act of 1994 - Authorizes 50 percent Federal cost-sharing appropriations for construction of a Forest Ecosystem Research Laboratory at Oregon State University in Corvallis, Oregon.
+
+	</summary>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="103" type="h" number="468" updated="2010-04-19T00:13:53-04:00">
+	<state datetime="1993-01-06">REFERRED</state>
+	<status><introduced datetime="1993-01-06"/></status>
+
+	<introduced datetime="1993-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Fair Treatment of Former Air Traffic Controllers Act of 1993</title>
+		<title type="official" as="introduced">To provide for the rehiring by the Federal Aviation Administration of certain former air traffic controllers.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1993-05-19"/>
+		<cosponsor id="400542" joined="1993-05-19"/>
+		<cosponsor id="400527" joined="1993-05-19"/>
+		<cosponsor id="400370" joined="1993-07-26"/>
+		<cosponsor id="407772" joined="1993-04-21"/>
+		<cosponsor id="400331" joined="1993-05-19"/>
+		<cosponsor id="403364" joined="1993-05-19"/>
+		<cosponsor id="400050" joined="1993-07-20"/>
+		<cosponsor id="400251" joined="1993-06-14"/>
+		<cosponsor id="400350" joined="1993-09-14"/>
+		<cosponsor id="402152" joined="1993-07-20"/>
+		<cosponsor id="400357" joined="1993-09-14"/>
+		<cosponsor id="400301" joined="1993-07-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-06"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Civil Service.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Civil Service" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="73" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Age and employment"/>
+		<term name="Air traffic controllers"/>
+		<term name="Claims"/>
+		<term name="Department of Transportation"/>
+		<term name="Discrimination in employment"/>
+		<term name="Government liability"/>
+		<term name="Public sector strikes"/>
+		<term name="Racial discrimination"/>
+		<term name="Recruiting of employees"/>
+		<term name="Religious liberty"/>
+		<term name="Sex discrimination"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/1993--Introduced.
+Fair Treatment of Former Air Traffic Controllers Act of 1993 - Prohibits air traffic controllers who were terminated for striking on or about August 3, 1981, from being considered, as a class, unsuitable for reinstatement in the Federal Aviation Administration. Requires reinstatement on a case-by-case basis by the Office of Personnel Management. Prohibits claims against the United States or any U.S. employee based on a failure to reinstate, except claims based on racial, religious, sex, or ethnic discrimination.
+
+	</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="488" updated="2010-04-19T00:17:12-04:00">
+	<state datetime="1993-01-20">REFERRED</state>
+	<status><introduced datetime="1993-01-20"/></status>
+
+	<introduced datetime="1993-01-20"/>
+	<titles>
+		<title type="official" as="introduced">To establish an annual essay contest for high school seniors in the United States.</title>
+	</titles>
+	<sponsor id="400035"/>
+	<cosponsors>
+		<cosponsor id="404503" joined="1994-05-19"/>
+		<cosponsor id="400122" joined="1994-06-27"/>
+		<cosponsor id="400527" joined="1994-08-11"/>
+		<cosponsor id="400143" joined="1994-05-19"/>
+		<cosponsor id="406482" joined="1993-09-21"/>
+		<cosponsor id="400329" joined="1993-09-21"/>
+		<cosponsor id="404097" joined="1993-11-03"/>
+		<cosponsor id="400243" joined="1994-06-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-20"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-01-20"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Libraries and Memorials.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Libraries and Memorials" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Authors and authorship"/>
+		<term name="Awards, medals, prizes"/>
+		<term name="Citizenship education"/>
+		<term name="High school students"/>
+		<term name="Scholarships"/>
+		<term name="Secondary education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/20/1993--Introduced.
+Directs the Speaker of the House of Representatives to establish an annual essay contest for high school seniors, based on the question of how the people of the U.S. today can best thank George Washington for this Nation. Makes the winner's prize funds for a college scholarship.
+
+	</summary>
+</bill>

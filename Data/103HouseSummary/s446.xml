@@ -1,0 +1,48 @@
+<bill session="103" type="s" number="446" updated="2012-07-17T05:29:19-04:00">
+	<state datetime="1993-02-25">REFERRED</state>
+	<status><introduced datetime="1993-02-25"/></status>
+
+	<introduced datetime="1993-02-25"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend until January 1, 1996, the existing suspension of duty on tamoxifen citrate.</title>
+	</titles>
+	<sponsor id="400565"/>
+	<cosponsors>
+		<cosponsor id="403346" joined="1993-09-21"/>
+		<cosponsor id="300012" joined="1993-02-25"/>
+		<cosponsor id="300036" joined="1993-11-02"/>
+		<cosponsor id="400562" joined="1993-04-29"/>
+		<cosponsor id="406084" joined="1993-11-02"/>
+		<cosponsor id="300154" joined="1994-03-10"/>
+		<cosponsor id="401709" joined="1993-02-25"/>
+		<cosponsor id="300008" joined="1993-09-30"/>
+		<cosponsor id="300064" joined="1993-02-25"/>
+		<cosponsor id="409917" joined="1993-09-21"/>
+		<cosponsor id="300073" joined="1993-03-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-25" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2114)</text></action>
+		<action datetime="1993-02-25" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="466" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Breast cancer"/>
+		<term name="Chemotherapy"/>
+		<term name="Drugs"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/25/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to extend, through December 31, 1995, the suspension of duty on tamoxifen citrate.
+
+	</summary>
+</bill>

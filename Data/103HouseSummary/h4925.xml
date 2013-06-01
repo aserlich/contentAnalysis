@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="4925" updated="2010-04-19T11:59:16-04:00">
+	<state datetime="1994-09-28">REPORTED</state>
+	<status><calendar datetime="1994-09-28" /></status>
+
+	<introduced datetime="1994-08-09"/>
+	<titles>
+		<title type="official" as="introduced">To extend for one year the authority of the Bureau of Reclamation to sell certain loans to the Redwood Valley Water District.</title>
+	</titles>
+	<sponsor id="404978"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T20:13:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 103-795.</text></action>
+		<calendar number="441" datetime="1994-10-03T20:13:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 441.</text></calendar>
+		<action datetime="1994-11-21"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Oversight and Investigations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Water"/>
+		<term name="Budgets"/>
+		<term name="California"/>
+		<term name="Collection of accounts"/>
+		<term name="Government lending"/>
+		<term name="Water districts"/>
+		<term name="Water resources"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/9/1994--Introduced.
+Amends the Reclamation Projects Authorization and Adjustment Act of 1992 to extend the authority of the Bureau of Reclamation to sell certain loans to the Redwood Valley Water District until October 30, 1995.
+
+	</summary>
+</bill>

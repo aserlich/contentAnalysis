@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="3192" updated="2010-04-19T07:28:40-04:00">
+	<state datetime="1993-09-30">REFERRED</state>
+	<status><introduced datetime="1993-09-30"/></status>
+
+	<introduced datetime="1993-09-30"/>
+	<titles>
+		<title type="official" as="introduced">To deny certain benefits to candidates for election to the House of Representatives who accept contributions in excess of certain limitations, and for other purposes.</title>
+	</titles>
+	<sponsor id="401854"/>
+	<cosponsors>
+		<cosponsor id="400389" joined="1993-10-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-30"><text>Sponsor introductory remarks on measure. (CR H7266)</text></action>
+		<action datetime="1993-09-30"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-09-30"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-09-30"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Campaign funds"/>
+		<term name="Communications"/>
+		<term name="Congress"/>
+		<term name="Congressional candidates"/>
+		<term name="Congressional elections (House)"/>
+		<term name="Elections"/>
+		<term name="Members of Congress (House)"/>
+		<term name="Political action committees"/>
+		<term name="Political advertising"/>
+		<term name="Postal rates and revenues"/>
+		<term name="Radio in politics"/>
+		<term name="Tax exclusion"/>
+		<term name="Tax-exempt organizations"/>
+		<term name="Taxation"/>
+		<term name="Telecommunication"/>
+		<term name="Television in politics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/1993--Introduced.
+Amends the Internal Revenue Code with respect to political organizations to establish a campaign contribution limitation scheme applicable to the campaign committee of a candidate for election to the House of Representatives. Provides that excess campaign contributions received by such an organization shall be included in its gross income. Amends the Communications Act of 1934 and Federal postal service law to condition the lowest unit charge for campaign ads upon a candidate's certification of compliance with such contribution limitation. Expresses the sense of the Congress that additional costs incurred by the United Postal Service in providing reduced rates of postage pursuant to this Act should be funded out of revenues attributable to this Act.
+
+	</summary>
+</bill>

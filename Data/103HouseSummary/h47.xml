@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="47" updated="2010-04-18T23:07:19-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To provide an antitrust exemption for medical self-regulatory entities when engaged in standard setting and enforcement activities designed to promote the quality of care, and for other purposes.</title>
+	</titles>
+	<sponsor id="400567"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1994-08-02"><committee name="House Committee on Judiciary"/><text>See H.R.3600.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3600" />
+	</relatedbills>
+	<subjects>
+		<term name="Antitrust law"/>
+		<term name="Damages"/>
+		<term name="Hospital accreditation"/>
+		<term name="Hospital medical staff"/>
+		<term name="Interest"/>
+		<term name="Legal fees"/>
+		<term name="Medical associations"/>
+		<term name="Medical care"/>
+		<term name="Medical ethics"/>
+		<term name="Medical personnel"/>
+		<term name="Medical technology"/>
+		<term name="Peer review organizations (Medicine)"/>
+		<term name="Standards"/>
+		<term name="State laws"/>
+		<term name="Technology assessment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Bars the recovery of damages, interest, costs, or attorney fees under the Clayton Act or similar State laws from any medical self-regulatory entity as a result of standard setting or enforcement activities designed to promote the quality of health care.
+
+	</summary>
+</bill>

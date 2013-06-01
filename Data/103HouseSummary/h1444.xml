@@ -1,0 +1,40 @@
+<bill session="103" type="h" number="1444" updated="2010-04-19T02:56:36-04:00">
+	<state datetime="1993-03-24">REFERRED</state>
+	<status><introduced datetime="1993-03-24"/></status>
+
+	<introduced datetime="1993-03-24"/>
+	<titles>
+		<title type="official" as="introduced">To amend title II of the Social Security Act to provide for payment of a benefit for the month of the recipient's death.</title>
+	</titles>
+	<sponsor id="400548"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1993-05-27"/>
+		<cosponsor id="407772" joined="1994-04-14"/>
+		<cosponsor id="400140" joined="1993-11-22"/>
+		<cosponsor id="405258" joined="1993-05-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-24"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Social security eligibility"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/24/1993--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to continue an individual's entitlement to OASDI benefits through the month of his or her death with benefits for that month computed on a prorated basis.
+
+	</summary>
+</bill>

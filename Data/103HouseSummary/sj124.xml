@@ -1,0 +1,54 @@
+<bill session="103" type="sj" number="124" updated="2010-04-19T21:42:48-04:00">
+	<state datetime="1993-08-06">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-08-06" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution designating September 6, 1993, as &quot;Try American Day&quot;.</title>
+	</titles>
+	<sponsor id="403515"/>
+	<cosponsors>
+		<cosponsor id="407254" joined="1993-08-06"/>
+		<cosponsor id="401874" joined="1993-08-06"/>
+		<cosponsor id="300073" joined="1993-08-06"/>
+		<cosponsor id="403346" joined="1993-08-06"/>
+		<cosponsor id="408898" joined="1993-08-06"/>
+		<cosponsor id="400565" joined="1993-08-06"/>
+		<cosponsor id="300010" joined="1993-08-06"/>
+		<cosponsor id="300089" joined="1993-08-06"/>
+		<cosponsor id="300150" joined="1993-08-06"/>
+		<cosponsor id="300036" joined="1993-08-06"/>
+		<cosponsor id="403142" joined="1993-08-06"/>
+		<cosponsor id="300043" joined="1993-08-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Sponsor introductory remarks on measure. (CR S10818)</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-08-06" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Voice Vote.</text><reference label="consideration" ref="CR S10818"/></vote>
+		<action datetime="1993-09-08T12:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-09-08"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-09-08"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="244" />
+		<bill relation="unknown" session="103" type="hj" number="244" />
+	</relatedbills>
+	<subjects>
+		<term name="Special days"/>
+		<term name="Buy American"/>
+		<term name="Commemorations"/>
+		<term name="Foreign trade"/>
+		<term name="Labor Day"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Designates September 6, 1993, Labor Day, as Try American Day.
+
+	</summary>
+</bill>

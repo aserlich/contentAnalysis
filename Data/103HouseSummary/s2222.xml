@@ -1,0 +1,48 @@
+<bill session="103" type="s" number="2222" updated="2012-07-17T06:23:57-04:00">
+	<state datetime="1994-08-11">REPORTED</state>
+	<status><calendar datetime="1994-08-11" /></status>
+
+	<introduced datetime="1994-06-21"/>
+	<titles>
+		<title type="short" as="introduced">Texas Low-Level Radioactive Waste Disposal Compact Consent Act</title>
+		<title type="official" as="introduced">A bill to grant the consent of Congress to the Texas Low-Level Radioactive Waste Disposal Compact.</title>
+	</titles>
+	<sponsor id="407786"/>
+	<cosponsors>
+		<cosponsor id="402727" joined="1994-06-21"/>
+		<cosponsor id="300065" joined="1994-06-21"/>
+		<cosponsor id="300057" joined="1994-06-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-21" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<calendar datetime="1994-08-11"  state="REPORTED"><committee name="Committee on Judiciary"/><text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-08-11"><text>Committee on Judiciary. Reported to Senate by Senator Biden without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="556" datetime="1994-08-11" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 556.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Interstate compacts"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Environmental protection"/>
+		<term name="Government operations and politics"/>
+		<term name="Interstate commissions"/>
+		<term name="Maine"/>
+		<term name="Radioactive wastes"/>
+		<term name="Texas"/>
+		<term name="Vermont"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/21/1994--Introduced.
+Texas Low-Level Radioactive Waste Disposal Compact Consent Act - Grants the consent of the Congress to the Texas Low-Level Radioactive Waste Disposal Compact entered into between the States of Maine, Texas, and Vermont.
+
+	</summary>
+</bill>

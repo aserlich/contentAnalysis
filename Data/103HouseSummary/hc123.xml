@@ -1,0 +1,52 @@
+<bill session="103" type="hc" number="123" updated="2010-04-18T21:20:03-04:00">
+	<state datetime="1993-07-15">REFERRED</state>
+	<status><introduced datetime="1993-07-15"/></status>
+
+	<introduced datetime="1993-07-15"/>
+	<titles>
+		<title type="official" as="introduced">Encouraging United States businesses to adopt a voluntary code for applying internationally recognized human rights principles when engaging in commerce in the People's Republic of China.</title>
+	</titles>
+	<sponsor id="400291"/>
+	<cosponsors>
+		<cosponsor id="400122" joined="1993-11-18"/>
+		<cosponsor id="402152" joined="1993-08-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-15"><text>Sponsor introductory remarks on measure. (CR E1785)</text></action>
+		<action datetime="1993-07-15"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-07-27"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Asia and the Pacific.</text></action>
+		<action datetime="1993-07-27"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Security, International Organizations and Human Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="HSFA-05" name="House Foreign Affairs" subcommittee="Asia and the Pacific" activity="Referral" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Security, International Organizations, and Human Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="American investments"/>
+		<term name="Business ethics"/>
+		<term name="China"/>
+		<term name="Collective bargaining"/>
+		<term name="Discrimination in employment"/>
+		<term name="Employee rights"/>
+		<term name="Ethnic relations"/>
+		<term name="Foreign trade"/>
+		<term name="Human rights"/>
+		<term name="Labor unions"/>
+		<term name="Political persecution"/>
+		<term name="Prison labor"/>
+		<term name="Sex discrimination in employment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/15/1993--Introduced.
+Expresses the sense of the Congress that the President should direct the Secretary of Commerce to consult with American business leaders having significant trade with or investments in the People's Republic of China to encourage them to adopt a voluntary code of conduct that: (1) follows internationally recognized human rights principles; (2) ensures that the employment of Chinese citizens is not discriminatory in terms of sex, ethnic origin, or political belief; (3) refrains from knowingly using prison labor; (4) recognizes workers' rights to organize and bargain collectively; and (5) discourages mandatory political indoctrination on business sites.
+
+	</summary>
+</bill>

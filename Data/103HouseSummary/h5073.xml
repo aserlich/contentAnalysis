@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="5073" updated="2010-04-19T12:22:21-04:00">
+	<state datetime="1994-09-22">REFERRED</state>
+	<status><introduced datetime="1994-09-22"/></status>
+
+	<introduced datetime="1994-09-22"/>
+	<titles>
+		<title type="short" as="introduced">Farm, Ranch, and Homestead Protection Act of 1994</title>
+		<title type="official" as="introduced">To amend the Endangered Species Act of 1973 to ensure that constitutionally protected private property rights are not infringed until adequate protection is afforded by reauthorization of such Act, to protect against and compensate for economic losses from critical habitat designation, and for other purposes.</title>
+	</titles>
+	<sponsor id="400381"/>
+	<cosponsors>
+		<cosponsor id="400104" joined="1994-10-06"/>
+		<cosponsor id="400018" joined="1994-09-22"/>
+		<cosponsor id="400567" joined="1994-09-22"/>
+		<cosponsor id="400037" joined="1994-09-22"/>
+		<cosponsor id="400010" joined="1994-10-06"/>
+		<cosponsor id="400206" joined="1994-09-22"/>
+		<cosponsor id="400325" joined="1994-10-06"/>
+		<cosponsor id="400551" joined="1994-09-22"/>
+		<cosponsor id="400057" joined="1994-10-07"/>
+		<cosponsor id="400079" joined="1994-09-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-22"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Interior.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2451" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Animals"/>
+		<term name="Eminent domain"/>
+		<term name="Endangered species"/>
+		<term name="Environmental assessment"/>
+		<term name="Habitat conservation"/>
+		<term name="Natural resources"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/22/1994--Introduced.
+Farm, Ranch, and Homestead Protection Act of 1994 - Amends the Endangered Species Act of 1973 to prohibit, until its reauthorization, the Secretary of the Interior from: (1) determining a species as an endangered or threatened species; or (2) designating a species habitat as a critical habitat. Requires the Secretary to compensate, upon request, persons and entities for the loss in market value of land that has been designated a critical habitat. Limits the current requirement that Federal agencies insure that any action (regardless of its expense) they authorize, fund, or carry out is not likely to jeopardize the continued existence of an endangered or threatened species, or result in the destruction or adverse modification of habitat of such species determined to be critical, without an express exemption. Restricts such requirement to agency actions that result in expenditures of $500,000 or more.
+
+	</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="3007" updated="2010-04-19T07:00:00-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="short" as="introduced">COBRA Extension Act of 1993</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986, the Employee Retirement Income Security Act of 1974, and the Public Health Service Act to extend for 3 years the period of COBRA continuation coverage.</title>
+	</titles>
+	<sponsor id="400387"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="1994-02-08"/>
+		<cosponsor id="400306" joined="1993-09-13"/>
+		<cosponsor id="400262" joined="1993-09-13"/>
+		<cosponsor id="404097" joined="1994-01-25"/>
+		<cosponsor id="404190" joined="1993-09-13"/>
+		<cosponsor id="400314" joined="1993-08-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-08"><text>Sponsor introductory remarks on measure. (CR E1426)</text></action>
+		<action datetime="1993-08-06"><text>Sponsor introductory remarks on measure. (CR E2040)</text></action>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-09-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1993-09-14"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Employee health benefits"/>
+		<term name="Excise tax"/>
+		<term name="Health insurance"/>
+		<term name="Retiree health benefits"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+COBRA Extension Act of 1993 - Amends the Internal Revenue Code, the Employee Retirement Income Security Act of 1974, and the Public Health Service Act to extend for 36 months the maximum required period of continuation coverage of group health plans.
+
+	</summary>
+</bill>

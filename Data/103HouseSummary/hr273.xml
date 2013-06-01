@@ -1,0 +1,42 @@
+<bill session="103" type="hr" number="273" updated="2010-04-19T13:41:37-04:00">
+	<state datetime="1993-10-14T18:15:00-04:00">FAIL:ORIGINATING:HOUSE</state>
+	<status><vote datetime="1993-10-14T18:15:00-04:00" where="h" result="fail" how="roll" roll="505"/></status>
+
+	<introduced datetime="1993-10-12"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 3167) to extend the emergency unemployment compensation program, to establish a system of worker profiling, and for other purposes.</title>
+	</titles>
+	<sponsor id="400527"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-12T19:20:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-287, by Mr. Bonior.</text></action>
+		<action datetime="1993-10-12T19:20:00-04:00"><text>Rule provides for consideration of H.R. 3167 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. All points of order against consideration of the bill are waived. In lieu of the amendments recommended by the Committee on Ways and Means now printed in the bill, the amendments printed in part 1 of the Committee on Rules.</text></action>
+		<calendar datetime="1993-10-12T19:20:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 98.</text></calendar>
+		<action datetime="1993-10-14T15:42:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H7863-7872"/></action>
+		<action datetime="1993-10-14T15:43:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-10-14T17:10:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 235 - 187 (Roll no. 504).</text></action>
+		<vote how="roll" type="vote" roll="505" datetime="1993-10-14T18:15:00-04:00" where="h" result="fail"  state="FAIL:ORIGINATING:HOUSE"><text>On agreeing to the resolution Failed by the Yeas and Nays: 149 - 274 (Roll no. 505).</text></vote>
+		<action datetime="1993-10-14T18:15:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3167" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="House rules and procedure"/>
+		<term name="Unemployment insurance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/12/1993--Introduced.
+Sets forth the rule for the consideration of H.R. 3167 (amending the Unemployment Compensation Act of 1991).
+
+	</summary>
+</bill>

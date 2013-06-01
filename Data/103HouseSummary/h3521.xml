@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="3521" updated="2010-04-19T08:19:41-04:00">
+	<state datetime="1993-11-16">REFERRED</state>
+	<status><introduced datetime="1993-11-16"/></status>
+
+	<introduced datetime="1993-11-16"/>
+	<titles>
+		<title type="official" as="introduced">To establish a Commission on Crime and Violence.</title>
+	</titles>
+	<sponsor id="411488"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-16"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-12-16"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+		<action datetime="1994-04-21"><committee name="House Committee on Judiciary"/><text>See H.R.4092.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4092" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Administration of criminal justice"/>
+		<term name="Assault weapons"/>
+		<term name="Blacks and crime"/>
+		<term name="Boundaries"/>
+		<term name="Correctional institutions"/>
+		<term name="Crime prevention"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Firearms"/>
+		<term name="Gangs"/>
+		<term name="Immigration"/>
+		<term name="Imprisonment"/>
+		<term name="Legislation"/>
+		<term name="Public meetings of administrative bodies"/>
+		<term name="State laws"/>
+		<term name="Violence"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/16/1993--Introduced.
+Establishes a National Commission on Crime and Violence in America. Includes among the duties of the Commission to: (1) review the effectiveness of traditional criminal justice approaches in preventing and controlling crime and violence; (2) convene hearings in various parts of the country; (3) develop a comprehensive and effective crime control and antiviolence plan that will serve as a blueprint for action in the 1990's and which reaches out beyond the traditional criminal justice community for ideas; and (4) study the economic and social factors leading to or contributing to, and specific proposals for legislative and administrative actions to reduce, crime and violence.
+
+	</summary>
+</bill>

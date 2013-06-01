@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="1091" updated="2010-04-19T01:58:07-04:00">
+	<state datetime="1993-02-24">REFERRED</state>
+	<status><introduced datetime="1993-02-24"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="official" as="introduced">To establish the Commission on Information Technology and Paperwork Reduction.</title>
+	</titles>
+	<sponsor id="402657"/>
+	<cosponsors>
+		<cosponsor id="410529" joined="1993-03-30"/>
+		<cosponsor id="400023" joined="1993-03-11"/>
+		<cosponsor id="408052" joined="1993-03-11"/>
+		<cosponsor id="400113" joined="1993-03-11"/>
+		<cosponsor id="406768" joined="1993-03-11"/>
+		<cosponsor id="400188" joined="1993-03-11"/>
+		<cosponsor id="412001" joined="1993-02-24"/>
+		<cosponsor id="400083" joined="1993-03-11"/>
+		<cosponsor id="400586" joined="1993-06-10"/>
+		<cosponsor id="407669" joined="1993-03-11"/>
+		<cosponsor id="404009" joined="1993-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24"><text>Sponsor introductory remarks on measure. (CR E429-430)</text></action>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-03-03"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2995" />
+	</relatedbills>
+	<subjects>
+		<term name="Government paperwork"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Information technology"/>
+		<term name="Productivity in government"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Establishes the Commission on Information Technology and Paperwork Reduction in order to minimize the information reporting burden imposed by the Federal Government, consistent with the information needs of the Government for policy purposes. Lists specific Commission functions, which include the study and review of former Commission on Paperwork recommendations for paperwork reduction. Requires a final Commission report to the Congress and the President and action by the Office of Management and Budget on Commission recommendations.
+
+	</summary>
+</bill>

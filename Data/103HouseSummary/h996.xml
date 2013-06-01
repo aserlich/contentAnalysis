@@ -1,0 +1,62 @@
+<bill session="103" type="h" number="996" updated="2012-07-17T06:17:24-04:00">
+	<state datetime="1993-05-24T15:31:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-05-24T15:31:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-02-18"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to establish a veterans education certification and outreach program.</title>
+	</titles>
+	<sponsor id="407838"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1993-03-29"/>
+		<cosponsor id="408476" joined="1993-05-18"/>
+		<cosponsor id="400580" joined="1993-05-03"/>
+		<cosponsor id="400389" joined="1993-05-18"/>
+		<cosponsor id="400380" joined="1993-02-18"/>
+		<cosponsor id="405313" joined="1993-05-18"/>
+		<cosponsor id="408556" joined="1993-05-18"/>
+		<cosponsor id="400554" joined="1993-03-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-18" state="REFERRED"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Education, Training and Employment.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Veterans' Affairs"/><text>Executive Comment Requested from Veterans' Affairs.</text></action>
+		<action datetime="1993-03-22"><committee name="House Committee on Veterans' Affairs"/><text>Executive Comment Received from Veterans' Affairs.</text></action>
+		<action datetime="1993-03-25"><committee name="House Committee on Veterans' Affairs" subcommittee="Education, Training and Employment"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Veterans' Affairs" subcommittee="Education, Training and Employment"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Veterans' Affairs" subcommittee="Education, Training and Employment"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-05-11"><committee name="House Committee on Veterans' Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-05-11"  state="REPORTED"><committee name="House Committee on Veterans' Affairs"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-05-19T16:58:00-04:00"><text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 103-98.</text></action>
+		<calendar number="50" datetime="1993-05-19T16:59:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 50.</text></calendar>
+		<action datetime="1993-05-24T15:23:00-04:00"><text>Mr. Montgomery moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-05-24T15:24:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2692-2694"/></action>
+		<action datetime="1993-05-24T15:24:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-05-24T15:31:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-05-24T15:31:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-05-25"><text>Received in the Senate and read twice and referred to the Committee on Veterans.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Veterans' Affairs" subcommittee="Education, Training and Employment" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Education"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Information services"/>
+		<term name="Veterans' benefits"/>
+		<term name="Veterans' education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/24/1993--Passed House amended. Directs the Secretary of Veterans Affairs to provide funding for offices of veterans affairs at institutions of higher education for educational assistance to veterans. Requires such institutions to apply for such payments and to agree to use the funds to enhance the functions of veterans' education outreach programs during the academic year. Requires an office of veterans affairs to be maintained at each recipient institution to be responsible for veterans' certification, outreach, recruitment, and special education programs as well as other veterans' services. Limits the per-veteran and per-institution payments for a fiscal year. Requires the coordination of such veterans' program with other Department programs. Authorizes appropriations.
+
+	</summary>
+</bill>

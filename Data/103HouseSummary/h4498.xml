@@ -1,0 +1,140 @@
+<bill session="103" type="h" number="4498" updated="2010-04-19T10:52:21-04:00">
+	<state datetime="1994-05-25">REFERRED</state>
+	<status><introduced datetime="1994-05-25"/></status>
+
+	<introduced datetime="1994-05-25"/>
+	<titles>
+		<title type="short" as="introduced">Job Start for America Act of 1994</title>
+		<title type="official" as="introduced">To provide additional assistance to persons receiving aid to families with dependent children who are most likely to use the assistance to end their welfare dependence.</title>
+	</titles>
+	<sponsor id="400554"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1994-06-17"/>
+		<cosponsor id="400133" joined="1994-05-25"/>
+		<cosponsor id="400128" joined="1994-05-25"/>
+		<cosponsor id="400364" joined="1994-06-17"/>
+		<cosponsor id="400289" joined="1994-05-25"/>
+		<cosponsor id="400126" joined="1994-05-25"/>
+		<cosponsor id="400080" joined="1994-05-25"/>
+		<cosponsor id="400532" joined="1994-05-25"/>
+		<cosponsor id="400122" joined="1994-05-25"/>
+		<cosponsor id="400333" joined="1994-05-25"/>
+		<cosponsor id="400295" joined="1994-05-25"/>
+		<cosponsor id="411040" joined="1994-05-25"/>
+		<cosponsor id="400170" joined="1994-05-25"/>
+		<cosponsor id="400424" joined="1994-05-25"/>
+		<cosponsor id="404634" joined="1994-05-25"/>
+		<cosponsor id="400124" joined="1994-06-17"/>
+		<cosponsor id="400306" joined="1994-05-25"/>
+		<cosponsor id="400409" joined="1994-05-25"/>
+		<cosponsor id="400312" joined="1994-05-25"/>
+		<cosponsor id="400511" joined="1994-05-25"/>
+		<cosponsor id="400402" joined="1994-06-17"/>
+		<cosponsor id="400387" joined="1994-06-17"/>
+		<cosponsor id="407772" joined="1994-05-25"/>
+		<cosponsor id="411947" joined="1994-05-25"/>
+		<cosponsor id="403364" joined="1994-05-25"/>
+		<cosponsor id="411350" joined="1994-05-25"/>
+		<cosponsor id="400347" joined="1994-05-25"/>
+		<cosponsor id="400416" joined="1994-05-25"/>
+		<cosponsor id="404978" joined="1994-05-25"/>
+		<cosponsor id="400048" joined="1994-06-17"/>
+		<cosponsor id="407672" joined="1994-05-25"/>
+		<cosponsor id="400001" joined="1994-05-25"/>
+		<cosponsor id="400436" joined="1994-05-25"/>
+		<cosponsor id="409650" joined="1994-05-25"/>
+		<cosponsor id="400140" joined="1994-05-25"/>
+		<cosponsor id="400422" joined="1994-05-25"/>
+		<cosponsor id="400178" joined="1994-05-25"/>
+		<cosponsor id="402626" joined="1994-05-25"/>
+		<cosponsor id="400350" joined="1994-05-25"/>
+		<cosponsor id="400366" joined="1994-05-25"/>
+		<cosponsor id="400021" joined="1994-05-25"/>
+		<cosponsor id="400615" joined="1994-05-25"/>
+		<cosponsor id="400595" joined="1994-05-25"/>
+		<cosponsor id="404190" joined="1994-05-25"/>
+		<cosponsor id="400201" joined="1994-05-25"/>
+		<cosponsor id="400204" joined="1994-05-25"/>
+		<cosponsor id="400310" joined="1994-05-25"/>
+		<cosponsor id="400240" joined="1994-05-25"/>
+		<cosponsor id="400438" joined="1994-05-25"/>
+		<cosponsor id="400513" joined="1994-05-25"/>
+		<cosponsor id="410407" joined="1994-06-17"/>
+		<cosponsor id="400301" joined="1994-05-25"/>
+		<cosponsor id="400516" joined="1994-05-25"/>
+		<cosponsor id="400314" joined="1994-06-17"/>
+		<cosponsor id="403776" joined="1994-05-25"/>
+		<cosponsor id="402762" joined="1994-05-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-25"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-05-25"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1994-05-25"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1994-05-25"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-06-01"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Department Operations and Nutrition.</text></action>
+		<action datetime="1994-06-02"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+		<action datetime="1994-06-06"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Housing and Community Development.</text></action>
+		<action datetime="1994-06-22"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Postsecondary Education and Training.</text></action>
+		<action datetime="1994-06-22"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+		<action datetime="1994-06-22"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Department Operations and Nutrition" activity="Referral" />
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="HSBA-04" name="House Banking, Finance, and Urban Affairs" subcommittee="Housing and Community Development" activity="Referral" />
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Postsecondary Education and Training" activity="Referral" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral" />
+		<committee code="" name="House Education and Labor" subcommittee="Human Resources" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Aid to dependent children"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Children"/>
+		<term name="Day care"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Earnings"/>
+		<term name="Education"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Employment agencies"/>
+		<term name="Executive departments"/>
+		<term name="Families"/>
+		<term name="Food"/>
+		<term name="Food stamps"/>
+		<term name="Hard-core unemployed"/>
+		<term name="Households"/>
+		<term name="Housing"/>
+		<term name="Income"/>
+		<term name="Job hunting"/>
+		<term name="Job training"/>
+		<term name="Labor"/>
+		<term name="Low-income housing"/>
+		<term name="Manpower training programs"/>
+		<term name="Married people"/>
+		<term name="Parents"/>
+		<term name="Preschool education"/>
+		<term name="Public assistance programs"/>
+		<term name="Rent"/>
+		<term name="Rent subsidies"/>
+		<term name="Rental housing"/>
+		<term name="Social security eligibility"/>
+		<term name="Vocational guidance"/>
+		<term name="Welfare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/25/1994--Introduced.
+TABLE OF CONTENTS: Title I: AFDC Amendments Title II: Housing Amendments Title III: Food Stamp Amendment Title IV: Head Start Amendment Title V: Effective Date Job Start for America Act of 1994 - Title I: AFDC Amendments - Amends part A of title IV (Aid to Families with Dependent Children) (AFDC) of the Social Security Act (SSA) to require each State agency to provide to the caretaker relative of each first phase family (as defined by this Act) vouchers entitling any child care provider meeting applicable State and local standards to State payments equal to the provider's cost of providing child care with respect to the family. (Sec. 101) Provides for continuance of AFDC benefits for first phase and second phase families (as defined by this Act) for: (1) two years after the principal earner parent becomes gainfully employed; or (2) six months after the family income exceeds 300 percent of the poverty line. Disregards the assets of a spouse who marries an AFDC recipient for the first six months after the wedding. (Sec. 103) Increases from $1,000 (or any State-determined lower amount) to $2,500 the eligibility resource threshold for receipt of AFDC benefits. (Sec. 104) Requires a State plan to provide that a State agency shall provide job training and job search counseling to all AFDC recipients, including educational activities, job skills training, job readiness activities, job development, and job placement. Sets priorities for provision of job training and job search counseling, first to all first phase families, then to all second phase families, then to any family neither one nor the other. (Sec. 105) Defines: (1) first phase family as one whose principal earner parent has never been gainfully employed for three or more months (whether or not consecutive); and (2) second phase family as one whose principal earner parent has graduated from secondary school or received a high school equivalency certificate, but has never been gainfully employed. (Sec. 106) Repeals: (1) part F of SSA title IV (Job Opportunities and Basic Skills (JOBS) Training Programs); and (2) requirements for treating families differently based on the number of parents in the home. Title II: Housing Amendments - Prohibits for a 24-month period any rent increase for a qualified dwelling unit because of increased income due to employment with respect to a family: (1) whose income increases as a result of the employment of a family member who was previously unemployed; and (2) who was receiving AFDC payments immediately before such employment. Title III: Food Stamp Amendment - Amends the Food Stamp Act of 1977 to exclude for food stamp eligibility purposes all earned income of a household that includes a member who is employed and who in the most recent two-year period participated fully in a State job training and job search counseling program under this Act, unless the household's aggregate income exceeds the poverty line by more than 300 percent. Title IV: Head Start Amendment - Amends the Head Start Act to authorize appropriations for full-day and full-year services. Title V: Effective Date - Sets forth the effective date of this Act.
+
+	</summary>
+</bill>

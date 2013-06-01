@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="1234" updated="2010-04-19T02:22:44-04:00">
+	<state datetime="1993-03-04">REFERRED</state>
+	<status><introduced datetime="1993-03-04"/></status>
+
+	<introduced datetime="1993-03-04"/>
+	<titles>
+		<title type="official" as="introduced">To provide that positions held by civilian technicians of the National Guard be made part of the competitive service.</title>
+	</titles>
+	<sponsor id="408976"/>
+	<cosponsors>
+		<cosponsor id="410529" joined="1994-03-11"/>
+		<cosponsor id="400140" joined="1993-09-08"/>
+		<cosponsor id="411178" joined="1993-09-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-04"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-03-04"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-03-08"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Civil Service.</text></action>
+		<action datetime="1993-03-10"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-03-10"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Civil Service" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="National Guard"/>
+		<term name="Position classification"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/4/1993--Introduced.
+Amends Federal provisions relating to the National Guard to include positions held by civilian technicians of the National Guard within the competitive service. Provides that service performed by such technicians prior to the effective date of this Act shall be considered competitive service for purposes of eligibility for certain Federal benefits.
+
+	</summary>
+</bill>

@@ -1,0 +1,37 @@
+<bill session="103" type="hr" number="63" updated="2010-04-19T13:08:36-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="official" as="introduced">Providing amounts from the contingent fund of the House for expenses of investigations and studies by the Committee on Rules in the first session of the One Hundred Third Congress.</title>
+	</titles>
+	<sponsor id="400600"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-02-04"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Accounts.</text></action>
+		<action datetime="1993-02-23"><committee name="House Committee on House Administration" subcommittee="Accounts"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Accounts" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congressional committees (House)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Provides amounts for expenses of investigations and studies by the House Committee on Rules in the first session of the 103d Congress.
+
+	</summary>
+</bill>

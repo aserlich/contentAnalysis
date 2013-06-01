@@ -1,0 +1,68 @@
+<bill session="103" type="s" number="1974" updated="2012-07-17T04:59:36-04:00">
+	<state datetime="1994-04-14">REPORTED</state>
+	<status><calendar datetime="1994-04-14" /></status>
+
+	<introduced datetime="1994-03-24"/>
+	<titles>
+		<title type="short" as="introduced">VA State Health Care Reform Pilot Program Act</title>
+		<title type="short" as="reported to senate">VA State Health Care Reform Pilot Program Act</title>
+		<title type="official" as="introduced">A bill to authorize the Secretary of Veterans Affairs to conduct pilot programs in order to evaluate the feasibility of the participation of the Department of Veterans Affairs health care system in the health care systems of States that have enacted health care reform.</title>
+	</titles>
+	<sponsor id="300084"/>
+	<cosponsors>
+		<cosponsor id="300150" joined="1994-03-24"/>
+		<cosponsor id="300046" joined="1994-03-24"/>
+		<cosponsor id="300157" joined="1994-03-24"/>
+		<cosponsor id="300076" joined="1994-03-24"/>
+		<cosponsor id="300031" joined="1994-03-24"/>
+		<cosponsor id="400566" joined="1994-05-11"/>
+		<cosponsor id="300001" joined="1994-03-24"/>
+		<cosponsor id="300017" joined="1994-04-11"/>
+		<cosponsor id="300065" joined="1994-03-24"/>
+		<cosponsor id="300057" joined="1994-03-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3690-3691)</text></action>
+		<action datetime="1994-03-24" state="REFERRED"><text>Read twice and referred to the Committee on Veterans.</text></action>
+		<calendar datetime="1994-04-14"  state="REPORTED"><committee name="Committee on Veterans"/><text>Committee on Veterans. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-05-23"><text>Committee on Veterans. Reported to Senate by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 103-268.</text></action>
+		<calendar under="General Orders" number="436" datetime="1994-05-23" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 436.</text></calendar>
+		<action datetime="1994-06-08"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S6623-6626"/></action>
+		<action datetime="1994-06-08"><text>The committee substitute as amended agreed to by Voice Vote.</text></action>
+		<action datetime="1994-06-08"><text>Senate incorporated this measure in H.R. 4013 as an amendment.</text></action>
+		<action datetime="1994-06-08"><text>Senate passed companion measure H.R. 4013 in lieu of this measure by Voice Vote.</text></action>
+		<action datetime="1994-06-08"><text>Indefinitely postponed by Senate by Unanimous Consent.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="superseded" session="103" type="h" number="4013" />
+		<bill relation="unknown" session="103" type="h" number="4013" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Comprehensive health care"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Department of Veterans Affairs"/>
+		<term name="Economics and public finance"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal employees"/>
+		<term name="Government operations and politics"/>
+		<term name="Government trust funds"/>
+		<term name="Health"/>
+		<term name="Health care reform"/>
+		<term name="Health insurance"/>
+		<term name="State laws"/>
+		<term name="Veterans' hospitals"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1765"/>
+	</amendments>
+	<summary>
+	6/8/1994--Indefinitely postponed in Senate. VA State Health Care Reform Pilot Program Act - Authorizes the Secretary of Veterans Affairs to carry out pilot programs on the participation of the Department of Veterans Affairs health care system in the health care systems of States that have adopted comprehensive health benefit plans. Allows up to five States to be used for such pilot programs. Requires the Secretary to provide benefits to persons through the Department health care system in such a State as if such system were a provider of benefits under the State plan. Prohibits a State from refusing Department participation in a State health benefit plan unless the chief executive officer of such State certifies that the Department plan or its facilities are inadequate to meet the State health benefit plan. Requires the Secretary to designate a health system director for each State in which a pilot program is carried out. Authorizes the Secretary to carry out any necessary administrative reorganization of Department health care systems or facilities in a program State. Allows the Secretary to exclude Department facilities from participation in a pilot program. Authorizes a health system director to enter into contracts and agreements for the provision of health care services and related services in connection with the pilot program. Excludes such contracts and agreements from certain Federal law. Requires review by the Central Office of the Department of contracts and agreements of $250,000 or more. Outlines provisions concerning: (1) the use of Department personnel in a pilot program; (2) eligible persons; and (3) copayments and other charges (and their waiver with respect to certain veterans). Establishes in the Treasury the Department of Veterans Affairs Health Care Reform Fund to be used for pilot program purposes, with a separate account established for each program. Requires the Secretary to collect, and report to specified congressional committees concerning, information with respect to the provision of health care benefits under each pilot program. Requires annual reports by the Secretary to such committees concerning expenditures made from the Reform Fund for each pilot program during the previous fiscal year.
+
+	</summary>
+</bill>

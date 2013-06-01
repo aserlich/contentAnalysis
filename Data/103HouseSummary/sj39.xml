@@ -1,0 +1,95 @@
+<bill session="103" type="sj" number="39" updated="2012-07-17T04:10:55-04:00">
+	<state datetime="1993-05-27">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-05-27" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution designating the weeks beginning May 23, 1993, and May 15, 1994, as &quot;Emergency Medical Services Week&quot;.</title>
+	</titles>
+	<sponsor id="403142"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-02-24"/>
+		<cosponsor id="300016" joined="1993-03-24"/>
+		<cosponsor id="300150" joined="1993-03-02"/>
+		<cosponsor id="300071" joined="1993-02-24"/>
+		<cosponsor id="300052" joined="1993-03-02"/>
+		<cosponsor id="300056" joined="1993-02-24"/>
+		<cosponsor id="300060" joined="1993-03-04"/>
+		<cosponsor id="300059" joined="1993-05-05"/>
+		<cosponsor id="300043" joined="1993-03-02"/>
+		<cosponsor id="406084" joined="1993-02-24"/>
+		<cosponsor id="401709" joined="1993-02-24"/>
+		<cosponsor id="300089" joined="1993-02-24"/>
+		<cosponsor id="409225" joined="1993-02-24"/>
+		<cosponsor id="409917" joined="1993-02-24"/>
+		<cosponsor id="300066" joined="1993-02-24"/>
+		<cosponsor id="300036" joined="1993-03-26"/>
+		<cosponsor id="300086" joined="1993-03-04"/>
+		<cosponsor id="408939" joined="1993-03-02"/>
+		<cosponsor id="300053" joined="1993-03-30"/>
+		<cosponsor id="406487" joined="1993-03-18"/>
+		<cosponsor id="300048" joined="1993-03-16"/>
+		<cosponsor id="300008" joined="1993-03-11"/>
+		<cosponsor id="300001" joined="1993-02-24"/>
+		<cosponsor id="400563" joined="1993-04-19"/>
+		<cosponsor id="300065" joined="1993-02-24"/>
+		<cosponsor id="407663" joined="1993-03-11"/>
+		<cosponsor id="409923" joined="1993-05-18"/>
+		<cosponsor id="402675" joined="1993-03-18"/>
+		<cosponsor id="300067" joined="1993-02-03"/>
+		<cosponsor id="400562" joined="1993-05-18"/>
+		<cosponsor id="300092" joined="1993-02-24"/>
+		<cosponsor id="300029" joined="1993-02-24"/>
+		<cosponsor id="300057" joined="1993-03-02"/>
+		<cosponsor id="408898" joined="1993-02-24"/>
+		<cosponsor id="300009" joined="1993-02-24"/>
+		<cosponsor id="403346" joined="1993-02-24"/>
+		<cosponsor id="402412" joined="1993-02-24"/>
+		<cosponsor id="300099" joined="1993-05-18"/>
+		<cosponsor id="408597" joined="1993-03-02"/>
+		<cosponsor id="402004" joined="1993-02-24"/>
+		<cosponsor id="300034" joined="1993-03-02"/>
+		<cosponsor id="403171" joined="1993-04-19"/>
+		<cosponsor id="300023" joined="1993-02-24"/>
+		<cosponsor id="300157" joined="1993-02-24"/>
+		<cosponsor id="404598" joined="1993-02-24"/>
+		<cosponsor id="406188" joined="1993-03-04"/>
+		<cosponsor id="400566" joined="1993-02-24"/>
+		<cosponsor id="402727" joined="1993-02-24"/>
+		<cosponsor id="407992" joined="1993-03-04"/>
+		<cosponsor id="405310" joined="1993-03-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1199)</text></action>
+		<action datetime="1993-02-03" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<calendar datetime="1993-05-27"  state="REPORTED"><committee name="Committee on Judiciary"/><text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-05-27"><text>Committee on Judiciary. Reported to Senate by Senator Biden without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="81" datetime="1993-05-27" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 81.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-05-27" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment and with a preamble by Voice Vote.</text><reference label="consideration" ref="CR S6731"/></vote>
+		<action datetime="1993-06-08T12:04:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-06-08"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-06-08"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="78" />
+		<bill relation="unknown" session="103" type="hj" number="78" />
+	</relatedbills>
+	<subjects>
+		<term name="Special weeks"/>
+		<term name="Commemorations"/>
+		<term name="Emergency medical services"/>
+		<term name="Health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Designates the weeks beginning May 23, 1993, and May 15, 1994, as Emergency Medical Services Week.
+
+	</summary>
+</bill>

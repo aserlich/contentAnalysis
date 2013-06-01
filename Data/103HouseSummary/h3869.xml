@@ -1,0 +1,204 @@
+<bill session="103" type="h" number="3869" updated="2010-04-19T09:13:55-04:00">
+	<state datetime="1994-05-23T13:10:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-05-23T13:10:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-02-11"/>
+	<titles>
+		<title type="short" as="introduced">Minority Health Improvement Act of 1994</title>
+		<title type="short" as="passed house">Minority Health Improvement Act of 1994</title>
+		<title type="official" as="introduced">To amend the Public Health Service Act to revise and extend programs relating to the health of individuals who are members of minority groups, and for other purposes.</title>
+	</titles>
+	<sponsor id="400425"/>
+	<cosponsors>
+		<cosponsor id="400414" joined="1994-02-11"/>
+		<cosponsor id="400272" joined="1994-02-11"/>
+		<cosponsor id="400302" joined="1994-03-01"/>
+		<cosponsor id="404296" joined="1994-02-11"/>
+		<cosponsor id="409205" joined="1994-02-11"/>
+		<cosponsor id="400409" joined="1994-02-11"/>
+		<cosponsor id="410589" joined="1994-02-11"/>
+		<cosponsor id="407772" joined="1994-02-11"/>
+		<cosponsor id="411350" joined="1994-02-11"/>
+		<cosponsor id="400416" joined="1994-02-11"/>
+		<cosponsor id="400366" joined="1994-02-11"/>
+		<cosponsor id="400021" joined="1994-03-23"/>
+		<cosponsor id="400256" joined="1994-02-11"/>
+		<cosponsor id="400615" joined="1994-02-11"/>
+		<cosponsor id="404190" joined="1994-05-02"/>
+		<cosponsor id="400310" joined="1994-02-11"/>
+		<cosponsor id="410889" joined="1994-03-01"/>
+		<cosponsor id="400163" joined="1994-02-11"/>
+		<cosponsor id="400516" joined="1994-02-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-11"><text>Sponsor introductory remarks on measure. (CR E187)</text></action>
+		<action datetime="1994-02-11"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-02-11"><committee name="House Committee on Energy and Commerce"/><text>For Previous Action See H.R.3804.</text></action>
+		<action datetime="1994-02-23"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-02-23"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-05-11T18:40:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 103-501.</text></action>
+		<calendar number="281" datetime="1994-05-11T18:41:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 281.</text></calendar>
+		<action datetime="1994-05-23T12:46:00-04:00"><text>Mr. Waxman moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-05-23T12:46:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3810-3828"/></action>
+		<action datetime="1994-05-23T12:46:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-05-23T13:10:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-05-23T13:10:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-05-23T13:11:00-04:00"><text>Laid on the table. See S. 1569 for further action.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3468" />
+		<bill relation="unknown" session="103" type="h" number="3804" />
+		<bill relation="superseded" session="103" type="s" number="1569" />
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Accident prevention"/>
+		<term name="Air pollution"/>
+		<term name="Air pollution measurement"/>
+		<term name="Ambulatory care"/>
+		<term name="Authorization"/>
+		<term name="Birth defects"/>
+		<term name="Boundaries"/>
+		<term name="Brain"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Buy American"/>
+		<term name="California"/>
+		<term name="Career education"/>
+		<term name="Child health"/>
+		<term name="Children"/>
+		<term name="Clinics"/>
+		<term name="Communication in medicine"/>
+		<term name="Communications"/>
+		<term name="Community health services"/>
+		<term name="Comprehensive health care"/>
+		<term name="Conferences"/>
+		<term name="Congress"/>
+		<term name="Congressional investigations"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Consumer cooperatives"/>
+		<term name="Consumers"/>
+		<term name="Curricula"/>
+		<term name="Data banks"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Diabetes"/>
+		<term name="Dismissal of employees"/>
+		<term name="Drug abuse"/>
+		<term name="Drug industry"/>
+		<term name="Education"/>
+		<term name="Education of Indians"/>
+		<term name="Education of socially handicapped children"/>
+		<term name="Educational counseling"/>
+		<term name="Educational policy"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Elementary education"/>
+		<term name="Environmental health"/>
+		<term name="Environmental monitoring"/>
+		<term name="Environmental protection"/>
+		<term name="Epidemiology"/>
+		<term name="Executive departments"/>
+		<term name="Executive reorganization"/>
+		<term name="Eye diseases"/>
+		<term name="Families"/>
+		<term name="Family medicine"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to alcoholism programs"/>
+		<term name="Federal aid to health facilities"/>
+		<term name="Federal aid to maternal health services"/>
+		<term name="Federal aid to medical education"/>
+		<term name="Federal aid to medical research"/>
+		<term name="Federal aid to nursing education"/>
+		<term name="Federal employees"/>
+		<term name="Female circumcision"/>
+		<term name="Fetal alcohol syndrome"/>
+		<term name="Foreign trade"/>
+		<term name="Government employees"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Government service contracts"/>
+		<term name="Grants-in-aid"/>
+		<term name="Hawaiians"/>
+		<term name="Head injuries"/>
+		<term name="Health education"/>
+		<term name="Health planning"/>
+		<term name="Health policy"/>
+		<term name="Higher education"/>
+		<term name="Home care services"/>
+		<term name="Homeless"/>
+		<term name="Hospitals"/>
+		<term name="Housing"/>
+		<term name="Indian medical care"/>
+		<term name="Infant mortality"/>
+		<term name="Information services"/>
+		<term name="Labor"/>
+		<term name="Laboratories"/>
+		<term name="Latin America"/>
+		<term name="Layoffs"/>
+		<term name="Maternal health services"/>
+		<term name="Medical education"/>
+		<term name="Medical laboratories"/>
+		<term name="Medical personnel"/>
+		<term name="Medical research"/>
+		<term name="Medical statistics"/>
+		<term name="Medical students"/>
+		<term name="Medicine"/>
+		<term name="Mental health services"/>
+		<term name="Mexico"/>
+		<term name="Migrant labor"/>
+		<term name="Minorities"/>
+		<term name="Minorities in medicine"/>
+		<term name="Minority education"/>
+		<term name="Minority employment"/>
+		<term name="Minority students"/>
+		<term name="Minority teachers"/>
+		<term name="Minority women"/>
+		<term name="New York City"/>
+		<term name="Nursing education"/>
+		<term name="Osteopathy and osteopaths"/>
+		<term name="Pacific Islanders"/>
+		<term name="Parental leave"/>
+		<term name="Pay equity"/>
+		<term name="Poor"/>
+		<term name="Pregnant women"/>
+		<term name="Prescription pricing"/>
+		<term name="Preventive medicine"/>
+		<term name="Public contracts"/>
+		<term name="Public health"/>
+		<term name="Public housing"/>
+		<term name="Recruiting of employees"/>
+		<term name="Research grants"/>
+		<term name="Rural affairs"/>
+		<term name="Rural public health"/>
+		<term name="Scholarships"/>
+		<term name="Science policy"/>
+		<term name="Scientists in government"/>
+		<term name="Secondary education"/>
+		<term name="Student loan funds"/>
+		<term name="Telecommunication"/>
+		<term name="Texas"/>
+		<term name="Trade"/>
+		<term name="Translating and interpreting"/>
+		<term name="Trauma care"/>
+		<term name="Treatment and rehabilitation of alcoholics"/>
+		<term name="Treatment and rehabilitation of narcotic addicts"/>
+		<term name="Urban affairs"/>
+		<term name="Urban areas"/>
+		<term name="Water pollution"/>
+		<term name="Water pollution measurement"/>
+		<term name="Women"/>
+		<term name="Women in medicine"/>
+		<term name="Women scientists"/>
+		<term name="Women's employment"/>
+		<term name="Women's health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/23/1994--Passed House amended. TABLE OF CONTENTS: Title I: Office of Minority Health Title II: Primary Health Services Title III: Health Professions Programs Title IV: Research Title V: Native Hawaiian Health Care Title VI: Women's Health Title VII: Traumatic Brain Injury Title VIII: Miscellaneous Provisions Title IX: General Provisions Minority Health Improvement Act of 1994 - Title I: Office of Minority Health - Amends the Public Health Service Act to revise the duties of the Office of Minority Health. Provides for the establishment of the Advisory Committee on Minority Health to advise the Secretary of Health and Human Services concerning minority health. Authorizes appropriations through FY 1997. (Sec. 102) Requires each of the following agencies to establish its own Office of Minority Health: (1) Centers for Disease Control and Prevention; (2) Agency for Health Care Policy and Research; (3) Health Resources and Services Administration; (4) Substance Abuse and Mental Health Services Administration; and (5) National Institutes of Health (NIH). Reserves 0.5 percent of an agency's appropriation for such Office. Title II: Primary Health Services - Provides for the treatment of pregnant women for substance abuse by migrant health centers and community health centers. Authorizes the development and operation of more than one migrant or community health center in a catchment area if specified circumstances exist. Permits such centers to offer offsite services. Authorizes appropriations. (Sec. 202) Extends, through FY 1998, authorizations of appropriations for health services for: (1) the homeless; and (2) residents of public housing. (Sec. 204) Sets forth provisions concerning grants for: (1) loan repayment programs regarding obligated service of health professionals; (2) the operation of State offices of rural health; and (3) demonstrations for community scholarship programs regarding obligated services of health professionals. (Sec. 207) Revises provisions concerning programs regarding birth defects. (Sec. 208) Authorizes grants for up to 19 demonstration prjects for the purpose of reducing the incidence of: (1) infant mortality; (2) fetal deaths; (3) maternal mortality; (4) fetal alcohol syndrome; and (5) low-birthweight births. Authorizes appropriations. (Sec. 209) Provides for demonstration projects regarding diabetic-retinopathy. Authorizes appropriations. Title III: Health Professions Programs - Revises provisions concerning scholarships for students of exceptional financial need. Requires students receiving such a scholarship to be from a disadvantaged background. Authorizes appropriations. (Sec. 304) Revises provisions concerning Centers of Excellence. Requires grants to be made only to designated health professions schools. Authorizes appropriations. (Sec. 305) Revises provisions concerning educational assistance regarding undergraduates. Authorizes grants to assist disadvantaged students who are interested in a career in the health professions who are students of either elementary, secondary, or higher level schools. Authorizes appropriations. Title IV: Research - Directs the Director of the Office of Research on Minority Health to establish the Advisory Committee on Research on Minority Health. (Sec. 402) Revises activities of the Agency for Health Care Policy and Research. (Sec. 403) Authorizes appropriations for the National Center for Health Statistics for health statistical and epidemiological activities. Title V: Native Hawaiian Health Care - Revises the Native Hawaiian Health Care Improvement Act completely, including: (1) the findings, declaration of policy, and intent of the Congress; (2) the comprehensive health care master plan for Native Hawaiians; (3) functions of Papa Ola Lokahi; (4) provisions concerning Native Hawaiian health care systems; (5) administration of grants and contracts; (6) scholarship provisions; (7) assignment of personnel; and (8) definitions. Authorizes appropriations through FY 2000 to carry out the Act. Title VI: Women's Health - Establishes an Office of Women's Health within the Office of the Assistant Secretary for Health. Authorizes appropriations. (Sec. 602) Requires the Director of NIH to establish policies regarding the employment by NIH of women scientists and to study and report to specified congressional committees on pay differences between men and women scientists. Directs the Comptroller General to study and report to such committees on the termination of NIH scientists. (Sec. 603) Provides for data collection and education outreach on female gential mutilation. (Sec. 604) Directs the Secretary of Health and Human Services, acting through the Administrator of the Health Resources and Services Administration, to study and report to specified congressional committees on whether medical and osteopathic school curricula provide education on women's health conditions. Title VII: Traumatic Brain Injury - Authorizes the Secretary, acting through the Director of the Centers for Disease Control and Prevention, to carry out projects to reduce the incidence of traumatic brain injury. (Sec. 702) Authorizes grants or contracts for research regarding traumatic brain injury. (Sec. 703) Authorizes the Secretary, acting through the Administrator of the Health Resources and Services Administration, to make grants for carrying out demonstration projects to improve the availability of health services regarding traumatic brain injury to States that establish advisory boards. Authorizes appropriations. (Sec. 704) Directs the Secretary to study and report to specified congressional committees on traumatic brain injury. Title VIII: Miscellaneous Provisions - Authorizes appropriations through FY 1997 for health services for Pacific Islanders under the Disadvantaged Minority Health Improvement Act of 1990. (Sec. 804) Provides for the establishment of such technical and scientific peer review groups and scientific program advisory committees as are necessary to carry out the functions of the Centers for Disease Control and Prevention. (Sec. 805) Authorizes the Secretary to make a grant to establish a laboratory on the U.S.-Mexican border to protect the public health through analyzing human, wildlife, air, water, and soil samples. Authorizes appropriations. (Sec. 807) Treats diagnostic and treatment centers owned and operated by the New York City Health and Hospitals Corporation as covered entities for purposes of limitations on prices of drugs. Limits a certain exclusion based on participation in group purchasing organizations for purposes of considering the Health Services Purchasing Group under the control of Los Angeles County, California, as a covered entity. Prohibits the Secretary from finding that the hospital system for the Dallas County Hospital District of Texas fails to meet requirements for a covered entity solely because the hospital used a group purchasing arrangement to obtain a covered outpatient drug before the effective date of specified entity guidelines if, at the time the hospital purchased the drug, the drug manufacturer did not offer to furnish to furnish the drug at the required price. Title IX: General Provisions - Sets forth effective date provisions.
+
+	</summary>
+</bill>

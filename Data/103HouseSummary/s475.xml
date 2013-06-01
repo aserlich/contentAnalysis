@@ -1,0 +1,41 @@
+<bill session="103" type="s" number="475" updated="2012-07-17T05:56:13-04:00">
+	<state datetime="1993-03-02">REFERRED</state>
+	<status><introduced datetime="1993-03-02"/></status>
+
+	<introduced datetime="1993-03-02"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to permit penalty-free distributions from qualified retirement plans for unemployed individuals.</title>
+	</titles>
+	<sponsor id="403346"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-02" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2224)</text></action>
+		<action datetime="1993-03-02" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2896" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Individual retirement accounts"/>
+		<term name="Pension funds"/>
+		<term name="Tax exclusion"/>
+		<term name="Tax penalties"/>
+		<term name="Tax-deferred compensation plans"/>
+		<term name="Unemployed"/>
+		<term name="Unemployment insurance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/2/1993--Introduced.
+Amends the Internal Revenue Code to allow penalty-free withdrawals from retirement plans by individuals who are unemployed, if: (1) such individuals have received unemployment compensation for 12 consecutive weeks; and (2) distributions are made in the year during which such compensation was paid or the succeeding year.
+
+	</summary>
+</bill>

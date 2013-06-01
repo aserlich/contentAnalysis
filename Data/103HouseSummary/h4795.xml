@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="4795" updated="2010-04-19T11:39:06-04:00">
+	<state datetime="1994-07-19">REFERRED</state>
+	<status><introduced datetime="1994-07-19"/></status>
+
+	<introduced datetime="1994-07-19"/>
+	<titles>
+		<title type="short" as="introduced">Act to Improve the American Diet</title>
+		<title type="official" as="introduced">To direct the President to establish a national program to provide for coordination between Federal, State and local agencies, voluntary organizations, and private enterprise in order to encourage the public to eat a healthy diet.</title>
+	</titles>
+	<sponsor id="400409"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-19"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-07-19"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1994-07-19"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-07-25"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Department Operations and Nutrition.</text></action>
+		<action datetime="1994-08-01"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1994-08-04"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Department Operations and Nutrition" activity="Referral" />
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Food"/>
+		<term name="Diet"/>
+		<term name="Executive departments"/>
+		<term name="Health education"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Nutrition"/>
+		<term name="Nutrition policy"/>
+		<term name="Presidential commissions"/>
+		<term name="Presidents"/>
+		<term name="Preventive medicine"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/19/1994--Introduced.
+Act to Improve the American Diet - Directs the President to establish a national program for diet and health through the coordination of activities between the Federal Government, State and local governments, voluntary organizations, and private entities. Requires the establishment of the President's Council on Diet and Health to advise the President on the national program. Authorizes appropriations.
+
+	</summary>
+</bill>

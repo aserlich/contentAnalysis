@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="2883" updated="2010-04-19T06:40:47-04:00">
+	<state datetime="1993-08-05">REFERRED</state>
+	<status><introduced datetime="1993-08-05"/></status>
+
+	<introduced datetime="1993-08-05"/>
+	<titles>
+		<title type="short" as="introduced">Environmental Education Act of 1993</title>
+		<title type="official" as="introduced">To amend the Elementary and Secondary Education Act of 1965 to provide for the establishment of a National Environmental Education Center.</title>
+	</titles>
+	<sponsor id="400122"/>
+	<cosponsors>
+		<cosponsor id="400366" joined="1993-08-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-05"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-09-14"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+		<action datetime="1993-09-14"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Select Education and Civil Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral" />
+		<committee code="HSED-04" name="House Education and Labor" subcommittee="Select Education and Civil Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Educational facilities"/>
+		<term name="Environmental education"/>
+		<term name="Environmental protection"/>
+		<term name="Federal aid to education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/1993--Introduced.
+Environmental Education Act of 1993 - Amends the Elementary and Secondary Education Act of 1965 to direct the Secretary of Education to make grants, through a national competition, to establish and support a National Environmental Education Center.
+
+	</summary>
+</bill>

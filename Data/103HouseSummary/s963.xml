@@ -1,0 +1,36 @@
+<bill session="103" type="s" number="963" updated="2012-07-17T05:38:10-04:00">
+	<state datetime="1993-05-13">REFERRED</state>
+	<status><introduced datetime="1993-05-13"/></status>
+
+	<introduced datetime="1993-05-13"/>
+	<titles>
+		<title type="official" as="introduced">A bill to reliquidate certain entries on which excessive countervailing duties were paid, and for other purposes.</title>
+	</titles>
+	<sponsor id="403171"/>
+	<cosponsors>
+		<cosponsor id="300012" joined="1993-05-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-13" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5947)</text></action>
+		<action datetime="1993-05-13" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2015" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Countervailing duties"/>
+		<term name="Interest"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/13/1993--Introduced.
+Provides, upon request filed with the appropriate customs officer, for the reliquidation (refund) of excessive countervailing duties (plus interest) that were imposed on specified entries into the United States.
+
+	</summary>
+</bill>

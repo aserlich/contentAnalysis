@@ -1,0 +1,39 @@
+<bill session="103" type="hj" number="63" updated="2010-04-18T22:00:44-04:00">
+	<state datetime="1993-01-06">REFERRED</state>
+	<status><introduced datetime="1993-01-06"/></status>
+
+	<introduced datetime="1993-01-06"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution authorizing the President to disapprove or reduce an item of appropriations.</title>
+	</titles>
+	<sponsor id="408839"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-06"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="76" />
+		<bill relation="identical" session="103" type="sj" number="63" />
+	</relatedbills>
+	<subjects>
+		<term name="Appropriations"/>
+		<term name="Constitutional amendments"/>
+		<term name="Item veto"/>
+		<term name="Presidential powers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/1993--Introduced.
+Constitutional Amendment - Grants the President the authority to reduce or disapprove any item of appropriation in any Act or joint resolution, except any item of appropriation for the legislative branch.
+
+	</summary>
+</bill>

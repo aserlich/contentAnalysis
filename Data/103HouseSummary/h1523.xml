@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="1523" updated="2010-04-19T03:09:03-04:00">
+	<state datetime="1993-03-30">REFERRED</state>
+	<status><introduced datetime="1993-03-30"/></status>
+
+	<introduced datetime="1993-03-30"/>
+	<titles>
+		<title type="official" as="introduced">To limit the duration of payments of expenses of former Speakers of the House of Representatives.</title>
+	</titles>
+	<sponsor id="400076"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-04-29"/>
+		<cosponsor id="400015" joined="1993-05-25"/>
+		<cosponsor id="400010" joined="1993-11-23"/>
+		<cosponsor id="400520" joined="1993-09-13"/>
+		<cosponsor id="400083" joined="1993-05-25"/>
+		<cosponsor id="400318" joined="1993-05-25"/>
+		<cosponsor id="300058" joined="1993-06-09"/>
+		<cosponsor id="411997" joined="1993-11-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-30"><text>Sponsor introductory remarks on measure. (CR H1691)</text></action>
+		<action datetime="1993-03-30"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-04-02"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Accounts.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Accounts" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1366" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congressional allowances"/>
+		<term name="Congressional leadership"/>
+		<term name="Ex-Members of Congress"/>
+		<term name="Members of Congress (House)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/30/1993--Introduced.
+Limits the period for which expenses of a former Speaker of the House of Representatives may be paid to one year after the expiration of the term of office as Representative. (Provides that in the case of a former Speaker who is receiving such expenses on the date of the enactment of this Act, the period shall end one year after such date.)
+
+	</summary>
+</bill>

@@ -1,0 +1,73 @@
+<bill session="103" type="h" number="3314" updated="2010-04-19T07:47:28-04:00">
+	<state datetime="1993-10-19">REFERRED</state>
+	<status><introduced datetime="1993-10-19"/></status>
+
+	<introduced datetime="1993-10-19"/>
+	<titles>
+		<title type="short" as="introduced">Federal Risk Assessment in Women's Health Act of 1993</title>
+		<title type="official" as="introduced">To provide for a review of all Federal programs that assess or mitigate the risks to women's health from environmental exposures, and for a study of the research needs of the Federal Government relating to such risks.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-11-08"/>
+		<cosponsor id="400126" joined="1993-11-08"/>
+		<cosponsor id="400333" joined="1994-01-26"/>
+		<cosponsor id="411040" joined="1993-10-19"/>
+		<cosponsor id="404869" joined="1993-11-08"/>
+		<cosponsor id="400511" joined="1994-01-26"/>
+		<cosponsor id="404375" joined="1993-10-19"/>
+		<cosponsor id="406482" joined="1993-11-08"/>
+		<cosponsor id="400387" joined="1993-11-08"/>
+		<cosponsor id="403364" joined="1993-11-08"/>
+		<cosponsor id="400416" joined="1994-03-24"/>
+		<cosponsor id="401446" joined="1993-11-08"/>
+		<cosponsor id="409829" joined="1993-11-08"/>
+		<cosponsor id="409650" joined="1993-11-08"/>
+		<cosponsor id="402152" joined="1993-11-08"/>
+		<cosponsor id="404190" joined="1993-11-08"/>
+		<cosponsor id="400314" joined="1993-11-08"/>
+		<cosponsor id="410565" joined="1993-11-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-19"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-10-19"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-10-22"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Technology, Environment and Aviation.</text></action>
+		<action datetime="1993-11-01"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1993-11-01"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Technology, Environment and Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Women"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Environmental health"/>
+		<term name="Environmental protection"/>
+		<term name="Hazardous substances"/>
+		<term name="Health policy"/>
+		<term name="Medical care"/>
+		<term name="Medical research"/>
+		<term name="Pesticide regulation"/>
+		<term name="Pesticide residues"/>
+		<term name="Public contracts"/>
+		<term name="Risk assessment"/>
+		<term name="Science policy"/>
+		<term name="Women's health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/19/1993--Introduced.
+Federal Risk Assessment in Women's Health Act of 1993 - Directs the Office of Science and Technology Policy to conduct a review of all Federal programs that assess or mitigate the risks to women's health from environmental exposures, including programs setting standards for exposure to various pollutants, toxic substances, pesticide use, and pesticide residues. Requires the National Institute of Environmental Health Sciences to enter into a contract with the National Research Council of the National Academy of Sciences to study the status of the science base and needs of the Federal Government for research relating to the risks to women's health from environmental exposures, for the purpose of assessing and mitigating such risks. Requires results of such review and study to be reported to the Congress.
+
+	</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="149" updated="2010-04-18T23:23:15-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to eliminate the provision that permits payments from the Presidential Election Campaign Fund for the Expenses of presidential nominating conventions.</title>
+	</titles>
+	<sponsor id="400085"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-19"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Elections.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="HSHA-08" name="House Administration" subcommittee="Elections" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Elections"/>
+		<term name="Government trust funds"/>
+		<term name="Income tax"/>
+		<term name="Political conventions"/>
+		<term name="Presidential elections"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends the Internal Revenue Code to repeal the provision that requires the Secretary of the Treasury to maintain in the Presidential Election Campaign Fund accounts for payments for presidential nominating conventions.
+
+	</summary>
+</bill>

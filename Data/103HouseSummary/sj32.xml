@@ -1,0 +1,57 @@
+<bill session="103" type="sj" number="32" updated="2012-07-17T05:40:56-04:00">
+	<state datetime="1993-05-20">REPORTED</state>
+	<status><calendar datetime="1993-05-20" /></status>
+
+	<introduced datetime="1993-01-28"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution calling for the United States to support efforts of the United Nations to conclude an international agreement to establish an international criminal court.</title>
+	</titles>
+	<sponsor id="300034"/>
+	<cosponsors>
+		<cosponsor id="408597" joined="1993-02-16"/>
+		<cosponsor id="300060" joined="1993-02-16"/>
+		<cosponsor id="300059" joined="1993-02-16"/>
+		<cosponsor id="407786" joined="1993-03-18"/>
+		<cosponsor id="407992" joined="1993-02-24"/>
+		<cosponsor id="300011" joined="1993-04-20"/>
+		<cosponsor id="300082" joined="1993-02-24"/>
+		<cosponsor id="300042" joined="1993-04-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-28" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S930-931)</text></action>
+		<action datetime="1993-01-28" state="REFERRED"><text>Read twice and referred to the Committee on Foreign Relations.</text></action>
+		<action datetime="1993-05-12"><committee name="Committee on Foreign Relations"/><text>Subcommittee on Terrorism, Narcotics &amp; Int. Oper. Hearings held.</text></action>
+		<calendar datetime="1993-05-20"  state="REPORTED"><text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-06-29"><text>Committee on Foreign Relations. Reported to Senate by Senator Pell without amendment. With written report No. 103-71. Additional and minority views filed.</text></action>
+		<calendar under="General Orders" number="112" datetime="1993-06-29" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 112.</text></calendar>
+		<action datetime="1993-07-15"><text>Sponsor introductory remarks on measure. (CR S8813-8814)</text></action>
+		<action datetime="1993-09-13"><text>Sponsor introductory remarks on measure. (CR S11592-11594)</text></action>
+		<action datetime="1994-05-24"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S6295"/></action>
+		<action datetime="1994-05-24"><text>See also H.R. 2333.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Foreign Relations" subcommittee="Terrorism, Narcotics and International Operations" activity="Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2333" />
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Crimes against humanity"/>
+		<term name="International courts"/>
+		<term name="Prosecution"/>
+		<term name="United Nations"/>
+		<term name="War crime trials"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/1993--Introduced.
+Expresses the sense of the Congress that the U.S. delegation should make every effort to advance at the United Nations a proposal for establishment of an international criminal court with jurisdiction over crimes of an international character. Directs the President to submit to the Congress a detailed report on developments relating to, and U.S. efforts in support of, the establishment of such court.
+
+	</summary>
+</bill>

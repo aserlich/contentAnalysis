@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="3714" updated="2010-04-19T08:49:43-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="short" as="introduced">Corinth, Mississippi, Battlefield Act of 1993</title>
+		<title type="official" as="introduced">To provide for an interpretive center at the Civil War Battlefield of Corinth, Mississippi, and for other purposes.</title>
+	</titles>
+	<sponsor id="411587"/>
+	<cosponsors>
+		<cosponsor id="407838" joined="1994-07-22"/>
+		<cosponsor id="400402" joined="1994-07-22"/>
+		<cosponsor id="400399" joined="1994-07-22"/>
+		<cosponsor id="408476" joined="1994-07-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-01-21"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1994-01-31"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1994-07-25"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="986" />
+		<bill relation="unknown" session="103" type="s" number="986" />
+	</relatedbills>
+	<subjects>
+		<term name="Parks"/>
+		<term name="Civil war"/>
+		<term name="Commemorations"/>
+		<term name="Historic sites"/>
+		<term name="History"/>
+		<term name="Military history"/>
+		<term name="Mississippi"/>
+		<term name="National parks"/>
+		<term name="Public lands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Corinth, Mississippi, Battlefield Act of 1993 - Directs the Secretary of the Interior to acquire lands in the vicinity of the Corinth Battlefield in Mississippi for the construction of an interpretive center to commemorate and interpret the 1862 Civil War Siege and Battle of Corinth and to be administered as part of the Shiloh National Military Park. Authorizes appropriations.
+
+	</summary>
+</bill>

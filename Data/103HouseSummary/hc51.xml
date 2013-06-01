@@ -1,0 +1,67 @@
+<bill session="103" type="hc" number="51" updated="2010-04-18T21:08:37-04:00">
+	<state datetime="1993-02-24">REFERRED</state>
+	<status><introduced datetime="1993-02-24"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of Congress that Federal mandates to States should be rescinded unless they are accompanied by sufficient funds to pay for them.</title>
+	</titles>
+	<sponsor id="400115"/>
+	<cosponsors>
+		<cosponsor id="400078" joined="1993-03-16"/>
+		<cosponsor id="410147" joined="1993-03-16"/>
+		<cosponsor id="400510" joined="1993-03-16"/>
+		<cosponsor id="400113" joined="1993-03-16"/>
+		<cosponsor id="300030" joined="1993-03-16"/>
+		<cosponsor id="400584" joined="1993-03-16"/>
+		<cosponsor id="400348" joined="1993-10-06"/>
+		<cosponsor id="400267" joined="1993-04-01"/>
+		<cosponsor id="401547" joined="1993-03-16"/>
+		<cosponsor id="400127" joined="1993-04-01"/>
+		<cosponsor id="407899" joined="1993-03-25"/>
+		<cosponsor id="400264" joined="1993-03-16"/>
+		<cosponsor id="403545" joined="1993-03-16"/>
+		<cosponsor id="400010" joined="1993-04-19"/>
+		<cosponsor id="400144" joined="1993-09-08"/>
+		<cosponsor id="406343" joined="1993-09-08"/>
+		<cosponsor id="400504" joined="1993-03-16"/>
+		<cosponsor id="400070" joined="1993-05-24"/>
+		<cosponsor id="405560" joined="1993-04-01"/>
+		<cosponsor id="400601" joined="1993-04-19"/>
+		<cosponsor id="400649" joined="1993-03-16"/>
+		<cosponsor id="400012" joined="1993-03-16"/>
+		<cosponsor id="411997" joined="1993-03-25"/>
+		<cosponsor id="400583" joined="1993-09-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24"><text>Sponsor introductory remarks on measure. (CR E433)</text></action>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-02-26"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Human Resources and Intergovernmental Relations.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Government Operations"/><text>See H.R.4771.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Human Resources and Intergovernmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="140" />
+		<bill relation="unknown" session="103" type="h" number="4771" />
+	</relatedbills>
+	<subjects>
+		<term name="Intergovernmental relations"/>
+		<term name="Costs"/>
+		<term name="Federal-local relations"/>
+		<term name="Federal-state relations"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="Legislation"/>
+		<term name="Regulatory reform"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Expresses the sense of the Congress that future mandates should not be imposed on States, and that previously imposed State mandates should either be rescinded or the funds with which to carry them out be provided.
+
+	</summary>
+</bill>

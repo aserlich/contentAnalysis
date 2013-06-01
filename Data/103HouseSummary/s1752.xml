@@ -1,0 +1,37 @@
+<bill session="103" type="s" number="1752" updated="2012-07-17T06:08:11-04:00">
+	<state datetime="1993-11-20">REFERRED</state>
+	<status><introduced datetime="1993-11-20"/></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="official" as="introduced">A bill amending the Harmonized Tariff Schedule.</title>
+	</titles>
+	<sponsor id="401709"/>
+	<cosponsors>
+		<cosponsor id="300064" joined="1993-11-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-20" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S16768)</text></action>
+		<action datetime="1993-11-20" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3428" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Chemicals"/>
+		<term name="Drugs"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1996, the duty on: (1) 3,5-dimethyl-2-hydroxymethyl-4-methoxy-pyridine (pyrmethyl alcohol); (2) 2-mercapto 5-methoxy benzimidazole (metmercazole); (3) m-chloroperoxybenzoic acid (MCPBA); and (4) n'-(aminosulfonyl)-3-(((2-((diaminomethylene)-amino)-4-thiazoly)- methyl)thio) propanimidamide (famotidine).
+
+	</summary>
+</bill>

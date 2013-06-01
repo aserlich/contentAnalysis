@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="4839" updated="2010-04-19T11:45:52-04:00">
+	<state datetime="1994-07-27">REFERRED</state>
+	<status><introduced datetime="1994-07-27"/></status>
+
+	<introduced datetime="1994-07-27"/>
+	<titles>
+		<title type="official" as="introduced">To require the Secretary of Agriculture to issue regulations concerning use of the term &quot;fresh&quot; in the labeling of poultry, and for other purposes.</title>
+	</titles>
+	<sponsor id="400505"/>
+	<cosponsors>
+		<cosponsor id="400126" joined="1994-09-30"/>
+		<cosponsor id="400129" joined="1994-10-07"/>
+		<cosponsor id="300087" joined="1994-09-30"/>
+		<cosponsor id="400231" joined="1994-08-19"/>
+		<cosponsor id="406729" joined="1994-08-19"/>
+		<cosponsor id="409650" joined="1994-08-19"/>
+		<cosponsor id="400100" joined="1994-08-19"/>
+		<cosponsor id="400278" joined="1994-08-19"/>
+		<cosponsor id="400243" joined="1994-08-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-27"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-07-29"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Livestock.</text></action>
+		<action datetime="1994-07-29"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Department Operations and Nutrition.</text></action>
+		<action datetime="1994-07-29"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="HSAG-03" name="House Agriculture" subcommittee="Livestock" activity="Referral" />
+		<committee code="" name="House Agriculture" subcommittee="Department Operations and Nutrition" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Administrative procedure"/>
+		<term name="Consumers"/>
+		<term name="Department of Agriculture"/>
+		<term name="Executive departments"/>
+		<term name="Food"/>
+		<term name="Frozen food"/>
+		<term name="Labeling"/>
+		<term name="Poultry"/>
+		<term name="Poultry industry"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/27/1994--Introduced.
+Requires the Secretary of Agriculture to issue final regulations with respect to fresh poultry labeling.
+
+	</summary>
+</bill>

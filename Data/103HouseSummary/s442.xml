@@ -1,0 +1,51 @@
+<bill session="103" type="s" number="442" updated="2012-07-17T06:15:28-04:00">
+	<state datetime="1993-07-20">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-07-20" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-02-25"/>
+	<titles>
+		<title type="short" as="introduced">Indian Dams Safety Act of 1993</title>
+		<title type="official" as="introduced">A bill to provide for the maintenance of dams located on Indian lands by the Bureau of Indian Affairs or through contracts with Indian tribes.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+		<cosponsor id="403346" joined="1993-04-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-25" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2105-2106)</text></action>
+		<action datetime="1993-02-25" state="REFERRED"><text>Read twice and referred to the Committee on Indian Affairs.</text></action>
+		<calendar datetime="1993-06-16"  state="REPORTED"><committee name="Committee on Indian Affairs"/><text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-07-13"><text>Committee on Indian Affairs. Reported to Senate by Senator Inouye without amendment. With written report No. 103-86.</text></action>
+		<calendar under="General Orders" number="130" datetime="1993-07-13" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 130.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-07-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S9056-9057"/></vote>
+		<action datetime="1993-07-22T10:23:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-07-22"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-07-22"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-09-16"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Native American Affairs.</text></action>
+		<action datetime="1993-09-22"><committee name="House Committee on Natural Resources"/><text>For Further Action See H.R.1426.</text></action>
+	</actions>
+	<committees>
+		<committee code="" name="Senate Indian Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1426" />
+		<bill relation="unknown" session="103" type="h" number="1426" />
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Dams"/>
+		<term name="Indian lands"/>
+		<term name="Maintenance and repair"/>
+		<term name="New Mexico"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/25/1993--Introduced.
+Indian Dams Safety Act of 1993 - Establishes a dam safety operation and maintenance program (program) within the Bureau of Indian Affairs (BIA). Directs the Secretary of the Interior to: (1) develop a comprehensive list of dams located on Indian lands in New Mexico that are in fair, conditionally poor, poor, or unsatisfactory condition; and (2) perform such rehabilitation work as is necessary to bring such dams to a satisfactory condition. Requires that the dam, upon completion of rehabilitation work, be placed under the program and be regularly maintained pursuant to program guidelines. Specifies that work authorized by this Act shall be for the purposes of dam safety operation and maintenance and not to provide additional conservation storage capacity or to develop benefits beyond those provided by the original dams and reservoirs.
+
+	</summary>
+</bill>

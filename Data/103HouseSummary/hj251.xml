@@ -1,0 +1,55 @@
+<bill session="103" type="hj" number="251" updated="2010-04-18T22:31:02-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to provide for budgetary reform by requiring the reduction of the deficit, a balanced Federal budget, the repayment of the national debt, and establishing line item veto authority for the President.</title>
+	</titles>
+	<sponsor id="300003"/>
+	<cosponsors>
+		<cosponsor id="410147" joined="1993-09-22"/>
+		<cosponsor id="400015" joined="1993-09-22"/>
+		<cosponsor id="400581" joined="1993-08-06"/>
+		<cosponsor id="400012" joined="1993-09-22"/>
+		<cosponsor id="407669" joined="1994-02-09"/>
+		<cosponsor id="404009" joined="1993-09-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Sponsor introductory remarks on measure. (CR E2076-2077)</text></action>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1994-03-17"><committee name="House Committee on Judiciary"/><text>See H.J.Res.103.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hj" number="103" />
+	</relatedbills>
+	<subjects>
+		<term name="Public finance"/>
+		<term name="Appropriations"/>
+		<term name="Balanced budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Constitutional amendments"/>
+		<term name="Federal budgets"/>
+		<term name="Income tax"/>
+		<term name="Item veto"/>
+		<term name="Legislation"/>
+		<term name="Presidential powers"/>
+		<term name="Public debt"/>
+		<term name="Record votes"/>
+		<term name="Tax rates"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Constitutional Amendment - Directs the President, beginning with FY 1997 or the first fiscal year after ratification, whichever is later, to submit a budget of revenues and outlays to Congress. Requires the Congress to adopt a budget that reduces the deficit existing the year prior to ratification by not less than ten percent per year in order to balance the budget within ten fiscal years. Requires a balanced budget by the 11th year after ratification. Requires, beginning with the 11th year, that revenues exceed outlays in order to provide for the reduction of the outstanding gross Federal debt. Requires the reduction to amortize the debt over the next 20 years in order to repay the entire debt by the end of the 30th year after ratification. Allows the waiver of aforementioned requirements when a declaration of war is in effect. Grants the President line-item veto authority in appropriation bills. Directs the Congress to review revenues on a quarterly basis and make adjustments to comply with this Act.
+
+	</summary>
+</bill>

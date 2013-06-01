@@ -1,0 +1,59 @@
+<bill session="103" type="s" number="431" updated="2012-07-17T06:00:02-04:00">
+	<state datetime="1993-11-20">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-11-20" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="short" as="introduced">Vehicle Damage Disclosure Act of 1993</title>
+		<title type="short" as="passed senate">Vehicle Damage Disclosure and Consumer Protection Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend the Motor Vehicle Information and Cost Savings Act.</title>
+		<title type="official" as="amended by senate">An Act to amend the Motor Vehicle Information and Cost Savings Act to provide for vehicle damage disclosure and consumer protection.</title>
+	</titles>
+	<sponsor id="403962"/>
+	<cosponsors>
+		<cosponsor id="300031" joined="1993-09-10"/>
+		<cosponsor id="407254" joined="1993-09-23"/>
+		<cosponsor id="300070" joined="1993-05-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2028-2029)</text></action>
+		<action datetime="1993-02-24" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<action datetime="1993-08-03"><committee name="Committee on Commerce"/><text>Committee on Commerce. Hearings held. Hearings printed: S.Hrg. 103-371.</text></action>
+		<calendar datetime="1993-11-09"  state="REPORTED"><committee name="Committee on Commerce"/><text>Committee on Commerce. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1993-11-20"><text>Committee on Commerce. Reported to Senate by Senator Hollings with amendments and an amendment to the title. With written report No. 103-197.</text></action>
+		<calendar under="General Orders" number="324" datetime="1993-11-20" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 324.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with amendments and an amendment to the Title by Voice Vote.</text><reference label="consideration" ref="CR S16900-16901"/></vote>
+		<action datetime="1993-11-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-21T14:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-21"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-01-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Commerce, Consumer Protection, and Competitiveness" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Motor vehicles"/>
+		<term name="Automobile recalls"/>
+		<term name="Commerce"/>
+		<term name="Consumer education"/>
+		<term name="Defective products"/>
+		<term name="Floods"/>
+		<term name="Motor vehicle registration"/>
+		<term name="Motor vehicle safety"/>
+		<term name="Salvage"/>
+		<term name="Traffic accidents and safety"/>
+		<term name="Transportation and public works"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Passed Senate amended. Vehicle Damage Disclosure and Consumer Protection Act of 1993 - Amends the Motor Vehicle Information and Cost Savings Act to prohibit a State from licensing a motor vehicle upon the transfer of its ownership unless the title discloses: (1) whether the vehicle was previously issued a title indicating the car had been &quot;rebuilt&quot; or was &quot;salvage&quot; or &quot;junk,&quot; was a manufacturer buyback vehicle, or had sustained flood damage; and (2) the State which issued the previous title. Directs the Secretary of Transportation to study the various means that may be required by Federal law for disclosing to purchasers that a motor vehicle is a manufacturer buyback vehicle.
+
+	</summary>
+</bill>

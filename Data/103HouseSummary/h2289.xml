@@ -1,0 +1,71 @@
+<bill session="103" type="h" number="2289" updated="2010-04-19T05:08:48-04:00">
+	<state datetime="1994-06-29">REPORTED</state>
+	<status><calendar datetime="1994-06-29" /></status>
+
+	<introduced datetime="1993-05-26"/>
+	<titles>
+		<title type="short" as="introduced">Office of Government Ethics Authorization Act of 1994</title>
+		<title type="short" as="reported to house">Office of Government Ethics Authorization Act of 1994</title>
+		<title type="official" as="introduced">To amend the Ethics in Government Act of 1978 to extend the authorization of appropriations for the Office of Government Ethics for 8 years, and for other purposes.</title>
+	</titles>
+	<sponsor id="402626"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-26"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-26"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-06-01"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+		<action datetime="1993-06-01"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Civil Service.</text></action>
+		<action datetime="1994-04-28"><committee name="House Committee on Post Office and Civil Service" subcommittee="Civil Service"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-05-12"><committee name="House Committee on Judiciary" subcommittee="Administrative Law and Governmental Relations"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-05-25"><committee name="House Committee on Judiciary" subcommittee="Administrative Law and Governmental Relations"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-05-25"><committee name="House Committee on Judiciary" subcommittee="Administrative Law and Governmental Relations"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1994-06-23"><committee name="House Committee on Post Office and Civil Service" subcommittee="Civil Service"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-06-23"><committee name="House Committee on Post Office and Civil Service" subcommittee="Civil Service"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1994-06-29"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-06-29"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1994-08-10"><committee name="House Committee on Post Office and Civil Service"/><text>Subcommittee on Civil Service Discharged.</text></action>
+		<action datetime="1994-08-10"><committee name="House Committee on Post Office and Civil Service"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-08-10" ><committee name="House Committee on Post Office and Civil Service"/><text>Ordered to be Reported in the Nature of a Substitute.</text></calendar>
+		<action datetime="1994-10-03T14:41:00-04:00"><text>Reported (Amended) by the Committee on Post Office and Civil Service. H. Rept. 103-785, Part I.</text></action>
+		<action datetime="1994-10-07T20:56:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-785, Part II.</text></action>
+		<calendar number="469" datetime="1994-10-07T20:57:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 469.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Civil Service" activity="Referral, Hearings, Markup, Discharged, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1413" />
+	</relatedbills>
+	<subjects>
+		<term name="Executive departments"/>
+		<term name="Authorization"/>
+		<term name="Banks and banking"/>
+		<term name="Budgets"/>
+		<term name="Communications"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Ethics"/>
+		<term name="Federal employees"/>
+		<term name="Federal officials"/>
+		<term name="Finance"/>
+		<term name="Gifts"/>
+		<term name="Government contractors"/>
+		<term name="Government employees"/>
+		<term name="Misconduct in office"/>
+		<term name="Office of Government Ethics"/>
+		<term name="Posters"/>
+		<term name="Public contracts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1994--Reported to House amended, Part II. Office of Government Ethics Authorization Act of 1994 - Amends the Ethics in Government Act of 1978 to: (1) extend the authorization of appropriations for the Office of Government Ethics (OGE) through FY 1999; and (2) authorize gift acceptance authority for OGE, according to criteria the Director shall promulgate.
+
+	</summary>
+</bill>

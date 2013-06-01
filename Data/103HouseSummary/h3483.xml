@@ -1,0 +1,61 @@
+<bill session="103" type="h" number="3483" updated="2010-04-19T08:13:44-04:00">
+	<state datetime="1993-11-09">REFERRED</state>
+	<status><introduced datetime="1993-11-09"/></status>
+
+	<introduced datetime="1993-11-09"/>
+	<titles>
+		<title type="short" as="introduced">Mandatory Spending Control Act of 1993</title>
+		<title type="official" as="introduced">To establish a Mandatory Spending Control Commission to determine appropriate methods to limit the growth of mandatory spending.</title>
+	</titles>
+	<sponsor id="409618"/>
+	<cosponsors>
+		<cosponsor id="400174" joined="1993-11-22"/>
+		<cosponsor id="404083" joined="1993-11-26"/>
+		<cosponsor id="400388" joined="1993-11-26"/>
+		<cosponsor id="400370" joined="1993-11-22"/>
+		<cosponsor id="400010" joined="1994-05-03"/>
+		<cosponsor id="408553" joined="1993-11-26"/>
+		<cosponsor id="400221" joined="1994-06-30"/>
+		<cosponsor id="400182" joined="1993-11-22"/>
+		<cosponsor id="411997" joined="1993-11-22"/>
+		<cosponsor id="400252" joined="1994-07-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-09"><text>Sponsor introductory remarks on measure. (CR H8947, E2820)</text></action>
+		<action datetime="1993-11-09"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-11-09"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-11-14"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3717" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Balanced budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Entitlements"/>
+		<term name="Expedited congressional procedure"/>
+		<term name="Government spending reductions"/>
+		<term name="House rules and procedure"/>
+		<term name="Legislation"/>
+		<term name="Presidential commissions"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/9/1993--Introduced.
+Mandatory Spending Control Act of 1993 - Establishes the Mandatory Spending Control Commission to determine appropriate methods for limiting the growth of mandatory spending programs. Sets forth procedures for the Commission to report legislative recommendations to the Congress. Provides for congressional consideration of a bill to implement such recommendations.
+
+	</summary>
+</bill>

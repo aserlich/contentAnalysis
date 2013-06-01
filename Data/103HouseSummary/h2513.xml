@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="2513" updated="2010-04-19T05:43:20-04:00">
+	<state datetime="1993-06-23">REFERRED</state>
+	<status><introduced datetime="1993-06-23"/></status>
+
+	<introduced datetime="1993-06-23"/>
+	<titles>
+		<title type="official" as="introduced">To repeal the Military Selective Service Act.</title>
+	</titles>
+	<sponsor id="400387"/>
+	<cosponsors>
+		<cosponsor id="400113" joined="1994-08-08"/>
+		<cosponsor id="400343" joined="1993-06-23"/>
+		<cosponsor id="402152" joined="1994-07-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-23"><text>Sponsor introductory remarks on measure. (CR E1594-1595)</text></action>
+		<action datetime="1993-06-23"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-06-28"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-06-28"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Compulsory military service"/>
+		<term name="Desertion"/>
+		<term name="Draft registration"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal employees"/>
+		<term name="General Services Administration"/>
+		<term name="Government paperwork"/>
+		<term name="Legal Services Corporation"/>
+		<term name="Legal services"/>
+		<term name="Selective Service System"/>
+		<term name="Transfer of employees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/23/1993--Introduced.
+Repeals the Military Selective Service Act. Bars the reestablishment of the Office of Selective Service Records. Requires: (1) the transfer to the Administrator of General Services of the assets, property, and records held by, and the unexpended balances of any appropriations available to, the Selective Service System (SSS); and (2) the Director of the Office of Personnel Management to assist SSS officers and employees in transferring to other positions in the executive branch. Amends the Legal Services Corporation (LSC) Act to bar the use of LSC funds to provide legal assistance with respect to any proceeding or litigation arising out of desertion from the armed forces.
+
+	</summary>
+</bill>

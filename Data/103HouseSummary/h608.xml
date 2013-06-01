@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="608" updated="2010-04-19T00:37:08-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="official" as="introduced">To restore the grave marker allowance for veterans.</title>
+	</titles>
+	<sponsor id="400210"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1993-09-13"/>
+		<cosponsor id="411677" joined="1993-04-21"/>
+		<cosponsor id="400357" joined="1993-02-17"/>
+		<cosponsor id="408661" joined="1993-04-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-02-02"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Housing and Memorial Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Veterans' Affairs" subcommittee="Housing and Memorial Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Cemeteries and funerals"/>
+		<term name="Commemorations"/>
+		<term name="Military cemeteries and funerals"/>
+		<term name="Monuments and memorials"/>
+		<term name="Veterans' benefits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Authorizes the Secretary of Veterans Affairs to reimburse a person for the cost of acquiring a non-Government headstone or grave marker for placement in a cemetery other than a national cemetery in connection with the burial of a veteran.
+
+	</summary>
+</bill>

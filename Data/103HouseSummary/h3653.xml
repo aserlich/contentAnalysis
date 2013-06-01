@@ -1,0 +1,63 @@
+<bill session="103" type="h" number="3653" updated="2010-04-19T08:40:15-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="short" as="introduced">Health Care Anti-Fraud Act of 1993</title>
+		<title type="official" as="introduced">To amend title XI of the Social Security Act and title 18, United States Code, to extend criminal RICO provisions to health care fraud and to extend certain other criminal provisions to health care fraud under the CHAMPUS program, the Indian health care program, health care programs for veterans and the Department of Defense, and the Federal employees health care program.</title>
+	</titles>
+	<sponsor id="400226"/>
+	<cosponsors>
+		<cosponsor id="400176" joined="1993-11-22"/>
+		<cosponsor id="403545" joined="1993-11-22"/>
+		<cosponsor id="400604" joined="1993-11-22"/>
+		<cosponsor id="409633" joined="1993-11-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-12-03"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1994-01-28"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Criminal justice"/>
+		<term name="Defense policy"/>
+		<term name="Federal employees"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Fraud"/>
+		<term name="Government employees"/>
+		<term name="Government employees' health insurance"/>
+		<term name="Health policy"/>
+		<term name="Indian medical care"/>
+		<term name="Medicaid fraud"/>
+		<term name="Medical care"/>
+		<term name="Medicare fraud"/>
+		<term name="Military medicine"/>
+		<term name="Minorities"/>
+		<term name="Organized crime"/>
+		<term name="Public assistance programs"/>
+		<term name="Social security"/>
+		<term name="Veterans"/>
+		<term name="Veterans' medical care"/>
+		<term name="Welfare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Health Care Anti-Fraud Act of 1993 - Amends the Federal criminal code and title XI of the Social Security Act to extend, respectively, criminal RICO and Medicare criminal penalties to fraud under health care programs for members of the armed forces, veterans, Native Americans, and Federal employees.
+
+	</summary>
+</bill>

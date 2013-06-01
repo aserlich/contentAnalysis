@@ -1,0 +1,42 @@
+<bill session="103" type="s" number="678" updated="2012-07-17T05:52:21-04:00">
+	<state datetime="1993-03-30">REFERRED</state>
+	<status><introduced datetime="1993-03-30"/></status>
+
+	<introduced datetime="1993-03-30"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to make permanent the exclusion for amounts received under qualified group legal services plans.</title>
+	</titles>
+	<sponsor id="403142"/>
+	<cosponsors>
+		<cosponsor id="300066" joined="1993-03-30"/>
+		<cosponsor id="300059" joined="1993-05-19"/>
+		<cosponsor id="409225" joined="1993-03-30"/>
+		<cosponsor id="402675" joined="1993-06-09"/>
+		<cosponsor id="408420" joined="1993-03-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-30" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4027)</text></action>
+		<action datetime="1993-03-30" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Employee benefit plans"/>
+		<term name="Legal services insurance"/>
+		<term name="State laws"/>
+		<term name="Tax exclusion"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/30/1993--Introduced.
+Amends the Internal Revenue Code to make permanent the exclusion from gross income of amounts received under qualified group legal services plans.
+
+	</summary>
+</bill>

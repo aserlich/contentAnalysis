@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="1905" updated="2010-04-19T04:09:11-04:00">
+	<state datetime="1993-04-28">REFERRED</state>
+	<status><introduced datetime="1993-04-28"/></status>
+
+	<introduced datetime="1993-04-28"/>
+	<titles>
+		<title type="short" as="introduced">Bovine Growth Hormone User Assessment Act</title>
+		<title type="official" as="introduced">To amend the Agricultural Act of 1949 to require the Secretary of Agriculture to reduce the price received by producers for milk that is produced by cows injected with bovine growth hormone, and for other purposes.</title>
+	</titles>
+	<sponsor id="400300"/>
+	<cosponsors>
+		<cosponsor id="400357" joined="1993-05-25"/>
+		<cosponsor id="400243" joined="1994-04-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-28"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-05-03"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Livestock.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="HSAG-03" name="House Agriculture" subcommittee="Livestock" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="736" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural price supports"/>
+		<term name="Cattle"/>
+		<term name="Hormones"/>
+		<term name="Milk"/>
+		<term name="Recombinant DNA"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/28/1993--Introduced.
+Bovine Growth Hormone User Assessment Act - Amends the Agricultural Act of 1949 to reduce the price received for milk produced by cows injected with bovine growth hormone.
+
+	</summary>
+</bill>

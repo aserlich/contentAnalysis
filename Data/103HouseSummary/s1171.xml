@@ -1,0 +1,51 @@
+<bill session="103" type="s" number="1171" updated="2012-07-17T05:11:51-04:00">
+	<state datetime="1993-06-29">REFERRED</state>
+	<status><introduced datetime="1993-06-29"/></status>
+
+	<introduced datetime="1993-06-29"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 with respect to the taxation of certain sponsorship payments to tax-exempt organizations and certain amounts received by Olympic organizations.</title>
+	</titles>
+	<sponsor id="300012"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="1994-03-22"/>
+		<cosponsor id="402412" joined="1993-06-29"/>
+		<cosponsor id="408939" joined="1993-06-29"/>
+		<cosponsor id="406084" joined="1993-09-21"/>
+		<cosponsor id="408252" joined="1993-09-21"/>
+		<cosponsor id="300010" joined="1993-10-27"/>
+		<cosponsor id="401604" joined="1993-06-29"/>
+		<cosponsor id="300054" joined="1994-01-26"/>
+		<cosponsor id="400558" joined="1994-01-27"/>
+		<cosponsor id="405310" joined="1993-09-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-29" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8234-8235)</text></action>
+		<action datetime="1993-06-29" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1551" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Charities"/>
+		<term name="Olympic games"/>
+		<term name="Sales promotion"/>
+		<term name="Signs and symbols"/>
+		<term name="Sports and recreation"/>
+		<term name="Tax-exempt organizations"/>
+		<term name="Trademarks"/>
+		<term name="Unrelated business income tax"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/29/1993--Introduced.
+Amends the Internal Revenue Code to declare that unrelated trade or business does not include the activity of soliciting and receiving qualified sponsorship payments (payments received by tax-exempt organizations from corporations and other sponsors in connection with certain athletic and other public events) for purposes of the tax on unrelated business income of charitable, etc., organizations. Excludes royalties received by certain tax-exempt olympic organizations for the 1996 Olympics as income from an unrelated trade or business.
+
+	</summary>
+</bill>

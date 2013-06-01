@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="12" updated="2010-04-18T23:01:45-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 17, United States Code, with respect to infringement of copyright.</title>
+	</titles>
+	<sponsor id="405775"/>
+	<cosponsors>
+		<cosponsor id="407899" joined="1993-01-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Copyright"/>
+		<term name="Cable television"/>
+		<term name="Copyright infringement"/>
+		<term name="Legal fees"/>
+		<term name="Television broadcasting"/>
+		<term name="Television relay systems"/>
+		<term name="Television stations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Makes a television broadcast station an infringer of copyright and subject to civil remedies (including attorney's fees and litigation costs) if such station, without the express written consent of the copyright owner, authorizes the secondary transmission by a cable system or other multichannel video programming distributor of a copyrighted work broadcast by such station.
+
+	</summary>
+</bill>

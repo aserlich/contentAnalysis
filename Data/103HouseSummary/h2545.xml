@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="2545" updated="2010-04-19T05:48:24-04:00">
+	<state datetime="1993-06-28">REFERRED</state>
+	<status><introduced datetime="1993-06-28"/></status>
+
+	<introduced datetime="1993-06-28"/>
+	<titles>
+		<title type="short" as="introduced">Colonia Assistance Authorization Act of 1993</title>
+		<title type="official" as="introduced">To authorize appropriations for grants by the Environmental Protection Agency and other appropriate entities to assist colonias.</title>
+	</titles>
+	<sponsor id="403308"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-28"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-07-12"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1994-03-03"><committee name="House Committee on Public Works + Transportation"/><text>See H.R.3948.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3948" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Arizona"/>
+		<term name="Boundaries"/>
+		<term name="California"/>
+		<term name="Depressed areas"/>
+		<term name="Federal aid to water pollution control"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Mexico"/>
+		<term name="New Mexico"/>
+		<term name="Sewage disposal"/>
+		<term name="Sewage treatment plants"/>
+		<term name="Texas"/>
+		<term name="Transboundary pollution"/>
+		<term name="Waste water treatment"/>
+		<term name="Water pollution control"/>
+		<term name="Water supply"/>
+		<term name="Water treatment plants"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/28/1993--Introduced.
+Colonia Assistance Authorization Act of 1993 - Authorizes the Administrator of the Environmental Protection Agency to make grants to any Federal agency, other appropriate entity, or border State (Arizona, California, New Mexico, and Texas) to provide for the conservation, development, use, and control of water and the installation or improvement of sewers, wastewater treatment works, and essential community facilities. Makes such services available to colonias whose residents face significant health risks because they do not have access to, or are not served by, adequate, affordable water supply systems or wastewater treatment works. Authorizes appropriations.
+
+	</summary>
+</bill>

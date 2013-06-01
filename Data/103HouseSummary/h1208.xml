@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="1208" updated="2010-04-19T02:18:14-04:00">
+	<state datetime="1993-03-03">REFERRED</state>
+	<status><introduced datetime="1993-03-03"/></status>
+
+	<introduced datetime="1993-03-03"/>
+	<titles>
+		<title type="short" as="introduced">Civilian Technology Corporation Act of 1993</title>
+		<title type="official" as="introduced">To establish the Civilian Technology Corporation to provide financial support for precommercial research and development in technologies that are significant to the technology base of the United States.</title>
+	</titles>
+	<sponsor id="409570"/>
+	<cosponsors>
+		<cosponsor id="405775" joined="1993-03-31"/>
+		<cosponsor id="400170" joined="1993-03-31"/>
+		<cosponsor id="400409" joined="1993-03-18"/>
+		<cosponsor id="400178" joined="1993-03-31"/>
+		<cosponsor id="400243" joined="1993-03-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-03"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-03-08"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Technology, Environment and Aviation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Technology, Environment and Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Business"/>
+		<term name="Commercialization"/>
+		<term name="Corporations"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Government and business"/>
+		<term name="Government trust funds"/>
+		<term name="Joint ventures"/>
+		<term name="Research and development"/>
+		<term name="Technology"/>
+		<term name="Technology policy"/>
+		<term name="Technology transfer"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/3/1993--Introduced.
+Civilian Technology Corporation Act of 1993 - Establishes the Civilian Technology Corporation to finance precommercial research and development technologies that are significant to the U.S. technology base. Establishes in the Treasury the Civilian Technology Development Fund. Directs the President, the Senate, and the House of Representatives to jointly appoint a Corporation review panel which shall report to the President, the Congress, and the Corporation upon completion of its review.
+
+	</summary>
+</bill>

@@ -1,0 +1,83 @@
+<bill session="103" type="s" number="375" updated="2012-07-17T06:07:14-04:00">
+	<state datetime="1994-05-04">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-05-04" /></status>
+
+	<introduced datetime="1993-02-16"/>
+	<titles>
+		<title type="short" as="introduced">Rio Grande Designation Act of 1993</title>
+		<title type="short" as="passed house">Rio Grande Designation Act of 1994</title>
+		<title type="short" as="enacted">Rio Grande Designation Act of 1994</title>
+		<title type="official" as="introduced">A bill to amend the Wild and Scenic Rivers Act by designating a segment of the Rio Grande in New Mexico as a component of the National Wild and Scenic Rivers System, and for other purposes.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+		<cosponsor id="300036" joined="1993-02-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-16" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1627-1628)</text></action>
+		<action datetime="1993-02-16" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-02-17"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1993-03-02"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<calendar datetime="1993-03-03"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-03-11"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 103-17.</text></action>
+		<calendar under="General Orders" number="31" datetime="1993-03-11" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 31.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-03-17" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S3041"/></vote>
+		<action datetime="1993-03-18T11:27:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-03-18"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-03-18"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-04-13"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-10-28"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-02-10"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-02-10"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1994-03-02"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-03-02" ><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-03-10T19:52:00-05:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-431.</text></action>
+		<calendar number="239" datetime="1994-03-10T19:52:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 239.</text></calendar>
+		<action datetime="1994-03-15T12:46:00-05:00"><text>Mr. Vento moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-03-15T12:46:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1334-1336"/></action>
+		<action datetime="1994-03-15T12:46:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote2" datetime="1994-03-15T12:54:00-05:00" where="h" result="pass"  state="PASS_BACK:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-03-15T12:54:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-03-16"><text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text></action>
+		<action datetime="1994-04-19"><text>Senate agreed to the House amendment by Voice Vote.</text><reference label="consideration" ref="CR S4487-4488"/></action>
+		<topresident datetime="1994-04-19" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-04-21"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-04-22" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-05-04" ><text>Signed by President.</text></signed>
+		<enacted number="103-242" type="public" datetime="1994-05-04"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-242.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1471" />
+		<bill relation="unknown" session="103" type="h" number="1471" />
+		<bill relation="unknown" session="103" type="h" number="1471" />
+	</relatedbills>
+	<subjects>
+		<term name="Wilderness areas"/>
+		<term name="Archaeology"/>
+		<term name="Arts, culture, religion"/>
+		<term name="Commemorations"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Government operations and politics"/>
+		<term name="Historic sites"/>
+		<term name="History"/>
+		<term name="Museums"/>
+		<term name="National recreation areas"/>
+		<term name="New Mexico"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Water resources development"/>
+		<term name="Wild rivers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/15/1994--Passed House amended. Rio Grande Designation Act of 1994 - Amends the Wild and Scenic Rivers Act to designate one segment of the Rio Grande, New Mexico, as a component of the National Wild and Scenic Rivers System and another for potential addition to the System. Requires the study of the latter segment to be completed within three years after enactment of this Act. Directs the Secretary of the Interior, acting through the Director of the Bureau of Land Management, to: (1) take appropriate steps to obtain the views of the residents of the village of Pilar and of owners of property adjoining the segments described in this Act; and (2) assure that those views will be considered in connection with preparation of a comprehensive management plan for and study of such segments. Withdraws the Orilla Verde Recreation Area, New Mexico, from U.S. public land, mining, mineral, and geothermal leasing laws. Authorizes the Secretary to contract with the Smithsonian Institution for the completion of the prehistoric trackways study in New Mexico as required under current law.
+
+	</summary>
+</bill>

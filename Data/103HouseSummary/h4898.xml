@@ -1,0 +1,64 @@
+<bill session="103" type="h" number="4898" updated="2010-04-19T11:55:11-04:00">
+	<state datetime="1994-08-04">REFERRED</state>
+	<status><introduced datetime="1994-08-04"/></status>
+
+	<introduced datetime="1994-08-04"/>
+	<titles>
+		<title type="official" as="introduced">To strengthen paternity establishment.</title>
+	</titles>
+	<sponsor id="400081"/>
+	<cosponsors>
+		<cosponsor id="404503" joined="1994-08-09"/>
+		<cosponsor id="410147" joined="1994-10-06"/>
+		<cosponsor id="400155" joined="1994-08-04"/>
+		<cosponsor id="400183" joined="1994-09-26"/>
+		<cosponsor id="406420" joined="1994-09-12"/>
+		<cosponsor id="400143" joined="1994-08-09"/>
+		<cosponsor id="408476" joined="1994-09-26"/>
+		<cosponsor id="406024" joined="1994-10-06"/>
+		<cosponsor id="300058" joined="1994-09-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-04"><text>Sponsor introductory remarks on measure. (CR H6771-6772, E1651-1652)</text></action>
+		<action datetime="1994-08-04"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-08-18"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+		<action datetime="1994-10-07"><committee name="House Committee on Ways and Means"/><text>See H.R.5252.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5252" />
+	</relatedbills>
+	<subjects>
+		<term name="Children"/>
+		<term name="Aid to dependent children"/>
+		<term name="Clinics"/>
+		<term name="Families"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Health policy"/>
+		<term name="Hospitals"/>
+		<term name="Identification devices"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Paternity"/>
+		<term name="Public assistance programs"/>
+		<term name="Social security"/>
+		<term name="Social security eligibility"/>
+		<term name="Unmarried fathers"/>
+		<term name="Unmarried mothers"/>
+		<term name="Welfare"/>
+		<term name="Women"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/4/1994--Introduced.
+Amends title IV (Aid to Families With Dependent Children) (AFDC) to specify procedures for establishing paternity for non-hospital birthing centers. Requires the responsible State agencies to include on birth certificates the name and social security account number (if available) of each parent. Requires development of an affidavit for the voluntary acknowledgement of paternity. Requires State procedures providing that such an affidavit shall create a legal finding of paternity without further action upon the expiration of a 30-day challenge period following acknowledgement or notification of the results of genetic testing. Declares that the Congress encourages States to develop procedures in public hospitals and clinics to facilitate the acknowledgement of paternity. Conditions the payment of AFDC benefits on recipient cooperation in paternity establishment. Increases from 50 percent to 90 percent the basic rate required for substantial compliance with paternity establishment requirements. Sets forth formulae for the calculation of new requirements in States with between 50 and 90 percent and States with less than 50 percent Requires State procedures for prenatal paternity establishment efforts by State officials who become aware of a pregnant, unmarried recipient.
+
+	</summary>
+</bill>

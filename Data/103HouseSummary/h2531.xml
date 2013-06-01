@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="2531" updated="2012-07-17T05:16:33-04:00">
+	<state datetime="1993-06-29T01:01:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-06-29T01:01:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-06-28"/>
+	<titles>
+		<title type="short" as="introduced">Housing Programs Extension Act of 1993</title>
+		<title type="official" as="introduced">To extend certain programs relating to housing and community development, and for other purposes.</title>
+	</titles>
+	<sponsor id="404634"/>
+	<cosponsors>
+		<cosponsor id="400533" joined="1993-06-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-28" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E1636-1637)</text></action>
+		<action datetime="1993-06-28" state="REFERRED"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-06-29T00:55:00-04:00"><text>Mr. Gonzalez moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-06-29T00:55:00-04:00"><text>Considered under suspension of the rules. (consideration: CR 6/28/1993 H4178-4180)</text></action>
+		<action datetime="1993-06-29T00:55:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-06-29T01:01:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-06-29T01:01:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-06-29"><text>Received in the Senate and read twice and referred to the Committee on Banking.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral" />
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Housing and community development"/>
+		<term name="Administrative procedure"/>
+		<term name="Affordable housing"/>
+		<term name="Authorization"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Department of Housing and Urban Development"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to housing"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Land subdivision"/>
+		<term name="Mobile homes"/>
+		<term name="Mortgage guaranty insurance"/>
+		<term name="Prefabricated buildings"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/28/1993--Introduced.
+Housing Programs Extension Act of 1993 - Amends the Cranston-Gonzalez National Affordable Housing Act to extend: (1) the termination date for the National Commission on Manufactured Housing; (2) the deadline for the Commission's final report (after an interim report); and (3) authorization of appropriations for the Commission. Amends the Housing Act of 1949 to: (1) extend authority for Federal agency housing subdivision approval reciprocity; (2) increase Federal Housing Administration (FHA) insured mortgage authority; and (3) increase Government National Mortgage Association (GNMA) guarantee authority.
+
+	</summary>
+</bill>

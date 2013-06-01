@@ -1,0 +1,63 @@
+<bill session="103" type="s" number="1670" updated="2012-07-17T05:19:10-04:00">
+	<state datetime="1993-12-03">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-03" /></status>
+
+	<introduced datetime="1993-11-18"/>
+	<titles>
+		<title type="short" as="introduced">Hazard Mitigation and Relocation Assistance Act of 1993</title>
+		<title type="short" as="enacted">Hazard Mitigation and Relocation Assistance Act of 1993</title>
+		<title type="official" as="introduced">A bill to improve hazard mitigation and relocation assistance in connection with flooding, and for other purposes.</title>
+	</titles>
+	<sponsor id="300051"/>
+	<cosponsors>
+		<cosponsor id="300048" joined="1993-11-18"/>
+		<cosponsor id="300010" joined="1993-11-19"/>
+		<cosponsor id="407992" joined="1993-11-18"/>
+		<cosponsor id="403171" joined="1993-11-18"/>
+		<cosponsor id="409917" joined="1993-11-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-18" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<action datetime="1993-11-20"><text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote. (consideration: CR 11/20/1993 S16586)</text></vote>
+		<action datetime="1993-11-20T10:00:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-20T12:17:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10329-10330"/></action>
+		<action datetime="1993-11-20T12:17:00-05:00"><text>Mr. Applegate asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<vote how="without objection" type="vote2" datetime="1993-11-20T12:22:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection. (consideration: CR 11/19/93 S16585-16586)</text></vote>
+		<action datetime="1993-11-20T12:22:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-20"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-11-20" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-11-23" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-03" ><text>Signed by President.</text></signed>
+		<enacted number="103-181" type="public" datetime="1993-12-03"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-181.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3445" />
+		<bill relation="unknown" session="103" type="h" number="3445" />
+	</relatedbills>
+	<subjects>
+		<term name="Disasters"/>
+		<term name="Cost effectiveness"/>
+		<term name="Disaster relief"/>
+		<term name="Emergency management"/>
+		<term name="Flood control"/>
+		<term name="Flood damage prevention"/>
+		<term name="Floods"/>
+		<term name="Grants-in-aid"/>
+		<term name="Land transfers"/>
+		<term name="North Central States"/>
+		<term name="Relocation"/>
+		<term name="Water resources development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/18/1993--Introduced.
+Hazard Mitigation and Relocation Assistance Act of 1993 - Amends the Robert T. Stafford Disaster Relief and Emergency Assistance Act to: (1) increase from 50 to 75 percent of the cost of hazard mitigation measures the amount authorized to be contributed by the President when determined to be cost-effective while substantially reducing the damage or loss suffered in a major disaster; (2) increase the total Federal contributions authorized for damages from a major disaster to 15 percent of the estimated aggregate amounts of grants to be provided under such Act for such disaster; and (3) provide the terms and conditions under which the Director of the Federal Emergency Management Agency may provide property acquisition and relocation assistance in connection with flood damaged property. States that the purchase of any real property under a qualified buyout program (the federally assisted purchase of property damaged by the major Midwest flood of 1993) shall not constitute the making of Federal financial assistance available for the cost of a program resulting in the acquisition of real property or in an owner of real property being a displaced person within the meaning of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970.
+
+	</summary>
+</bill>

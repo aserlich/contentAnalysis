@@ -1,0 +1,49 @@
+<bill session="103" type="hr" number="227" updated="2010-04-19T13:34:21-04:00">
+	<state datetime="1993-07-27">REFERRED</state>
+	<status><introduced datetime="1993-07-27"/></status>
+
+	<introduced datetime="1993-07-27"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives that United States Armed Forces should be withdrawn from Somalia as expeditiously as possible.</title>
+	</titles>
+	<sponsor id="400050"/>
+	<cosponsors>
+		<cosponsor id="404083" joined="1993-10-06"/>
+		<cosponsor id="406431" joined="1993-10-20"/>
+		<cosponsor id="400332" joined="1993-10-28"/>
+		<cosponsor id="400028" joined="1993-10-20"/>
+		<cosponsor id="407306" joined="1993-10-20"/>
+		<cosponsor id="400340" joined="1993-11-16"/>
+		<cosponsor id="300097" joined="1993-10-20"/>
+		<cosponsor id="402152" joined="1993-10-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-27"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Africa.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Security, International Organizations and Human Rights.</text></action>
+		<action datetime="1993-10-05"><text>Sponsor introductory remarks on measure. (CR H7382)</text></action>
+		<action datetime="1993-10-19T19:49:00-04:00"><text>Motion to Discharge Committee filed by Mr. Weldon. Petition No: 103-9.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Africa" activity="Referral" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Security, International Organizations, and Human Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Armed forces abroad"/>
+		<term name="Military intervention"/>
+		<term name="Somalia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/27/1993--Introduced.
+Implores the President to withdraw U.S. armed forces from Somalia as expeditiously as possible.
+
+	</summary>
+</bill>

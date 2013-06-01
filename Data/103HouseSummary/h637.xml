@@ -1,0 +1,38 @@
+<bill session="103" type="h" number="637" updated="2010-04-19T00:41:47-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="popular" as="">Line Item Veto Amendment</title>
+		<title type="official" as="introduced">To authorize the President to veto an item of appropriation in an Act or resolution.</title>
+	</titles>
+	<sponsor id="410529"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Appropriations"/>
+		<term name="Item veto"/>
+		<term name="Presidential powers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Authorizes the President to veto an item of appropriation in any Act or resolution.
+
+	</summary>
+</bill>

@@ -1,0 +1,86 @@
+<bill session="103" type="hr" number="323" updated="2010-04-19T13:49:22-04:00">
+	<state datetime="1994-01-26T13:06:00-05:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-01-26T13:06:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-11-21"/>
+	<titles>
+		<title type="official" as="introduced">Relating to the treatment of Hugo Princz, a United States citizen, by the Federal Republic of Germany.</title>
+	</titles>
+	<sponsor id="400308"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1994-01-26"/>
+		<cosponsor id="400219" joined="1994-01-26"/>
+		<cosponsor id="400272" joined="1993-11-21"/>
+		<cosponsor id="405775" joined="1994-01-26"/>
+		<cosponsor id="400122" joined="1994-01-26"/>
+		<cosponsor id="400246" joined="1993-11-21"/>
+		<cosponsor id="407351" joined="1994-01-26"/>
+		<cosponsor id="400170" joined="1994-01-26"/>
+		<cosponsor id="400268" joined="1994-01-26"/>
+		<cosponsor id="400506" joined="1994-01-26"/>
+		<cosponsor id="300087" joined="1993-11-21"/>
+		<cosponsor id="400306" joined="1994-01-26"/>
+		<cosponsor id="400585" joined="1994-01-26"/>
+		<cosponsor id="400359" joined="1994-01-26"/>
+		<cosponsor id="400231" joined="1993-11-21"/>
+		<cosponsor id="411947" joined="1994-01-26"/>
+		<cosponsor id="400386" joined="1994-01-26"/>
+		<cosponsor id="400008" joined="1994-01-26"/>
+		<cosponsor id="407153" joined="1994-01-26"/>
+		<cosponsor id="400001" joined="1994-01-26"/>
+		<cosponsor id="407817" joined="1994-01-26"/>
+		<cosponsor id="300156" joined="1993-11-22"/>
+		<cosponsor id="400140" joined="1993-11-21"/>
+		<cosponsor id="412001" joined="1993-11-21"/>
+		<cosponsor id="400251" joined="1994-01-26"/>
+		<cosponsor id="400536" joined="1993-11-22"/>
+		<cosponsor id="400189" joined="1994-01-26"/>
+		<cosponsor id="409633" joined="1994-01-26"/>
+		<cosponsor id="400554" joined="1994-01-26"/>
+		<cosponsor id="400357" joined="1994-01-26"/>
+		<cosponsor id="409627" joined="1994-01-26"/>
+		<cosponsor id="400025" joined="1993-11-21"/>
+		<cosponsor id="400425" joined="1994-01-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-21"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-12-06"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Europe and the Middle East.</text></action>
+		<action datetime="1994-01-25"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-01-25"  state="REPORTED"><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1994-01-25T14:20:00-05:00"><text>Mr. Gephardt asked unanimous consent that it be in order on Wednesday, Jan. 26, 1994, for the Speaker to entertain a motion to suspend the rules and agree to H. Res. 323. Agreed to without objection.</text></action>
+		<action datetime="1994-01-26T12:48:00-05:00"><text>Mr. Hamilton moved to suspend the rules and agree to the resolution.</text></action>
+		<action datetime="1994-01-26T12:48:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H51-55"/></action>
+		<action datetime="1994-01-26T12:48:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-01-26T13:06:00-05:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1994-01-26T13:06:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Europe and the Middle East" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="sr" number="162" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Europe"/>
+		<term name="Germany"/>
+		<term name="Government liability (International law)"/>
+		<term name="International affairs"/>
+		<term name="Jewish holocaust (1939-1945)"/>
+		<term name="Law"/>
+		<term name="National socialism"/>
+		<term name="Negotiations"/>
+		<term name="Politics and government"/>
+		<term name="Reparations"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/21/1993--Introduced.
+Expresses the sense of the House of Representatives that the President and Secretary of State should: (1) raise the matter of Hugo Princz (a U.S. citizen who was liberated by U.S. armed forces at the close of World War II and whose application for reparations from the Federal Republic of Germany (FRG) as a &quot;survivor&quot; was rejected) with the FRG, including the Chancellor and Foreign Minister, and ensure that this matter will be expeditiously resolved and that fair reparations will be provided to Princz; and (2) state that the United States will not countenance the continued discriminatory treatment of Princz.
+
+	</summary>
+</bill>

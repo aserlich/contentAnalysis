@@ -1,0 +1,102 @@
+<bill session="103" type="h" number="3161" updated="2010-04-19T07:23:55-04:00">
+	<state datetime="1993-12-02">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-02" /></status>
+
+	<introduced datetime="1993-09-28"/>
+	<titles>
+		<title type="short" as="introduced">Older Americans Act Technical Amendments of 1993</title>
+		<title type="short" as="passed house">Older Americans Act Technical Amendments of 1993</title>
+		<title type="short" as="enacted">Older Americans Act Technical Amendments of 1993</title>
+		<title type="official" as="introduced">To make technical amendments necessitated by the enactment of the Older Americans Act Amendments of 1992, and for other purposes.</title>
+	</titles>
+	<sponsor id="400595"/>
+	<cosponsors>
+		<cosponsor id="407817" joined="1993-09-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-28"><text>Referred jointly to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-09-28"><text>Referred jointly to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-09-30"><text>Referred to the Subcommittee on Human Resources.</text></action>
+		<action datetime="1993-09-30"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-09-30"><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-10-18"><text>Referred to the Subcommittee on Housing and Community Development.</text></action>
+		<action datetime="1993-10-19"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-19"  state="REPORTED"><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1993-11-04T12:46:00-05:00"><text>RE-REFERRAL OF H.R. 3161 - Mr. Martinez asked unanimous consent that the bill H.R. 3161 be re-referred solely to the Committee on Education and Labor. Agreed to without objection.</text></action>
+		<action datetime="1993-11-04T12:47:00-05:00"><text>Committee on Banking, Finance + Urban Affrs discharged.</text></action>
+		<action datetime="1993-11-04T12:48:00-05:00"><text>Committee on Education and Labor discharged.</text></action>
+		<action datetime="1993-11-04"><text>Rereferred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-11-08T11:09:00-05:00"><text>Reported (Amended) by the Committee on Education and Labor. H. Rept. 103-330.</text></action>
+		<calendar number="181" datetime="1993-11-08T11:22:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 181.</text></calendar>
+		<action datetime="1993-11-08T12:43:00-05:00"><text>Mr. Martinez moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-08T12:43:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8884-8886"/></action>
+		<action datetime="1993-11-08T12:43:00-05:00"><text>DEBATE - The House proceeded with forty minuutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-08T12:47:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-08T12:47:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-09"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-11-16" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S15805"/></vote>
+		<topresident datetime="1993-11-16" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-11-17"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-11-20" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-02" ><text>Signed by President.</text></signed>
+		<enacted number="103-171" type="public" datetime="1993-12-02"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-171.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, Re-referral, Markup, Discharged, Reporting" />
+		<committee code="" name="House Education and Labor" subcommittee="Human Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, Discharged" />
+		<committee code="HSBA-04" name="House Banking, Finance, and Urban Affairs" subcommittee="Housing and Community Development" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Aged"/>
+		<term name="Antipoverty program"/>
+		<term name="Authorization"/>
+		<term name="Block grants"/>
+		<term name="Budgets"/>
+		<term name="Child abuse"/>
+		<term name="Child nutrition"/>
+		<term name="Children"/>
+		<term name="Community organization"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Criminal justice"/>
+		<term name="Day care"/>
+		<term name="Elder abuse"/>
+		<term name="Executive departments"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal aid to community development"/>
+		<term name="Federal officials"/>
+		<term name="Food"/>
+		<term name="Food relief"/>
+		<term name="Government employees"/>
+		<term name="Housing"/>
+		<term name="Indians"/>
+		<term name="Juvenile corrections"/>
+		<term name="Juvenile delinquency"/>
+		<term name="Long-term care"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Minorities"/>
+		<term name="Nonprofit organizations"/>
+		<term name="Nutrition"/>
+		<term name="Ombudsman"/>
+		<term name="Politics and government"/>
+		<term name="Poor"/>
+		<term name="Poverty"/>
+		<term name="Rural affairs"/>
+		<term name="Rural housing"/>
+		<term name="Welfare"/>
+		<term name="White House conferences"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/8/1993--Passed House amended. Older Americans Act Technical Amendments of 1993 - Makes numerous miscellaneous technical amendments necessitated by the enactment of the Older Americans Act Amendments of 1992 to various provisions of the Older Americans Act of 1965 (OAA), including those extending the deadlines for certain reports to the Congress, and those under OAA and other specified Federal laws elevating the Commissioner on Aging to Assistant Secretary for Aging within the Department of Health and Human Services. Amends the Older Americans Act Amendments of 1992 to: (1) extend the deadlines for obligating funds for operation of the National Ombudsman Resource Center and National Center on Elder Abuse; and (2) delay the applicability of certain amendments, including those relating to vulnerable elder rights protection activities. Amends the Native American Programs Act of 1974 to: (1) make numerous miscellaneous technical amendments; and (2) authorize appropriations for FY 1994 for demonstration projects for research related to Native American studies and Indian policy development and for a plan for the establishment of a National Center for Native American Studies and Indian Policy Development. Amends the Older Americans Amendments of 1987 to: (1) extend the deadline for the President to convene the White House Conference on Aging; (2) authorize appropriations for FY 1995 and 1996 for the Conference; and (3) make miscellaneous technical amendments regarding Conference administration and availability of funds. Amends the Community Services Block Grant Act to: (1) make miscellaneous technical amendments to various provisions of such Act; (2) change annual reporting requirements; and (3) split the discretionary grants program for rural housing and community facilities into two separate items. Amends specified Federal law authorizing appropriations for the continued implementation of the Juvenile Justice and Delinquency Prevention Act of 1974 to replace references to the Development Block Grant Act Amendments of 1992 with references to the Child Care and Development Block Grant Act of 1990. Amends the Child Abuse, Domestic Violence, Adoption and Family Services Act of 1992 to make certain changes to the State grant program for child abuse and neglect prevention and treatment effective only after annual appropriations reach $40 million.
+
+	</summary>
+</bill>

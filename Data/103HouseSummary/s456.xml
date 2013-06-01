@@ -1,0 +1,53 @@
+<bill session="103" type="s" number="456" updated="2012-07-17T05:18:00-04:00">
+	<state datetime="1993-02-25">REFERRED</state>
+	<status><introduced datetime="1993-02-25"/></status>
+
+	<introduced datetime="1993-02-25"/>
+	<titles>
+		<title type="short" as="introduced">Career Pathways Act of 1993</title>
+		<title type="official" as="introduced">A bill to establish school-to-work transition programs for all students, and for other purposes.</title>
+	</titles>
+	<sponsor id="409917"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="1993-06-24"/>
+		<cosponsor id="411818" joined="1993-02-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-25" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2131-2132)</text></action>
+		<action datetime="1993-02-25" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<action datetime="1993-03-03"><committee name="Committee on Labor and Human Resources"/><text>Subcommittee on Employment and Productivity. Hearings held. Hearings printed: S.Hrg. 103-32.</text></action>
+		<action datetime="1993-03-09"><committee name="Committee on Labor and Human Resources"/><text>Referred to Subcommittee on Employment and Productivity.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee" />
+		<committee code="" name="Senate Labor and Human Resources" subcommittee="Employment and Productivity" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Apprenticeship"/>
+		<term name="Business and social problems"/>
+		<term name="Career education"/>
+		<term name="Education"/>
+		<term name="Education of socially handicapped children"/>
+		<term name="Educational accountability"/>
+		<term name="Educational planning"/>
+		<term name="Federal aid to education"/>
+		<term name="Hard-core unemployed"/>
+		<term name="Manpower training programs"/>
+		<term name="School-to-work transition"/>
+		<term name="Vocational education"/>
+		<term name="Vocational guidance"/>
+		<term name="Youth employment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/25/1993--Introduced.
+Career Pathways Act of 1993 - Amends the Job Training Partnership Act to establish school-to-work transition Career Pathways (CP) programs for all students. Authorizes appropriations. Directs the Secretary of Labor (the Secretary) to award grants to: (1) eligible partnerships for CP programs; (2) States for statewide CP systems; and (3) an industry or trade association or a labor union for an industry- or occupation-wide CP program.
+
+	</summary>
+</bill>

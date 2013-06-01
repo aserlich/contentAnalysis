@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="3379" updated="2010-04-19T07:57:30-04:00">
+	<state datetime="1993-10-27">REFERRED</state>
+	<status><introduced datetime="1993-10-27"/></status>
+
+	<introduced datetime="1993-10-27"/>
+	<titles>
+		<title type="official" as="introduced">To amend section 156 of title 35, United States Code, to provide for the interim extension of patents subject to that section.</title>
+	</titles>
+	<sponsor id="405775"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-27"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-10-28"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+		<action datetime="1993-10-29"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-12-03"><committee name="House Committee on Judiciary"/><text>See H.R.2632.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2632" />
+	</relatedbills>
+	<subjects>
+		<term name="Patents"/>
+		<term name="Administrative procedure"/>
+		<term name="Department of Commerce"/>
+		<term name="Executive departments"/>
+		<term name="Government paperwork"/>
+		<term name="Intellectual property"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/27/1993--Introduced.
+Authorizes the owner of record of a product patent who expects that the applicable regulatory review period for the product may extend beyond the patent term to submit, during the period beginning six months and ending 30 days before the term is due to expire, an application to the Commissioner of Patents and Trademarks for an interim extension. Permits up to four subsequent interim extensions. Requires any interim extension to terminate at the end of the 60-day period beginning on the date on which the product involved receives permission for commercial marketing or use unless the applicant submits specified additional information not previously contained in the interim extension application in which case the patent shall be extended for up to five years from the expiration date of the original patent term.
+
+	</summary>
+</bill>

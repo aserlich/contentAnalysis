@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="1365" updated="2012-07-17T05:42:31-04:00">
+	<state datetime="1993-08-05">REFERRED</state>
+	<status><introduced datetime="1993-08-05"/></status>
+
+	<introduced datetime="1993-08-05"/>
+	<titles>
+		<title type="official" as="introduced">A bill to limit the duration of certain benefits afforded to former Presidents, and for other purposes.</title>
+	</titles>
+	<sponsor id="411818"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-05" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S10576)</text></action>
+		<action datetime="1993-08-05" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1525" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Ex-presidents"/>
+		<term name="Presidential allowances"/>
+		<term name="Presidential compensation"/>
+		<term name="Presidential protection"/>
+		<term name="Secret service"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/1993--Introduced.
+Amends the Federal criminal code and other Federal law to limit the duration of Secret Service protection and monetary allowances for former Presidents. Repeals the mandate for office space provided by the Administrator of General Services.
+
+	</summary>
+</bill>

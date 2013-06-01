@@ -1,0 +1,85 @@
+<bill session="103" type="s" number="183" updated="2012-07-17T06:05:36-04:00">
+	<state datetime="1993-05-27">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-05-27" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize the President to award a gold medal on behalf of the Congress to Richard &quot;Red&quot; Skelton, and to provide for the production of bronze duplicates of such medal for sale to the public.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="1993-03-29"/>
+		<cosponsor id="300056" joined="1993-03-25"/>
+		<cosponsor id="300043" joined="1993-03-25"/>
+		<cosponsor id="400557" joined="1993-03-25"/>
+		<cosponsor id="406084" joined="1993-03-25"/>
+		<cosponsor id="405212" joined="1993-03-25"/>
+		<cosponsor id="401709" joined="1993-03-25"/>
+		<cosponsor id="400559" joined="1993-03-29"/>
+		<cosponsor id="401874" joined="1993-03-25"/>
+		<cosponsor id="300089" joined="1993-04-28"/>
+		<cosponsor id="409917" joined="1993-03-25"/>
+		<cosponsor id="300066" joined="1993-03-25"/>
+		<cosponsor id="300036" joined="1993-04-28"/>
+		<cosponsor id="408939" joined="1993-03-25"/>
+		<cosponsor id="300053" joined="1993-03-25"/>
+		<cosponsor id="406487" joined="1993-03-25"/>
+		<cosponsor id="300001" joined="1993-03-25"/>
+		<cosponsor id="300026" joined="1993-03-25"/>
+		<cosponsor id="400563" joined="1993-03-25"/>
+		<cosponsor id="300073" joined="1993-03-25"/>
+		<cosponsor id="403142" joined="1993-03-25"/>
+		<cosponsor id="402675" joined="1993-03-25"/>
+		<cosponsor id="300031" joined="1993-03-25"/>
+		<cosponsor id="300029" joined="1993-03-29"/>
+		<cosponsor id="300017" joined="1993-03-25"/>
+		<cosponsor id="300009" joined="1993-03-25"/>
+		<cosponsor id="403346" joined="1993-03-25"/>
+		<cosponsor id="300099" joined="1993-03-29"/>
+		<cosponsor id="402004" joined="1993-03-25"/>
+		<cosponsor id="300034" joined="1993-03-25"/>
+		<cosponsor id="300070" joined="1993-02-24"/>
+		<cosponsor id="407254" joined="1993-03-25"/>
+		<cosponsor id="411818" joined="1993-04-28"/>
+		<cosponsor id="400561" joined="1993-03-25"/>
+		<cosponsor id="403962" joined="1993-03-25"/>
+		<cosponsor id="401604" joined="1993-03-25"/>
+		<cosponsor id="400566" joined="1993-03-25"/>
+		<cosponsor id="407992" joined="1993-03-25"/>
+		<cosponsor id="405310" joined="1993-03-25"/>
+		<cosponsor id="300064" joined="1993-04-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S693-694)</text></action>
+		<action datetime="1993-01-26" state="REFERRED"><text>Read twice and referred to the Committee on Banking.</text></action>
+		<calendar datetime="1993-05-27"  state="REPORTED"><committee name="Committee on Banking"/><text>Committee on Banking. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1993-05-27"><text>Committee on Banking. Reported to Senate by Senator Riegle with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="80" datetime="1993-05-27" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 80.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-05-27" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text><reference label="consideration" ref="CR S6735"/></vote>
+		<action datetime="1993-06-08T12:04:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-06-08"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-06-08"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-06-15"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Consumer Credit and Insurance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="Consumer Credit and Insurance" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Awards, medals, prizes"/>
+		<term name="Commemorations"/>
+		<term name="Congressional gold medals"/>
+		<term name="Entertainers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/27/1993--Passed Senate amended. Authorizes the President to present to Richard &quot;Red&quot; Skelton, on behalf of the Congress, a gold medal in recognition of his performance as an entertainer and humanitarian. Authorizes the Secretary of the Treasury to strike a gold medal with suitable emblems and to strike and sell bronze duplicates. Declares such medals national medals. Authorizes appropriations to be charged against the Numismatic Public Enterprise Fund. Requires the proceeds of the sale of the bronze duplicates to be deposited in the Fund.
+
+	</summary>
+</bill>

@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="4417" updated="2010-04-19T10:39:33-04:00">
+	<state datetime="1994-05-12">REFERRED</state>
+	<status><introduced datetime="1994-05-12"/></status>
+
+	<introduced datetime="1994-05-12"/>
+	<titles>
+		<title type="official" as="introduced">To authorize appropriations for a retirement incentive for certain employees of National Laboratories.</title>
+	</titles>
+	<sponsor id="409205"/>
+	<cosponsors>
+		<cosponsor id="403364" joined="1994-05-24"/>
+		<cosponsor id="401081" joined="1994-05-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-12"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-05-12"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1994-05-13"><text>Sponsor introductory remarks on measure. (CR E921-922)</text></action>
+		<action datetime="1994-05-16"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Energy.</text></action>
+		<action datetime="1994-05-17"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Acquisition.</text></action>
+		<action datetime="1994-05-17"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOE.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Acquisition" activity="Referral" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Energy" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="State politics and government"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="California"/>
+		<term name="Colleges"/>
+		<term name="Defense economics"/>
+		<term name="Department of Energy"/>
+		<term name="Dismissal wage"/>
+		<term name="Early retirement"/>
+		<term name="Education"/>
+		<term name="Executive departments"/>
+		<term name="Government employees"/>
+		<term name="Higher education"/>
+		<term name="Labor"/>
+		<term name="Laboratories"/>
+		<term name="Science policy"/>
+		<term name="Scientists in government"/>
+		<term name="State and local government"/>
+		<term name="State officials and employees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/12/1994--Introduced.
+Authorizes appropriations to the Secretary of Energy for the California Public Employees Retirement System for an early retirement incentive established by the University of California for individuals enrolled in the System and employed by the University in federally-paid positions at the Los Alamos National Laboratory, Lawrence Livermore National Laboratory, or Lawrence Berkeley Laboratory.
+
+	</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="103" type="hj" number="115" updated="2010-04-18T22:09:01-04:00">
+	<state datetime="1993-02-18">REFERRED</state>
+	<status><introduced datetime="1993-02-18"/></status>
+
+	<introduced datetime="1993-02-18"/>
+	<titles>
+		<title type="official" as="introduced">Proposing a balanced budget and line-item veto amendment to the Constitution of the United States.</title>
+	</titles>
+	<sponsor id="400560"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-18"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-23"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1994-03-17"><committee name="House Committee on Judiciary"/><text>See H.J.Res.103.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hj" number="103" />
+	</relatedbills>
+	<subjects>
+		<term name="Public finance"/>
+		<term name="Appropriations"/>
+		<term name="Balanced budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Congressional budget"/>
+		<term name="Constitutional amendments"/>
+		<term name="Deficit financing"/>
+		<term name="Federal budgets"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Government spending reductions"/>
+		<term name="Item veto"/>
+		<term name="Legislation"/>
+		<term name="Presidential powers"/>
+		<term name="Public debt"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/18/1993--Introduced.
+Constitutional Amendment - Requires the Congress, prior to each fiscal year, to adopt a statement in which total Federal outlays (except those for repayment of debt principal) do not exceed total receipts (except those derived from borrowing), unless a three-fifths vote of both Houses authorizes a specific excess. Limits the rate of increase in receipts in the statement to that of the increase in national income in the previous calendar year, unless law is enacted solely to approve specific additional receipts. Directs the President to submit a balanced budget. Authorizes waiver of these provisions in time of war. Sets a permanent limit on the amount of Federal public debt, prohibiting any increase unless legislation enacted by a three-fifths majority of both Houses becomes law. Grants the President line item veto power with respect to any item of spending authority in a bill (including any vote, resolution, or order that contains such item).
+
+	</summary>
+</bill>

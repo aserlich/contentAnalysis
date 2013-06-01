@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="3253" updated="2010-04-19T07:38:04-04:00">
+	<state datetime="1993-10-07">REFERRED</state>
+	<status><introduced datetime="1993-10-07"/></status>
+
+	<introduced datetime="1993-10-07"/>
+	<titles>
+		<title type="official" as="introduced">To rename Huntington Lake, Indiana, the &quot;J. Edward Roush Lake&quot;.</title>
+	</titles>
+	<sponsor id="406920"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-07"><text>Sponsor introductory remarks on measure. (CR E2382)</text></action>
+		<action datetime="1993-10-07"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Public Works + Transportation"/><text>See H.R.4460.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4460" />
+	</relatedbills>
+	<subjects>
+		<term name="Water"/>
+		<term name="Commemorations"/>
+		<term name="Indiana"/>
+		<term name="Lakes"/>
+		<term name="Names"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1993--Introduced.
+Renames Huntington Lake, located on the Wabash River in Huntington and Wells Counties, Indiana, as the J. Edward Roush Lake.
+
+	</summary>
+</bill>

@@ -1,0 +1,75 @@
+<bill session="103" type="h" number="3982" updated="2012-07-17T05:34:08-04:00">
+	<state datetime="1994-05-23T12:38:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-05-23T12:38:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-03-08"/>
+	<titles>
+		<title type="short" as="introduced">Ocean Radioactive Dumping Ban Act of 1994</title>
+		<title type="short" as="passed house">Ocean Radioactive Dumping Ban Act of 1994</title>
+		<title type="official" as="introduced">Entitled &quot;The Ocean Radioactive Dumping Ban Act of 1994&quot;.</title>
+	</titles>
+	<sponsor id="400428"/>
+	<cosponsors>
+		<cosponsor id="410496" joined="1994-05-23"/>
+		<cosponsor id="404068" joined="1994-03-11"/>
+		<cosponsor id="400308" joined="1994-04-21"/>
+		<cosponsor id="400302" joined="1994-03-08"/>
+		<cosponsor id="400569" joined="1994-04-21"/>
+		<cosponsor id="400440" joined="1994-04-21"/>
+		<cosponsor id="407141" joined="1994-04-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-08" state="REFERRED"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1994-03-10"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Commerce, Interior, Navy, State, EPA.</text></action>
+		<action datetime="1994-03-10"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Oceanography, Gulf of Mexico, and the Outer Continental Shelf.</text></action>
+		<action datetime="1994-03-10"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Oceanography, Gulf of Mexico, and the Outer Continental Shelf"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-03-10"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Oceanography, Gulf of Mexico, and the Outer Continental Shelf"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1994-03-10" state="REPORTED"><text>Sponsor introductory remarks on measure. (CR H1243-1244)</text></action>
+		<action datetime="1994-04-18" state="REFERRED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Received from Commerce.</text></action>
+		<action datetime="1994-04-22"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Received from State.</text></action>
+		<action datetime="1994-05-11"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-05-11"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-05-23T12:03:00-04:00"><text>Reported (Amended) by the Committee on Merchant Marine and Fisheries. H. Rept. 103-522.</text></action>
+		<calendar number="291" datetime="1994-05-23T12:04:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 291.</text></calendar>
+		<action datetime="1994-05-23T12:34:00-04:00"><text>Mr. Studds moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-05-23T12:35:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3807-3808"/></action>
+		<action datetime="1994-05-23T12:35:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-05-23T12:38:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-05-23T12:38:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-05-23T12:38:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1994-05-25"><text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<action datetime="1994-09-21"><text>Sponsor introductory remarks on measure. (CR H9422-9423)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Oceanography, Gulf of Mexico and the Outer Continental Shelf" activity="Referral, Markup, Reporting" />
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="California"/>
+		<term name="Environmental assessment"/>
+		<term name="Environmental education"/>
+		<term name="Government operations and politics"/>
+		<term name="Licenses"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Names"/>
+		<term name="New Jersey"/>
+		<term name="Radioactive waste disposal in the ocean"/>
+		<term name="Transportation and public works"/>
+		<term name="Transportation of hazardous substances"/>
+		<term name="Water resources development"/>
+		<term name="Wetland ecology"/>
+		<term name="Wildlife refuges"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/23/1994--Passed House amended. Ocean Radioactive Dumping Ban Act of 1994 - Amends the Marine Protection, Research, and Sanctuaries Act of 1972 to remove the definition for, and certain references to, &quot;high-level radioactive waste&quot; (thus expanding the current ban on dumping high-level radioactive waste to cover dumping of all radioactive waste). Removes provisions which prohibit the Administrator of the Environmental Protection Agency from issuing a permit for the disposal of radioactive waste in the ocean until the permit applicant prepares a Radioactive Material Disposal Impact Assessment. Provides that nothing in this Act shall affect the transportation of material containing de minimis levels of radioactivity for purposes of dumping it into ocean waters under the Marine Protection, Research, and Sanctuaries Act of 1972.
+
+	</summary>
+</bill>

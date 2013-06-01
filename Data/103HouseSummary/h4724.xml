@@ -1,0 +1,85 @@
+<bill session="103" type="h" number="4724" updated="2012-07-17T05:06:49-04:00">
+	<state datetime="1994-08-01T12:22:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-08-01T12:22:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-07-12"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, relating to veterans housing programs, and for other purposes.</title>
+	</titles>
+	<sponsor id="409570"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1994-07-26"/>
+		<cosponsor id="408476" joined="1994-07-26"/>
+		<cosponsor id="400389" joined="1994-07-26"/>
+		<cosponsor id="405313" joined="1994-07-26"/>
+		<cosponsor id="400030" joined="1994-07-21"/>
+		<cosponsor id="408556" joined="1994-07-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-12" state="REFERRED"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1994-07-21"><committee name="House Committee on Veterans' Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-07-21"  state="REPORTED"><committee name="House Committee on Veterans' Affairs"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1994-07-28T18:17:00-04:00"><text>Reported by the Committee on Veterans' Affairs. H. Rept. 103-629.</text></action>
+		<calendar number="342" datetime="1994-07-28T18:17:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 342.</text></calendar>
+		<action datetime="1994-08-01T12:16:00-04:00"><text>Mr. Montgomery moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-08-01T12:17:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6503-6507"/></action>
+		<action datetime="1994-08-01T12:17:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-08-01T12:22:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1994-08-01T12:22:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-08-02"><text>Received in the Senate and read twice and referred to the Committee on Veterans.</text></action>
+		<action datetime="1994-09-14"><committee name="House Committee on Veterans' Affairs"/><text>Committee on Veterans. Hearings held.</text></action>
+		<action datetime="1994-10-07" state="REPORTED"><committee name="House Committee on Veterans' Affairs"/><text>See H.R.5244.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5244" />
+		<bill relation="unknown" session="103" type="h" number="5244" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Armed forces reserves"/>
+		<term name="Coast guard"/>
+		<term name="Collection of accounts"/>
+		<term name="Commerce"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Economics and public finance"/>
+		<term name="Energy"/>
+		<term name="Energy efficiency"/>
+		<term name="Energy policy"/>
+		<term name="Environmental protection"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Fees"/>
+		<term name="Finance and financial sector"/>
+		<term name="Home repair and improvement"/>
+		<term name="Housing and community development"/>
+		<term name="Housing codes"/>
+		<term name="Interest rates"/>
+		<term name="Loan defaults"/>
+		<term name="Military dependents"/>
+		<term name="Military discharges"/>
+		<term name="Mobile homes"/>
+		<term name="Mortgage loans"/>
+		<term name="Prefabricated buildings"/>
+		<term name="Residential energy conservation"/>
+		<term name="Sewerage"/>
+		<term name="Small business"/>
+		<term name="Standards"/>
+		<term name="Survivors' benefits"/>
+		<term name="Variable rate mortgage loans"/>
+		<term name="Veterans' loans"/>
+		<term name="Water resources development"/>
+		<term name="Water supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/12/1994--Introduced.
+Makes eligible for the veterans' housing loan program: (1) members of the Selected Reserve discharged or released before completion of six years of service because of a service-connected disability; and (2) surviving spouses of reservists who die while on active duty. Repeals a Federal provision prohibiting guaranteed housing loans to veterans for property not served by a public or adequate community water and sewage system. Authorizes the Secretary of Veterans Affairs to guarantee to refinance loans of veterans making energy efficiency improvements. Allows for the charging of a guaranteed housing loan fee for such loan. Provides for the guaranteeing of refinance loans made to change a mortgage from an adjustable to a fixed rate. Provides authority for guaranteeing loans made to purchase a manufactured home if the home displays a certification of conformity with Federal manufactured home construction and safety standards. Repeals certain inspection requirements with respect to such manufactured homes, as well as a reporting requirement concerning such inspections. Revises certain default procedures with respect to guaranteed housing loans. Excludes from certain minimum active-duty service requirements, for purposes of eligibility for veterans' guaranteed housing loans, those veterans whose discharge or release from active duty was the result of a reduction in force.
+
+	</summary>
+</bill>

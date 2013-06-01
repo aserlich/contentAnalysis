@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="4216" updated="2010-04-19T10:08:07-04:00">
+	<state datetime="1994-04-14">REFERRED</state>
+	<status><introduced datetime="1994-04-14"/></status>
+
+	<introduced datetime="1994-04-14"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Beneficiary Coinsurance Protection Act</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to limit the amount a provider may charge an individual for an outpatient hospital service furnished under part B of the medicare program to 20 percent of the reasonable cost of the service, and for other purposes.</title>
+	</titles>
+	<sponsor id="400543"/>
+	<cosponsors>
+		<cosponsor id="405775" joined="1994-05-12"/>
+		<cosponsor id="400262" joined="1994-05-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-14"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-04-14"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-04-15"><text>Sponsor introductory remarks on measure. (CR E674)</text></action>
+		<action datetime="1994-04-19"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1994-04-26"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Aged"/>
+		<term name="Ambulatory care"/>
+		<term name="Disabled"/>
+		<term name="Health policy"/>
+		<term name="Home care services"/>
+		<term name="Medical care"/>
+		<term name="Medical fees"/>
+		<term name="Medical supplies"/>
+		<term name="Medicare"/>
+		<term name="Medicine"/>
+		<term name="Surgery"/>
+		<term name="X-rays"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/14/1994--Introduced.
+Medicare Beneficiary Coinsurance Protection Act - Amends title XVIII (Medicare) of the Social Security Act concerning hospital insurance benefits for the aged and disabled to limit a beneficiary's financial liability for outpatient hospital services to 20 percent of the reasonable cost of the item or service. (Currently such liability is 20 percent of hospital charges.) Modifies the formula for calculating the beneficiary's financial liability for ambulatory surgical center, radiology, and diagnostic procedures to subtract the beneficiary's out-of-pocket payment after total payment has been calculated.
+
+	</summary>
+</bill>

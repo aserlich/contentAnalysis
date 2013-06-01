@@ -1,0 +1,37 @@
+<bill session="103" type="s" number="1804" updated="2012-07-17T04:55:14-04:00">
+	<state datetime="1994-01-26">REFERRED</state>
+	<status><introduced datetime="1994-01-26"/></status>
+
+	<introduced datetime="1994-01-26"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title 10, United States Code, to eliminate the disparity between civilian and military retiree cost-of-living adjustments caused by the Omnibus Budget Reconciliation Act of 1993.</title>
+	</titles>
+	<sponsor id="300099"/>
+	<cosponsors>
+		<cosponsor id="300157" joined="1994-01-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-01-26" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S184-185)</text></action>
+		<action datetime="1994-01-26" state="REFERRED"><text>Read twice and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3023" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Labor and employment"/>
+		<term name="Military pensions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1994--Introduced.
+Amends the Omnibus Budget Reconciliation Act of 1993 to revise provisions concerning limitations on cost of living adjustments for military retirees to set forth special rules concerning such adjustments for FY 1994 through 1996 (currently, special rules are set forth for FY 1994 through 1998).
+
+	</summary>
+</bill>

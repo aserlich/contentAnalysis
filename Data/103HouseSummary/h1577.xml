@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="1577" updated="2010-04-19T03:17:38-04:00">
+	<state datetime="1993-03-31">REFERRED</state>
+	<status><introduced datetime="1993-03-31"/></status>
+
+	<introduced datetime="1993-03-31"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Foreign Trade Zones Act to clarify that crude oil and derivatives thereof consumed in refining operations are not subject to duty under the Harmonized Tariff Schedule of the United States.</title>
+	</titles>
+	<sponsor id="400302"/>
+	<cosponsors>
+		<cosponsor id="400001" joined="1993-03-31"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-31"><text>Sponsor introductory remarks on measure. (CR E854-855)</text></action>
+		<action datetime="1993-03-31"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-04-02"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="633" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Energy policy"/>
+		<term name="Free ports and zones"/>
+		<term name="Petroleum"/>
+		<term name="Petroleum refineries"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/31/1993--Introduced.
+Amends the Foreign Trade Zones Act to declare that crude oil and its derivatives admitted into a foreign trade zone and consumed in the refining process shall not be subject to duty under the Harmonized Tariff Schedule of the United States.
+
+	</summary>
+</bill>

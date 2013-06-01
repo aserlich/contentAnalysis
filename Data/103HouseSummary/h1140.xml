@@ -1,0 +1,65 @@
+<bill session="103" type="h" number="1140" updated="2010-04-19T02:06:13-04:00">
+	<state datetime="1993-03-16T13:43:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-03-16T13:43:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-02-25"/>
+	<titles>
+		<title type="short" as="introduced">Aircraft Equipment Settlement Leases Act of 1993</title>
+		<title type="official" as="introduced">To provide for the treatment of certain aircraft equipment settlement leases.</title>
+	</titles>
+	<sponsor id="401837"/>
+	<cosponsors>
+		<cosponsor id="400381" joined="1993-03-16"/>
+		<cosponsor id="404068" joined="1993-03-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-25"><text>Sponsor introductory remarks on measure. (CR E458)</text></action>
+		<action datetime="1993-02-25"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-25"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-03-01"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1993-03-10"><committee name="House Committee on Judiciary" subcommittee="Economic and Commercial Law"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-03-16"><committee name="House Committee on Judiciary" subcommittee="Economic and Commercial Law"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-03-16"><committee name="House Committee on Judiciary" subcommittee="Economic and Commercial Law"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-03-16"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-03-16"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1993-03-16"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+		<action datetime="1993-03-16T12:02:00-05:00"><text>Reported by the Committee on Judiciary. H. Rept. 103-33, Part I.</text></action>
+		<action datetime="1993-03-16T13:38:00-05:00"><text>Mr. Brooks moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-03-16T13:38:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1254-1255"/></action>
+		<action datetime="1993-03-16T13:38:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-03-16T13:43:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-03-16T13:43:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-03-16T13:44:00-05:00"><text>Laid on the table. See S. 400 for further action.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="HSED" name="House Education and Labor" activity="Referral" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor"/>
+		<term name="Aircraft"/>
+		<term name="Airline employees"/>
+		<term name="Bankruptcy"/>
+		<term name="Debtor and creditor"/>
+		<term name="Equipment and supplies"/>
+		<term name="Executive departments"/>
+		<term name="Leases"/>
+		<term name="Merchant seamen"/>
+		<term name="Pension Benefit Guaranty Corporation"/>
+		<term name="Pension trust guaranty insurance"/>
+		<term name="Ships"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/25/1993--Introduced.
+Aircraft Equipment Settlement Leases Act of 1993 - Treats certain pension liability settlement leases involving aircraft equipment (or vessels) as leases for purposes of the Federal bankruptcy code if any agreements settling such liability: (1) involve at least one party who was a debtor under the code; (2) were, are, or will be made with the Pension Benefit Guaranty Corporation under the Employee Retirement Income Security Act of 1974 (ERISA); and (3) stipulate that the leases shall be so treated.
+
+	</summary>
+</bill>

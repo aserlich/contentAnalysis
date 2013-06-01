@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="2839" updated="2010-04-19T06:33:55-04:00">
+	<state datetime="1993-08-03">REFERRED</state>
+	<status><introduced datetime="1993-08-03"/></status>
+
+	<introduced datetime="1993-08-03"/>
+	<titles>
+		<title type="official" as="introduced">To fix rates of pay for Members of Congress at the levels which were in effect immediately before the enactment of the Ethics Reform Act of 1989.</title>
+	</titles>
+	<sponsor id="400127"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-08-03"/>
+		<cosponsor id="300096" joined="1994-04-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-03"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-08-03"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-08-03"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-08-03"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-08-03"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-01-28"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional salaries and pensions"/>
+		<term name="Earnings"/>
+		<term name="Federal officials"/>
+		<term name="Honoraria"/>
+		<term name="Salaries"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/3/1993--Introduced.
+Amends the Legislative Reorganization Act of 1946 to adjust the annual rate of pay for each Member of Congress to the rate payable as of November 29, 1989. Amends the Ethics Reform Act of 1989 to provide for continuation of provisions limiting outside income and employment and banning honoraria.
+
+	</summary>
+</bill>

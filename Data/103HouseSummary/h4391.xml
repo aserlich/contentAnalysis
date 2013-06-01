@@ -1,0 +1,66 @@
+<bill session="103" type="h" number="4391" updated="2012-07-17T05:50:01-04:00">
+	<state datetime="1994-09-12T12:21:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-09-12T12:21:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-05-11"/>
+	<titles>
+		<title type="short" as="introduced">Federal Maritime Commission Authorization Act for Fiscal Year 1995</title>
+		<title type="short" as="passed house">Federal Maritime Commission Authorization Act for Fiscal Year 1995</title>
+		<title type="official" as="introduced">To authorize appropriations for the Federal Maritime Commission for fiscal year 1995.</title>
+	</titles>
+	<sponsor id="400243"/>
+	<cosponsors>
+		<cosponsor id="410496" joined="1994-05-11"/>
+		<cosponsor id="404068" joined="1994-05-11"/>
+		<cosponsor id="400569" joined="1994-05-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-11" state="REFERRED"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1994-05-17"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee On Merchant Marine.</text></action>
+		<action datetime="1994-05-17"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Fed Maritime Comm.</text></action>
+		<action datetime="1994-05-24"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-05-24"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-06-10"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Favorable Executive Comment Received from Fed Maritime Comm.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-08-11"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-09-12T12:00:00-04:00"><text>Reported (Amended) by the Committee on Merchant Marine and Fisheries. H. Rept. 103-716.</text></action>
+		<calendar number="393" datetime="1994-09-12T12:01:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 393.</text></calendar>
+		<action datetime="1994-09-12T12:15:00-04:00"><text>Mr. Studds moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-09-12T12:15:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9033-9034"/></action>
+		<action datetime="1994-09-12T12:15:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-09-12T12:21:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-09-12T12:21:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-09-12T12:21:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1994-09-13"><text>Received in the Senate and read twice and referred to the Committee on Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Merchant Marine" activity="Referral, Markup, Reporting" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Marine transportation"/>
+		<term name="Authorization"/>
+		<term name="Economics and public finance"/>
+		<term name="Exports"/>
+		<term name="Federal Maritime Commission"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Freight forwarders"/>
+		<term name="Government operations and politics"/>
+		<term name="Independent regulatory commissions"/>
+		<term name="International affairs"/>
+		<term name="Shipping agreements"/>
+		<term name="Shipping conferences"/>
+		<term name="Transportation and public works"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/12/1994--Passed House amended. Federal Maritime Commission Authorization Act for Fiscal Year 1995 - Authorizes appropriations for the Federal Maritime Commission for FY 1995. Amends the Shipping Act of 1984 to require each conference agreement to provide that: (1) any member of the conference may take independent action on any level of ocean freight forwarder compensation required to be filed in a tariff upon not more than ten calendar days notice; and (2) the conference will include the level of ocean freight forwarder compensation in its tariff for use by that member, effective no later than ten calendar days after receipt of the notice, and by any other member that notifies the conference that it elects to adopt such level of compensation on or after its effective date. Prohibits any conference or group of two or more common carriers from limiting the compensation of an ocean freight forwarder in the export foreign commerce of the United States to less than 1.25 percent of the aggregate of all of the rates and charges applicable under the tariff assessed against the cargo on which the forwarding services are provided.
+
+	</summary>
+</bill>

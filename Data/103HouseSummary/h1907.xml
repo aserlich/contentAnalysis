@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="1907" updated="2010-04-19T04:09:30-04:00">
+	<state datetime="1993-04-28">REFERRED</state>
+	<status><introduced datetime="1993-04-28"/></status>
+
+	<introduced datetime="1993-04-28"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Federal Water Pollution Control Act relating to civil penalties.</title>
+	</titles>
+	<sponsor id="408661"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-28"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-05-10"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1994-03-03"><committee name="House Committee on Public Works + Transportation"/><text>See H.R.3948.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3948" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Environmental assessment"/>
+		<term name="Environmental education"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Liability for water pollution damages"/>
+		<term name="Water pollution control"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/28/1993--Introduced.
+Amends the Federal Water Pollution Control Act to increase the maximum amount of administrative penalties authorized to be assessed for violations of such Act. Authorizes the Administrator of the Environmental Protection Agency to order that a portion of an administrative or civil penalty be spent by the violator for carrying out supplemental environmental projects which involve water pollution prevention or reduction, environmental restoration, environmental auditing, and public awareness.
+
+	</summary>
+</bill>

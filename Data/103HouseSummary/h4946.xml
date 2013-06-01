@@ -1,0 +1,110 @@
+<bill session="103" type="h" number="4946" updated="2012-07-17T06:06:26-04:00">
+	<state datetime="1994-10-07T18:29:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-07T18:29:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1994-08-12"/>
+	<titles>
+		<title type="short" as="introduced">Illinois Land Conservation Act of 1994</title>
+		<title type="short" as="passed house">Illinois Land Conservation Act of 1994</title>
+		<title type="official" as="introduced">To establish the Midewin National Tallgrass Prairie in the State of Illinois, and for other purposes.</title>
+	</titles>
+	<sponsor id="409570"/>
+	<cosponsors>
+		<cosponsor id="404009" joined="1994-09-23"/>
+		<cosponsor id="300038" joined="1994-09-23"/>
+		<cosponsor id="400350" joined="1994-09-23"/>
+		<cosponsor id="409154" joined="1994-09-23"/>
+		<cosponsor id="400082" joined="1994-09-23"/>
+		<cosponsor id="400126" joined="1994-09-23"/>
+		<cosponsor id="400169" joined="1994-09-23"/>
+		<cosponsor id="400252" joined="1994-09-23"/>
+		<cosponsor id="411947" joined="1994-09-12"/>
+		<cosponsor id="408839" joined="1994-09-23"/>
+		<cosponsor id="400243" joined="1994-09-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-12" state="REFERRED"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-08-12"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-08-12"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-08-18"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Installations and Facilities.</text></action>
+		<action datetime="1994-08-18"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from Army.</text></action>
+		<action datetime="1994-08-31"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Environment, Credit and Rural Development.</text></action>
+		<action datetime="1994-08-31"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+		<action datetime="1994-09-06"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+		<action datetime="1994-10-07T18:27:00-04:00"><text>Committee on Armed Services discharged.</text></action>
+		<action datetime="1994-10-07T18:27:00-04:00"><text>Committee on Agriculture discharged.</text></action>
+		<action datetime="1994-10-07T18:27:00-04:00"><text>Committee on Energy and Commerce discharged.</text></action>
+		<action datetime="1994-10-07T18:27:00-04:00"><text>Mr. de la Garza asked unanimous consent to discharge from committees and consider.</text></action>
+		<action datetime="1994-10-07T18:27:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H11304-11309"/></action>
+		<vote how="without objection" type="vote" datetime="1994-10-07T18:29:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-10-07T18:29:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-07"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Read twice and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, Discharged" />
+		<committee code="" name="House Armed Services" subcommittee="Military Installations and Facilities" activity="Referral" />
+		<committee code="HSAG" name="House Agriculture" activity="Referral, Discharged" />
+		<committee code="" name="House Agriculture" subcommittee="Environment, Credit and Rural Development" activity="Referral" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Discharged" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+		<committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2398" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Agriculture and food"/>
+		<term name="Animals"/>
+		<term name="Aquatic ecology"/>
+		<term name="Armed forces and national security"/>
+		<term name="Army posts"/>
+		<term name="Biological diversity conservation"/>
+		<term name="Cemeteries and funerals"/>
+		<term name="Economics and public finance"/>
+		<term name="Ecosystem management"/>
+		<term name="Endangered species"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Environmental education"/>
+		<term name="Environmental protection"/>
+		<term name="Fishery management"/>
+		<term name="Government liability"/>
+		<term name="Government trust funds"/>
+		<term name="Grassland ecology"/>
+		<term name="Habitat conservation"/>
+		<term name="Hazardous waste disposal"/>
+		<term name="Highway engineering"/>
+		<term name="Illinois"/>
+		<term name="Industrial parks"/>
+		<term name="Interstate highway system"/>
+		<term name="Land transfers"/>
+		<term name="Land use"/>
+		<term name="Landfills"/>
+		<term name="Law"/>
+		<term name="Leases"/>
+		<term name="Liability for environmental damages"/>
+		<term name="Liability for toxic substances pollution damages"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="National forests"/>
+		<term name="Outdoor recreation"/>
+		<term name="Petroleum"/>
+		<term name="Research"/>
+		<term name="Science, technology, communications"/>
+		<term name="Surveys"/>
+		<term name="Transportation and public works"/>
+		<term name="User charges"/>
+		<term name="Water resources development"/>
+		<term name="Water treatment plants"/>
+		<term name="Wildlife conservation"/>
+	</subjects>
+	<amendments>
+		<amendment number="h935"/>
+	</amendments>
+	<summary>
+	10/7/1994--Passed House amended. Illinois Land Conservation Act of 1994 - Ratifies the proposals identified by the land use plan which was developed by the Joliet Arsenal Citizen Planning Commission, approved April 8, 1994. Transfers to the Secretary of Agriculture (Secretary), without reimbursement, portions of the Joliet Army Ammunition Plant in Illinois (Arsenal) to constitute the Midewin National Tallgrass Prairie (MNP) established by this Act. Directs the Secretary, Secretary of the Army, and Secretary of Veterans Affairs (VA) to provide and maintain security measures on the portions of the Arsenal under their jurisdictions. Authorizes the Secretary, prior to such transfer and subject to such reasonable terms and conditions as the Secretary of the Army may prescribe, to enter upon Arsenal property for purposes related to planning, resource inventory, fish and wildlife habitat manipulation (including burning), and specified other activities. Transfers jurisdiction to the Secretary and the Secretary of VA over those portions of the Arsenal property identified for transfer within six months of this Act's enactment. Specifies that, in the case of Arsenal property to be transferred to the Secretary, the Secretary of the Army shall transfer to the Secretary only those portions for which no further action is required under any environmental law. Provides for additional transfers and the identification of portions for transfer for MNP. Directs the Secretary of the Army to retain jurisdiction, authority, and control over real property at the Arsenal to be used for environmental cleanup purposes. Requires: (1) all costs of necessary surveys for the transfer of jurisdiction of properties among Federal agencies to be shared equally by the Secretary of the Army and the Secretary of the Department receiving the property; and (2) for lands transferred to a non-Federal agency, the Secretary of the Army to pay the survey costs. (Sec. 4) Requires the Secretary of the Army, with respect to the real property at the Arsenal, to remain liable for and continue to carry out all: (1) response actions required under the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (CERCLA) and other environmental law at or related to the property; and (2) actions required under any other environmental law to remediate petroleum products or their derivatives. Specifies that the Secretary of the Army shall retain any obligation or other liability at the Arsenal that he or she may have under CERCLA and other environmental laws. Relieves the Secretary from liability for certain costs, penalties, or fines regarding response actions required under CERCLA or the presence, release, or threat of release of any hazardous material at or related to the Arsenal or actions necessary to remedy noncompliance or other specified problems. Requires any Federal department or agency that had or has operations at the Arsenal resulting in the release or threatened release of hazardous substances, pollutants, or contaminants to pay the cost of related response actions or related actions under other statutes to remediate petroleum products or their derivatives. (Sec. 5) Establishes the MNP in Illinois to be managed for National Forest purposes. Permits acquisition of private lands for inclusion in the MNP on a willing seller basis only. Permits the construction and maintenance of roads for use within the MNP, the granting of authorizations for utility rights-of-way under applicable Federal law, or such access as is necessary. Sets forth provisions regarding: (1) agricultural leases and special use authorizations; (2) user fees; (3) salvage of improvements; (4) treatment of user fees and salvage receipts; and (5) cooperation with States, local governments, and other entities. (Sec. 6) Designates specified areas of real property at the Arsenal for a national veterans cemetery, a county landfill, and disposal. (Sec. 7) Declares that nothing in this Act shall be construed to restrict or lessen the degree of cleanup at the Arsenal required to be carried out under provisions of any environmental law.
+
+	</summary>
+</bill>

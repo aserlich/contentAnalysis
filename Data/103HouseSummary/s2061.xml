@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="2061" updated="2012-07-17T06:05:20-04:00">
+	<state datetime="1994-05-03">REFERRED</state>
+	<status><introduced datetime="1994-05-03"/></status>
+
+	<introduced datetime="1994-05-03"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Small Business Investment Act of 1958 to permit prepayment of debentures issued by State and local development companies.</title>
+	</titles>
+	<sponsor id="402004"/>
+	<cosponsors>
+		<cosponsor id="400559" joined="1994-05-11"/>
+		<cosponsor id="403962" joined="1994-07-21"/>
+		<cosponsor id="300076" joined="1994-06-23"/>
+		<cosponsor id="405212" joined="1994-05-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-03" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5068)</text></action>
+		<action datetime="1994-05-03" state="REFERRED"><text>Read twice and referred to the Committee on Small Business.</text></action>
+		<action datetime="1994-05-17"><committee name="Committee on Small Business"/><text>Committee on Small Business. Hearings held.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSSB" name="Senate Small Business" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4298" />
+	</relatedbills>
+	<subjects>
+		<term name="Small business"/>
+		<term name="Commerce"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Fees"/>
+		<term name="Finance and financial sector"/>
+		<term name="Securities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/3/1994--Introduced.
+Amends the Small Business Investment Act of 1958 to permit a qualified State or local development company that issues a debenture purchased by the Federal Financing Bank and guaranteed by the Small Business Administration, at the election of the small business borrower whose loan secures such debenture and with the Administrators approval, to prepay the debenture by payment to the Bank of the unpaid principal balance, accrued interest, and repurchase premium amount (as determined under this Act). Prohibits any fees or penalties from being imposed against the issuer, borrower, or the Administration as a condition of prepayment under this Act. Authorizes appropriations.
+
+	</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="103" type="hc" number="114" updated="2010-04-18T21:18:39-04:00">
+	<state datetime="1993-06-30">REFERRED</state>
+	<status><introduced datetime="1993-06-30"/></status>
+
+	<introduced datetime="1993-06-30"/>
+	<titles>
+		<title type="official" as="introduced">Relative to the President's program of program cuts and tax increases.</title>
+	</titles>
+	<sponsor id="404296"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-30"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-07-02"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="sc" number="11" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Government spending reductions"/>
+		<term name="Income tax"/>
+		<term name="Legislation"/>
+		<term name="Tax rates"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/30/1993--Introduced.
+Expresses the sense of the Congress that no action should be taken on any legislative proposal on the President's economic program unless it is a unified package containing offsets for any additional expenditures through cuts in programs or increased taxes.
+
+	</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="969" updated="2010-04-19T01:38:17-04:00">
+	<state datetime="1993-02-18">REFERRED</state>
+	<status><introduced datetime="1993-02-18"/></status>
+
+	<introduced datetime="1993-02-18"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 10, United States Code, to provide for appointments to the military service academies by the Resident Representative to the United States for the Commonwealth of the Northern Mariana Islands.</title>
+	</titles>
+	<sponsor id="403314"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="1993-02-18"/>
+		<cosponsor id="408052" joined="1993-02-18"/>
+		<cosponsor id="408556" joined="1993-02-23"/>
+		<cosponsor id="400144" joined="1993-02-18"/>
+		<cosponsor id="400516" joined="1993-02-18"/>
+		<cosponsor id="400278" joined="1993-02-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-18"><text>Sponsor introductory remarks on measure. (CR E385)</text></action>
+		<action datetime="1993-02-18"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-02-23"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-02-23"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Education"/>
+		<term name="Members of Congress (House)"/>
+		<term name="Military education"/>
+		<term name="Northern Mariana Islands"/>
+		<term name="Service academies"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/18/1993--Introduced.
+Provides for the appointment of candidates to the military service academies by the Resident Representative to the United States for the Commonwealth of the Northern Mariana Islands.
+
+	</summary>
+</bill>

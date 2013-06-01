@@ -1,0 +1,87 @@
+<bill session="103" type="h" number="2689" updated="2012-07-17T04:18:58-04:00">
+	<state datetime="1993-09-28T19:08:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-09-28T19:08:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-07-21"/>
+	<titles>
+		<title type="short" as="passed house">United States Grain Standards Act Amendments of 1993</title>
+		<title type="official" as="introduced">To amend Public Law 100-518 and the United States Grain Standards Act to extend through September 30, 1998, the authority of the Federal Grain Inspection Service to collect fees to cover administrative and supervisory costs, and for other purposes.</title>
+	</titles>
+	<sponsor id="403308"/>
+	<cosponsors>
+		<cosponsor id="300058" joined="1993-07-21"/>
+		<cosponsor id="403864" joined="1993-07-21"/>
+		<cosponsor id="300003" joined="1993-07-21"/>
+		<cosponsor id="408618" joined="1993-07-21"/>
+		<cosponsor id="300083" joined="1993-07-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-21" state="REFERRED"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-07-26"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Foreign Agriculture and Hunger.</text></action>
+		<action datetime="1993-07-26"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on General Farm Commodities.</text></action>
+		<action datetime="1993-07-26"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA.</text></action>
+		<action datetime="1993-08-04"><committee name="House Committee on Agriculture" subcommittee="Foreign Agriculture and Hunger"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-08-04"><committee name="House Committee on Agriculture" subcommittee="General Farm Commodities"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-09-09"><committee name="House Committee on Agriculture" subcommittee="Foreign Agriculture and Hunger"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-09-09"><committee name="House Committee on Agriculture" subcommittee="Foreign Agriculture and Hunger"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-09-09"><committee name="House Committee on Agriculture" subcommittee="General Farm Commodities"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-09-09"><committee name="House Committee on Agriculture" subcommittee="General Farm Commodities"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-09-22"><committee name="House Committee on Agriculture"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-09-22"  state="REPORTED"><committee name="House Committee on Agriculture"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1993-09-28T16:00:00-04:00"><text>Reported (Amended) by the Committee on Agriculture. H. Rept. 103-265.</text></action>
+		<calendar number="147" datetime="1993-09-28T16:01:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 147.</text></calendar>
+		<action datetime="1993-09-28T19:01:00-04:00"><text>Mr. de la Garza moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-09-28T19:01:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7133-7136"/></action>
+		<action datetime="1993-09-28T19:01:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-09-28T19:08:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-09-28T19:08:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-09-28T19:08:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-09-29"><text>Received in the Senate and read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-11-24" state="REPORTED"><committee name="House Committee on Agriculture"/><text>See S.1490.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Agriculture" subcommittee="Foreign Agriculture and Hunger" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="" name="House Agriculture" subcommittee="General Farm Commodities" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1490" />
+		<bill relation="unknown" session="103" type="s" number="1490" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Administrative fees"/>
+		<term name="Agricultural economics"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Authorization"/>
+		<term name="Canada"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cost control"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Department of Agriculture"/>
+		<term name="Equipment and supplies"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Fraud"/>
+		<term name="Gifts"/>
+		<term name="Government contractors"/>
+		<term name="Grain inspection"/>
+		<term name="International agricultural cooperation"/>
+		<term name="Licenses"/>
+		<term name="Sex discrimination"/>
+		<term name="Standards"/>
+		<term name="Subpoena"/>
+		<term name="Trade agreements"/>
+		<term name="User charges"/>
+		<term name="Weights and measures"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/28/1993--Passed House amended. United States Grain Standards Act Amendments of 1993 - Amends the United States Grain Standards Act to extend through FY 1998 the limitation on administrative and supervisory costs. (Sec. 3) Extends through FY 1998 the authorization of appropriations for grain inspection services. (Sec. 4) Authorizes inspection and weighing activities in Canadian ports. (Sec. 5) Authorizes a pilot program to permit more than one official agency to carry out inspections within a single geographic area. (Sec. 6) Extends inspector licensing authority to contract-supervised persons. (Current authority is limited to employees.) (Sec. 8) Revises criminal penalty provisions. (Sec. 9) Expands the Administrator of the Federal Grain Inspection Service's authority to test weighing equipment and collect related fees. (Sec. 10) Revises penalty provisions for subpoena violations. (Sec. 12) Eliminates specified gender-based references. (Sec. 14) Terminates as of September 30, 1998: (1) the grain standards advisory committee; and (2) certain grain inspection, weighing, and supervisory fee collection authority.
+
+	</summary>
+</bill>

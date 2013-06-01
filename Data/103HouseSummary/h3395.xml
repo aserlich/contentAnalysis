@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="3395" updated="2010-04-19T08:00:00-04:00">
+	<state datetime="1993-10-27">REFERRED</state>
+	<status><introduced datetime="1993-10-27"/></status>
+
+	<introduced datetime="1993-10-27"/>
+	<titles>
+		<title type="official" as="introduced">To require the preparation of risk assessments in connection with Federal health and safety or environmental regulations, and for other purposes.</title>
+	</titles>
+	<sponsor id="400397"/>
+	<cosponsors>
+		<cosponsor id="400505" joined="1993-10-27"/>
+		<cosponsor id="400389" joined="1993-10-27"/>
+		<cosponsor id="406625" joined="1993-10-27"/>
+		<cosponsor id="405258" joined="1993-10-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-27"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-11-18"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1993-11-18"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Administrative procedure"/>
+		<term name="Cost effectiveness"/>
+		<term name="Economic impact statements"/>
+		<term name="Environmental Protection Agency"/>
+		<term name="Environmental assessment"/>
+		<term name="Environmental health"/>
+		<term name="Regulatory impact statements"/>
+		<term name="Risk assessment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/27/1993--Introduced.
+Directs the Administrator of the Environmental Protection Agency, in promulgating any final regulation relating to the public health and safety or the environment, to publish the following in the Federal Register: (1) an estimate of the risk to health and safety of the public addressed by the regulation, the regulation's effect on health or the environment, and the costs associated with the regulation; (2) a comparative analysis of the risk addressed by the regulation relative to other risks to which the public is exposed; and (3) a certification that the estimate and analysis are based on a scientific evaluation of the risk and are supported by the best available data and that the regulation will advance public health or safety and environmental protection against the specified risk and will produce benefits to public health and safety or the environment that will justify its cost.
+
+	</summary>
+</bill>

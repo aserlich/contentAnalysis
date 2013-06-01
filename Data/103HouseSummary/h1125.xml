@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="1125" updated="2010-04-19T02:03:46-04:00">
+	<state datetime="1993-02-24">REFERRED</state>
+	<status><introduced datetime="1993-02-24"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to require a preference for interim measures in carrying out response actions, consistent with protection of public health, welfare, and the environment.</title>
+	</titles>
+	<sponsor id="300085"/>
+	<cosponsors>
+		<cosponsor id="400113" joined="1993-02-24"/>
+		<cosponsor id="300030" joined="1993-03-29"/>
+		<cosponsor id="400036" joined="1993-03-29"/>
+		<cosponsor id="400322" joined="1993-03-29"/>
+		<cosponsor id="400348" joined="1993-03-29"/>
+		<cosponsor id="400567" joined="1993-03-29"/>
+		<cosponsor id="400225" joined="1994-08-01"/>
+		<cosponsor id="412001" joined="1993-02-24"/>
+		<cosponsor id="400569" joined="1993-11-22"/>
+		<cosponsor id="400649" joined="1993-02-24"/>
+		<cosponsor id="410565" joined="1993-04-21"/>
+		<cosponsor id="411997" joined="1993-03-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-03-08"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1993-03-09"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Cost control"/>
+		<term name="Environmental engineering"/>
+		<term name="Hazardous waste disposal"/>
+		<term name="Liability for toxic substances pollution damages"/>
+		<term name="Pollution control"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Amends the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to direct the President, in selecting remedial actions for hazardous waste cleanup sites, to give a preference to the use of institutional controls, containment methods, and other interim measures, rather than permanent treatment technologies, if such measures are sufficient to protect health, welfare, and the environment.
+
+	</summary>
+</bill>

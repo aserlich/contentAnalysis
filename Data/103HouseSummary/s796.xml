@@ -1,0 +1,42 @@
+<bill session="103" type="s" number="796" updated="2012-07-17T04:54:57-04:00">
+	<state datetime="1993-04-20">REFERRED</state>
+	<status><introduced datetime="1993-04-20"/></status>
+
+	<introduced datetime="1993-04-20"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for a feasibility study of including Revere Beach in the National Park System.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+		<cosponsor id="300059" joined="1993-04-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-20" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4685)</text></action>
+		<action datetime="1993-04-20" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-05-19"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed: S.Hrg. 103-837.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1739" />
+	</relatedbills>
+	<subjects>
+		<term name="Parks"/>
+		<term name="Beaches"/>
+		<term name="Commemorations"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Historic sites"/>
+		<term name="Massachusetts"/>
+		<term name="National parks"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/20/1993--Introduced.
+Directs the Secretary of the Interior to study and report to specified congressional committees on potential means to preserve and interpret Revere Beach, Massachusetts, including recommendations on the feasibility of establishing it as a unit of the National Park System. Authorizes appropriations.
+
+	</summary>
+</bill>

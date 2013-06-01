@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="4054" updated="2010-04-19T09:42:55-04:00">
+	<state datetime="1994-03-16">REFERRED</state>
+	<status><introduced datetime="1994-03-16"/></status>
+
+	<introduced datetime="1994-03-16"/>
+	<titles>
+		<title type="official" as="introduced">To provide for Federal incarceration of undocumented criminal aliens.</title>
+	</titles>
+	<sponsor id="400021"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1994-03-16"/>
+		<cosponsor id="400580" joined="1994-03-16"/>
+		<cosponsor id="400129" joined="1994-03-16"/>
+		<cosponsor id="404013" joined="1994-03-16"/>
+		<cosponsor id="400231" joined="1994-07-19"/>
+		<cosponsor id="403364" joined="1994-03-16"/>
+		<cosponsor id="400347" joined="1994-03-16"/>
+		<cosponsor id="400416" joined="1994-03-16"/>
+		<cosponsor id="401310" joined="1994-03-16"/>
+		<cosponsor id="400366" joined="1994-03-16"/>
+		<cosponsor id="400193" joined="1994-03-16"/>
+		<cosponsor id="400572" joined="1994-07-19"/>
+		<cosponsor id="400595" joined="1994-03-16"/>
+		<cosponsor id="400310" joined="1994-03-16"/>
+		<cosponsor id="410889" joined="1994-03-16"/>
+		<cosponsor id="400025" joined="1994-03-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-16"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-03-22"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Crime and criminals"/>
+		<term name="Criminal justice"/>
+		<term name="Illegal aliens"/>
+		<term name="Imprisonment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/16/1994--Introduced.
+Amends the Immigration and Nationality Act to provide for the Federal incarceration of undocumented criminal aliens, with priority given to aliens convicted of aggravated felonies.
+
+	</summary>
+</bill>

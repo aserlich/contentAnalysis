@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="1712" updated="2012-07-17T05:11:13-04:00">
+	<state datetime="1994-01-27">REPORTED</state>
+	<status><calendar datetime="1994-01-27" /></status>
+
+	<introduced datetime="1993-11-19"/>
+	<titles>
+		<title type="official" as="introduced">A bill entitled the &quot;Charles Evans Whittaker United States Courthouse Act&quot;.</title>
+	</titles>
+	<sponsor id="300010"/>
+	<cosponsors>
+		<cosponsor id="403171" joined="1993-11-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-19" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S16459)</text></action>
+		<action datetime="1993-11-19" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar datetime="1994-01-27"  state="REPORTED"><committee name="Committee on Environment and Public Works"/><text>Committee on Environment and Public Works. Provisions of measure incorporated into measure H.R. 2559 ordered to be reported.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2559" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Commemorations"/>
+		<term name="Courthouses"/>
+		<term name="Missouri"/>
+		<term name="Names"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/19/1993--Introduced.
+Designates the United States Courthouse located at Ninth and Locust Streets, Kansas City, Missouri, as the Charles Evans Whittaker United States Courthouse.
+
+	</summary>
+</bill>

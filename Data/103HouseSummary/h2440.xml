@@ -1,0 +1,96 @@
+<bill session="103" type="h" number="2440" updated="2012-07-17T05:33:05-04:00">
+	<state datetime="1994-10-25">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-25" /></status>
+
+	<introduced datetime="1993-06-16"/>
+	<titles>
+		<title type="short" as="introduced">Independent Safety Board Act Amendments of 1993</title>
+		<title type="short" as="passed senate">Independent Safety Board Act Amendments of 1994</title>
+		<title type="short" as="enacted">Independent Safety Board Act Amendments of 1994</title>
+		<title type="official" as="introduced">To amend the Independent Safety Board Act of 1974 to authorize appropriations for fiscal years 1994, 1995, and 1996, and for other purposes.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-16" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-06-16" state="REPORTED"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-06-21"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Aviation.</text></action>
+		<action datetime="1993-06-21"><committee name="House Committee on Public Works + Transportation" subcommittee="Aviation"/><text>Subcommittee on Aviation Held Hearings Prior to Introduction (May 4, 93).</text></action>
+		<action datetime="1993-06-22" state="REFERRED"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+		<action datetime="1993-06-23" state="REPORTED"><committee name="House Committee on Public Works + Transportation" subcommittee="Aviation"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-06-23"><committee name="House Committee on Public Works + Transportation" subcommittee="Aviation"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on Public Works + Transportation"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-08-05" ><committee name="House Committee on Public Works + Transportation"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-09-14T17:08:00-04:00"><text>Reported by the Committee on Public Works + Transportation. H. Rept. 103-239, Part I.</text></action>
+		<action datetime="1993-10-21" state="REFERRED"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1993-10-26"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-26"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-11-03T16:51:00-05:00"><text>Reported by the Committee on Energy and Commerce. H. Rept. 103-239, Part II.</text></action>
+		<calendar number="176" datetime="1993-11-03T16:52:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 176.</text></calendar>
+		<action datetime="1993-11-08T13:27:00-05:00"><text>Mr. Oberstar moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-11-08T13:27:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8902-8903, H8912"/></action>
+		<action datetime="1993-11-08T13:28:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-11-08T13:38:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1993-11-08T16:20:00-05:00"><text>Considered as unfinished business.</text></action>
+		<vote how="roll" type="vote" roll="549" datetime="1993-11-08T16:32:00-05:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 353 - 49 (Roll no. 549).</text></vote>
+		<action datetime="1993-11-08T16:32:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-09"><text>Received in the Senate and read twice and referred to the Committee on Commerce.</text></action>
+		<action datetime="1994-05-12"><text>Senate Committee on Commerce discharged by Unanimous Consent.</text></action>
+		<action datetime="1994-05-12"><text>Measure laid before Senate.</text></action>
+		<action datetime="1994-05-12"><text>Senate struck all after the Enacting Clause and substituted the language of S. 1588 amended.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-05-12" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate in lieu of S. 1588 with an amendment by Voice Vote.</text><reference label="consideration" ref="CR S5710"/></vote>
+		<action datetime="1994-05-16"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-04T18:44:00-04:00"><text>House agreed to Senate amendment with amendment pursuant to H. Res. 558.</text><reference label="consideration" ref="CR H10734-10735"/></action>
+		<action datetime="1994-10-05"><text>Message on House action received in Senate and at the desk: House amendment to Senate amendment.</text></action>
+		<vote how="by Voice Vote" type="pingpong" datetime="1994-10-06" where="s" result="pass"  state="PASSED:BILL"><text>Senate agreed to House amendment to Senate amendment by Voice Vote.</text><reference label="consideration" ref="CR S14424"/></vote>
+		<topresident datetime="1994-10-06" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-07"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-18" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-25" ><text>Signed by President.</text></signed>
+		<enacted number="103-411" type="public" datetime="1994-10-25"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-411.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral, Markup, Reporting" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting" />
+		<committee code="HSPW-05" name="House Public Works and Transportation" subcommittee="Aviation" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hr" number="558" />
+		<bill relation="unknown" session="103" type="hr" number="558" />
+		<bill relation="identical" session="103" type="s" number="1588" />
+		<bill relation="supersedes" session="103" type="s" number="1588" />
+		<bill relation="unknown" session="103" type="s" number="1588" />
+		<bill relation="unknown" session="103" type="s" number="1588" />
+		<bill relation="unknown" session="103" type="s" number="1588" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Administrative procedure"/>
+		<term name="Airports"/>
+		<term name="Authorization"/>
+		<term name="Aviation safety"/>
+		<term name="Department of Transportation"/>
+		<term name="Economics and public finance"/>
+		<term name="Government aircraft"/>
+		<term name="Government operations and politics"/>
+		<term name="Governmental investigations"/>
+		<term name="Land transfers"/>
+		<term name="Landing aids (Aeronautics)"/>
+		<term name="Louisiana"/>
+		<term name="National Transportation Safety Board"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Transportation safety"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/4/1994--House agreed to Senate amendment with amendment. Independent Safety Board Act Amendments of 1994 - Amends Federal transportation law to authorize appropriations for FY 1994 through 1996 for the National Transportation Safety Board (NTSB). (Sec. 3) Revises the application of Federal Aviation Administration (FAA) economic and safety requirements to public aircraft (aircraft used exclusively in the service of any Federal, State, or local government, except government-owned aircraft engaged in transporting persons or property for commercial purposes). Revises the definition of &quot;public aircraft&quot; to include provision of non- commercial passenger transportation of crewmembers or other persons aboard such aircraft for a governmental function such as firefighting, search and rescue, law enforcement, aeronautical research, or biological or geological resource management. Authorizes the Administrator of the FAA (Administrator) to exempt such aircraft from such requirements if he: (1) finds that such exemption is necessary to prevent undue economic burden on the government unit which owns and operates or exclusively leases it; and (2) certifies that the government unit's aviation safety program is effective to ensure the safe operation of such aircraft. Grants the NTSB authority to investigate nonmilitary public aircraft accidents. (Sec. 4) Declares that the United States releases, without consideration, all reservations, restrictions, conditions, and limitations contained in a certain deed conveying certain property, known as Esler Field, to the Parish of Rapides, Louisiana. Sets forth specified exceptions. Requires the Administrator to enter into an agreement with the Airport Authority of Rapides Parish, Louisiana, to provide for the terms and conditions under which such real property may be used, leased, sold, or otherwise disposed.
+
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="103" type="hc" number="160" updated="2010-04-18T21:25:51-04:00">
+	<state datetime="1993-10-18">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1993-10-18" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-10-06"/>
+	<titles>
+		<title type="official" as="introduced">To correct the enrollment of H.R. 3123.</title>
+	</titles>
+	<sponsor id="411166"/>
+	<cosponsors>
+		<cosponsor id="403308" joined="1993-10-06"/>
+		<cosponsor id="300083" joined="1993-10-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-06T18:18:00-04:00"><text>Mr. Volkmer asked unanimous consent to consider as introduced.</text></action>
+		<action datetime="1993-10-06T18:18:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H7510"/></action>
+		<vote how="without objection" type="vote" datetime="1993-10-06T18:20:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On agreeing to the resolution Agreed to without objection.</text></vote>
+		<action datetime="1993-10-06T18:20:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-10-07"><text>Received in the Senate.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-10-18" where="s" result="pass"  state="PASSED:CONCURRENTRES"><text>Resolution agreed to in Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S13854"/></vote>
+		<action datetime="1993-10-19"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3123" />
+		<bill relation="unknown" session="103" type="h" number="3123" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Legislation"/>
+		<term name="Rural affairs legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/6/1993--Introduced.
+Makes a technical correction in the enrollment of H.R. 3123 (revising the electric and telephone loan programs under the Rural Electrification Act of 1936).
+
+	</summary>
+</bill>

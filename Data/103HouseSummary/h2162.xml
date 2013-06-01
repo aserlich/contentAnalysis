@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="2162" updated="2010-04-19T04:49:09-04:00">
+	<state datetime="1993-05-19">REFERRED</state>
+	<status><introduced datetime="1993-05-19"/></status>
+
+	<introduced datetime="1993-05-19"/>
+	<titles>
+		<title type="official" as="introduced">To suspend until January 1, 1997, the duty on Diquat Dibromide.</title>
+	</titles>
+	<sponsor id="404723"/>
+	<cosponsors>
+		<cosponsor id="400070" joined="1993-05-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-19"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-21"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-07-28"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1518" />
+		<bill relation="identical" session="103" type="s" number="1740" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Chemicals"/>
+		<term name="Pesticides"/>
+		<term name="Tariff"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/19/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1996, the duty on o-diquat dibromide 1,1'-ethylene-2,2'-dipyridylium dibromide (also known as diquat dibromide).
+
+	</summary>
+</bill>

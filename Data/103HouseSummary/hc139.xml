@@ -1,0 +1,59 @@
+<bill session="103" type="hc" number="139" updated="2010-04-18T21:22:34-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">To express the sense of the Congress that activities performed by the White House Travel and Telegraph Office should be procured from the private sector.</title>
+	</titles>
+	<sponsor id="409570"/>
+	<cosponsors>
+		<cosponsor id="400327" joined="1993-11-01"/>
+		<cosponsor id="400298" joined="1993-11-01"/>
+		<cosponsor id="400155" joined="1993-11-01"/>
+		<cosponsor id="400571" joined="1993-11-01"/>
+		<cosponsor id="406431" joined="1993-11-01"/>
+		<cosponsor id="404723" joined="1993-11-01"/>
+		<cosponsor id="400534" joined="1993-11-01"/>
+		<cosponsor id="300081" joined="1993-11-01"/>
+		<cosponsor id="400231" joined="1993-11-01"/>
+		<cosponsor id="400331" joined="1993-11-01"/>
+		<cosponsor id="400048" joined="1993-11-01"/>
+		<cosponsor id="300014" joined="1993-11-01"/>
+		<cosponsor id="400591" joined="1993-11-01"/>
+		<cosponsor id="400357" joined="1993-11-01"/>
+		<cosponsor id="407044" joined="1993-11-01"/>
+		<cosponsor id="409052" joined="1993-11-01"/>
+		<cosponsor id="406790" joined="1993-11-01"/>
+		<cosponsor id="410565" joined="1993-11-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-08-12"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public contracts"/>
+		<term name="Executive Office of the President"/>
+		<term name="Federal employees"/>
+		<term name="Government procurement"/>
+		<term name="Government service contracts"/>
+		<term name="Privatization"/>
+		<term name="Travel"/>
+		<term name="Travel agents"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Declares that all activities that were performed by the White House Travel and Telegraph Office before the adoption of this resolution that can be performed by private business should be procured from the private sector and that Federal White House personnel should not perform any of those activities.
+
+	</summary>
+</bill>

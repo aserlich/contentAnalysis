@@ -1,0 +1,77 @@
+<bill session="103" type="h" number="421" updated="2010-04-19T00:05:57-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Medicare EKG Payment Restoration Act of 1993</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to permit separate payment under part B of the medicare program for the interpretation of electrocardiograms provided by a physician during a visit, and for other purposes.</title>
+	</titles>
+	<sponsor id="300156"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1994-05-11"/>
+		<cosponsor id="400428" joined="1993-01-27"/>
+		<cosponsor id="400126" joined="1993-02-23"/>
+		<cosponsor id="410529" joined="1993-01-27"/>
+		<cosponsor id="401494" joined="1993-02-23"/>
+		<cosponsor id="408052" joined="1994-05-11"/>
+		<cosponsor id="400156" joined="1993-01-27"/>
+		<cosponsor id="400603" joined="1993-02-23"/>
+		<cosponsor id="402750" joined="1993-02-23"/>
+		<cosponsor id="400370" joined="1993-02-23"/>
+		<cosponsor id="400543" joined="1994-05-11"/>
+		<cosponsor id="411247" joined="1993-01-27"/>
+		<cosponsor id="400585" joined="1994-05-11"/>
+		<cosponsor id="400216" joined="1993-01-27"/>
+		<cosponsor id="411725" joined="1993-01-27"/>
+		<cosponsor id="400533" joined="1993-01-27"/>
+		<cosponsor id="401854" joined="1993-01-27"/>
+		<cosponsor id="400140" joined="1993-01-27"/>
+		<cosponsor id="400076" joined="1994-05-11"/>
+		<cosponsor id="400211" joined="1993-02-23"/>
+		<cosponsor id="405524" joined="1993-01-27"/>
+		<cosponsor id="400569" joined="1993-01-27"/>
+		<cosponsor id="400283" joined="1993-02-23"/>
+		<cosponsor id="411178" joined="1993-01-27"/>
+		<cosponsor id="407044" joined="1993-01-27"/>
+		<cosponsor id="400516" joined="1994-05-11"/>
+		<cosponsor id="400314" joined="1993-02-23"/>
+		<cosponsor id="400100" joined="1993-01-27"/>
+		<cosponsor id="400278" joined="1994-05-11"/>
+		<cosponsor id="402762" joined="1993-02-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-15"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-02-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Heart diseases"/>
+		<term name="Medical care"/>
+		<term name="Medical fees"/>
+		<term name="Medical tests"/>
+		<term name="Medicare"/>
+		<term name="Physicians"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Medicare EKG Payment Restoration Act of 1993 - Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to reestablish separate payment for the interpretation of electrocardiograms (EKGs) that are ordered or performed during an office visit to or consultation with a physician. Requires the Secretary of Health and Human Services to: (1) establish separate fee schedule amounts for such EKG interpretations; (2) establish practice guidelines for EKG use by physicians; (3) develop a profile of such use; (4) study EKG utilization and costs; and (5) report to the Congress on such study.
+
+	</summary>
+</bill>

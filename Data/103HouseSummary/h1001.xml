@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="1001" updated="2010-04-19T01:43:28-04:00">
+	<state datetime="1993-02-18">REFERRED</state>
+	<status><introduced datetime="1993-02-18"/></status>
+
+	<introduced datetime="1993-02-18"/>
+	<titles>
+		<title type="short" as="introduced">Bomb-Grade Uranium Export Substitution Act of 1993</title>
+		<title type="official" as="introduced">To authorize appropriations for the Reduced Enrichment Research and Test Reactors Program of the Department of Energy.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="404083" joined="1993-03-01"/>
+		<cosponsor id="400409" joined="1993-03-01"/>
+		<cosponsor id="400312" joined="1993-03-01"/>
+		<cosponsor id="400387" joined="1993-03-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-18"><text>Sponsor introductory remarks on measure. (CR E367)</text></action>
+		<action datetime="1993-02-18"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Energy.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Energy" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Nuclear energy"/>
+		<term name="Authorization"/>
+		<term name="Department of Energy"/>
+		<term name="Energy policy"/>
+		<term name="Federal aid to research"/>
+		<term name="Foreign trade"/>
+		<term name="Nuclear energy research"/>
+		<term name="Nuclear exports"/>
+		<term name="Nuclear fuels"/>
+		<term name="Research and development"/>
+		<term name="Uranium"/>
+		<term name="Uranium enrichment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/18/1993--Introduced.
+Bomb-Grade Uranium Export Substitution Act of 1993 - Authorizes appropriations for the Reduced Enrichment Research and Test Reactors Program for fuel development and technical assistance for FY 1994 through 1998.
+
+	</summary>
+</bill>

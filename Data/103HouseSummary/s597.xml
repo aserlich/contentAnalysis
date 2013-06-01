@@ -1,0 +1,48 @@
+<bill session="103" type="s" number="597" updated="2012-07-17T04:53:48-04:00">
+	<state datetime="1993-09-15">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-09-15" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-03-17"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the United States Courthouse located at 10th and Main Streets in Richmond, Virginia, as the &quot;Lewis F. Powell, Jr. United States Courthouse&quot;.</title>
+	</titles>
+	<sponsor id="400564"/>
+	<cosponsors>
+		<cosponsor id="300099" joined="1993-03-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-17" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3042-3043)</text></action>
+		<action datetime="1993-03-17" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar datetime="1993-07-30"  state="REPORTED"><committee name="Committee on Environment and Public Works"/><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-08-06"><text>Committee on Environment and Public Works. Reported to Senate by Senator Baucus without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="183" datetime="1993-08-06" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 183.</text></calendar>
+		<action datetime="1993-09-15"><text>Sponsor introductory remarks on measure. (CR S11942-11943)</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-09-15" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S11942-11943"/></vote>
+		<action datetime="1993-09-21T12:36:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-09-21T14:50:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-09-21"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1513" />
+		<bill relation="unknown" session="103" type="h" number="1513" />
+		<bill relation="unknown" session="103" type="h" number="1513" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Commemorations"/>
+		<term name="Courthouses"/>
+		<term name="Names"/>
+		<term name="Virginia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/17/1993--Introduced.
+Designates the United States courthouse located at 10th and Main Streets, Richmond, Virginia, as the Lewis F. Powell, Jr. United States Courthouse.
+
+	</summary>
+</bill>

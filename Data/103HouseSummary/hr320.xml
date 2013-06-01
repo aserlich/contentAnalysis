@@ -1,0 +1,45 @@
+<bill session="103" type="hr" number="320" updated="2010-04-19T13:48:54-04:00">
+	<state datetime="1993-11-22T16:04:00-05:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-11-22T16:04:00-05:00" where="h" result="pass" how="roll" roll="607"/></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 3400) to provide a more effective, efficient, and responsive government.</title>
+	</titles>
+	<sponsor id="400155"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-20T20:24:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-403, by Mr. Gordon.</text></action>
+		<action datetime="1993-11-20T20:24:00-05:00"><text>Rule provides for consideration of H.R. 3400. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be read by section. Specified amendments are in order. In lieu of the amendments now printed in the bill, the amendment in the nature of a substitute specified in part 1 of the report accompanying this resolution shall be considered as adopted in the House and in the Committee of the Whole. All points of order against the bill, as so amended, shall be waived. No other amendment shall be in order except those amendments printed in part 2 of the report accompanying this resolution, to be considered in the order and manner specified in the report. All points of order against the amendments printed in the report shall be waived.</text></action>
+		<calendar datetime="1993-11-20T20:24:00-05:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 129.</text></calendar>
+		<action datetime="1993-11-22T14:29:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H10721-10733"/></action>
+		<action datetime="1993-11-22T14:31:00-05:00"><text>Point of order raised by Mr. Goss on the content of the measure. Mr. Goss stated that the provisions of H. Res. 320 limit the rights of the minority by excluding the option of offering a motion to recommit with instructions thereby violating clause 4(b) of Rule 11. Point of order overruled by the Chair.</text></action>
+		<action datetime="1993-11-22T14:36:00-05:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-11-22T15:40:00-05:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="roll" type="vote" roll="607" datetime="1993-11-22T16:04:00-05:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 247 - 183 (Roll no. 607).</text></vote>
+		<action datetime="1993-11-22T16:04:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3400" />
+		<bill relation="unknown" session="103" type="h" number="3400" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congress"/>
+		<term name="House rules and procedure"/>
+		<term name="Public finance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+Sets forth the rule for the consideration of H.R. 3400 (Government Reform and Savings Act of 1993).
+
+	</summary>
+</bill>

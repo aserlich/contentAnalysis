@@ -1,0 +1,71 @@
+<bill session="103" type="h" number="1250" updated="2012-07-17T05:30:19-04:00">
+	<state datetime="1993-11-20T14:55:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-20T14:55:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-03-09"/>
+	<titles>
+		<title type="short" as="introduced">United States-Flag Passenger Vessel Act of 1993</title>
+		<title type="short" as="passed house">United States-Flag Passenger Vessel Act of 1993</title>
+		<title type="official" as="introduced">To amend the coastwise trade laws to clarify their application to certain passenger vessels.</title>
+	</titles>
+	<sponsor id="400399"/>
+	<cosponsors>
+		<cosponsor id="400397" joined="1993-03-09"/>
+		<cosponsor id="404068" joined="1993-03-09"/>
+		<cosponsor id="405775" joined="1993-04-29"/>
+		<cosponsor id="400110" joined="1993-04-29"/>
+		<cosponsor id="410496" joined="1993-03-09"/>
+		<cosponsor id="400160" joined="1993-04-01"/>
+		<cosponsor id="408476" joined="1993-04-29"/>
+		<cosponsor id="400310" joined="1993-04-01"/>
+		<cosponsor id="407817" joined="1993-04-29"/>
+		<cosponsor id="400316" joined="1993-04-29"/>
+		<cosponsor id="400569" joined="1993-03-09"/>
+		<cosponsor id="400243" joined="1993-03-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-09" state="REFERRED"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-03-11"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee On Merchant Marine.</text></action>
+		<action datetime="1993-03-11"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-05-11"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-05-11"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-06-30"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-06-30"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-10-26T15:39:00-04:00"><text>Reported (Amended) by the Committee on Merchant Marine and Fisheries. H. Rept. 103-307.</text></action>
+		<calendar number="162" datetime="1993-10-26T15:40:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 162.</text></calendar>
+		<action datetime="1993-11-20T14:54:00-05:00"><text>Mr. Studds moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-20T14:54:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10391-10393"/></action>
+		<action datetime="1993-11-20T14:54:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-20T14:55:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-20T14:55:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-20"><text>Received in the Senate.</text></action>
+		<action datetime="1993-11-23"><text>Read twice and referred to the Committee on Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Merchant Marine" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Ships"/>
+		<term name="Coastwise shipping"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Forfeiture"/>
+		<term name="Gambling"/>
+		<term name="Law"/>
+		<term name="Licenses"/>
+		<term name="Passenger ships"/>
+		<term name="Private legislation"/>
+		<term name="Transportation and public works"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Passed House amended. United States-Flag Passenger Vessel Act of 1993 - Amends Federal law to permit a vessel to transport passengers in coastwise trade only if: (1) the vessel meets certain requirements under the Merchant Marine Act, 1920 and the Shipping Act, 1916 for engaging in such trade; and (2) in the case of a vessel that is at least five net tons, it is documented with a coastwise endorsement. Sets forth a civil penalty of $1,000 per passenger transported in violation of this Act. Sets forth terminable exceptions to such requirements for certain ineligible vessels. Authorizes the Secretary of Transportation to issue certificates of documentation for certain named vessels. Authorizes the Secretary to issue such certificates to certain other named vessels if certain conditions are met. Amends the Johnson Act to set forth instances in which the prohibition on gambling devices on vessels shall not apply.
+
+	</summary>
+</bill>

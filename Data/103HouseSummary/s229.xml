@@ -1,0 +1,36 @@
+<bill session="103" type="s" number="229" updated="2012-07-17T04:10:44-04:00">
+	<state datetime="1993-01-27">REFERRED</state>
+	<status><introduced datetime="1993-01-27"/></status>
+
+	<introduced datetime="1993-01-27"/>
+	<titles>
+		<title type="official" as="introduced">A bill for the relief of the Persis Corporation.</title>
+	</titles>
+	<sponsor id="300056"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-27" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-03-05"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Claims"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/1993--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named corporation upon the transfer to the Smithsonian Institution of all interests held by the corporation in a specified collection of the stamps and postal history of Hawaii.
+
+	</summary>
+</bill>

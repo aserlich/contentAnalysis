@@ -1,0 +1,75 @@
+<bill session="103" type="s" number="1402" updated="2012-07-17T04:41:13-04:00">
+	<state datetime="1994-07-22">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-07-22" /></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="short" as="introduced">Twin Falls County Landfill Act of 1993</title>
+		<title type="short" as="passed senate">Twin Falls County Landfill Act of 1994</title>
+		<title type="short" as="enacted">Twin Falls County Landfill Act of 1994</title>
+		<title type="official" as="introduced">A bill to convey a certain parcel of public land to the county of Twin Falls, Idaho, for use as a landfill, and for other purposes.</title>
+	</titles>
+	<sponsor id="300029"/>
+	<cosponsors>
+		<cosponsor id="406256" joined="1993-08-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S10853)</text></action>
+		<action datetime="1993-08-06" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-08-09"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1994-03-16"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-03-23"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed: S.Hrg. 103-610.</text></action>
+		<action datetime="1994-03-25"><text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-03-25" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text><reference label="consideration" ref="CR S3931-3932"/></vote>
+		<action datetime="1994-04-12T12:03:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-04-12"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-04-12"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-04-13"><committee name="House Committee on Natural Resources"/><text>Late Referral to the Subcommittee on National Parks, Forests and Public Lands (Jul 11, 94).</text></action>
+		<action datetime="1994-06-08"><text>Hearings Held by the Subcommittee on National Parks, Forests and Public Lands Prior to Referral.</text></action>
+		<action datetime="1994-06-16"><text>Subcommittee Consideration and Mark-up Session Held and Forwarded to Full Committee by the Subcommittee on National Parks, Forests and Public Lands Prior to Referral by Voice Vote.</text></action>
+		<action datetime="1994-06-22"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-06-22" ><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-07-12T13:19:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 103-589.</text></action>
+		<calendar number="326" datetime="1994-07-12T13:20:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 326.</text></calendar>
+		<action datetime="1994-07-12T13:21:00-04:00"><text>Mr. Vento moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-07-12T13:22:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5488-5489"/></action>
+		<action datetime="1994-07-12T13:22:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote2" datetime="1994-07-12T13:26:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1994-07-12T13:26:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-07-12" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-07-14" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-07-22" ><text>Signed by President.</text></signed>
+		<enacted number="103-281" type="public" datetime="1994-07-22"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-281.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Discharged" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Hearings, Markup" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2926" />
+		<bill relation="unknown" session="103" type="h" number="2926" />
+		<bill relation="unknown" session="103" type="h" number="2926" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Environmental protection"/>
+		<term name="Geothermal resources"/>
+		<term name="Idaho"/>
+		<term name="Land transfers"/>
+		<term name="Landfills"/>
+		<term name="Mineral reserves"/>
+		<term name="Mines and mineral resources"/>
+		<term name="Mining leases"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1603"/>
+	</amendments>
+	<summary>
+	3/25/1994--Passed Senate amended. Twin Falls County Landfill Act of 1994 - Transfers specified Federal lands, except for reserved subsurface minerals, to the County of Twin Falls, Idaho, effective on the tender by the County of the fair market value for such lands to the Secretary of the Interior. Withdraws the conveyed lands from U.S. mining, mineral and geothermal leasing, and mineral materials laws.
+
+	</summary>
+</bill>

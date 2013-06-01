@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="4101" updated="2010-04-19T09:50:18-04:00">
+	<state datetime="1994-03-21">REFERRED</state>
+	<status><introduced datetime="1994-03-21"/></status>
+
+	<introduced datetime="1994-03-21"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 28, United States Code, to create a southern division in the Northern Judicial District of Illinois.</title>
+	</titles>
+	<sponsor id="409570"/>
+	<cosponsors>
+		<cosponsor id="400082" joined="1994-03-21"/>
+		<cosponsor id="400243" joined="1994-03-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-21"><text>Sponsor introductory remarks on measure. (CR E497-498)</text></action>
+		<action datetime="1994-03-21"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-03-29"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Courts"/>
+		<term name="District courts"/>
+		<term name="Illinois"/>
+		<term name="Judicial districts"/>
+		<term name="Law"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/21/1994--Introduced.
+Amends the Federal judicial code to create a southern division in the Northern Judicial District of Illinois.
+
+	</summary>
+</bill>

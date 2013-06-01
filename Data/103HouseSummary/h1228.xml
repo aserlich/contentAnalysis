@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="1228" updated="2010-04-19T02:21:47-04:00">
+	<state datetime="1993-03-04">REFERRED</state>
+	<status><introduced datetime="1993-03-04"/></status>
+
+	<introduced datetime="1993-03-04"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 with respect to the treatment of effectively connected investment income of insurance companies.</title>
+	</titles>
+	<sponsor id="400238"/>
+	<cosponsors>
+		<cosponsor id="400058" joined="1993-03-04"/>
+		<cosponsor id="404587" joined="1994-04-19"/>
+		<cosponsor id="403190" joined="1994-04-19"/>
+		<cosponsor id="400240" joined="1993-03-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-04"><text>Sponsor introductory remarks on measure. (CR E505-506)</text></action>
+		<action datetime="1993-03-04"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Select Revenue Measures.</text></action>
+		<action datetime="1993-06-17"><committee name="House Committee on Ways and Means" subcommittee="Select Revenue Measures"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-05" name="House Ways and Means" subcommittee="Select Revenue Measures" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="675" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Corporation taxes"/>
+		<term name="Foreign corporations"/>
+		<term name="Foreign investments"/>
+		<term name="Foreign trade"/>
+		<term name="Insurance companies"/>
+		<term name="Interest"/>
+		<term name="Life insurance"/>
+		<term name="Tax administration"/>
+		<term name="Taxation of foreign income"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/4/1993--Introduced.
+Amends the Internal Revenue Code to revise provisions determining the effectively connected net investment income of foreign companies carrying on insurance business in the United States. Requires such companies to recompute their effectively connected net investment income for taxable years beginning after December 31, 1997. Provides for increases (or decreases, as appropriate) in such income where the recomputed amount exceeds (or is less than) the income for the recomputed year. Requires payment (or receipt) of interest on the underpayment (or overpayment) of adjusted amounts.
+
+	</summary>
+</bill>

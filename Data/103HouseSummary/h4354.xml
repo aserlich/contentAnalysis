@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="4354" updated="2010-04-19T10:29:42-04:00">
+	<state datetime="1994-05-05">REFERRED</state>
+	<status><introduced datetime="1994-05-05"/></status>
+
+	<introduced datetime="1994-05-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend title II of the Social Security Act to prohibit the buying and selling of social security account numbers.</title>
+	</titles>
+	<sponsor id="404401"/>
+	<cosponsors>
+		<cosponsor id="408839" joined="1994-05-20"/>
+		<cosponsor id="405775" joined="1994-06-23"/>
+		<cosponsor id="400502" joined="1994-05-20"/>
+		<cosponsor id="412001" joined="1994-05-20"/>
+		<cosponsor id="408476" joined="1994-06-23"/>
+		<cosponsor id="400554" joined="1994-05-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-05"><text>Sponsor introductory remarks on measure. (CR E860)</text></action>
+		<action datetime="1994-05-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-05-10"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Crime and criminals"/>
+		<term name="Criminal justice"/>
+		<term name="Fraud"/>
+		<term name="Identification devices"/>
+		<term name="Old age, survivors and disability insurance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/5/1994--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to impose criminal penalties upon any person who buys or sells the social security account number of another without the owner's written consent.
+
+	</summary>
+</bill>

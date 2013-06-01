@@ -1,0 +1,108 @@
+<bill session="103" type="h" number="826" updated="2012-07-17T05:51:56-04:00">
+	<state datetime="1993-05-25T18:33:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-05-25T18:33:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Government Performance and Results Act of 1993</title>
+		<title type="short" as="passed house">Government Performance and Results Act of 1993</title>
+		<title type="official" as="introduced">To provide for the establishment, testing, and evaluation of strategic planning and performance measurement in the Federal Government, and for other purposes.</title>
+	</titles>
+	<sponsor id="400080"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1993-05-20"/>
+		<cosponsor id="400398" joined="1993-04-22"/>
+		<cosponsor id="400370" joined="1993-04-22"/>
+		<cosponsor id="409219" joined="1993-04-01"/>
+		<cosponsor id="400420" joined="1993-05-17"/>
+		<cosponsor id="400569" joined="1993-03-18"/>
+		<cosponsor id="410589" joined="1993-04-01"/>
+		<cosponsor id="401494" joined="1993-04-22"/>
+		<cosponsor id="400183" joined="1993-03-11"/>
+		<cosponsor id="400188" joined="1993-03-11"/>
+		<cosponsor id="400238" joined="1993-05-17"/>
+		<cosponsor id="405775" joined="1993-04-01"/>
+		<cosponsor id="400615" joined="1993-03-11"/>
+		<cosponsor id="402657" joined="1993-02-04"/>
+		<cosponsor id="408476" joined="1993-05-17"/>
+		<cosponsor id="400251" joined="1993-05-17"/>
+		<cosponsor id="400378" joined="1993-03-11"/>
+		<cosponsor id="400112" joined="1993-05-24"/>
+		<cosponsor id="400106" joined="1993-05-17"/>
+		<cosponsor id="400163" joined="1993-05-24"/>
+		<cosponsor id="400326" joined="1993-04-01"/>
+		<cosponsor id="402890" joined="1993-05-17"/>
+		<cosponsor id="407400" joined="1993-02-04"/>
+		<cosponsor id="407320" joined="1993-03-11"/>
+		<cosponsor id="400156" joined="1993-05-17"/>
+		<cosponsor id="409633" joined="1993-03-11"/>
+		<cosponsor id="300062" joined="1993-03-11"/>
+		<cosponsor id="400414" joined="1993-03-18"/>
+		<cosponsor id="406799" joined="1993-03-11"/>
+		<cosponsor id="300097" joined="1993-03-11"/>
+		<cosponsor id="400109" joined="1993-05-17"/>
+		<cosponsor id="400316" joined="1993-03-18"/>
+		<cosponsor id="411488" joined="1993-03-11"/>
+		<cosponsor id="411997" joined="1993-03-18"/>
+		<cosponsor id="400204" joined="1993-05-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E278-279, E301-302)</text></action>
+		<action datetime="1993-02-04" state="REFERRED"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-02-04" state="REPORTED"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-02-19" state="REFERRED"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-03-23"><committee name="House Committee on Government Operations" subcommittee="Legislation and National Security"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-05-18"><committee name="House Committee on Government Operations" subcommittee="Legislation and National Security"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-05-18"><committee name="House Committee on Government Operations" subcommittee="Legislation and National Security"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-05-20"><committee name="House Committee on Government Operations"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-05-20"  state="REPORTED"><committee name="House Committee on Government Operations"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-05-25T14:36:00-04:00"><text>Reported (Amended) by the Committee on Government Operations. H. Rept. 103-106, Part I.</text></action>
+		<action datetime="1993-05-25T18:20:00-04:00"><text>Ms. Maloney moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-05-25T18:21:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2767-2771"/></action>
+		<action datetime="1993-05-25T18:21:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-05-25T18:33:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-05-25T18:33:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-05-25T18:33:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-05-25T18:34:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-05-26"><text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, Markup, Reporting" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="HSRU" name="House Rules" activity="Referral" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="20" />
+		<bill relation="unknown" session="103" type="s" number="20" />
+	</relatedbills>
+	<subjects>
+		<term name="Productivity in government"/>
+		<term name="Administrative procedure"/>
+		<term name="Classified defense information"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cost accounting"/>
+		<term name="Employee training"/>
+		<term name="Federal budget process"/>
+		<term name="Federal budgets"/>
+		<term name="Federal employees"/>
+		<term name="Federal officials"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Government operations and politics"/>
+		<term name="House rules and procedure"/>
+		<term name="Legislative resolutions"/>
+		<term name="Management by objectives"/>
+		<term name="Official secrets"/>
+		<term name="Planning-programming-budgeting"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Standards"/>
+		<term name="Strategic planning"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/25/1993--Passed House amended. Government Performance and Results Act of 1993 - Amends Federal law to require the head of each agency to submit to the Director of the Office of Management and Budget (OMB) and the Congress a strategic plan for performance goals of program activities. Requires the inclusion of performance plans in the President's budget. Directs the Director to require each agency to submit annual performance plans covering each program activity set forth in the agency's budget. Requires the head of each agency to submit to the President and the Congress a report on program performance for the previous fiscal year. Authorizes the Director to exempt any agency with annual outlays of $20 million or less from strategic and performance plan reporting requirements. Allows performance plans to include proposals to waive administrative procedural requirements and controls in return for specific individual or organization accountability to achieve a performance goal. Outlines proposal requirements. Requires the Director to designate: (1) not fewer than ten agencies (representing a range of Government functions) as pilot projects in performance measurement; (2) not fewer than five agencies (selected from agencies in performance measurement pilot projects) as pilot projects in managerial accountability and flexibility; and (3) not fewer than five agencies (selected from agencies in performance measurement pilot projects) as pilot projects in performance budgeting. Requires the Director, as an alternative budget presentation in the budget for FY 1999, to include the performance budgets of the designated agencies for this fiscal year. Directs the Office of Personnel Management to develop a strategic planning and performance measurement training component for its management training program and otherwise provide managers with an orientation on the development and use of strategic planning and program performance measurement.
+
+	</summary>
+</bill>

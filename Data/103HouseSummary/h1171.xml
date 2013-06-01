@@ -1,0 +1,66 @@
+<bill session="103" type="h" number="1171" updated="2010-04-19T02:11:14-04:00">
+	<state datetime="1993-03-02">REFERRED</state>
+	<status><introduced datetime="1993-03-02"/></status>
+
+	<introduced datetime="1993-03-02"/>
+	<titles>
+		<title type="official" as="introduced">To allow holders of unclaimed Postal Savings System certificates of deposit to file claims for such certificates.</title>
+	</titles>
+	<sponsor id="400243"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1994-06-22"/>
+		<cosponsor id="401494" joined="1993-03-29"/>
+		<cosponsor id="400122" joined="1993-05-25"/>
+		<cosponsor id="400170" joined="1993-03-29"/>
+		<cosponsor id="409570" joined="1994-06-22"/>
+		<cosponsor id="400409" joined="1993-03-02"/>
+		<cosponsor id="410589" joined="1994-07-12"/>
+		<cosponsor id="400055" joined="1993-03-02"/>
+		<cosponsor id="400106" joined="1994-07-19"/>
+		<cosponsor id="400143" joined="1993-03-25"/>
+		<cosponsor id="400502" joined="1994-07-29"/>
+		<cosponsor id="400417" joined="1993-07-13"/>
+		<cosponsor id="400386" joined="1994-08-05"/>
+		<cosponsor id="400082" joined="1994-03-02"/>
+		<cosponsor id="400366" joined="1993-04-20"/>
+		<cosponsor id="404190" joined="1994-08-01"/>
+		<cosponsor id="400204" joined="1994-06-22"/>
+		<cosponsor id="410076" joined="1994-03-02"/>
+		<cosponsor id="400163" joined="1994-08-10"/>
+		<cosponsor id="400100" joined="1994-03-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-02"><text>Sponsor introductory remarks on measure. (CR E480)</text></action>
+		<action datetime="1993-03-02"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-04-06"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Postal Operations and Services.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Postal Operations and Services" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1914" />
+	</relatedbills>
+	<subjects>
+		<term name="Postal service"/>
+		<term name="Banks and banking"/>
+		<term name="Certificates of deposit"/>
+		<term name="Claims"/>
+		<term name="Communications"/>
+		<term name="Finance"/>
+		<term name="Government information"/>
+		<term name="Government liability"/>
+		<term name="Government publicity"/>
+		<term name="Information services"/>
+		<term name="Law"/>
+		<term name="Limitation of actions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/2/1993--Introduced.
+Prohibits claims for any Postal Savings System deposit from being brought after December 31, 1998 (currently, within one year of the date of enactment of the Postal Savings Systems Statute of Limitations Act). Directs the Secretary of the Treasury to prepare a plan relating to the dissemination of information on the payment of claims with respect to Postal Savings System certificates of deposit.
+
+	</summary>
+</bill>

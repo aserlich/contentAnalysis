@@ -1,0 +1,127 @@
+<bill session="103" type="h" number="856" updated="2012-07-17T05:02:51-04:00">
+	<state datetime="1993-08-02T14:56:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-08-02T14:56:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Educational Research, Development, and Dissemination Excellence Act</title>
+		<title type="short" as="passed house">Educational Research, Development, and Dissemination Excellence Act</title>
+		<title type="official" as="introduced">To improve education in the United States by promoting excellence in research, development, and the dissemination of information.</title>
+	</titles>
+	<sponsor id="400306"/>
+	<cosponsors>
+		<cosponsor id="404220" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04" state="REFERRED"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Select Education and Civil Rights.</text></action>
+		<action datetime="1993-05-20"><committee name="House Committee on Education and Labor"/><text>Executive Comment Requested from Education.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Education and Labor" subcommittee="Select Education and Civil Rights"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-06-30"><committee name="House Committee on Education and Labor" subcommittee="Select Education and Civil Rights"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-06-30"><committee name="House Committee on Education and Labor" subcommittee="Select Education and Civil Rights"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-07-28"><committee name="House Committee on Education and Labor"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-07-28"  state="REPORTED"><committee name="House Committee on Education and Labor"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1993-08-02T14:03:00-04:00"><text>Reported (Amended) by the Committee on Education and Labor. H. Rept. 103-209.</text></action>
+		<calendar number="120" datetime="1993-08-02T14:05:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 120.</text></calendar>
+		<action datetime="1993-08-02T14:41:00-04:00"><text>Mr. Owens moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-08-02T14:41:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5599-5615"/></action>
+		<action datetime="1993-08-02T14:41:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-08-02T14:56:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-08-02T14:56:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-08-04"><text>Received in the Senate and read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<action datetime="1993-09-14"><committee name="House Committee on Education and Labor"/><text>Referred to Subcommittee on Education, Arts, Humanities.</text></action>
+		<calendar datetime="1993-11-03" ><committee name="House Committee on Education and Labor"/><text>Committee on Labor and Human Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-11-16"><text>Committee on Labor and Human Resources. Reported to Senate by Senator Kennedy without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="285" datetime="1993-11-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 285.</text></calendar>
+		<action datetime="1994-02-23" state="REPORTED"><committee name="House Committee on Education and Labor"/><text>Text of Measure Incorporated into H.R.1804.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, Markup, Reporting" />
+		<committee code="HSED-04" name="House Education and Labor" subcommittee="Select Education and Civil Rights" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Labor and Human Resources" subcommittee="Education, Arts and Humanities" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="286" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Academic performance"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Archives"/>
+		<term name="Authorization"/>
+		<term name="Black colleges"/>
+		<term name="Child development"/>
+		<term name="Community and school"/>
+		<term name="Computer networks"/>
+		<term name="Computer software"/>
+		<term name="Computers in education"/>
+		<term name="Congress"/>
+		<term name="Congressional districts"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Continuing education"/>
+		<term name="Curriculum evaluation"/>
+		<term name="Curriculum planning"/>
+		<term name="Department of Education"/>
+		<term name="Depressed areas"/>
+		<term name="Desegregation in education"/>
+		<term name="Economics and public finance"/>
+		<term name="Education of socially handicapped children"/>
+		<term name="Educational accountability"/>
+		<term name="Educational equalization"/>
+		<term name="Educational finance"/>
+		<term name="Educational innovations"/>
+		<term name="Educational policy"/>
+		<term name="Educational research"/>
+		<term name="Educational statistics"/>
+		<term name="Educational technology"/>
+		<term name="Educational tests"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Elementary education"/>
+		<term name="Executive reorganization"/>
+		<term name="Families"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to education"/>
+		<term name="Federal aid to research"/>
+		<term name="Government operations and politics"/>
+		<term name="Government publications"/>
+		<term name="Government publicity"/>
+		<term name="Higher education"/>
+		<term name="Information networks"/>
+		<term name="Information services"/>
+		<term name="Leadership"/>
+		<term name="Libraries"/>
+		<term name="Minorities"/>
+		<term name="Parent-school relationships"/>
+		<term name="Preschool education"/>
+		<term name="Presidential appointments"/>
+		<term name="Rating of teachers"/>
+		<term name="Regional educational laboratories"/>
+		<term name="Research and development"/>
+		<term name="Research centers"/>
+		<term name="Research grants"/>
+		<term name="Rural schools"/>
+		<term name="Scholarships"/>
+		<term name="School administration"/>
+		<term name="Science, technology, communications"/>
+		<term name="Secondary education"/>
+		<term name="Standards"/>
+		<term name="Surveys"/>
+		<term name="Teacher education"/>
+		<term name="Teaching"/>
+		<term name="Technology policy"/>
+		<term name="Technology transfer"/>
+		<term name="Telecommunication policy"/>
+		<term name="Telephone"/>
+		<term name="Urban education"/>
+		<term name="Women"/>
+		<term name="Women scientists"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/2/1993--Passed House amended. TABLE OF CONTENTS: Title I: General Provisions Regarding Office of Educational Research and Improvement Title II: National Educational Research Policy and Priorities Board Title III: National Research Institutes Title IV: National Education Dissemination System Title V: National Library of Education Educational Research, Development, and Dissemination Excellence Act - Title I: General Provisions Regarding Office of Educational Research and Improvement - Amends the General Education Provisions Act (GEPA) to revise certain provisions relating to the purpose, administration, functions, and structure of the Office of Educational Research Improvement (OERI). Eliminates provisions for the National Advisory Council on Educational Research and Improvement. Directs the Secretary of Education, acting through OERI, to carry out specified policies, in accordance with the policies and priorities established by the National Educational Research Policy and Priorities Board. Requires OERI to be administered by an Assistant Secretary for Educational Research and Improvement. Eliminates a specified exception (for small amounts or urgent situations) to the use of peer review procedures established by OERI in awarding competitive grants or contracts. Authorizes appropriations for OERI programs and units (both current ones and ones added by this Act). Amends the Department of Education Organization Act to provide for an Assistant Secretary for Educational Research and Improvement. Provides that contracts for regional educational laboratories, education resources information clearinghouses, and research and development centers assisted under GEPA shall remain in effect until their own termination date. Requires existing grants and contracts for the research and development centers assisted under GEPA to remain in effect until their termination, and allows them to be extended to implement the provisions of this Act. Title II: National Educational Research Policy and Priorities Board - Amends GEPA to establish within OERI a National Educational Research Policy and Priorities Board (Board). Makes the Board, acting through the Assistant Secretary, responsible for specified functions. Directs the Board to develop a research priorities plan and program, which recommends priorities for investment of OERI resources over the next five-, ten-, and 15-year periods. Directs the Board to: (1) develop standards, including peer review procedures, for the conduct and evaluation of all OERI activities; and (2) establish a standing subcommittee for each of specified Institutes and for the Office of Dissemination and School Improvement. Title III: National Research Institutes - Amends GEPA to establish the following National Research Institutes within OERI: (1) the National Institute for Education of At-Risk Students; (2) the National Institute for Innovation in Educational Governance, Finance, and Management; (3) the National Institute for Early Childhood Learning, Families and Communities; (4) the National Institute on Student Achievement; and (5) the National Institute on Postsecondary Education, Libraries, and Lifelong Education. Sets forth provisions relating to such Institutes' targeting historically underrepresented researchers and institutions. Directs the Secretary, through the Assistant Secretary, to undertake comprehensive, coordinated programs of research by each of the Institutes on: (1) assessment; (2) cross-cutting issues relevant to one or more Institutes; (3) teaching and teacher education; and (4) educational technology. Title IV: National Education Dissemination System - Amends GEPA to establish within OERI an Office of Reform Assistance and Dissemination (Dissemination Office), through which the Secretary shall carry out a national education dissemination system for school improvement. Provides for Dissemination Office functions and duties, including: (1) identification, designation, and dissemination of exemplary and promising programs including certain training, technical, and financial assistance; (2) 16 Education Resources Information Clearinghouses; (3) dissemination through new technologies; (4) an electronic network for sources of materials and research about teaching and learning for improving nationwide education (SMARTLINE) to link various educational research and other entities; (5) an electronic networking and resource-sharing for school improvement program of grants to State education agencies; (6) a networked system of the ten regional educational laboratories; (7) an America 2000 Communities Special Assistance Program, with grants for Learning Grant Institutions and District Education Agents within eligible communities, development of a comprehensive America 2000 plan for assuring educational success for all students in the community, and implementation of a community-wide plan for educational improvement; (8) the Teacher Research Dissemination Network (regional partnerships for teacher change agents); and (9) the existing National Diffusion Network and its Developer-Demonstrator and State Facilitator projects. Title V: National Library of Education - Amends GEPA to establish within OERI a National Library of Education (the Library) to: (1) provide a central location within the Federal Government for information about education; (2) provide comprehensive reference services on education-related matters; and (3) promote greater cooperation and resource-sharing among education information providers and repositories in the United States. Requires the Library to: (1) establish a one-stop central information and referral service to respond to inquiries from the public; and (2) publicize a toll-free telephone number for public inquiries. Directs the Library to deliver comprehensive reference services of various types on education-related subjects. Directs the Library to promote greater cooperation and resource-sharing among libraries and archives with significant collections in the area of education. Requires the Library to be administered by an Executive Director appointed by the Assistant Secretary. Directs the Assistant Secretary to appoint a task force of librarians, scholars, teachers, parents, and school leaders (Task Force) to advise on establishment of the Library. Transfers to the Library all functions of the Department's: (1) Research Library; (2) Reference Section; and (3) Information Branch. Requires the Executive Director to: (1) promulgate a comprehensive collection development policy to govern the Library operations, acquisitions, and services to users; and (2) develop a multiyear plan for elimination of cataloging arrearages and for response to preservation needs.
+
+	</summary>
+</bill>

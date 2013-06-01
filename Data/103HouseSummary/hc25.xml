@@ -1,0 +1,49 @@
+<bill session="103" type="hc" number="25" updated="2010-04-18T21:04:25-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress that access to basic health care services is a fundamental human right.</title>
+	</titles>
+	<sponsor id="400310"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-02-17"/>
+		<cosponsor id="400387" joined="1993-02-17"/>
+		<cosponsor id="400554" joined="1993-02-17"/>
+		<cosponsor id="400163" joined="1993-02-17"/>
+		<cosponsor id="400516" joined="1993-02-17"/>
+		<cosponsor id="400314" joined="1993-02-17"/>
+		<cosponsor id="400537" joined="1993-02-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-01"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-02-02"><text>Sponsor introductory remarks on measure. (CR E218)</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hc" number="56" />
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Health insurance"/>
+		<term name="Human rights"/>
+		<term name="Legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Declares that it is the sense of the Congress that: (1) access to health care services is a fundamental human right; (2) all legislative proposals by the President and the Congress concerning national health care reform and any initiatives to improve the delivery of health care should be based upon recognition of such right; and (3) legislative proposals should be specifically developed which make policy changes necessary to protect and guarantee such right.
+
+	</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="4599" updated="2010-04-19T11:08:31-04:00">
+	<state datetime="1994-06-17">REFERRED</state>
+	<status><introduced datetime="1994-06-17"/></status>
+
+	<introduced datetime="1994-06-17"/>
+	<titles>
+		<title type="short" as="introduced">National Children's Island Act of 1994</title>
+		<title type="official" as="introduced">To authorize the lease of certain property transferred to the District of Columbia, and for other purposes.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-17"><text>Referred to the House Committee on District of Columbia.</text></action>
+		<action datetime="1994-06-17"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-06-27"><committee name="House Committee on District of Columbia"/><text>Referred to the Subcommittee on Government Operations and Metropolitan Affairs.</text></action>
+		<action datetime="1994-08-30"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSDT" name="House District of Columbia" activity="Referral, In Committee" />
+		<committee code="" name="House District of Columbia" subcommittee="Government Operations and Metropolitan Affairs" activity="Referral" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands"/>
+		<term name="Children"/>
+		<term name="District of Columbia"/>
+		<term name="Islands"/>
+		<term name="Land transfers"/>
+		<term name="Leases"/>
+		<term name="Recreation areas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/17/1994--Introduced.
+National Children's Island Act of 1994 - Authorizes the Mayor of the District of Columbia to: (1) lease certain property located in, and transferred to the administrative jurisdiction of, the District by the Secretary of the Interior, for an initial term not to exceed 35 years and an additional renewal term not to exceed 30 years; and (2) allow construction of improvements of such property after completion of all required environmental studies and reports.
+
+	</summary>
+</bill>

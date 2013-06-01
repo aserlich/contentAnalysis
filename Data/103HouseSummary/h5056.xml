@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="5056" updated="2010-04-19T12:19:36-04:00">
+	<state datetime="1994-09-19">REFERRED</state>
+	<status><introduced datetime="1994-09-19"/></status>
+
+	<introduced datetime="1994-09-19"/>
+	<titles>
+		<title type="short" as="introduced">Animal Drug Amendments of 1994</title>
+		<title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to allow licensed veterinarians to order the extra-label use of drugs in animals, and for other purposes.</title>
+	</titles>
+	<sponsor id="400389"/>
+	<cosponsors>
+		<cosponsor id="400370" joined="1994-10-06"/>
+		<cosponsor id="400110" joined="1994-09-19"/>
+		<cosponsor id="400425" joined="1994-09-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-19"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-09-20"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1994-09-20"><committee name="House Committee on Energy and Commerce" subcommittee="Health and the Environment"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-09-20"><committee name="House Committee on Energy and Commerce" subcommittee="Health and the Environment"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1994-10-07"><committee name="House Committee on Energy and Commerce"/><text>See S.340.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="340" />
+	</relatedbills>
+	<subjects>
+		<term name="Drugs"/>
+		<term name="Administrative procedure"/>
+		<term name="Agriculture"/>
+		<term name="Animals"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Executive departments"/>
+		<term name="Food"/>
+		<term name="Food adulteration and inspection"/>
+		<term name="Food safety"/>
+		<term name="Livestock"/>
+		<term name="Veterinary medicine"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/19/1994--Introduced.
+Animal Drug Amendments of 1994 - Amends the Federal Food, Drug, and Cosmetic Act to permit the extra-label use of drugs in animals if an approval of an application is in effect with respect to a particular use or intended use of a new animal drug and such use is upon the order of a licensed veterinarian within the context of a veterinarian-client-patient relationship and is in compliance with regulations that establish the conditions for such use. Authorizes the Secretary of Health and Human Services, if the Secretary finds that there is a reasonable probability that such use may present a risk to the public health, to establish a safe level for a residue of an animal drug when used for such different use and require the development of a practical, analytical method for the detection of residues of the drug above the safe level established. Prohibits such use if it results in residues exceeding the safe level.
+
+	</summary>
+</bill>

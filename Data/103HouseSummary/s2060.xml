@@ -1,0 +1,194 @@
+<bill session="103" type="s" number="2060" updated="2012-07-17T04:24:05-04:00">
+	<state datetime="1994-10-22">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-22" /></status>
+
+	<introduced datetime="1994-05-03"/>
+	<titles>
+		<title type="short" as="introduced">Small Business Administration Amendments of 1994</title>
+		<title type="short" as="passed house">Small Business Reauthorization and Amendment Act of 1994</title>
+		<title type="short" as="passed house">Small Business Prepayment Penalty Relief Act of 1994</title>
+		<title type="short" as="passed senate">Small Business Administration Reauthorization and Amendment Act of 1994</title>
+		<title type="short" as="passed senate">Small Business Prepayment Penalty Relief Act of 1994</title>
+		<title type="short" as="enacted">Small Business Administration Reauthorization and Amendments Act of 1994</title>
+		<title type="short" as="enacted">Small Business Prepayment Penalty Relief Act of 1994</title>
+		<title type="official" as="introduced">A bill to amend the Small Business Act.</title>
+		<title type="official" as="amended by senate">An Act to amend the Small Business Act and the Small Business Investment Act of 1958, and for other purposes.</title>
+	</titles>
+	<sponsor id="402004"/>
+	<cosponsors>
+		<cosponsor id="408898" joined="1994-08-11"/>
+		<cosponsor id="300066" joined="1994-08-11"/>
+		<cosponsor id="402412" joined="1994-08-11"/>
+		<cosponsor id="300060" joined="1994-08-11"/>
+		<cosponsor id="300067" joined="1994-08-11"/>
+		<cosponsor id="408252" joined="1994-08-11"/>
+		<cosponsor id="400566" joined="1994-08-11"/>
+		<cosponsor id="407992" joined="1994-08-11"/>
+		<cosponsor id="405310" joined="1994-08-11"/>
+		<cosponsor id="300051" joined="1994-08-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-03" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5068)</text></action>
+		<action datetime="1994-05-03" state="REFERRED"><text>Read twice and referred to the Committee on Small Business.</text></action>
+		<calendar datetime="1994-08-10"  state="REPORTED"><committee name="Committee on Small Business"/><text>Committee on Small Business. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-08-11"><text>Committee on Small Business. Reported to Senate by Senator Bumpers with an amendment in the nature of a substitute and an amendment to the title. With written report No. 103-332.</text></action>
+		<calendar under="General Orders" number="561" datetime="1994-08-11" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 561.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-08-18" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text><reference label="consideration" ref="CR S12107-12127"/></vote>
+		<action datetime="1994-08-19"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-08-19T10:02:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-08-19T12:08:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-09-21T12:00:00-04:00"><text>Mr. LaFalce asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1994-09-21T12:01:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H9371-9383"/></action>
+		<action datetime="1994-09-21T12:01:00-04:00"><text>The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H.R. 4801. Agreed to without objection.</text></action>
+		<vote how="without objection" type="vote2" datetime="1994-09-21T12:02:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-09-21T12:02:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-09-21T12:02:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1994-09-21T12:02:00-04:00"><text>Mr. LaFalce asked unanimous consent that the House insist upon its amendments, and request a conference.</text></action>
+		<action datetime="1994-09-21T12:02:00-04:00"><text>On motion that the House insist upon its amendments, and request a conference Agreed to without objection.</text><reference label="consideration" ref="CR H9383"/></action>
+		<action datetime="1994-09-21T12:02:00-04:00"><text>The Speaker appointed conferees: LaFalce, Smith (IA), Wyden, Meyers, and Baker (LA).</text></action>
+		<action datetime="1994-09-21T12:02:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-09-21T12:02:00-04:00"><text>A similar measure H.R. 4801 was laid on the table without objection.</text></action>
+		<action datetime="1994-09-22"><text>Message on House action received in Senate and at the desk: House amendments to Senate bill and House requests a conference.</text></action>
+		<action datetime="1994-09-27"><text>Senate disagreed to the House amendments by Voice Vote.</text></action>
+		<action datetime="1994-09-27"><text>Senate agreed to request for conference. Appointed conferees. Bumpers; Nunn; Pressler.</text><reference label="consideration" ref="CR S13442"/></action>
+		<action datetime="1994-09-28"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-03"><text>Conference held.</text></action>
+		<action datetime="1994-10-03T16:45:00-04:00"><text>Mr. LaFalce asked unanimous consent that managers on the part of the House have until midnight on Oct. 3 to file a conference report on S. 2060. Agreed to without objection.</text></action>
+		<action datetime="1994-10-03T20:53:00-04:00"><text>Conference report H. Rept. 103-824 filed.</text><reference label="text of conference report" ref="CR H10521-10535"/></action>
+		<action datetime="1994-10-04"><text>Conference papers: Senate report and managers' statement held at the desk in Senate.</text></action>
+		<action datetime="1994-10-04T19:46:00-04:00"><text>Mr. LaFalce asked unanimous consent for consideration of the conference report, H. Rept. 103-824.</text><reference label="consideration" ref="CR H10741"/></action>
+		<action datetime="1994-10-04T19:46:00-04:00"><text>DEBATE - The House proceeded to with one hour of debate.</text></action>
+		<action datetime="1994-10-04T19:50:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="by voice vote" type="conference" datetime="1994-10-04T19:50:00-04:00" where="h" result="pass" ><text>On agreeing to the conference report Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-04T19:50:00-04:00"><text>Motions to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-05"><text>Conference papers: message on House action held at the desk in Senate.</text></action>
+		<vote how="by Voice Vote" type="conference" datetime="1994-10-05" where="s" result="pass" ><text>Senate agreed to conference report by Voice Vote.</text><reference label="consideration" ref="CR S14233"/></vote>
+		<topresident datetime="1994-10-05" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-06"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-13" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-22" ><text>Signed by President.</text></signed>
+		<enacted number="103-403" type="public" datetime="1994-10-22"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-403.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSSB" name="Senate Small Business" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4297" />
+		<bill relation="supersedes" session="103" type="h" number="4801" />
+	</relatedbills>
+	<subjects>
+		<term name="Small business"/>
+		<term name="Administrative fees"/>
+		<term name="Administrative procedure"/>
+		<term name="American technical assistance"/>
+		<term name="Armed forces and national security"/>
+		<term name="Authorization"/>
+		<term name="Bonds"/>
+		<term name="Business education"/>
+		<term name="Capital"/>
+		<term name="Central Europe"/>
+		<term name="Child support"/>
+		<term name="Collection of accounts"/>
+		<term name="Commerce"/>
+		<term name="Computer crimes"/>
+		<term name="Computer security measures"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Conversion of industries"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Data banks"/>
+		<term name="Defense budgets"/>
+		<term name="Defense contracts"/>
+		<term name="Defense industries"/>
+		<term name="Depressed areas"/>
+		<term name="Disabled"/>
+		<term name="Disaster loans"/>
+		<term name="Economic development"/>
+		<term name="Economic impact statements"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Emergency management"/>
+		<term name="Employee training"/>
+		<term name="Employment of the handicapped"/>
+		<term name="Europe"/>
+		<term name="Executive reorganization"/>
+		<term name="Executives"/>
+		<term name="Export credit"/>
+		<term name="Exports"/>
+		<term name="Families"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to education"/>
+		<term name="Federal aid to handicapped services"/>
+		<term name="Federal aid to minority business enterprises"/>
+		<term name="Federal employees"/>
+		<term name="Federally-assisted loans"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Fees"/>
+		<term name="Finance and financial sector"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Foreign trade promotion"/>
+		<term name="Franchises (Retail trade)"/>
+		<term name="Free enterprise"/>
+		<term name="Gifts"/>
+		<term name="Government and business"/>
+		<term name="Government lending"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Government procurement"/>
+		<term name="Government spending reductions"/>
+		<term name="Government trust funds"/>
+		<term name="Government vehicles"/>
+		<term name="Grants-in-aid"/>
+		<term name="Higher education"/>
+		<term name="Housing and community development"/>
+		<term name="Illegal aliens"/>
+		<term name="Immigration"/>
+		<term name="Income tax"/>
+		<term name="Industrial engineering"/>
+		<term name="Information services"/>
+		<term name="Interest"/>
+		<term name="Interest rates"/>
+		<term name="International affairs"/>
+		<term name="Job creation"/>
+		<term name="Labor and employment"/>
+		<term name="Law"/>
+		<term name="Loans"/>
+		<term name="Manufacturing industries"/>
+		<term name="Minorities"/>
+		<term name="Minority business enterprises"/>
+		<term name="Native Americans"/>
+		<term name="Pornography"/>
+		<term name="Presidential appointments"/>
+		<term name="Regulatory impact statements"/>
+		<term name="Rural economic development"/>
+		<term name="Salaries"/>
+		<term name="Science, technology, communications"/>
+		<term name="Securities"/>
+		<term name="Small Business Administration"/>
+		<term name="Social welfare"/>
+		<term name="Socially handicapped"/>
+		<term name="Standards"/>
+		<term name="Stocks"/>
+		<term name="Surety and fidelity"/>
+		<term name="Taxation"/>
+		<term name="Technical education"/>
+		<term name="Technological innovations"/>
+		<term name="Technology transfer"/>
+		<term name="Transportation and public works"/>
+		<term name="Unemployment"/>
+		<term name="Urban affairs"/>
+		<term name="Urban economic development"/>
+		<term name="Venture capital"/>
+		<term name="Volunteer workers"/>
+		<term name="Women"/>
+		<term name="Women in business"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Conference report filed in House. TABLE OF CONTENTS: Title I: Authorizations Title II: Financial Assistance Programs Title III: Size Standards and Bond Guarantees Title IV: Business Development Assistance Subtitle A: General Provisions Subtitle B: Development of Woman-Owned Businesses Title V: Relief from Debenture Prepayment Penalties Title VI: Miscellaneous Amendments Small Business Administration Reauthorization and Amendments Act of 1994 - Title I: Authorizations - Amends the Small Business Act (the Act) to extend through FY 1997 the authorization of appropriations for small business program loans and for programs of the Small Business Investment Act of 1958. Provides program level funding within each such fiscal year. Title II: Financial Assistance Programs - Authorizes the Administrator of the Small Business Administration (SBA), in lieu of making loans to intermediaries under the Microloan Demonstration Program (Program), to participate on a pilot program basis during FY 1995 through 1997 on a deferred basis of at least 90 and up to 100 percent on loans made to intermediaries by a profit or nonprofit entity or by an alliance of such entities, subject to specified loan conditions. Authorizes agencies or nonprofit entities established by a Native American tribal government to be Microloan intermediaries. Extends the Program through FY 1996. (Sec. 204) Increases the authorized number of microloan programs (to 200) and per State funding limits under the Program. Directs the SBA, in approving Program applicants, to select such intermediaries that will further microloan availability for small businesses in all industries throughout each State, but especially those located in urban and rural areas. (Sec. 206) Increases from $1.25 million to $2.5 million the loan limit after the first year for participating intermediaries under the Program. Allows each intermediary to expend up to 15 percent of grant funds to provide information and technical assistance to small businesses that are prospective borrowers under the Program. Provides technical assistance grants for intermediaries providing loans to small businesses located in economically distressed areas. (Sec. 209) Authorizes the SBA to provide extensions of credit and other financing to enable small business concerns, including export concerns, to develop foreign markets. Increases loan limits with respect to working capital international trade loans. (Sec. 212) Amends the Business Investment Act of 1958 to authorize the SBA to establish an Accredited Lenders Program for qualified State and local business development companies that meet specified requirements, including active participation in the Development Company Program authorized under such Act. Provides for: (1) the expedited processing of loan applications; (2) the suspension or revocation of designation as a qualified development company; (3) necessary regulations; and (4) required biennial reports from the Administrator to the congressional small business committees. (Sec. 213) Amends the Small Business Administration Reauthorization and Amendment Act of 1988 to repeal a provision limiting the interest rate authorized to be charged on certified development company loans. (Sec. 214) Amends the Small Business Investment Act of 1958 to: (1) require certification by a small business receiving assistance from a small business investment company that it meets the eligibility requirements of the Small Business Investment Company or Specialized Small Business Investment Company Program; and (2) reserve 50 percent of the annual program level of participating securities for small business investment companies to fund companies with private capital of less than $20 million. (Sec. 216) Requires a report from the SBA to the small business committees on the status and disposition of all small business investment companies participating in the Small Business Investment Company Program of the Small Business Investment Act of 1958. (Sec. 217) Authorizes the SBA Administrator to establish a Premier Certified Lenders Program for not more than 15 certified development companies (CDCs) which meet requirements of this section. Authorizes the SBA to designate a CDC as a premier certified lender if such company: (1) has been an active participant in the accredited lenders program for at least the last 12 months (authorizes a waiver of such requirement prior to January 1, 1996, if the applicant is qualified to participate in such program); (2) has a history of submitting adequately analyzed debenture guarantee application packages to the SBA; and (3) agrees to assume and reimburse the SBA for ten percent of any loss sustained on account of default by the company in the payment of principal and interest on a debenture issued by the company and guaranteed by the SBA. Requires companies so designated to establish a loss reserve for financings approved under this section. Empowers such certified lenders with loan approval authority under terms and conditions established by the SBA, subject to SBA review. Provides for suspension or revocation of such designation in appropriate circumstances. Requires annual reports on the implementation of this section. Terminates this section as of October 1, 1997. Title III: Size Standards and Bond Guarantees - Amends the Act to provide additional criteria to determine whether a business may be considered a small business for purposes of that or any other Act. (Sec. 302) Amends the Small Business Administration Reauthorization and Amendment Act of 1988 to extend through FY 1995 the preferred surety bond guarantee program. (Sec. 303) Directs the SBA to promote the award of Federal manufacturing contracts to small businesses that participate in manufacturing application and education centers by working with the Department of Commerce and other agencies to identify components and subsystems that are both critical and currently foreign-sourced. Outlines qualifications. Terminates the SBA's authority as of September 30, 1997. Authorizes appropriations. (Sec. 304) Directs the Administrator to establish and carry out a pilot program to provide improved access to Federal contract opportunities for very small businesses (businesses with 15 or fewer employees and gross annual receipts of $1 million or less). Directs the Administrator to establish a preauthorization program for such businesses for the purpose of receiving financial assistance under the Act. Requires a report to the Congress. Requires program implementation by August 30, 1995, and termination by September 30, 1998. (Sec. 305) Amends the Act to allow public or private organizations for the handicapped to participate during FY 1995 in small business set-aside contracts under the Act in an aggregate amount not to exceed $40 million. Title IV: Business Development Assistance - Subtitle A: General Provisions - Repeals specified amendments made under the Small Business Computer Security and Education Act of 1984 which authorize assistance to small businesses by the SBA through cooperation with a profit-making concern, with conditions. (Sec. 402) Amends provisions concerning the Small Business Development Center (SBDC) Program to: (1) require matching funds provided by non-Federal sources under the program to be comprised of not less than 50 percent cash and not more than 50 percent in-kind contributions; (2) provide FY 1995 grant limits for each State recipient; (3) allow an SBDC to contract with a Federal department or agency to provide specific assistance to small businesses (requiring certain contract approval under specified criteria); and (4) require the SBA to develop and implement a biennial programmatic and financial examination of each SBDC established. (Sec. 405) Extends through FY 1995 the authorization of appropriations for the Central European enterprise development program. (Sec. 406) Authorizes the Administrator to carry out a mobile resources pilot program to provide technical assistance, information, and other services from the SBA to traditionally underserved populations. Requires a report. Authorizes appropriations. (Sec. 407) Requires information concerning the benefits and risks of franchising to be included among information provided to small business. Subtitle B: Development of Woman-Owned Businesses - Amends the Act to: (1) extend through October 1, 1997, the provision of financial assistance for the conduct of demonstration projects for the benefit of small businesses owned and controlled by women; and (2) establish within the SBA an Office of Women's Business Ownership to be responsible for the administration of SBA programs for the development of women's business enterprises. (Sec. 413) Establishes the Interagency Committee on Women's Business Enterprise to monitor, coordinate, and promote the plans, programs, and operations of Federal departments and agencies that may contribute to the establishment and growth of women's business enterprise. Requires Committee meetings at least biannually. Requires appropriate consultation with the National Women's Business Council (established under this section). Requires annual Committee reports to the President and the small business committees. Establishes the National Women's Business Council to advise and consult with the Committee on matters relating to Committee activities, functions, and policies. Directs the President to appoint an individual to serve as chairperson of the Council, in consultation with the Administrator. Authorizes appropriations through FY 1997 to carry out this subtitle. Provides: (1) transitional reimbursement for interim salaries and expenses of Council members and staff; and (2) authority to accept gifts for activities authorized under the Women's Business Ownership Act of 1988. Title V: Relief from Debenture Prepayment Penalties - Small Business Prepayment Penalty Relief Act of 1994 - Amends the Small Business Investment Act of 1958 to authorize an issuer of a debenture purchased by the Federal Financing Bank and guaranteed by the SBA to prepay such debenture at the election of the borrower whose loan secures such debenture (or the issuer in the case of a small business investment company), and with SBA approval. Provides prepayment procedures and terms. Prohibits the imposition of prepayment fees or penalties. Provides debenture refinancing limitations, allowing a loan processing fee for such refinancing. Authorizes the issuance of new debentures in order to prepay existing debentures, as long as certain notice requirements are met. Authorizes appropriations. Title VI: Miscellaneous Amendments - Amends the Act to require the SBA to deposit annually into the Treasury the actual interest collected during that fiscal year on all financings made under the Act. (Sec. 602) Empowers the SBA to impose, retain, and use fees which are specifically authorized by law or which are in effect as of September 30, 1994. Allows for the collection of certain additional fees. (Sec. 603) Directs the SBA to develop procedures to ensure that financial assistance is used for projects which have the greatest potential for: (1) creating new jobs for individuals whose employment is involuntarily terminated due to reduction in defense expenditures; or (2) preventing the loss of jobs by employees of small businesses affected by such reductions. (Sec. 604) Requires the SBA to transfer seven percent of its annual appropriations for loan guarantees (currently, only loans) in order to provide technical assistance grants to microlending organizations. (Sec. 606) Directs the SBA Administrator to conduct a study of: (1) the Guaranteed Business Loan program under the Act; and (2) the Development Company program under the Small Business Investment Act of 1958. Requires an evaluation of each such program. Requires study completion by the end of FY 1995. (Sec. 607) Requires vendors to be selected under small business innovation research programs using competitive, merit-based procedures and to serve a three-year term. (Sec. 608) Amends the Business Opportunity Development Reform Act of 1988 to extend through FY 1997 the authority for joint ventures to provide assistance to disadvantaged small business concerns. (Sec. 609) Prohibits funds made available under the Act from being used to provide benefits or assistance to individuals not lawfully within the United States. (Sec. 610) Allows the SBA's Office of Advocacy to: (1) hire staff without consultation and approval from the SBA Administrator; and (2) hire up to 14 (currently, 10) individuals. (Sec. 611) Prohibits the SBA from providing any financial or other assistance to a business or person engaged in the production or distribution of a product or service that has been determined by a court to be obscene. (Sec. 612) Requires each applicant for financial assistance under the Act to certify that he or she is not more than 60 days delinquent under any child support obligations. Provides enforcement procedures. (Sec. 613) Directs the SBA's Chief Counsel for Advocacy to study and report to the Congress on the impact of Federal regulatory paperwork and tax requirements on small businesses.
+
+	</summary>
+</bill>

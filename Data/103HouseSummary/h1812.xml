@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="1812" updated="2010-04-19T03:54:35-04:00">
+	<state datetime="1993-04-22">REFERRED</state>
+	<status><introduced datetime="1993-04-22"/></status>
+
+	<introduced datetime="1993-04-22"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Food for Progress Act of 1985 to clarify the application of other laws to the agricultural commodities furnished under that Act pursuant to the Vancouver Package.</title>
+	</titles>
+	<sponsor id="400568"/>
+	<cosponsors>
+		<cosponsor id="400298" joined="1993-05-06"/>
+		<cosponsor id="400579" joined="1993-05-03"/>
+		<cosponsor id="404723" joined="1993-05-03"/>
+		<cosponsor id="403545" joined="1993-05-12"/>
+		<cosponsor id="404869" joined="1993-05-03"/>
+		<cosponsor id="300003" joined="1993-05-03"/>
+		<cosponsor id="410084" joined="1993-05-03"/>
+		<cosponsor id="403864" joined="1993-05-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-21"><text>Sponsor introductory remarks on measure. (CR H1942-1943)</text></action>
+		<action datetime="1993-04-22"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-04-22"><text>Referred jointly to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Foreign Agriculture and Hunger.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Foreign Agriculture and Hunger" activity="Referral" />
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Agricultural economics"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="American economic assistance"/>
+		<term name="Cargo preference"/>
+		<term name="Export credit"/>
+		<term name="Food relief"/>
+		<term name="Grain trade"/>
+		<term name="Marine transportation"/>
+		<term name="Russian Republic"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/22/1993--Introduced.
+Amends the Food for Progress Act of 1985 to exempt from specified merchant marine cargo requirements (agricultural commodity) food assistance provided to Russia pursuant to the Vancouver Package.
+
+	</summary>
+</bill>

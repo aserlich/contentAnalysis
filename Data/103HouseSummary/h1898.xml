@@ -1,0 +1,81 @@
+<bill session="103" type="h" number="1898" updated="2010-04-19T04:08:11-04:00">
+	<state datetime="1993-04-28">REFERRED</state>
+	<status><introduced datetime="1993-04-28"/></status>
+
+	<introduced datetime="1993-04-28"/>
+	<titles>
+		<title type="short" as="introduced">Infrastructure Protection Act of 1993</title>
+		<title type="official" as="introduced">To provide that receipts and disbursements of the Highway Trust Fund, the Airport and Airway Trust Fund, the Inland Waterways Trust Fund, and the Harbor Maintenance Trust Fund shall not be included in the totals of the budget of the United States Government as submitted by the President or the congressional budget.</title>
+	</titles>
+	<sponsor id="406343"/>
+	<cosponsors>
+		<cosponsor id="400078" joined="1993-08-06"/>
+		<cosponsor id="404503" joined="1993-06-10"/>
+		<cosponsor id="402657" joined="1993-08-03"/>
+		<cosponsor id="410147" joined="1993-06-17"/>
+		<cosponsor id="400015" joined="1993-06-24"/>
+		<cosponsor id="300055" joined="1993-06-17"/>
+		<cosponsor id="400113" joined="1993-06-24"/>
+		<cosponsor id="406768" joined="1993-06-10"/>
+		<cosponsor id="400267" joined="1993-05-27"/>
+		<cosponsor id="400091" joined="1993-06-24"/>
+		<cosponsor id="407899" joined="1993-06-24"/>
+		<cosponsor id="400226" joined="1993-06-17"/>
+		<cosponsor id="400192" joined="1993-05-27"/>
+		<cosponsor id="403545" joined="1993-06-10"/>
+		<cosponsor id="400374" joined="1993-05-27"/>
+		<cosponsor id="406799" joined="1993-09-09"/>
+		<cosponsor id="408553" joined="1993-06-24"/>
+		<cosponsor id="400601" joined="1993-06-24"/>
+		<cosponsor id="400012" joined="1993-08-06"/>
+		<cosponsor id="409633" joined="1993-06-24"/>
+		<cosponsor id="411178" joined="1993-08-03"/>
+		<cosponsor id="401081" joined="1993-06-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-28"><text>Sponsor introductory remarks on measure. (CR H2065)</text></action>
+		<action datetime="1993-04-28"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-04-28"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-04-29"><text>Sponsor introductory remarks on measure. (CR H2170-2171)</text></action>
+		<action datetime="1993-05-10"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1993-05-10"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+		<action datetime="1993-05-10"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Aviation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+		<committee code="HSPW-05" name="House Public Works and Transportation" subcommittee="Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1901" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation"/>
+		<term name="Airports"/>
+		<term name="Commercial aviation"/>
+		<term name="Congressional budget"/>
+		<term name="Federal aid highway program"/>
+		<term name="Federal aid to transportation"/>
+		<term name="Federal budgets"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Government spending reductions"/>
+		<term name="Government trust funds"/>
+		<term name="Harbors"/>
+		<term name="Highway finance"/>
+		<term name="Inland water transportation"/>
+		<term name="Mass rapid transit"/>
+		<term name="Off-budget expenditures"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/28/1993--Introduced.
+Infrastructure Protection Act of 1993 - Prohibits the receipts and disbursements of the Highway Trust Fund (for both the Federal aid highway program and the Mass Transit Account), the Airport and Airway Trust Fund, the Inland Waterways Trust Fund, and the Harbor Maintenance Trust Fund which are allocable to the transportation-related operations of such Funds from being included in either the Federal budget as submitted by the President or in the congressional budget. Exempts such Trust Funds from any general statutory budget limitation.
+
+	</summary>
+</bill>

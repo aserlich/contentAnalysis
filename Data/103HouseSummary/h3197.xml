@@ -1,0 +1,57 @@
+<bill session="103" type="h" number="3197" updated="2012-07-17T05:03:55-04:00">
+	<state datetime="1994-08-26">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-08-26" /></status>
+
+	<introduced datetime="1993-09-30"/>
+	<titles>
+		<title type="official" as="introduced">To redesignate the Post Office building located at 13th and Rockland Streets in Reading, Pennsylvania, as the &quot;Gus Yatron Federal Postal Facility&quot;.</title>
+	</titles>
+	<sponsor id="400183"/>
+	<cosponsors>
+		<cosponsor id="400536" joined="1993-09-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-30" state="REFERRED"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-10-06"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Postal Operations and Services.</text></action>
+		<action datetime="1993-10-27"><committee name="House Committee on Post Office and Civil Service"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-27"  state="REPORTED"><committee name="House Committee on Post Office and Civil Service"/><text>Ordered to be Reported in the Nature of a Substitute.</text></calendar>
+		<action datetime="1993-11-08T12:47:00-05:00"><text>Miss Collins (MI) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-08T12:48:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8886-8887"/></action>
+		<action datetime="1993-11-08T12:48:00-05:00"><text>DEBATE - The House proceeded with forty minutesof debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-08T12:54:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-08T12:54:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-08T12:54:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-11-09"><text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<calendar datetime="1994-08-02" ><committee name="House Committee on Post Office and Civil Service"/><text>Committee on Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-08-12"><text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="564" datetime="1994-08-12" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 564.</text></calendar>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-08-19" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S12210"/></vote>
+		<topresident datetime="1994-08-19" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-08-23"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-08-23" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-08-26" ><text>Signed by President.</text></signed>
+		<enacted number="103-315" type="public" datetime="1994-08-26"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-315.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Postal Operations and Services" activity="Referral" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Commemorations"/>
+		<term name="Names"/>
+		<term name="Pennsylvania"/>
+		<term name="Postal facilities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/8/1993--Passed House amended. Redesignates the Reading General Mail Facility located at 2100 North 13th Street in Reading, Pennsylvania, as the Gus Yatron Postal Facility.
+
+	</summary>
+</bill>

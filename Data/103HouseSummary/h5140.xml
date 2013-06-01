@@ -1,0 +1,78 @@
+<bill session="103" type="h" number="5140" updated="2012-07-17T05:34:51-04:00">
+	<state datetime="1994-10-05T18:04:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-05T18:04:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-09-30"/>
+	<titles>
+		<title type="official" as="introduced">To provide for improved procedures for the enforcement of child support obligations of members of the Armed Forces.</title>
+	</titles>
+	<sponsor id="400377"/>
+	<cosponsors>
+		<cosponsor id="409052" joined="1994-09-30"/>
+		<cosponsor id="406554" joined="1994-09-30"/>
+		<cosponsor id="400129" joined="1994-09-30"/>
+		<cosponsor id="403364" joined="1994-09-30"/>
+		<cosponsor id="404375" joined="1994-09-30"/>
+		<cosponsor id="409650" joined="1994-09-30"/>
+		<cosponsor id="300062" joined="1994-09-30"/>
+		<cosponsor id="406873" joined="1994-09-30"/>
+		<cosponsor id="400056" joined="1994-09-30"/>
+		<cosponsor id="400583" joined="1994-09-30"/>
+		<cosponsor id="400516" joined="1994-09-30"/>
+		<cosponsor id="400603" joined="1994-09-30"/>
+		<cosponsor id="400166" joined="1994-09-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-30" state="REFERRED"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-10-03"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1994-10-03"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1994-10-04T21:03:00-04:00"><text>Mr. Skelton moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-10-04T21:04:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10785-10787"/></action>
+		<action datetime="1994-10-04T21:04:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-04T21:07:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Walker objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed until Oct. 5. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1994-10-05T18:04:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10918"/></action>
+		<vote how="by voice vote" type="vote" datetime="1994-10-05T18:04:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-05T18:05:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-06"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Read twice and referred to the Committee on Armed Services.</text></action>
+		<action datetime="1994-10-17" state="REFERRED"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Installations and Facilities.</text></action>
+		<action datetime="1994-10-17"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from Army.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+		<committee code="" name="House Armed Services" subcommittee="Military Installations and Facilities" activity="Referral" />
+		<committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Administrative procedure"/>
+		<term name="Child support"/>
+		<term name="Coast guard"/>
+		<term name="Collection of accounts"/>
+		<term name="Data banks"/>
+		<term name="Department of Defense"/>
+		<term name="Families"/>
+		<term name="Government operations and politics"/>
+		<term name="Information services"/>
+		<term name="Labor and employment"/>
+		<term name="Military leave"/>
+		<term name="Military pensions"/>
+		<term name="Military personnel"/>
+		<term name="Paternity"/>
+		<term name="Payroll deductions"/>
+		<term name="Science, technology, communications"/>
+		<term name="Transportation and public works"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/1994--Introduced.
+Directs the Secretary of Defense (Secretary) to establish a centralized personnel locator service that includes the addresses of each member of the armed forces. Requires addresses of members of the Coast Guard to be included upon request of the Secretary of Transportation. Requires the Secretary to update the locator service within 30 days after a listed member establishes a new address. Directs the Secretary to make such information available, upon request, to the Federal Parent Locator Service. Directs the Secretary of each military department (and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy) to prescribe regulations to facilitate the granting of leave for purposes of attending court hearings to determine either parentage or an obligation to provide child support. States that it is not necessary that the date of a certification of the authenticity or completeness of a copy of a court order for child support received by the Secretary concerned (such support to be paid through the retired pay of the member involved) be recent. Allows the Secretary concerned to make required child support payments to a State when a spouse or former spouse assigns to a State the right to receive support. Empowers the Secretary concerned to pay child support arrearages through the disposable retired pay of the responsible member.
+
+	</summary>
+</bill>

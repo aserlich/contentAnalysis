@@ -1,0 +1,45 @@
+<bill session="103" type="hc" number="275" updated="2010-04-18T21:44:02-04:00">
+	<state datetime="1994-07-29">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1994-07-29" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-07-29"/>
+	<titles>
+		<title type="official" as="introduced">Waiving the requirement in section 132 of the Legislative Reorganization Act of 1946 that the Congress adjourn sine die not later than July 31 of each year.</title>
+	</titles>
+	<sponsor id="400600"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-28T18:16:00-04:00"><text>Rules Committee Resolution H. Res. 495 Reported to House. Previous question shall be considered as ordered without intervening motions. Upon the adoption of this resolution it shall be in order to consider in the House a concurrent resolution waiving the requirement in section 132 of the Legislative Reorganization Act of 1946 that the Congress adjourn sine die not later than July 31 of each year.</text></action>
+		<action datetime="1994-07-29T12:40:00-04:00"><text>Rule H. Res. 495 passed House.</text></action>
+		<action datetime="1994-07-29T12:41:00-04:00"><text>Considered under the provisions of rule H. Res. 495.</text><reference label="consideration" ref="CR H6467"/></action>
+		<action datetime="1994-07-29T12:41:00-04:00"><text>Previous question shall be considered as ordered without intervening motions. Pursuant to H. Res. 495, it shall be in order to consider in the House a concurrent resolution waiving the requirement in section 132 of the Legislative Reorganization Act of 1946 that the Congress adjourn sine die not later than July 31 of each year.</text></action>
+		<action datetime="1994-07-29T12:41:00-04:00"><text>The previous question was ordered pursuant to the rule.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-07-29T12:41:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On agreeing to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1994-07-29T12:41:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-07-29" where="s" result="pass"  state="PASSED:CONCURRENTRES"><text>Received in the Senate, considered, and agreed to without amendment by Voice Vote.</text><reference label="consideration" ref="CR S10140"/></vote>
+		<action datetime="1994-08-01"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="103" type="hr" number="495" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional sessions"/>
+		<term name="House rules and procedure"/>
+		<term name="Legislative resolutions"/>
+		<term name="Senate rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/29/1994--Introduced.
+Provides that notwithstanding provisions of the Legislative Reorganization Act of 1946 (which require adjournment by July 31 of each year), the House of Representatives and the Senate shall not adjourn for a period in excess of three days, or adjourn sine die, until both Houses of Congress adopt a concurrent resolution providing either for an adjournment (in excess of three days) to a day certain or for an adjournment sine die.
+
+	</summary>
+</bill>

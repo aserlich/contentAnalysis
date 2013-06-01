@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="2249" updated="2010-04-19T05:02:34-04:00">
+	<state datetime="1993-05-25">REFERRED</state>
+	<status><introduced datetime="1993-05-25"/></status>
+
+	<introduced datetime="1993-05-25"/>
+	<titles>
+		<title type="short" as="introduced">Sports Standards Act of 1993</title>
+		<title type="official" as="introduced">To preserve the integrity of certain athletic competition in sports.</title>
+	</titles>
+	<sponsor id="403776"/>
+	<cosponsors>
+		<cosponsor id="400124" joined="1994-02-24"/>
+		<cosponsor id="409650" joined="1993-09-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-25"><text>Sponsor introductory remarks on measure. (CR E1350)</text></action>
+		<action datetime="1993-05-25"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Sports"/>
+		<term name="Antitrust law"/>
+		<term name="Charities"/>
+		<term name="Liability (Law)"/>
+		<term name="Restrictive trade practices"/>
+		<term name="Standards"/>
+		<term name="Tax-exempt organizations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/25/1993--Introduced.
+Sports Standards Act of 1993 - Exempts certain athletic organizations that promote amateur national and international athletics from restraint of trade laws.
+
+	</summary>
+</bill>

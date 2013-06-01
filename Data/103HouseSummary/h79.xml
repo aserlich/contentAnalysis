@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="79" updated="2010-04-18T23:12:14-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To authorize a study of the struggle for American Independence within the Northern Frontier.</title>
+	</titles>
+	<sponsor id="400035"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-01-26"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1994-10-05"><committee name="House Committee on Natural Resources"/><text>For Further Action See H.R.5044.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5044" />
+	</relatedbills>
+	<subjects>
+		<term name="Culture"/>
+		<term name="American Revolution"/>
+		<term name="Commemorations"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Historic sites"/>
+		<term name="New York State"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Directs the Secretary of the Interior to: (1) identify and report to specified congressional committees on potential means to preserve and interpret the cultural resources in the Northern Frontier associated with the American Revolution; and (2) propose alternatives for cooperation in the preservation and interpretation of such resources. Authorizes appropriations.
+
+	</summary>
+</bill>

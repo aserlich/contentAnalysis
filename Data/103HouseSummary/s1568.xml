@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="1568" updated="2012-07-17T06:25:32-04:00">
+	<state datetime="1993-10-19">REFERRED</state>
+	<status><introduced datetime="1993-10-19"/></status>
+
+	<introduced datetime="1993-10-19"/>
+	<titles>
+		<title type="short" as="introduced">Labor Relations First Contract Negotiations Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend the National Labor Relations Act to require the arbitration of initial contract negotiation disputes, and for other puropses.</title>
+	</titles>
+	<sponsor id="409917"/>
+	<cosponsors>
+		<cosponsor id="400566" joined="1993-10-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-19" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S13915)</text></action>
+		<action datetime="1993-10-19" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<action datetime="1994-02-01"><committee name="Committee on Labor and Human Resources"/><text>Referred to Subcommittee on Labor.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee" />
+		<committee code="" name="Senate Labor and Human Resources" subcommittee="Labor" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1554" />
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Collective bargaining"/>
+		<term name="Collective bargaining agreements"/>
+		<term name="Commercial arbitration"/>
+		<term name="Industrial arbitration"/>
+		<term name="Labor disputes"/>
+		<term name="Mediation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/19/1993--Introduced.
+Labor Relations First Contract Negotiations Act of 1993 - Amends the National Labor Relations Act to require mediation and, if necessary, binding arbitration of initial contract negotiation disputes.
+
+	</summary>
+</bill>

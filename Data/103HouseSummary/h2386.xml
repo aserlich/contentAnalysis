@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="2386" updated="2010-04-19T05:23:38-04:00">
+	<state datetime="1993-06-10">REFERRED</state>
+	<status><introduced datetime="1993-06-10"/></status>
+
+	<introduced datetime="1993-06-10"/>
+	<titles>
+		<title type="short" as="introduced">Primary Care Health Practitioner Incentive Act of 1993</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for increased medicare reimbursement for nurse practitioners, clinical nurse specialists, and certified nurse midwives, to increase the delivery of health services in health professional shortage areas, and for other purposes.</title>
+	</titles>
+	<sponsor id="400409"/>
+	<cosponsors>
+		<cosponsor id="400543" joined="1993-06-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-10"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-06-10"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-06-16"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-07-16"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Midwives"/>
+		<term name="Nurse practitioners"/>
+		<term name="Nurses"/>
+		<term name="Nursing"/>
+		<term name="Rural public health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/10/1993--Introduced.
+Primary Care Health Practitioner Incentive Act of 1993 - Amends title XVIII (Medicare) of the Social Security Act to provide increased Medicare reimbursement for nurse practitioners, clinical nurse specialists, and certified nurse midwives (practitioners) for services performed without regard to location or practice setting. Provides for bonus payments for services provided by such practitioners in health professional shortage areas. Defines &quot;clinical nurse specialist&quot; as an individual who is a registered nurse, is licensed to practice nursing in the State in which the clinical nurse specialist services are performed, and holds a master's degree in a defined clinical area of nursing from an accredited educational institution.
+
+	</summary>
+</bill>

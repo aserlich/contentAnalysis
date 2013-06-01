@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="330" updated="2012-07-17T04:22:53-04:00">
+	<state datetime="1993-02-04">REFERRED</state>
+	<status><introduced datetime="1993-02-04"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend section 101 of title 11, United States Code, relating to eligibility to serve on chapter 11 committees.</title>
+	</titles>
+	<sponsor id="300061"/>
+	<cosponsors>
+		<cosponsor id="300157" joined="1993-02-24"/>
+		<cosponsor id="402727" joined="1993-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1418)</text></action>
+		<action datetime="1993-02-04" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-03-05"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Bankruptcy"/>
+		<term name="Civil service pensions"/>
+		<term name="Debtor and creditor"/>
+		<term name="Government operations and politics"/>
+		<term name="Pension funds"/>
+		<term name="Pension trust guaranty insurance"/>
+		<term name="Tax-deferred compensation plans"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Amends Federal bankruptcy law to consider as persons, for purposes of eligibility to serve on creditors' and equity security holders' committees, government units that are: (1) guarantors of pension benefits payable by or on behalf of the debtor; or (2) the legal or beneficial owners of an asset of an employee pension benefit plan that is a governmental plan or an eligible deferred compensation plan.
+
+	</summary>
+</bill>

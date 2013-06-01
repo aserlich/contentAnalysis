@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="1158" updated="2010-04-19T02:09:08-04:00">
+	<state datetime="1993-03-01">REFERRED</state>
+	<status><introduced datetime="1993-03-01"/></status>
+
+	<introduced datetime="1993-03-01"/>
+	<titles>
+		<title type="short" as="introduced">Prescription Drug Affordability Act of 1993</title>
+		<title type="official" as="introduced">To provide for the affordability of prescription drug prices by reducing certain nonresearch related tax credits to pharmaceutical manufacturers and to generate previously uncollected tax revenues for the Federal Government.</title>
+	</titles>
+	<sponsor id="407044"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1993-06-28"/>
+		<cosponsor id="400553" joined="1993-04-05"/>
+		<cosponsor id="401494" joined="1993-04-05"/>
+		<cosponsor id="400380" joined="1993-03-29"/>
+		<cosponsor id="400295" joined="1993-05-10"/>
+		<cosponsor id="404602" joined="1993-05-03"/>
+		<cosponsor id="400109" joined="1993-05-10"/>
+		<cosponsor id="400357" joined="1993-09-21"/>
+		<cosponsor id="400286" joined="1993-03-01"/>
+		<cosponsor id="406790" joined="1993-03-15"/>
+		<cosponsor id="400243" joined="1993-05-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-01"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-03-01"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-16"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Aged"/>
+		<term name="Budget deficits"/>
+		<term name="Drug industry"/>
+		<term name="Federal budgets"/>
+		<term name="Indexing (Economic policy)"/>
+		<term name="Poor"/>
+		<term name="Prescription pricing"/>
+		<term name="Public assistance programs"/>
+		<term name="Puerto Rico"/>
+		<term name="Tax credits"/>
+		<term name="Territories (U.S.)"/>
+		<term name="Virgin Islands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/1/1993--Introduced.
+Prescription Drug Affordability Act of 1993 - Amends the Internal Revenue Code to reduce the amount by which the possession tax credit exceeds the manufacturer's wage base in the case of manufacturers of single source or innovator multiple source drugs. Allocates additional revenues received in the Treasury as a result of this Act as follows: (1) 75 percent for deficit reduction; and (2) 25 percent for developing or supplementing State prescription drug assistance programs for States with the highest percentage of elderly or poor populations.
+
+	</summary>
+</bill>

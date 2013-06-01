@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="2589" updated="2010-04-19T05:55:17-04:00">
+	<state datetime="1993-07-01">REFERRED</state>
+	<status><introduced datetime="1993-07-01"/></status>
+
+	<introduced datetime="1993-07-01"/>
+	<titles>
+		<title type="short" as="introduced">Social Security Benefits Improvement Act of 1993</title>
+		<title type="official" as="introduced">To improve benefits under title II of the Social Security Act and to increase the social security benefit and contribution base.</title>
+	</titles>
+	<sponsor id="405939"/>
+	<cosponsors>
+		<cosponsor id="407772" joined="1993-09-30"/>
+		<cosponsor id="407306" joined="1993-09-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-01"><text>Sponsor introductory remarks on measure. (CR E1731)</text></action>
+		<action datetime="1993-07-01"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-07-08"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Earnings"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Older workers"/>
+		<term name="Retirement income"/>
+		<term name="Social security eligibility"/>
+		<term name="Widowers"/>
+		<term name="Widows"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/1/1993--Introduced.
+Social Security Benefits Improvement Act of 1993 - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to: (1) increase the amount of outside income which beneficiaries who have attained retirement age may earn without incurring a reduction in benefits; (2) increase survivors' benefits for those widows and widowers whose spouses died before they reached age 65; (3) repeal provisions which require that a widow or widower must have become disabled within seven years of their spouse's death or within seven years of the end of their eligibility for benefits as the surviving parent of a young child in order to be eligible for disability benefits; and (4) increase the OASDI contribution and benefit base beginning in 1994.
+
+	</summary>
+</bill>

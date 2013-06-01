@@ -1,0 +1,59 @@
+<bill session="103" type="h" number="43" updated="2010-04-18T23:06:40-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Defense Nuclear Workers' Health Insurance Act of 1993</title>
+		<title type="official" as="introduced">To provide health insurance benefits to certain former employees at defense nuclear facilities of the Department of Energy for injuries caused by exposure to ionizing radiation.</title>
+	</titles>
+	<sponsor id="409954"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-03-31"/>
+		<cosponsor id="406873" joined="1993-01-05"/>
+		<cosponsor id="400126" joined="1993-01-05"/>
+		<cosponsor id="401494" joined="1993-04-19"/>
+		<cosponsor id="400306" joined="1993-01-05"/>
+		<cosponsor id="409205" joined="1993-01-05"/>
+		<cosponsor id="400409" joined="1993-03-31"/>
+		<cosponsor id="400387" joined="1993-01-05"/>
+		<cosponsor id="401446" joined="1993-03-31"/>
+		<cosponsor id="409650" joined="1993-01-05"/>
+		<cosponsor id="400390" joined="1993-08-04"/>
+		<cosponsor id="404190" joined="1993-07-01"/>
+		<cosponsor id="409633" joined="1993-01-05"/>
+		<cosponsor id="400357" joined="1993-01-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Energy and Power.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="HSIF-03" name="House Energy and Commerce" subcommittee="Energy and Power" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Cancer"/>
+		<term name="Department of Energy"/>
+		<term name="Government employees' health insurance"/>
+		<term name="Ionizing radiation"/>
+		<term name="Medical care"/>
+		<term name="Nuclear facilities"/>
+		<term name="Nuclear weapons"/>
+		<term name="Radiation"/>
+		<term name="Radioactive wastes"/>
+		<term name="Radiobiology"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Defense Nuclear Workers' Health Insurance Act of 1993 - Directs the Secretary of Energy to establish a health insurance program for certain former employees of Department of Energy defense nuclear facilities exposed to ionizing radiation for certain cancer health care expenses incurred above $25,000.
+
+	</summary>
+</bill>

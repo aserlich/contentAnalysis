@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="104" updated="2010-04-18T23:16:14-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Small Business Investment Act of 1993</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to promote investment in small businesses by providing Federal tax relief and simplification for such businesses and their investors.</title>
+	</titles>
+	<sponsor id="407676"/>
+	<cosponsors>
+		<cosponsor id="410147" joined="1993-01-27"/>
+		<cosponsor id="400567" joined="1993-01-05"/>
+		<cosponsor id="400206" joined="1993-03-02"/>
+		<cosponsor id="400601" joined="1994-04-21"/>
+		<cosponsor id="407669" joined="1993-01-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="160" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Accounting"/>
+		<term name="Construction industries"/>
+		<term name="Contracts"/>
+		<term name="Corporation taxes"/>
+		<term name="Depreciation and amortization"/>
+		<term name="Housing"/>
+		<term name="Indexing (Economic policy)"/>
+		<term name="Inventories"/>
+		<term name="Minimum tax"/>
+		<term name="Small business"/>
+		<term name="Stockholders"/>
+		<term name="Tax deductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+TABLE OF CONTENTS: Title I: Investment Incentives Title II: Accounting Provisions Small Business Investment Act of 1993 - Title I: Investment Incentives - Amends the Internal Revenue Code to increase the dollar limitation on the election to expense certain depreciable business assets. Allows the expensing of certain start-up costs of small businesses. Allows certain adjustments and preferences to not be taken into account in computing the alternative minimum tax for qualified small business activities. Increases the allowable number of shareholders for small business corporations. Title II: Accounting Provisions - Allows an eligible small business to elect to use the inflation-adjusted first-in, first-out inventory method of valuing its inventories. Exempts certain small businesses from the uniform capitalization rules and the special rules for long-term contracts.
+
+	</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="103" type="hc" number="314" updated="2010-04-18T21:50:04-04:00">
+	<state datetime="1994-10-08">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1994-10-08" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-10-07"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the printing of a collection of statements made in tribute to Representative Jamie L. Whitten.</title>
+	</titles>
+	<sponsor id="407838"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-07"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1994-10-07T19:33:00-04:00"><text>Committee on House Administration discharged.</text></action>
+		<action datetime="1994-10-07T19:33:00-04:00"><text>Mr. Manton asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-10-07T19:33:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H11377"/></action>
+		<vote how="without objection" type="vote" datetime="1994-10-07T19:35:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On agreeing to the resolution Agreed to without objection.</text></vote>
+		<action datetime="1994-10-07T19:35:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-07"><text>Received in the Senate.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-08" where="s" result="pass"  state="PASSED:CONCURRENTRES"><text>Resolution agreed to in Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S15032"/></vote>
+		<action datetime="1994-10-12"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Commemorations"/>
+		<term name="Congress"/>
+		<term name="Congressional publications"/>
+		<term name="Congressional tributes"/>
+		<term name="Ex-Members of Congress"/>
+		<term name="Government information"/>
+		<term name="Members of Congress (House)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1994--Introduced.
+Provides for the printing of a collection of statements made in tribute to Representative Jamie L. Whitten as a House document.
+
+	</summary>
+</bill>

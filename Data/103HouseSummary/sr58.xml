@@ -1,0 +1,38 @@
+<bill session="103" type="sr" number="58" updated="2010-04-19T22:08:31-04:00">
+	<state datetime="1993-02-02">REPORTED</state>
+	<status><calendar datetime="1993-02-02" /></status>
+
+	<introduced datetime="1993-02-02"/>
+	<titles>
+		<title type="official" as="introduced">An original resolution authorizing expenditures by the Committee on Small Business.</title>
+	</titles>
+	<sponsor id="402004"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar datetime="1993-02-02"  state="REPORTED"><text>Committee on Small Business ordered to be reported an original measure.</text></calendar>
+		<action datetime="1993-02-02"><text>Committee on Small Business. Original measure reported to Senate by Senator Bumpers. Without written report.</text></action>
+		<action datetime="1993-02-02"><text>Referred to the Committee on Rules.</text></action>
+		<calendar datetime="1993-02-18" ><text>Committee on Rules. Provisions of measure incorporated into measure S.RES. 71 ordered to be reported.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSSB" name="Senate Small Business" activity="Origin, Reporting, Markup" />
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="sr" number="71" />
+	</relatedbills>
+	<subjects>
+		<term name="Senate"/>
+		<term name="Congressional committees (Senate)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1993--Introduced.
+Authorizes expenditures by the Senate Committee on Small Business for the 103d Congress.
+
+	</summary>
+</bill>

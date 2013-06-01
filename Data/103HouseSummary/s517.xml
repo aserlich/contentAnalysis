@@ -1,0 +1,45 @@
+<bill session="103" type="s" number="517" updated="2012-07-17T04:55:03-04:00">
+	<state datetime="1993-03-05">REFERRED</state>
+	<status><introduced datetime="1993-03-05"/></status>
+
+	<introduced datetime="1993-03-05"/>
+	<titles>
+		<title type="official" as="introduced">A bill to reduce the deficit in the Federal budget for fiscal year 1994 by limiting to $2,000,000,000 the amount that may be appropriated for the Strategic Defense Initiative.</title>
+	</titles>
+	<sponsor id="402004"/>
+	<cosponsors>
+		<cosponsor id="403346" joined="1993-05-12"/>
+		<cosponsor id="409580" joined="1993-03-05"/>
+		<cosponsor id="400557" joined="1993-04-22"/>
+		<cosponsor id="411818" joined="1993-08-05"/>
+		<cosponsor id="300061" joined="1993-04-22"/>
+		<cosponsor id="300031" joined="1993-04-22"/>
+		<cosponsor id="300064" joined="1993-11-22"/>
+		<cosponsor id="300042" joined="1993-03-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-05" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2490-2492)</text></action>
+		<action datetime="1993-03-05" state="REFERRED"><text>Read twice and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Authorization"/>
+		<term name="Defense budgets"/>
+		<term name="Government spending reductions"/>
+		<term name="Space warfare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/5/1993--Introduced.
+Limits the authorization of appropriations for the Strategic Defense Initiative to a maximum of $2,000,000,000 for FY 1994.
+
+	</summary>
+</bill>

@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="3919" updated="2010-04-19T09:21:48-04:00">
+	<state datetime="1994-02-28">REFERRED</state>
+	<status><introduced datetime="1994-02-28"/></status>
+
+	<introduced datetime="1994-02-28"/>
+	<titles>
+		<title type="short" as="introduced">Social Security Privacy Act of 1994</title>
+		<title type="official" as="introduced">To restrict the use of social security account numbers to purposes related to social security and other social services.</title>
+	</titles>
+	<sponsor id="401547"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-28"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-02-28"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-03-02"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Information, Justice, Transportation and Agriculture.</text></action>
+		<action datetime="1994-03-02"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Information, Justice, Transportation, and Agriculture" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Blood donors"/>
+		<term name="Civil liberties"/>
+		<term name="Driver licenses"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Identification devices"/>
+		<term name="Local taxation"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Motor vehicle registration"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Public assistance programs"/>
+		<term name="Right of privacy"/>
+		<term name="Social services"/>
+		<term name="State and local government"/>
+		<term name="State laws"/>
+		<term name="State taxation"/>
+		<term name="Taxation"/>
+		<term name="Transportation"/>
+		<term name="Welfare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/28/1994--Introduced.
+Social Security Privacy Act of 1994 - States that it is the policy of the Congress to restrict the use of social security numbers to purposes most directly related to social security and other social services. Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to revise current guidelines on State and local government utilization of social security numbers, with changes generally requiring an individual's written consent before such number, or any derivative thereof, may be used for purposes of identifying the individual.
+
+	</summary>
+</bill>

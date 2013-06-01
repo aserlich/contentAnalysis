@@ -1,0 +1,100 @@
+<bill session="103" type="h" number="1595" updated="2010-04-19T03:20:27-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="short" as="introduced">Vegetable Ink Printing Act of 1993</title>
+		<title type="official" as="introduced">To require that all Federal lithographic printing be performed using ink made from vegetable oil, and for other purposes.</title>
+	</titles>
+	<sponsor id="300038"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1993-09-28"/>
+		<cosponsor id="400420" joined="1993-05-12"/>
+		<cosponsor id="400298" joined="1993-05-12"/>
+		<cosponsor id="408839" joined="1993-04-21"/>
+		<cosponsor id="400126" joined="1993-04-21"/>
+		<cosponsor id="400149" joined="1993-11-02"/>
+		<cosponsor id="400532" joined="1994-04-20"/>
+		<cosponsor id="400023" joined="1993-04-01"/>
+		<cosponsor id="400122" joined="1993-11-15"/>
+		<cosponsor id="400295" joined="1993-06-24"/>
+		<cosponsor id="407351" joined="1993-04-21"/>
+		<cosponsor id="400058" joined="1993-05-12"/>
+		<cosponsor id="400036" joined="1993-05-27"/>
+		<cosponsor id="404723" joined="1993-05-05"/>
+		<cosponsor id="400578" joined="1993-04-21"/>
+		<cosponsor id="400323" joined="1993-04-21"/>
+		<cosponsor id="409570" joined="1993-04-21"/>
+		<cosponsor id="407838" joined="1993-05-12"/>
+		<cosponsor id="400581" joined="1993-04-21"/>
+		<cosponsor id="400312" joined="1993-04-21"/>
+		<cosponsor id="400316" joined="1993-04-21"/>
+		<cosponsor id="300083" joined="1993-07-01"/>
+		<cosponsor id="400082" joined="1993-04-21"/>
+		<cosponsor id="406799" joined="1993-04-21"/>
+		<cosponsor id="400520" joined="1994-06-15"/>
+		<cosponsor id="411065" joined="1993-06-24"/>
+		<cosponsor id="408618" joined="1993-04-01"/>
+		<cosponsor id="401153" joined="1993-05-05"/>
+		<cosponsor id="400382" joined="1994-01-25"/>
+		<cosponsor id="406920" joined="1993-04-21"/>
+		<cosponsor id="400169" joined="1993-05-12"/>
+		<cosponsor id="400178" joined="1993-05-05"/>
+		<cosponsor id="400568" joined="1994-06-08"/>
+		<cosponsor id="400378" joined="1993-04-21"/>
+		<cosponsor id="400366" joined="1993-04-21"/>
+		<cosponsor id="400056" joined="1993-09-13"/>
+		<cosponsor id="404602" joined="1993-08-03"/>
+		<cosponsor id="400572" joined="1993-07-21"/>
+		<cosponsor id="408476" joined="1993-05-05"/>
+		<cosponsor id="400012" joined="1993-05-05"/>
+		<cosponsor id="409966" joined="1993-04-21"/>
+		<cosponsor id="400599" joined="1993-04-21"/>
+		<cosponsor id="400150" joined="1993-04-21"/>
+		<cosponsor id="410407" joined="1993-06-24"/>
+		<cosponsor id="407044" joined="1993-05-12"/>
+		<cosponsor id="405258" joined="1993-04-21"/>
+		<cosponsor id="300096" joined="1994-03-17"/>
+		<cosponsor id="407669" joined="1993-05-05"/>
+		<cosponsor id="403864" joined="1993-04-21"/>
+		<cosponsor id="400314" joined="1993-04-21"/>
+		<cosponsor id="300058" joined="1993-04-21"/>
+		<cosponsor id="400236" joined="1993-04-01"/>
+		<cosponsor id="408661" joined="1993-04-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-04-01"><committee name="House Committee on Government Operations"/><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-04-02"><committee name="House Committee on House Administration" subcommittee="Information, Justice, Transportation and Agriculture"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+		<action datetime="1993-04-05"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Information, Justice, Transportation and Agriculture.</text></action>
+		<action datetime="1994-05-26"><committee name="House Committee on Government Operations" subcommittee="Information, Justice, Transportation and Agriculture"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Information, Justice, Transportation, and Agriculture" activity="Referral, Hearings" />
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hc" number="231" />
+		<bill relation="unknown" session="103" type="s" number="716" />
+	</relatedbills>
+	<subjects>
+		<term name="Government paperwork"/>
+		<term name="Government information"/>
+		<term name="Government procurement"/>
+		<term name="Government publications"/>
+		<term name="Oils and fats"/>
+		<term name="Printing"/>
+		<term name="Public contracts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Vegetable Ink Printing Act of 1993 - Requires all Federal lithographic printing to be performed using the maximum amount of vegetable-based ink that is technologically feasible and commercially cost-competitive with printing using petroleum-based inks.
+
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="4265" updated="2010-04-19T10:15:43-04:00">
+	<state datetime="1994-04-20">REFERRED</state>
+	<status><introduced datetime="1994-04-20"/></status>
+
+	<introduced datetime="1994-04-20"/>
+	<titles>
+		<title type="official" as="introduced">To enhance fairness in compensating owners of patents used by the United States.</title>
+	</titles>
+	<sponsor id="400143"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-20"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-05-20"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+		<action datetime="1994-08-19"><committee name="House Committee on Judiciary"/><text>Re-referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government liability"/>
+		<term name="Compensation (Law)"/>
+		<term name="Intellectual property"/>
+		<term name="Law"/>
+		<term name="Legal fees"/>
+		<term name="Patents"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/20/1994--Introduced.
+Amends the Federal judicial code to allow an owner of a patent that is used or manufactured unlawfully by or for the United States to be compensated for his or her reasonable costs in pursuing action against the United States in the U.S. Court of Federal Claims (in addition to reasonable and entire compensation).
+
+	</summary>
+</bill>

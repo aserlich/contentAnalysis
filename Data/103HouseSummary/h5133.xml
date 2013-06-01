@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="5133" updated="2010-04-19T12:31:24-04:00">
+	<state datetime="1994-09-29">REFERRED</state>
+	<status><introduced datetime="1994-09-29"/></status>
+
+	<introduced datetime="1994-09-29"/>
+	<titles>
+		<title type="short" as="introduced">North American Free Trade Agreement Implementation Act Amendments of 1994</title>
+		<title type="official" as="introduced">To provide for expediting an investigation by the International Trade Commission by providing for the monitoring of the importation of certain kinds of tomatoes and peppers.</title>
+	</titles>
+	<sponsor id="400322"/>
+	<cosponsors>
+		<cosponsor id="400401" joined="1994-09-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-29"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-10-04"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Agriculture"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Free trade"/>
+		<term name="Import relief"/>
+		<term name="International affairs"/>
+		<term name="Tomatoes"/>
+		<term name="Trade"/>
+		<term name="Trade agreements"/>
+		<term name="Vegetables and vegetable trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/29/1994--Introduced.
+North American Free Trade Agreement Implementation Act Amendments of 1994 - Amends the North American Free Trade Agreement Implementation Act to require the International Trade Commission to monitor imports of fresh or chilled tomatoes and peppers (other than chili peppers) suitable for fresh-market use for purposes of expediting investigations for trade relief with respect to whether such imports have been a substantial cause of serious injury, or threat thereof, to a domestic industry.
+
+	</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="103" type="hj" number="60" updated="2010-04-18T22:00:15-04:00">
+	<state datetime="1993-01-06">REFERRED</state>
+	<status><introduced datetime="1993-01-06"/></status>
+
+	<introduced datetime="1993-01-06"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to provide for the election of the President and Vice President by direct popular vote.</title>
+	</titles>
+	<sponsor id="400223"/>
+	<cosponsors>
+		<cosponsor id="400268" joined="1993-01-06"/>
+		<cosponsor id="300038" joined="1993-01-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-06"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Elections"/>
+		<term name="Constitutional amendments"/>
+		<term name="Electoral college"/>
+		<term name="Presidential elections"/>
+		<term name="Vice Presidents"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/1993--Introduced.
+Constitutional Amendment - Provides for the direct popular election of the President and Vice President of the United States.
+
+	</summary>
+</bill>

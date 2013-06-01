@@ -1,0 +1,61 @@
+<bill session="103" type="h" number="3290" updated="2010-04-19T07:43:48-04:00">
+	<state datetime="1993-10-14">REFERRED</state>
+	<status><introduced datetime="1993-10-14"/></status>
+
+	<introduced datetime="1993-10-14"/>
+	<titles>
+		<title type="short" as="introduced">Head Start Safety Act</title>
+		<title type="official" as="introduced">To amend the Asbestos School Hazard Abatement Act of 1984 and title II of the Toxic Substances Control Act to expand the coverage of those Acts to include Head Start Programs, and for other purposes.</title>
+	</titles>
+	<sponsor id="400289"/>
+	<cosponsors>
+		<cosponsor id="400126" joined="1994-03-17"/>
+		<cosponsor id="400122" joined="1994-06-27"/>
+		<cosponsor id="400003" joined="1994-02-10"/>
+		<cosponsor id="400416" joined="1994-03-17"/>
+		<cosponsor id="400422" joined="1994-02-10"/>
+		<cosponsor id="400614" joined="1994-02-10"/>
+		<cosponsor id="400615" joined="1994-02-10"/>
+		<cosponsor id="404190" joined="1994-03-17"/>
+		<cosponsor id="400357" joined="1994-02-10"/>
+		<cosponsor id="400310" joined="1994-05-04"/>
+		<cosponsor id="403776" joined="1994-05-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-14"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-10-14"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-11-01"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+		<action datetime="1993-11-03"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Human Resources" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Air pollution control"/>
+		<term name="Asbestos"/>
+		<term name="Asbestos abatement"/>
+		<term name="Educational facilities"/>
+		<term name="Educational policy"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Environmental health"/>
+		<term name="Environmental protection"/>
+		<term name="Hazardous substances"/>
+		<term name="Indoor air pollution"/>
+		<term name="Preschool education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/14/1993--Introduced.
+Head Start Safety Act - Amends the Asbestos School Hazard Abatement Act of 1984 and the Toxic Substances Control Act to expand coverage of such Acts to include Head Start programs and facilities.
+
+	</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="103" type="sj" number="26" updated="2012-07-17T04:48:45-04:00">
+	<state datetime="1993-01-27">REFERRED</state>
+	<status><introduced datetime="1993-01-27"/></status>
+
+	<introduced datetime="1993-01-27"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution relating to a Federal balanced budget.</title>
+	</titles>
+	<sponsor id="403346"/>
+	<cosponsors>
+		<cosponsor id="300157" joined="1993-01-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-27" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S861-862)</text></action>
+		<action datetime="1993-01-27" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-02-04"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Constitution.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Constitution" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Balanced budgets"/>
+		<term name="Constitutional amendments"/>
+		<term name="Deficit financing"/>
+		<term name="Income tax"/>
+		<term name="Legislation"/>
+		<term name="Record votes"/>
+		<term name="Tax rates"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/1993--Introduced.
+Constitutional Amendment - Prohibits fiscal year Federal outlays (except those for repayment of debt principal) from exceeding receipts (except those derived from borrowing), unless the Congress authorizes a specific excess by a three-fifths vote of both Houses. Directs the President to submit to the Congress prior to each fiscal year a proposed budget that meets this standard. Permits any bill for raising taxes to become law only if a majority of the whole number of both Houses of Congress approves it by roll call vote. Authorizes a waiver of these provisions when a declaration of war is in effect.
+
+	</summary>
+</bill>

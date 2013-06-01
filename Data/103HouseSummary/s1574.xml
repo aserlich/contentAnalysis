@@ -1,0 +1,81 @@
+<bill session="103" type="s" number="1574" updated="2012-07-17T04:24:57-04:00">
+	<state datetime="1994-05-04">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-05-04" /></status>
+
+	<introduced datetime="1993-10-20"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize appropriations for the Coastal Heritage Trail Route in the State of New Jersey, and for other purposes.</title>
+	</titles>
+	<sponsor id="401709"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-20" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S14019)</text></action>
+		<action datetime="1993-10-20" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-10-21"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1993-10-22"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1993-10-27"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed: S.Hrg. 103-556.</text></action>
+		<calendar datetime="1993-11-10"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-11-17"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="290" datetime="1993-11-17" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 290.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote. (consideration: CR 11/19/93 S16573)</text></vote>
+		<action datetime="1993-11-20T11:38:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-20"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-11-20"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-12-09"><text>By Senator Johnston from Committee on Energy and Natural Resources filed written report under the authority of the order of Nov 17, 93. Report No. 103-212.</text></action>
+		<action datetime="1994-01-21"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1994-01-31"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1994-02-08"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-03-03"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-03-03"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-03-09"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-03-09" ><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-03-21T13:05:00-05:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-443.</text></action>
+		<calendar number="245" datetime="1994-03-21T13:05:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 245.</text></calendar>
+		<action datetime="1994-03-21T13:05:00-05:00"><text>Mr. Vento moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-03-21T13:07:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1616-1617"/></action>
+		<action datetime="1994-03-21T13:07:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote2" datetime="1994-03-21T13:09:00-05:00" where="h" result="pass"  state="PASS_BACK:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-03-21T13:09:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-03-23"><text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text></action>
+		<action datetime="1994-04-19"><text>Senate agreed to the House amendment by Voice Vote.</text><reference label="consideration" ref="CR S4488"/></action>
+		<topresident datetime="1994-04-19" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-04-21"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-04-22" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-05-04" ><text>Signed by President.</text></signed>
+		<enacted number="103-243" type="public" datetime="1994-05-04"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-243.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3377" />
+		<bill relation="unknown" session="103" type="h" number="3377" />
+		<bill relation="unknown" session="103" type="h" number="3377" />
+		<bill relation="identical" session="103" type="s" number="1416" />
+	</relatedbills>
+	<subjects>
+		<term name="Recreation"/>
+		<term name="Authorization"/>
+		<term name="Commemorations"/>
+		<term name="Department of the Interior"/>
+		<term name="Economics and public finance"/>
+		<term name="Government operations and politics"/>
+		<term name="Historic sites"/>
+		<term name="History"/>
+		<term name="New Jersey"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Trails"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/21/1994--Passed House amended. Authorizes appropriations to the Secretary of the Interior for the Coastal Heritage Trail Route in New Jersey in addition to any sums appropriated for the Trail for use during fiscal years ending on or before September 30, 1993. Requires such funds to be used solely for technical assistance and the design and fabrication of interpretive materials, devices, and signs. Prohibits the funds from being used for operation, maintenance, repair, or construction except for construction of interpretive exhibits. Limits the Federal share of the total cost of any project carried out with such funds to 50 percent on a matching basis.
+
+	</summary>
+</bill>

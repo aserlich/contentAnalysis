@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="403" updated="2012-07-17T06:12:04-04:00">
+	<state datetime="1993-02-18">REFERRED</state>
+	<status><introduced datetime="1993-02-18"/></status>
+
+	<introduced datetime="1993-02-18"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow a tax credit for fuels produced from offshore deep-water projects.</title>
+	</titles>
+	<sponsor id="300012"/>
+	<cosponsors>
+		<cosponsor id="300089" joined="1993-03-04"/>
+		<cosponsor id="406084" joined="1993-03-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-18" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1899)</text></action>
+		<action datetime="1993-02-18" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Energy policy"/>
+		<term name="Energy tax credits"/>
+		<term name="Gas in submerged lands"/>
+		<term name="Minimum tax"/>
+		<term name="Natural gas"/>
+		<term name="Petroleum"/>
+		<term name="Petroleum in submerged lands"/>
+		<term name="Submarine oil well drilling"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/18/1993--Introduced.
+Amends the Internal Revenue Code to allow a general business credit for fuels produced from offshore deep-water projects. Allows such credit to offset the minimum tax, with limitations.
+
+	</summary>
+</bill>

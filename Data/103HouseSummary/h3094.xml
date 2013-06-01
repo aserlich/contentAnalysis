@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="3094" updated="2010-04-19T07:13:29-04:00">
+	<state datetime="1993-09-21">REFERRED</state>
+	<status><introduced datetime="1993-09-21"/></status>
+
+	<introduced datetime="1993-09-21"/>
+	<titles>
+		<title type="official" as="introduced">To provide for the transfer of the Naval Hospital located at the Orlando Naval Training Center, Florida, to the Department of Veterans Affairs for use as an expanded ambulatory care center, a nursing home complex, and a facility for related medical purposes.</title>
+	</titles>
+	<sponsor id="400048"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-21"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-09-21"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-09-22"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Hospitals and Health Care.</text></action>
+		<action datetime="1993-09-24"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Installations and Facilities.</text></action>
+		<action datetime="1993-09-24"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from Navy, Veterans' Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Installations and Facilities" activity="Referral" />
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="HSVR-03" name="House Veterans' Affairs" subcommittee="Hospitals and Health Care" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Ambulatory care"/>
+		<term name="Florida"/>
+		<term name="Land transfers"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Naval hospitals"/>
+		<term name="Nursing homes"/>
+		<term name="Veterans"/>
+		<term name="Veterans' hospitals"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/21/1993--Introduced.
+Directs the Secretary of the Navy to transfer the Orlando Naval Hospital in Orlando, Florida, to the Department of Veterans Affairs for use as an expanded ambulatory care center, nursing home complex, and a facility for related medical purposes. Requires such transfer within one month after the Naval Hospital is closed.
+
+	</summary>
+</bill>

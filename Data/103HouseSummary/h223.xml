@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="223" updated="2010-04-18T23:34:36-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Legislative Line Item Veto Act of 1993</title>
+		<title type="official" as="introduced">To grant the power to the President to reduce budget authority.</title>
+	</titles>
+	<sponsor id="400590"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Government Operations"/><text>See H.R.1578.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="159" />
+		<bill relation="unknown" session="103" type="h" number="1578" />
+		<bill relation="identical" session="103" type="s" number="9" />
+	</relatedbills>
+	<subjects>
+		<term name="Appropriations"/>
+		<term name="Balanced budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Congressional veto"/>
+		<term name="Executive impoundment of appropriated funds"/>
+		<term name="Federal budgets"/>
+		<term name="House rules and procedure"/>
+		<term name="Item veto"/>
+		<term name="Legislation"/>
+		<term name="Presidential powers"/>
+		<term name="Public debt"/>
+		<term name="Senate rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Legislative Line Item Veto Act of 1993 - Amends the Congressional Budget and Impoundment Control Act of 1974 to grant the President legislative line item veto rescission authority. Makes such a rescission effective unless the Congress, during a review period of 20 calendar days, enacts a rescission disapproval bill.
+
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="103" type="hj" number="396" updated="2010-04-18T22:54:32-04:00">
+	<state datetime="1994-08-01">REFERRED</state>
+	<status><introduced datetime="1994-08-01"/></status>
+
+	<introduced datetime="1994-08-01"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to provide that no person born in the United States will be a United States citizen on account of birth in the United States unless a parent is a United States citizen at the time of the birth.</title>
+	</titles>
+	<sponsor id="400500"/>
+	<cosponsors>
+		<cosponsor id="400127" joined="1994-08-01"/>
+		<cosponsor id="400504" joined="1994-08-01"/>
+		<cosponsor id="400611" joined="1994-08-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-01"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-08-03"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Children"/>
+		<term name="Citizenship"/>
+		<term name="Constitution"/>
+		<term name="Constitutional amendments"/>
+		<term name="Families"/>
+		<term name="Parents"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/1/1994--Introduced.
+Constitutional Amendment - Limits citizenship at birth to persons born in the United States to a mother or father who is a U.S. citizen.
+
+	</summary>
+</bill>

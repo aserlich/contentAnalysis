@@ -1,0 +1,41 @@
+<bill session="103" type="s" number="2271" updated="2012-07-17T06:02:12-04:00">
+	<state datetime="1994-07-01">REFERRED</state>
+	<status><introduced datetime="1994-07-01"/></status>
+
+	<introduced datetime="1994-07-01"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for the transfer of certain tuna fishing vessels documented in the United States to foreign registry.</title>
+	</titles>
+	<sponsor id="300012"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-01" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3599" />
+		<bill relation="identical" session="103" type="s" number="1721" />
+	</relatedbills>
+	<subjects>
+		<term name="Ships"/>
+		<term name="Animals"/>
+		<term name="Dolphins"/>
+		<term name="Environmental protection"/>
+		<term name="Fishing boats"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Marine mammal protection"/>
+		<term name="Tuna fisheries"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/1/1994--Introduced.
+Provides for the transfer to foreign registry of certain tuna fishing vessels documented in the United States.
+
+	</summary>
+</bill>

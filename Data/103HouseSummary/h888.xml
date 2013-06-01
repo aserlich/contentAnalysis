@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="888" updated="2010-04-19T01:24:11-04:00">
+	<state datetime="1993-02-16">REFERRED</state>
+	<status><introduced datetime="1993-02-16"/></status>
+
+	<introduced datetime="1993-02-16"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Endangered Species Act of 1973.</title>
+	</titles>
+	<sponsor id="404068"/>
+	<cosponsors>
+		<cosponsor id="400302" joined="1993-02-24"/>
+		<cosponsor id="400037" joined="1993-02-16"/>
+		<cosponsor id="400079" joined="1993-04-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-16"><text>Sponsor introductory remarks on measure. (CR E324)</text></action>
+		<action datetime="1993-02-16"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-03-08"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1993-03-08"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1993-03-25"><text>Sponsor introductory remarks on measure. (CR E776-777)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Endangered species"/>
+		<term name="Potable water"/>
+		<term name="Water resources development"/>
+		<term name="Water supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/16/1993--Introduced.
+Amends the Endangered Species Act of 1973 to make such Act inapplicable to the taking or jeopardy of an endangered species if such activity results from the modification of a water habitat located in or fed by a sole source aquifer designated under the Safe Drinking Water Act.
+
+	</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="103" type="sj" number="10" updated="2012-07-17T04:33:12-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution relative to contributions and expenditures intended to affect congressional and Presidential elections.</title>
+	</titles>
+	<sponsor id="300053"/>
+	<cosponsors>
+		<cosponsor id="403346" joined="1993-01-27"/>
+		<cosponsor id="300034" joined="1993-01-27"/>
+		<cosponsor id="400557" joined="1993-01-27"/>
+		<cosponsor id="406188" joined="1993-01-27"/>
+		<cosponsor id="300092" joined="1993-01-27"/>
+		<cosponsor id="300031" joined="1993-01-26"/>
+		<cosponsor id="300089" joined="1993-01-27"/>
+		<cosponsor id="300017" joined="1993-01-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S618-620)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-02-04"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Constitution.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Constitution" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Campaign funds"/>
+		<term name="Constitutional amendments"/>
+		<term name="Election candidates"/>
+		<term name="State laws"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Constitutional Amendment - Declares that the Congress has the power to set reasonable limits on campaign expenditures by, in support of, or in opposition to any candidate in any primary or other election for Federal office. Declares that the States have such power with respect to State or local elections.
+
+	</summary>
+</bill>

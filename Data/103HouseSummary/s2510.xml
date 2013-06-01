@@ -1,0 +1,42 @@
+<bill session="103" type="s" number="2510" updated="2012-07-17T05:00:47-04:00">
+	<state datetime="1994-10-06">REFERRED</state>
+	<status><introduced datetime="1994-10-06"/></status>
+
+	<introduced datetime="1994-10-06"/>
+	<titles>
+		<title type="short" as="introduced">Bank Insurance Fund and Depositor Protection Act of 1994</title>
+		<title type="official" as="introduced">A bill to amend the Federal Deposit Insurance Act to exclude certain bank products from the definition of a deposit.</title>
+	</titles>
+	<sponsor id="300034"/>
+	<cosponsors>
+		<cosponsor id="403142" joined="1994-10-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-06" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S14479-14483)</text></action>
+		<action datetime="1994-10-06" state="REFERRED"><text>Read twice and referred to the Committee on Banking.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2548" />
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Annuities"/>
+		<term name="Bank deposits"/>
+		<term name="Deposit insurance"/>
+		<term name="Income tax"/>
+		<term name="Labor and employment"/>
+		<term name="Tax-deferred compensation plans"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/6/1994--Introduced.
+Bank Insurance Fund and Depositor Protection Act of 1994 - Amends the Federal Deposit Insurance Act to exclude from its definition of &quot;deposit&quot; any liability of an insured depository institution that arises under an annuity contract, the income on which is tax deferred (thus excluding such liabilities from Federal deposit insurance coverage).
+
+	</summary>
+</bill>

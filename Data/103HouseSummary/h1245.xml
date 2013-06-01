@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="1245" updated="2010-04-19T02:24:30-04:00">
+	<state datetime="1993-03-04">REFERRED</state>
+	<status><introduced datetime="1993-03-04"/></status>
+
+	<introduced datetime="1993-03-04"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 10, United States Code, to assist members of the Armed Forces who are discharged or released from active duty to obtain employment with law enforcement agencies and health care providers.</title>
+	</titles>
+	<sponsor id="400438"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-04-07"/>
+		<cosponsor id="400532" joined="1993-03-29"/>
+		<cosponsor id="401494" joined="1993-05-11"/>
+		<cosponsor id="400333" joined="1993-03-29"/>
+		<cosponsor id="400409" joined="1993-03-29"/>
+		<cosponsor id="403364" joined="1993-07-15"/>
+		<cosponsor id="400025" joined="1993-07-15"/>
+		<cosponsor id="400075" joined="1993-03-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-04"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-03-10"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-03-10"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Employment subsidies"/>
+		<term name="Federal aid to health facilities"/>
+		<term name="Federal aid to law enforcement agencies"/>
+		<term name="Job hunting"/>
+		<term name="Law enforcement officers"/>
+		<term name="Local officials and employees"/>
+		<term name="Medical care"/>
+		<term name="Medical personnel"/>
+		<term name="Military discharges"/>
+		<term name="Retired military personnel"/>
+		<term name="State officials and employees"/>
+		<term name="Veterans' employment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/4/1993--Introduced.
+Directs the Secretary of Defense to establish a program to assist eligible members of the armed forces to obtain employment by State or local law enforcement agencies or by health care providers upon discharge or release from active duty. Makes eligible for such assistance members: (1) selected for involuntary separation, separated under a special separation benefits program, or given early retirement during a four-year period beginning on October 1, 1993; (2) having certain educational degrees or certification; and (3) having a military occupational specialty, training, or experience related to law enforcement or health care. Provides for the making of grants to law enforcement agencies and health care providers in order to facilitate such employment.
+
+	</summary>
+</bill>

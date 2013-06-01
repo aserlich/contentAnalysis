@@ -1,0 +1,83 @@
+<bill session="103" type="hr" number="337" updated="2010-04-19T13:51:34-04:00">
+	<state datetime="1994-02-02">REFERRED</state>
+	<status><introduced datetime="1994-02-02"/></status>
+
+	<introduced datetime="1994-02-02"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives with respect to radiation experiments conducted by the Federal Government.</title>
+	</titles>
+	<sponsor id="400143"/>
+	<cosponsors>
+		<cosponsor id="400126" joined="1994-04-13"/>
+		<cosponsor id="407124" joined="1994-04-13"/>
+		<cosponsor id="402750" joined="1994-04-13"/>
+		<cosponsor id="400003" joined="1994-04-13"/>
+		<cosponsor id="404375" joined="1994-04-13"/>
+		<cosponsor id="406482" joined="1994-04-13"/>
+		<cosponsor id="400269" joined="1994-05-26"/>
+		<cosponsor id="400326" joined="1994-04-13"/>
+		<cosponsor id="400554" joined="1994-05-26"/>
+		<cosponsor id="400204" joined="1994-02-02"/>
+		<cosponsor id="400314" joined="1994-04-13"/>
+		<cosponsor id="400100" joined="1994-04-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-02"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-02-02"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-02-02"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-02-04"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Information, Justice, Transportation and Agriculture.</text></action>
+		<action datetime="1994-02-04"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Human Resources and Intergovernmental Relations.</text></action>
+		<action datetime="1994-02-08"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+		<action datetime="1994-03-04"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Energy and Power.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Information, Justice, Transportation, and Agriculture" activity="Referral" />
+		<committee code="" name="House Government Operations" subcommittee="Human Resources and Intergovernmental Relations" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="HSIF-03" name="House Energy and Commerce" subcommittee="Energy and Power" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Civil liberties"/>
+		<term name="Compensation (Law)"/>
+		<term name="Executive departments"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Freedom of information"/>
+		<term name="Government information"/>
+		<term name="Government liability"/>
+		<term name="Government paperwork"/>
+		<term name="Government publications"/>
+		<term name="Government publicity"/>
+		<term name="Hazardous substances"/>
+		<term name="Human experimentation in medicine"/>
+		<term name="Informed consent (Medical law)"/>
+		<term name="Law"/>
+		<term name="Liability for nuclear damages"/>
+		<term name="Medical ethics"/>
+		<term name="Medical records"/>
+		<term name="Medicine"/>
+		<term name="Nuclear medicine"/>
+		<term name="Public records"/>
+		<term name="Radiation"/>
+		<term name="Radiation victims"/>
+		<term name="Radiobiology"/>
+		<term name="Research"/>
+		<term name="Research ethics"/>
+		<term name="Science policy"/>
+		<term name="Survivors' benefits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1994--Introduced.
+Expresses the sense of the House of Representatives that: (1) the people of the United States deserve a full accounting of the radiation experiments conducted by the Government; (2) the Secretary of Energy should be commended for quickly responding to the disclosures that such experiments had been conducted on individuals without their consent by promising to locate and release all relevant records and the President should be commended for establishing a Human Radiation Interagency Working group and an independent Advisory Committee on Human Radiation Experiments; (3) all Federal departments and agencies should act expeditiously to locate, retrieve, and inventory all records and documents related to the experiments which should be made available to the subjects and their families; (4) the subjects who are still alive should receive appropriate followup medical care; (5) the President should consider whether compensation should be provided to such individuals or their survivors; and (6) an apology should be made by the Government to the individuals and their families.
+
+	</summary>
+</bill>

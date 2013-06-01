@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="4988" updated="2010-04-19T12:09:12-04:00">
+	<state datetime="1994-08-18">REFERRED</state>
+	<status><introduced datetime="1994-08-18"/></status>
+
+	<introduced datetime="1994-08-18"/>
+	<titles>
+		<title type="official" as="introduced">To provide for a four year demonstration project under Medicare which shall establish a preventive health care screening examination program.</title>
+	</titles>
+	<sponsor id="400334"/>
+	<cosponsors>
+		<cosponsor id="405775" joined="1994-08-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-18"><text>Sponsor introductory remarks on measure. (CR H8604-8605)</text></action>
+		<action datetime="1994-08-18"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-08-18"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-08-23"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Cancer"/>
+		<term name="Cost effectiveness"/>
+		<term name="Health policy"/>
+		<term name="Medical care"/>
+		<term name="Medical screening"/>
+		<term name="Medical tests"/>
+		<term name="Medicare"/>
+		<term name="Medicine"/>
+		<term name="Osteoporosis"/>
+		<term name="Physical examinations"/>
+		<term name="Preventive medicine"/>
+		<term name="Prostate cancer"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/18/1994--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to cover preventive health care examinations for colon and prostate cancer and osteoporosis. Directs the Secretary of Health and Human Services to establish a demonstration project to test the cost-effectiveness of furnishing colon, prostate, and uterine cancer preventive screening examinations to a sample group of Medicare beneficiaries.
+
+	</summary>
+</bill>

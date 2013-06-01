@@ -1,0 +1,59 @@
+<bill session="103" type="s" number="1789" updated="2012-07-17T05:10:27-04:00">
+	<state datetime="1994-03-17">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-03-17" /></status>
+
+	<introduced datetime="1994-01-25"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title 23, United States Code, to permit the use of funds under the highway bridge replacement and rehabilitation program for seismic retrofit of bridges, and for other purposes.</title>
+	</titles>
+	<sponsor id="300011"/>
+	<cosponsors>
+		<cosponsor id="400559" joined="1994-02-04"/>
+		<cosponsor id="300076" joined="1994-02-04"/>
+		<cosponsor id="300043" joined="1994-01-25"/>
+		<cosponsor id="405212" joined="1994-01-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-01-25" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar datetime="1994-01-27"  state="REPORTED"><committee name="Committee on Environment and Public Works"/><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-02-04"><text>Committee on Environment and Public Works. Reported to Senate by Senator Baucus without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="361" datetime="1994-02-04" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 361.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-02-07" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S1091"/></vote>
+		<action datetime="1994-02-08"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-02-08T14:04:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-02-08T15:54:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-03-02T14:55:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H918-919"/></action>
+		<action datetime="1994-03-02T14:55:00-05:00"><text>Mr. Rahall asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<vote how="without objection" type="vote2" datetime="1994-03-02T14:59:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-03-02T14:59:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-03-02" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-03-08" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-03-17" ><text>Signed by President.</text></signed>
+		<enacted number="103-220" type="public" datetime="1994-03-17"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-220.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1435" />
+	</relatedbills>
+	<subjects>
+		<term name="Roads and highways"/>
+		<term name="Bridges"/>
+		<term name="Earthquakes"/>
+		<term name="Economics and public finance"/>
+		<term name="Emergency management"/>
+		<term name="Federal aid highway program"/>
+		<term name="Highway engineering"/>
+		<term name="Seismology"/>
+		<term name="Transportation and public works"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/25/1994--Introduced.
+Amends Federal highway law to authorize States to carry out projects for seismic retrofit of bridges without regard to whether such bridges are eligible for replacement or rehabilitation under the highway bridge replacement and rehabilitation program.
+
+	</summary>
+</bill>

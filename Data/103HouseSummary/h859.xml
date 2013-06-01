@@ -1,0 +1,69 @@
+<bill session="103" type="h" number="859" updated="2010-04-19T01:19:12-04:00">
+	<state datetime="1993-02-04">REFERRED</state>
+	<status><introduced datetime="1993-02-04"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">To exclude shipboard supervisory personnel from selection as employer representatives, and for other purposes.</title>
+	</titles>
+	<sponsor id="400312"/>
+	<cosponsors>
+		<cosponsor id="404503" joined="1994-02-02"/>
+		<cosponsor id="400289" joined="1994-02-02"/>
+		<cosponsor id="400160" joined="1993-09-08"/>
+		<cosponsor id="400532" joined="1993-09-08"/>
+		<cosponsor id="400542" joined="1993-09-08"/>
+		<cosponsor id="400380" joined="1993-09-08"/>
+		<cosponsor id="400122" joined="1993-09-08"/>
+		<cosponsor id="400333" joined="1994-02-02"/>
+		<cosponsor id="407351" joined="1993-09-08"/>
+		<cosponsor id="400306" joined="1993-09-08"/>
+		<cosponsor id="400409" joined="1993-09-08"/>
+		<cosponsor id="300081" joined="1994-02-02"/>
+		<cosponsor id="400216" joined="1993-09-08"/>
+		<cosponsor id="400402" joined="1994-02-02"/>
+		<cosponsor id="400331" joined="1994-02-02"/>
+		<cosponsor id="403364" joined="1993-09-08"/>
+		<cosponsor id="400008" joined="1993-09-08"/>
+		<cosponsor id="407672" joined="1993-09-08"/>
+		<cosponsor id="401153" joined="1994-02-02"/>
+		<cosponsor id="400614" joined="1994-02-02"/>
+		<cosponsor id="400107" joined="1994-02-02"/>
+		<cosponsor id="400201" joined="1994-02-02"/>
+		<cosponsor id="400391" joined="1994-02-02"/>
+		<cosponsor id="400554" joined="1994-02-02"/>
+		<cosponsor id="400357" joined="1993-09-08"/>
+		<cosponsor id="400310" joined="1994-02-02"/>
+		<cosponsor id="407044" joined="1993-09-08"/>
+		<cosponsor id="400314" joined="1994-02-02"/>
+		<cosponsor id="400243" joined="1994-02-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1851" />
+	</relatedbills>
+	<subjects>
+		<term name="Labor"/>
+		<term name="Labor unions"/>
+		<term name="Merchant seamen"/>
+		<term name="Picketing"/>
+		<term name="Supervisors"/>
+		<term name="Transportation"/>
+		<term name="Unfair labor practices"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Amends the National Labor Relations Act to exclude shipboard supervisory personnel from selection as employer representatives, if such personnel are licensed by the U.S. Coast Guard and represented by a labor organization. Provides that picketing or other economic activity undertaken by a labor organization on behalf of such licensed shipboard supervisory personnel shall not be considered a prohibited restraint or coercion.
+
+	</summary>
+</bill>

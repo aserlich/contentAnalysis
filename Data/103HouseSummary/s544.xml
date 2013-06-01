@@ -1,0 +1,57 @@
+<bill session="103" type="s" number="544" updated="2012-07-17T06:01:53-04:00">
+	<state datetime="1994-07-22">REPORTED</state>
+	<status><calendar datetime="1994-07-22" /></status>
+
+	<introduced datetime="1993-03-10"/>
+	<titles>
+		<title type="short" as="introduced">Multistate Utility Company Consumer Protection Act of 1993</title>
+		<title type="short" as="reported to senate">Multistate Utility Consumer Protection Act of 1994</title>
+		<title type="official" as="introduced">A bill to amend the Federal Power Act to protect consumers of multistate utility systems, and for other purposes.</title>
+	</titles>
+	<sponsor id="402004"/>
+	<cosponsors>
+		<cosponsor id="407663" joined="1993-05-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-10" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2640)</text></action>
+		<action datetime="1993-03-10" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-05-25"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 103-234.</text></action>
+		<action datetime="1993-06-09"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of Energy, OMB.</text></action>
+		<action datetime="1994-07-21"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Committee consideration and Mark Up Session held.</text></action>
+		<calendar datetime="1994-07-22"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-08-22"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment in the nature of a substitute. With written report No. 103-351. Additional views filed.</text></action>
+		<calendar under="General Orders" number="592" datetime="1994-08-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 592.</text></calendar>
+		<action datetime="1994-10-08"><text>Sponsor introductory remarks on measure. (CR S15065)</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public utilities"/>
+		<term name="Administrative procedure"/>
+		<term name="Coal"/>
+		<term name="Commerce"/>
+		<term name="Consumer protection"/>
+		<term name="Department of Energy"/>
+		<term name="Electric utility rates"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal preemption"/>
+		<term name="Government operations and politics"/>
+		<term name="Holding companies"/>
+		<term name="Independent regulatory commissions"/>
+		<term name="Securities and Exchange Commission"/>
+		<term name="State laws"/>
+	</subjects>
+	<amendments>
+		<amendment number="s74"/>
+	</amendments>
+	<summary>
+	8/22/1994--Reported to Senate amended. Multistate Utility Consumer Protection Act of 1994 - Amends the Federal Power Act to grant the Federal Energy Regulatory Commission (FERC) the power to review and disallow prospectively, for purposes of determining a just and reasonable rate for consumers, certain costs associated with transactions of a public utility holding company and an affiliated company pursuant to contracts regulated by the Securities and Exchange Commission (SEC). Provides that the Public Utility Holding Company Act does not preempt State utility commission jurisdiction regarding the recovery by a public utility in its retail rates of costs it incurred pursuant to a transaction authorized by the SEC between an associate company and the utility. Prescribes guidelines for the allocation of costs by the SEC, FERC, and State utility commissions in cross-jurisdictional transactions. Declares that this Act does not: (1) affect Docket No. FA89-28; and (2) apply to costs incurred or recovered pursuant to certain contracts for the sale of fuel from Windsor Coal Company or Central Ohio Coal Company.
+
+	</summary>
+</bill>

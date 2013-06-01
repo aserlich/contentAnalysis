@@ -1,0 +1,38 @@
+<bill session="103" type="s" number="2179" updated="2012-07-17T05:53:28-04:00">
+	<state datetime="1994-06-14">REFERRED</state>
+	<status><introduced datetime="1994-06-14"/></status>
+
+	<introduced datetime="1994-06-14"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Revenue Act of 1987 to provide a permanent extension of the transition rule for certain publicly traded partnerships.</title>
+	</titles>
+	<sponsor id="408420"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="1994-06-14"/>
+		<cosponsor id="300005" joined="1994-06-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-14" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3619" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Commerce"/>
+		<term name="Corporation taxes"/>
+		<term name="Partnerships"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/14/1994--Introduced.
+Amends the Revenue Act of 1987 to provide a permanent extension of the rule for the treatment of certain publicly traded partnerships as corporations.
+
+	</summary>
+</bill>

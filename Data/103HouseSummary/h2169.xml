@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="2169" updated="2010-04-19T04:50:13-04:00">
+	<state datetime="1993-05-19">REFERRED</state>
+	<status><introduced datetime="1993-05-19"/></status>
+
+	<introduced datetime="1993-05-19"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to require that foods derived from plant varieties developed by methods of genetic modification be labeled to identify their derivation.</title>
+	</titles>
+	<sponsor id="400223"/>
+	<cosponsors>
+		<cosponsor id="400553" joined="1994-03-24"/>
+		<cosponsor id="408109" joined="1993-11-04"/>
+		<cosponsor id="400502" joined="1993-11-19"/>
+		<cosponsor id="404375" joined="1993-11-19"/>
+		<cosponsor id="400243" joined="1993-11-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-19"><text>Sponsor introductory remarks on measure. (CR E1294)</text></action>
+		<action datetime="1993-05-19"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-06-22"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Food"/>
+		<term name="Food adulteration and inspection"/>
+		<term name="Genetic engineering"/>
+		<term name="Labeling"/>
+		<term name="Plant genetics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/19/1993--Introduced.
+Amends the Federal Food, Drug, and Cosmetic Act to deem a food misbranded if it is derived from a plant developed by genetic modification unless it is so labeled.
+
+	</summary>
+</bill>

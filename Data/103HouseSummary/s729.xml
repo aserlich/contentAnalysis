@@ -1,0 +1,156 @@
+<bill session="103" type="s" number="729" updated="2012-07-17T05:46:11-04:00">
+	<state datetime="1994-05-25">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-05-25" where="s" result="pass" how="roll" roll="133"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="short" as="introduced">Lead Exposure Reduction Act of 1993</title>
+		<title type="short" as="reported to senate">Lead Exposure Reduction Act of 1993</title>
+		<title type="short" as="passed senate">Lead Exposure Reduction Act of 1994</title>
+		<title type="official" as="introduced">A bill to amend the Toxic Substances Control Act to reduce the levels of lead in the environment, and for other purposes.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="300059" joined="1993-04-01"/>
+		<cosponsor id="400557" joined="1993-04-01"/>
+		<cosponsor id="300067" joined="1993-04-01"/>
+		<cosponsor id="405212" joined="1993-04-02"/>
+		<cosponsor id="401709" joined="1993-04-01"/>
+		<cosponsor id="300011" joined="1993-04-05"/>
+		<cosponsor id="409917" joined="1993-04-01"/>
+		<cosponsor id="300051" joined="1993-04-01"/>
+		<cosponsor id="300057" joined="1993-04-01"/>
+		<cosponsor id="408597" joined="1993-04-01"/>
+		<cosponsor id="300086" joined="1993-04-01"/>
+		<cosponsor id="300034" joined="1994-04-13"/>
+		<cosponsor id="411818" joined="1993-04-01"/>
+		<cosponsor id="404598" joined="1993-05-04"/>
+		<cosponsor id="400566" joined="1993-04-01"/>
+		<cosponsor id="407992" joined="1993-04-01"/>
+		<cosponsor id="300064" joined="1993-04-01"/>
+		<cosponsor id="400563" joined="1993-04-01"/>
+		<cosponsor id="300065" joined="1993-04-01"/>
+		<cosponsor id="300073" joined="1993-04-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4301-4303)</text></action>
+		<action datetime="1993-04-01" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<action datetime="1993-06-29"><committee name="Committee on Environment and Public Works"/><text>Subcommittee on Toxic Substances and Research. Hearings held. Hearings printed: S.Hrg. 103-181.</text></action>
+		<calendar datetime="1993-07-30"  state="REPORTED"><text>Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1993-10-04"><text>Committee on Environment and Public Works. Reported to Senate by Senator Baucus with an amendment in the nature of a substitute. With written report No. 103-152.</text></action>
+		<calendar under="General Orders" number="220" datetime="1993-10-04" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 220.</text></calendar>
+		<action datetime="1994-05-24"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S6252-6282"/></action>
+		<action datetime="1994-05-24"><text>The committee substitute as amended agreed to by Voice Vote.</text></action>
+		<vote how="roll" type="vote" roll="133" datetime="1994-05-25" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Yea-Nay Vote. 97-1. Record Vote No: 133.</text><reference label="consideration" ref="CR S6330-6344"/></vote>
+		<action datetime="1994-05-26T11:02:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-05-26"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-05-26T17:48:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-07-22T11:11:00-04:00"><text>Pursuant to the provisions of H. Res. 486, papers are returned to the Senate.</text></action>
+		<action datetime="1994-07-22"><text>Returned to Senate pursuant to the provisions of H.Res. 486.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Environment and Public Works" subcommittee="Toxic Substances, Research and Development" activity="Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hr" number="486" />
+		<bill relation="unknown" session="103" type="hr" number="486" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Administrative procedure"/>
+		<term name="Agriculture and food"/>
+		<term name="Animals"/>
+		<term name="Beverage containers"/>
+		<term name="Birds"/>
+		<term name="Canning and preserving"/>
+		<term name="Ceramics"/>
+		<term name="Child health"/>
+		<term name="Commerce"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Consumer education"/>
+		<term name="Container industry"/>
+		<term name="Corrosion"/>
+		<term name="Day care"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Educational facilities"/>
+		<term name="Educational policy"/>
+		<term name="Electric batteries"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Environmental Protection Agency"/>
+		<term name="Executive reorganization"/>
+		<term name="Families"/>
+		<term name="Federal aid to day care centers"/>
+		<term name="Federal aid to education"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Fishing"/>
+		<term name="Food adulteration and inspection"/>
+		<term name="Food contamination"/>
+		<term name="Food safety"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Glass and glass industry"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Grants-in-aid"/>
+		<term name="Hazardous waste disposal"/>
+		<term name="Health"/>
+		<term name="Health education"/>
+		<term name="Higher education"/>
+		<term name="Import restrictions"/>
+		<term name="Incineration"/>
+		<term name="Industrial standards"/>
+		<term name="Inventories"/>
+		<term name="Labeling"/>
+		<term name="Laboratories"/>
+		<term name="Landfills"/>
+		<term name="Lead"/>
+		<term name="Lead poisoning"/>
+		<term name="Maintenance and repair"/>
+		<term name="Manganese"/>
+		<term name="Manufacturing industries"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Medical laboratories"/>
+		<term name="Medical research"/>
+		<term name="Medical screening"/>
+		<term name="Medical tests"/>
+		<term name="Mercury"/>
+		<term name="Metals"/>
+		<term name="Mineral industries"/>
+		<term name="Mines and mineral resources"/>
+		<term name="Motor vehicles"/>
+		<term name="Oil pollution"/>
+		<term name="Packaging"/>
+		<term name="Paints and varnishes"/>
+		<term name="Pesticides"/>
+		<term name="Petroleum"/>
+		<term name="Potable water"/>
+		<term name="Preventive medicine"/>
+		<term name="Printing"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Recycling of waste products"/>
+		<term name="Research centers"/>
+		<term name="Schools"/>
+		<term name="Science, technology, communications"/>
+		<term name="Soil pollution"/>
+		<term name="Standards"/>
+		<term name="Toys"/>
+		<term name="Transportation and public works"/>
+		<term name="Water resources development"/>
+		<term name="Water supply"/>
+		<term name="Wildlife conservation"/>
+		<term name="Wine"/>
+		<term name="Zinc"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1744"/>
+	</amendments>
+	<summary>
+	5/25/1994--Passed Senate amended. TABLE OF CONTENTS: Title I: Lead Abatement Title II: Miscellaneous Title III: Authorization of Appropriations Lead Exposure Reduction Act of 1994 - Title I: Lead Abatement - Amends the Toxic Substances Control Act to prohibit the importing, manufacturing, processing, or distribution in commerce of certain products containing more than a specified percentage of lead. (Sec. 103) Directs the Administrator to: (1) ban the manufacture, importation, processing, sale, and distribution in commerce of lead solders commonly used in plumbing systems; and (2) restrict the sale and display of lead solders capable of being used in such systems. Directs the Administrator, if a voluntary standard for the leaching of lead from new plumbing fittings and fixtures that are intended to dispense water for human ingestion is not established within one year of this Act's enactment, to promulgate regulations setting a health-effects-based performance standard establishing maximum leaching levels. Bans the importation, manufacture, processing, or distribution of fittings or fixtures containing more than four percent lead by dry weight if such regulations have not been promulgated within five years of this Act's enactment. Prohibits the sale or distribution in commerce of packaging or products if they include any additive to which lead has been intentionally introduced. Exempts certain products from lead content requirements, including products used for medical purposes, radiation protection or shielding, or in the mining industry to determine the presence of noble metals. (Sec. 104) Requires the Administrator to promulgate a list of lead-containing products that may present a health or environmental risk, specify the maximum concentration of lead found in such products, and promulgate labeling requirements. (Sec. 106) Prohibits: (1) placing in a landfill or incinerating lead-acid batteries; and (2) the disposal of such batteries other than by recycling in accordance with this Act. Requires used batteries to be delivered to specified entities and establishes battery acceptance requirements. Makes it unlawful to sell a battery that does not bear a label setting forth lead content and recycling information. Prohibits any person from selling to an end user for use in the United States a regulated battery or rechargeable consumer product manufactured on or after one year after this Act's enactment date unless: (1) the battery is easily removable from the product, is contained in a battery pack that is easily removable, or is sold separately; and (2) the rechargeable consumer product and the battery are labeled in accordance with this Act. Sets forth labeling requirements, including that the label contain a statement that the battery must be recycled or disposed of properly. Requires retail establishments that sell such batteries or products to post notices informing consumers that regulated batteries must be recycled or disposed of properly. Authorizes the Administrator, upon determining that other rechargeable batteries having electrode chemistries different from regulated batteries are toxic and may cause substantial harm if discarded for land disposal or incineration, to promulgate: (1) labeling requirements for such batteries and related products; and (2) easily-removable design requirements for rechargeable consumer products designed to contain such batteries or battery packs. Provides for exemptions from rechargeable battery requirements under certain conditions. Prohibits the sale or offering for sale or promotional purposes of: (1) alkaline-manganese batteries manufactured on or after January 1, 1996, with a mercury content that was intentionally introduced (limits the content in alkaline-manganese button cells to 25 milligrams of mercury per button cell); (2) zinc carbon batteries manufactured on or afer January 1, 1995, that contain mercury that was intentionally introduced; (3) button cell mercuric-oxide batteries on or after such date; and (4) any mercuric-oxide battery on or after January 1, 1997. Sets forth enforcement provisions. Authorizes appropriations. (Sec. 107) Directs the Administrator to require States receiving grants for lead inspections at covered schools and day care facilities to conduct inspections to detect lead-based paint and dust which contains a dangerous level of lead. Requires school or day care personnel and parents of children attending facilities where lead is present to be given risk disclosure information. Establishes requirements for renovations of such facilities. Requires the Administrator to make grants to States for inspecting such facilities. Authorizes appropriations. (Sec. 108) Directs the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control, to establish protocols, criteria, and minimum performance standards for laboratory analysis of lead in blood and a program to certify blood analysis laboratories. Requires the Administrator to appoint a Coordinator for Lead Activities. (Sec. 109) Directs the Administrator to award grants to institutions of higher education for establishing Centers for the Prevention of Lead Poisoning. Title II: Miscellaneous - Amends the Federal Food, Drug, and Cosmetic Act to deem a food to be adulterated if the packaging used for such food contains lead that has been intentionally introduced or if the incidental presence of lead exceeds specified percentages. (Sec. 203) Requires the Secretary to establish standards and testing procedures with respect to lead in ceramic and crystal wares as necessary to make food that contacts such wares unadulterated. Directs the Secretary to promulgate regulations to: (1) reduce lead in processed food; and (2) establish tolerance levels and testing procedures for lead in wine. Prohibits the introduction or delivery into interstate commerce of ceramic or crystal ware or processed food that is not in compliance with lead regulations. (Sec. 205) Expresses the sense of the Senate that the Administrator should finalize no rule or regulation that requires a nationwide prohibition of the manufacture, sale, or use of fishing sinkers, jigs, or lures containing lead, brass, or zinc until the Administrator gives priority consideration to alternative means of reducing the risk to waterfowl from lead fishing sinkers. Title III: Authorization of Appropriations - Authorizes appropriations.
+
+	</summary>
+</bill>

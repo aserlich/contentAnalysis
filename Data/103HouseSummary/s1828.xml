@@ -1,0 +1,48 @@
+<bill session="103" type="s" number="1828" updated="2012-07-17T05:33:37-04:00">
+	<state datetime="1994-02-04">REFERRED</state>
+	<status><introduced datetime="1994-02-04"/></status>
+
+	<introduced datetime="1994-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Papaya Disaster Assistance Act of 1994</title>
+		<title type="official" as="introduced">A bill to provide that producers are eligible to receive disaster payments for the 1993, 1994, and 1995 crops of papaya that would have been harvested if the plants had not been destroyed, and for other purposes.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="1994-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-04" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1994-02-25"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Agricultural Production.</text></action>
+		<action datetime="1994-02-25"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Agricultural Research.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Agricultural Production and Stabilization of Prices" activity="Referral" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Agricultural Research, Conservation, Forestry and General Legislation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Agricultural economics"/>
+		<term name="Disaster relief"/>
+		<term name="Emergency management"/>
+		<term name="Florida"/>
+		<term name="Fruit and fruit trade"/>
+		<term name="Guam"/>
+		<term name="Hawaii"/>
+		<term name="Hurricanes"/>
+		<term name="Louisiana"/>
+		<term name="Storms"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1994--Introduced.
+Papaya Disaster Assistance Act of 1994 - Amends the Supplemental Appropriations Act of 1993 to make specified papaya producers eligible for disaster assistance.
+
+	</summary>
+</bill>

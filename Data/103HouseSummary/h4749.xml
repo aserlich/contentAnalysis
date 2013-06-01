@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="4749" updated="2010-04-19T11:31:54-04:00">
+	<state datetime="1994-07-13">REFERRED</state>
+	<status><introduced datetime="1994-07-13"/></status>
+
+	<introduced datetime="1994-07-13"/>
+	<titles>
+		<title type="official" as="introduced">To provide for adjustment of status of certain Nicaraguans.</title>
+	</titles>
+	<sponsor id="400344"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1994-08-16"/>
+		<cosponsor id="400107" joined="1994-07-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-13"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-07-28"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Aliens"/>
+		<term name="Latin America"/>
+		<term name="Nicaragua"/>
+		<term name="Nicaraguans"/>
+		<term name="Visas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/13/1994--Introduced.
+Authorizes the adjustment of status to permanent resident of certain Nicaraguans.
+
+	</summary>
+</bill>

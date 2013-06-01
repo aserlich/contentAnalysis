@@ -1,0 +1,38 @@
+<bill session="103" type="sc" number="3" updated="2010-04-19T21:11:31-04:00">
+	<state datetime="1993-01-05T17:53:00-05:00">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1993-01-05T17:53:00-05:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution providing for a recess or adjournment of the Senate from January 6 or 7, 1993 to January 20, 1993, and an adjournment of the House from January 6, 1993 to January 20, 1993.</title>
+	</titles>
+	<sponsor id="407786"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-01-05" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text><reference label="consideration" ref="CR S11"/></vote>
+		<action datetime="1993-01-05T15:20:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-01-05T17:52:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H54-55"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-01-05T17:53:00-05:00" where="h" result="pass"  state="PASSED:CONCURRENTRES"><text>On agreeing to the resolution Agreed to without objection.</text></vote>
+		<action datetime="1993-01-05T17:53:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional sessions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Provides for a recess or adjournment of the Senate from January 6 or 7, 1993, until January 20, 1993, and an adjournment of the House of Representatives from January 6, 1993, until January 20, 1993.
+
+	</summary>
+</bill>

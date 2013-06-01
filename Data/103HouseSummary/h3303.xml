@@ -1,0 +1,66 @@
+<bill session="103" type="h" number="3303" updated="2010-04-19T07:45:47-04:00">
+	<state datetime="1993-10-19">REFERRED</state>
+	<status><introduced datetime="1993-10-19"/></status>
+
+	<introduced datetime="1993-10-19"/>
+	<titles>
+		<title type="short" as="introduced">American Shipyard Worker Protection Act</title>
+		<title type="official" as="introduced">To amend title 10, United States Code, to prohibit the Department of the Navy from contracting for long-term scheduled ship maintenance work to be performed outside the United States unless a certification is made to Congress.</title>
+	</titles>
+	<sponsor id="400008"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-11-08"/>
+		<cosponsor id="400420" joined="1993-11-08"/>
+		<cosponsor id="400289" joined="1994-01-25"/>
+		<cosponsor id="400160" joined="1993-11-08"/>
+		<cosponsor id="405775" joined="1993-11-08"/>
+		<cosponsor id="400380" joined="1994-01-25"/>
+		<cosponsor id="411040" joined="1993-11-08"/>
+		<cosponsor id="406420" joined="1994-01-25"/>
+		<cosponsor id="406482" joined="1994-01-25"/>
+		<cosponsor id="404978" joined="1993-11-08"/>
+		<cosponsor id="400399" joined="1993-11-08"/>
+		<cosponsor id="400436" joined="1993-11-08"/>
+		<cosponsor id="400572" joined="1993-11-08"/>
+		<cosponsor id="408476" joined="1994-04-21"/>
+		<cosponsor id="410407" joined="1994-04-21"/>
+		<cosponsor id="400278" joined="1993-11-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-19"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Readiness.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from Navy.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-03" name="House Armed Services" subcommittee="Readiness" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Buy American"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Defense contracts"/>
+		<term name="Defense economics"/>
+		<term name="Foreign trade"/>
+		<term name="Government service contracts"/>
+		<term name="Labor"/>
+		<term name="Maintenance and repair"/>
+		<term name="Naval procurement"/>
+		<term name="Public contracts"/>
+		<term name="Shipbuilding"/>
+		<term name="Trade"/>
+		<term name="Warships"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/19/1993--Introduced.
+American Shipyard Worker Protection Act - Prohibits the Secretary of the Navy from contracting with a shipyard outside the United States for long-term scheduled maintenance work on a naval vessel unless the Secretary of Defense certifies to the appropriate congressional committees in advance that there is a compelling economic reason for doing so.
+
+	</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="848" updated="2010-04-19T01:17:17-04:00">
+	<state datetime="1993-08-05">REPORTED</state>
+	<status><calendar datetime="1993-08-05" /></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">To continue the authorization of appropriations for the East Court of the National Museum of Natural History.</title>
+	</titles>
+	<sponsor id="407772"/>
+	<cosponsors>
+		<cosponsor id="407400" joined="1993-02-04"/>
+		<cosponsor id="408103" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-02-17"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Libraries and Memorials.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Public Buildings and Grounds.</text></action>
+		<action datetime="1993-07-22"><committee name="House Committee on House Administration" subcommittee="Libraries and Memorials"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-07-22"><committee name="House Committee on House Administration" subcommittee="Libraries and Memorials"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on House Administration"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-08-05"  state="REPORTED"><committee name="House Committee on House Administration"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-08-05"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>For Further Action See S.779.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, Markup, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Libraries and Memorials" activity="Referral, Markup, Reporting" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Public Buildings and Grounds" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="779" />
+		<bill relation="unknown" session="103" type="s" number="779" />
+	</relatedbills>
+	<subjects>
+		<term name="Culture"/>
+		<term name="Authorization"/>
+		<term name="District of Columbia"/>
+		<term name="Museums"/>
+		<term name="Smithsonian Institution"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Amends Federal law which authorizes the Board of Regents of the Smithsonian Institution to plan, design, construct, and equip space in the East Court of the National Museum of Natural History to provide that the appropriation authorized for such purpose is to continue for fiscal years after FY 1991.
+
+	</summary>
+</bill>

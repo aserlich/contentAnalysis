@@ -1,0 +1,51 @@
+<bill session="103" type="s" number="2298" updated="2012-07-17T04:50:02-04:00">
+	<state datetime="1994-07-19">REFERRED</state>
+	<status><introduced datetime="1994-07-19"/></status>
+
+	<introduced datetime="1994-07-19"/>
+	<titles>
+		<title type="short" as="introduced">Farm Credit System Agricultural Export and Risk Management Act</title>
+		<title type="official" as="introduced">A bill to amend the Farm Credit Act of 1971 to enhance the ability of the banks for cooperatives to finance agricultural exports, and for other purposes.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="300070" joined="1994-07-19"/>
+		<cosponsor id="300026" joined="1994-07-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-19" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S9250)</text></action>
+		<action datetime="1994-07-19" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1994-07-29"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Agricultural Credit.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Agricultural Credit" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Agricultural cooperatives"/>
+		<term name="Agricultural credit"/>
+		<term name="Agricultural economics"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Bank capital"/>
+		<term name="Bank loans"/>
+		<term name="Commerce"/>
+		<term name="Export credit"/>
+		<term name="Export finance"/>
+		<term name="Finance and financial sector"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Location of industries"/>
+		<term name="Risk management"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/19/1994--Introduced.
+Farm Credit System Agricultural Export and Risk Management Act - Amends the Farm Credit Act of 1971 to permit banks for cooperatives to participate in agricultural export financing arrangements with domestic or foreign businesses. Prohibits the financing of a U.S. facility's foreign relocation. Authorizes a Farm Credit Bank or direct lender association to participate in loans to similar but non-Farm Credit System entities for risk management purposes.
+
+	</summary>
+</bill>

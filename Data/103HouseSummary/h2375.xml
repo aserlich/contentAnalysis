@@ -1,0 +1,85 @@
+<bill session="103" type="h" number="2375" updated="2010-04-19T05:21:57-04:00">
+	<state datetime="1993-06-10">REFERRED</state>
+	<status><introduced datetime="1993-06-10"/></status>
+
+	<introduced datetime="1993-06-10"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to extend for ten years the authority for the Secretary of Veterans Affairs to provide priority health care to veterans who were exposed to ionizing radiation or to Agent Orange.</title>
+	</titles>
+	<sponsor id="400126"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-07-29"/>
+		<cosponsor id="400133" joined="1993-06-17"/>
+		<cosponsor id="400128" joined="1993-09-08"/>
+		<cosponsor id="400219" joined="1993-09-08"/>
+		<cosponsor id="411677" joined="1993-11-10"/>
+		<cosponsor id="404083" joined="1994-08-04"/>
+		<cosponsor id="400183" joined="1993-11-10"/>
+		<cosponsor id="405775" joined="1993-11-10"/>
+		<cosponsor id="400295" joined="1993-07-29"/>
+		<cosponsor id="411040" joined="1993-07-29"/>
+		<cosponsor id="400885" joined="1993-09-08"/>
+		<cosponsor id="402750" joined="1993-09-08"/>
+		<cosponsor id="400527" joined="1993-06-10"/>
+		<cosponsor id="409205" joined="1994-06-08"/>
+		<cosponsor id="400143" joined="1993-11-10"/>
+		<cosponsor id="400030" joined="1993-09-08"/>
+		<cosponsor id="400010" joined="1993-10-26"/>
+		<cosponsor id="406482" joined="1993-06-14"/>
+		<cosponsor id="406277" joined="1993-06-10"/>
+		<cosponsor id="403364" joined="1994-09-19"/>
+		<cosponsor id="400001" joined="1993-06-10"/>
+		<cosponsor id="400436" joined="1993-11-10"/>
+		<cosponsor id="409650" joined="1993-06-14"/>
+		<cosponsor id="400422" joined="1993-06-10"/>
+		<cosponsor id="400251" joined="1993-10-26"/>
+		<cosponsor id="300091" joined="1993-10-26"/>
+		<cosponsor id="405524" joined="1993-10-26"/>
+		<cosponsor id="400615" joined="1993-11-19"/>
+		<cosponsor id="404190" joined="1993-07-01"/>
+		<cosponsor id="400291" joined="1993-09-08"/>
+		<cosponsor id="400043" joined="1993-10-26"/>
+		<cosponsor id="409966" joined="1993-07-20"/>
+		<cosponsor id="400357" joined="1994-02-02"/>
+		<cosponsor id="400301" joined="1993-09-08"/>
+		<cosponsor id="400163" joined="1993-06-10"/>
+		<cosponsor id="400516" joined="1993-11-10"/>
+		<cosponsor id="400314" joined="1993-10-26"/>
+		<cosponsor id="403776" joined="1993-06-10"/>
+		<cosponsor id="400243" joined="1993-10-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-10"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-06-21"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Hospitals and Health Care.</text></action>
+		<action datetime="1993-09-22"><committee name="House Committee on Veterans' Affairs" subcommittee="Hospitals and Health Care"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="HSVR-03" name="House Veterans' Affairs" subcommittee="Hospitals and Health Care" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1094" />
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Agent Orange"/>
+		<term name="Atomic bomb"/>
+		<term name="Dioxins"/>
+		<term name="Herbicides"/>
+		<term name="Ionizing radiation"/>
+		<term name="Japan"/>
+		<term name="Medical care"/>
+		<term name="Nuclear weapons"/>
+		<term name="Veterans' medical care"/>
+		<term name="Vietnam veterans"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/10/1993--Introduced.
+Extends through December 31, 2003, the authority of the Secretary of Veterans Affairs to provide priority health care to veterans who were exposed to Agent Orange or ionizing radiation during military service.
+
+	</summary>
+</bill>

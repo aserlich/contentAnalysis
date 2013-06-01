@@ -1,0 +1,62 @@
+<bill session="103" type="h" number="4064" updated="2010-04-19T09:44:29-04:00">
+	<state datetime="1994-03-17">REFERRED</state>
+	<status><introduced datetime="1994-03-17"/></status>
+
+	<introduced datetime="1994-03-17"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Job Training Partnership Act to provide counseling and guidance relating to postsecondary education options for dislocated workers.</title>
+	</titles>
+	<sponsor id="406082"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="1994-03-24"/>
+		<cosponsor id="400160" joined="1994-03-17"/>
+		<cosponsor id="408052" joined="1994-03-17"/>
+		<cosponsor id="411040" joined="1994-03-17"/>
+		<cosponsor id="400585" joined="1994-05-19"/>
+		<cosponsor id="400143" joined="1994-03-24"/>
+		<cosponsor id="400082" joined="1994-03-24"/>
+		<cosponsor id="400057" joined="1994-03-24"/>
+		<cosponsor id="400436" joined="1994-03-17"/>
+		<cosponsor id="400178" joined="1994-04-28"/>
+		<cosponsor id="400615" joined="1994-04-14"/>
+		<cosponsor id="400595" joined="1994-03-17"/>
+		<cosponsor id="400291" joined="1994-03-24"/>
+		<cosponsor id="400163" joined="1994-04-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-17"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1994-11-14"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Postsecondary Education and Training.</text></action>
+		<action datetime="1994-11-14"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Postsecondary Education and Training" activity="Referral" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Employment"/>
+		<term name="Budgets"/>
+		<term name="Dislocated workers"/>
+		<term name="Education"/>
+		<term name="Educational counseling"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Higher education"/>
+		<term name="Job training"/>
+		<term name="Labor"/>
+		<term name="Manpower training programs"/>
+		<term name="Student aid"/>
+		<term name="Student loan funds"/>
+		<term name="Vocational guidance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/17/1994--Introduced.
+Amends the Job Training Partnership Act to provide that specified funds for employment and training assistance for dislocated workers shall be used to provide counseling and guidance relating to postsecondary education options for eligible dislocated workers, including information on public and private programs of student financial assistance.
+
+	</summary>
+</bill>

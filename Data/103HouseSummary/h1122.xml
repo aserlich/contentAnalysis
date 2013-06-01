@@ -1,0 +1,67 @@
+<bill session="103" type="h" number="1122" updated="2010-04-19T02:03:16-04:00">
+	<state datetime="1993-02-24">REFERRED</state>
+	<status><introduced datetime="1993-02-24"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="official" as="introduced">To require the consolidation of agricultural research and extension activities of the Department of Agriculture.</title>
+	</titles>
+	<sponsor id="300085"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-08-03"/>
+		<cosponsor id="400242" joined="1993-04-20"/>
+		<cosponsor id="400156" joined="1993-03-29"/>
+		<cosponsor id="400113" joined="1993-02-24"/>
+		<cosponsor id="400584" joined="1993-03-29"/>
+		<cosponsor id="400322" joined="1993-03-29"/>
+		<cosponsor id="400348" joined="1993-03-29"/>
+		<cosponsor id="401547" joined="1994-10-07"/>
+		<cosponsor id="400388" joined="1994-07-20"/>
+		<cosponsor id="400370" joined="1993-06-09"/>
+		<cosponsor id="400567" joined="1993-03-29"/>
+		<cosponsor id="403545" joined="1993-03-29"/>
+		<cosponsor id="400359" joined="1993-04-20"/>
+		<cosponsor id="400225" joined="1993-11-22"/>
+		<cosponsor id="400017" joined="1994-01-26"/>
+		<cosponsor id="400551" joined="1993-03-31"/>
+		<cosponsor id="300062" joined="1993-03-31"/>
+		<cosponsor id="408553" joined="1994-01-26"/>
+		<cosponsor id="400057" joined="1994-08-01"/>
+		<cosponsor id="400343" joined="1993-03-30"/>
+		<cosponsor id="400594" joined="1994-01-26"/>
+		<cosponsor id="412001" joined="1993-02-24"/>
+		<cosponsor id="409618" joined="1993-11-22"/>
+		<cosponsor id="400251" joined="1993-11-22"/>
+		<cosponsor id="400269" joined="1993-07-14"/>
+		<cosponsor id="400601" joined="1993-04-28"/>
+		<cosponsor id="400649" joined="1993-02-24"/>
+		<cosponsor id="411997" joined="1993-03-29"/>
+		<cosponsor id="400583" joined="1993-11-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-03-01"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Department Operations and Nutrition.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Department Operations and Nutrition" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural extension work"/>
+		<term name="Agricultural research"/>
+		<term name="Department of Agriculture"/>
+		<term name="Executive reorganization"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Directs the Secretary of Agriculture to consolidate the functions and activities of the Agricultural Research Service, the Cooperative State Research Service, and the Federal Extension Service into a new Agriculture Research and Extension Service.
+
+	</summary>
+</bill>

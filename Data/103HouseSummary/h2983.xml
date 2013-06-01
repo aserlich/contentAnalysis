@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="2983" updated="2010-04-19T06:56:20-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">To make an exception to the United States embargo on trade with Cuba for the export of medicines or medical supplies, instruments, or equipment, and for other purposes.</title>
+	</titles>
+	<sponsor id="400289"/>
+	<cosponsors>
+		<cosponsor id="400140" joined="1993-10-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Economic Policy, Trade and Environment.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Western Hemisphere Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Economic Policy, Trade, and Environment" activity="Referral" />
+		<committee code="HSFA-07" name="House Foreign Affairs" subcommittee="Western Hemisphere Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Cuba"/>
+		<term name="Drugs"/>
+		<term name="Embargo"/>
+		<term name="Export controls"/>
+		<term name="Medical care"/>
+		<term name="Medical supplies"/>
+		<term name="War and emergency powers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Amends the Foreign Assistance Act of 1961 to exempt from the embargo on trade with Cuba the export of medicines or medical supplies, instruments, or equipment. Sets forth limitations on the President's authority to restrict the exportation of such medicines and supplies to Cuba.
+
+	</summary>
+</bill>

@@ -1,0 +1,97 @@
+<bill session="103" type="h" number="2815" updated="2012-07-17T04:04:52-04:00">
+	<state datetime="1994-08-26">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-08-26" /></status>
+
+	<introduced datetime="1993-07-30"/>
+	<titles>
+		<title type="short" as="introduced">Farmington Wild and Scenic River Act</title>
+		<title type="short" as="passed house">Farmington Wild and Scenic River Act</title>
+		<title type="short" as="reported to senate">Farmington Wild and Scenic River Act</title>
+		<title type="short" as="passed senate">Farmington Wild and Scenic River Act</title>
+		<title type="short" as="enacted">Farmington Wild and Scenic River Act</title>
+		<title type="official" as="introduced">To designate a portion of the Farmington River in Connecticut as a component of the National Wild and Scenic Rivers System.</title>
+	</titles>
+	<sponsor id="400205"/>
+	<cosponsors>
+		<cosponsor id="400370" joined="1993-07-30"/>
+		<cosponsor id="406284" joined="1993-07-30"/>
+		<cosponsor id="400585" joined="1993-07-30"/>
+		<cosponsor id="404296" joined="1993-07-30"/>
+		<cosponsor id="400103" joined="1993-07-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-30" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E1930)</text></action>
+		<action datetime="1993-07-30" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-09-16"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1993-10-28"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-02-10"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-02-10"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1994-03-02"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-03-02"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-03-10T19:51:00-05:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-430.</text></action>
+		<calendar number="238" datetime="1994-03-10T19:51:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 238.</text></calendar>
+		<action datetime="1994-03-15T12:54:00-05:00"><text>Mr. Vento moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-03-15T12:55:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1336-1340"/></action>
+		<action datetime="1994-03-15T12:55:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-03-15T13:06:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-03-15T13:06:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-03-16"><text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-03-17"><committee name="House Committee on Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1994-03-22"><committee name="House Committee on Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-03-25"><committee name="House Committee on Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Federal Energy Regulatory Commission, and Office of Management and Budget.</text></action>
+		<action datetime="1994-04-08"><committee name="House Committee on Natural Resources"/><text>Committee on Energy and Natural Resources received executive comment from Federal Energy Regulatory Commission.</text></action>
+		<calendar datetime="1994-05-11" ><committee name="House Committee on Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1994-05-25"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments. With written report No. 103-278.</text></action>
+		<calendar under="General Orders" number="449" datetime="1994-05-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 449.</text></calendar>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-06-16" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with amendments by Voice Vote.</text><reference label="consideration" ref="CR S7095-7096"/></vote>
+		<action datetime="1994-06-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-08-16T12:34:00-04:00"><text>Mr. Vento moved that the House suspend the rules and agree to the Senate amendments.</text></action>
+		<action datetime="1994-08-16T12:35:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="pingpong" datetime="1994-08-16T12:36:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.</text><reference label="consideration" ref="CR H8425"/></vote>
+		<topresident datetime="1994-08-16" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-08-18" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-08-26" ><text>Signed by President.</text></signed>
+		<enacted number="103-313" type="public" datetime="1994-08-26"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-313.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Wilderness areas"/>
+		<term name="Connecticut"/>
+		<term name="Dams"/>
+		<term name="Economics and public finance"/>
+		<term name="Emergency management"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Environmental protection"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Flood control"/>
+		<term name="Government operations and politics"/>
+		<term name="Hydroelectric power"/>
+		<term name="Infrastructure"/>
+		<term name="Land transfers"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Reservoirs"/>
+		<term name="Water resources development"/>
+		<term name="Water supply"/>
+		<term name="Watershed management"/>
+		<term name="Wild rivers"/>
+		<term name="Zoning and zoning law"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/16/1994--Passed Senate amended. Farmington Wild and Scenic River Act - Amends the Wild and Scenic Rivers Act (the Act) to designate a specified segment of the Farmington River in Connecticut as a component of the National Wild and Scenic River System. Requires the segment to be: (1) administered as a recreational river by the Secretary of the Interior through cooperative agreements between the Secretary and the State of Connecticut and its relevant political subdivisions; and (2) managed in accordance with the Upper Farmington River Management Plan. Deems the Plan to satisfy the requirement for a comprehensive management plan pursuant to the Act. Requires the Director of the National Park Service, or his or her designee, to represent the Secretary on the Farmington River Coordinating Committee provided for in the Plan. Requires the Secretary to offer to enter into cooperative agreements with the State of Connecticut and its relevant political subdivisions in order to provide for the long-term protection, preservation, and enhancement of the segment and to make a similar offer to the Farmington River Watershed Association. Authorizes the Secretary to: (1) enter into cooperative agreements with other parties who may be represented on the Committee; and (2) provide technical assistance, staff support, and funding to assist in implementation of the Plan. Provides that implementation of this Act through such cooperative agreements shall not constitute National Park Service administration of the segment and shall not cause the segment to be considered as being a unit of the National Park System. Requires the Plan to serve as the primary source of information regarding the flows needed to maintain instream resources and the potential compatibility between resource protection and possible water supply withdrawals. Deems the zoning ordinances adopted by specified towns and the river protection overlay districts in effect on the enactment of this Act to satisfy the standards and requirements of the Act. Authorizes appropriations.
+
+	</summary>
+</bill>

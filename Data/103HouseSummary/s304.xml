@@ -1,0 +1,41 @@
+<bill session="103" type="s" number="304" updated="2012-07-17T06:02:21-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Urban Mass Transportation Fair Share Act of 1993</title>
+		<title type="official" as="introduced">A bill to provide for the utilization of the latest available census data in certain laws related to urban mass transportation.</title>
+	</titles>
+	<sponsor id="400562"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="1993-02-04"/>
+		<cosponsor id="300154" joined="1993-04-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1198-1199)</text></action>
+		<action datetime="1993-02-03" state="REFERRED"><text>Read twice and referred to the Committee on Banking.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="756" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Block grants"/>
+		<term name="Census"/>
+		<term name="Federal aid to transportation"/>
+		<term name="Mass rapid transit"/>
+		<term name="Population statistics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Urban Mass Transportation Fair Share Act of 1993 - Amends the Urban Mass Transportation Act of 1964 to base the apportionment of Federal transportation funds for certain urban and nonurban mass transportation programs on census estimates prepared by the Department of Commerce. (Currently, the apportionment is based only on the latest available Federal census.)
+
+	</summary>
+</bill>

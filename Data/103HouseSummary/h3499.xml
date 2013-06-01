@@ -1,0 +1,88 @@
+<bill session="103" type="h" number="3499" updated="2012-07-17T04:27:27-04:00">
+	<state datetime="1994-10-31">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-31" /></status>
+
+	<introduced datetime="1993-11-10"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Defense Department Overseas Teachers Pay and Personnel Practices Act.</title>
+	</titles>
+	<sponsor id="407351"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-10" state="REFERRED"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-11-10"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-12-09"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+		<action datetime="1994-06-09"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+		<action datetime="1994-06-09"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-06-09"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1994-06-22"><committee name="House Committee on Post Office and Civil Service"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-06-22"  state="REPORTED"><committee name="House Committee on Post Office and Civil Service"/><text>Ordered to be Reported in the Nature of a Substitute.</text></calendar>
+		<action datetime="1994-07-13T16:41:00-04:00"><text>Reported (Amended) by the Committee on Post Office and Civil Service. H. Rept. 103-598, Part I.</text></action>
+		<action datetime="1994-07-19T13:14:00-04:00"><text>Ms. Norton moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-07-19T13:14:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5788-5789"/></action>
+		<action datetime="1994-07-19T13:14:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-07-19T13:20:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-07-19T13:20:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-07-21"><text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<calendar datetime="1994-09-20" ><committee name="House Committee on Post Office and Civil Service"/><text>Committee on Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-10-03"><text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn without amendment. With written report No. 103-396.</text></action>
+		<calendar under="General Orders" number="709" datetime="1994-10-03" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 709.</text></calendar>
+		<action datetime="1994-10-07"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S14681"/></action>
+		<action datetime="1994-10-07"><text>Amendment SP 2650 proposed by Senator Breaux for Senator Levin.</text></action>
+		<action datetime="1994-10-07"><text>Amendment SP 2650 agreed to in Senate by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-07" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1994-10-07"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-07T23:58:00-04:00"><text>Mr. McCloskey asked unanimous consent that the House agree to the Senate amendment.</text></action>
+		<vote how="without objection" type="pingpong" datetime="1994-10-07T23:59:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House agree to the Senate amendment Agreed to without objection.</text><reference label="consideration" ref="CR H11423"/></vote>
+		<action datetime="1994-10-07T23:59:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-10-07" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-10-21" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-31" ><text>Signed by President.</text></signed>
+		<enacted number="103-425" type="public" datetime="1994-10-31"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-425.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral, Markup, Reporting" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Americans employed in foreign countries"/>
+		<term name="Armed forces and national security"/>
+		<term name="Awards, medals, prizes"/>
+		<term name="Commemorations"/>
+		<term name="Department of Defense"/>
+		<term name="Education"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Elementary education"/>
+		<term name="Executive compensation"/>
+		<term name="Federal officials"/>
+		<term name="Fringe benefits"/>
+		<term name="Government operations and politics"/>
+		<term name="Labor and employment"/>
+		<term name="Leave of absence"/>
+		<term name="Licenses"/>
+		<term name="Military dependents"/>
+		<term name="Presidential appointments"/>
+		<term name="Presidential elections"/>
+		<term name="Salaries"/>
+		<term name="Secondary education"/>
+		<term name="Supervisors"/>
+		<term name="Teacher education"/>
+		<term name="Teachers"/>
+	</subjects>
+	<amendments>
+		<amendment number="s2650"/>
+	</amendments>
+	<summary>
+	10/7/1994--Passed Senate amended. Amends the Defense Department Overseas Teachers Pay and Personnel Practices Act to require the Director of Dependents' Education to establish for such teachers a voluntary leave transfer program. Authorizes the Director to establish a leave bank program for such teachers. Authorizes three additional days of leave for such teachers who are employed in a supervisory position or higher. Amends Federal civil service law to prohibit cash awards to: (1) certain politically appointed Federal officers for a certain period during a Presidential election year; and (2) Executive Schedule officers.
+
+	</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="103" type="hj" number="117" updated="2010-04-18T22:09:19-04:00">
+	<state datetime="1993-02-23">REFERRED</state>
+	<status><introduced datetime="1993-02-23"/></status>
+
+	<introduced datetime="1993-02-23"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to restrict the requirement of citizenship at birth by virtue of birth in the United States to persons with a legal resident mother or father.</title>
+	</titles>
+	<sponsor id="401310"/>
+	<cosponsors>
+		<cosponsor id="400023" joined="1994-08-03"/>
+		<cosponsor id="400348" joined="1993-09-23"/>
+		<cosponsor id="400323" joined="1994-03-02"/>
+		<cosponsor id="400365" joined="1993-03-16"/>
+		<cosponsor id="400192" joined="1993-03-16"/>
+		<cosponsor id="400112" joined="1993-03-30" withdrawn="1993-09-08"/>
+		<cosponsor id="405758" joined="1993-03-16"/>
+		<cosponsor id="400387" joined="1993-03-16"/>
+		<cosponsor id="406729" joined="1993-03-16"/>
+		<cosponsor id="401446" joined="1993-11-17"/>
+		<cosponsor id="400083" joined="1993-08-06"/>
+		<cosponsor id="400604" joined="1993-03-16"/>
+		<cosponsor id="405033" joined="1993-03-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Children"/>
+		<term name="Citizenship"/>
+		<term name="Constitutional amendments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1993--Introduced.
+Constitutional Amendment - Limits citizenship at birth to persons born in the United States to a mother or father who is a U.S. legal resident.
+
+	</summary>
+</bill>

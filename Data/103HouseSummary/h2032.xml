@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="2032" updated="2010-04-19T04:29:03-04:00">
+	<state datetime="1993-05-06">REFERRED</state>
+	<status><introduced datetime="1993-05-06"/></status>
+
+	<introduced datetime="1993-05-06"/>
+	<titles>
+		<title type="official" as="introduced">To recognize the organization known as the Black Veterans of America.</title>
+	</titles>
+	<sponsor id="408618"/>
+	<cosponsors>
+		<cosponsor id="400126" joined="1993-11-19"/>
+		<cosponsor id="406431" joined="1993-11-19"/>
+		<cosponsor id="400122" joined="1994-04-12"/>
+		<cosponsor id="400332" joined="1993-09-08"/>
+		<cosponsor id="400612" joined="1993-11-19"/>
+		<cosponsor id="407838" joined="1993-11-19"/>
+		<cosponsor id="400143" joined="1993-11-19"/>
+		<cosponsor id="404375" joined="1993-11-22"/>
+		<cosponsor id="408476" joined="1994-02-07"/>
+		<cosponsor id="400201" joined="1993-11-22"/>
+		<cosponsor id="400357" joined="1994-01-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-06"><text>Sponsor introductory remarks on measure. (CR E1178)</text></action>
+		<action datetime="1993-05-06"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal incorporation"/>
+		<term name="Black veterans"/>
+		<term name="Veterans' organizations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/6/1993--Introduced.
+Grants a Federal charter to Black Veterans of America (a nonprofit corporation organized under the laws of Minnesota).
+
+	</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="103" type="sj" number="201" updated="2010-04-19T21:54:57-04:00">
+	<state datetime="1994-06-09">REPORTED</state>
+	<status><calendar datetime="1994-06-09" /></status>
+
+	<introduced datetime="1994-06-22"/>
+	<titles>
+		<title type="official" as="introduced">An original bill commemorating June 22, 1994, as the 50th anniversary of the Servicemen's Readjustment Act of 1944.</title>
+	</titles>
+	<sponsor id="300084"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar datetime="1994-06-09"  state="REPORTED"><text>Committee on Veterans ordered to be reported an original measure.</text></calendar>
+		<action datetime="1994-06-22"><text>Committee on Veterans. Original measure reported to Senate by Senator Rockefeller with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="482" datetime="1994-06-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 482.</text></calendar>
+		<action datetime="1994-06-22"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S7477"/></action>
+	</actions>
+	<committees>
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Origin, Reporting, Markup" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="378" />
+		<bill relation="identical" session="103" type="sj" number="202" />
+		<bill relation="unknown" session="103" type="sj" number="202" />
+	</relatedbills>
+	<subjects>
+		<term name="Special days"/>
+		<term name="Anniversaries"/>
+		<term name="Commemorations"/>
+		<term name="Education"/>
+		<term name="Higher education"/>
+		<term name="Housing"/>
+		<term name="Job training"/>
+		<term name="Labor"/>
+		<term name="Mortgage loans"/>
+		<term name="Unemployment insurance"/>
+		<term name="Veterans"/>
+		<term name="Veterans' education"/>
+		<term name="Veterans' employment"/>
+		<term name="Veterans' loans"/>
+		<term name="Vocational guidance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/22/1994--Introduced.
+Commemorates June 22, 1994, as the 50th anniversary of the Servicemen's Readjustment Act of 1944.
+
+	</summary>
+</bill>

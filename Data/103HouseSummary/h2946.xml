@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="2946" updated="2010-04-19T06:50:37-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 5, United States Code, to provide that the mandatory-separation age for members of the Capitol Police be conformed to the mandatory-separation age for Federal law enforcement officers.</title>
+	</titles>
+	<sponsor id="400189"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-08-06"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-08-12"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congressional agencies"/>
+		<term name="Capitol (Washington, D.C.)"/>
+		<term name="Civil service pensions"/>
+		<term name="Civil service retirement"/>
+		<term name="Congress"/>
+		<term name="Congressional employees"/>
+		<term name="Criminal justice"/>
+		<term name="Government employees"/>
+		<term name="Labor"/>
+		<term name="Mandatory retirement"/>
+		<term name="Pensions"/>
+		<term name="Police"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Changes the mandatory separation age from 55 to 57 for a member of the Capitol Police who is eligible for immediate retirement.
+
+	</summary>
+</bill>

@@ -1,0 +1,75 @@
+<bill session="103" type="h" number="3226" updated="2010-04-19T07:33:54-04:00">
+	<state datetime="1993-10-06">REFERRED</state>
+	<status><introduced datetime="1993-10-06"/></status>
+
+	<introduced datetime="1993-10-06"/>
+	<titles>
+		<title type="short" as="introduced">Anti-Discrimination in Health Care Act</title>
+		<title type="official" as="introduced">To prohibit an individual or entity providing services under any Federal health program from refusing to provide services under such a program to an individual on the grounds that the individual has been a plaintiff in a medical malpractice liability action.</title>
+	</titles>
+	<sponsor id="404190"/>
+	<cosponsors>
+		<cosponsor id="403364" joined="1994-02-03"/>
+		<cosponsor id="400416" joined="1994-02-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-06"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-10-06"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-10-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-10-06"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-10-06"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-10-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-10-08"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-10-08"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1993-10-08"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-10-25"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Hospitals and Health Care.</text></action>
+		<action datetime="1993-10-26"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1993-11-15"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Native American Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="HSVR-03" name="House Veterans' Affairs" subcommittee="Hospitals and Health Care" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Actions and defenses"/>
+		<term name="Civil rights"/>
+		<term name="Defense policy"/>
+		<term name="Discrimination"/>
+		<term name="Government employees"/>
+		<term name="Government employees' health insurance"/>
+		<term name="Health policy"/>
+		<term name="Indian medical care"/>
+		<term name="Law"/>
+		<term name="Malpractice"/>
+		<term name="Medicaid"/>
+		<term name="Medicare"/>
+		<term name="Military medicine"/>
+		<term name="Minorities"/>
+		<term name="Public assistance programs"/>
+		<term name="Social security"/>
+		<term name="Veterans"/>
+		<term name="Veterans' medical care"/>
+		<term name="Welfare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/6/1993--Introduced.
+Anti-Discrimination in Health Care Act - Prohibits a service provider under Federal health programs from refusing to provide services to an individual on the grounds that such individual has been a plaintiff in a medical malpractice liability action. Excludes violators from participation in Federal health programs.
+
+	</summary>
+</bill>

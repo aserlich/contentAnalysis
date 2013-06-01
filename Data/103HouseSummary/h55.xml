@@ -1,0 +1,92 @@
+<bill session="103" type="h" number="55" updated="2010-04-18T23:08:32-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Black Bear Protection Act of 1993</title>
+		<title type="official" as="introduced">To prohibit the export of American black bear viscera, and for other purposes.</title>
+	</titles>
+	<sponsor id="401383"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-02-03"/>
+		<cosponsor id="400253" joined="1993-08-02"/>
+		<cosponsor id="400420" joined="1993-02-03"/>
+		<cosponsor id="400580" joined="1993-10-14"/>
+		<cosponsor id="411677" joined="1993-02-03"/>
+		<cosponsor id="400126" joined="1993-01-05"/>
+		<cosponsor id="400542" joined="1994-02-23"/>
+		<cosponsor id="400380" joined="1993-09-28"/>
+		<cosponsor id="400156" joined="1993-02-03"/>
+		<cosponsor id="400584" joined="1993-09-28"/>
+		<cosponsor id="407351" joined="1993-02-03"/>
+		<cosponsor id="408109" joined="1993-03-01"/>
+		<cosponsor id="401014" joined="1993-02-03"/>
+		<cosponsor id="404587" joined="1993-02-03"/>
+		<cosponsor id="400084" joined="1993-06-16"/>
+		<cosponsor id="400370" joined="1993-09-28"/>
+		<cosponsor id="400524" joined="1993-09-28"/>
+		<cosponsor id="400312" joined="1993-03-01"/>
+		<cosponsor id="409954" joined="1993-01-05"/>
+		<cosponsor id="411947" joined="1993-06-16"/>
+		<cosponsor id="400436" joined="1993-03-01"/>
+		<cosponsor id="300156" joined="1993-06-16"/>
+		<cosponsor id="409650" joined="1993-03-01"/>
+		<cosponsor id="401310" joined="1993-02-03"/>
+		<cosponsor id="400604" joined="1993-03-01"/>
+		<cosponsor id="400299" joined="1993-01-05"/>
+		<cosponsor id="400572" joined="1993-03-17"/>
+		<cosponsor id="400201" joined="1994-03-24"/>
+		<cosponsor id="400357" joined="1993-01-05"/>
+		<cosponsor id="400283" joined="1993-08-02"/>
+		<cosponsor id="407044" joined="1993-01-05"/>
+		<cosponsor id="400301" joined="1993-08-02"/>
+		<cosponsor id="407669" joined="1993-01-05"/>
+		<cosponsor id="409052" joined="1993-02-03"/>
+		<cosponsor id="406790" joined="1993-01-05"/>
+		<cosponsor id="402762" joined="1993-03-01"/>
+		<cosponsor id="400243" joined="1994-06-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-12"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-01-25"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Economic Policy, Trade and Environment.</text></action>
+		<action datetime="1993-01-25"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1993-01-25"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Commerce, Interior, Treasury, USTR.</text></action>
+		<action datetime="1993-05-05"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Received from USTR.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Economic Policy, Trade, and Environment" activity="Referral" />
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="181" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Bears"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Data banks"/>
+		<term name="Environmental protection"/>
+		<term name="Export controls"/>
+		<term name="Exports"/>
+		<term name="Imports"/>
+		<term name="Protection of animals"/>
+		<term name="Trade negotiations"/>
+		<term name="Wildlife conservation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Black Bear Protection Act of 1993 - Directs the Secretary of Commerce under the Export Administration Act of 1979 to prohibit the export of American black bear viscera. Requires the Secretary of the Interior to report to the Congress on the American black bear viscera trade. Requires the United States Trade Representative to discuss issues involving such trade with
+
+	</summary>
+</bill>

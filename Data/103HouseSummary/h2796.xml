@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="2796" updated="2010-04-19T06:27:15-04:00">
+	<state datetime="1993-07-29">REFERRED</state>
+	<status><introduced datetime="1993-07-29"/></status>
+
+	<introduced datetime="1993-07-29"/>
+	<titles>
+		<title type="official" as="introduced">Relating to the tariff treatment of certain footwear.</title>
+	</titles>
+	<sponsor id="408553"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-29"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-02"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1994-07-25"><committee name="House Committee on Ways and Means"/><text>Unfavorable Executive Comment Received from Treasury.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1305" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Shoe industry"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/29/1993--Introduced.
+Provides, upon request filed with the appropriate customs officer within one year after enactment of this Act, for the liquidation or reliquidation (refund) of duties on certain footwear that: (1) entered into the United States between December 31, 1988, and July 1, 1991; (2) would, if entered on July 1, 1991, have been classified under a specified subheading of the Harmonized Tariff Schedule of the United States; and (3) with respect to which there would have been a lesser duty if the applicable rate applied to such entry. Sets forth the applicable rates.
+
+	</summary>
+</bill>

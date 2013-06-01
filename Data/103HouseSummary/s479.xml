@@ -1,0 +1,79 @@
+<bill session="103" type="s" number="479" updated="2012-07-17T04:18:28-04:00">
+	<state datetime="1993-11-02">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-11-02" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-03-02"/>
+	<titles>
+		<title type="short" as="introduced">Small Business Incentive Act of 1993</title>
+		<title type="short" as="reported to senate">Small Business Incentive Act of 1993</title>
+		<title type="short" as="passed senate">Small Business Incentive Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend the Securities Act of 1933 and the Investment Company Act of 1940 to promote capital formation for small businesses and others through exempted offerings under the Securities Act and through investment pools that are excepted or exempted from regulation under the Investment Company Act of 1940 and through business development companies.</title>
+	</titles>
+	<sponsor id="300034"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-04-19"/>
+		<cosponsor id="409580" joined="1993-11-01"/>
+		<cosponsor id="300060" joined="1993-03-02"/>
+		<cosponsor id="300036" joined="1993-03-02"/>
+		<cosponsor id="403142" joined="1993-03-02"/>
+		<cosponsor id="400557" joined="1993-03-02"/>
+		<cosponsor id="400562" joined="1993-03-02"/>
+		<cosponsor id="300157" joined="1993-03-22"/>
+		<cosponsor id="300010" joined="1993-04-19"/>
+		<cosponsor id="400559" joined="1993-03-16"/>
+		<cosponsor id="300076" joined="1993-03-09"/>
+		<cosponsor id="409225" joined="1993-03-02"/>
+		<cosponsor id="300082" joined="1993-05-11"/>
+		<cosponsor id="300017" joined="1993-04-19"/>
+		<cosponsor id="300057" joined="1993-04-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-02" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2227-2230)</text></action>
+		<action datetime="1993-03-02" state="REFERRED"><text>Read twice and referred to the Committee on Banking.</text></action>
+		<action datetime="1993-03-04"><committee name="Committee on Banking"/><text>Subcommittee on Securities. Hearings held. Hearings printed: S.Hrg. 103-77.</text></action>
+		<action datetime="1993-09-09"><text>Committee on Banking. Hearings held. Hearings printed: S.Hrg. 103-294.</text></action>
+		<calendar datetime="1993-09-21"  state="REPORTED"><text>Committee on Banking. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1993-10-26"><text>Committee on Banking. Reported to Senate by Senator Riegle with an amendment in the nature of a substitute. With written report No. 103-166.</text></action>
+		<calendar under="General Orders" number="249" datetime="1993-10-26" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 249.</text></calendar>
+		<action datetime="1993-11-02"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S14863-14864"/></action>
+		<action datetime="1993-11-02"><text>The committee substitute agreed to by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-02" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-11-03T12:04:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-03"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-03"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-11-18"><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+		<action datetime="1994-07-26"><committee name="House Committee on Energy and Commerce"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSBK-4" name="Senate Banking, Housing, and Urban Affairs" subcommittee="Securities" activity="Hearings" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Securities"/>
+		<term name="Administrative procedure"/>
+		<term name="Capital formation"/>
+		<term name="Commerce"/>
+		<term name="Finance and financial sector"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Independent regulatory commissions"/>
+		<term name="Information disclosure (Securities law)"/>
+		<term name="Risk assessment"/>
+		<term name="Securities and Exchange Commission"/>
+		<term name="Securities regulation"/>
+		<term name="Small business"/>
+		<term name="State laws"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/2/1993--Passed Senate amended. Small Business Incentive Act of 1993 - Amends the Securities Act of 1933 to increase from $5 million to $10 million the size of small business offerings that are exempt from the registration requirements of the Act. Amends the Investment Company Act of 1940 to exclude from its definition of &quot;investment company&quot; any issuer all of whose securities are held by certain investors whom the Securities and Exchange Commission (SEC) has determined are &quot;qualified purchasers&quot; who possess such financial sophistication, net worth, and other specified factors as not to need the protections of such Act. Empowers the SEC to define such &quot;qualified purchasers.&quot; Sets forth conditions under which certain economic, business, and industrial development companies that are already subject to regulation by the State in which they are organized are exempt from the regulatory constraints of such Act. Increases to $10 million the maximum aggregate amount of proceeds that certain interstate closed-end investment companies may receive from the sale of their outstanding securities and still retain their exempt status under such Act. Expands the definition of &quot;eligible portfolio company&quot; to include any company which does not have total assets in excess of $4 million and capital and surpluses in excess of $2 million. Declares that a &quot;business development company&quot; is not required to make available significant managerial assistance with respect to any eligible portfolio company or any other company that meets certain SEC criteria. Permits a business development company to: (1) acquire the securities of an eligible portfolio company from persons other than such portfolio company itself; (2) issue multiple classes of debt without restriction; and (3) issue warrants, options, or rights to subscribe or convert to or purchase voting securities either alone or accompanied by debt or equity securities. Provides conditions under which a business development company may: (1) have a minimum asset coverage of 110 percent; and (2) issue or sell any class of senior security representing indebtedness. Requires a business development company to file with the SEC a written evaluation of the risk factors involved in investment due to the nature of the company's capital structure.
+
+	</summary>
+</bill>

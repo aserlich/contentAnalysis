@@ -1,0 +1,65 @@
+<bill session="103" type="h" number="1597" updated="2010-04-19T03:20:47-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="short" as="introduced">Line Item Veto Act</title>
+		<title type="official" as="introduced">To amend the Congressional Budget and Impoundment Control Act of 1974 to provide for the expedited consideration of certain proposed rescissions of budget authority.</title>
+	</titles>
+	<sponsor id="400599"/>
+	<cosponsors>
+		<cosponsor id="400553" joined="1993-04-01"/>
+		<cosponsor id="400099" joined="1993-04-01"/>
+		<cosponsor id="404083" joined="1993-04-01"/>
+		<cosponsor id="407465" joined="1993-04-01"/>
+		<cosponsor id="407124" joined="1993-04-01"/>
+		<cosponsor id="406420" joined="1993-04-01"/>
+		<cosponsor id="401033" joined="1993-04-01"/>
+		<cosponsor id="400323" joined="1993-04-01"/>
+		<cosponsor id="400269" joined="1993-04-01"/>
+		<cosponsor id="400193" joined="1993-04-01"/>
+		<cosponsor id="406024" joined="1993-04-01"/>
+		<cosponsor id="400163" joined="1993-04-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-04-07"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Government Operations"/><text>See H.R.1578.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1578" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Appropriations"/>
+		<term name="Congressional budget"/>
+		<term name="Congressional oversight"/>
+		<term name="Executive impoundment of appropriated funds"/>
+		<term name="Expedited congressional procedure"/>
+		<term name="House rules and procedure"/>
+		<term name="Income tax"/>
+		<term name="Item veto"/>
+		<term name="Legislation"/>
+		<term name="Legislative resolutions"/>
+		<term name="Presidential messages"/>
+		<term name="Presidential powers"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Tax expenditures"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Line Item Veto Act - Amends the Congressional Budget and Impoundment Control Act of 1974 to grant the President an additional method of rescinding budget authority. Allows the President to transmit to both Houses of the Congress, for expedited consideration, one or more special messages proposing to rescind all or part of any item of budget authority provided in an appropriation bill or the repeal of any tax expenditure in any revenue Act. Requires that such special message be transmitted not later than seven days after the President approves the appropriation bill or revenue Act and be accompanied by a draft bill or joint resolution that would, if enacted, rescind the budget authority proposed to be rescinded or repeal that tax expenditure. Sets forth House and Senate procedures for the expedited consideration of such proposals.
+
+	</summary>
+</bill>

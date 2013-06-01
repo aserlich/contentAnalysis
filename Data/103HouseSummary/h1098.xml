@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="1098" updated="2010-04-19T01:59:16-04:00">
+	<state datetime="1993-02-24">REFERRED</state>
+	<status><introduced datetime="1993-02-24"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="official" as="introduced">To extend until January 1, 1998, the existing suspension of duty on certain bicycle parts, and for other purposes.</title>
+	</titles>
+	<sponsor id="400538"/>
+	<cosponsors>
+		<cosponsor id="408839" joined="1993-02-24"/>
+		<cosponsor id="400155" joined="1993-02-24"/>
+		<cosponsor id="410529" joined="1993-02-24"/>
+		<cosponsor id="406431" joined="1993-03-11"/>
+		<cosponsor id="400180" joined="1993-02-24"/>
+		<cosponsor id="400036" joined="1993-03-04"/>
+		<cosponsor id="400116" joined="1993-02-24"/>
+		<cosponsor id="300151" joined="1993-03-11"/>
+		<cosponsor id="400325" joined="1993-07-13"/>
+		<cosponsor id="300014" joined="1993-05-10"/>
+		<cosponsor id="400223" joined="1993-05-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24"><text>Sponsor introductory remarks on measure. (CR E444)</text></action>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-04-07"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1993-10-29"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Ways and Means"/><text>See H.R.5110.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5110" />
+		<bill relation="identical" session="103" type="s" number="1043" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Bicycles"/>
+		<term name="Customs administration"/>
+		<term name="Exports"/>
+		<term name="Free ports and zones"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to extend, through December 31, 1997, the suspension of duty on certain bicycle parts and accessories. Amends the Foreign Trade Zones Act to extend, through December 31, 1997, the exemption from the customs laws for bicycle component parts that are reexported from the United States, whether or not in the original package, as components of a completely assembled bicycle.
+
+	</summary>
+</bill>

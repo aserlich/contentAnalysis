@@ -1,0 +1,40 @@
+<bill session="103" type="s" number="1234" updated="2012-07-17T06:09:59-04:00">
+	<state datetime="1993-07-15">REFERRED</state>
+	<status><introduced datetime="1993-07-15"/></status>
+
+	<introduced datetime="1993-07-15"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize the payment of Servicemen's Group Life Insurance in accordance with title 38, United States Code, as amended effective on December 1, 1992, in the case of certain members of the Armed Forces killed in an aircraft accident on November 30, 1992.</title>
+	</titles>
+	<sponsor id="300005"/>
+	<cosponsors>
+		<cosponsor id="300076" joined="1993-08-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-15" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8825)</text></action>
+		<action datetime="1993-07-15" state="REFERRED"><text>Read twice and referred to the Committee on Veterans.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Air force personnel"/>
+		<term name="Aviation safety"/>
+		<term name="Government life insurance"/>
+		<term name="Military aircraft"/>
+		<term name="Montana"/>
+		<term name="Transport aircraft"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/15/1993--Introduced.
+Provides that a Federal provision authorizing an additional amount of Servicemen's Group Life Insurance of up to $100,000 at the option of the member shall be considered to have become effective on November 30, 1992, for the benefit of 13 Air Force personnel killed in an airplane collision on such date.
+
+	</summary>
+</bill>

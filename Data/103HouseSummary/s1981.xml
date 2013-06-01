@@ -1,0 +1,57 @@
+<bill session="103" type="s" number="1981" updated="2012-07-17T05:36:01-04:00">
+	<state datetime="1994-05-11">REPORTED</state>
+	<status><calendar datetime="1994-05-11" /></status>
+
+	<introduced datetime="1994-03-24"/>
+	<titles>
+		<title type="short" as="introduced">Orphan Drug Act Amendments of 1994</title>
+		<title type="official" as="introduced">A bill to amend the Federal Food, Drug, and Cosmetic Act, the Public Health Service Act, and the Orphan Drug Act to revise the provisions of such Acts relating to orphan drugs, and for other purposes.</title>
+	</titles>
+	<sponsor id="406188"/>
+	<cosponsors>
+		<cosponsor id="300059" joined="1994-03-24"/>
+		<cosponsor id="409917" joined="1994-06-09"/>
+		<cosponsor id="407663" joined="1994-03-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3728-3729)</text></action>
+		<action datetime="1994-03-24" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<calendar datetime="1994-05-11"  state="REPORTED"><committee name="Committee on Labor and Human Resources"/><text>Committee on Labor and Human Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-09-14"><text>Committee on Labor and Human Resources. Reported to Senate by Senator Kennedy without amendment. With written report No. 103-366. Additional views filed.</text></action>
+		<calendar under="General Orders" number="609" datetime="1994-09-14" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 609.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4865" />
+	</relatedbills>
+	<subjects>
+		<term name="Drugs"/>
+		<term name="Administrative procedure"/>
+		<term name="Authorization"/>
+		<term name="Clinical trials"/>
+		<term name="Commerce"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Drug industry"/>
+		<term name="Economics and public finance"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Government operations and politics"/>
+		<term name="Government publicity"/>
+		<term name="Health"/>
+		<term name="Licenses"/>
+		<term name="Orphan drugs"/>
+		<term name="Pharmaceutical research"/>
+		<term name="Research grants"/>
+		<term name="Science, technology, communications"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/24/1994--Introduced.
+Orphan Drug Act Amendments of 1994 - Amends the Federal Food, Drug, and Cosmetic Act to change from seven to four years the period of market exclusivity guaranteed to any approved orphan drug. Specifies that orphan drugs of &quot;limited commercial potential,&quot; as defined by regulations to be issued by the Department of Health and Human Services, would qualify for an additional three years of exclusive marketing rights. Permits more than one company to put a particular orphan drug on the market in instances where both companies were working on the drug in roughly the same time frame. Provides for the withdrawal of exclusive marketing rights if the patient population for the approved treatment exceeds 200,000. Extends the authorization of the research grant program. Replaces the existing Orphan Products Board with an Office for Orphan Diseases and Conditions.
+
+	</summary>
+</bill>

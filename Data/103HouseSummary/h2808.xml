@@ -1,0 +1,63 @@
+<bill session="103" type="h" number="2808" updated="2010-04-19T06:29:04-04:00">
+	<state datetime="1993-08-02T15:14:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-08-02T15:14:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-07-29"/>
+	<titles>
+		<title type="short" as="introduced">Depository Institutions Disaster Relief Act of 1993</title>
+		<title type="official" as="introduced">To facilitate recovery from the recent flooding of the Mississippi River and its tributaries by providing greater flexibility for depository institutions and their regulators, and for other purposes.</title>
+	</titles>
+	<sponsor id="404634"/>
+	<cosponsors>
+		<cosponsor id="400298" joined="1993-07-29"/>
+		<cosponsor id="400596" joined="1993-07-29"/>
+		<cosponsor id="400023" joined="1993-07-29"/>
+		<cosponsor id="408109" joined="1993-07-29"/>
+		<cosponsor id="400560" joined="1993-07-29"/>
+		<cosponsor id="401153" joined="1993-07-29"/>
+		<cosponsor id="411488" joined="1993-07-29"/>
+		<cosponsor id="400236" joined="1993-07-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-29"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-08-02T15:00:00-04:00"><text>Mr. Gonzalez moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-08-02T15:00:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5616-5624"/></action>
+		<action datetime="1993-08-02T15:01:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-08-02T15:14:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-08-02T15:14:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-08-03T13:47:00-04:00"><text>Laid on the table. See S. 1273 for further action.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Banks and banking"/>
+		<term name="Administrative procedure"/>
+		<term name="Bank capital"/>
+		<term name="Bank deposits"/>
+		<term name="Bank loans"/>
+		<term name="Branch banking"/>
+		<term name="Checking accounts"/>
+		<term name="Checks"/>
+		<term name="Congressional investigations"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Consumer credit"/>
+		<term name="Deposit insurance"/>
+		<term name="Disaster relief"/>
+		<term name="Financial deregulation"/>
+		<term name="Flood insurance"/>
+		<term name="Floods"/>
+		<term name="Government paperwork"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/29/1993--Introduced.
+Depository Institutions Disaster Relief Act of 1993 - Authorizes the Board of Governors of the Federal Reserve System to make exceptions for a specified period of time to the Truth in Lending Act and to the Expedited Funds Availability Act with respect to transactions and depository institutions located within either a federally declared major disaster area or certain areas damaged by the 1993 flooding of the Mississippi River and its tributaries (disaster areas). Cites conditions under which: (1) an insured depository institution may subtract from its total assets a specified amount attributable to insurance proceeds when it is calculating compliance with prescribed leverage limits; and (2) a qualifying regulatory agency may deviate from certain statutory requirements with respect to regulated entities located in disaster areas. Directs the Comptroller General to study and report to the Congress on the efficacy of certain disaster relief Acts with respect to facilitating recovery from major disasters. Expresses the sense of the Congress that specified Federal banking regulatory agencies should encourage depository institutions to meet the financial services needs of their communities and customers located in areas affected by the 1993 flooding of the Mississippi River and its tributaries.
+
+	</summary>
+</bill>

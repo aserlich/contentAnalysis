@@ -1,0 +1,37 @@
+<bill session="103" type="s" number="1152" updated="2012-07-17T04:19:40-04:00">
+	<state datetime="1993-06-24">REFERRED</state>
+	<status><introduced datetime="1993-06-24"/></status>
+
+	<introduced datetime="1993-06-24"/>
+	<titles>
+		<title type="official" as="introduced">A bill to suspend the duties on certain chemicals.</title>
+	</titles>
+	<sponsor id="300072"/>
+	<cosponsors>
+		<cosponsor id="300070" joined="1993-06-24"/>
+		<cosponsor id="402675" joined="1993-06-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8088)</text></action>
+		<action datetime="1993-06-24" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Chemicals"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/24/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1996, the duty on certain organic chemicals.
+
+	</summary>
+</bill>

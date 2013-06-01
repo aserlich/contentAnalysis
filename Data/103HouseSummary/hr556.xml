@@ -1,0 +1,43 @@
+<bill session="103" type="hr" number="556" updated="2010-04-19T14:25:31-04:00">
+	<state datetime="1994-09-30T12:35:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-09-30T12:35:00-04:00" where="h" result="pass" how="roll" roll="454"/></status>
+
+	<introduced datetime="1994-09-29"/>
+	<titles>
+		<title type="official" as="introduced">Waiving points of order against the conference report to accompany the bill (H.R. 6) to extend for six years the authorizations of appropriations for the programs under the Elementary and Secondary Education Act of 1965, and for certain other purposes.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-29T19:39:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-767, by Ms. Slaughter.</text></action>
+		<action datetime="1994-09-29T19:39:00-04:00"><text>Rule provides for consideration of the conference report to H.R. 6. Upon the adoption of the resolution, it shall be in order to consider the conference report on the bill H.R. 6. All points of order against the conference report and against its consideration are waived.</text></action>
+		<calendar datetime="1994-09-29T19:40:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 235.</text></calendar>
+		<action datetime="1994-09-30T11:07:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H10382-10391"/></action>
+		<action datetime="1994-09-30T11:08:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1994-09-30T12:16:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="roll" type="vote" roll="454" datetime="1994-09-30T12:35:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 230 - 168 (Roll no. 454).</text></vote>
+		<action datetime="1994-09-30T12:35:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="6" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congress"/>
+		<term name="Education"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/29/1994--Introduced.
+Waives points of order against the consideration of the conference report to accompany H.R. 6 (authorization of appropriations for programs under the Elementary and Secondary Education Act of 1965).
+
+	</summary>
+</bill>

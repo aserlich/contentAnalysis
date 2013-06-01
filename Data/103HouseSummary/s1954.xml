@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="1954" updated="2012-07-17T05:27:48-04:00">
+	<state datetime="1994-03-22">REFERRED</state>
+	<status><introduced datetime="1994-03-22"/></status>
+
+	<introduced datetime="1994-03-22"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend the deadlines applicable to certain hydroelectric projects under the Federal Power Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="409917"/>
+	<cosponsors>
+		<cosponsor id="407992" joined="1994-04-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-22" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-03-23"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Water and Power.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee" />
+		<committee code="SSEG-3" name="Senate Energy and Natural Resources" subcommittee="Water and Power" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Hydroelectric power"/>
+		<term name="Licenses"/>
+		<term name="Water resources development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/22/1994--Introduced.
+Directs the Federal Energy Regulatory Commission, upon certain licensees request, to extend the time required for commencement of construction of specified hydroelectric projects.
+
+	</summary>
+</bill>

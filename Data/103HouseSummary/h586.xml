@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="586" updated="2010-04-19T00:33:29-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="short" as="introduced">Monetary Policy Reform Act of 1993</title>
+		<title type="official" as="introduced">To provide for a Federal Open Market Advisory Committee, and for other purposes.</title>
+	</titles>
+	<sponsor id="404996"/>
+	<cosponsors>
+		<cosponsor id="400612" joined="1993-07-27"/>
+		<cosponsor id="400300" joined="1993-01-26"/>
+		<cosponsor id="400417" joined="1994-02-28"/>
+		<cosponsor id="400193" joined="1993-07-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Sponsor introductory remarks on measure. (CR E168-171)</text></action>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-02-12"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Economic Growth and Credit Formation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="Economic Growth and Credit Formation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="219" />
+	</relatedbills>
+	<subjects>
+		<term name="Money"/>
+		<term name="Banks and banking"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Monetary policy"/>
+		<term name="Open market operations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Monetary Policy Reform Act of 1993 - Amends the Federal Reserve Act to establish the Federal Open Market Advisory Committee to advise the Board of Governors of the Federal Reserve System on the conduct of open-market operations.
+
+	</summary>
+</bill>

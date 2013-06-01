@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="806" updated="2010-04-19T01:10:21-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="official" as="introduced">To exclude certain rebates received by families for State property taxes paid by such families from consideration as family income for purposes of the United States Housing Act of 1937 and section 202 of the Housing Act of 1959.</title>
+	</titles>
+	<sponsor id="300156"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="1993-03-23"/>
+		<cosponsor id="400584" joined="1993-05-19"/>
+		<cosponsor id="406420" joined="1993-02-03"/>
+		<cosponsor id="400359" joined="1993-02-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-02-12"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Housing and Community Development.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="HSBA-04" name="House Banking, Finance, and Urban Affairs" subcommittee="Housing and Community Development" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Housing"/>
+		<term name="Federal aid to housing"/>
+		<term name="Housing for the aged"/>
+		<term name="Housing for the handicapped"/>
+		<term name="Income"/>
+		<term name="Low-income housing"/>
+		<term name="Real property tax"/>
+		<term name="Rent subsidies"/>
+		<term name="State taxation"/>
+		<term name="Tax rebates"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Excludes certain property tax rebates from consideration as family income for purposes of certain Federal housing assistance programs.
+
+	</summary>
+</bill>

@@ -1,0 +1,61 @@
+<bill session="103" type="h" number="165" updated="2010-04-18T23:25:43-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Congressional Reform and Compliance Act of 1992</title>
+		<title type="official" as="introduced">To apply laws relating to part-time career employees, fair labor standards, and occupational safety and health to the Congress.</title>
+	</titles>
+	<sponsor id="400116"/>
+	<cosponsors>
+		<cosponsor id="400221" joined="1993-06-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-01-19"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor Standards, Occupational Health and Safety.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Civil Service.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-10" name="House Education and Labor" subcommittee="Labor Standards, Occupational Health and Safety" activity="Referral" />
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Civil Service" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Congressional Research Service"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional employees"/>
+		<term name="Congressional officers"/>
+		<term name="Congressional privileges and immunities"/>
+		<term name="Discrimination in employment"/>
+		<term name="Employee rights"/>
+		<term name="Hours of labor"/>
+		<term name="Libraries"/>
+		<term name="Library of Congress"/>
+		<term name="Members of Congress"/>
+		<term name="Minimum wages"/>
+		<term name="Occupational health and safety"/>
+		<term name="Overtime"/>
+		<term name="Part-time employment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Congressional Reform and Compliance Act of 1992 - Applies provisions of Federal laws relating to part-time career employment opportunities to the House of Representatives, the Senate, and the instrumentalities of the Congress in the same manner and to the same extent as they apply to executive agencies. Applies provisions of the Fair Labor Standards Act of 1938 and the Occupational Safety and Health Act of 1970, to the extent that they relate to the terms and conditions of employment, occupational safety and health, and the rights and responsibilities of employers and employees, to the Senate, the House of Representatives, and instrumentalities of the Congress in the same manner and to the same extent as they apply to a private person. Grants appeal rights to individuals aggrieved by a violation of such laws. Makes this Act applicable to: (1) Members of Congress; (2) employees and officers of either House of Congress, committees and joint committees; (3) employees of a Member if paid by the Secretary of the Senate or the Clerk of the House; and (4) employees of an instrumentality of the Congress. Defines &quot;instrumentality of the Congress&quot; as the Congressional Research Service, the Office of Technology Assessment, the General Accounting Office, the Government Printing Office, the Congressional Budget Office, and the Copyright Royalty Tribunal, and, except with respect to provisions concerning part-time employment, the Library of Congress, the Botanic Garden, and the Architect of the Capitol.
+
+	</summary>
+</bill>

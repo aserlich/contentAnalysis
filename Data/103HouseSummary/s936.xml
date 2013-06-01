@@ -1,0 +1,49 @@
+<bill session="103" type="s" number="936" updated="2012-07-17T05:46:42-04:00">
+	<state datetime="1993-05-11">REFERRED</state>
+	<status><introduced datetime="1993-05-11"/></status>
+
+	<introduced datetime="1993-05-11"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to eliminate the annual cap on the amount of payment for outpatient physical therapy and occupational therapy services under part B of the Medicare Program, and for other purposes.</title>
+	</titles>
+	<sponsor id="402412"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="1993-06-07"/>
+		<cosponsor id="300089" joined="1993-05-11"/>
+		<cosponsor id="300029" joined="1993-09-23"/>
+		<cosponsor id="400557" joined="1993-07-30"/>
+		<cosponsor id="300082" joined="1993-06-23"/>
+		<cosponsor id="409917" joined="1993-05-11"/>
+		<cosponsor id="411818" joined="1993-07-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-11" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5760)</text></action>
+		<action datetime="1993-05-11" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1586" />
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Ambulatory care"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Government paperwork"/>
+		<term name="Health"/>
+		<term name="Medical fees"/>
+		<term name="Medicare"/>
+		<term name="Occupational therapy"/>
+		<term name="Physical therapy"/>
+		<term name="Physicians"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/11/1993--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to eliminate the annual cap on the amount of payment for outpatient physical therapy and occupational therapy services under Medicare part B (Supplementary Medical Insurance). Revises the limitation on beneficiary liability for payment of any amounts billed in excess of the applicable limiting charge for physician services. Applies such limitation to nonparticipating suppliers and other persons, as well as nonparticipating physicians. Includes in the Secretary of Health and Human Services' annual explanation of Medicare benefits information on refunds of such amounts. Makes carriers responsible for determining, prior to making payment, whether the amount billed for services is in excess of the applicable limiting charge and, if so, notifying the physician or other providers as appropriate. Requires the reports to the Congress on changes in excess charges for physician services to reflect additional information on the services involved.
+
+	</summary>
+</bill>

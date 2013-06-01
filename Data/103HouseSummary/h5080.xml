@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="5080" updated="2010-04-19T12:23:27-04:00">
+	<state datetime="1994-09-22">REFERRED</state>
+	<status><introduced datetime="1994-09-22"/></status>
+
+	<introduced datetime="1994-09-22"/>
+	<titles>
+		<title type="official" as="introduced">To repeal the Postal Service monopoly on first class mail.</title>
+	</titles>
+	<sponsor id="400083"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-22"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-09-22"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-10-03"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Postal service"/>
+		<term name="Business"/>
+		<term name="Communications"/>
+		<term name="Executive departments"/>
+		<term name="Monopolies"/>
+		<term name="Privatization"/>
+		<term name="United States Postal Service"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/22/1994--Introduced.
+Repeals provisions of Federal law granting the Postal Service a monopoly on first class mail (commonly referred to as the private express statutes).
+
+	</summary>
+</bill>

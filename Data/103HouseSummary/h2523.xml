@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="2523" updated="2010-04-19T05:44:54-04:00">
+	<state datetime="1993-06-24">REFERRED</state>
+	<status><introduced datetime="1993-06-24"/></status>
+
+	<introduced datetime="1993-06-24"/>
+	<titles>
+		<title type="official" as="introduced">To amend section 2119 of title 18, United States Code, to authorize imposition of the death penalty if death results from a carjacking, and for other purposes.</title>
+	</titles>
+	<sponsor id="400574"/>
+	<cosponsors>
+		<cosponsor id="406873" joined="1993-07-19"/>
+		<cosponsor id="410147" joined="1993-07-23"/>
+		<cosponsor id="400551" joined="1993-10-19"/>
+		<cosponsor id="400107" joined="1993-10-19"/>
+		<cosponsor id="411997" joined="1993-07-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-24"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-08-09"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1164" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Automobile theft"/>
+		<term name="Capital punishment"/>
+		<term name="Firearms"/>
+		<term name="Hijacking"/>
+		<term name="Murder"/>
+		<term name="Sentences (Criminal procedure)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/24/1993--Introduced.
+Amends the Federal criminal code to: (1) authorize the death penalty for carjacking if death results; and (2) include as carjacking intentionally making physical contact with a motor vehicle, while in possession of a firearm or other dangerous device, with the intent or result of injuring an occupant or of taking or damaging the motor vehicle or its contents.
+
+	</summary>
+</bill>

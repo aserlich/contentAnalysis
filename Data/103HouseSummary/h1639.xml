@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="1639" updated="2010-04-19T03:27:25-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="official" as="introduced">To designate the Lake Tahoe Basin National Forest in the States of California and Nevada to be administered by the Secretary of Agriculture, and for other purposes.</title>
+	</titles>
+	<sponsor id="411178"/>
+	<cosponsors>
+		<cosponsor id="400113" joined="1993-04-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01"><text>Sponsor introductory remarks on measure. (CR E874-875)</text></action>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-04-06"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-05-03"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from USDA.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Forests and forestry"/>
+		<term name="California"/>
+		<term name="National forests"/>
+		<term name="Nevada"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Designates the Lake Tahoe Basin National Forest in California and Nevada as a unit of the National Forest System.
+
+	</summary>
+</bill>

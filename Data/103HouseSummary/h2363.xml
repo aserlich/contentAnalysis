@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="2363" updated="2010-04-19T05:20:13-04:00">
+	<state datetime="1993-06-09">REFERRED</state>
+	<status><introduced datetime="1993-06-09"/></status>
+
+	<introduced datetime="1993-06-09"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Foreign Sovereign Immunities Act to provide for exceptions in cases of torture, extrajudicial killing, or war crimes.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="400308" joined="1993-06-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-09"><text>Sponsor introductory remarks on measure. (CR E1444)</text></action>
+		<action datetime="1993-06-09"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-06-14"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1993-09-08"><committee name="House Committee on Judiciary"/><text>For Further Action See H.R.934.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="934" />
+	</relatedbills>
+	<subjects>
+		<term name="Courts"/>
+		<term name="Americans in foreign countries"/>
+		<term name="Claims"/>
+		<term name="Government liability (International law)"/>
+		<term name="Immunities of foreign states"/>
+		<term name="Jurisdiction"/>
+		<term name="Liens"/>
+		<term name="Limitation of actions"/>
+		<term name="Murder"/>
+		<term name="Torts"/>
+		<term name="Torture"/>
+		<term name="Victims of crimes"/>
+		<term name="War crimes"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/9/1993--Introduced.
+Amends the Federal judicial code to make an exception to: (1) sovereign immunity for certain cases involving torture or extrajudicial killing in, or a war crime committed by the military of, a foreign state, subject to specified limitations; and (2) immunity from attachment or execution relating to judgments of claims for which the foreign state is not immune by virtue of such provision.
+
+	</summary>
+</bill>

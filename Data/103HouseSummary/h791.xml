@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="791" updated="2012-07-17T05:28:36-04:00">
+	<state datetime="1993-05-04T14:36:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-05-04T14:36:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="official" as="introduced">To name the United States courthouse in Benton, Illinois, the &quot;James L. Foreman Courthouse&quot;.</title>
+	</titles>
+	<sponsor id="408839"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03" state="REFERRED"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Public Buildings and Grounds.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-04-28"><committee name="House Committee on Public Works + Transportation"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-04-28"  state="REPORTED"><committee name="House Committee on Public Works + Transportation"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-04-29T15:37:00-04:00"><text>Reported (Amended) by the Committee on Public Works + Transportation. H. Rept. 103-70.</text></action>
+		<calendar number="33" datetime="1993-04-29T15:38:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 33.</text></calendar>
+		<action datetime="1993-05-04T14:29:00-04:00"><text>Mr. Traficant moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-05-04T14:29:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2227-2228"/></action>
+		<action datetime="1993-05-04T14:29:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-05-04T14:36:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-05-04T14:36:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-05-04T14:36:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-05-05"><text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Public Buildings and Grounds" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Commemorations"/>
+		<term name="Courthouses"/>
+		<term name="Illinois"/>
+		<term name="Names"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/4/1993--Passed House amended. Designates the U.S. courthouse at 301 West Main Street, Benton, Illinois, as the James L. Foreman United States Courthouse.
+
+	</summary>
+</bill>

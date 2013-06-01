@@ -1,0 +1,45 @@
+<bill session="103" type="hj" number="273" updated="2010-04-18T22:34:36-04:00">
+	<state datetime="1993-10-06">REFERRED</state>
+	<status><introduced datetime="1993-10-06"/></status>
+
+	<introduced datetime="1993-10-06"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution relating to Federal budget procedures.</title>
+	</titles>
+	<sponsor id="411166"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-06"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-10-08"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1994-03-17"><committee name="House Committee on Judiciary"/><text>See H.J.Res.103.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hj" number="103" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Balanced budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Constitution"/>
+		<term name="Constitutional amendments"/>
+		<term name="Deficit financing"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/6/1993--Introduced.
+Constitutional Amendment - Requires the Congress, prior to each fiscal year, to adopt a statement in which total Federal outlays do not exceed total receipts, unless a three-fifths vote of both Houses authorizes a specific excess. Limits the rate of increase in receipts in the statement to that of the increase in national income in the previous calendar year, unless law is enacted solely to approve specific additional receipts. Authorizes waiver of these provisions in time of war.
+
+	</summary>
+</bill>

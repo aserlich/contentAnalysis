@@ -1,0 +1,93 @@
+<bill session="103" type="h" number="1032" updated="2012-07-17T05:36:21-04:00">
+	<state datetime="1993-04-27T13:40:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-04-27T13:40:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-02-23"/>
+	<titles>
+		<title type="short" as="introduced">Department of Veterans Affairs Employment Discrimination Act</title>
+		<title type="short" as="passed house">Department of Veterans Affairs Employment Discrimination Act</title>
+		<title type="official" as="introduced">To amend title 38, United States Code, to provide for improved and expedited procedures for resolving complaints of unlawful employment discrimination arising within the Department of Veterans Affairs.</title>
+	</titles>
+	<sponsor id="407838"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1993-02-23"/>
+		<cosponsor id="400329" joined="1993-02-23"/>
+		<cosponsor id="400509" joined="1993-04-22"/>
+		<cosponsor id="406920" joined="1993-02-23"/>
+		<cosponsor id="406277" joined="1993-02-23"/>
+		<cosponsor id="409442" joined="1993-02-23"/>
+		<cosponsor id="409219" joined="1993-03-09"/>
+		<cosponsor id="400133" joined="1993-02-23"/>
+		<cosponsor id="400906" joined="1993-02-23"/>
+		<cosponsor id="405313" joined="1993-02-23"/>
+		<cosponsor id="400422" joined="1993-04-05"/>
+		<cosponsor id="408476" joined="1993-02-23"/>
+		<cosponsor id="400301" joined="1993-02-23"/>
+		<cosponsor id="400548" joined="1993-02-23"/>
+		<cosponsor id="410695" joined="1993-03-29"/>
+		<cosponsor id="400380" joined="1993-02-23"/>
+		<cosponsor id="400163" joined="1993-02-23"/>
+		<cosponsor id="400048" joined="1993-02-23"/>
+		<cosponsor id="401033" joined="1993-02-23"/>
+		<cosponsor id="400030" joined="1993-02-23"/>
+		<cosponsor id="400504" joined="1993-02-23"/>
+		<cosponsor id="403864" joined="1993-03-30"/>
+		<cosponsor id="400610" joined="1993-03-02"/>
+		<cosponsor id="409966" joined="1993-02-23"/>
+		<cosponsor id="409570" joined="1993-02-23"/>
+		<cosponsor id="403776" joined="1993-02-23"/>
+		<cosponsor id="408618" joined="1993-02-23"/>
+		<cosponsor id="406482" joined="1993-02-23"/>
+		<cosponsor id="408556" joined="1993-02-23"/>
+		<cosponsor id="400126" joined="1993-02-23"/>
+		<cosponsor id="400028" joined="1993-02-23"/>
+		<cosponsor id="400118" joined="1993-02-23"/>
+		<cosponsor id="400389" joined="1993-02-23"/>
+		<cosponsor id="400075" joined="1993-02-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-23" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E403-404)</text></action>
+		<action datetime="1993-02-23" state="REFERRED"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-03-05"><committee name="House Committee on Veterans' Affairs"/><text>Executive Comment Received from Veterans' Affairs.</text></action>
+		<action datetime="1993-03-30"><committee name="House Committee on Veterans' Affairs"/><text>Committee Hearings Held.</text></action>
+		<action datetime="1993-04-01"><committee name="House Committee on Veterans' Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-04-01"  state="REPORTED"><committee name="House Committee on Veterans' Affairs"/><text>Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 0.</text></calendar>
+		<action datetime="1993-04-05"><committee name="House Committee on Veterans' Affairs"/><text>Executive Comment Received from Veterans' Affairs.</text></action>
+		<action datetime="1993-04-22T15:56:00-04:00"><text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 103-64.</text></action>
+		<calendar number="32" datetime="1993-04-22T16:07:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 32.</text></calendar>
+		<action datetime="1993-04-27T13:07:00-04:00"><text>Mr. Montgomery moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-04-27T13:08:00-04:00"><text>Considered under suspension of the rules.</text></action>
+		<action datetime="1993-04-27T13:08:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-04-27T13:40:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-04-27T13:40:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-04-28"><text>Received in the Senate and read twice and referred to the Committee on Veterans.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Counseling"/>
+		<term name="Department of Veterans Affairs"/>
+		<term name="Discrimination in employment"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal budgets"/>
+		<term name="Federal employees"/>
+		<term name="Grievance procedures"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Whistle blowing"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/27/1993--Passed House amended. Department of Veterans Affairs Employment Discrimination Act - Requires consideration under procedures applicable to the Merit Systems Protection Board of any allegation by an employee of the Department of Veterans Affairs of unlawful employment discrimination if the action (or failure to act) of which the employee complains is an employment action or practice otherwise appealable to such Board. Establishes in the Department an Office of Employment Discrimination Complaints Resolution headed by a Director who shall administer Department procedures for resolving complaints of unlawful employment discrimination. Requires the Secretary of Veterans Affairs to include certain information with respect to Office budgets and activities in annual budget documents submitted to the Congress. Directs Office employees to counsel and resolve the complaints of Department employees in an expeditious and informal manner through informal investigation and conciliation. Outlines procedures for: (1) the investigation of complaints through either informal resolution or assignment to an administrative law judge; (2) a hearing and final agency decision by such a judge for cases unresolved through the informal process; and (3) review of final agency decisions by either the Equal Employment Opportunity Commission or the appropriate U.S. district court. Provides protection of Department employees under appropriate Federal whistleblower protection provisions.
+
+	</summary>
+</bill>

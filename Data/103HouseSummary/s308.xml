@@ -1,0 +1,38 @@
+<bill session="103" type="s" number="308" updated="2012-07-17T05:15:29-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Fair Share Act of 1993</title>
+		<title type="official" as="introduced">A bill to require the use, in Federal formula grant programs, of adjusted census data, and for other purposes.</title>
+	</titles>
+	<sponsor id="400562"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1198-1199)</text></action>
+		<action datetime="1993-02-03" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="754" />
+	</relatedbills>
+	<subjects>
+		<term name="Statistics"/>
+		<term name="Census"/>
+		<term name="Federal aid programs"/>
+		<term name="Population statistics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Fair Share Act of 1993 - Requires the use of the most recent annual population data when determining the amount of benefit under Federal programs for a State, county, or local unit of government.
+
+	</summary>
+</bill>

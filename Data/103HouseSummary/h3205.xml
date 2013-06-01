@@ -1,0 +1,93 @@
+<bill session="103" type="h" number="3205" updated="2010-04-19T07:30:39-04:00">
+	<state datetime="1993-09-30">REFERRED</state>
+	<status><introduced datetime="1993-09-30"/></status>
+
+	<introduced datetime="1993-09-30"/>
+	<titles>
+		<title type="short" as="introduced">Deficit Reduction Lock Box Act of 1993</title>
+		<title type="official" as="introduced">To amend the Congressional Budget and Impoundment Control Act of 1974 to create a deficit reduction account and to reduce the discretionary spending limits, and for other purposes.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1994-03-15"/>
+		<cosponsor id="404503" joined="1993-10-26"/>
+		<cosponsor id="400553" joined="1993-10-20"/>
+		<cosponsor id="408839" joined="1993-10-20"/>
+		<cosponsor id="400099" joined="1993-10-20"/>
+		<cosponsor id="404083" joined="1993-10-20"/>
+		<cosponsor id="300030" joined="1993-11-02"/>
+		<cosponsor id="400397" joined="1994-02-11"/>
+		<cosponsor id="407124" joined="1993-10-20"/>
+		<cosponsor id="400348" joined="1993-10-20"/>
+		<cosponsor id="400389" joined="1994-02-11"/>
+		<cosponsor id="406420" joined="1993-10-26"/>
+		<cosponsor id="402890" joined="1993-10-20"/>
+		<cosponsor id="400882" joined="1993-10-26"/>
+		<cosponsor id="408556" joined="1994-02-11"/>
+		<cosponsor id="300068" joined="1993-11-22"/>
+		<cosponsor id="411725" joined="1993-10-26"/>
+		<cosponsor id="400395" joined="1993-10-20"/>
+		<cosponsor id="408618" joined="1993-10-20"/>
+		<cosponsor id="406625" joined="1993-11-02"/>
+		<cosponsor id="400050" joined="1993-10-20"/>
+		<cosponsor id="401854" joined="1994-02-11"/>
+		<cosponsor id="400166" joined="1993-09-30"/>
+		<cosponsor id="400399" joined="1993-11-15"/>
+		<cosponsor id="400251" joined="1993-10-20"/>
+		<cosponsor id="401947" joined="1993-10-20"/>
+		<cosponsor id="400211" joined="1993-11-02"/>
+		<cosponsor id="400269" joined="1993-10-20"/>
+		<cosponsor id="401134" joined="1993-11-02"/>
+		<cosponsor id="400118" joined="1993-09-30"/>
+		<cosponsor id="404602" joined="1993-11-15"/>
+		<cosponsor id="400193" joined="1993-10-20"/>
+		<cosponsor id="406024" joined="1993-10-20"/>
+		<cosponsor id="410889" joined="1993-11-15"/>
+		<cosponsor id="403873" joined="1993-10-26"/>
+		<cosponsor id="400599" joined="1993-10-26"/>
+		<cosponsor id="400438" joined="1993-11-22"/>
+		<cosponsor id="406554" joined="1993-10-26"/>
+		<cosponsor id="401774" joined="1993-09-30"/>
+		<cosponsor id="400100" joined="1993-10-20"/>
+		<cosponsor id="300058" joined="1993-10-20"/>
+		<cosponsor id="410565" joined="1993-11-22"/>
+		<cosponsor id="411997" joined="1993-10-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-30"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-09-30"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-10-04"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4057" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Appropriations"/>
+		<term name="Budget deficits"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Congressional budget process"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Government spending reductions"/>
+		<term name="Government trust funds"/>
+		<term name="House rules and procedure"/>
+		<term name="Legislation"/>
+		<term name="Legislative amendments"/>
+		<term name="Public debt"/>
+		<term name="Senate rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/1993--Introduced.
+Deficit Reduction Lock Box Act of 1993 - Establishes the Deficit Reduction Trust Fund consisting of amounts contained in deficit reduction lock box provisions of appropriation Acts. Reduces discretionary spending limits by amounts transferred to the Fund. Amends the Congressional Budget Act of 1974 to require that amounts resulting from reduced spending under general appropriation bills be placed in the Fund.
+
+	</summary>
+</bill>

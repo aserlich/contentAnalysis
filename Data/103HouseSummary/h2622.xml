@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="2622" updated="2010-04-19T06:00:19-04:00">
+	<state datetime="1993-07-13">REFERRED</state>
+	<status><introduced datetime="1993-07-13"/></status>
+
+	<introduced datetime="1993-07-13"/>
+	<titles>
+		<title type="short" as="introduced">Armed Career Criminal Clarification Act</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, to make certain drug offenses under State law predicate offenses under the armed career criminal statute.</title>
+	</titles>
+	<sponsor id="407899"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="1993-09-13"/>
+		<cosponsor id="410147" joined="1993-09-13"/>
+		<cosponsor id="406768" joined="1993-09-13"/>
+		<cosponsor id="404587" joined="1993-10-14"/>
+		<cosponsor id="400574" joined="1993-10-06"/>
+		<cosponsor id="400144" joined="1993-11-15"/>
+		<cosponsor id="401134" joined="1993-11-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-13"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-07-15"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Drug law enforcement"/>
+		<term name="Firearms"/>
+		<term name="Narcotic traffic"/>
+		<term name="Sentences (Criminal procedure)"/>
+		<term name="State laws"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/13/1993--Introduced.
+Armed Career Criminal Clarification Act - Establishes as a predicate offense under the armed career criminal statute any offense under State law which would have been punishable by a maximum term of imprisonment of ten years or more because of the type and quantity of the controlled substance involved if the offense had been prosecuted as a violation of the Controlled Substances Act.
+
+	</summary>
+</bill>

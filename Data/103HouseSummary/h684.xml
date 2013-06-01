@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="684" updated="2010-04-19T00:49:46-04:00">
+	<state datetime="1993-01-27">REFERRED</state>
+	<status><introduced datetime="1993-01-27"/></status>
+
+	<introduced datetime="1993-01-27"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XIX of the Social Security Act to deduct a children's contribution from the amount of income applied monthly to payment for the cost of care in an institution for an individual receiving medical assistance under a State medicaid plan.</title>
+	</titles>
+	<sponsor id="400252"/>
+	<cosponsors>
+		<cosponsor id="400380" joined="1993-04-01"/>
+		<cosponsor id="300087" joined="1993-03-25"/>
+		<cosponsor id="400581" joined="1993-03-18"/>
+		<cosponsor id="400262" joined="1993-07-14"/>
+		<cosponsor id="400017" joined="1993-03-04"/>
+		<cosponsor id="400251" joined="1993-06-08"/>
+		<cosponsor id="400012" joined="1993-06-22"/>
+		<cosponsor id="400391" joined="1993-04-27"/>
+		<cosponsor id="400075" joined="1993-03-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-27"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Children"/>
+		<term name="Hospital care"/>
+		<term name="Income"/>
+		<term name="Long-term care"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Public assistance programs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/1993--Introduced.
+Amends title XIX (Medicaid) of the Social Security Act to provide for the deduction of a child's contribution from the amount of income applied towards the cost of care for institutionalized Medicaid beneficiaries.
+
+	</summary>
+</bill>

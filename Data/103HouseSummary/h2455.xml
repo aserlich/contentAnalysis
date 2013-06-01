@@ -1,0 +1,108 @@
+<bill session="103" type="h" number="2455" updated="2010-04-19T05:34:25-04:00">
+	<state datetime="1994-02-22T14:31:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-02-22T14:31:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-06-17"/>
+	<titles>
+		<title type="short" as="introduced">Safe Schools Act of 1993</title>
+		<title type="short" as="passed house">Safe Schools Act of 1994</title>
+		<title type="official" as="introduced">To help local school systems achieve Goal Six of the National Education Goals, which provides that by the year 2000, every school in America will be free of drugs and violence and will offer a disciplined environment conducive to learning, by ensuring that all schools are safe and free of violence.</title>
+	</titles>
+	<sponsor id="400306"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="1993-06-17"/>
+		<cosponsor id="411677" joined="1993-06-17"/>
+		<cosponsor id="400126" joined="1993-07-22"/>
+		<cosponsor id="400122" joined="1993-06-17"/>
+		<cosponsor id="411040" joined="1993-06-17"/>
+		<cosponsor id="408109" joined="1993-07-22"/>
+		<cosponsor id="401033" joined="1993-07-22"/>
+		<cosponsor id="300087" joined="1993-06-17"/>
+		<cosponsor id="400527" joined="1993-11-16"/>
+		<cosponsor id="300081" joined="1993-06-17"/>
+		<cosponsor id="400524" joined="1993-07-22"/>
+		<cosponsor id="400216" joined="1993-11-19"/>
+		<cosponsor id="400106" joined="1993-07-22"/>
+		<cosponsor id="400312" joined="1993-06-17"/>
+		<cosponsor id="410567" joined="1993-07-22"/>
+		<cosponsor id="409954" joined="1993-11-16"/>
+		<cosponsor id="400387" joined="1993-07-22"/>
+		<cosponsor id="400331" joined="1993-07-22"/>
+		<cosponsor id="407306" joined="1993-07-22"/>
+		<cosponsor id="409829" joined="1993-07-22"/>
+		<cosponsor id="402626" joined="1993-06-17"/>
+		<cosponsor id="400591" joined="1993-06-17"/>
+		<cosponsor id="400366" joined="1993-06-17"/>
+		<cosponsor id="400211" joined="1993-11-16"/>
+		<cosponsor id="404602" joined="1993-11-16"/>
+		<cosponsor id="408476" joined="1993-07-22"/>
+		<cosponsor id="400595" joined="1993-06-17"/>
+		<cosponsor id="400291" joined="1993-07-22"/>
+		<cosponsor id="400109" joined="1993-11-16"/>
+		<cosponsor id="400357" joined="1993-07-22"/>
+		<cosponsor id="410889" joined="1993-07-22"/>
+		<cosponsor id="400301" joined="1993-07-22"/>
+		<cosponsor id="405507" joined="1993-07-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-17"><text>Sponsor introductory remarks on measure. (CR E1548)</text></action>
+		<action datetime="1993-06-17"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-07-27"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+		<action datetime="1994-02-02"><committee name="House Committee on Education and Labor" subcommittee="Elementary, Secondary and Vocational Education"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-02-02"><committee name="House Committee on Education and Labor" subcommittee="Elementary, Secondary and Vocational Education"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1994-02-02"><committee name="House Committee on Education and Labor"/><text>Executive Comment Requested from Education.</text></action>
+		<action datetime="1994-02-08"><committee name="House Committee on Education and Labor"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-02-08"  state="REPORTED"><committee name="House Committee on Education and Labor"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1994-02-22T14:23:00-05:00"><text>Mr. Kildee moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-02-22T14:24:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H551-553"/></action>
+		<action datetime="1994-02-22T14:24:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-02-22T14:31:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-02-22T14:31:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-02-23"><committee name="House Committee on Education and Labor"/><text>Text of Measure Incorporated into H.R.1804.</text></action>
+		<action datetime="1994-02-23"><text>Sponsor introductory remarks on measure. (CR E234)</text></action>
+		<calendar under="General Orders" number="373" datetime="1994-02-23" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 373.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, Markup" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1125" />
+		<bill relation="unknown" session="103" type="s" number="1125" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Children"/>
+		<term name="Crime prevention"/>
+		<term name="Criminal justice"/>
+		<term name="Drug abuse"/>
+		<term name="Drugs and youth"/>
+		<term name="Educational statistics"/>
+		<term name="Educational television"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Elementary education"/>
+		<term name="Federal aid to education"/>
+		<term name="Government information"/>
+		<term name="Homicide"/>
+		<term name="Juvenile delinquency"/>
+		<term name="Language and languages"/>
+		<term name="Mediation"/>
+		<term name="Narcotic traffic"/>
+		<term name="Parent-school relationships"/>
+		<term name="Public television"/>
+		<term name="School discipline"/>
+		<term name="School violence"/>
+		<term name="Secondary education"/>
+		<term name="Teaching materials"/>
+		<term name="Telecommunication"/>
+		<term name="Television"/>
+		<term name="Violence"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/22/1994--Passed House amended. Safe Schools Act of 1994 - Directs the Secretary of Education to make competitive grants to eligible local educational agencies for projects to achieve National Education Goal Six by helping to ensure that all schools are safe and free of violence. Directs the Secretary to develop a written safe schools model. Authorizes appropriations. Authorizes the Secretary to use certain reserved funds to conduct national leadership activities such as research, program development and evaluation, data collection, public awareness activities, training and technical assistance, peer review of applications, and grants for public television video projects for conflict resolution.
+
+	</summary>
+</bill>

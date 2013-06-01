@@ -1,0 +1,53 @@
+<bill session="103" type="hc" number="290" updated="2010-04-18T21:46:25-04:00">
+	<state datetime="1994-09-19T19:15:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-09-19T19:15:00-04:00" where="h" result="pass" how="roll" roll="424"/></status>
+
+	<introduced datetime="1994-09-19"/>
+	<titles>
+		<title type="official" as="introduced">Commending the President and the special delegation to Haiti, and supporting the United States Armed Forces in Haiti.</title>
+	</titles>
+	<sponsor id="400146"/>
+	<cosponsors>
+		<cosponsor id="407676" joined="1994-09-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-19T17:36:00-04:00"><text>EXTENSION OF TIME FOR GENERAL DEBATE - Mr. Gephardt asked unanimous consent that during the consideration of the concurrent resolution under suspension of the rules, debate shall be limited to one hour, equally divided. Agreed to without objection.</text></action>
+		<action datetime="1994-09-19T17:37:00-04:00"><text>Mr. Gephardt moved to suspend the rules and agree to the resolution.</text></action>
+		<action datetime="1994-09-19T17:37:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9208-9219"/></action>
+		<action datetime="1994-09-19T17:37:00-04:00"><text>DEBATE - Pursuant to the previous unanimous consent agreement, the House proceeded with one hour of debate.</text></action>
+		<vote how="roll" type="vote" roll="424" datetime="1994-09-19T19:15:00-04:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 353 - 45, 2 Present (Roll no. 424).</text></vote>
+		<action datetime="1994-09-19T19:15:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-09-20"><text>Received in the Senate.</text></action>
+		<action datetime="1994-09-22"><text>Referred to the Committee on Foreign Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Armed forces abroad"/>
+		<term name="Commemorations"/>
+		<term name="Congress"/>
+		<term name="Congressional tributes"/>
+		<term name="Defense policy"/>
+		<term name="Democracy"/>
+		<term name="Foreign policy"/>
+		<term name="Haiti"/>
+		<term name="Latin America"/>
+		<term name="Military intervention"/>
+		<term name="Military personnel"/>
+		<term name="Military regimes"/>
+		<term name="Politics and government"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/19/1994--Introduced.
+Declares that the Congress: (1) commends the efforts of the President in sending former President Jimmy Carter, retired General Colin Powell, and Senator Sam Nunn to Haiti to avoid the loss of American lives; (2) supports U.S. armed forces carrying out their mission in Haiti; (3) supports the efforts of the President to provide for the departure from power of the de facto authorities and return to democracy; (4) affirms the commitment to national reconciliation; and (5) supports the withdrawal of U.S. armed forces as soon as possible.
+
+	</summary>
+</bill>

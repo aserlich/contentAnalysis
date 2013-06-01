@@ -1,0 +1,77 @@
+<bill session="103" type="h" number="4592" updated="2010-04-19T11:07:25-04:00">
+	<state datetime="1994-06-22">REFERRED</state>
+	<status><introduced datetime="1994-06-16"/></status>
+
+	<introduced datetime="1994-06-16"/>
+	<titles>
+		<title type="short" as="introduced">Tax Rebate to Fight Crime Act</title>
+		<title type="official" as="introduced">To appropriate 2 percent of Federal individual income tax revenues to the States to fight crime.</title>
+	</titles>
+	<sponsor id="400365"/>
+	<cosponsors>
+		<cosponsor id="400113" joined="1994-07-20"/>
+		<cosponsor id="400322" joined="1994-08-18"/>
+		<cosponsor id="400348" joined="1994-07-12"/>
+		<cosponsor id="400104" joined="1994-06-28"/>
+		<cosponsor id="300151" joined="1994-07-25"/>
+		<cosponsor id="403545" joined="1994-07-14"/>
+		<cosponsor id="400057" joined="1994-06-22"/>
+		<cosponsor id="400382" joined="1994-07-28"/>
+		<cosponsor id="400076" joined="1994-07-20"/>
+		<cosponsor id="400440" joined="1994-07-14"/>
+		<cosponsor id="400649" joined="1994-06-28"/>
+		<cosponsor id="300096" joined="1994-08-05"/>
+		<cosponsor id="400252" joined="1994-07-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-16"><text>Referred jointly to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-06-16"><text>Referred jointly to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-06-16"><text>Referred jointly to the House Committee on Rules.</text></action>
+		<action datetime="1994-06-16"><text>Referred jointly to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-06-22"><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1994-08-18"><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2229" />
+	</relatedbills>
+	<subjects>
+		<term name="Law enforcement"/>
+		<term name="Administration of criminal justice"/>
+		<term name="Budgets"/>
+		<term name="Criminal justice"/>
+		<term name="Federal budgets"/>
+		<term name="Federal-state relations"/>
+		<term name="Government spending reductions"/>
+		<term name="Government trust funds"/>
+		<term name="Income tax"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="Judicial compensation"/>
+		<term name="Law"/>
+		<term name="Police"/>
+		<term name="Prisons"/>
+		<term name="Prosecution"/>
+		<term name="Public defenders"/>
+		<term name="Public prosecutors"/>
+		<term name="Salaries"/>
+		<term name="State and local government"/>
+		<term name="State politics and government"/>
+		<term name="Tax rebates"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/16/1994--Introduced.
+Tax Rebate to Fight Crime Act - Appropriates two percent of net Federal individual income tax revenues to the Trust Fund to Fight Crime established in each State. Allows expenditures from such trust funds for: (1) salaries and expenses of police officers; (2) building and operating prisons; and (3) salaries and expenses of judges of courts handling criminal cases, prosecutors, and public defenders. Requires rebates from such trust funds to taxpayers if amounts are not spent as required. Reduces discretionary spending limits set forth in the Congressional Budget Act of 1974 to reflect amounts appropriated by this Act.
+
+	</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="3907" updated="2010-04-19T09:19:55-04:00">
+	<state datetime="1994-02-24">REFERRED</state>
+	<status><introduced datetime="1994-02-24"/></status>
+
+	<introduced datetime="1994-02-24"/>
+	<titles>
+		<title type="official" as="introduced">To direct the Secretary of Health and Human Services to carry out a demonstration project under which physicians providing services to individuals entitled to benefits under the medicare program will receive regular information on charges submitted by and payments made to other providers who furnish services to such individuals.</title>
+	</titles>
+	<sponsor id="406482"/>
+	<cosponsors>
+		<cosponsor id="411040" joined="1994-05-02"/>
+		<cosponsor id="400109" joined="1994-04-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-24"><text>Sponsor introductory remarks on measure. (CR E253)</text></action>
+		<action datetime="1994-02-24"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-02-24"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-03-01"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1994-03-11"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Civil liberties"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Health policy"/>
+		<term name="Information services"/>
+		<term name="Medical care"/>
+		<term name="Medical fees"/>
+		<term name="Medical records"/>
+		<term name="Medicare"/>
+		<term name="Patients' rights"/>
+		<term name="Physicians"/>
+		<term name="Right of privacy"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1994--Introduced.
+Directs the Secretary of Health and Human Services to establish a demonstration project under which: (1) physicians providing services for which payment may be made under Medicare part B (Supplementary Medical Insurance) may, upon request and the patient's consent, periodically receive certain information on a particular patient's utilization of other Medicare providers; and (2) such physicians receive orientation and training on the use of such information to effectively manage patient care.
+
+	</summary>
+</bill>

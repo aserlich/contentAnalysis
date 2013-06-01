@@ -1,0 +1,96 @@
+<bill session="103" type="s" number="738" updated="2012-07-17T04:08:25-04:00">
+	<state datetime="1993-11-20">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-11-20" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-04-02"/>
+	<titles>
+		<title type="short" as="introduced">High Risk Drivers Act of 1993</title>
+		<title type="short" as="passed senate">High Risk Drivers Act of 1993</title>
+		<title type="official" as="introduced">A bill to promote the implementation of programs to improve the traffic safety performance of high risk drivers.</title>
+	</titles>
+	<sponsor id="403171"/>
+	<cosponsors>
+		<cosponsor id="300157" joined="1993-11-20"/>
+		<cosponsor id="403962" joined="1993-04-02"/>
+		<cosponsor id="300012" joined="1993-11-17"/>
+		<cosponsor id="300064" joined="1993-04-02"/>
+		<cosponsor id="300073" joined="1993-04-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-02" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4400-4401)</text></action>
+		<action datetime="1993-04-02" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<action datetime="1993-05-26"><committee name="Committee on Commerce"/><text>Committee on Commerce. Hearings held. Hearings printed: S.Hrg. 103-148.</text></action>
+		<calendar datetime="1993-11-09"  state="REPORTED"><committee name="Committee on Commerce"/><text>Committee on Commerce. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1993-11-20"><text>Committee on Commerce. Reported to Senate by Senator Hollings with an amendment in the nature of a substitute. With written report No. 103-199.</text></action>
+		<calendar under="General Orders" number="326" datetime="1993-11-20" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 326.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text><reference label="consideration" ref="CR S16875-16879"/></vote>
+		<action datetime="1993-11-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-21T14:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-21"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-12-03"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1719" />
+		<bill relation="unknown" session="103" type="h" number="1719" />
+	</relatedbills>
+	<subjects>
+		<term name="Roads and highways"/>
+		<term name="Administrative procedure"/>
+		<term name="Alcohol and youth"/>
+		<term name="Automobile insurance"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Counseling"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Criminal justice information"/>
+		<term name="Criminal justice information systems"/>
+		<term name="Data banks"/>
+		<term name="Department of Transportation"/>
+		<term name="Driver education"/>
+		<term name="Driver licenses"/>
+		<term name="Drug abuse"/>
+		<term name="Drunk driving"/>
+		<term name="Employee training"/>
+		<term name="Families"/>
+		<term name="Federal aid highway program"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Forfeiture"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Health"/>
+		<term name="Highway research"/>
+		<term name="Information networks"/>
+		<term name="Insurance rates"/>
+		<term name="Interstate compacts"/>
+		<term name="Labor and employment"/>
+		<term name="Medical screening"/>
+		<term name="Motor vehicle safety"/>
+		<term name="Railroad safety"/>
+		<term name="Recidivists"/>
+		<term name="Research and development"/>
+		<term name="Science, technology, communications"/>
+		<term name="Searches and seizures"/>
+		<term name="Seat belts"/>
+		<term name="Social welfare"/>
+		<term name="State laws"/>
+		<term name="State officials and employees"/>
+		<term name="Traffic accidents and safety"/>
+		<term name="Traffic engineering"/>
+		<term name="Transportation and public works"/>
+		<term name="Transportation and the aged"/>
+		<term name="Transportation and the physically handicapped"/>
+		<term name="Youth"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Passed Senate amended. TABLE OF CONTENTS: Title I: Young Driver Programs Title II: Older Driver Programs Title III: High Risk Drivers High Risk Drivers Act of 1993 - Directs the Secretary of Transportation to develop and implement effective and comprehensive policies and programs to promote safe driving behavior by young drivers, older drivers, and repeat violators of traffic safety regulations and laws, including specified safety promotion and driver training research activities. Title I: Young Driver Programs - Directs the Secretary to make basic and supplemental grants to those States which adopt and implement programs for young drivers which include measures to reduce traffic safety problems resulting from young drivers. Sets forth requirements regarding: (1) eligibility for basic grants (including the establishment and maintenance of a graduate licensing program for drivers under age 18 by State grant recipients and State compliance with specified criteria concerning drunk driving and other issues); (2) eligibility for supplemental grants (including provision for readily distinguishable licenses for younger drivers, driver education, recordkeeping of serious convictions, and oversight of alcohol sales to underage drinkers); (3) program evaluation; and (4) reporting requirements. Authorizes appropriations. Title II: Older Driver Programs - Directs the Secretary to engage in specified activities regarding: (1) research on predictability of high risk driving by older drivers; (2) specialized training for license examiners; (3) counseling procedures and consultation methods; (4) alternative transportation means; (5) State licensing practices; (6) improvement of medical screening; (7) intelligent vehicle-highway systems; and (8) technical evaluations under the Intermodal Surface Transportation Efficiency Act of 1991. Authorizes appropriations. Title III: High Risk Drivers - Directs the Secretary to: (1) study whether additional or strengthened Federal activities, authority, or regulatory actions are desirable or necessary to improve the driver record and control systems of the States to identify high risk drivers more rapidly and ensure prompt intervention in the licensing of such drivers; (2) evaluate the future of the national information systems that support driver licensing; and (3) encourage and promote State driver evaluation, assistance, or control programs for high risk drivers.
+
+	</summary>
+</bill>

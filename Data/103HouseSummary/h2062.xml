@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="2062" updated="2010-04-19T04:33:40-04:00">
+	<state datetime="1993-05-11">REFERRED</state>
+	<status><introduced datetime="1993-05-11"/></status>
+
+	<introduced datetime="1993-05-11"/>
+	<titles>
+		<title type="official" as="introduced">To amend chapter 11 of title 38, United States Code, to provide that veterans who are former prisoners of war shall be deemed to have a service-connected disability rated as total for the purposes of determining the benefits due to such veterans.</title>
+	</titles>
+	<sponsor id="404097"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1993-06-23"/>
+		<cosponsor id="400219" joined="1994-02-02"/>
+		<cosponsor id="410529" joined="1994-03-16"/>
+		<cosponsor id="401494" joined="1993-06-14"/>
+		<cosponsor id="400246" joined="1993-07-20"/>
+		<cosponsor id="406768" joined="1993-06-14"/>
+		<cosponsor id="400333" joined="1993-06-14"/>
+		<cosponsor id="401014" joined="1993-06-14"/>
+		<cosponsor id="400003" joined="1993-11-22"/>
+		<cosponsor id="400533" joined="1993-07-27"/>
+		<cosponsor id="407817" joined="1993-11-22"/>
+		<cosponsor id="400251" joined="1993-06-14"/>
+		<cosponsor id="400178" joined="1993-06-14"/>
+		<cosponsor id="400536" joined="1993-06-14"/>
+		<cosponsor id="402454" joined="1993-09-23"/>
+		<cosponsor id="400440" joined="1993-11-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-11"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-05-24"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Compensation, Pension and Insurance.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Veterans' Affairs" subcommittee="Compensation, Pension and Insurance" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Ex-prisoners of war"/>
+		<term name="Veterans' benefits"/>
+		<term name="Veterans' disability compensation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/11/1993--Introduced.
+Provides that a veteran who is a former prisoner of war shall be deemed to have a total service-connected disability rating for purposes of eligibility for veterans' benefits.
+
+	</summary>
+</bill>

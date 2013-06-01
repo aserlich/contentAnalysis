@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="4487" updated="2010-04-19T10:50:34-04:00">
+	<state datetime="1994-05-25">REFERRED</state>
+	<status><introduced datetime="1994-05-25"/></status>
+
+	<introduced datetime="1994-05-25"/>
+	<titles>
+		<title type="official" as="introduced">To require the Director of the Office of Management and Budget to develop and implement a system for determining and reporting the number of individuals employed by non-Federal Government entities providing services under contracts awarded by executive branch agencies.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-25"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-06-01"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4438" />
+	</relatedbills>
+	<subjects>
+		<term name="Public contracts"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Government contractors"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Government service contracts"/>
+		<term name="Labor"/>
+		<term name="Labor statistics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/25/1994--Introduced.
+Requires the Director of the Office of Management and Budget to develop and implement a system for determining the number of individuals employed by non-Federal Government entities providing services under service contracts awarded by Federal executive branch agencies. Requires annual reports to the Congress on such numbers.
+
+	</summary>
+</bill>

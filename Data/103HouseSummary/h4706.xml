@@ -1,0 +1,70 @@
+<bill session="103" type="h" number="4706" updated="2010-04-19T11:25:15-04:00">
+	<state datetime="1994-06-30">REFERRED</state>
+	<status><introduced datetime="1994-06-30"/></status>
+
+	<introduced datetime="1994-06-30"/>
+	<titles>
+		<title type="official" as="introduced">To provide for certain reductions in Federal spending at or through facilities of the Department of Energy, and for other purposes.</title>
+	</titles>
+	<sponsor id="406482"/>
+	<cosponsors>
+		<cosponsor id="412001" joined="1994-08-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-30"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-06-30"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-06-30"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1994-07-07"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Energy.</text></action>
+		<action datetime="1994-07-11"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Acquisition.</text></action>
+		<action datetime="1994-07-11"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOE.</text></action>
+		<action datetime="1994-07-22"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Energy and Power.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Acquisition" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="HSIF-03" name="House Energy and Commerce" subcommittee="Energy and Power" activity="Referral" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Energy" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Energy law and legislation"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Commercialization"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Department of Energy"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Energy research"/>
+		<term name="Executive departments"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal installations"/>
+		<term name="Government contractors"/>
+		<term name="Government spending reductions"/>
+		<term name="Laboratories"/>
+		<term name="Presidential commissions"/>
+		<term name="Presidents"/>
+		<term name="Privatization"/>
+		<term name="Productivity in government"/>
+		<term name="Public contracts"/>
+		<term name="Research and development facilities"/>
+		<term name="Science policy"/>
+		<term name="Technology"/>
+		<term name="Technology transfer"/>
+		<term name="Waste in government spending"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/30/1994--Introduced.
+Sets forth a sliding scale of Federal spending reductions affecting Department of Energy facilities for FY 1995 through 1997. Establishes the Reduction in Department of Energy Facility Funding Commission to submit a funding reduction implementation plan to the Secretary of Energy. Directs the Secretary to report to the Congress if he or she determines the Commission's recommendations should not be followed. Expresses the sense of the Congress that the savings resulting from the mandated spending reductions should be deposited in the Treasury.
+
+	</summary>
+</bill>

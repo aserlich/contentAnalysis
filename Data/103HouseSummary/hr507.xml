@@ -1,0 +1,43 @@
+<bill session="103" type="hr" number="507" updated="2010-04-19T14:17:50-04:00">
+	<state datetime="1994-08-05T11:03:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-08-05T11:03:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-08-04"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 4217) to reform the Federal crop insurance program, and for other purposes.</title>
+	</titles>
+	<sponsor id="403403"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-04T16:14:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-666, by Mr. Derrick.</text></action>
+		<action datetime="1994-08-04T16:14:00-04:00"><text>Rule provides for consideration of H.R. 4217 with 1 hour of general debate. Previous question shall be considered as ordered except motion to recommit. Measure will be read by section. Specified amendments are in order. It shall be in order to consider the amendment in the nature of a substitute recommended by the Committee on Agriculture now printed in the bill as an original bill for the purpose of amendment, as modified by the amendments printed in part 1 of the report accompanying this resolution. Before consideration of any other amendment, it shall be in order to consider the amendments printed in part 2 of the report, if offered in the order and manner specified in the report. All points of order against the amendment in the nature of a substitute and amendments printed in the report shall be waived.</text></action>
+		<calendar datetime="1994-08-04T16:14:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 205.</text></calendar>
+		<action datetime="1994-08-05T10:52:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H6992-6994"/></action>
+		<action datetime="1994-08-05T10:52:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1994-08-05T11:02:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-08-05T11:03:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1994-08-05T11:03:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4217" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Agriculture"/>
+		<term name="Congress"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/4/1994--Introduced.
+Sets forth the rule for the consideration of H.R. 4217 (Federal crop insurance program).
+
+	</summary>
+</bill>

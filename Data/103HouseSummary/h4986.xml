@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="4986" updated="2010-04-19T12:08:54-04:00">
+	<state datetime="1994-08-18">REFERRED</state>
+	<status><introduced datetime="1994-08-18"/></status>
+
+	<introduced datetime="1994-08-18"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to increase the deductibility of business meal expenses for individuals who are subject to Federal hours of limitation.</title>
+	</titles>
+	<sponsor id="400201"/>
+	<cosponsors>
+		<cosponsor id="407351" joined="1994-10-07"/>
+		<cosponsor id="400538" joined="1994-10-07"/>
+		<cosponsor id="408556" joined="1994-10-07"/>
+		<cosponsor id="411725" joined="1994-10-07"/>
+		<cosponsor id="400331" joined="1994-10-07"/>
+		<cosponsor id="400188" joined="1994-10-07"/>
+		<cosponsor id="406799" joined="1994-10-07"/>
+		<cosponsor id="400205" joined="1994-10-07"/>
+		<cosponsor id="401153" joined="1994-10-07"/>
+		<cosponsor id="400251" joined="1994-10-07"/>
+		<cosponsor id="400291" joined="1994-10-07"/>
+		<cosponsor id="400240" joined="1994-10-07"/>
+		<cosponsor id="400243" joined="1994-10-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-18"><text>Sponsor introductory remarks on measure. (CR H8603)</text></action>
+		<action datetime="1994-08-18"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2070" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Business"/>
+		<term name="Food"/>
+		<term name="Hours of labor"/>
+		<term name="Labor"/>
+		<term name="Tax deductions"/>
+		<term name="Taxation"/>
+		<term name="Transportation"/>
+		<term name="Transportation workers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/18/1994--Introduced.
+Amends the Internal Revenue Code to restore the business meal expense deduction to 80 percent (currently 50 percent) for individuals subject to the hours of service limitations of the Department of Transportation.
+
+	</summary>
+</bill>

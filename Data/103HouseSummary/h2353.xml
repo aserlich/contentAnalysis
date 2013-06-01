@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="2353" updated="2010-04-19T05:18:40-04:00">
+	<state datetime="1993-06-09">REFERRED</state>
+	<status><introduced datetime="1993-06-09"/></status>
+
+	<introduced datetime="1993-06-09"/>
+	<titles>
+		<title type="short" as="introduced">Cold War Funds for Youth Summer Jobs Act of 1993</title>
+		<title type="official" as="introduced">To make supplemental appropriations for fiscal year 1993 for the summer jobs program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400080"/>
+	<cosponsors>
+		<cosponsor id="400502" joined="1993-07-01"/>
+		<cosponsor id="400438" joined="1993-06-21"/>
+		<cosponsor id="404067" joined="1993-08-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-09"><text>Referred to the House Committee on Appropriations.</text></action>
+		<action datetime="1993-06-09"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-06-14"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAP" name="House Appropriations" activity="Referral, In Committee" />
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Appropriations"/>
+		<term name="Budget deficits"/>
+		<term name="Defense budgets"/>
+		<term name="Department of Labor"/>
+		<term name="Employment"/>
+		<term name="Executive departments"/>
+		<term name="Federal budgets"/>
+		<term name="Government spending reductions"/>
+		<term name="Manpower training programs"/>
+		<term name="Summer employment"/>
+		<term name="Supplemental appropriations"/>
+		<term name="Youth employment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/9/1993--Introduced.
+Cold War Funds for Youth Summer Jobs Act of 1993 - Makes supplemental appropriations for FY 1993 to training and employment services of the Employment and Training Administration, Department of Labor, for the summer jobs program under summer youth training and employment provisions of the Job Training Partnership Act. Designates such resultant new budget authority and outlays as defense spending, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act).
+
+	</summary>
+</bill>

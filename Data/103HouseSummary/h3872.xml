@@ -1,0 +1,68 @@
+<bill session="103" type="h" number="3872" updated="2010-04-19T09:14:23-04:00">
+	<state datetime="1994-02-22">REFERRED</state>
+	<status><introduced datetime="1994-02-22"/></status>
+
+	<introduced datetime="1994-02-22"/>
+	<titles>
+		<title type="short" as="introduced">Criminal Aliens Federal Responsibility Act of 1994</title>
+		<title type="official" as="introduced">To require the Federal Government to incarcerate or to reimburse State and local governments for the cost of incarcerating criminal aliens.</title>
+	</titles>
+	<sponsor id="400505"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1994-02-23"/>
+		<cosponsor id="404503" joined="1994-03-09"/>
+		<cosponsor id="400160" joined="1994-03-21"/>
+		<cosponsor id="407320" joined="1994-02-24"/>
+		<cosponsor id="406768" joined="1994-03-09"/>
+		<cosponsor id="400091" joined="1994-02-22"/>
+		<cosponsor id="404013" joined="1994-03-21"/>
+		<cosponsor id="400574" joined="1994-02-22"/>
+		<cosponsor id="400176" joined="1994-03-21"/>
+		<cosponsor id="400226" joined="1994-03-24"/>
+		<cosponsor id="400106" joined="1994-02-24"/>
+		<cosponsor id="400143" joined="1994-03-24"/>
+		<cosponsor id="404520" joined="1994-02-23"/>
+		<cosponsor id="400436" joined="1994-03-09"/>
+		<cosponsor id="400439" joined="1994-03-09"/>
+		<cosponsor id="409627" joined="1994-02-22"/>
+		<cosponsor id="406790" joined="1994-03-09"/>
+		<cosponsor id="400278" joined="1994-02-24"/>
+		<cosponsor id="408661" joined="1994-02-22"/>
+		<cosponsor id="400243" joined="1994-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-22"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-02-23"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1994-02-23"><committee name="House Committee on Judiciary" subcommittee="International Law, Immigration, and Refugees"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1849" />
+	</relatedbills>
+	<subjects>
+		<term name="Corrections"/>
+		<term name="Budgets"/>
+		<term name="Criminal justice"/>
+		<term name="Deportation"/>
+		<term name="Federal aid to law enforcement agencies"/>
+		<term name="Federal-local relations"/>
+		<term name="Federal-state relations"/>
+		<term name="Illegal aliens"/>
+		<term name="Immigration"/>
+		<term name="Imprisonment"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="Prisons"/>
+		<term name="State and local government"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/22/1994--Introduced.
+Criminal Aliens Federal Responsibility Act of 1994 - Requires the Federal Government to incarcerate or to reimburse State and local governments for the cost of incarcerating specified criminal aliens.
+
+	</summary>
+</bill>

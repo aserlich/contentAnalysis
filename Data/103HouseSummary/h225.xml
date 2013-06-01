@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="225" updated="2010-04-18T23:34:56-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To clarify the tax treatment of certain disability benefits received by former police officers or firefighters.</title>
+	</titles>
+	<sponsor id="406284"/>
+	<cosponsors>
+		<cosponsor id="404296" joined="1994-03-24"/>
+		<cosponsor id="400370" joined="1993-04-21"/>
+		<cosponsor id="400585" joined="1993-01-26"/>
+		<cosponsor id="400205" joined="1993-02-03"/>
+		<cosponsor id="400103" joined="1993-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="590" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Fire fighters"/>
+		<term name="Heart diseases"/>
+		<term name="Hypertension"/>
+		<term name="Limitation of actions"/>
+		<term name="Local officials and employees"/>
+		<term name="Medical care"/>
+		<term name="Police"/>
+		<term name="State officials and employees"/>
+		<term name="Survivors' benefits"/>
+		<term name="Tax credits"/>
+		<term name="Tax exclusion"/>
+		<term name="Tax refunds"/>
+		<term name="Workers' compensation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Treats heart disease and hypertension as personal injuries or sickness for purposes of excluding from gross income the disability benefits received by former police officers or firefighters.
+
+	</summary>
+</bill>

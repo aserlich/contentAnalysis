@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="1642" updated="2010-04-19T03:27:53-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="short" as="introduced">Legislative Line Item Veto Act of 1993</title>
+		<title type="official" as="introduced">To give the President legislative, line-item veto authority over budget authority in appropriations bills in fiscal years 1994 and 1995.</title>
+	</titles>
+	<sponsor id="400070"/>
+	<cosponsors>
+		<cosponsor id="401547" joined="1993-04-01"/>
+		<cosponsor id="400329" joined="1993-04-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01"><text>Sponsor introductory remarks on measure. (CR H1821)</text></action>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-04-06"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Government Operations"/><text>See H.R.1578.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1578" />
+	</relatedbills>
+	<subjects>
+		<term name="Appropriations"/>
+		<term name="Balanced budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Congressional publications"/>
+		<term name="Congressional veto"/>
+		<term name="Executive impoundment of appropriated funds"/>
+		<term name="Federal budgets"/>
+		<term name="House rules and procedure"/>
+		<term name="Item veto"/>
+		<term name="Legislation"/>
+		<term name="Legislative resolutions"/>
+		<term name="Presidential messages"/>
+		<term name="Presidential powers"/>
+		<term name="Public debt"/>
+		<term name="Senate rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Legislative Line Item Veto Act of 1993 - Grants the President legislative line item veto rescission authority. Authorizes the President to rescind all or part of any budget authority if the President determines that such rescission: (1) would help balance the Federal budget, reduce the Federal budget deficit, or reduce the public debt; (2) will not impair any essential Government functions; (3) will not harm the national interest; and (4) will directly contribute to the purpose of this Act of limiting discretionary spending in FY 1994 or 1995. Requires the President to notify the Congress of such a rescission by special message after enactment of appropriations legislation for FY 1994 or 1995. Makes such a rescission effective unless the Congress enacts a rescission disapproval bill. Describes: (1) information to be included in the President's message; and (2) procedures to govern consideration of rescission disapproval legislation in the Senate and the House of Representatives.
+
+	</summary>
+</bill>

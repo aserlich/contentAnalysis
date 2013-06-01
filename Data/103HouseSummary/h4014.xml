@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="4014" updated="2010-04-19T09:36:36-04:00">
+	<state datetime="1994-03-11">REFERRED</state>
+	<status><introduced datetime="1994-03-11"/></status>
+
+	<introduced datetime="1994-03-11"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Flood Control Act of 1968 to prohibit the imposition of certain fees for use of developed recreation sites and facilities.</title>
+	</titles>
+	<sponsor id="401153"/>
+	<cosponsors>
+		<cosponsor id="411725" joined="1994-06-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-11"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-03-11"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-03-24"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1994-04-27"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1953" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands"/>
+		<term name="Budgets"/>
+		<term name="Camping"/>
+		<term name="Lakes"/>
+		<term name="National recreation areas"/>
+		<term name="Reservoirs"/>
+		<term name="Sports"/>
+		<term name="User charges"/>
+		<term name="Water resources"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/1994--Introduced.
+Amends the Flood Control Act of 1968 to: (1) allow user fees at U.S. Army Corps of Engineers (Corps) lakes and reservoirs to be collected only from users of highly developed facilities requiring continuous maintenance and supervision; and (2) prohibit the collection of such fees for access to or use of water areas, undeveloped or lightly developed shoreland, and related areas where no mechanical or hydraulic equipment is provided. Amends the Land and Water Conservation Fund Act of 1965 to require the Corps, at Corps lakes and reservoirs where camping is permitted, to provide at least one primitive campground where no charge is imposed.
+
+	</summary>
+</bill>

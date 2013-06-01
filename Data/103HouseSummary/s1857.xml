@@ -1,0 +1,55 @@
+<bill session="103" type="s" number="1857" updated="2012-07-17T04:32:39-04:00">
+	<state datetime="1994-06-23">REPORTED</state>
+	<status><calendar datetime="1994-06-23" /></status>
+
+	<introduced datetime="1994-02-22"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize appropriations to assist in carrying out the North American Wetlands Conservation Act for fiscal year 1995 through fiscal year 2000, and for other purposes.</title>
+	</titles>
+	<sponsor id="407786"/>
+	<cosponsors>
+		<cosponsor id="402412" joined="1994-02-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-22" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1657)</text></action>
+		<action datetime="1994-02-22" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar datetime="1994-06-23"  state="REPORTED"><committee name="Committee on Environment and Public Works"/><text>Committee on Environment and Public Works. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1994-08-05"><text>Committee on Environment and Public Works. Reported to Senate by Senator Baucus with amendments and an amendment to the title. With written report No. 103-326.</text></action>
+		<calendar under="General Orders" number="543" datetime="1994-08-05" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 543.</text></calendar>
+		<action datetime="1994-10-04"><text>Indefinitely postponed by Senate by Unanimous Consent.</text></action>
+		<action datetime="1994-10-04"><text>See also H.R. 4308.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4308" />
+		<bill relation="unknown" session="103" type="h" number="4308" />
+		<bill relation="superseded" session="103" type="h" number="4308" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Animals"/>
+		<term name="Authorization"/>
+		<term name="Canada"/>
+		<term name="Department of the Interior"/>
+		<term name="Economics and public finance"/>
+		<term name="Government operations and politics"/>
+		<term name="International affairs"/>
+		<term name="International environmental cooperation"/>
+		<term name="Latin America"/>
+		<term name="Mexico"/>
+		<term name="Migratory bird conservation"/>
+		<term name="North America"/>
+		<term name="Water resources development"/>
+		<term name="Wetland conservation"/>
+		<term name="Wildlife conservation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/1994--Reported to Senate amended. Amends the North American Wetlands Conservation Act to extend the authorization of appropriations through FY 1998. Directs the Secretary of the Interior, in 1998 (currently, 1991) and at five-year intervals thereafter, to undertake with the appropriate officials of Canada and Mexico to revise the goals and other elements of the North American Waterfowl Management Plan. Requires the Secretary to develop: (1) a strategy to assist in conserving the full complement of North American wetlands systems and species dependent on such systems that incorporates existing information on types of wetlands habitats and species; and (2) procedures to monitor and evaluate the effectiveness of wetlands conservation projects completed under the Act.
+
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="1068" updated="2010-04-19T01:54:22-04:00">
+	<state datetime="1993-02-23">REFERRED</state>
+	<status><introduced datetime="1993-02-23"/></status>
+
+	<introduced datetime="1993-02-23"/>
+	<titles>
+		<title type="popular" as="">Freedom of Choice Act</title>
+		<title type="short" as="introduced">Freedom of Choice Act of 1993</title>
+		<title type="official" as="introduced">To protect the reproductive rights of women, and for other purposes.</title>
+	</titles>
+	<sponsor id="410887"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Judiciary"/><text>For Further Action See H.R.25.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="25" />
+		<bill relation="identical" session="103" type="s" number="25" />
+	</relatedbills>
+	<subjects>
+		<term name="Abortion"/>
+		<term name="Parent and child"/>
+		<term name="Religious liberty"/>
+		<term name="State laws"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1993--Introduced.
+Freedom of Choice Act of 1993 - Provides that a State: (1) may not restrict the right of a woman to choose to terminate a pregnancy before fetal viability; (2) may restrict such right after fetal viability unless necessary to preserve the life or health of the woman; and (3) may impose requirements on the performance of abortion procedures if medically necessary to protect the health of the woman. Declares that this Act shall not be construed to prevent a State from: (1) protecting individuals from having to participate in abortions to which they are conscientiously opposed; (2) declining to pay for such abortions; or (3) requiring minors to involve responsible adults before terminating a pregnancy.
+
+	</summary>
+</bill>

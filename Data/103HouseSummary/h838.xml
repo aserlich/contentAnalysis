@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="838" updated="2010-04-19T01:15:41-04:00">
+	<state datetime="1993-02-04">REFERRED</state>
+	<status><introduced datetime="1993-02-04"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Energy Security Tax Act</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to impose a fee on the importation of crude oil or refined petroleum products.</title>
+	</titles>
+	<sponsor id="400201"/>
+	<cosponsors>
+		<cosponsor id="404503" joined="1993-03-23"/>
+		<cosponsor id="400160" joined="1993-03-23"/>
+		<cosponsor id="400882" joined="1993-03-23"/>
+		<cosponsor id="411725" joined="1993-03-23"/>
+		<cosponsor id="401774" joined="1993-03-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04"><text>Sponsor introductory remarks on measure. (CR E294)</text></action>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="254" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Energy policy"/>
+		<term name="Excise tax"/>
+		<term name="Feedstock"/>
+		<term name="Fees"/>
+		<term name="Foreign trade"/>
+		<term name="Imports"/>
+		<term name="Indexing (Economic policy)"/>
+		<term name="Petrochemicals"/>
+		<term name="Petroleum"/>
+		<term name="Petroleum industry"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Energy Security Tax Act - Amends the Internal Revenue Code to impose an excise tax on the first sale within the United States of imports of: (1) crude oil; (2) refined petroleum products; and (3) petrochemical feedstocks or petrochemical derivatives.
+
+	</summary>
+</bill>

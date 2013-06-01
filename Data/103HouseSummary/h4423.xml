@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="4423" updated="2010-04-19T10:40:31-04:00">
+	<state datetime="1994-05-12">REFERRED</state>
+	<status><introduced datetime="1994-05-12"/></status>
+
+	<introduced datetime="1994-05-12"/>
+	<titles>
+		<title type="short" as="introduced">National Firearms Policy Commission Act</title>
+		<title type="official" as="introduced">To establish a commission responsible for making recommendations for laws that will control crime and formulating a national firearms policy without denying Second Amendment rights.</title>
+	</titles>
+	<sponsor id="400611"/>
+	<cosponsors>
+		<cosponsor id="404013" joined="1994-05-16"/>
+		<cosponsor id="404375" joined="1994-06-22"/>
+		<cosponsor id="400591" joined="1994-08-16"/>
+		<cosponsor id="400595" joined="1994-05-16"/>
+		<cosponsor id="404190" joined="1994-08-16"/>
+		<cosponsor id="400286" joined="1994-08-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-12"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-06-24"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Firearms"/>
+		<term name="Bill of Rights"/>
+		<term name="Congress"/>
+		<term name="Constitution"/>
+		<term name="Crime prevention"/>
+		<term name="Criminal justice"/>
+		<term name="Executive departments"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Firearms control"/>
+		<term name="Legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/12/1994--Introduced.
+National Firearms Policy Commission Act - Establishes a National Firearms Policy Commission to formulate a national firearms policy and develop recommendations for legislation designed to control crime without violating rights provided by the Second Amendment to the Constitution.
+
+	</summary>
+</bill>

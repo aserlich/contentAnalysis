@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="4160" updated="2010-04-19T09:59:27-04:00">
+	<state datetime="1994-03-24">REFERRED</state>
+	<status><introduced datetime="1994-03-24"/></status>
+
+	<introduced datetime="1994-03-24"/>
+	<titles>
+		<title type="short" as="introduced">Orphan Drug Act Amendments of 1994</title>
+		<title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act, the Public Health Service Act, and the Orphan Drug Act to revise the provisions of such Acts relating to orphan drugs.</title>
+	</titles>
+	<sponsor id="400425"/>
+	<cosponsors>
+		<cosponsor id="410496" joined="1994-03-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-24"><text>Sponsor introductory remarks on measure. (CR E561)</text></action>
+		<action datetime="1994-03-24"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-04-26"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1994-06-16"><committee name="House Committee on Energy and Commerce" subcommittee="Health and the Environment"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-07-29"><committee name="House Committee on Energy and Commerce" subcommittee="Health and the Environment"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-07-29"><committee name="House Committee on Energy and Commerce" subcommittee="Health and the Environment"/><text>Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 15 - 10.</text></action>
+		<action datetime="1994-08-05"><committee name="House Committee on Energy and Commerce"/><text>For Further Action See H.R.4865.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4865" />
+	</relatedbills>
+	<subjects>
+		<term name="Drugs"/>
+		<term name="Administrative procedure"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Clinical trials"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Drug industry"/>
+		<term name="Executive departments"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Government information"/>
+		<term name="Government publicity"/>
+		<term name="Licenses"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Orphan drugs"/>
+		<term name="Pharmaceutical research"/>
+		<term name="Research grants"/>
+		<term name="Science policy"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/24/1994--Introduced.
+Orphan Drug Act Amendments of 1994 - Amends the Federal Food, Drug, and Cosmetic Act to change from seven to four years the period of market exclusivity guaranteed to any approved orphan drug. Specifies that orphan drugs of &quot;limited commercial potential,&quot; as defined by regulations to be issued by the Department of Health and Human Services, would qualify for an additional three years of exclusive marketing rights. Permits more than one company to put a particular orphan drug on the market in instances where both companies were working on the drug in roughly the same time frame. Provides for the withdrawal of exclusive marketing rights if the patient population for the approved treatment exceeds 200,000. Extends the authorization of the research grant program. Replaces the existing Orphan Products Board with an Office for Orphan Diseases and Conditions.
+
+	</summary>
+</bill>

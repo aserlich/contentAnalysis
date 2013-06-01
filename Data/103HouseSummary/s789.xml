@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="789" updated="2012-07-17T05:05:06-04:00">
+	<state datetime="1993-04-19">REFERRED</state>
+	<status><introduced datetime="1993-04-19"/></status>
+
+	<introduced datetime="1993-04-19"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title 38, United States Code, to provide that future increases in the monthly amount paid by the State of New York to blind disabled veterans should be excluded from the determination of annual income for purposes of payment of pension by the Secretary of Veterans' Affairs.</title>
+	</titles>
+	<sponsor id="403142"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-19" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4634-4635)</text></action>
+		<action datetime="1993-04-19" state="REFERRED"><text>Read twice and referred to the Committee on Veterans.</text></action>
+		<action datetime="1994-03-24"><committee name="Committee on Veterans"/><text>Committee on Veterans. Hearings held.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2377" />
+		<bill relation="identical" session="103" type="h" number="2389" />
+		<bill relation="identical" session="103" type="h" number="2691" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Annuities"/>
+		<term name="Blind"/>
+		<term name="Income"/>
+		<term name="New York State"/>
+		<term name="Veterans' disability compensation"/>
+		<term name="Veterans' pensions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/19/1993--Introduced.
+Excludes from the determination of income, for purposes of the payment of pension by the Secretary of Veterans Affairs, any future increases made by the State of New York in the monthly amount paid to blind and totally disabled veterans.
+
+	</summary>
+</bill>

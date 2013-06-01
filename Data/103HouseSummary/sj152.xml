@@ -1,0 +1,43 @@
+<bill session="103" type="sj" number="152" updated="2012-07-17T04:12:52-04:00">
+	<state datetime="1993-11-17">REFERRED</state>
+	<status><introduced datetime="1993-11-17"/></status>
+
+	<introduced datetime="1993-11-17"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution to designate the visitors center at the Channel Islands National Park, California, as the &quot;Robert J. Lagomarsino Visitors Center&quot;.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-17" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S15945)</text></action>
+		<action datetime="1993-11-17" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-05-19"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="67" />
+	</relatedbills>
+	<subjects>
+		<term name="Parks"/>
+		<term name="California"/>
+		<term name="Commemorations"/>
+		<term name="Government operations and politics"/>
+		<term name="Islands"/>
+		<term name="Names"/>
+		<term name="National parks"/>
+		<term name="Public lands and natural resources"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/17/1993--Introduced.
+Designates the visitors center at Channel Islands National Park, California, as the Robert J. Lagomarsino Visitors Center.
+
+	</summary>
+</bill>

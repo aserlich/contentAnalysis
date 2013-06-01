@@ -1,0 +1,53 @@
+<bill session="103" type="s" number="1408" updated="2012-07-17T05:19:21-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">A bill to repeal the increase in tax on Social Security benefits.</title>
+	</titles>
+	<sponsor id="300069"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-09-15"/>
+		<cosponsor id="300071" joined="1993-10-14"/>
+		<cosponsor id="300052" joined="1993-11-17"/>
+		<cosponsor id="300099" joined="1993-11-01"/>
+		<cosponsor id="300070" joined="1993-09-15"/>
+		<cosponsor id="402675" joined="1994-07-11"/>
+		<cosponsor id="300023" joined="1993-10-28"/>
+		<cosponsor id="400565" joined="1993-11-10"/>
+		<cosponsor id="300154" joined="1993-09-30"/>
+		<cosponsor id="300049" joined="1994-09-28"/>
+		<cosponsor id="401874" joined="1994-08-02"/>
+		<cosponsor id="400559" joined="1993-09-15"/>
+		<cosponsor id="403968" joined="1993-11-17"/>
+		<cosponsor id="300089" joined="1993-10-28"/>
+		<cosponsor id="300029" joined="1993-09-22"/>
+		<cosponsor id="400558" joined="1993-09-15"/>
+		<cosponsor id="300155" joined="1993-11-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S10873-10874)</text></action>
+		<action datetime="1993-08-06" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2959" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Railroad retirement plans"/>
+		<term name="Tax exclusion"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Repeals the tax increase on social security benefits made under the Revenue Reconciliation Act of 1993.
+
+	</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="2592" updated="2010-04-19T05:55:44-04:00">
+	<state datetime="1993-07-01">REFERRED</state>
+	<status><introduced datetime="1993-07-01"/></status>
+
+	<introduced datetime="1993-07-01"/>
+	<titles>
+		<title type="short" as="introduced">Distance Learning Information Act of 1993</title>
+		<title type="official" as="introduced">To establish a clearinghouse of information concerning telecommunications technologies that are useful in distance learning programs, and for other purposes.</title>
+	</titles>
+	<sponsor id="406482"/>
+	<cosponsors>
+		<cosponsor id="411040" joined="1993-07-01"/>
+		<cosponsor id="400262" joined="1993-07-01"/>
+		<cosponsor id="400316" joined="1993-10-27"/>
+		<cosponsor id="404097" joined="1993-10-27"/>
+		<cosponsor id="400615" joined="1993-10-27"/>
+		<cosponsor id="400516" joined="1993-10-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-01"><text>Sponsor introductory remarks on measure. (CR E1721)</text></action>
+		<action datetime="1993-07-01"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-08-02"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+		<action datetime="1993-11-08"><committee name="House Committee on Energy and Commerce"/><text>For Further Action See H.R.2639.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2639" />
+	</relatedbills>
+	<subjects>
+		<term name="Communications"/>
+		<term name="Data banks"/>
+		<term name="Education"/>
+		<term name="Educational technology"/>
+		<term name="Information services"/>
+		<term name="Telecommunication"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/1/1993--Introduced.
+Distance Learning Information Act of 1993 - Amends the National Telecommunications and Information Administration Organization Act to direct the Assistant Secretary for Communications and Information to establish a clearinghouse for the collection and dissemination of information concerning distance learning. (Defines &quot;distance learning&quot; as the use by schools, libraries, public broadcasters, and nonprofit organizations of two-way video and audio telecommunications technologies, such as satellite transmission, fiber optics, and broadcast, to allow increased access to educational materials and information by individuals and groups who are at different and remote locations from the originator of the information.) Includes among the functions of the clearinghouse: (1) maintaining a database of distance learning providers; (2) reviewing reports of distance learning activities; (3) analyzing effectiveness of activities; (4) publishing compilations of the reports and analyses; and (5) coordinating with the public telecommunications facilities program and other grant programs of the Department of Commerce for review of distance learning grant applications. Amends the Communications Act of 1934 to require applicants for construction and planning grants with regard to public telecommunications facilities to submit to the distance learning clearinghouse such information concerning the project funded by the grant as the Secretary of Commerce may require in order to promote the purposes of such clearinghouse.
+
+	</summary>
+</bill>

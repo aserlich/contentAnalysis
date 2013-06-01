@@ -1,0 +1,61 @@
+<bill session="103" type="s" number="1079" updated="2010-04-19T17:18:39-04:00">
+	<state datetime="1993-05-19">REPORTED</state>
+	<status><calendar datetime="1993-05-19" /></status>
+
+	<introduced datetime="1993-06-08"/>
+	<titles>
+		<title type="official" as="introduced">An original bill to authorize major medical facility projects and leases for the Department of Veterans' Affairs, to revise and extend the authority of the Secretary of Veterans' Affairs to enter into enhanced-use leases, to authorize the disposal of Pershing Hall, France, and for other purposes.</title>
+	</titles>
+	<sponsor id="300084"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar datetime="1993-05-19"  state="REPORTED"><text>Committee on Veterans ordered to be reported an original measure.</text></calendar>
+		<action datetime="1993-06-08"><text>Committee on Veterans. Original measure reported to Senate by Senator Rockefeller. With written report No. 103-53. Minority views filed.</text></action>
+		<calendar under="General Orders" number="86" datetime="1993-06-08" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 86.</text></calendar>
+		<action datetime="1993-07-14"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S8732-8735"/></action>
+		<action datetime="1993-07-14"><text>Senate incorporated this measure in H.R. 2034 as an amendment.</text></action>
+		<action datetime="1993-07-14"><text>Senate passed companion measure H.R. 2034 in lieu of this measure by Voice Vote.</text></action>
+		<action datetime="1993-07-14"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S8735"/></action>
+	</actions>
+	<committees>
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Origin, Reporting, Markup" />
+	</committees>
+	<relatedbills>
+		<bill relation="superseded" session="103" type="h" number="2034" />
+		<bill relation="unknown" session="103" type="h" number="2034" />
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Appropriations"/>
+		<term name="Authorization"/>
+		<term name="Commemorations"/>
+		<term name="Department of Veterans Affairs"/>
+		<term name="Executive departments"/>
+		<term name="France"/>
+		<term name="Government trust funds"/>
+		<term name="House rules and procedure"/>
+		<term name="Land transfers"/>
+		<term name="Leases"/>
+		<term name="Legislation"/>
+		<term name="Medical care"/>
+		<term name="Military hospitals"/>
+		<term name="Military medicine"/>
+		<term name="Monuments and memorials"/>
+		<term name="Parking facilities"/>
+		<term name="Reprogramming of appropriated funds"/>
+		<term name="Revolving funds"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Veterans' hospitals"/>
+		<term name="Veterans' medical care"/>
+		<term name="World War I"/>
+	</subjects>
+	<amendments>
+		<amendment number="s569"/>
+	</amendments>
+	<summary>
+	7/14/1993--Indefinitely postponed in Senate. Authorizes the Secretary of Veterans Affairs to carry out the major medical facilities projects and leases of the Department of Veterans Affairs for which funds are requested in the FY 1994 budget submitted to the Congress. Authorizes appropriations. Authorizes the Secretary to make payments for Department use of space or services from funds appropriated to the Department for construction (other than grants for construction). Extends through December 31, 1996, the authority of the Department to enter into enhanced-use leases (leasing unused Department property to others). Increases from $2,000,000 to $3,000,000 the Department cost threshold for consideration: (1) of a project as a major medical facility project; and (2) of a parking facility construction, alteration, or acquisition project as a major medical facility project. Amends the Veterans' Benefits Programs Improvement Act of 1991 to increase from 35 to 99 years the authorized period for leasing newly constructed or substantially rehabilitated areas of Pershing Hall in Paris, France.
+
+	</summary>
+</bill>

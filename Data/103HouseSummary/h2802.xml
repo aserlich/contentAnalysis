@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="2802" updated="2010-04-19T06:28:09-04:00">
+	<state datetime="1993-07-29">REFERRED</state>
+	<status><introduced datetime="1993-07-29"/></status>
+
+	<introduced datetime="1993-07-29"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to exempt unemployment benefits from Federal and State income taxation.</title>
+	</titles>
+	<sponsor id="401494"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-29"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-07-29"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-03"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Local taxation"/>
+		<term name="State taxation"/>
+		<term name="Tax exclusion"/>
+		<term name="Unemployment insurance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/29/1993--Introduced.
+Amends the Internal Revenue Code to exempt unemployment compensation from Federal income tax. Amends Federal law to exempt unemployment benefits from State or local income tax.
+
+	</summary>
+</bill>

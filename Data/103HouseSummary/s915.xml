@@ -1,0 +1,47 @@
+<bill session="103" type="s" number="915" updated="2012-07-17T05:16:58-04:00">
+	<state datetime="1993-05-06">REFERRED</state>
+	<status><introduced datetime="1993-05-06"/></status>
+
+	<introduced datetime="1993-05-06"/>
+	<titles>
+		<title type="short" as="introduced">Semiconductor Investment Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to more accurately codify the depreciable life of semiconductor manufacturing equipment.</title>
+	</titles>
+	<sponsor id="300005"/>
+	<cosponsors>
+		<cosponsor id="403669" joined="1993-05-26"/>
+		<cosponsor id="300052" joined="1993-06-22"/>
+		<cosponsor id="300043" joined="1993-09-13"/>
+		<cosponsor id="408420" joined="1993-05-06"/>
+		<cosponsor id="300054" joined="1993-10-04"/>
+		<cosponsor id="300029" joined="1994-04-19"/>
+		<cosponsor id="409225" joined="1993-05-26"/>
+		<cosponsor id="300011" joined="1993-06-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-06" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5650)</text></action>
+		<action datetime="1993-05-06" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Corporation taxes"/>
+		<term name="Depreciation and amortization"/>
+		<term name="Equipment and supplies"/>
+		<term name="Semiconductor industry"/>
+		<term name="Tax deductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/6/1993--Introduced.
+Semiconductor Investment Act of 1993 - Amends the Internal Revenue Code to classify the depreciable life for semiconductor manufacturing equipment as three-year property.
+
+	</summary>
+</bill>

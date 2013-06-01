@@ -1,0 +1,36 @@
+<bill session="103" type="h" number="2115" updated="2010-04-19T04:41:46-04:00">
+	<state datetime="1993-05-12">REFERRED</state>
+	<status><introduced datetime="1993-05-12"/></status>
+
+	<introduced datetime="1993-05-12"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Gorsha Michaelovich Sur.</title>
+	</titles>
+	<sponsor id="400174"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-12"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-21"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Immigration"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/12/1993--Introduced.
+Waives certain naturalization requirements under the Immigration and Nationality Act with regard to a named individual.
+
+	</summary>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="4048" updated="2010-04-19T09:41:57-04:00">
+	<state datetime="1994-03-16">REFERRED</state>
+	<status><introduced datetime="1994-03-16"/></status>
+
+	<introduced datetime="1994-03-16"/>
+	<titles>
+		<title type="short" as="introduced">Hmong Veterans' Naturalization Act of 1994</title>
+		<title type="official" as="introduced">To expedite the naturalization of aliens who served with special guerrilla units in Laos.</title>
+	</titles>
+	<sponsor id="400612"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1994-03-16"/>
+		<cosponsor id="400126" joined="1994-04-19"/>
+		<cosponsor id="400527" joined="1994-04-19"/>
+		<cosponsor id="400409" joined="1994-03-16"/>
+		<cosponsor id="400143" joined="1994-04-19"/>
+		<cosponsor id="409650" joined="1994-03-16"/>
+		<cosponsor id="400140" joined="1994-03-16"/>
+		<cosponsor id="406082" joined="1994-08-03"/>
+		<cosponsor id="404190" joined="1994-03-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-16"><text>Sponsor introductory remarks on measure. (CR E441-442)</text></action>
+		<action datetime="1994-03-16"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-03-22"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1994-05-11"><text>Sponsor introductory remarks on measure. (CR E900-902)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1867" />
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="East Asia"/>
+		<term name="English language"/>
+		<term name="Guerrilla warfare"/>
+		<term name="Laos"/>
+		<term name="Laotians"/>
+		<term name="Naturalization"/>
+		<term name="Veterans"/>
+		<term name="Vietnamese Conflict"/>
+		<term name="Widows"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/16/1994--Introduced.
+Hmong Veterans' Naturalization Act of 1994 - Waives the English language naturalization requirement for certain aliens (or their spouses or widows) who served with special guerrilla units in Laos. Provides for naturalization under the Immigration and Nationality Act through such service.
+
+	</summary>
+</bill>

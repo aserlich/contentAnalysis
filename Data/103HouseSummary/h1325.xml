@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="1325" updated="2010-04-19T02:37:30-04:00">
+	<state datetime="1993-03-11">REFERRED</state>
+	<status><introduced datetime="1993-03-11"/></status>
+
+	<introduced datetime="1993-03-11"/>
+	<titles>
+		<title type="short" as="introduced">Indian Employment and Investment Act of 1993</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide tax credits for Indian investment and employment, and for other purposes.</title>
+	</titles>
+	<sponsor id="409205"/>
+	<cosponsors>
+		<cosponsor id="403875" joined="1993-05-11"/>
+		<cosponsor id="400193" joined="1993-07-13"/>
+		<cosponsor id="401774" joined="1993-03-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-11"><text>Sponsor introductory remarks on measure. (CR E603)</text></action>
+		<action datetime="1993-03-11"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Select Revenue Measures.</text></action>
+		<action datetime="1993-06-22"><committee name="House Committee on Ways and Means" subcommittee="Select Revenue Measures"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-05" name="House Ways and Means" subcommittee="Select Revenue Measures" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="211" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Employment tax credits"/>
+		<term name="Health insurance"/>
+		<term name="Indian economic development"/>
+		<term name="Indian lands"/>
+		<term name="Insurance premiums"/>
+		<term name="Investment tax credit"/>
+		<term name="Labor statistics"/>
+		<term name="Medical care"/>
+		<term name="Real estate business"/>
+		<term name="Unemployment"/>
+		<term name="Wages"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/1993--Introduced.
+Indian Employment and Investment Act of 1993 - Amends the Internal Revenue Code to establish an Indian reservation credit as a tax credit for investment in qualified Indian reservation property. Treats real estate rentals on an Indian reservation as the active conduct of a trade or business on such reservation. Declares that such credit applies only in the event that the Indian unemployment rate on the applicable reservation exceeds 300 percent of the national average unemployment rate at any time during the taxable year or in the immediately preceding taxable year. Provides for the recapture of such credit in the event such reservation property ceases to be investment property. Sets forth rules with respect to adjusting the basis of such property to reflect the investment credit. Allows businesses an employment credit for the qualified wages and qualified employee health insurance costs paid or incurred during a taxable year. Requires employees to perform substantially all services within an Indian reservation and to reside on or near such reservation. Limits such credit to the first seven years of employment and excludes employees earning more than $30,000 per year. Establishes penalties to be imposed if an employee is terminated before the day one year after the day on which the employee began work for the employer. Applies certain rules for computing the targeted jobs credit to such employment credit.
+
+	</summary>
+</bill>

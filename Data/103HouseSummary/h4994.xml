@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="4994" updated="2010-04-19T12:10:08-04:00">
+	<state datetime="1994-09-29">REPORTED</state>
+	<status><calendar datetime="1994-09-29" /></status>
+
+	<introduced datetime="1994-08-18"/>
+	<titles>
+		<title type="short" as="introduced">Baseball Fans and Communities Protection Act of 1994</title>
+		<title type="short" as="reported to house">Baseball Fans and Communities Protection Act of 1994</title>
+		<title type="official" as="introduced">To apply the antitrust laws of the United States to major league baseball.</title>
+	</titles>
+	<sponsor id="410589"/>
+	<cosponsors>
+		<cosponsor id="411677" joined="1994-09-26"/>
+		<cosponsor id="400155" joined="1994-09-26"/>
+		<cosponsor id="400306" joined="1994-08-18"/>
+		<cosponsor id="400028" joined="1994-08-18"/>
+		<cosponsor id="300014" joined="1994-08-18"/>
+		<cosponsor id="400357" joined="1994-10-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-18"><text>Sponsor introductory remarks on measure. (CR E1764)</text></action>
+		<action datetime="1994-08-18"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-08-23"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Judiciary" subcommittee="Economic and Commercial Law"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Judiciary" subcommittee="Economic and Commercial Law"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1994-09-29"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-29"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1994-11-29T19:37:00-05:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-871.</text></action>
+		<calendar number="488" datetime="1994-11-29T19:38:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 488.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Antitrust law"/>
+		<term name="Actions and defenses"/>
+		<term name="Baseball"/>
+		<term name="Business"/>
+		<term name="Collective bargaining"/>
+		<term name="Collective bargaining agreements"/>
+		<term name="Industrial relations"/>
+		<term name="Injunctions"/>
+		<term name="Labor"/>
+		<term name="Law"/>
+		<term name="Professional sports"/>
+		<term name="Restrictive trade practices"/>
+		<term name="Sports"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/29/1994--Reported to House amended. Baseball Fans and Communities Protection Act of 1994 - Amends the Clayton Act to apply the antitrust laws to any unilateral terms and conditions of employment in restraint of trade or commerce imposed by any party to an agreement between two or more major league baseball clubs and the labor organization representing the baseball players. States that the antitrust laws shall not apply to a term or condition imposed solely with respect to a player party to a uniform player contract that is assigned, at the time such imposition occurs, to a non-major league professional baseball club.
+
+	</summary>
+</bill>

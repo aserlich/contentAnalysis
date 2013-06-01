@@ -1,0 +1,37 @@
+<bill session="103" type="h" number="4045" updated="2010-04-19T09:41:29-04:00">
+	<state datetime="1994-03-16">REFERRED</state>
+	<status><introduced datetime="1994-03-16"/></status>
+
+	<introduced datetime="1994-03-16"/>
+	<titles>
+		<title type="official" as="introduced">To confer United States citizenship posthumously on Rudolph Salli.</title>
+	</titles>
+	<sponsor id="400322"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-16"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-03-22"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Citizenship"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/16/1994--Introduced.
+Confers citizenship posthumously on a named individual.
+
+	</summary>
+</bill>

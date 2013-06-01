@@ -1,0 +1,102 @@
+<bill session="103" type="hc" number="286" updated="2010-04-18T21:45:46-04:00">
+	<state datetime="1994-10-04T19:19:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-04T19:19:00-04:00" where="h" result="pass" how="roll" roll="479"/></status>
+
+	<introduced datetime="1994-08-17"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the contribution of President Alfredo Christiani of El Salvador to achieve peace and national reconciliation in El Salvador.</title>
+	</titles>
+	<sponsor id="400015"/>
+	<cosponsors>
+		<cosponsor id="400571" joined="1994-08-19"/>
+		<cosponsor id="400596" joined="1994-08-19"/>
+		<cosponsor id="400380" joined="1994-08-19"/>
+		<cosponsor id="400156" joined="1994-08-19"/>
+		<cosponsor id="400170" joined="1994-08-19"/>
+		<cosponsor id="400036" joined="1994-08-19"/>
+		<cosponsor id="400091" joined="1994-08-19"/>
+		<cosponsor id="400104" joined="1994-08-19"/>
+		<cosponsor id="400344" joined="1994-08-19"/>
+		<cosponsor id="400176" joined="1994-08-19"/>
+		<cosponsor id="404996" joined="1994-08-17"/>
+		<cosponsor id="400028" joined="1994-08-19"/>
+		<cosponsor id="406863" joined="1994-09-28"/>
+		<cosponsor id="411247" joined="1994-09-28"/>
+		<cosponsor id="400377" joined="1994-08-19"/>
+		<cosponsor id="411725" joined="1994-08-19"/>
+		<cosponsor id="400359" joined="1994-08-19"/>
+		<cosponsor id="410567" joined="1994-08-19"/>
+		<cosponsor id="400037" joined="1994-08-19"/>
+		<cosponsor id="400225" joined="1994-08-19"/>
+		<cosponsor id="400331" joined="1994-08-19"/>
+		<cosponsor id="400188" joined="1994-08-19"/>
+		<cosponsor id="400551" joined="1994-08-19"/>
+		<cosponsor id="300062" joined="1994-08-19"/>
+		<cosponsor id="400343" joined="1994-09-28"/>
+		<cosponsor id="400115" joined="1994-08-19"/>
+		<cosponsor id="300156" joined="1994-08-19"/>
+		<cosponsor id="300014" joined="1994-08-19"/>
+		<cosponsor id="400083" joined="1994-08-19"/>
+		<cosponsor id="400076" joined="1994-08-19"/>
+		<cosponsor id="400586" joined="1994-08-19"/>
+		<cosponsor id="410084" joined="1994-08-19"/>
+		<cosponsor id="400366" joined="1994-08-19"/>
+		<cosponsor id="400536" joined="1994-08-19"/>
+		<cosponsor id="400247" joined="1994-08-19"/>
+		<cosponsor id="400569" joined="1994-09-28"/>
+		<cosponsor id="400286" joined="1994-08-19"/>
+		<cosponsor id="401081" joined="1994-08-19"/>
+		<cosponsor id="405258" joined="1994-08-19"/>
+		<cosponsor id="407669" joined="1994-09-28"/>
+		<cosponsor id="403864" joined="1994-09-28"/>
+		<cosponsor id="400435" joined="1994-08-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-17"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-08-31"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Western Hemisphere Affairs.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Received from State.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Foreign Affairs"/><text>Subcommittee on Western Hemisphere Affairs Discharged.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T16:49:00-04:00"><text>Mr. Menendez moved to suspend the rules and agree to the resolution.</text></action>
+		<action datetime="1994-10-03T16:49:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10590-10591"/></action>
+		<action datetime="1994-10-03T16:49:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-03T16:57:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1994-10-04T19:12:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10737-10738"/></action>
+		<vote how="roll" type="vote" roll="479" datetime="1994-10-04T19:19:00-04:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 414 - 0, 4 Present (Roll no. 479).</text></vote>
+		<action datetime="1994-10-04T19:19:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-05"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Referred to the Committee on Foreign Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup" />
+		<committee code="HSFA-07" name="House Foreign Affairs" subcommittee="Western Hemisphere Affairs" activity="Referral, Discharged" />
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Civil war"/>
+		<term name="Commemorations"/>
+		<term name="Congress"/>
+		<term name="Congressional tributes"/>
+		<term name="Democracy"/>
+		<term name="El Salvador"/>
+		<term name="Foreign policy"/>
+		<term name="International affairs"/>
+		<term name="Latin America"/>
+		<term name="Peace"/>
+		<term name="Peace treaties"/>
+		<term name="Politics and government"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/17/1994--Introduced.
+Expresses the sense of the Congress with respect to its recognition of El Salvador's President Cristiani for his contributions to the cause of peace and democracy in that country.
+
+	</summary>
+</bill>

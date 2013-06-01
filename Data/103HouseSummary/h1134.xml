@@ -1,0 +1,87 @@
+<bill session="103" type="h" number="1134" updated="2012-07-17T04:51:40-04:00">
+	<state datetime="1994-05-19">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-05-19" /></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="short" as="introduced">Clear Creek County, Colorado, Public Lands Transfer Act of 1993</title>
+		<title type="short" as="passed house">Clear Creek County, Colorado, Public Lands Transfer Act of 1993</title>
+		<title type="short" as="reported to senate">Clear Creek County, Colorado, Public Lands Transfer Act of 1993</title>
+		<title type="short" as="passed senate">Clear Creek County, Colorado, Public Lands Transfer Act of 1993</title>
+		<title type="short" as="enacted">Clear Creek County, Colorado, Public Lands Transfer Act of 1993</title>
+		<title type="official" as="introduced">To provide for the transfer of certain public lands located in Clear Creek County, Colorado, to the United States Forest Service, the State of Colorado, and certain local governments in the State of Colorado, and for other purposes.</title>
+		<title type="official" as="amended by senate">An Act to provide for the transfer of ceratin public lands located in Clear Creek County, Colorado, to the Forest Service, the State of Colorado, and certain local governments in the State of Colorado, and for other purposes.</title>
+	</titles>
+	<sponsor id="409954"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E435)</text></action>
+		<action datetime="1993-02-24" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-05-06"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-05-06"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-06-16"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-06-16"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-06-21T11:41:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-141.</text></action>
+		<calendar number="77" datetime="1993-06-21T11:42:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 77.</text></calendar>
+		<action datetime="1993-06-21T12:15:00-04:00"><text>Mr. Vento moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-06-21T12:16:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3841-3844"/></action>
+		<action datetime="1993-06-21T12:16:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-06-21T12:27:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-06-21T12:27:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-06-22"><text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-06-23"><committee name="House Committee on Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, Department of Agriculture, and Office of Management and Budget.</text></action>
+		<action datetime="1993-11-03"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee on Public Lands, National Parks. Hearings held.</text></action>
+		<calendar datetime="1994-02-02" ><committee name="House Committee on Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1994-02-23"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments and an amendment to the title. With written report No. 103-228.</text></action>
+		<calendar under="General Orders" number="372" datetime="1994-02-23" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 372.</text></calendar>
+		<action datetime="1994-04-08"><committee name="House Committee on Natural Resources"/><text>Committee on Energy and Natural Resources received executive comment from Department of Agriculture. Favorable.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-04-12" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text><reference label="consideration" ref="CR S4180-4181"/></vote>
+		<action datetime="1994-04-13"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-05-10T12:58:00-04:00"><text>Mr. Vento moved that the House suspend the rules and agree to the Senate amendments.</text></action>
+		<action datetime="1994-05-10T12:58:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="pingpong" datetime="1994-05-10T13:01:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.</text><reference label="consideration" ref="CR H3209"/></vote>
+		<action datetime="1994-05-10T13:01:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-05-10" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-05-13" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-05-19" ><text>Signed by President.</text></signed>
+		<enacted number="103-253" type="public" datetime="1994-05-19"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-253.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Colorado"/>
+		<term name="Environmental protection"/>
+		<term name="Government liability"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Hazardous waste disposal"/>
+		<term name="Land transfers"/>
+		<term name="Law"/>
+		<term name="Liability for environmental damages"/>
+		<term name="Liability for toxic substances pollution damages"/>
+		<term name="Mines and mineral resources"/>
+		<term name="Mining claims"/>
+		<term name="Mining leases"/>
+		<term name="National forests"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/12/1994--Passed Senate amended. Clear Creek County, Colorado, Public Lands Transfer Act of 1993 - Directs the Secretary of the Interior to transfer certain public lands in Clear Creek County, Colorado, to the Secretary of Agriculture, the State of Colorado, and certain local governments (Clear Creek County and the towns of Silver Plume and Georgetown). Modifies the boundaries of the Arapaho National Forest, Colorado, to include certain lands conveyed to the Secretary of Agriculture. Withdraws the public lands transferred to Colorado and the local governments from U.S. mining and mineral leasing laws. Requires the consent of the Secretary before the grantee or its successor can transfer the title of such conveyed lands. Makes the grantee liable to the Secretary for the fair market value of such conveyed lands if such lands are devoted to a use inconsistent with limitations under this Act or transferred to another party. Relieves: (1) the Secretary from being required to inspect any public lands described in this Act or to inform Clear Creek County or any member of the public regarding the condition of such lands with respect to the presence or absence of hazardous substances or otherwise; and (2) the United States from liability regarding hazardous wastes or substances placed on such lands after their transfer to the ownership of another party.
+
+	</summary>
+</bill>

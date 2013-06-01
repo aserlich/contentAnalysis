@@ -1,0 +1,37 @@
+<bill session="103" type="s" number="140" updated="2012-07-17T05:19:24-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide that the State Health Insurance Program of Hawaii is eligible for reimbursement from certain funds appropriated to the Public Health and Social Services Emergency Fund, and for other purposes.</title>
+	</titles>
+	<sponsor id="300056"/>
+	<cosponsors>
+		<cosponsor id="300001" joined="1993-02-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="989" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Government trust funds"/>
+		<term name="Hawaii"/>
+		<term name="Health insurance"/>
+		<term name="State finance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Makes expenses incurred during the year after enactment of this Act by the State of Hawaii for operating its State Health Insurance Program eligible for reimbursement from funds appropriated to the Public Health and Social Services Emergency Fund under a specified public law and subsequent appropriations Acts.
+
+	</summary>
+</bill>

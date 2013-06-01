@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="1107" updated="2010-04-19T02:00:47-04:00">
+	<state datetime="1993-02-24">REFERRED</state>
+	<status><introduced datetime="1993-02-24"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="short" as="introduced">Wind Engineering Research Program Act of 1993</title>
+		<title type="official" as="introduced">To establish a wind engineering research program within the National Institute of Standards and Technology.</title>
+	</titles>
+	<sponsor id="406790"/>
+	<cosponsors>
+		<cosponsor id="400170" joined="1993-02-24"/>
+		<cosponsor id="401014" joined="1993-02-24"/>
+		<cosponsor id="406082" joined="1993-02-24"/>
+		<cosponsor id="404602" joined="1993-02-24"/>
+		<cosponsor id="400572" joined="1993-03-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-03-01"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Technology, Environment and Aviation.</text></action>
+		<action datetime="1993-06-29"><committee name="House Committee on Science, Space and Technology" subcommittee="Technology, Environment and Aviation"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Technology, Environment and Aviation" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Science"/>
+		<term name="Building construction"/>
+		<term name="Disasters"/>
+		<term name="Engineering"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to research"/>
+		<term name="Hurricanes"/>
+		<term name="Information services"/>
+		<term name="Meteorological research"/>
+		<term name="Meteorology"/>
+		<term name="Research and development"/>
+		<term name="Research centers"/>
+		<term name="Storms"/>
+		<term name="Technology transfer"/>
+		<term name="Weather"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Wind Engineering Research Program Act of 1993 - Establishes within the National Institute of Standards and Technology (Institute) a Wind Engineering Program which shall: (1) provide for wind engineering research; (2) serve as an information clearinghouse; and (3) improve interagency coordination on wind engineering research. Requires the Director of the Institute to establish: (1) a Wind Engineering Research Advisory Committee; and (2) a national wind engineering research and development plan.
+
+	</summary>
+</bill>

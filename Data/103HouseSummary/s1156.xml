@@ -1,0 +1,65 @@
+<bill session="103" type="s" number="1156" updated="2012-07-17T04:23:16-04:00">
+	<state datetime="1993-08-06">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-08-06" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-06-24"/>
+	<titles>
+		<title type="short" as="introduced">Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993</title>
+		<title type="short" as="passed senate">Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993</title>
+		<title type="official" as="introduced">A bill to provide for the settlement of land claims of the Catawba Tribe of Indians in the State of South Carolina and the restoration of the Federal trust relationship with the Tribe, and for other purposes.</title>
+	</titles>
+	<sponsor id="300053"/>
+	<cosponsors>
+		<cosponsor id="300157" joined="1993-06-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8093)</text></action>
+		<action datetime="1993-06-24" state="REFERRED"><text>Read twice and referred to the Committee on Indian Affairs.</text></action>
+		<action datetime="1993-07-22"><committee name="Committee on Indian Affairs"/><text>Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 103-341.</text></action>
+		<action datetime="1993-08-05"><committee name="Committee on Indian Affairs"/><text>Committee on Indian Affairs. Approved for reporting with an amendment in the nature of a substitute favorably.</text></action>
+		<action datetime="1993-08-05"><text>Committee on Indian Affairs. Reported to Senate by Senator Inouye with an amendment in the nature of a substitute. With written report No. 103-124.</text></action>
+		<calendar datetime="1993-08-05"  state="REPORTED"><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 182.</text></calendar>
+		<action datetime="1993-08-06"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S10809-10816"/></action>
+		<action datetime="1993-08-06"><text>The committee substitute as amended agreed to by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-08-06" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-09-08T12:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-09-08T13:59:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-09-08"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="" name="Senate Indian Affairs" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2399" />
+		<bill relation="unknown" session="103" type="h" number="2399" />
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Authorization"/>
+		<term name="Constitutions"/>
+		<term name="Education"/>
+		<term name="Education of Indians"/>
+		<term name="Enterprise zones"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Free ports and zones"/>
+		<term name="Gambling"/>
+		<term name="Government trust funds"/>
+		<term name="Income tax"/>
+		<term name="Indian claims"/>
+		<term name="Indian economic development"/>
+		<term name="Indian lands"/>
+		<term name="Land transfers"/>
+		<term name="Old age assistance"/>
+		<term name="Social work"/>
+		<term name="South Carolina"/>
+	</subjects>
+	<amendments>
+		<amendment number="s538"/>
+		<amendment number="s774"/>
+	</amendments>
+	<summary>
+	8/6/1993--Passed Senate amended. Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993 - Restores and extends Federal recognition, rights, and services to the Catawba Nation (Tribe). Repeals the Termination Act (of 1959). (Sec. 5) Authorizes settlement appropriations. Directs the Secretary of the Interior (Secretary) to collect on behalf of the Tribe the additional Settlement Agreement funds from Federal, State, local, and private sources. (Sec. 6 through 11) Provides for: (1) ratification of prior transfers and extinguishment of aboriginal title, rights, and claims; (2) tribal membership; (3) transitional and provisional government; and (4) tribal and reservation governance (including discretionary organization under the Indian Reorganization Act), jurisdiction, and trust funds. Directs the Secretary to establish: (1) a Catawba Land Acquisition Trust Fund; (2) a Catawba Economic Development Trust Fund; (3) a Catawba Education Trust Fund; (4) a Catawba Social Services and Elderly Assistance Trust Fund; and (5) a Catawba Per Capita Payment Trust Fund. (Sec. 12) Provides for: (1) the conveyance of the Catawba Reservation by South Carolina to the United States as trustee; and (2) the expansion of the Reservation as prescribed by the Settlement Agreement. (Sec. 13) Authorizes the Tribe to acquire and dispose of non-Reservation properties. (Sec. 14) Makes the Indian Gaming Regulatory Act inapplicable to the Tribe. Permits games of chance as provided for in the Settlement Agreement and State legislation. (Sec. 15) Makes the Tribe eligible to operate an enterprise zone or general purpose foreign trade zone. (Sec. 16) States that any income or transaction otherwise taxable shall remain taxable under the Internal Revenue Code.
+
+	</summary>
+</bill>

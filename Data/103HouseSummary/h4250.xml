@@ -1,0 +1,191 @@
+<bill session="103" type="h" number="4250" updated="2010-04-19T10:13:24-04:00">
+	<state datetime="1994-04-28T17:30:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-04-28T17:30:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-04-19"/>
+	<titles>
+		<title type="short" as="introduced">Community Services Block Grant Amendments of 1994</title>
+		<title type="short" as="introduced">Head Start Act Amendments of 1994</title>
+		<title type="short" as="introduced">Low-Income Home Energy Assistance Amendments of 1994</title>
+		<title type="short" as="passed house">Human Services Amendments of 1994</title>
+		<title type="short" as="passed house">Community Services Block Grant Amendments of 1994</title>
+		<title type="short" as="passed house">Family Resource and Support Act of 1994</title>
+		<title type="short" as="passed house">Head Start Act Amendments of 1994</title>
+		<title type="short" as="passed house">Low-Income Home Energy Assistance Amendments of 1994</title>
+		<title type="official" as="introduced">To authorize appropriations for fiscal years 1995 through 1998 to carry out the Head Start Act and the Community Services Block Grant Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="400595"/>
+	<cosponsors>
+		<cosponsor id="411677" joined="1994-04-19"/>
+		<cosponsor id="400306" joined="1994-04-26"/>
+		<cosponsor id="400216" joined="1994-04-19"/>
+		<cosponsor id="400502" joined="1994-04-26"/>
+		<cosponsor id="407772" joined="1994-04-26"/>
+		<cosponsor id="400110" joined="1994-04-26"/>
+		<cosponsor id="407817" joined="1994-04-19"/>
+		<cosponsor id="400070" joined="1994-04-19"/>
+		<cosponsor id="404220" joined="1994-04-19"/>
+		<cosponsor id="400586" joined="1994-04-19"/>
+		<cosponsor id="409793" joined="1994-04-26"/>
+		<cosponsor id="400278" joined="1994-04-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-19"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1994-04-19"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-04-21"><committee name="House Committee on Education and Labor"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-04-21"  state="REPORTED"><committee name="House Committee on Education and Labor"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-04-26T12:27:00-04:00"><text>Reported (Amended) by the Committee on Education and Labor. H. Rept. 103-483, Part I.</text></action>
+		<action datetime="1994-04-26T13:00:00-04:00"><text>Mr. Martinez moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-04-26T13:01:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2728-2751"/></action>
+		<action datetime="1994-04-26T13:46:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed until April 28.</text></action>
+		<action datetime="1994-04-28T17:29:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2889-2901"/></action>
+		<vote how="by voice vote" type="vote" datetime="1994-04-28T17:30:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-04-28T17:31:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-04-28T17:31:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1994-04-28T17:33:00-04:00"><text>Laid on the table. See S. 2000 for further action.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, Markup, Reporting" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3842" />
+		<bill relation="unknown" session="103" type="h" number="4084" />
+		<bill relation="unknown" session="103" type="h" number="4085" />
+		<bill relation="superseded" session="103" type="s" number="2000" />
+	</relatedbills>
+	<subjects>
+		<term name="Economic policy"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Agricultural labor"/>
+		<term name="Agriculture"/>
+		<term name="Alcohol and youth"/>
+		<term name="Alcoholism counseling"/>
+		<term name="Auditing"/>
+		<term name="Authorization"/>
+		<term name="Block grants"/>
+		<term name="Budget deficits"/>
+		<term name="Budgets"/>
+		<term name="Career education"/>
+		<term name="Child abuse"/>
+		<term name="Child development"/>
+		<term name="Child health"/>
+		<term name="Child nutrition"/>
+		<term name="Children"/>
+		<term name="Community development"/>
+		<term name="Community development corporations"/>
+		<term name="Community organization"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Criminal justice"/>
+		<term name="Curricula"/>
+		<term name="Data banks"/>
+		<term name="Day care"/>
+		<term name="Delinquency prevention"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Depressed areas"/>
+		<term name="Disabled"/>
+		<term name="Disaster relief"/>
+		<term name="Drug abuse"/>
+		<term name="Drug abuse counseling"/>
+		<term name="Drug abuse prevention"/>
+		<term name="Drugs and youth"/>
+		<term name="Economic development"/>
+		<term name="Education"/>
+		<term name="Education of Indians"/>
+		<term name="Education of socially handicapped children"/>
+		<term name="Educational accountability"/>
+		<term name="Educational facilities"/>
+		<term name="Educational policy"/>
+		<term name="Educational research"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Emergency management"/>
+		<term name="Employee benefit plans"/>
+		<term name="Employee training"/>
+		<term name="Energy"/>
+		<term name="Energy assistance for the poor"/>
+		<term name="Energy policy"/>
+		<term name="Executive departments"/>
+		<term name="Families"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal aid to child welfare"/>
+		<term name="Federal aid to community development"/>
+		<term name="Federal aid to education"/>
+		<term name="Federal aid to handicapped services"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Federal aid to housing"/>
+		<term name="Federal aid to youth services"/>
+		<term name="Federal budgets"/>
+		<term name="Food"/>
+		<term name="Food relief"/>
+		<term name="Gangs"/>
+		<term name="Government employees"/>
+		<term name="Government information"/>
+		<term name="Government internships"/>
+		<term name="Government paperwork"/>
+		<term name="Government trust funds"/>
+		<term name="Grants-in-aid"/>
+		<term name="Higher education"/>
+		<term name="Home repair and improvement"/>
+		<term name="Homeless"/>
+		<term name="Households"/>
+		<term name="Housing"/>
+		<term name="Indian children"/>
+		<term name="Infants"/>
+		<term name="Information services"/>
+		<term name="Job training"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Juvenile delinquency"/>
+		<term name="Labor"/>
+		<term name="Law"/>
+		<term name="Literacy programs"/>
+		<term name="Low-income housing"/>
+		<term name="Mediation"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Migrant education"/>
+		<term name="Migrant labor"/>
+		<term name="Minorities"/>
+		<term name="National service"/>
+		<term name="Nonprofit organizations"/>
+		<term name="Nutrition"/>
+		<term name="Off-budget expenditures"/>
+		<term name="Parent and child"/>
+		<term name="Parent-school relationships"/>
+		<term name="Pension funds"/>
+		<term name="Pensions"/>
+		<term name="Physical examinations"/>
+		<term name="Poor"/>
+		<term name="Pregnant women"/>
+		<term name="Preschool education"/>
+		<term name="Public assistance programs"/>
+		<term name="Residential energy conservation"/>
+		<term name="Respite care"/>
+		<term name="Rural affairs"/>
+		<term name="Rural economic development"/>
+		<term name="Rural housing"/>
+		<term name="Salaries"/>
+		<term name="Scholarships"/>
+		<term name="Social services"/>
+		<term name="Sports"/>
+		<term name="Standards"/>
+		<term name="Teacher education"/>
+		<term name="Teachers"/>
+		<term name="Technology"/>
+		<term name="Urban affairs"/>
+		<term name="Volunteer workers in education"/>
+		<term name="Welfare"/>
+		<term name="Women"/>
+		<term name="Youth"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/28/1994--Passed House amended. TABLE OF CONTENTS: Title I: Head Start Programs Title II: Community Services Block Grant Amendments Title III: Low-Income Home Energy and Assistance Amendments Title IV: Community-Based Family Resource Programs Human Services Amendments of 1994 - Title I: Head Start Programs - Head Start Act Amendments of 1994 - Amends the Head Start Act to reauthorize and revise its provisions. (Sec. 103) Includes parental involvement among Head Start program services. (Sec. 104) Extends the authorization of appropriations to carry out such Act and its Head Start program. Reserves specified amounts for a longitudinal study of Head Start participants, the Head Start Transition Project Act, and transition coordination with schools and parent involvement activities. (Sec. 105) Allocates at least 25 percent of certain excess funds to specified quality improvement activities. Includes, under discretionary payments, payments for the costs of reviewing Head Start agencies and programs and of developing and implementing quality improvement plans. Authorizes the Secretary of Health and Human Services (HHS) (the Secretary) to make collaboration grants, from certain reserved funds, to States to facilitate collaboration between Head Start activities and other activities targeted to low-income children and families. Directs the Secretary to take certain factors into consideration in allocating funds for program expansion. Provides for flexibility in satisfying the requirement that a certain number of hours be provided to children in Head Start programs. Requires migrant Head Start programs to give priority to eligible children of migrant families whose work requires them to relocate most frequently. (Sec. 106) Repeals outdated provisions for a comprehensive report to the Congress. (Sec. 107) Revises provisions for designation of Head Start agencies to provide that those on Indian reservations include members of Indian tribes living near the reservation. Revises conditions for giving priority in designations. Revises parental involvement considerations with respect to designation of new Head Start agencies. Requires agencies to offer family literacy services and parenting skills training to parents of participating children. Allows agencies also to opt to offer such parents social self-sufficiency training, substance abuse counseling, or other partnership in education activities. Requires a family needs assessment, including consultation with the parents, for each participating family. (Sec. 108) Requires the Secretary to establish quality standards for Head Start agencies and programs, including standards for performance in providing required health, education, parental involvement, nutritional, social, and other services, for administrative and financial management, and for facilities' condition and location. Provides for monitoring and for corrective actions or terminations if minimum standards are not met. (Sec. 109) Requires each Head Start agency to coordinate with schools and promote parental involvement to facilitate children's transition from program to school. Directs the Secretaries of HHS and of Education to assess results of demonstration projects under the Head Start Transition Project Act and provide technical assistance to communities to implement promising practices from those demonstrations. (Sec. 110) Authorizes the Secretary to use certain reserved funds to purchase facilities owned by Indian tribes and make necessary capital expenditures to provide suitable Head Start facilities for such tribes. Provides for personnel preferences for and recruitment of Indian tribe members for the American Indian Programs Branch of the Head Start Bureau of the Administration for Children and Families. (Sec. 111) Revises participation provisions. Allows Indian tribes to enroll additional children who do not meet low-income criteria if the Head Start program predominantly serves children who do meet such criteria. (Sec. 112) Establishes programs for families with infants and toddlers. Directs the Secretary to make grants for: (1) programs providing family-centered services for low-income families with very young children, designed to promote child development, parental role fulfillment, and movement toward self-sufficiency; and (2) evaluation of, and training and technical assistance for, projects under the Comprehensive Child Development Act. Gives time-limited priority to certain entities, including Parent-Child Centers receiving assistance under the Head Start Act and programs receiving assistance under the Comprehensive Child Development Act, and provides for selection of other grant recipients. Repeals the Comprehensive Child Development Centers Act of 1988 and the Comprehensive Child Development Act because their functions are being consolidated under the Head Start Act. (Sec. 113) Provides for mediation of disputes with delegate agencies to avoid the need for administrative hearings. Eliminates a provision freezing regulations. Provides that terminations, reductions, or suspensions of financial assistance upheld in administrative hearings shall not be stayed pending any judicial appeal. (Sec. 114) Sets forth goals and priorities for training and technical assistance. (Sec. 115) Revises classroom teacher qualifications and waiver requirements. Directs the Secretary to: (1) provide technical assistance and training to enable Head Start agencies to establish positions for mentor teachers; and (2) review and revise standards for family service workers, and promote model curricula and credentials for such workers. Authorizes the Secretary to establish a program of Head Start Fellowships for staff in local Head Start programs and other individuals working in the field of child development and family services. Provides for placement in appropriate settings. Directs the Secretary to develop model staffing pattern plans to guide local Head Start agencies and programs. (Sec. 116) Directs the Secretary to carry out a continuing program of research, demonstrations, and evaluations of Head Start programs, including longitudinal studies, and to report on such activities. (Sec. 117) Repeals provisions for certain announcements, a longitudinal study, and poverty line criteria (a definition of which is added elsewhere). Revises provisions on reports, adding a study of availability and delivery of Head Start programs to Indian children living on or near reservations and children of migrant and seasonal farmworkers. (Sec. 120) Directs the Secretary to consult with the Executive Officer of the Corporation for National and Community Service regarding the dissemination of information on the Corporation's programs to Head Start programs. (Sec. 121) Directs the Secretary to study, and report to the appropriate congressional committees on, benefits available to Head Start employees. (Sec. 122) Directs the Secretary to study, and report to specified congressional committees on, the extent to which Head Start programs are addressing the need for child care services during a full working day or full calendar year among eligible low-income families with preschool children. (Sec. 123) Amends the State Dependent Care Development Grants Act to extend the authorization of appropriations. (Sec. 124) Amends the Child Development Associate Scholarship Assistance Act of 1985 to extend the authorization of appropriations. Title II: Community Services Block Grant Amendments - Community Services Block Grant Amendments of 1994 - Amends the Community Services Block Grant Act to extend the authorization of appropriations to carry out such Act and its community services block grant program. (Sec. 202) Reserves certain funds for training, technical assistance, planning, and evaluation. Revises provisions for applications and requirements, community action agency plans, public inspections of plans, audits, and evaluations involving waivers. (Sec. 203) Authorizes the Secretary of HHS to provide grants for a Community Initiatives Program for community and economic development of economically distressed areas and rural areas. (Sec. 204) Extends the authorization of appropriations for community food and nutrition programs. (Sec. 205) Authorizes the Secretary to make grants to service providers to administer national or regional programs to provide instructional activities for low-income youth. Authorizes appropriations. (Sec. 206) Amends the Stewart B. McKinney Homeless Assistance Act to extend the authorization of appropriations for the emergency community services homeless grant program. (Sec. 207) Amends the Human Services Reauthorization Act of 1986 to revise provisions and extend the authorization of appropriations for demonstration partnership agreements addressing the needs of the poor. Authorizes the Secretary to also make competitive grants to community action agencies to demonstrate new approaches to dealing with the problems associated with urban gangs or similar antisocial activities of urban youth. Title III: Low-Income Home Energy and Assistance Amendments - Low-Income Home Energy Assistance Amendments of 1994 - Amends the Low-Income Home Energy Assistance Act of 1981 to extend the authorization of appropriations for: (1) such Act and its low-income home energy assistance program (LIHEAP); and (2) the incentive program for leveraging non-Federal resources. (Sec. 304) Authorizes appropriations for additional payments to meet the additional home energy assistance needs of one or more States arising from a natural disaster or other emergency. Designates such funds as emergency requirements, but makes them available only after submission of a formal budget request by the President. Set forth considerations for allotment of such emergency funds by the Secretary of HHS. (Sec. 305) Provides that LIHEAP funds may be used for: (1) outreach activities and assistance to low-income households in meeting their home energy costs, particularly if such costs are a high proportion of household income; (2) intervention in energy crisis situations; (3) low-cost residential weatherization and other cost-effective energy-related home repair; and (4) State program planning, development, and administration, including leveraging programs. Exempts from certain limitations on use of program funds services that encourage and enable households to reduce their home energy needs. (Sec. 306) Authorizes States to give priority to households with the highest home energy costs or needs in relation to household income. Requires State plans to describe additional steps to target assistance to households with high home energy burdens. (Sec. 307) Revises audit requirements and matters to be described in annual applications. Provides for use of Department of Energy weatherization rules to achieve program consistency. Requires reports on any amount of a State's allotment that will not be obligated for the fiscal year. Lowers the maximum amount that the Secretary may reserve for technical assistance and training. (Sec. 312) Directs the Secretary to allocate at least five percent of funds for the incentive program for leveraging non-Federal resources, in FY 1996 and thereafter, to a Residential Energy Assistance Challenge Fund to make challenge grants to States with approved plans for Residential Energy Assistance Challenge initiatives. (Sec. 313) Expresses the sense of the Congress that LIHEAP maintenance should be a high priority, all FY 1995 appropriations for LIHEAP should be expended, and LIHEAP expenditures for FY 1996 should ensure provision of services at or above the FY 1995 level. Title IV: Community-Based Family Resource Programs - Family Resource and Support Act of 1994 - Establishes Community-Based Family Resource Programs. Directs the Commissioner on Children, Youth, and Families (in the Department of HHS) to make formula grants to States for: (1) statewide systems of community-based family resource and support programs; (2) promoting child abuse and neglect prevention activities; (3) promoting State trust funds or other mechanisms for integrating child and family services funding streams; (4) community-based collaboration to develop a continuum of preventive services for children and families; (5) encouraging public and private partnerships in family resource programs; (6) ensuring involvement of families of children with disabilities in the statewide system; and (7) changing laws, practices, and structures that impede provision of family resource and support services. Sets forth provisions for grant eligibility, amounts, State applications, and local program requirements. Authorizes appropriations for Community-Based Family Resource Programs. Amends the Claude Pepper Young Americans Act of 1990 to repeal the Family Resource and Support Program. (Sec. 403) Extends the authorization of appropriations and the termination date for the Federal Council on Children, Youth, and Families. Adds to Council duties. (Sec. 404) Extends the authorization of appropriations for the National Center on Family Resource and Support Programs and for evaluation of family resource and support programs.
+
+	</summary>
+</bill>

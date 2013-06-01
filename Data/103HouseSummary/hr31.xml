@@ -1,0 +1,45 @@
+<bill session="103" type="hr" number="31" updated="2010-04-19T13:03:32-04:00">
+	<state datetime="1993-01-06">REFERRED</state>
+	<status><introduced datetime="1993-01-06"/></status>
+
+	<introduced datetime="1993-01-06"/>
+	<titles>
+		<title type="official" as="introduced">Directing the Architect of the Capitol to place a public debt clock in the Cannon House Office Building.</title>
+	</titles>
+	<sponsor id="402657"/>
+	<cosponsors>
+		<cosponsor id="400156" joined="1993-01-25"/>
+		<cosponsor id="400113" joined="1993-01-06"/>
+		<cosponsor id="406863" joined="1993-01-06"/>
+		<cosponsor id="400365" joined="1993-01-25"/>
+		<cosponsor id="400604" joined="1993-01-25"/>
+		<cosponsor id="400601" joined="1993-01-06"/>
+		<cosponsor id="405033" joined="1993-01-25"/>
+		<cosponsor id="411997" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-06"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-01-06"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Office Systems.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Office Systems" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Clocks and watches"/>
+		<term name="Congressional office buildings"/>
+		<term name="Public debt"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/1993--Introduced.
+Directs the Architect of the Capitol to design, construct, and maintain a public debt clock in the basement rotunda of the Cannon House Office Building to be adjusted on a continuous basis to reflect the amount of the public debt of the United States.
+
+	</summary>
+</bill>

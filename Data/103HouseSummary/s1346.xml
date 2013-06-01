@@ -1,0 +1,55 @@
+<bill session="103" type="s" number="1346" updated="2012-07-17T04:56:35-04:00">
+	<state datetime="1993-08-03">REFERRED</state>
+	<status><introduced datetime="1993-08-03"/></status>
+
+	<introduced datetime="1993-08-03"/>
+	<titles>
+		<title type="short" as="introduced">Copyright Royalty Tribunal Reform Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend title 17, United States Code, to establish copyright arbitration royalty panels to replace the Copyright Royal Tribunal, and for other purposes.</title>
+	</titles>
+	<sponsor id="403346"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="1993-08-03"/>
+		<cosponsor id="402727" joined="1993-10-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-03" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S10237)</text></action>
+		<action datetime="1993-08-03" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-08-16"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Patents, Copyrights and Trademarks.</text></action>
+		<action datetime="1993-10-05"><committee name="Committee on Judiciary"/><text>Subcommittee on Patents, Copyrights and Trademarks. Hearings held. Hearings printed: S.Hrg. 103-711.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Patents, Copyrights and Trademarks" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2840" />
+	</relatedbills>
+	<subjects>
+		<term name="Copyright"/>
+		<term name="Administrative remedies"/>
+		<term name="Commercial arbitration"/>
+		<term name="Congressional agencies"/>
+		<term name="Copyright infringement"/>
+		<term name="Copyright royalties"/>
+		<term name="Fees"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Libraries"/>
+		<term name="Library of Congress"/>
+		<term name="Licenses"/>
+		<term name="Magnetic recorders and recording"/>
+		<term name="Phonorecords"/>
+		<term name="Presidential appointments"/>
+		<term name="Public broadcasting"/>
+		<term name="Sound recording and reproducing"/>
+		<term name="Television relay systems"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/3/1993--Introduced.
+Copyright Royalty Tribunal Reform Act of 1993 - Replaces the Copyright Royalty Tribunal with copyright arbitration royalty panels to be appointed and convened by the Librarian of Congress. Sets forth provisions concerning panel membership and arbitration proceedings. Requires the Librarian to: (1) adopt a panel decision unless the decision is arbitrary; and (2) set a royalty fee or distribute fees if the decision is rejected. Provides for judicial review of Librarian decisions concerning panel determinations. Authorizes owners or users of copyrighted works to petition the Librarian for adjustments of compulsory license rates. Provides for interim royalty rates for certain musical works (that are subject to terminated license agreements) for performance by coin-operated phonorecord players. Repeals additional provisions concerning the Tribunal as well as provisions concerning compulsory licenses and limitations on exclusive rights for coin-operated phonorecord players. Revises requirements concerning compulsory licenses for public broadcasting.
+
+	</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="103" type="s" number="1868" updated="2012-07-17T05:22:30-04:00">
+	<state datetime="1994-02-24">REFERRED</state>
+	<status><introduced datetime="1994-02-24"/></status>
+
+	<introduced datetime="1994-02-24"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow the casualty loss deduction for disaster losses without regard to the the 10-percent adjusted gross income floor.</title>
+	</titles>
+	<sponsor id="300011"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1870)</text></action>
+		<action datetime="1994-02-24" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3811" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Disaster relief"/>
+		<term name="Disasters"/>
+		<term name="Emergency management"/>
+		<term name="Losses"/>
+		<term name="Tax deductions"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1994--Introduced.
+Amends the Internal Revenue Code to eliminate the ten percent adjusted gross income threshold for casualty loss deductions.
+
+	</summary>
+</bill>

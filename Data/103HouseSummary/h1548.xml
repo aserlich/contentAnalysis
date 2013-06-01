@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="1548" updated="2010-04-19T03:13:03-04:00">
+	<state datetime="1993-03-31">REFERRED</state>
+	<status><introduced datetime="1993-03-31"/></status>
+
+	<introduced datetime="1993-03-31"/>
+	<titles>
+		<title type="short" as="introduced">Citizen Representative Act Go Home Provision</title>
+		<title type="official" as="introduced">To provide for the adjournment of Congress by September 30th each year.</title>
+	</titles>
+	<sponsor id="400298"/>
+	<cosponsors>
+		<cosponsor id="400017" joined="1993-03-31"/>
+		<cosponsor id="408553" joined="1993-05-24"/>
+		<cosponsor id="400649" joined="1993-03-31"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-31"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-03-31"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-04-02"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Accounts.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Accounts" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional salaries and pensions"/>
+		<term name="Congressional sessions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/31/1993--Introduced.
+Citizen Representative Act Go Home Provision - Amends the Legislative Reorganization Act of 1946 to prohibit compensation of a Member of Congress for service after September 30 of a year and before January 3 of the succeeding year unless such service follows the sine die adjournment of the last regular session of the Congress which began before the start of that period.
+
+	</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="103" type="s" number="630" updated="2012-07-17T06:30:58-04:00">
+	<state datetime="1993-03-23">REFERRED</state>
+	<status><introduced datetime="1993-03-23"/></status>
+
+	<introduced datetime="1993-03-23"/>
+	<titles>
+		<title type="short" as="introduced">Financial Fraud Detection and Disclosure Act</title>
+		<title type="official" as="introduced">A bill to facilitate the detection and disclosure of auditors of financial fraud in connection with securities issues, and for other purposes.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-23" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3485-3486)</text></action>
+		<action datetime="1993-03-23" state="REFERRED"><text>Read twice and referred to the Committee on Banking.</text></action>
+		<action datetime="1993-07-21"><committee name="Committee on Banking"/><text>Subcommittee on Securities. Hearings held.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="SSBK-4" name="Senate Banking, Housing, and Urban Affairs" subcommittee="Securities" activity="Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Securities"/>
+		<term name="Accounting"/>
+		<term name="Auditing"/>
+		<term name="Financial statements"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Information disclosure (Securities law)"/>
+		<term name="Securities fraud"/>
+		<term name="Securities regulation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/23/1993--Introduced.
+Financial Fraud Detection and Disclosure Act - Amends the Securities Exchange Act of 1934 to include within statutorily mandated audit requirements specified fraud detection and disclosure procedures to be followed by an independent public accountant. Authorizes the Securities and Exchange Commission to impose civil penalties for willful violations of this Act by an independent public accountant.
+
+	</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="2687" updated="2010-04-19T06:10:25-04:00">
+	<state datetime="1993-07-21">REFERRED</state>
+	<status><introduced datetime="1993-07-21"/></status>
+
+	<introduced datetime="1993-07-21"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Small Business Act to reduce the interest rates on disaster loans provided by the Small Business Administration for losses resulting from flooding in the Midwest.</title>
+	</titles>
+	<sponsor id="411488"/>
+	<cosponsors>
+		<cosponsor id="411166" joined="1993-07-21"/>
+		<cosponsor id="400146" joined="1993-07-21"/>
+		<cosponsor id="400578" joined="1993-07-21"/>
+		<cosponsor id="400377" joined="1993-07-21"/>
+		<cosponsor id="402626" joined="1993-07-21"/>
+		<cosponsor id="403864" joined="1993-07-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-21"><text>Referred to the House Committee on Small Business.</text></action>
+		<action datetime="1993-07-29"><committee name="House Committee on Small Business"/><text>Referred to the Subcommittee on SBA Legislation and the General Economy.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSM" name="House Small Business" activity="Referral, In Committee" />
+		<committee code="" name="House Small Business" subcommittee="SBA Legislation and the General Economy" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Small business"/>
+		<term name="Disaster loans"/>
+		<term name="Floods"/>
+		<term name="Government lending"/>
+		<term name="Interest rates"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/21/1993--Introduced.
+Amends the Small Business Act to reduce to one percent per year (currently, varying amounts of up to eight percent) the interest rate on the Federal share of disaster loans provided by the Small Business Administration for losses resulting from flooding in Midwest communities during the period beginning on June 1, 1993, and ending on May 31, 1994.
+
+	</summary>
+</bill>

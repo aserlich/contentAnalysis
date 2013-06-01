@@ -1,0 +1,45 @@
+<bill session="103" type="hr" number="103" updated="2010-04-19T13:14:44-04:00">
+	<state datetime="1993-02-24T15:29:00-05:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-02-24T15:29:00-05:00" where="h" result="pass" how="roll" roll="39"/></status>
+
+	<introduced datetime="1993-02-23"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the consideration of the bill (H.R. 920) to extend the emergency unemployment compensation program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400527"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-23T17:58:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-18, by Mr. Bonior.</text></action>
+		<action datetime="1993-02-23T17:58:00-05:00"><text>Rule provides for consideration of H.R. 920 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Upon adoption of this resolution, the amendment printed in the report of the Committee on Ways and Means printed in the bill and the amendment printed in the report of the Committee on Rules accompanying this resolution (H.Rept. 103-18) shall be considered as adopted. All points of order against the bill, as amended, shall be waived. Bill is closed to amendments.</text></action>
+		<calendar datetime="1993-02-23T17:59:00-05:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 12.</text></calendar>
+		<action datetime="1993-02-24T13:09:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H806-819"/></action>
+		<action datetime="1993-02-24T13:10:00-05:00"><text>Point of order raised by Mr. Walker on the content of the measure. Mr. Walker stated that the self-enacting amendments of the Committee on Ways and Means, printed in the bill, and the Committee on Rules, printed in the report accompanying H. Res. 103, were violations of clause 5a of Rule XXI, and clause 47 of Rule XVI, respectively. Point of order overruled by the Chair.</text></action>
+		<action datetime="1993-02-24T13:12:00-05:00"><text>Point of order raised by Mr. Walker on the content of the measure. Mr. Walker stated that the amendment contained in the Rules Committee report was in violation of section 308 (A) of the Budget Act. Point of order overruled by the Chair.</text></action>
+		<action datetime="1993-02-24T13:22:00-05:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-02-24T14:54:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 243 - 172 (Roll no. 38).</text></action>
+		<action datetime="1993-02-24T14:57:00-05:00"><text>Point of order raised by Mr. Walker on the content of the measure. Mr. Walker stated that the amendments made in order by the provisions of H. Res. 103 violate sec. 308 (a) of the Congressional Budget Act. Point of order overruled by the Chair.</text></action>
+		<vote how="roll" type="vote" roll="39" datetime="1993-02-24T15:29:00-05:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 237 - 178 (Roll no. 39).</text></vote>
+		<action datetime="1993-02-24T15:29:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="920" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="House rules and procedure"/>
+		<term name="Unemployment insurance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1993--Introduced.
+Sets forth the rule for the consideration of H.R. 920 (emergency unemployment compensation extension).
+
+	</summary>
+</bill>

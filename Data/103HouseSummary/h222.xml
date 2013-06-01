@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="222" updated="2010-04-18T23:34:27-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Line-Item Rescission Act of 1993</title>
+		<title type="official" as="introduced">To amend the Congressional Budget and Impoundment Control Act of 1974 to require expeditious consideration by the Congress of a proposal by the President to rescind all or part of any item of budget authority if the proposal is transmitted to the Congress on the same day on which the President approves the bill or joint resolution providing such budget authority.</title>
+	</titles>
+	<sponsor id="300058"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-06-15"><committee name="House Committee on Rules"/><text>See H.R.1578.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1578" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Appropriations"/>
+		<term name="Congressional veto"/>
+		<term name="Executive impoundment of appropriated funds"/>
+		<term name="Expedited congressional procedure"/>
+		<term name="House rules and procedure"/>
+		<term name="Item veto"/>
+		<term name="Legislation"/>
+		<term name="Legislative resolutions"/>
+		<term name="Presidential messages"/>
+		<term name="Senate rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Line-Item Rescission Act of 1993 - Amends the Congressional Budget and Impoundment Control Act of 1974 to allow the President to transmit to both Houses of the Congress, for expedited consideration, one or more special messages proposing to rescind all or part of any item of budget authority provided in an appropriation bill. Requires that such special message be transmitted on the same calendar day the President approves the appropriation bill and be accompanied by a draft bill or joint resolution that would, if enacted, rescind the budget authority proposed to be rescinded. Sets forth House and Senate procedures for the expedited consideration of such a proposal. Requires the item of budget authority proposed to be rescinded to be made available for obligation unless both Houses adopt the bill rescinding such item within 60 days.
+
+	</summary>
+</bill>

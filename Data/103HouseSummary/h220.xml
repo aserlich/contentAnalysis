@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="220" updated="2010-04-18T23:34:09-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to reinstate the tax on interest received by foreigners on certain portfolio investments.</title>
+	</titles>
+	<sponsor id="405939"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Aliens"/>
+		<term name="Foreign corporations"/>
+		<term name="Foreign investments"/>
+		<term name="Foreign trade"/>
+		<term name="Interest"/>
+		<term name="Investments"/>
+		<term name="Tax exclusion"/>
+		<term name="Withholding tax"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Repeals Internal Revenue Code provisions that permit an income tax exemption for interest earned on certain portfolio debt investments and received from U.S. sources by nonresident alien individuals and foreign corporations. Requires tax withholding in connection with such income.
+
+	</summary>
+</bill>

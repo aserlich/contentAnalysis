@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="282" updated="2010-04-18T23:43:36-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To provide that dependent care assistance benefits be made available to individuals serving in the legislative branch of the Government.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-06-18"/>
+		<cosponsor id="402763" joined="1993-01-05"/>
+		<cosponsor id="400122" joined="1994-02-03"/>
+		<cosponsor id="400333" joined="1993-01-05"/>
+		<cosponsor id="400295" joined="1993-01-05"/>
+		<cosponsor id="400332" joined="1993-01-05"/>
+		<cosponsor id="400409" joined="1993-01-05"/>
+		<cosponsor id="400143" joined="1993-03-25"/>
+		<cosponsor id="409650" joined="1993-01-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-01-19"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Caregivers"/>
+		<term name="Congressional employees"/>
+		<term name="Day care"/>
+		<term name="Flexible benefit plans"/>
+		<term name="Income tax"/>
+		<term name="Medical care"/>
+		<term name="Tax exclusion"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Provides that dependent care assistance benefits be made available to individuals serving in the legislative branch of Government.
+
+	</summary>
+</bill>

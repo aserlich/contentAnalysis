@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="3622" updated="2010-04-19T08:35:24-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="official" as="introduced">To repeal the must-carry provisions of title VI of the Communications Act of 1934, relating to cable television.</title>
+	</titles>
+	<sponsor id="401081"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1994-03-16"/>
+		<cosponsor id="400113" joined="1994-02-01"/>
+		<cosponsor id="400343" joined="1994-02-01"/>
+		<cosponsor id="400601" joined="1994-03-11"/>
+		<cosponsor id="400012" joined="1994-03-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-12-20"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Communications"/>
+		<term name="Cable television"/>
+		<term name="Telecommunication"/>
+		<term name="Television broadcasting"/>
+		<term name="Television stations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Amends the Communications Act of 1934 to repeal specified provisions relating to the carriage obligations of cable systems with respect to commercial and noncommercial local television stations.
+
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="2015" updated="2010-04-19T04:26:27-04:00">
+	<state datetime="1993-05-06">REFERRED</state>
+	<status><introduced datetime="1993-05-06"/></status>
+
+	<introduced datetime="1993-05-06"/>
+	<titles>
+		<title type="official" as="introduced">To reliquidate certain entries on which excessive countervailing duties were paid, and for other purposes.</title>
+	</titles>
+	<sponsor id="400581"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-10"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1994-03-23"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from Treasury.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="963" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Countervailing duties"/>
+		<term name="Interest"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/6/1993--Introduced.
+Provides, upon request filed with the appropriate customs officer, for the reliquidation (refund) of excessive countervailing duties (plus interest) that were imposed on specified entries into the United States.
+
+	</summary>
+</bill>

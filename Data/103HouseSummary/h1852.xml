@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="1852" updated="2010-04-19T04:00:55-04:00">
+	<state datetime="1993-04-26">REFERRED</state>
+	<status><introduced datetime="1993-04-26"/></status>
+
+	<introduced datetime="1993-04-26"/>
+	<titles>
+		<title type="short" as="introduced">Wool and Mohair Price Support Program Termination Act of 1993</title>
+		<title type="official" as="introduced">To end the price support program for wool and mohair.</title>
+	</titles>
+	<sponsor id="400649"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-11-10"/>
+		<cosponsor id="400113" joined="1994-08-01"/>
+		<cosponsor id="400584" joined="1994-02-02"/>
+		<cosponsor id="400348" joined="1994-10-07"/>
+		<cosponsor id="402890" joined="1994-07-27"/>
+		<cosponsor id="400370" joined="1993-06-18"/>
+		<cosponsor id="300151" joined="1994-04-12"/>
+		<cosponsor id="400010" joined="1993-11-22"/>
+		<cosponsor id="407153" joined="1994-07-19"/>
+		<cosponsor id="400050" joined="1994-02-02"/>
+		<cosponsor id="400594" joined="1994-02-02"/>
+		<cosponsor id="400083" joined="1993-11-22"/>
+		<cosponsor id="400601" joined="1993-06-18"/>
+		<cosponsor id="411488" joined="1994-02-02"/>
+		<cosponsor id="411997" joined="1993-11-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-26"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Livestock.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="HSAG-03" name="House Agriculture" subcommittee="Livestock" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural price supports"/>
+		<term name="Goats"/>
+		<term name="Wool"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/26/1993--Introduced.
+Wool and Mohair Price Support Program Termination Act of 1993 - Repeals the National Wool Act of 1954 (thus eliminating wool and mohair price supports).
+
+	</summary>
+</bill>

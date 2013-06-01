@@ -1,0 +1,42 @@
+<bill session="103" type="s" number="1622" updated="2012-07-17T05:33:01-04:00">
+	<state datetime="1993-11-04">REFERRED</state>
+	<status><introduced datetime="1993-11-04"/></status>
+
+	<introduced datetime="1993-11-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to treat geological, geophysical, and surface casing costs like intangible drilling and development costs, and for other purposes.</title>
+	</titles>
+	<sponsor id="300012"/>
+	<cosponsors>
+		<cosponsor id="401604" joined="1993-11-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S15103)</text></action>
+		<action datetime="1993-11-04" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3533" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Geology"/>
+		<term name="Natural gas"/>
+		<term name="Oil well drilling"/>
+		<term name="Prospecting"/>
+		<term name="Tax deductions"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/4/1993--Introduced.
+Amends the Internal Revenue Code to provide that in the case of oil and gas wells, the tax treatment which applies to intangible drilling and development costs shall also apply to surface casing costs and to geological and geophysical costs for the purpose of ascertaining the existence, location, extent, or quality of any deposit of oil or gas within the United States or a possession of the United States.
+
+	</summary>
+</bill>

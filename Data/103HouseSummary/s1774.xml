@@ -1,0 +1,55 @@
+<bill session="103" type="s" number="1774" updated="2010-04-19T19:06:53-04:00">
+	<state datetime="1993-11-22">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-11-22" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="short" as="introduced">Bone Marrow Donor Program Reauthorization Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend the Public Health Service Act to revise and extend the bone marrow donor program, and for other purposes.</title>
+	</titles>
+	<sponsor id="300059"/>
+	<cosponsors>
+		<cosponsor id="406188" joined="1993-11-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Message on Senate action sent to the House.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-22" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S16984"/></vote>
+		<action datetime="1993-11-22T23:20:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-22T23:58:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-10-07"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Authorization"/>
+		<term name="Bone banks"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Donation of organs, tissues, etc."/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Executive departments"/>
+		<term name="Executive reorganization"/>
+		<term name="Grants-in-aid"/>
+		<term name="Health education"/>
+		<term name="Health policy"/>
+		<term name="Medical tests"/>
+		<term name="Medicine"/>
+		<term name="Minorities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Bone Marrow Donor Program Reauthorization Act of 1993 - Amends the Public Health Service Act to provide for the terms of office for members of the board of the National Bone Marrow Donor Registry. Modifies Registry functions. Authorizes grants and contracts to increase bone marrow donation, including through public education, training individuals in requesting donations, and testing and enrolling marrow donors. Authorizes appropriations. Mandates establishment, through grant or contract, of an office of patient advocacy and case management. (Current law requires the Registry to establish a system for patient advocacy.)
+
+	</summary>
+</bill>

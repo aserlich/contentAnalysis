@@ -1,0 +1,40 @@
+<bill session="103" type="h" number="1336" updated="2010-04-19T02:39:20-04:00">
+	<state datetime="1993-03-15">REFERRED</state>
+	<status><introduced datetime="1993-03-15"/></status>
+
+	<introduced datetime="1993-03-15"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to revise eligibility for outpatient services provided by the Department of Veterans Affairs.</title>
+	</titles>
+	<sponsor id="407838"/>
+	<cosponsors>
+		<cosponsor id="400028" joined="1993-05-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-15"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-03-25"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Hospitals and Health Care.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="HSVR-03" name="House Veterans' Affairs" subcommittee="Hospitals and Health Care" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Ambulatory care"/>
+		<term name="Commemorations"/>
+		<term name="Medical care"/>
+		<term name="Military medals, decorations, etc."/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/15/1993--Introduced.
+Directs the Secretary of Veterans Affairs to furnish medical services on an outpatient basis for any disability of a veteran who has a service-connected disability and has been awarded the Purple Heart.
+
+	</summary>
+</bill>

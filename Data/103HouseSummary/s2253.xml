@@ -1,0 +1,54 @@
+<bill session="103" type="s" number="2253" updated="2012-07-17T04:53:35-04:00">
+	<state datetime="1994-09-21">REPORTED</state>
+	<status><calendar datetime="1994-09-21" /></status>
+
+	<introduced datetime="1994-06-30"/>
+	<titles>
+		<title type="short" as="introduced">Mountain Park Project Act of 1994</title>
+		<title type="short" as="reported to senate">Mountain Park Project Act of 1994</title>
+		<title type="official" as="introduced">A bill to modify the Mountain Park Project in Oklahoma, and for other purposes.</title>
+	</titles>
+	<sponsor id="300079"/>
+	<cosponsors>
+		<cosponsor id="401604" joined="1994-06-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-30" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8106)</text></action>
+		<action datetime="1994-06-30" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-07-27"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Water and Power. Hearings held.</text></action>
+		<calendar datetime="1994-09-21"  state="REPORTED"><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action datetime="1994-09-26"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment. With written report No. 103-381.</text></action>
+		<calendar under="General Orders" number="635" datetime="1994-09-26" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 635.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-3" name="Senate Energy and Natural Resources" subcommittee="Water and Power" activity="Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4784" />
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Construction costs"/>
+		<term name="Economics and public finance"/>
+		<term name="Environmental protection"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Finance and financial sector"/>
+		<term name="Habitat conservation"/>
+		<term name="Interest rates"/>
+		<term name="Oklahoma"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Tax-exempt securities"/>
+		<term name="Water allocation (Policy)"/>
+		<term name="Water districts"/>
+		<term name="Water supply"/>
+		<term name="Wetland conservation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/26/1994--Reported to Senate amended. Mountain Park Project Act of 1994 - Adds environmental quality activities to the list of activities of the Mountain Park Reclamation Project, Oklahoma. Directs the Secretary of the Interior to: (1) conduct investigations to determine environmental quality activities that could be carried out for the Project; and (2) make an appropriate reallocation of Project costs to accommodate such activities. Requires the Secretary, in conducting such investigations, to examine the benefits to natural environmental resources achievable from an environmental quality activity that requires reallocating water or using facilities or land of the Project. Requires the Secretary, upon completion of investigations, to: (1) prepare a proposed reallocation of Project costs; and (2) negotiate with the Mountain Park Master Conservancy District to amend the contract to adjust the obligation of the District to repay Project costs to reflect the reallocation of nonreimbursable Project costs. Requires Project costs associated with an environmental quality activity to be nonreimbursable. Authorizes the Secretary to accept prepayment of the repayment obligation of the District for reimbursable construction costs allocated to municipal and industrial water supply for the cities of Altus, Frederick, or Snyder, Oklahoma, or any combination thereof and reduces the District's obligation by the amount of such costs upon receipt of prepayment. Directs the Secretary of the Treasury: (1) to determine the interest rate in accordance with the guidelines set forth in Circular A-129 issued by the Office Management and Budget and the Department of Treasury Financial Manual; and (2) in determining such rate, to consider the price of the District's obligation if it were to be sold on the open market to a third party. Provides that title to the Project facilities shall remain with the United States. Repeals provisions of existing law regarding prepayment by the District for Project costs.
+
+	</summary>
+</bill>

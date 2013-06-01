@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="4283" updated="2010-04-19T10:18:33-04:00">
+	<state datetime="1994-04-21">REFERRED</state>
+	<status><introduced datetime="1994-04-21"/></status>
+
+	<introduced datetime="1994-04-21"/>
+	<titles>
+		<title type="official" as="introduced">To terminate the Milstar II Communications Satellite program.</title>
+	</titles>
+	<sponsor id="400251"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-21"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-04-25"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Acquisition.</text></action>
+		<action datetime="1994-04-25"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Acquisition" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1941" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Budgets"/>
+		<term name="Communication satellites"/>
+		<term name="Communications"/>
+		<term name="Defense budgets"/>
+		<term name="Defense economics"/>
+		<term name="Government spending reductions"/>
+		<term name="Military communications"/>
+		<term name="Nuclear warfare"/>
+		<term name="Weapons systems"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/21/1994--Introduced.
+Directs the Secretary of Defense to terminate the Milstar II Communications Satellite program. Allows funds available for obligation for such program to be used only for the payment of termination costs.
+
+	</summary>
+</bill>

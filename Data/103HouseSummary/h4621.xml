@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="4621" updated="2010-04-19T11:11:57-04:00">
+	<state datetime="1994-06-21">REFERRED</state>
+	<status><introduced datetime="1994-06-21"/></status>
+
+	<introduced datetime="1994-06-21"/>
+	<titles>
+		<title type="official" as="introduced">To establish a National Academy of Space, and for other purposes.</title>
+	</titles>
+	<sponsor id="400611"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-21"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1994-06-27"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Space.</text></action>
+		<action datetime="1994-07-21"><committee name="House Committee on Science, Space and Technology" subcommittee="Space"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-09-13"><committee name="House Committee on Science, Space and Technology" subcommittee="Space"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Space" activity="Referral, Hearings, Markup" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1638" />
+	</relatedbills>
+	<subjects>
+		<term name="Space sciences"/>
+		<term name="Budgets"/>
+		<term name="Colleges"/>
+		<term name="Curricula"/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Educational tests"/>
+		<term name="Engineering"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Higher education"/>
+		<term name="Mathematics"/>
+		<term name="Scholarships"/>
+		<term name="School administration"/>
+		<term name="Science policy"/>
+		<term name="Scientific education"/>
+		<term name="Service academies"/>
+		<term name="Space activities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/21/1994--Introduced.
+Directs the Administrator of the National Aeronautics and Space Administration to: (1) establish a National Academy of Space to prepare qualifying individuals for Government or U.S. corporate space-related service; and (2) appoint a Board of the National Academy of Space whose functions shall include exam and curriculum development, scholarship and placement administration, and selection of State universities as Member Institutes of the Academy. Authorizes appropriations.
+
+	</summary>
+</bill>

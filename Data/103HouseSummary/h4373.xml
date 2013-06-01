@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="4373" updated="2010-04-19T10:32:39-04:00">
+	<state datetime="1994-05-10">REFERRED</state>
+	<status><introduced datetime="1994-05-10"/></status>
+
+	<introduced datetime="1994-05-10"/>
+	<titles>
+		<title type="short" as="introduced">Social Security COLA Limitation Act of 1994</title>
+		<title type="official" as="introduced">To amend the Social Security Act to provide for limitations on cost-of-living adjustments.</title>
+	</titles>
+	<sponsor id="408618"/>
+	<cosponsors>
+		<cosponsor id="406768" joined="1994-05-10"/>
+		<cosponsor id="407153" joined="1994-05-10"/>
+		<cosponsor id="400269" joined="1994-05-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-10"><text>Sponsor introductory remarks on measure. (CR E881)</text></action>
+		<action datetime="1994-05-10"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-05-10"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1994-05-10"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-05-16"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+		<action datetime="1994-06-02"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Compensation, Pension and Insurance.</text></action>
+		<action datetime="1994-06-27"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on Ways and Means" subcommittee="Social Security"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Veterans' Affairs" subcommittee="Compensation, Pension and Insurance" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Old age, survivors and disability insurance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/10/1994--Introduced.
+Social Security COLA Limitation Act of 1994 - Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to establish a flat-rate cost-of-living adjustment. (Currently such adjustment is based on a beneficiary's actual benefit levels.)
+
+	</summary>
+</bill>

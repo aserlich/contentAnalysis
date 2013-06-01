@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="3156" updated="2010-04-19T07:23:09-04:00">
+	<state datetime="1993-09-28">REFERRED</state>
+	<status><introduced datetime="1993-09-28"/></status>
+
+	<introduced datetime="1993-09-28"/>
+	<titles>
+		<title type="short" as="introduced">VIRGINIA V Restoration Act of 1993</title>
+		<title type="official" as="introduced">To authorize the Secretary of Transportation to convey for scrapping by the Virginia V Foundation (a non-profit organization) a vessel in the National Defense Reserve Fleet that is scheduled to be scrapped.</title>
+	</titles>
+	<sponsor id="411040"/>
+	<cosponsors>
+		<cosponsor id="400262" joined="1993-09-28"/>
+		<cosponsor id="410567" joined="1993-09-28"/>
+		<cosponsor id="406482" joined="1993-09-28"/>
+		<cosponsor id="400109" joined="1993-09-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-28"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-09-29"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee On Merchant Marine.</text></action>
+		<action datetime="1993-09-29"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-06-23"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Text of Measure Incorporated into H.R.3059.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Merchant Marine" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1499" />
+	</relatedbills>
+	<subjects>
+		<term name="Ships"/>
+		<term name="Commemorations"/>
+		<term name="Foundations"/>
+		<term name="Historic sites"/>
+		<term name="Merchant ships"/>
+		<term name="Salvage"/>
+		<term name="Surplus government property"/>
+		<term name="Washington State"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/28/1993--Introduced.
+VIRGINIA V Restoration Act of 1993 - Authorizes the Secretary of Transportation to convey a vessel in the National Defense Reserve Fleet to the Virginia V Foundation (a nonprofit organization in Seattle, Washington) for scrapping.
+
+	</summary>
+</bill>

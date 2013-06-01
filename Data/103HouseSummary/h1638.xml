@@ -1,0 +1,66 @@
+<bill session="103" type="h" number="1638" updated="2010-04-19T03:27:16-04:00">
+	<state datetime="1994-05-17">REPORTED</state>
+	<status><calendar datetime="1994-05-17" /></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Excellence in Mathematics, Science, and Engineering Education Act of 1990 to establish the National Academy of Science, Space, and Technology at State universities, to expand the scholarship program associated with such Academy, to direct the Administrator of General Services to construct a public building to provide space for the headquarters of such Academy, and for other purposes.</title>
+	</titles>
+	<sponsor id="400611"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-05-19"/>
+		<cosponsor id="400204" joined="1993-05-19"/>
+		<cosponsor id="400243" joined="1993-05-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01"><text>Sponsor introductory remarks on measure. (CR E876-877)</text></action>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-04-13"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Science.</text></action>
+		<action datetime="1993-04-15"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Public Buildings and Grounds.</text></action>
+		<action datetime="1993-07-28"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-04-21"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-04-21"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-05-17"><committee name="House Committee on Public Works + Transportation"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-05-17"  state="REPORTED"><committee name="House Committee on Public Works + Transportation"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-05-19T15:48:00-04:00"><text>Reported (Amended) by the Committee on Public Works + Transportation. H. Rept. 103-512, Part I.</text></action>
+		<action datetime="1994-08-12"><committee name="House Committee on Public Works + Transportation"/><text>Executive Comment Received from Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Public Buildings and Grounds" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="HSSY-14" name="House Science, Space and Technology" subcommittee="Science" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4621" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Educational facilities"/>
+		<term name="Educational policy"/>
+		<term name="Educational tests"/>
+		<term name="Engineering"/>
+		<term name="Engineers"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Higher education"/>
+		<term name="Mathematics"/>
+		<term name="Ohio"/>
+		<term name="Parking facilities"/>
+		<term name="Public buildings"/>
+		<term name="Scholarships"/>
+		<term name="Science policy"/>
+		<term name="Scientific education"/>
+		<term name="Transportation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/19/1994--Reported to House amended, Part I. Amends the Excellence in Mathematics, Science, and Engineering Education Act of 1990 to require that the National Academy of Science, Space, and Technology (the Academy) consist of a program of instruction leading to baccalaureate degrees in science, mathematics, and engineering at a minimum of six State universities selected by the Academy's Board (which replaces an Advisory Board). Requires the Board to: (1) administer an exam and the awarding of scholarships; and (2) provide for placement of scholarship award recipients at one of the Member Institutes and in positions to fulfill service requirements. Expands the scholarship program to include the top two scorers, rather than just the top scorer, on the exam in each congressional district. Provides that a scholarship shall cover the full tuition and fees of the student at the Academy (currently the scholarship is $5,000 per academic year). Extends and increases the authorization of appropriations. Directs the Administrator of General Services to construct the Academy's headquarters in the greater metropolitan area of Youngstown-Warren, Ohio. Authorizes appropriations.
+
+	</summary>
+</bill>

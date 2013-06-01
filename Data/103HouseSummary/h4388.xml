@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="4388" updated="2010-04-19T10:35:00-04:00">
+	<state datetime="1994-05-11">REFERRED</state>
+	<status><introduced datetime="1994-05-11"/></status>
+
+	<introduced datetime="1994-05-11"/>
+	<titles>
+		<title type="short" as="introduced">Northern Great Plains Rural Development Act</title>
+		<title type="official" as="introduced">To establish the Northern Great Plains Rural Development Commission, and for other purposes.</title>
+	</titles>
+	<sponsor id="300058"/>
+	<cosponsors>
+		<cosponsor id="400023" joined="1994-06-28"/>
+		<cosponsor id="400323" joined="1994-05-11"/>
+		<cosponsor id="400316" joined="1994-05-11"/>
+		<cosponsor id="400568" joined="1994-05-11"/>
+		<cosponsor id="400599" joined="1994-05-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-11"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-05-19"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Environment, Credit and Rural Development.</text></action>
+		<action datetime="1994-05-19"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Environment, Credit and Rural Development" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2099" />
+	</relatedbills>
+	<subjects>
+		<term name="Rural affairs legislation"/>
+		<term name="Agriculture"/>
+		<term name="Business"/>
+		<term name="Capital investments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/11/1994--Introduced.
+Northern Great Plains Rural Development Act - Establishes the Northern Great Plains Rural Development Commission to study the economic needs of, and develop a rural economic development plan for, the Northern Great Plains. Terminates the Commission on the earlier of: (1) a specified period of time after submission of its final report; or (2) two years after enactment of this Act. Authorizes appropriations.
+
+	</summary>
+</bill>

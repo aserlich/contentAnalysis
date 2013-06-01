@@ -1,0 +1,58 @@
+<bill session="103" type="h" number="3568" updated="2010-04-19T08:26:59-04:00">
+	<state datetime="1993-11-19">REFERRED</state>
+	<status><introduced datetime="1993-11-19"/></status>
+
+	<introduced datetime="1993-11-19"/>
+	<titles>
+		<title type="short" as="introduced">Environmentally Advanced Technologies Education Act</title>
+		<title type="official" as="introduced">To support and develop environmentally advanced technologies education curricula.</title>
+	</titles>
+	<sponsor id="400599"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-19"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-11-19"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-11-23"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Technology, Environment and Aviation.</text></action>
+		<action datetime="1993-12-09"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Select Education and Civil Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-04" name="House Education and Labor" subcommittee="Select Education and Civil Rights" activity="Referral" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Technology, Environment and Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Curriculum planning"/>
+		<term name="Economic policy"/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Energy"/>
+		<term name="Energy consumption"/>
+		<term name="Energy policy"/>
+		<term name="Environmental education"/>
+		<term name="Environmental engineering"/>
+		<term name="Pollution control"/>
+		<term name="Recycling of waste products"/>
+		<term name="Refuse and refuse disposal"/>
+		<term name="Solid wastes"/>
+		<term name="Teacher education"/>
+		<term name="Teaching materials"/>
+		<term name="Technological innovations"/>
+		<term name="Technology"/>
+		<term name="Waste reduction"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/19/1993--Introduced.
+Environmentally Advanced Technologies Education Act - Requires the Director of the Office of Research and Development of the Environmental Protection Agency to develop and support programs to improve understanding of the relationships between technology and the environment, including information on: (1) relations between economic activity and the environment; and (2) systems which encompass resource extraction or introduction, transformation, consumption, recycling, and disposal, and the energy and resources consumed and the value-yielding results. Requires such programs to include, at a minimum, the development of educational materials and the training of students and educational professionals.
+
+	</summary>
+</bill>

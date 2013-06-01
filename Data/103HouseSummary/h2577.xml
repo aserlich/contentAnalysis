@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="2577" updated="2010-04-19T05:53:26-04:00">
+	<state datetime="1993-07-01">REFERRED</state>
+	<status><introduced datetime="1993-07-01"/></status>
+
+	<introduced datetime="1993-07-01"/>
+	<titles>
+		<title type="short" as="introduced">Fall River Visitor Center Act of 1993</title>
+		<title type="official" as="introduced">To authorize the Secretary of the Interior to participate in the operation of certain visitor facilities associated with, but outside the boundaries of, Rocky Mountain National Park in the State of Colorado.</title>
+	</titles>
+	<sponsor id="300003"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-01"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-08-06"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-08-13"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1994-05-17"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1250" />
+	</relatedbills>
+	<subjects>
+		<term name="Parks"/>
+		<term name="Colorado"/>
+		<term name="Gifts"/>
+		<term name="National parks"/>
+		<term name="Public buildings"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/1/1993--Introduced.
+Fall River Visitor Center Act of 1993 - Authorizes the Secretary of the Interior to expend donated or appropriated funds for the operation and maintenance of a visitor center to be constructed with private funds on property owned by H.W. Stewart, Inc., for visitors to, and administration of, Rocky Mountain National Park, Colorado.
+
+	</summary>
+</bill>

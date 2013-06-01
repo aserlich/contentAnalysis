@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="2356" updated="2012-07-17T04:54:59-04:00">
+	<state datetime="1993-09-13T12:41:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-09-13T12:41:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-06-09"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Water Resources Development Act of 1990 to extend the authority of the Secretary of the Army to carry out certain construction projects in the Virgin Islands.</title>
+	</titles>
+	<sponsor id="403314"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-09" state="REFERRED"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-06-21"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on Public Works + Transportation"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-08-05"  state="REPORTED"><committee name="House Committee on Public Works + Transportation"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-08-05"><committee name="House Committee on Public Works + Transportation"/><text>Subcommittee on Water Resources and Environment Discharged.</text></action>
+		<action datetime="1993-09-09T18:15:00-04:00"><text>Reported by the Committee on Public Works + Transportation. H. Rept. 103-234.</text></action>
+		<calendar number="128" datetime="1993-09-09T18:16:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 128.</text></calendar>
+		<action datetime="1993-09-13T12:37:00-04:00"><text>Mr. Traficant moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-09-13T12:37:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6603-6604"/></action>
+		<action datetime="1993-09-13T12:37:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-09-13T12:41:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-09-13T12:41:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-09-14"><text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral, Discharged" />
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Virgin Islands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/9/1993--Introduced.
+Amends the Water Resources Development Act of 1990 to make permanent (currently, expires November 28, 1993) the authority of the Secretary of the Army to carry out certain construction projects in the Virgin Islands.
+
+	</summary>
+</bill>

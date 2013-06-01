@@ -1,0 +1,59 @@
+<bill session="103" type="h" number="1555" updated="2010-04-19T03:14:10-04:00">
+	<state datetime="1993-03-31">REFERRED</state>
+	<status><introduced datetime="1993-03-31"/></status>
+
+	<introduced datetime="1993-03-31"/>
+	<titles>
+		<title type="official" as="introduced">To terminate the Ground-Wave Emergency Network (GWEN) program.</title>
+	</titles>
+	<sponsor id="400140"/>
+	<cosponsors>
+		<cosponsor id="400553" joined="1993-09-21"/>
+		<cosponsor id="411677" joined="1993-09-08"/>
+		<cosponsor id="400612" joined="1993-05-26"/>
+		<cosponsor id="400300" joined="1993-05-04"/>
+		<cosponsor id="400354" joined="1993-09-08"/>
+		<cosponsor id="400370" joined="1994-02-08"/>
+		<cosponsor id="400316" joined="1993-05-24"/>
+		<cosponsor id="400520" joined="1993-09-21"/>
+		<cosponsor id="408618" joined="1993-05-11"/>
+		<cosponsor id="400076" joined="1993-06-15"/>
+		<cosponsor id="400251" joined="1994-02-08"/>
+		<cosponsor id="401134" joined="1993-11-22"/>
+		<cosponsor id="400299" joined="1993-05-18"/>
+		<cosponsor id="400291" joined="1993-09-08"/>
+		<cosponsor id="400599" joined="1993-09-08"/>
+		<cosponsor id="407044" joined="1993-07-13"/>
+		<cosponsor id="400301" joined="1993-04-28"/>
+		<cosponsor id="400100" joined="1993-07-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-31"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-04-02"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Acquisition.</text></action>
+		<action datetime="1993-04-02"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Acquisition" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1371" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Air force"/>
+		<term name="Defense budgets"/>
+		<term name="Government spending reductions"/>
+		<term name="Military command and control"/>
+		<term name="Military communications"/>
+		<term name="Nuclear warfare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/31/1993--Introduced.
+Directs the Secretary of Defense to terminate the Ground-Wave Emergency Network (GWEN) program. Prohibits the obligation or expenditure of funds for the GWEN program, except for program termination purposes.
+
+	</summary>
+</bill>

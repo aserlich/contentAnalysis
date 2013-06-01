@@ -1,0 +1,59 @@
+<bill session="103" type="h" number="3453" updated="2010-04-19T08:09:08-04:00">
+	<state datetime="1994-02-08">REPORTED</state>
+	<status><calendar datetime="1994-02-08" /></status>
+
+	<introduced datetime="1993-11-04"/>
+	<titles>
+		<title type="short" as="introduced">Drug-Free Schools and Communities Act Amendments of 1993</title>
+		<title type="official" as="introduced">To amend the Drug-Free Schools and Communities Act of 1986 to provide for the continuation of the programs of such Act.</title>
+	</titles>
+	<sponsor id="400306"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-04"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-11-17"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Select Education and Civil Rights.</text></action>
+		<action datetime="1994-01-26"><committee name="House Committee on Education and Labor" subcommittee="Select Education and Civil Rights"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-01-26"><committee name="House Committee on Education and Labor" subcommittee="Select Education and Civil Rights"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1994-02-01"><committee name="House Committee on Education and Labor"/><text>Executive Comment Requested from Education.</text></action>
+		<action datetime="1994-02-08"><committee name="House Committee on Education and Labor"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-02-08"  state="REPORTED"><committee name="House Committee on Education and Labor"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1994-02-08"><committee name="House Committee on Education and Labor"/><text>For Further Action See H.R.6.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, Markup, In Committee" />
+		<committee code="HSED-04" name="House Education and Labor" subcommittee="Select Education and Civil Rights" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="6" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Alcohol and youth"/>
+		<term name="Alcoholism"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Children"/>
+		<term name="Drug abuse"/>
+		<term name="Drug abuse counseling"/>
+		<term name="Drug abuse prevention"/>
+		<term name="Drugs and youth"/>
+		<term name="Educational counseling"/>
+		<term name="Educational policy"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Federal aid to education"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Higher education"/>
+		<term name="School personnel"/>
+		<term name="Teacher education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/4/1993--Introduced.
+Drug-Free Schools and Communities Act Amendments of 1993 - Amends the Drug-Free Schools and Communities Act of 1986 to extend the authorization of appropriations for programs under such Act, including training of teachers, counselors, and school personnel, and emergency grants.
+
+	</summary>
+</bill>

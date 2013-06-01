@@ -1,0 +1,38 @@
+<bill session="103" type="s" number="392" updated="2012-07-17T05:04:05-04:00">
+	<state datetime="1993-02-18">REFERRED</state>
+	<status><introduced datetime="1993-02-18"/></status>
+
+	<introduced datetime="1993-02-18"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend until January 1, 1995, the existing suspension of duty on certain piston engines.</title>
+	</titles>
+	<sponsor id="403669"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-18" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1892)</text></action>
+		<action datetime="1993-02-18" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1118" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="All terrain vehicles"/>
+		<term name="Engines"/>
+		<term name="Snowmobiles"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/18/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to extend, through December 31, 1994, the suspension of duty on certain piston engines.
+
+	</summary>
+</bill>

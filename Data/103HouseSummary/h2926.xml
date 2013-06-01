@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="2926" updated="2010-04-19T06:47:29-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="short" as="introduced">Twin Falls County Landfill Act of 1993</title>
+		<title type="official" as="introduced">To convey a certain parcel of public land to the county of Twin Falls, Idaho, for use as a landfill, and for other purposes.</title>
+	</titles>
+	<sponsor id="300030"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Sponsor introductory remarks on measure. (CR E2059)</text></action>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-09-16"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1994-06-08"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-06-16"><committee name="House Committee on Natural Resources"/><text>For Further Action See S.1402.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1402" />
+		<bill relation="unknown" session="103" type="s" number="1402" />
+		<bill relation="unknown" session="103" type="s" number="1402" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands"/>
+		<term name="Energy policy"/>
+		<term name="Idaho"/>
+		<term name="Land transfers"/>
+		<term name="Landfills"/>
+		<term name="Mineral reserves"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Twin Falls County Landfill Act of 1993 - Requires the Secretary of the Interior to convey specified lands in Twin Falls County, Idaho, to the County for use as a public landfill in exchange for payment of fair market value for the land by the grantee. Reserves Federal mineral rights underlying the lands and the right to enter the property to remove minerals in accordance with applicable mining laws. Reverts such lands to the United States if they are not used to establish or operate a landfill within 12 months after the conveyance is made unless such lands are contaminated with a hazardous substance on the date such reversion would otherwise take effect.
+
+	</summary>
+</bill>

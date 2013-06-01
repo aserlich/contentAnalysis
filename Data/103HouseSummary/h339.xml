@@ -1,0 +1,40 @@
+<bill session="103" type="h" number="339" updated="2010-04-18T23:52:40-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Secured Credit Availability Amendments of 1993</title>
+		<title type="official" as="introduced">To amend title 11 of the United States Code with respect to avoiding certain liens that impair exempt property.</title>
+	</titles>
+	<sponsor id="409578"/>
+	<cosponsors>
+		<cosponsor id="400389" joined="1993-10-20"/>
+		<cosponsor id="400079" joined="1993-02-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Bankruptcy"/>
+		<term name="Debtor and creditor"/>
+		<term name="Liens"/>
+		<term name="State laws"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Secured Credit Availability Amendments of 1993 - Amends Federal bankruptcy law to preclude a debtor from avoiding a lien on certain property that would otherwise be exempt if: (1) the lien is a nonpossessory, nonpurchase-money security interest in specified trade-related property; and (2) State law prohibits the debtor from avoiding a lien on such otherwise exempt property.
+
+	</summary>
+</bill>

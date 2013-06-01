@@ -1,0 +1,42 @@
+<bill session="103" type="hr" number="315" updated="2010-04-19T13:48:08-04:00">
+	<state datetime="1993-11-18">REFERRED</state>
+	<status><introduced datetime="1993-11-18"/></status>
+
+	<introduced datetime="1993-11-18"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives that previously authorized construction to improve medical facilities administered by the Secretary of Veterans Affairs should not be delayed by the national health care reform debate.</title>
+	</titles>
+	<sponsor id="411178"/>
+	<cosponsors>
+		<cosponsor id="408476" joined="1994-03-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-18"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-11-23"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Hospitals and Health Care.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="HSVR-03" name="House Veterans' Affairs" subcommittee="Hospitals and Health Care" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Building construction"/>
+		<term name="Health care reform"/>
+		<term name="Health insurance"/>
+		<term name="Health policy"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Veterans' hospitals"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/18/1993--Introduced.
+Expresses the sense of the House of Representatives that construction on projects to build, renovate, or otherwise improve Department of Veterans Affairs medical facilities should not be delayed during the current national health reform debate if such projects have already been authorized by the Congress.
+
+	</summary>
+</bill>

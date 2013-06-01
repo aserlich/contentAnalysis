@@ -1,0 +1,125 @@
+<bill session="103" type="h" number="1757" updated="2012-07-17T05:58:30-04:00">
+	<state datetime="1993-07-26T14:48:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-07-26T14:48:00-04:00" where="h" result="pass" how="roll" roll="365"/></status>
+
+	<introduced datetime="1993-04-21"/>
+	<titles>
+		<title type="short" as="introduced">High Performance Computing and High Speed Networking Applications Act of 1993</title>
+		<title type="short" as="passed house">National Information Infrastructure Act of 1993</title>
+		<title type="official" as="introduced">To provide for a coordinated federal program to accelerate development and dissemination of applications of high performance computing and high-speed networking, and for other purposes.</title>
+	</titles>
+	<sponsor id="400043"/>
+	<cosponsors>
+		<cosponsor id="400611" joined="1993-04-21"/>
+		<cosponsor id="400084" joined="1993-04-21"/>
+		<cosponsor id="400124" joined="1993-04-21"/>
+		<cosponsor id="400409" joined="1993-05-18"/>
+		<cosponsor id="400312" joined="1993-05-18"/>
+		<cosponsor id="404083" joined="1993-04-21"/>
+		<cosponsor id="402750" joined="1993-04-21"/>
+		<cosponsor id="411065" joined="1993-04-21"/>
+		<cosponsor id="401494" joined="1993-04-21"/>
+		<cosponsor id="400572" joined="1993-04-21"/>
+		<cosponsor id="407465" joined="1993-04-21"/>
+		<cosponsor id="407044" joined="1993-05-18"/>
+		<cosponsor id="400526" joined="1993-04-21"/>
+		<cosponsor id="400210" joined="1993-04-21"/>
+		<cosponsor id="400035" joined="1993-04-21"/>
+		<cosponsor id="405258" joined="1993-04-21"/>
+		<cosponsor id="400204" joined="1993-04-21"/>
+		<cosponsor id="400614" joined="1993-04-21"/>
+		<cosponsor id="400178" joined="1993-04-21"/>
+		<cosponsor id="401014" joined="1993-04-21"/>
+		<cosponsor id="406420" joined="1993-04-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E988-989)</text></action>
+		<action datetime="1993-04-21" state="REFERRED"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-04-26"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Science.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Science, Space and Technology" subcommittee="Science"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-05-06"><committee name="House Committee on Science, Space and Technology" subcommittee="Science"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-05-11"><committee name="House Committee on Science, Space and Technology" subcommittee="Science"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-06-17"><committee name="House Committee on Science, Space and Technology" subcommittee="Science"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-06-17"><committee name="House Committee on Science, Space and Technology" subcommittee="Science"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-06-30"><committee name="House Committee on Science, Space and Technology"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-06-30"  state="REPORTED"><committee name="House Committee on Science, Space and Technology"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-07-13T17:57:00-04:00"><text>Reported (Amended) by the Committee on Science, Space and Technology. H. Rept. 103-173.</text></action>
+		<calendar number="97" datetime="1993-07-13T17:58:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 97.</text></calendar>
+		<action datetime="1993-07-26T13:06:00-04:00"><text>Mr. Boucher moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-07-26T13:07:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5084-5094, H5101"/></action>
+		<action datetime="1993-07-26T13:07:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-07-26T13:38:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1993-07-26T14:24:00-04:00"><text>Considered as unfinished business.</text></action>
+		<vote how="roll" type="vote" roll="365" datetime="1993-07-26T14:48:00-04:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 326 - 61 (Roll No. 365).</text></vote>
+		<action datetime="1993-07-26T14:48:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-07-27"><text>Received in the Senate and read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<action datetime="1993-09-14"><committee name="House Committee on Science, Space and Technology"/><text>Referred to Subcommittee on Education, Arts, Humanities.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Markup, Reporting" />
+		<committee code="HSSY-14" name="House Science, Space and Technology" subcommittee="Science" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee" />
+		<committee code="" name="Senate Labor and Human Resources" subcommittee="Education, Arts and Humanities" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Science, technology, communications"/>
+		<term name="Authorization"/>
+		<term name="Buy American"/>
+		<term name="Communication in medicine"/>
+		<term name="Communication in science"/>
+		<term name="Competition"/>
+		<term name="Computer industry"/>
+		<term name="Computer networks"/>
+		<term name="Computer software"/>
+		<term name="Computers"/>
+		<term name="Computers and government"/>
+		<term name="Computers in education"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Copyright"/>
+		<term name="Data banks"/>
+		<term name="Debarment of government contractors"/>
+		<term name="Department of Energy"/>
+		<term name="Depository libraries"/>
+		<term name="Disabled"/>
+		<term name="Education"/>
+		<term name="Educational technology"/>
+		<term name="Employee training"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Fiber optics"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Fraud"/>
+		<term name="Freedom of information"/>
+		<term name="Government and business"/>
+		<term name="Government operations and politics"/>
+		<term name="Government procurement"/>
+		<term name="Health"/>
+		<term name="Information services"/>
+		<term name="Information storage and retrieval systems"/>
+		<term name="Information technology"/>
+		<term name="Labeling"/>
+		<term name="Libraries"/>
+		<term name="Manufacturing industries"/>
+		<term name="Medical records"/>
+		<term name="National Aeronautics and Space Administration"/>
+		<term name="Pharmaceutical research"/>
+		<term name="Planning"/>
+		<term name="Remote sensing"/>
+		<term name="Research and development"/>
+		<term name="Sunset legislation"/>
+		<term name="Supercomputers"/>
+		<term name="Technology policy"/>
+		<term name="Technology transfer"/>
+		<term name="Telecommunication industry"/>
+		<term name="Telecommunication policy"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/26/1993--Passed House amended. National Information Infrastructure Act of 1993 - Amends the High-Performance Computing Act of 1991 (the Act) to direct the Federal Coordinating Council for Science, Engineering, and Technology to: (1) establish (in collaboration with non-Federal entities) an interagency applications program to develop applications of computing and networking advances under the National High-Performance Computing Program; and (2) develop a Plan for Computing and Networking Applications which shall identify application program goals and priorities and set forth specific Federal agency responsibilities. Requires the Plan to: (1) foster local network access and service programs; (2) develop projects and technologies in the fields of education, health care, libraries, and government information access; (3) provide funds for network services to connect with Internet; and (4) provide related personnel training. Authorizes FY 1994 through 1996 appropriations. Requires the Plan to: (1) specify the research and development activities in support of applications and to ensure network security and privacy; (2) specify applications for education at all levels; (3) specify applications for health care, including clinical information systems, information dissemination, and health delivery systems and population data sets; (4) specify applications for libraries, including digital libraries, prototype development, and remote-sensing data base development; and (5) specify applications for public access to Federal, State, and local government information. Authorizes FY 1994 through 1998 appropriations. (Sec. 4) Redefines the assessment responsibilities of the high-performance computing and applications committee (currently the high-performance computing advisory committee). (Sec. 5) Revises provisions regarding the National Research and Education Network Program (currently the National Research and Education Network) to: (1) set forth test bed network characteristics and restrictions; and (2) limit fund use to commercial (non-Federal) entities and systems whenever feasible. (Sec. 6) Subjects procurements of $25,000 or more under the Act to the provisions of the Competition in Contracting Act. (Sec. 7) Reduces FY 1994 authorizations of appropriations for Program activities of: (1) the National Aeronautics and Space Administration; and (2) the Department of Energy. (Sec. 8) Subjects procurements under the Act to: (1) the prohibition (and contract ineligibility) against the fraudulent use of &quot;Made in America&quot; labels; and (2) the provisions of the Buy American Act. Requires the Director of the Office of Science and Technology Policy to report to the Congress concerning any related non-domestic purchases. Expresses the sense of the Congress that grant recipients should purchase American-made equipment and products. (Sec. 9) Terminates the Act on October 1, 1998, except for title II and section 305 which shall terminate on October 1, 1996.
+
+	</summary>
+</bill>

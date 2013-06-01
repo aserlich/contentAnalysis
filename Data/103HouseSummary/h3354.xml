@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="3354" updated="2010-04-19T07:53:36-04:00">
+	<state datetime="1993-11-03T18:24:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-03T18:24:00-05:00" where="h" result="pass" how="roll" roll="543"/></status>
+
+	<introduced datetime="1993-10-26"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Omnibus Crime Control and Safe Streets Act of 1968 to allow grants for the purpose of developing and implementing residential substance abuse treatment programs within State correctional facilities, as well as within local correctional facilities in which inmates are incarcerated for a period of time sufficient to permit substance abuse treatment.</title>
+	</titles>
+	<sponsor id="401837"/>
+	<cosponsors>
+		<cosponsor id="405775" joined="1993-11-01"/>
+		<cosponsor id="300087" joined="1993-10-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-26"><text>Sponsor introductory remarks on measure. (CR E2532)</text></action>
+		<action datetime="1993-10-26"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-10-28"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-28"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1993-11-03T14:29:00-05:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-323.</text></action>
+		<calendar number="174" datetime="1993-11-03T14:30:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 174.</text></calendar>
+		<action datetime="1993-11-03T15:58:00-05:00"><text>Mr. Brooks moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-03T15:58:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8739-8744"/></action>
+		<action datetime="1993-11-03T15:58:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-11-03T16:38:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1993-11-03T18:15:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8753-8754"/></action>
+		<vote how="roll" type="vote" roll="543" datetime="1993-11-03T18:24:00-05:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 394 - 32 (Roll No. 543).</text></vote>
+		<action datetime="1993-11-03T18:24:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<calendar under="General Orders" number="271" datetime="1993-11-04" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 271.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Corrections"/>
+		<term name="Budgets"/>
+		<term name="Criminal justice"/>
+		<term name="Drug abuse"/>
+		<term name="Drug testing"/>
+		<term name="Federal aid to alcoholism programs"/>
+		<term name="Federal aid to law enforcement agencies"/>
+		<term name="Prisoners"/>
+		<term name="Rehabilitation of criminals"/>
+		<term name="Treatment and rehabilitation of alcoholics"/>
+		<term name="Treatment and rehabilitation of narcotic addicts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/3/1993--Passed House amended. Amends the Omnibus Crime Control and Safe Streets Act of 1968 to authorize the Director of the Bureau of Justice Assistance to make grants to States for the purpose of developing and implementing residential substance abuse treatment programs within State correctional facilities, as well as within local correctional facilities in which inmates are incarcerated for a period of time sufficient to permit substance abuse treatment. Sets forth provisions regarding: (1) State application and eligibility requirements (including a drug testing requirement and a requirement for an aftercare component to be eligible for a preference); (2) the review of State applications; (3) the allocation and distribution of funds; and (4) State evaluations. Authorizes appropriations.
+
+	</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="2475" updated="2010-04-19T05:37:28-04:00">
+	<state datetime="1993-06-22">REFERRED</state>
+	<status><introduced datetime="1993-06-22"/></status>
+
+	<introduced datetime="1993-06-22"/>
+	<titles>
+		<title type="official" as="introduced">To provide for congressional approval of a nuclear aircraft carrier waste disposal plan before the construction of CVN-76, and for other purposes.</title>
+	</titles>
+	<sponsor id="400008"/>
+	<cosponsors>
+		<cosponsor id="400306" joined="1993-06-22"/>
+		<cosponsor id="400409" joined="1993-06-22"/>
+		<cosponsor id="409829" joined="1994-01-25"/>
+		<cosponsor id="400140" joined="1993-06-22"/>
+		<cosponsor id="400425" joined="1993-06-22"/>
+		<cosponsor id="400314" joined="1994-01-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-22"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-06-25"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Readiness.</text></action>
+		<action datetime="1993-06-25"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-03" name="House Armed Services" subcommittee="Readiness" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cost effectiveness"/>
+		<term name="Environmental assessment"/>
+		<term name="Environmental protection"/>
+		<term name="Marine safety"/>
+		<term name="Nuclear aircraft carriers"/>
+		<term name="Nuclear fuels"/>
+		<term name="Nuclear power plant accidents"/>
+		<term name="Nuclear reactor decommissioning"/>
+		<term name="Planning"/>
+		<term name="Radioactive wastes"/>
+		<term name="Shipbuilding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/22/1993--Introduced.
+Directs the Secretary of the Navy to submit to the Congress a 20-year plan for the safe life-cycle maintenance and decommissioning of the Navy's nuclear-powered aircraft carriers. Requires the plan to include sites and methods for the safe disposal of spent nuclear fuel and the ships' hulls, structures, machinery, and equipment. Prohibits the appropriation of any funds for construction of the next nuclear-powered aircraft carrier (CVN-76) until such a plan has been approved by law. Directs the Secretary of Energy to report to the Congress detailing the likelihood and environmental impact of a reactor accident aboard a nuclear-powered aircraft carrier. Directs the Comptroller General to report to the Congress detailing the costs and benefits of the construction of another nuclear-powered aircraft carrier.
+
+	</summary>
+</bill>

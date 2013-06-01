@@ -1,0 +1,38 @@
+<bill session="103" type="s" number="897" updated="2012-07-17T04:06:59-04:00">
+	<state datetime="1993-05-05">REFERRED</state>
+	<status><introduced datetime="1993-05-05"/></status>
+
+	<introduced datetime="1993-05-05"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize a project to demonstrate the feasibility of voting by telephone.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-05" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5533-5534)</text></action>
+		<action datetime="1993-05-05" state="REFERRED"><text>Read twice and referred to the Committee on Rules.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1990" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Grants-in-aid"/>
+		<term name="Laboratories"/>
+		<term name="Telephone"/>
+		<term name="Voting"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/5/1993--Introduced.
+Directs the Federal Election Commission to make a grant to a specified consortium for a project to demonstrate the feasibility of telephone voting. Authorizes appropriations
+
+	</summary>
+</bill>

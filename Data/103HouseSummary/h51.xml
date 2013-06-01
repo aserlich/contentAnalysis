@@ -1,0 +1,178 @@
+<bill session="103" type="h" number="51" updated="2010-04-18T23:07:55-04:00">
+	<state datetime="1993-11-21T17:25:00-05:00">FAIL:ORIGINATING:HOUSE</state>
+	<status><vote datetime="1993-11-21T17:25:00-05:00" where="h" result="fail" how="roll" roll="595"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="popular" as="">D.C. Statehood bill</title>
+		<title type="short" as="introduced">New Columbia Admission Act</title>
+		<title type="short" as="reported to house">New Columbia Admission Act</title>
+		<title type="official" as="introduced">To provide for the admission of the State of New Columbia into the Union.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="1993-10-13"/>
+		<cosponsor id="400128" joined="1993-10-13"/>
+		<cosponsor id="402763" joined="1993-10-13"/>
+		<cosponsor id="400580" joined="1993-10-13"/>
+		<cosponsor id="409154" joined="1993-10-13"/>
+		<cosponsor id="400364" joined="1993-10-13"/>
+		<cosponsor id="400289" joined="1993-10-13"/>
+		<cosponsor id="400126" joined="1993-10-13"/>
+		<cosponsor id="403314" joined="1993-10-13"/>
+		<cosponsor id="400080" joined="1993-10-13"/>
+		<cosponsor id="400532" joined="1993-10-13"/>
+		<cosponsor id="401494" joined="1993-10-13"/>
+		<cosponsor id="400246" joined="1993-10-13"/>
+		<cosponsor id="400333" joined="1993-10-13"/>
+		<cosponsor id="411040" joined="1993-10-13"/>
+		<cosponsor id="400170" joined="1993-10-13"/>
+		<cosponsor id="400885" joined="1993-10-13"/>
+		<cosponsor id="400424" joined="1993-10-13"/>
+		<cosponsor id="404634" joined="1993-10-13"/>
+		<cosponsor id="404013" joined="1993-10-13"/>
+		<cosponsor id="410496" joined="1993-10-13"/>
+		<cosponsor id="400612" joined="1993-10-13"/>
+		<cosponsor id="400146" joined="1993-10-13"/>
+		<cosponsor id="400124" joined="1993-10-13"/>
+		<cosponsor id="400306" joined="1993-10-13"/>
+		<cosponsor id="400527" joined="1993-10-13"/>
+		<cosponsor id="400409" joined="1993-10-13"/>
+		<cosponsor id="404213" joined="1993-10-13"/>
+		<cosponsor id="406284" joined="1993-10-13"/>
+		<cosponsor id="400262" joined="1993-10-13"/>
+		<cosponsor id="400030" joined="1993-10-13"/>
+		<cosponsor id="400312" joined="1993-10-13"/>
+		<cosponsor id="400502" joined="1993-10-13"/>
+		<cosponsor id="400511" joined="1993-10-13"/>
+		<cosponsor id="400402" joined="1993-10-13"/>
+		<cosponsor id="406277" joined="1993-10-13"/>
+		<cosponsor id="400387" joined="1993-10-13"/>
+		<cosponsor id="407772" joined="1993-10-13"/>
+		<cosponsor id="403364" joined="1993-10-13"/>
+		<cosponsor id="411350" joined="1993-10-13"/>
+		<cosponsor id="400347" joined="1993-10-13"/>
+		<cosponsor id="400416" joined="1993-10-13"/>
+		<cosponsor id="404978" joined="1993-10-13"/>
+		<cosponsor id="400048" joined="1993-10-13"/>
+		<cosponsor id="410974" joined="1993-10-13"/>
+		<cosponsor id="407672" joined="1993-10-13"/>
+		<cosponsor id="400001" joined="1993-10-13"/>
+		<cosponsor id="400166" joined="1993-10-13"/>
+		<cosponsor id="400436" joined="1993-10-13"/>
+		<cosponsor id="409650" joined="1993-10-13"/>
+		<cosponsor id="400140" joined="1993-10-13"/>
+		<cosponsor id="400422" joined="1993-10-13"/>
+		<cosponsor id="400178" joined="1993-10-13"/>
+		<cosponsor id="400378" joined="1993-10-13"/>
+		<cosponsor id="402626" joined="1993-10-13"/>
+		<cosponsor id="400350" joined="1993-10-13"/>
+		<cosponsor id="400366" joined="1993-10-13"/>
+		<cosponsor id="400615" joined="1993-10-13"/>
+		<cosponsor id="404190" joined="1993-10-13"/>
+		<cosponsor id="400201" joined="1993-10-13"/>
+		<cosponsor id="400554" joined="1993-10-13"/>
+		<cosponsor id="400357" joined="1993-10-13"/>
+		<cosponsor id="400204" joined="1993-10-13"/>
+		<cosponsor id="409627" joined="1993-10-13"/>
+		<cosponsor id="400310" joined="1993-10-13"/>
+		<cosponsor id="410889" joined="1993-10-13"/>
+		<cosponsor id="400240" joined="1993-10-13"/>
+		<cosponsor id="400438" joined="1993-10-13"/>
+		<cosponsor id="400513" joined="1993-10-13"/>
+		<cosponsor id="410407" joined="1993-10-13"/>
+		<cosponsor id="400163" joined="1993-10-13"/>
+		<cosponsor id="400611" joined="1993-10-13"/>
+		<cosponsor id="404139" joined="1993-10-13"/>
+		<cosponsor id="400516" joined="1993-10-13"/>
+		<cosponsor id="400314" joined="1993-10-13"/>
+		<cosponsor id="411488" joined="1993-10-13"/>
+		<cosponsor id="403776" joined="1993-10-13"/>
+		<cosponsor id="400537" joined="1993-10-13"/>
+		<cosponsor id="404067" joined="1993-10-13"/>
+		<cosponsor id="402762" joined="1993-10-13"/>
+		<cosponsor id="400075" joined="1993-10-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on District of Columbia.</text></action>
+		<action datetime="1993-07-26"><committee name="House Committee on District of Columbia"/><text>Referred to the Subcommittee on Judiciary and Education.</text></action>
+		<action datetime="1993-07-26"><committee name="House Committee on District of Columbia" subcommittee="Judiciary and Education"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on District of Columbia" subcommittee="Judiciary and Education"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on District of Columbia" subcommittee="Judiciary and Education"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-09-29"><text>Sponsor introductory remarks on measure. (CR H7253-7257)</text></action>
+		<action datetime="1993-10-13"><text>Sponsor introductory remarks on measure. (CR H7815-7819)</text></action>
+		<action datetime="1993-11-03"><committee name="House Committee on District of Columbia"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-11-03"  state="REPORTED"><committee name="House Committee on District of Columbia"/><text>Ordered to be Reported (Amended) by the Yeas and Nays: 7 - 4.</text></calendar>
+		<action datetime="1993-11-17T20:27:00-05:00"><text>Reported (Amended) by the Committee on District of Columbia. H. Rept. 103-371.</text></action>
+		<calendar number="206" datetime="1993-11-17T20:29:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 206.</text></calendar>
+		<action datetime="1993-11-18"><text>Sponsor introductory remarks on measure. (CR H10146-10150)</text></action>
+		<action datetime="1993-11-19T17:58:00-05:00"><text>Rules Committee Resolution H. Res. 316 Reported to House. Rule provides for consideration of H.R. 51 with 3 hours of general debate. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on the District of Columbia now printed in the bill, modified by the amendment printed in part 1 of the report on the Committee on Rules accompanying this resolution. Measure will be considered read. Bill is closed to amendments.</text></action>
+		<action datetime="1993-11-20T16:28:00-05:00"><text>Rule H. Res. 316 passed House.</text></action>
+		<action datetime="1993-11-20T17:05:00-05:00"><text>Considered under the provisions of rule H. Res. 316.</text><reference label="consideration" ref="CR H10421-10445"/></action>
+		<action datetime="1993-11-20T17:05:00-05:00"><text>Rule provides for consideration of H.R. 51 with 3 hours of general debate. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on the District of Columbia now printed in the bill, modified by the amendment printed in part 1 of the report on the Committee on Rules accompanying this resolution. Measure will be considered read. Bill is closed to amendments.</text></action>
+		<action datetime="1993-11-20T17:05:00-05:00"><text>Point of order raised by Mr. Solomon on the content of the measure. Mr. Solomon stated that committee report accompanying the bill did not contain cost estimates of the effect of the legislation in fiscal year in which it was reported nor in the five following fiscal years and was, therefore, in violation of rule XIII, clause 7 of the rules of the House. Point of order overruled by the Chair.</text></action>
+		<action datetime="1993-11-20T17:12:00-05:00"><text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 316 and Rule XXIII.</text></action>
+		<action datetime="1993-11-20T17:12:00-05:00"><text>The Speaker designated the Honorable Kweisi Mfume to act as Chairman of the Committee.</text></action>
+		<action datetime="1993-11-20T17:12:00-05:00"><text>GENERAL DEBATE - Pursuant to the provisions of H. Res. 316, the Committee of the Whole proceeded with three hours of general debate.</text></action>
+		<action datetime="1993-11-20T20:04:00-05:00"><text>Committee of the Whole House on the state of the Union rises leaving H.R. 51 as unfinished business.</text></action>
+		<action datetime="1993-11-21T16:17:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10559-10575"/></action>
+		<action datetime="1993-11-21T16:17:00-05:00"><text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text></action>
+		<action datetime="1993-11-21T16:17:00-05:00"><text>GENERAL DEBATE - The Committee of the Whole proceeded with the remaining 30 minutes of general debate.</text></action>
+		<action datetime="1993-11-21T17:02:00-05:00"><text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 51.</text></action>
+		<action datetime="1993-11-21T17:02:00-05:00"><text>The previous question was ordered pursuant to the rule.</text></action>
+		<action datetime="1993-11-21T17:02:00-05:00"><text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text></action>
+		<action datetime="1993-11-21T17:03:00-05:00"><text>Mr. Bliley moved to recommit to District of Columbia.</text></action>
+		<action datetime="1993-11-21T17:03:00-05:00"><text>The previous question was ordered without objection.</text></action>
+		<action datetime="1993-11-21T17:03:00-05:00"><text>On motion to recommit Failed by voice vote.</text></action>
+		<vote how="roll" type="vote" roll="595" datetime="1993-11-21T17:25:00-05:00" where="h" result="fail"  state="FAIL:ORIGINATING:HOUSE"><text>On passage Failed by recorded vote: 153 - 277 (Roll no. 595).</text></vote>
+		<action datetime="1993-11-21T17:25:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSDT" name="House District of Columbia" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House District of Columbia" subcommittee="Judiciary and Education" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="103" type="hr" number="316" />
+		<bill relation="identical" session="103" type="s" number="898" />
+	</relatedbills>
+	<subjects>
+		<term name="State politics and government"/>
+		<term name="Absentee voting"/>
+		<term name="Actions and defenses"/>
+		<term name="Building laws"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Constitution"/>
+		<term name="Constitutional amendments"/>
+		<term name="Criminal justice"/>
+		<term name="District of Columbia"/>
+		<term name="Easements"/>
+		<term name="Elections"/>
+		<term name="Executive departments"/>
+		<term name="Expedited congressional procedure"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Law"/>
+		<term name="Legislative resolutions"/>
+		<term name="Members of Congress"/>
+		<term name="Members of Congress (House)"/>
+		<term name="Members of Congress (Senate)"/>
+		<term name="Payments in lieu of taxes"/>
+		<term name="Presidential elections"/>
+		<term name="Presidents"/>
+		<term name="Prisons"/>
+		<term name="Public lands"/>
+		<term name="Real property"/>
+		<term name="State and local government"/>
+		<term name="Statehood (American politics)"/>
+		<term name="Taxation"/>
+		<term name="Virginia"/>
+		<term name="Voter registration"/>
+	</subjects>
+	<amendments>
+		<amendment number="h411"/>
+	</amendments>
+	<summary>
+	11/17/1993--Reported to House amended. TABLE OF CONTENTS: Title I: State of New Columbia Subtitle A: Procedures for Admission Subtitle B: Description of New Columbia Territory Subtitle C: General Provisions Relating to Laws of New Columbia Title II: Responsibilities and Interests of Federal Government Title III: General Provisions New Columbia Admission Act - Title I: State of New Columbia - Subtitle A: Procedures for Admission - Sets forth procedures for admission into the United States of the State of New Columbia. Requires the Mayor of the District of Columbia to: (1) submit to the eligible voters propositions for statehood and adoption of a State Constitution; and (2) issue a proclamation for the first elections to the Congress of two Senators and one Representative of New Columbia. Requires the President, upon adoption of such propositions and certification of such elections, to issue a proclamation announcing the results and admitting New Columbia into the Union. Provides for conversion of District government offices to State offices. Subtitle B: Description of New Columbia Territory - Provides that New Columbia shall consist of all territory of the District as of the date of enactment of this Act, excluding land within specified metes and bounds that shall remain the District of Columbia and that shall include the principal Federal monuments, the White House, the Capitol Building, the Supreme Court Building, the Federal executive, legislative, and judicial office buildings located adjacent to the Mall and the Capitol Building, and certain military property. Subtitle C: General Provisions Relating to Laws of New Columbia - Prohibits New Columbia from imposing taxes on Federal property except as provided by the Congress. Maintains the applicability to New Columbia of current District laws and continues pending judicial proceedings. Title II: Responsibilities and Interest of Federal Government - Maintains: (1) the District of Columbia as the seat of the Federal Government; and (2) the Federal Government's authority over military lands and specified other property. Provides for Federal payments in lieu of taxes to New Columbia. Directs the Secretary of the Interior to take a scenic easement in the space above all lots within New Columbia. Requires each State that is the last place an individual resided before residing in the District of Columbia to permit such individual to vote in Federal elections by absentee ballot. Sets forth a rule for expedited consideration of a joint resolution proposing an amendment to the Constitution to repeal the 23rd amendment (provides for the appointment of electors for President and Vice President for the District). Title III: General Provisions - Establishes a Statehood Transition Commission to advise the President, the Congress, the District, and, after admission, New Columbia on procedures for an orderly transition to statehood during the first two years of New Columbia's existence. Directs the Commission to make recommendations regarding: (1) continued applicability of current Federal laws to the District; (2) the amount of the annual payment in lieu of taxes to New Columbia; and (3) the incarceration of individuals convicted of crimes in New Columbia and a plan for closing the Lorton Correctional Complex, Virginia, by 2010.
+
+	</summary>
+</bill>

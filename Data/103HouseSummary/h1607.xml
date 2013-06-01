@@ -1,0 +1,58 @@
+<bill session="103" type="h" number="1607" updated="2010-04-19T03:22:21-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="official" as="introduced">To terminate production by the United States of tritium, plutonium, and highly enriched uranium for weapons.</title>
+	</titles>
+	<sponsor id="412001"/>
+	<cosponsors>
+		<cosponsor id="406431" joined="1993-11-19"/>
+		<cosponsor id="400370" joined="1994-06-21"/>
+		<cosponsor id="400216" joined="1994-02-08"/>
+		<cosponsor id="400017" joined="1994-02-08"/>
+		<cosponsor id="400308" joined="1993-11-22"/>
+		<cosponsor id="400251" joined="1994-04-28"/>
+		<cosponsor id="400189" joined="1994-02-08"/>
+		<cosponsor id="409627" joined="1994-07-29"/>
+		<cosponsor id="400301" joined="1993-07-13"/>
+		<cosponsor id="300100" joined="1994-04-28"/>
+		<cosponsor id="411997" joined="1993-11-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-04-06"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Acquisition.</text></action>
+		<action datetime="1993-04-06"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Acquisition" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Defense budgets"/>
+		<term name="Defense economics"/>
+		<term name="Defense procurement"/>
+		<term name="Federal budgets"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Government spending reductions"/>
+		<term name="Nuclear facilities"/>
+		<term name="Nuclear weapons"/>
+		<term name="Plutonium"/>
+		<term name="Tritium"/>
+		<term name="Uranium"/>
+		<term name="Uranium enrichment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Prohibits after August 1, 1993, the expenditure of funds by any Federal department or agency for: (1) the production of tritium, plutonium, or highly enriched uranium for weapons; or (2) the procurement or construction of equipment or facilities for such production, other than for research.
+
+	</summary>
+</bill>

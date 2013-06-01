@@ -1,0 +1,61 @@
+<bill session="103" type="h" number="665" updated="2010-04-19T00:46:29-04:00">
+	<state datetime="1994-03-16">REPORTED</state>
+	<status><calendar datetime="1994-03-16" /></status>
+
+	<introduced datetime="1993-01-27"/>
+	<titles>
+		<title type="short" as="introduced">Insurance Fraud Prevention Act of 1993</title>
+		<title type="short" as="reported to house">Insurance Fraud Prevention Act of 1994</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, to provide that fraud against insurance companies will be subject to strong Federal criminal and civil penalties.</title>
+	</titles>
+	<sponsor id="400110"/>
+	<cosponsors>
+		<cosponsor id="400323" joined="1994-03-17"/>
+		<cosponsor id="400527" joined="1993-05-05"/>
+		<cosponsor id="401837" joined="1993-01-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-27"><text>Sponsor introductory remarks on measure. (CR E209-210)</text></action>
+		<action datetime="1993-01-27"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+		<action datetime="1994-03-11"><committee name="House Committee on Judiciary" subcommittee="Crime and Criminal Justice"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-03-11"><committee name="House Committee on Judiciary" subcommittee="Crime and Criminal Justice"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1994-03-16"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-03-16"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1994-03-25T19:23:00-05:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-468. Filed late, pursuant to previous special order.</text></action>
+		<calendar number="260" datetime="1994-03-25T19:24:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 260.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Actions and defenses"/>
+		<term name="Business"/>
+		<term name="Business records"/>
+		<term name="Corporate corruption"/>
+		<term name="Criminal investigation"/>
+		<term name="Criminal justice"/>
+		<term name="Embezzlement"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Fraud"/>
+		<term name="Injunctions"/>
+		<term name="Insurance companies"/>
+		<term name="Insurance law"/>
+		<term name="Law"/>
+		<term name="Prosecution"/>
+		<term name="Real estate appraisal"/>
+		<term name="Valuation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/25/1994--Reported to House amended. Insurance Fraud Prevention Act of 1994 - Amends the Federal criminal code to establish penalties to be imposed upon any person engaged in the business of insurance whose activities affect commerce and who: (1) knowingly, with intent to deceive, makes a materially false statement or report or willfully and materially overvalues land, property, or security in connection with reports or documents presented to an insurance regulatory official or agency, or to any agent or examiner (official) appointed to examine the affairs of such person for the purpose of influencing in any way the actions of such official; (2) willfully embezzles or misappropriates funds or property while acting as an officer, director, agent, or employee (officer) of such person; (3) knowingly makes a false entry of material fact in any book, report, or statement of such person with intent to deceive any person about the financial condition or solvency of such business; and (4) by threats or force, corruptly influences, obstructs, or endeavors corruptly to influence or obstruct the proper administration of the law under which a proceeding (involving the business of insurance whose activities affect interstate commerce) is pending before an insurance regulatory official appointed to examine the affairs of such person. Authorizes the Attorney General to seek civil penalties and injunctions for violations of this Act. Sets penalties for obstructing criminal investigations with respect to the prosecution of cases of insurance fraud.
+
+	</summary>
+</bill>

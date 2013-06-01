@@ -1,0 +1,61 @@
+<bill session="103" type="s" number="577" updated="2012-07-17T05:18:56-04:00">
+	<state datetime="1993-05-19">REPORTED</state>
+	<status><calendar datetime="1993-05-19" /></status>
+
+	<introduced datetime="1993-03-11"/>
+	<titles>
+		<title type="official" as="introduced">A bill to resolve the status of certain lands relinquished to the United States under the Act of June 1897 (30 Stat. 11, 36), and for other purposes.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-11" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2820-2821)</text></action>
+		<action datetime="1993-03-11" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-03-12"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1993-04-15"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of Agriculture, Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1993-05-06"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held.</text></action>
+		<calendar datetime="1993-05-19"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1993-06-23"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments. With written report No. 103-65. Additional views filed.</text></action>
+		<calendar under="General Orders" number="103" datetime="1993-06-23" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 103.</text></calendar>
+		<action datetime="1993-06-29"><text>Indefinitely postponed by Senate by Unanimous Consent.</text></action>
+		<action datetime="1993-06-29"><text>H.R. 765 passed in Senate relating to this measure.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="765" />
+		<bill relation="identical" session="103" type="h" number="765" />
+		<bill relation="superseded" session="103" type="h" number="765" />
+		<bill relation="unknown" session="103" type="h" number="765" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Actions and defenses"/>
+		<term name="Claims"/>
+		<term name="Commemorations"/>
+		<term name="Compensation (Law)"/>
+		<term name="Environmental protection"/>
+		<term name="Government liability"/>
+		<term name="Government paperwork"/>
+		<term name="Land transfers"/>
+		<term name="National forests"/>
+		<term name="National monuments"/>
+		<term name="National parks"/>
+		<term name="Natural areas"/>
+		<term name="Trails"/>
+		<term name="Wild rivers"/>
+		<term name="Wilderness areas"/>
+		<term name="Wildlife refuges"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/23/1993--Reported to Senate amended. Directs the Secretary of the Interior and the Secretary of Agriculture: (1) to prepare an initial list of base lands that were relinquished to the United States pursuant to the Act of June 4, 1897, and for which selection or other rights under that Act or supplemental legislation were not realized or exercised; (2) identify those listed lands which are located within any conservation system unit and all other listed lands which the Congress has designated for specific management or which the Secretary concerned decides should be retained to meet public, resource protection, or administrative needs (nationally significant lands); and (3) publish a final list of base lands excluding such nationally significant lands. Vests in the United States title to those nationally significant lands for which title was not previously vested in the United States and provides for claims for compensation based on such vesting. Ouitclaims the interest of the United States to the lands on the final list and requires the Secretary concerned to issue documents of disclaimer of interest confirming the quitclaims. Authorizes appropriations.
+
+	</summary>
+</bill>

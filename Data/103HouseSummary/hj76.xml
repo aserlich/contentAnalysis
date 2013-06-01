@@ -1,0 +1,48 @@
+<bill session="103" type="hj" number="76" updated="2010-04-18T22:02:39-04:00">
+	<state datetime="1993-01-27">REFERRED</state>
+	<status><introduced datetime="1993-01-27"/></status>
+
+	<introduced datetime="1993-01-27"/>
+	<titles>
+		<title type="popular" as="">Line Item Veto Amendment</title>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States authorizing the President to disapprove or reduce an item of appropriations.</title>
+	</titles>
+	<sponsor id="400548"/>
+	<cosponsors>
+		<cosponsor id="400553" joined="1993-02-18"/>
+		<cosponsor id="400099" joined="1993-02-23"/>
+		<cosponsor id="400155" joined="1993-01-27"/>
+		<cosponsor id="407838" joined="1993-01-27"/>
+		<cosponsor id="400017" joined="1993-02-03"/>
+		<cosponsor id="400604" joined="1993-01-27"/>
+		<cosponsor id="400569" joined="1993-01-27"/>
+		<cosponsor id="406554" joined="1993-01-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-27"><text>Sponsor introductory remarks on measure. (CR E183-184)</text></action>
+		<action datetime="1993-01-27"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="63" />
+		<bill relation="identical" session="103" type="sj" number="63" />
+	</relatedbills>
+	<subjects>
+		<term name="Appropriations"/>
+		<term name="Constitutional amendments"/>
+		<term name="Item veto"/>
+		<term name="Presidential powers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/1993--Introduced.
+Constitutional Amendment - Grants the President the authority to reduce or disapprove any item of appropriation in any Act or joint resolution, except any item of appropriation for the legislative branch.
+
+	</summary>
+</bill>

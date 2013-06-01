@@ -1,0 +1,67 @@
+<bill session="103" type="s" number="1206" updated="2012-07-17T05:47:18-04:00">
+	<state datetime="1994-04-14">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-04-14" /></status>
+
+	<introduced datetime="1993-07-01"/>
+	<titles>
+		<title type="official" as="introduced">A bill to redesignate the Federal building located at 380 Trapelo Road in Waltham, Massachusetts, as the &quot;Frederick C. Murphy Federal Center&quot;.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+		<cosponsor id="300059" joined="1993-07-01"/>
+		<cosponsor id="300043" joined="1994-02-22"/>
+		<cosponsor id="403515" joined="1993-07-01"/>
+		<cosponsor id="408252" joined="1993-07-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-01" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8493)</text></action>
+		<action datetime="1993-07-01" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar datetime="1994-01-27"  state="REPORTED"><committee name="Committee on Environment and Public Works"/><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-01-28"><text>Committee on Environment and Public Works. Reported to Senate by Senator Baucus without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="351" datetime="1994-01-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 351.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-02-01" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S524"/></vote>
+		<action datetime="1994-02-03T10:01:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-02-03"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-02-03"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-02-17"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Public Buildings and Grounds.</text></action>
+		<action datetime="1994-03-23"><committee name="House Committee on Public Works + Transportation"/><text>Subcommittee on Public Buildings and Grounds Discharged.</text></action>
+		<action datetime="1994-03-23"><committee name="House Committee on Public Works + Transportation"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-03-23" ><committee name="House Committee on Public Works + Transportation"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-03-24T19:05:00-05:00"><text>Reported by the Committee on Public Works + Transportation. H. Rept. 103-455.</text></action>
+		<calendar number="145" datetime="1994-03-24T19:05:00-05:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 145.</text></calendar>
+		<action datetime="1994-04-12T13:10:00-04:00"><text>Mr. Traficant moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-04-12T13:11:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2186-2187"/></action>
+		<action datetime="1994-04-12T13:11:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote2" datetime="1994-04-12T13:19:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1994-04-12T13:19:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-04-12" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-04-13" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-04-14" ><text>Signed by President.</text></signed>
+		<enacted number="103-234" type="public" datetime="1994-04-14"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-234.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Public Buildings and Grounds" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2318" />
+		<bill relation="unknown" session="103" type="h" number="2318" />
+		<bill relation="unknown" session="103" type="h" number="2318" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Commemorations"/>
+		<term name="Federal office buildings"/>
+		<term name="Massachusetts"/>
+		<term name="Names"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/1/1993--Introduced.
+Redesignates the Waltham Federal Center at 380 Trapelo Road, Waltham, Massachusetts, as the Frederick C. Murphy Federal Center.
+
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="3715" updated="2010-04-19T08:49:52-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="official" as="introduced">To provide consultations for the development of Articles of Incorporation for territories of the United States.</title>
+	</titles>
+	<sponsor id="400440"/>
+	<cosponsors>
+		<cosponsor id="400113" joined="1994-06-09"/>
+		<cosponsor id="400144" joined="1994-06-09"/>
+		<cosponsor id="400536" joined="1994-06-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-11-24"><text>Sponsor introductory remarks on measure. (CR E3056-3057)</text></action>
+		<action datetime="1994-01-21"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee On Insular and International Affairs.</text></action>
+		<action datetime="1994-05-18"><text>Sponsor introductory remarks on measure. (CR E953)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Insular and International Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4442" />
+	</relatedbills>
+	<subjects>
+		<term name="Territories (U.S.)"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="State and local government"/>
+		<term name="Statehood (American politics)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Authorizes a U.S. territory to develop in consultation with the United States and submit to the Congress, before January 1, 1999, proposed Articles of Incorporation that include measures leading to the political empowerment of the U.S. citizens of the territory. Authorizes the President and the Governor of a U.S. territory that requests to discuss incorporation with the United States to designate special representatives to consult and develop, in good faith, Articles of Incorporation with the United States. Requires the proposed Articles of Incorporation and accompanying report of the consultation to be transmitted to the Congress within one year after the appointment of the special representatives, but before January 1, 1999.
+
+	</summary>
+</bill>

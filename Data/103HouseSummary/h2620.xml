@@ -1,0 +1,69 @@
+<bill session="103" type="h" number="2620" updated="2012-07-17T04:43:09-04:00">
+	<state datetime="1993-11-15T16:09:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-15T16:09:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-07-13"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the Secretary of the Interior to acquire certain lands in California through an exchange pursuant to the Federal Land Policy and Management Act of 1976.</title>
+	</titles>
+	<sponsor id="400256"/>
+	<cosponsors>
+		<cosponsor id="400176" joined="1993-07-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-13" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E1749-1750)</text></action>
+		<action datetime="1993-07-13" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-08-06"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-08-13"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1993-11-10"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-11-10"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-11-15T12:33:00-05:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-362.</text></action>
+		<calendar number="196" datetime="1993-11-15T13:34:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 196.</text></calendar>
+		<action datetime="1993-11-15T16:02:00-05:00"><text>Mr. Vento moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-15T16:03:00-05:00"><text>Considered under suspension of the rules.</text></action>
+		<action datetime="1993-11-15T16:03:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-15T16:09:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-15T16:09:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-15T16:09:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-11-16"><text>Received in the Senate.</text></action>
+		<action datetime="1993-11-17"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-07-26"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of Agriculture, Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-08-04"><committee name="Committee on Energy and Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee on Public Lands, National Parks. Hearings held.</text></action>
+		<calendar datetime="1994-09-21" ><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-09-27"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="656" datetime="1994-09-27" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 656.</text></calendar>
+		<action datetime="1994-11-30"><text>By Senator Johnston from Committee on Energy and Natural Resources filed written report. Report No. 103-428.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="California"/>
+		<term name="Environmental protection"/>
+		<term name="Estuarine area conservation"/>
+		<term name="Florida"/>
+		<term name="Land transfers"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="National parks"/>
+		<term name="Water quality"/>
+		<term name="Water resources development"/>
+		<term name="Wetland conservation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/15/1993--Passed House amended. Deems lands designated as the Delta Point Lookout Tract in California as public lands for a 36-month period solely for purposes of exchange by the Secretary of the Interior for lands designated as the OHV Area Tract pursuant to the Federal Land Policy and Management Act of 1976. Amends the Everglades National Park Protection and Expansion Act of 1989 to authorize the Secretary to use funds appropriated pursuant to such Act, including funds appropriated for project modifications by the Army Corps of Engineers, to provide Federal assistance to the State of Florida for acquisition of lands in or adjacent to, or affecting the restoration of natural water flows to, the Everglades National Park or Florida Bay which are located east of the Park and known as the Frog Pond, Rocky Glades Agricultural Area, and the Eight-and-One-Half Square-Mile Area. Limits Federal assistance to not more than 25 percent of the total cost of such acquisition.
+
+	</summary>
+</bill>

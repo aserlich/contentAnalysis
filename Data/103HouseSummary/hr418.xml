@@ -1,0 +1,43 @@
+<bill session="103" type="hr" number="418" updated="2010-04-19T14:04:02-04:00">
+	<state datetime="1994-05-05T20:34:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-05-05T20:34:00-04:00" where="h" result="pass" how="roll" roll="160"/></status>
+
+	<introduced datetime="1994-05-04"/>
+	<titles>
+		<title type="official" as="introduced">Waiving points of order against the conference report to accompany the concurrent resolution (H. Con. Res. 218) setting forth the congressional budget for the United States Government for the fiscal years 1995, 1996, 1997, 1998, and 1999, and providing that rule XLIX shall not apply with respect to the adoption of that conference report.</title>
+	</titles>
+	<sponsor id="401310"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-04T19:22:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-494, by Mr. Beilenson.</text></action>
+		<action datetime="1994-05-04T19:22:00-04:00"><text>Rule provides for consideration of the conference report to H. Con. Res. 218 with 1 hour of general debate. Upon Adoption of this resolution it shall be in order to consider the conference report and all points of order against the conference report and against its consideration shall be waived. Rule XLIX shall not apply with respect to the adoption by the Congress of the conference report to accompany the concurrent resolution.</text></action>
+		<calendar datetime="1994-05-04T19:23:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 153.</text></calendar>
+		<action datetime="1994-05-05T19:54:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H3135-3143"/></action>
+		<action datetime="1994-05-05T19:55:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1994-05-05T20:16:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="roll" type="vote" roll="160" datetime="1994-05-05T20:34:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 228 - 168 (Roll no. 160).</text></vote>
+		<action datetime="1994-05-05T20:35:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hc" number="218" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congress"/>
+		<term name="Federal budgets"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/4/1994--Introduced.
+Waives points of order against the consideration of the conference report on H. Con. Res. 218 (setting forth the congressional budget for the Federal Government for FY 1995 through 1999).
+
+	</summary>
+</bill>

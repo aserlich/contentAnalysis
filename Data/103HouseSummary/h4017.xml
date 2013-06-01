@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="4017" updated="2010-04-19T09:37:03-04:00">
+	<state datetime="1994-03-17">REPORTED</state>
+	<status><calendar datetime="1994-03-17" /></status>
+
+	<introduced datetime="1994-03-11"/>
+	<titles>
+		<title type="short" as="introduced">Racial Justice Act</title>
+		<title type="official" as="introduced">To amend title 28, United States Code, to prevent racially discriminatory capital sentencing.</title>
+	</titles>
+	<sponsor id="403776"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-11"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-03-11"><committee name="House Committee on Judiciary"/><text>Subcommittee on Civil and Constitutional Rights Forwarded an Original Measure to Full Committee.</text></action>
+		<action datetime="1994-03-17"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-03-17"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1994-03-24T19:08:00-05:00"><text>Reported by the Committee on Judiciary. H. Rept. 103-458.</text></action>
+		<calendar number="252" datetime="1994-03-24T19:08:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 252.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Criminal procedure"/>
+		<term name="Capital punishment"/>
+		<term name="Civil rights"/>
+		<term name="Criminal justice"/>
+		<term name="Criminal justice information"/>
+		<term name="Criminal statistics"/>
+		<term name="Evidence (Law)"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Law"/>
+		<term name="Racial discrimination"/>
+		<term name="Sentences (Criminal procedure)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/1994--Introduced.
+Racial Justice Act - Amends the Federal judicial code to prohibit putting a person to death under color of State or Federal law in the execution of a sentence that was imposed based on race. Specifies that an inference that race was the basis of a death sentence is established if valid evidence is presented demonstrating that, at the time the sentence was imposed, race was a statistically significant factor in decisions to seek or to impose the sentence of death in the jurisdiction in question. Allows evidence relevant to establish an inference that race was the basis of a death sentence to include evidence that, at the pertinent time, death sentences were being imposed in the jurisdiction significantly more frequently: (1) upon persons of one race compared to another; or (2) against persons of one race compared to another as punishment for capital offenses. Directs the court, to determine the validity of statistical evidence presented to establish an inference that race was the basis of a sentence of death. Specifies that to the extent it is compiled and publicly made available, evidence must take into account the statutory aggravating factors of the crimes involved, including comparisons of similar cases involving persons of different races. Prohibits the death sentence from being carried out if an inference that race was the basis of a death sentence is established unless the government rebuts the inference by a preponderance of the evidence. Bars the government from relying on mere assertions that it did not intend to discriminate or that the cases in which death was imposed fit the statutory criteria for imposition of the death penalty unless it can show that such penalty was sought in all cases fitting such criteria. Requires that all data collected by public officials concerning factors relevant to the imposition of the death sentence be made publicly available.
+
+	</summary>
+</bill>

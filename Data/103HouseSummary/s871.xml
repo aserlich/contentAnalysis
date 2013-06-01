@@ -1,0 +1,45 @@
+<bill session="103" type="s" number="871" updated="2012-07-17T04:44:54-04:00">
+	<state datetime="1993-11-20">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-11-20" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-05-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill for the relief of Nathan C. Vance, and for other purposes.</title>
+	</titles>
+	<sponsor id="409923"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5406)</text></action>
+		<action datetime="1993-05-04" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-06-24"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+		<action datetime="1993-11-20"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text></vote>
+		<action datetime="1993-11-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-21T14:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-21"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-12-08"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Claims"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/4/1993--Introduced.
+Directs the Secretary of Agriculture to pay a specified sum to a named individual for fire loss arising out of the Mink Fire in and around Yellowstone National Park in 1988.
+
+	</summary>
+</bill>

@@ -1,0 +1,57 @@
+<bill session="103" type="h" number="750" updated="2010-04-19T01:00:45-04:00">
+	<state datetime="1993-03-27">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-03-27" /></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="popular" as="">Authorization bill FY94, Export Administration</title>
+		<title type="popular" as="">Export Administration FY94 Authorization bill</title>
+		<title type="official" as="introduced">To extend the Export Administration Act of 1979 and to authorize appropriations under that Act for fiscal years 1993 and 1994.</title>
+	</titles>
+	<sponsor id="400585"/>
+	<cosponsors>
+		<cosponsor id="409423" joined="1993-02-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-02-08"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Requested from State.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-02-16"  state="REPORTED"><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-02-16T13:32:00-05:00"><text>Mr. Gejdenson moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-02-16T13:33:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H605-610"/></action>
+		<action datetime="1993-02-16T13:33:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-02-16T13:51:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1993-02-16T14:12:00-05:00"><text>Considered as unfinished business.</text></action>
+		<vote how="roll" type="vote" roll="31" datetime="1993-02-16T14:25:00-05:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 330 - 54 (Roll no. 31).</text></vote>
+		<action datetime="1993-02-16T14:25:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-02-17"><text>Received in the Senate.</text></action>
+		<calendar under="General Orders" number="6" datetime="1993-02-18" calendar="Senate Legislative" ><text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 6.</text></calendar>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-03-11" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S2770-2775"/></vote>
+		<topresident datetime="1993-03-11" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-03-15"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-03-17" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-03-27" ><text>Signed by President.</text></signed>
+		<enacted number="103-10" type="public" datetime="1993-03-27"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-10.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Authorization"/>
+		<term name="Department of Commerce"/>
+		<term name="Export controls"/>
+		<term name="Exports"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Amends the Export Administration Act of 1979 to authorize appropriations for the Department of Commerce under the Act for FY 1993 and 1994. Extends such Act through June 30, 1994.
+
+	</summary>
+</bill>

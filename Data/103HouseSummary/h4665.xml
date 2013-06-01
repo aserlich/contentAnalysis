@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="4665" updated="2010-04-19T11:18:51-04:00">
+	<state datetime="1994-09-28">REPORTED</state>
+	<status><calendar datetime="1994-09-28" /></status>
+
+	<introduced datetime="1994-06-28"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Alaska Native Claims Settlement Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="400440"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-28"><text>Sponsor introductory remarks on measure. (CR E1347-1348)</text></action>
+		<action datetime="1994-06-28"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-08-30"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+		<action datetime="1994-09-22"><committee name="House Committee on Natural Resources" subcommittee="Oversight and Investigations"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Subcommittee on Oversight and Investigations Discharged.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T20:16:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-798.</text></action>
+		<calendar number="444" datetime="1994-10-03T20:16:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 444.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Oversight and Investigations" activity="Referral, Hearings, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2249" />
+		<bill relation="unknown" session="103" type="s" number="2249" />
+	</relatedbills>
+	<subjects>
+		<term name="Indians"/>
+		<term name="Alaska"/>
+		<term name="Finance"/>
+		<term name="Indian claims"/>
+		<term name="Indian lands"/>
+		<term name="Law"/>
+		<term name="Liability (Law)"/>
+		<term name="Minorities"/>
+		<term name="Stock repurchasing"/>
+		<term name="Stockholders"/>
+		<term name="Stocks"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Reported to House amended. Amends the Alaska Native Claims Settlement Act to authorize the Cook Inlet Regional Corporation (Cook Inlet Region, Incorporated) to purchase its shareholder-held common stock.
+
+	</summary>
+</bill>

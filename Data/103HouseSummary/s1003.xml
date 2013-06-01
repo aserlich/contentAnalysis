@@ -1,0 +1,56 @@
+<bill session="103" type="s" number="1003" updated="2012-07-17T05:56:43-04:00">
+	<state datetime="1993-06-23">REPORTED</state>
+	<status><calendar datetime="1993-06-23" /></status>
+
+	<introduced datetime="1993-05-20"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide authority for the President to enter into trade agreements to conclude the Uruguay Round of multilateral trade negotiations under the auspices of the General Agreement on Tariffs and Trade, to extend tariff proclamation authority to carry out such agreements, and to apply Congressional &quot;fast track&quot; procedures to a bill implementing such agreements.</title>
+	</titles>
+	<sponsor id="400563"/>
+	<cosponsors>
+		<cosponsor id="402412" joined="1993-05-20"/>
+		<cosponsor id="300005" joined="1993-06-30"/>
+		<cosponsor id="300084" joined="1993-05-20"/>
+		<cosponsor id="408420" joined="1993-05-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-20" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6276)</text></action>
+		<action datetime="1993-05-20" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+		<calendar datetime="1993-06-23"  state="REPORTED"><committee name="Committee on Finance"/><text>Committee on Finance. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-06-23"><text>Committee on Finance. Reported to Senate by Senator Moynihan without amendment. With written report No. 103-66.</text></action>
+		<calendar under="General Orders" number="104" datetime="1993-06-23" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 104.</text></calendar>
+		<action datetime="1993-06-29"><text>Star Print ordered on Senate Report 103-66.</text></action>
+		<action datetime="1993-06-30"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S8307-8319"/></action>
+		<action datetime="1993-06-30"><text>Senate passed companion measure H.R. 1876 in lieu of this measure by Yea-Nay Vote. 76-16. Record Vote No: 192.</text></action>
+		<action datetime="1993-06-30"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S8347"/></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1876" />
+		<bill relation="unknown" session="103" type="h" number="1876" />
+		<bill relation="superseded" session="103" type="h" number="1876" />
+		<bill relation="unknown" session="103" type="h" number="1876" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Expedited congressional procedure"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Legislation"/>
+		<term name="Nontariff trade barriers"/>
+		<term name="Tariff"/>
+		<term name="Trade agreements"/>
+		<term name="Trade negotiations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/1993--Introduced.
+Amends the Omnibus Trade and Competitiveness Act of 1988 to extend the authority of the President, for a specified period of time, to enter into trade agreements with foreign countries for the reduction or elimination of tariff or nontariff barriers if the Uruguay Round of multilateral trade negotiations under the General Agreement on Tariffs and Trade (GATT) has not resulted in such trade agreements by May 31, 1993. Provides that implementing bills involving tariff and nontariff trade agreements shall be effective only if, among other things, the President, at least 120 calendar days (currently, 90 days) before he enters into such agreement, notifies the Congress of his intention to enter into it, and prohibits such intention in the Federal Register. Extends congressional &quot;fast track procedures&quot; to such implementing bills through April 16, 1994. Requires specified advisory committee reports regarding such agreements to be provided to the President, the Congress, and the United States Trade Representative no later than 30 days after the President notifies the Congress of his intention to enter into the agreement, but before January 15, 1994.
+
+	</summary>
+</bill>

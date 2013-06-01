@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="5265" updated="2010-04-19T12:51:46-04:00">
+	<state datetime="1994-10-07">REFERRED</state>
+	<status><introduced datetime="1994-10-07"/></status>
+
+	<introduced datetime="1994-10-07"/>
+	<titles>
+		<title type="official" as="introduced">To amend the National Voter Registration Act of 1993 to increase the number of college students who register and vote.</title>
+	</titles>
+	<sponsor id="400163"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-07"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1994-10-07"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Elections.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="HSHA-08" name="House Administration" subcommittee="Elections" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Elections"/>
+		<term name="College students"/>
+		<term name="Colleges"/>
+		<term name="Congress"/>
+		<term name="Congressional elections"/>
+		<term name="Education"/>
+		<term name="Election administration"/>
+		<term name="Higher education"/>
+		<term name="Presidential elections"/>
+		<term name="Presidents"/>
+		<term name="Voter registration"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1994--Introduced.
+Amends the National Voter Registration Act of 1993 to provide for voter registration and polling places at State-funded institutions of higher education.
+
+	</summary>
+</bill>

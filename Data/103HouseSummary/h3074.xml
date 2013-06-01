@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="3074" updated="2010-04-19T07:10:22-04:00">
+	<state datetime="1993-09-14">REFERRED</state>
+	<status><introduced datetime="1993-09-14"/></status>
+
+	<introduced datetime="1993-09-14"/>
+	<titles>
+		<title type="popular" as="">Unemployment Compensation Extention bill</title>
+		<title type="short" as="introduced">Emergency Unemployment Compensation Program Extension Act of 1993</title>
+		<title type="official" as="introduced">To extend the emergency unemployment compensation program.</title>
+	</titles>
+	<sponsor id="400333"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-14"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-09-14"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-09-21"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+		<action datetime="1993-09-22"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Unemployment insurance"/>
+		<term name="Railroad employees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/14/1993--Introduced.
+Emergency Unemployment Compensation Program Extension Act of 1993 - Amends the Emergency Unemployment Compensation Act of 1991 to extend the authorization for new claims for benefits under the emergency unemployment compensation program to June 30, 1994. Modifies the final phase-out period for continuation of claims to end it on August 15, 1994. Provides for a similar extension of the program of temporary extended railroad unemployment insurance benefits (and modification of the phase-out period).
+
+	</summary>
+</bill>

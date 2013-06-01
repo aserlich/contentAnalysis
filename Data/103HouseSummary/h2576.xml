@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="2576" updated="2010-04-19T05:53:17-04:00">
+	<state datetime="1993-07-01">REFERRED</state>
+	<status><introduced datetime="1993-07-01"/></status>
+
+	<introduced datetime="1993-07-01"/>
+	<titles>
+		<title type="short" as="introduced">Digital Performance Right in Sound Recordings Act of 1993</title>
+		<title type="official" as="introduced">To amend title 17, United States Code, to provide an exclusive right to perform sound recordings publicly by means of digital transmissions.</title>
+	</titles>
+	<sponsor id="405775"/>
+	<cosponsors>
+		<cosponsor id="400580" joined="1993-09-08"/>
+		<cosponsor id="400025" joined="1993-07-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-01"><text>Sponsor introductory remarks on measure. (CR E1710-1711, E1724-1725)</text></action>
+		<action datetime="1993-07-01"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-07-07"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Copyright"/>
+		<term name="Sound recording and reproducing"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/1/1993--Introduced.
+Digital Performance Right in Sound Recordings Act of 1993 - Provides an exclusive right to perform sound recordings publicly by means of digital transmissions.
+
+	</summary>
+</bill>

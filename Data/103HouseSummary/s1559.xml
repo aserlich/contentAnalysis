@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="1559" updated="2012-07-17T05:32:32-04:00">
+	<state datetime="1993-10-18">REFERRED</state>
+	<status><introduced datetime="1993-10-18"/></status>
+
+	<introduced datetime="1993-10-18"/>
+	<titles>
+		<title type="official" as="introduced">A bill to direct the Secretary of the Interior to submit a plan to Congress to achieve full and fair payment for Bureau of Reclamation water used for agricultural purposes, and for other purposes.</title>
+	</titles>
+	<sponsor id="300042"/>
+	<cosponsors>
+		<cosponsor id="300061" joined="1993-10-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-18" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S13835-13836)</text></action>
+		<action datetime="1993-10-18" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-10-19"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Water and Power.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee" />
+		<committee code="SSEG-3" name="Senate Energy and Natural Resources" subcommittee="Water and Power" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural subsidies"/>
+		<term name="Agriculture and food"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Irrigation"/>
+		<term name="Water rates"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/18/1993--Introduced.
+Directs the Secretary of the Interior to develop and transmit to the Congress a plan for charging water recipients under Bureau of Reclamation water projects the full and fair value of water used for agricultural purposes.
+
+	</summary>
+</bill>

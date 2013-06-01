@@ -1,0 +1,51 @@
+<bill session="103" type="s" number="2249" updated="2012-07-17T05:05:10-04:00">
+	<state datetime="1994-09-21">REPORTED</state>
+	<status><calendar datetime="1994-09-21" /></status>
+
+	<introduced datetime="1994-06-29"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Alaska Native Claims Settlement Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="300150"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1994-06-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-29" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S7963)</text></action>
+		<action datetime="1994-06-29" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-08-02"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-08-04"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Parks, Preservation and Recreation. Hearings held. Hearings printed: S.Hrg. 103-942.</text></action>
+		<calendar datetime="1994-09-21"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1994-09-27"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments. Without written report.</text></action>
+		<calendar under="General Orders" number="651" datetime="1994-09-27" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 651.</text></calendar>
+		<action datetime="1994-11-30"><text>By Senator Johnston from Committee on Energy and Natural Resources filed written report. Report No. 103-424.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4665" />
+		<bill relation="unknown" session="103" type="h" number="4665" />
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Alaska"/>
+		<term name="Finance and financial sector"/>
+		<term name="Indian claims"/>
+		<term name="Indian lands"/>
+		<term name="Law"/>
+		<term name="Liability (Law)"/>
+		<term name="Minorities"/>
+		<term name="Stock repurchasing"/>
+		<term name="Stockholders"/>
+		<term name="Stocks"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/27/1994--Reported to Senate amended. Amends the Alaska Native Claims Settlement Act to authorize the Cook Inlet Regional Corporation (Cook Inlet Region, Incorporated) to purchase its shareholder-held common stock.
+
+	</summary>
+</bill>

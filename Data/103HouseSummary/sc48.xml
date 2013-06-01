@@ -1,0 +1,44 @@
+<bill session="103" type="sc" number="48" updated="2010-04-19T21:18:31-04:00">
+	<state datetime="1993-10-26T14:48:00-04:00">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1993-10-26T14:48:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1993-10-21"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution to correct technical errors in the enrollment of the bill (H.R. 2403), and for other purposes.</title>
+	</titles>
+	<sponsor id="403346"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-10-21" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text><reference label="consideration" ref="CR S14144"/></vote>
+		<action datetime="1993-10-22T10:03:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-10-22T11:09:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-10-22"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-10-26T12:55:00-04:00"><text>Mr. Hoyer asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1993-10-26T12:55:00-04:00"><text>An objection was heard to the unanimous consent request to consider the measure.</text></action>
+		<action datetime="1993-10-26T14:47:00-04:00"><text>Mr. Hoyer asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1993-10-26T14:47:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H8460-8461"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-10-26T14:48:00-04:00" where="h" result="pass"  state="PASSED:CONCURRENTRES"><text>On agreeing to the resolution Agreed to without objection.</text></vote>
+		<action datetime="1993-10-26T14:48:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2403" />
+	</relatedbills>
+	<subjects>
+		<term name="Senate"/>
+		<term name="Appropriations"/>
+		<term name="Legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/21/1993--Introduced.
+Makes technical corrections in the enrollment of H.R. 2403 (Department of the Treasury, United States Postal Service, the Executive Office of the President, and certain independent agencies appropriations).
+
+	</summary>
+</bill>

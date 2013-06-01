@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="2495" updated="2012-07-17T05:29:22-04:00">
+	<state datetime="1993-08-02T14:06:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-08-02T14:06:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-06-23"/>
+	<titles>
+		<title type="official" as="introduced">To direct the Secretary of the Interior to convey to the State of Ohio the Senecaville National Fish Hatchery.</title>
+	</titles>
+	<sponsor id="400906"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-23" state="REFERRED"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-07-13"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Fisheries Management.</text></action>
+		<action datetime="1993-07-13"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1993-07-27"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-07-27"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-07-27"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Subcommittee on Fisheries Management Discharged.</text></action>
+		<action datetime="1993-08-02T12:04:00-04:00"><text>Reported by the Committee on Merchant Marine and Fisheries. H. Rept. 103-203.</text></action>
+		<calendar number="114" datetime="1993-08-02T12:05:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 114.</text></calendar>
+		<action datetime="1993-08-02T14:02:00-04:00"><text>Mr. Studds moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-08-02T14:02:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5578-5579"/></action>
+		<action datetime="1993-08-02T14:02:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-08-02T14:06:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-08-02T14:06:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-08-03"><text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar datetime="1994-01-27" ><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee on Environment and Public Works. Provisions of measure incorporated into measure S. 476 ordered to be reported.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Fisheries Management" activity="Referral, Discharged" />
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="476" />
+	</relatedbills>
+	<subjects>
+		<term name="Fisheries"/>
+		<term name="Fish culture"/>
+		<term name="Fishery management"/>
+		<term name="Land transfers"/>
+		<term name="Ohio"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/23/1993--Introduced.
+Authorizes the conveyance, without reimbursement, of all U.S. interest in the Senecaville National Fish Hatchery to the State of Ohio solely for the Ohio fishery resources management program.
+
+	</summary>
+</bill>

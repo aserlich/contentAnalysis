@@ -1,0 +1,66 @@
+<bill session="103" type="h" number="4479" updated="2010-04-19T10:49:19-04:00">
+	<state datetime="1994-05-24">REFERRED</state>
+	<status><introduced datetime="1994-05-24"/></status>
+
+	<introduced datetime="1994-05-24"/>
+	<titles>
+		<title type="short" as="introduced">U.S.-Mexico Border Water Pollution Control Act</title>
+		<title type="official" as="introduced">To amend the Federal Water Pollution Control Act (Clean Water Act) to authorize appropriations in each of fiscal years 1994-2001 for the construction of wastewater treatment works to provide water pollution control in or near the United States-Mexico border area.</title>
+	</titles>
+	<sponsor id="402890"/>
+	<cosponsors>
+		<cosponsor id="400302" joined="1994-05-24"/>
+		<cosponsor id="400612" joined="1994-06-23"/>
+		<cosponsor id="402750" joined="1994-05-24"/>
+		<cosponsor id="400226" joined="1994-06-23"/>
+		<cosponsor id="401947" joined="1994-05-24"/>
+		<cosponsor id="400310" joined="1994-05-24"/>
+		<cosponsor id="410889" joined="1994-06-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-24"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-06-06"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="2231" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="American economic assistance"/>
+		<term name="Arizona"/>
+		<term name="Boundaries"/>
+		<term name="Budgets"/>
+		<term name="California"/>
+		<term name="Construction costs"/>
+		<term name="Federal aid to water pollution control"/>
+		<term name="Foreign aid"/>
+		<term name="Infrastructure"/>
+		<term name="International affairs"/>
+		<term name="International agencies"/>
+		<term name="International environmental cooperation"/>
+		<term name="Latin America"/>
+		<term name="Mexico"/>
+		<term name="New Mexico"/>
+		<term name="Sewage treatment plants"/>
+		<term name="Solid wastes"/>
+		<term name="Texas"/>
+		<term name="Transboundary pollution"/>
+		<term name="Treaties"/>
+		<term name="Waste water treatment"/>
+		<term name="Water pollution"/>
+		<term name="Water resources"/>
+		<term name="Water treatment plants"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/24/1994--Introduced.
+U.S.-Mexico Border Water Pollution Control Act - Amends the Federal Water Pollution Control Act to authorize the Administrator of the Environmental Protection Agency to provide financial and other assistance to the Border Environment Cooperation Commission, Federal, State, or local governmental entities, and the International Boundary and Water Commission, United States and Mexico for planning, design, and construction of wastewater treatment works in the U.S.-Mexican border area. Authorizes appropriations.
+
+	</summary>
+</bill>

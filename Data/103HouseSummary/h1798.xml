@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="1798" updated="2010-04-19T03:52:23-04:00">
+	<state datetime="1993-04-21">REFERRED</state>
+	<status><introduced datetime="1993-04-21"/></status>
+
+	<introduced datetime="1993-04-21"/>
+	<titles>
+		<title type="official" as="introduced">Relating to the application of the Generalized System of Preferences to Russia, Belarus, Kazakhstan, and Ukraine.</title>
+	</titles>
+	<sponsor id="400387"/>
+	<cosponsors>
+		<cosponsor id="411350" joined="1993-09-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-21"><text>Sponsor introductory remarks on measure. (CR H1962)</text></action>
+		<action datetime="1993-04-21"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-04-30"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Arms control"/>
+		<term name="Arms control agreements"/>
+		<term name="Belarus"/>
+		<term name="Congressional oversight"/>
+		<term name="Kazakhstan"/>
+		<term name="Nuclear nonproliferation"/>
+		<term name="Tariff preferences"/>
+		<term name="U.S.S.R."/>
+		<term name="Ukraine"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/21/1993--Introduced.
+Amends the Trade Act of 1974 to remove the Union of Soviet Socialist Republics from the list of countries ineligible for designation as a beneficiary developing country under the Generalized System of Preferences. Prohibits the President from designating Belarus, Kazakhstan, or Ukraine as beneficiary countries unless they accede to the Treaty on the Non-Proliferation of Nuclear Weapons. Authorizes the President to waive specified conditions and designate such countries as beneficiary countries (if they accede to the Treaty) provided certain other conditions are met.
+
+	</summary>
+</bill>

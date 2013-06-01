@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="1043" updated="2010-04-19T01:50:28-04:00">
+	<state datetime="1993-02-23">REFERRED</state>
+	<status><introduced datetime="1993-02-23"/></status>
+
+	<introduced datetime="1993-02-23"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit the expenditure of Federal funds for constructing, positioning, or modifying highway signs that are expressed in metric system measurements.</title>
+	</titles>
+	<sponsor id="402152"/>
+	<cosponsors>
+		<cosponsor id="404083" joined="1993-06-10"/>
+		<cosponsor id="400113" joined="1994-08-01"/>
+		<cosponsor id="408109" joined="1993-06-10"/>
+		<cosponsor id="400348" joined="1993-06-10"/>
+		<cosponsor id="300151" joined="1994-04-13"/>
+		<cosponsor id="400359" joined="1994-08-01"/>
+		<cosponsor id="400225" joined="1994-08-01"/>
+		<cosponsor id="400520" joined="1993-09-14"/>
+		<cosponsor id="400189" joined="1994-01-25"/>
+		<cosponsor id="400221" joined="1994-07-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-03-08"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+		<action datetime="1994-05-12"><committee name="House Committee on Public Works + Transportation"/><text>See H.R.4385.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4385" />
+	</relatedbills>
+	<subjects>
+		<term name="Roads and highways"/>
+		<term name="Federal aid highway program"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Metric system"/>
+		<term name="Signs and signboards"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1993--Introduced.
+Prohibits the expenditure of Federal funds for constructing, erecting, or modifying highway signs expressed in metric system measurements.
+
+	</summary>
+</bill>

@@ -1,0 +1,105 @@
+<bill session="103" type="h" number="578" updated="2012-07-17T04:19:45-04:00">
+	<state datetime="1993-05-04T13:41:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-05-04T13:41:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="short" as="introduced">Investment Adviser Regulatory Enhancement and Disclosure Act of 1993</title>
+		<title type="short" as="reported to house">Investment Adviser Regulatory Enhancement and Disclosure Act of 1993</title>
+		<title type="short" as="passed house">Investment Adviser Regulatory Enhancement and Disclosure Act of 1993</title>
+		<title type="official" as="introduced">To provide for recovery of costs of supervision and regulation of investment advisers and their activities, and for other purposes.</title>
+	</titles>
+	<sponsor id="400043"/>
+	<cosponsors>
+		<cosponsor id="404602" joined="1993-03-09"/>
+		<cosponsor id="404068" joined="1993-01-26"/>
+		<cosponsor id="400511" joined="1993-03-09"/>
+		<cosponsor id="400081" joined="1993-01-26"/>
+		<cosponsor id="400253" joined="1993-01-26"/>
+		<cosponsor id="405775" joined="1993-02-24"/>
+		<cosponsor id="400553" joined="1993-02-24"/>
+		<cosponsor id="407899" joined="1993-02-04"/>
+		<cosponsor id="406729" joined="1993-01-26"/>
+		<cosponsor id="400110" joined="1993-01-26"/>
+		<cosponsor id="300100" joined="1993-01-26"/>
+		<cosponsor id="410496" joined="1993-04-01"/>
+		<cosponsor id="400205" joined="1993-02-24"/>
+		<cosponsor id="400595" joined="1993-02-24"/>
+		<cosponsor id="410589" joined="1993-01-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E166-167)</text></action>
+		<action datetime="1993-01-26" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Energy and Commerce" subcommittee="Telecommunications and Finance"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-04-01"><committee name="House Committee on Energy and Commerce" subcommittee="Telecommunications and Finance"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-04-01"><committee name="House Committee on Energy and Commerce" subcommittee="Telecommunications and Finance"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1993-04-20"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-04-20"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-04-29T15:56:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 103-75.</text></action>
+		<calendar number="33" datetime="1993-04-29T15:57:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 33.</text></calendar>
+		<action datetime="1993-05-04T13:03:00-04:00"><text>Mr. Markey moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-05-04T13:04:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2212-2220"/></action>
+		<action datetime="1993-05-04T13:04:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-05-04T13:41:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-05-04T13:41:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-05-05"><text>Received in the Senate.</text></action>
+		<action datetime="1993-05-07"><text>Read twice and referred to the Committee on Banking.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="423" />
+	</relatedbills>
+	<subjects>
+		<term name="Securities"/>
+		<term name="Accounting"/>
+		<term name="Administrative fees"/>
+		<term name="Administrative procedure"/>
+		<term name="Auditing"/>
+		<term name="Brokers"/>
+		<term name="Confidential communications"/>
+		<term name="Conflict of interests"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Consumer protection"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Embezzlement"/>
+		<term name="Ex-offenders"/>
+		<term name="Federal-state relations"/>
+		<term name="Fees"/>
+		<term name="Finance and financial sector"/>
+		<term name="Financial statements"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Fraud"/>
+		<term name="Government paperwork"/>
+		<term name="Information disclosure (Securities law)"/>
+		<term name="Information services"/>
+		<term name="Investment advisers"/>
+		<term name="Larceny"/>
+		<term name="Licenses"/>
+		<term name="Mutual funds"/>
+		<term name="Professional fees"/>
+		<term name="Right of privacy"/>
+		<term name="Rural affairs legislation"/>
+		<term name="Savings and loan associations"/>
+		<term name="Securities and Exchange Commission"/>
+		<term name="Securities fraud"/>
+		<term name="Securities industry"/>
+		<term name="Securities regulation"/>
+		<term name="Small business"/>
+		<term name="Stock exchanges"/>
+		<term name="Surety and fidelity"/>
+		<term name="Surveys"/>
+		<term name="Telephone"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/4/1993--Passed House amended. Investment Adviser Regulatory Enhancement and Disclosure Act of 1993 - Amends the Investment Advisers Act of 1940 to authorize the Securities and Exchange Commission (SEC) to collect fees to cover specified costs of regulating investment advisers and their activities. Sets forth a sliding scale fee schedule. Authorizes the SEC to suspend the registration of any investment adviser for failure to pay the requisite fees. Directs the SEC to: (1) establish and periodically revise a schedule for the regular inspection of investment advisers; and (2) report to the Congress on surveys regarding the failure of persons to register as mandated. Authorizes the SEC to designate registered self-regulatory organizations to: (1) conduct periodic compliance examinations of members and their affiliates; (2) discipline them for non-compliance; and (3) collect examination fees. Places limitations upon such designation authority with respect to affiliates of members (especially those whose primary business is investment advisory activities), and savings association affiliates of members. Prohibits certain transactions by registered investment advisers, including the rendering of investment advice unsuitable to the client's financial situation and experience. Requires registered investment advisers to disseminate to clients and prospective clients brochures disclosing specified investor protection information. Requires such advisers to provide each client periodically with a written statement of client-paid fees, and compensation arrangements with a third party regarding recommended transactions. Directs the Commission to require the entity designated to administer certain fee collection and recordkeeping requirements to establish a toll-free telephone listing for inquiries about disciplinary and other information involving investment advisers. Directs the SEC to promulgate investor protection rules setting bond requirements for certain investment advisers against larceny and embezzlement. Prohibits: (1) a person convicted of a felony within the last ten years from registering as an investment adviser; or (2) an investment adviser from disclosing confidential client information. Requires the Commission to report to the Congress an analysis of the risks to investors when an investment adviser is the sole recipient of communications from the investor's custodian, or when an investment adviser or its affiliate serves as the custodian.
+
+	</summary>
+</bill>

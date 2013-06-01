@@ -1,0 +1,42 @@
+<bill session="103" type="s" number="1946" updated="2012-07-17T05:16:26-04:00">
+	<state datetime="1994-10-05">REPORTED</state>
+	<status><calendar datetime="1994-10-05" /></status>
+
+	<introduced datetime="1994-03-17"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for the repurchase of land taken by eminent domain, by Native American organizations, and for other purposes.</title>
+	</titles>
+	<sponsor id="300056"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-17" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3224)</text></action>
+		<action datetime="1994-03-17" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<calendar datetime="1994-10-05"  state="REPORTED"><committee name="Committee on Governmental Affairs"/><text>Committee on Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-10-07"><text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="719" datetime="1994-10-07" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 719.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Eminent domain"/>
+		<term name="Indian lands"/>
+		<term name="Land transfers"/>
+		<term name="Minorities"/>
+		<term name="Surplus government property"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/17/1994--Introduced.
+Amends the Federal Property and Administrative Services Act of 1949 to provide for the repurchase of land taken by eminent domain from organizations that had held such land in trust for Native Americans.
+
+	</summary>
+</bill>

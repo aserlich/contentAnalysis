@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="4485" updated="2010-04-19T10:50:15-04:00">
+	<state datetime="1994-05-24">REFERRED</state>
+	<status><introduced datetime="1994-05-24"/></status>
+
+	<introduced datetime="1994-05-24"/>
+	<titles>
+		<title type="official" as="introduced">To change election day for Federal offices to the first Monday in November and to make election day a legal public holiday.</title>
+	</titles>
+	<sponsor id="400398"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-24"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1994-05-24"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-06-02"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Census, Statistics and Postal Personnel.</text></action>
+		<action datetime="1994-06-08"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Elections.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="HSHA-08" name="House Administration" subcommittee="Elections" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Census, Statistics and Postal Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Holidays"/>
+		<term name="Commemorations"/>
+		<term name="Election Day"/>
+		<term name="Elections"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/24/1994--Introduced.
+Amends Federal law to: (1) change election day for Federal offices to the first Monday in November; and (2) make election day a legal public holiday.
+
+	</summary>
+</bill>

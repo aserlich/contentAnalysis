@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="925" updated="2010-04-19T01:30:27-04:00">
+	<state datetime="1993-02-17">REFERRED</state>
+	<status><introduced datetime="1993-02-17"/></status>
+
+	<introduced datetime="1993-02-17"/>
+	<titles>
+		<title type="official" as="introduced">To provide that any new tax increases shall not apply to individuals with taxable incomes under $200,000.</title>
+	</titles>
+	<sponsor id="400036"/>
+	<cosponsors>
+		<cosponsor id="400015" joined="1993-02-17"/>
+		<cosponsor id="400113" joined="1993-03-11"/>
+		<cosponsor id="400104" joined="1993-02-17"/>
+		<cosponsor id="400144" joined="1993-03-11"/>
+		<cosponsor id="300062" joined="1993-02-17"/>
+		<cosponsor id="412001" joined="1993-02-17"/>
+		<cosponsor id="410887" joined="1993-03-11"/>
+		<cosponsor id="411997" joined="1993-02-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-17"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax"/>
+		<term name="Tax rates"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/17/1993--Introduced.
+Exempts any individual whose taxable income is less than $200,000 for the taxable year from any tax increase enacted by the 103d Congress.
+
+	</summary>
+</bill>

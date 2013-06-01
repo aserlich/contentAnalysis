@@ -1,0 +1,37 @@
+<bill session="103" type="s" number="41" updated="2012-07-17T05:43:58-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill granting an extension of patent to the United Daughters of the Confederacy.</title>
+	</titles>
+	<sponsor id="300157"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-01-23"><text>Sponsor introductory remarks on measure. (CR S448-449)</text></action>
+		<action datetime="1993-02-04"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Patents, Copyrights and Trademarks.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Patents, Copyrights and Trademarks" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Patents"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Extends for 14 years a certain numbered patent.
+
+	</summary>
+</bill>

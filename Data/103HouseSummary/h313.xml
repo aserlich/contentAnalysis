@@ -1,0 +1,38 @@
+<bill session="103" type="h" number="313" updated="2010-04-18T23:48:26-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to remove the time limitation for the use of chapter 34 educational assistance benefits.</title>
+	</titles>
+	<sponsor id="408976"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-06-10"/>
+		<cosponsor id="400357" joined="1993-04-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-01-27"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Education, Training and Employment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Veterans' Affairs" subcommittee="Education, Training and Employment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Education"/>
+		<term name="Veterans' education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Eliminates the delimiting period for the use of educational assistance by eligible veterans.
+
+	</summary>
+</bill>

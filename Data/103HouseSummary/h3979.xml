@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="3979" updated="2010-04-19T09:31:07-04:00">
+	<state datetime="1994-03-16">REPORTED</state>
+	<status><calendar datetime="1994-03-16" /></status>
+
+	<introduced datetime="1994-03-08"/>
+	<titles>
+		<title type="short" as="introduced">Mandatory Minimum Sentencing Reform Act of 1994</title>
+		<title type="short" as="reported to house">Mandatory Minimum Sentencing Reform Act of 1994</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, with respect to certain mandatory minimum sentences.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="400192" joined="1994-03-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-08"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-03-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+		<action datetime="1994-03-11"><committee name="House Committee on Judiciary" subcommittee="Crime and Criminal Justice"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-03-11"><committee name="House Committee on Judiciary" subcommittee="Crime and Criminal Justice"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1994-03-16"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-03-16"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1994-03-24T19:36:00-05:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-460.</text></action>
+		<calendar number="253" datetime="1994-03-24T19:36:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 253.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Criminal procedure"/>
+		<term name="Criminal justice"/>
+		<term name="Drug abuse"/>
+		<term name="Evidence (Law)"/>
+		<term name="Firearms"/>
+		<term name="Imprisonment"/>
+		<term name="Informers"/>
+		<term name="Law"/>
+		<term name="Narcotic traffic"/>
+		<term name="Organized crime"/>
+		<term name="Prisoners"/>
+		<term name="Recidivists"/>
+		<term name="Sentences (Criminal procedure)"/>
+		<term name="Sentencing guidelines"/>
+		<term name="Violence"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/24/1994--Reported to House amended. Mandatory Minimum Sentencing Reform Act of 1994 - Amends the Federal criminal code to require the court, in the case of specified offenses under the Controlled Substances Act or the Controlled Substances Import and Export Act, to impose a sentence pursuant to guidelines established by the U.S. Sentencing Commission, without regard to any statutory minimum sentence, if the court finds at sentencing that the offense did not result in death or serious bodily injury to any person and that the defendant: (1) does not have more than one criminal history point under the Commission's Guidelines Manual; (2) did not use violence or credible threats of violence or possess a firearm or other dangerous weapon (or induce another participant to do so) in connection with the offense; (3) was not an organizer, leader, manager, or supervisor of others (as determined under the Manual) in the offense; and (4) has provided to the Government all information the defendant has concerning the offenses that were part of the same course of conduct or of a common scheme or plan (but specifies that the fact that the defendant has no relevant or useful other information to provide shall not preclude or require a determination by the court that the defendant has complied with this requirement). Authorizes the Commission to make such amendments as necessary to harmonize the sentencing guidelines and policy statements with, and promulgate policy statements to assist in the application of, this Act. Directs the Commission to promulgate or amend sentencing guidelines with respect to cases where statutory minimum sentences would otherwise apply to carry out the purposes of this Act so that the lowest sentence in the guideline range is not less than two years in those cases where a five-year minimum would otherwise apply. Provides that, for purposes of provisions regarding modification of an imposed term of imprisonment based on a sentencing range subsequently lowered by the Commission under specified circumstances, with respect to a prisoner the court determines has demonstrated good behavior while in prison, the changes in sentencing made as a result of this Act shall be deemed changes in such a sentencing range.
+
+	</summary>
+</bill>

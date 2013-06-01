@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="4838" updated="2010-04-19T11:45:43-04:00">
+	<state datetime="1994-07-26">REFERRED</state>
+	<status><introduced datetime="1994-07-26"/></status>
+
+	<introduced datetime="1994-07-26"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the issuance of a certificate of documentation with appropriate endorsement for the vessel, FIREBIRD, and for other purposes.</title>
+	</titles>
+	<sponsor id="407141"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-26"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1994-07-28"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Coast Guard and Navigation.</text></action>
+		<action datetime="1994-07-28"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee On Merchant Marine.</text></action>
+		<action datetime="1994-07-28"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Coast Guard and Navigation"/><text>Some Provisions Incorporated into H.R.4820.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Coast Guard and Navigation" activity="Referral" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Merchant Marine" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Ships"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/26/1994--Introduced.
+Authorizes the Secretary of Transportation to issue a certificate of documentation for a named vessel.
+
+	</summary>
+</bill>

@@ -1,0 +1,70 @@
+<bill session="103" type="h" number="1487" updated="2010-04-19T03:03:19-04:00">
+	<state datetime="1993-03-25">REFERRED</state>
+	<status><introduced datetime="1993-03-25"/></status>
+
+	<introduced datetime="1993-03-25"/>
+	<titles>
+		<title type="official" as="introduced">To limit the amounts obligated or expended for fiscal year 1994 for travel expenses for officers and employees of the Federal Government.</title>
+	</titles>
+	<sponsor id="400649"/>
+	<cosponsors>
+		<cosponsor id="400273" joined="1993-11-22"/>
+		<cosponsor id="406431" joined="1993-11-18"/>
+		<cosponsor id="400156" joined="1994-04-12"/>
+		<cosponsor id="300030" joined="1994-02-02"/>
+		<cosponsor id="400584" joined="1994-03-09"/>
+		<cosponsor id="400322" joined="1994-02-02"/>
+		<cosponsor id="401547" joined="1994-10-07"/>
+		<cosponsor id="400332" joined="1993-11-22"/>
+		<cosponsor id="400154" joined="1993-11-21"/>
+		<cosponsor id="400388" joined="1993-11-10"/>
+		<cosponsor id="400574" joined="1994-08-01"/>
+		<cosponsor id="400359" joined="1994-08-01"/>
+		<cosponsor id="400010" joined="1994-05-19"/>
+		<cosponsor id="300062" joined="1994-06-30"/>
+		<cosponsor id="408553" joined="1994-06-08"/>
+		<cosponsor id="400050" joined="1993-11-18"/>
+		<cosponsor id="400560" joined="1993-04-22"/>
+		<cosponsor id="412001" joined="1993-11-18"/>
+		<cosponsor id="400169" joined="1993-06-18"/>
+		<cosponsor id="409618" joined="1993-04-22"/>
+		<cosponsor id="400221" joined="1994-06-29"/>
+		<cosponsor id="409052" joined="1994-04-14"/>
+		<cosponsor id="411997" joined="1993-11-10"/>
+		<cosponsor id="400583" joined="1993-11-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-25"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-03-25"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-03-25"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-03-26"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-03-26"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Accounts.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Accounts" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Budget deficits"/>
+		<term name="Federal budgets"/>
+		<term name="Government spending reductions"/>
+		<term name="Travel costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/25/1993--Introduced.
+Requires that of the amounts appropriated for FY 1994 for travel expenses for officers and employees of the Federal Government, not more than 75 percent be obligated or spent for such expenses and 25 percent be returned to the Treasury to reduce the Federal budget deficit.
+
+	</summary>
+</bill>

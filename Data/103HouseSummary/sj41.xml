@@ -1,0 +1,120 @@
+<bill session="103" type="sj" number="41" updated="2012-07-17T05:43:16-04:00">
+	<state datetime="1994-03-01">FAIL:ORIGINATING:SENATE</state>
+	<status><vote datetime="1994-03-01" where="s" result="fail" how="roll" roll="48"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="popular" as="">Balanced Budget Amendment</title>
+		<title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States to require a balanced budget.</title>
+	</titles>
+	<sponsor id="409917"/>
+	<cosponsors>
+		<cosponsor id="300150" joined="1993-02-17"/>
+		<cosponsor id="300071" joined="1993-10-07"/>
+		<cosponsor id="300052" joined="1993-02-04"/>
+		<cosponsor id="300043" joined="1993-03-30"/>
+		<cosponsor id="400557" joined="1993-02-04"/>
+		<cosponsor id="400559" joined="1993-11-05"/>
+		<cosponsor id="300007" joined="1993-02-04"/>
+		<cosponsor id="401874" joined="1993-02-04"/>
+		<cosponsor id="300089" joined="1993-02-04"/>
+		<cosponsor id="406256" joined="1993-02-04"/>
+		<cosponsor id="400564" joined="1993-09-07"/>
+		<cosponsor id="300053" joined="1993-11-05"/>
+		<cosponsor id="300154" joined="1993-11-10"/>
+		<cosponsor id="406487" joined="1993-02-04"/>
+		<cosponsor id="300048" joined="1993-02-04"/>
+		<cosponsor id="300069" joined="1994-02-07"/>
+		<cosponsor id="300155" joined="1993-02-04"/>
+		<cosponsor id="409923" joined="1993-07-23"/>
+		<cosponsor id="403142" joined="1993-11-09"/>
+		<cosponsor id="402675" joined="1994-02-07"/>
+		<cosponsor id="400562" joined="1993-09-30"/>
+		<cosponsor id="300037" joined="1993-10-25"/>
+		<cosponsor id="300015" joined="1993-09-30"/>
+		<cosponsor id="408420" joined="1993-10-13"/>
+		<cosponsor id="300049" joined="1993-03-03"/>
+		<cosponsor id="300061" joined="1993-02-04"/>
+		<cosponsor id="403968" joined="1994-01-26"/>
+		<cosponsor id="300072" joined="1993-09-30"/>
+		<cosponsor id="300031" joined="1993-02-04"/>
+		<cosponsor id="300079" joined="1993-02-04"/>
+		<cosponsor id="300029" joined="1993-02-04"/>
+		<cosponsor id="403515" joined="1994-02-04"/>
+		<cosponsor id="300017" joined="1993-02-04"/>
+		<cosponsor id="300057" joined="1993-09-30"/>
+		<cosponsor id="408898" joined="1993-02-04"/>
+		<cosponsor id="300009" joined="1993-09-21"/>
+		<cosponsor id="403346" joined="1993-02-04"/>
+		<cosponsor id="300159" joined="1993-09-30"/>
+		<cosponsor id="402412" joined="1993-04-27"/>
+		<cosponsor id="300099" joined="1993-04-27"/>
+		<cosponsor id="411271" joined="1994-02-07"/>
+		<cosponsor id="407254" joined="1993-02-04"/>
+		<cosponsor id="300070" joined="1993-02-04"/>
+		<cosponsor id="300023" joined="1994-02-07"/>
+		<cosponsor id="300046" joined="1993-02-04"/>
+		<cosponsor id="400565" joined="1993-09-30"/>
+		<cosponsor id="300157" joined="1993-02-04"/>
+		<cosponsor id="300010" joined="1993-10-25"/>
+		<cosponsor id="403962" joined="1993-10-19"/>
+		<cosponsor id="401604" joined="1993-09-21"/>
+		<cosponsor id="402727" joined="1993-02-04"/>
+		<cosponsor id="300054" joined="1993-11-19"/>
+		<cosponsor id="407992" joined="1993-02-04"/>
+		<cosponsor id="400558" joined="1993-09-30"/>
+		<cosponsor id="405310" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1475-1491)</text></action>
+		<action datetime="1993-02-04" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-03-05"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Constitution.</text></action>
+		<action datetime="1993-03-16"><committee name="Committee on Judiciary"/><text>Subcommittee on Constitution. Hearings held.</text></action>
+		<calendar datetime="1993-07-22"  state="REPORTED"><committee name="Committee on Judiciary"/><text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-10-21"><text>Committee on Judiciary. Reported to Senate by Senator Biden without amendment. With written report No. 103-163. Additional views filed.</text></action>
+		<calendar under="General Orders" number="245" datetime="1993-10-21" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 245.</text></calendar>
+		<action datetime="1993-11-01"><text>Sponsor introductory remarks on measure. (CR S14738-14739)</text></action>
+		<action datetime="1994-02-22"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S1590-1609"/></action>
+		<action datetime="1994-02-23"><text>Considered by Senate.</text><reference label="consideration" ref="CR S1695-1734"/></action>
+		<action datetime="1994-02-24"><text>Considered by Senate.</text><reference label="consideration" ref="CR S1799-1820, S1824-1834"/></action>
+		<action datetime="1994-02-25"><text>Considered by Senate.</text><reference label="consideration" ref="CR S1883-1892, S1894-1940"/></action>
+		<action datetime="1994-02-28"><text>Considered by Senate.</text><reference label="consideration" ref="CR S1959-2015"/></action>
+		<action datetime="1994-03-01"><text>Considered by Senate.</text><reference label="consideration" ref="CR S2045-2158"/></action>
+		<action datetime="1994-03-01"><text>The Joint Resolution was modified by Unanimous Consent.</text></action>
+		<vote how="roll" type="vote" roll="48" datetime="1994-03-01" where="s" result="fail"  state="FAIL:ORIGINATING:SENATE"><text>Failed of passage in Senate by Yea-Nay Vote. 63-37. Record Vote No: 48.</text></vote>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Judiciary" subcommittee="Constitution" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hj" number="9" />
+	</relatedbills>
+	<subjects>
+		<term name="Economics and public finance"/>
+		<term name="Armed forces and national security"/>
+		<term name="Balanced budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Congress"/>
+		<term name="Constitutional amendments"/>
+		<term name="Deficit financing"/>
+		<term name="Federal budgets"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Income tax"/>
+		<term name="Law"/>
+		<term name="Legislation"/>
+		<term name="Public debt"/>
+		<term name="Record votes"/>
+		<term name="Tax rates"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1470"/>
+		<amendment number="s1471"/>
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Constitutional Amendment - Prohibits in any fiscal year total Federal outlays from exceeding total receipts, unless a three-fifths roll call vote of both Houses of Congress authorizes a specific excess. Prohibits any increases in the public debt unless a three-fifths roll call vote of both Houses enacts legislation permitting otherwise. Directs the President to submit a balanced budget to the Congress. Permits any revenue-increasing bill to become law only if approved by a majority of the whole number of each House by roll call vote. Waives these provisions when a declaration of war is in effect.
+
+	</summary>
+</bill>

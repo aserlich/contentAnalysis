@@ -1,0 +1,120 @@
+<bill session="103" type="h" number="1151" updated="2010-04-19T02:08:00-04:00">
+	<state datetime="1993-02-25">REFERRED</state>
+	<status><introduced datetime="1993-02-25"/></status>
+
+	<introduced datetime="1993-02-25"/>
+	<titles>
+		<title type="short" as="introduced">Elementary and Secondary School Library Media Act</title>
+		<title type="official" as="introduced">To provide for elementary and secondary school library media resources, technology enhancement, training and improvement.</title>
+	</titles>
+	<sponsor id="300081"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-03-31"/>
+		<cosponsor id="400253" joined="1993-03-02"/>
+		<cosponsor id="400133" joined="1994-01-25"/>
+		<cosponsor id="400420" joined="1993-06-18"/>
+		<cosponsor id="400364" joined="1993-03-02"/>
+		<cosponsor id="400289" joined="1993-04-21"/>
+		<cosponsor id="400126" joined="1993-04-21"/>
+		<cosponsor id="300018" joined="1994-02-02"/>
+		<cosponsor id="400295" joined="1993-07-15"/>
+		<cosponsor id="411040" joined="1993-03-11"/>
+		<cosponsor id="400170" joined="1993-09-21"/>
+		<cosponsor id="400885" joined="1993-07-15"/>
+		<cosponsor id="400389" joined="1994-04-21"/>
+		<cosponsor id="404013" joined="1994-02-02"/>
+		<cosponsor id="300038" joined="1993-05-20"/>
+		<cosponsor id="400612" joined="1993-05-19"/>
+		<cosponsor id="401033" joined="1993-09-08"/>
+		<cosponsor id="300087" joined="1993-09-21"/>
+		<cosponsor id="400306" joined="1993-03-31"/>
+		<cosponsor id="409578" joined="1993-09-08"/>
+		<cosponsor id="400409" joined="1993-03-02"/>
+		<cosponsor id="400543" joined="1994-02-02"/>
+		<cosponsor id="400585" joined="1993-05-19"/>
+		<cosponsor id="400524" joined="1993-04-21"/>
+		<cosponsor id="400106" joined="1994-01-25"/>
+		<cosponsor id="411725" joined="1993-06-18"/>
+		<cosponsor id="400312" joined="1993-03-11"/>
+		<cosponsor id="404869" joined="1993-03-11"/>
+		<cosponsor id="400010" joined="1993-11-10"/>
+		<cosponsor id="400502" joined="1993-05-19"/>
+		<cosponsor id="400417" joined="1993-06-18"/>
+		<cosponsor id="400539" joined="1993-11-10"/>
+		<cosponsor id="400331" joined="1993-09-08"/>
+		<cosponsor id="404097" joined="1993-05-19"/>
+		<cosponsor id="400008" joined="1993-09-21"/>
+		<cosponsor id="407306" joined="1993-05-19"/>
+		<cosponsor id="401446" joined="1993-10-06"/>
+		<cosponsor id="409829" joined="1993-10-06"/>
+		<cosponsor id="407672" joined="1993-04-21" withdrawn="1993-11-22"/>
+		<cosponsor id="400035" joined="1993-05-20"/>
+		<cosponsor id="400166" joined="1993-10-06"/>
+		<cosponsor id="401153" joined="1993-09-21"/>
+		<cosponsor id="300156" joined="1993-05-20"/>
+		<cosponsor id="409650" joined="1994-02-02"/>
+		<cosponsor id="400140" joined="1993-03-02"/>
+		<cosponsor id="403190" joined="1993-09-08"/>
+		<cosponsor id="406082" joined="1994-01-25"/>
+		<cosponsor id="400178" joined="1993-06-18"/>
+		<cosponsor id="402626" joined="1993-04-28"/>
+		<cosponsor id="400021" joined="1993-11-10"/>
+		<cosponsor id="400299" joined="1993-04-28"/>
+		<cosponsor id="402454" joined="1993-06-18"/>
+		<cosponsor id="402152" joined="1993-03-02"/>
+		<cosponsor id="400615" joined="1993-03-31"/>
+		<cosponsor id="400291" joined="1994-03-10"/>
+		<cosponsor id="400201" joined="1994-04-21"/>
+		<cosponsor id="400318" joined="1993-02-25"/>
+		<cosponsor id="400391" joined="1993-07-15"/>
+		<cosponsor id="400554" joined="1993-02-25"/>
+		<cosponsor id="400357" joined="1993-07-15"/>
+		<cosponsor id="400310" joined="1993-04-28"/>
+		<cosponsor id="406024" joined="1993-09-08"/>
+		<cosponsor id="409400" joined="1993-10-06"/>
+		<cosponsor id="408103" joined="1994-01-25"/>
+		<cosponsor id="403873" joined="1993-05-19"/>
+		<cosponsor id="400301" joined="1993-10-06"/>
+		<cosponsor id="400611" joined="1993-05-20"/>
+		<cosponsor id="400425" joined="1993-11-22"/>
+		<cosponsor id="300058" joined="1993-09-21"/>
+		<cosponsor id="400236" joined="1994-01-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-25"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-03-16"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="266" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Computer networks"/>
+		<term name="Computers in education"/>
+		<term name="Curricula"/>
+		<term name="Data banks"/>
+		<term name="Department of Education"/>
+		<term name="Educational innovations"/>
+		<term name="Elementary education"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal aid to education"/>
+		<term name="Federal aid to libraries"/>
+		<term name="Librarians"/>
+		<term name="School libraries"/>
+		<term name="Secondary education"/>
+		<term name="Teachers"/>
+		<term name="Teaching materials"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/25/1993--Introduced.
+Elementary and Secondary School Library Media Act - Amends the Department of Education Organization Act to establish a Division of Elementary and Secondary School Library Media Services within the Office of Educational Research and Improvement. Requires the Director of the Division to award grants to States for acquisition of school library media resources for public elementary and secondary schools. Sets forth requirements for allocation to States, State plans, and State distribution of allocation to local educational agencies. Authorizes appropriations. Requires the Director to award grants for projects that: (1) encourage collaboration between public elementary and secondary library media specialists and teachers to develop instructional units that enable students to use a variety of information resources; and (2) expand students' information-gathering abilities and certain cognitive skills. Authorizes appropriations. Requires the Director to award grants to encourage collaborative elementary and secondary school library media specialist and teacher programs to: (1) expand use of computers and computer networks in the curriculum; and (2) enable elementary and secondary school library media centers to access information from computerized databases. Authorizes the Director to enter into cooperative agreements with the National Science Foundation and other appropriate nonprofit agencies and organizations in carrying out this grants program. Authorizes appropriations. Requires that funds under this Act supplement and not supplant other Federal, State, or local funds.
+
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="103" type="sj" number="13" updated="2012-07-17T05:41:06-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States.</title>
+	</titles>
+	<sponsor id="300157"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S621-622)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-02-04"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Constitution.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Constitution" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal officials"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Constitutional amendments"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Misconduct in office"/>
+		<term name="Presidential appointments"/>
+		<term name="Removal of officials"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Constitutional Amendment - Requires any Federal official appointed by the President with the advice and consent of the Senate, upon conviction of a felony, to forfeit office and all benefits and compensation thereof.
+
+	</summary>
+</bill>

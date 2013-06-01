@@ -1,0 +1,43 @@
+<bill session="103" type="hr" number="226" updated="2010-04-19T13:34:12-04:00">
+	<state datetime="1993-07-27T15:06:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-07-27T15:06:00-04:00" where="h" result="pass" how="roll" roll="368"/></status>
+
+	<introduced datetime="1993-07-23"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 2667) making emergency supplemental appropriations for relief from the major, widespread flooding in the Midwest for the fiscal year ending September 30, 1993, and for other purposes.</title>
+	</titles>
+	<sponsor id="411488"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-23T14:43:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-189, by Mr. Wheat.</text></action>
+		<action datetime="1993-07-23T14:43:00-04:00"><text>Rule provides for consideration of H.R. 2667 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Upon adoption of this resolution, the modifications to the bill printed in part 1 of the report accompanying this resolution shall be considered as having been adopted in the House and in the Committee of the Whole. All points of oder against the bill, as modified, shall be waived. Specified amendments are in order. No amendment to the bill shall be in order, except the amendment printed in part 2 of the report accompanying this resolution. Said amendment shall be debatable for the time specified in the report and shall not be subject to further amendment.</text></action>
+		<calendar datetime="1993-07-23T14:43:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 72.</text></calendar>
+		<action datetime="1993-07-27T13:13:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H5116-5130"/></action>
+		<action datetime="1993-07-27T13:16:00-04:00"><text>Point of order raised by Mr. Solomon on the content of the measure. The resolution makes in order an amendment previously rejected by the House. Point of order overruled by the Chair.</text></action>
+		<action datetime="1993-07-27T13:36:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-07-27T14:44:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="roll" type="vote" roll="368" datetime="1993-07-27T15:06:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 224 - 205 (Roll no. 368).</text></vote>
+		<action datetime="1993-07-27T15:06:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2667" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Appropriations"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/23/1993--Introduced.
+Sets forth the rule for the consideration of H.R. 2667 (emergency supplemental appropriations for relief from the flooding in the Midwest).
+
+	</summary>
+</bill>

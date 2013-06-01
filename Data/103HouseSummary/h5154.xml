@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="5154" updated="2010-04-19T12:34:40-04:00">
+	<state datetime="1994-09-30">REFERRED</state>
+	<status><introduced datetime="1994-09-30"/></status>
+
+	<introduced datetime="1994-09-30"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Agricultural Act of 1949 to temporarily suspend operation of the precondition on the provision of extended price support loans for corn under the farmer owned reserve program.</title>
+	</titles>
+	<sponsor id="400599"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-30"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-10-03"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on General Farm Commodities.</text></action>
+		<action datetime="1994-10-03"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="General Farm Commodities" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural credit"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural price supports"/>
+		<term name="Budgets"/>
+		<term name="Corn"/>
+		<term name="Government lending"/>
+		<term name="Grain storage"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/1994--Introduced.
+Amends the Agricultural Act of 1949 to make available extended price support loans for the 1994 corn crop under the farmer owned reserve program.
+
+	</summary>
+</bill>

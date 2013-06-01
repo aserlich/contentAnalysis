@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="3297" updated="2010-04-19T07:44:52-04:00">
+	<state datetime="1994-06-22">REPORTED</state>
+	<status><calendar datetime="1994-06-22" /></status>
+
+	<introduced datetime="1993-10-15"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 5, United States Code, to extend the treatment currently afforded to Federal judges under the Federal Employees Group Life Insurance Program to certain other judicial officials.</title>
+	</titles>
+	<sponsor id="400524"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-15"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-10-18"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+		<action datetime="1994-04-20"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-06-09"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-06-09"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Forwarded by Subcommittee to Full Committee in the Nature of a Substitute.</text></action>
+		<action datetime="1994-06-22"><committee name="House Committee on Post Office and Civil Service"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-06-22"  state="REPORTED"><committee name="House Committee on Post Office and Civil Service"/><text>Ordered to be Reported in the Nature of a Substitute.</text></calendar>
+		<action datetime="1994-10-07T22:13:00-04:00"><text>Reported (Amended) by the Committee on Post Office and Civil Service. H. Rept. 103-855.</text></action>
+		<calendar number="472" datetime="1994-10-07T22:15:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 472.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal officials"/>
+		<term name="Finance"/>
+		<term name="Government employees"/>
+		<term name="Government employees' life insurance"/>
+		<term name="Judges"/>
+		<term name="Judicial officers"/>
+		<term name="Law"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1994--Reported to House amended. Amends Federal civil service law to extend the treatment currently afforded to Federal judges under the Federal Employees Group Life Insurance Program to certain other judicial officials.
+
+	</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="1665" updated="2010-04-19T03:31:25-04:00">
+	<state datetime="1993-04-02">REFERRED</state>
+	<status><introduced datetime="1993-04-02"/></status>
+
+	<introduced datetime="1993-04-02"/>
+	<titles>
+		<title type="short" as="introduced">Electromagnetic Labeling Act of 1993</title>
+		<title type="official" as="introduced">To direct the Secretary of Energy to establish labeling requirements for products that emit low-frequency electromagnetic fields.</title>
+	</titles>
+	<sponsor id="402152"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-02"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-04-26"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Energy and Power.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="HSIF-03" name="House Energy and Commerce" subcommittee="Energy and Power" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1982" />
+	</relatedbills>
+	<subjects>
+		<term name="Consumer protection"/>
+		<term name="Administrative procedure"/>
+		<term name="Business records"/>
+		<term name="Consumer education"/>
+		<term name="Department of Energy"/>
+		<term name="Electromagnetic waves"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Government paperwork"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Labeling"/>
+		<term name="Product safety"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/2/1993--Introduced.
+Electromagnetic Labeling Act of 1993 - Directs the Secretary of Energy to establish uniform labeling requirements meeting specified criteria for products that emit low-frequency electric and magnetic fields of specified strengths. Authorizes the Secretary to impose a civil penalty against a manufacturer of such products for labeling violations under this Act.
+
+	</summary>
+</bill>

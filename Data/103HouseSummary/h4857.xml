@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="4857" updated="2010-04-19T11:48:44-04:00">
+	<state datetime="1994-07-29">REFERRED</state>
+	<status><introduced datetime="1994-07-29"/></status>
+
+	<introduced datetime="1994-07-29"/>
+	<titles>
+		<title type="official" as="introduced">To make small business concerns eligible to participate in the health benefits program under chapter 89 of title 5, United States Code.</title>
+	</titles>
+	<sponsor id="400197"/>
+	<cosponsors>
+		<cosponsor id="400414" joined="1994-07-29"/>
+		<cosponsor id="406768" joined="1994-07-29"/>
+		<cosponsor id="407465" joined="1994-07-29"/>
+		<cosponsor id="400506" joined="1994-07-29"/>
+		<cosponsor id="400574" joined="1994-07-29"/>
+		<cosponsor id="400365" joined="1994-08-04"/>
+		<cosponsor id="412001" joined="1994-07-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-29"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1994-07-29"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-07-29"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1994-09-16"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Small business"/>
+		<term name="Business"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Employee health benefits"/>
+		<term name="Federal employees"/>
+		<term name="Government employees"/>
+		<term name="Government employees' health insurance"/>
+		<term name="Health care reform"/>
+		<term name="Health insurance"/>
+		<term name="Health policy"/>
+		<term name="Labor"/>
+		<term name="Legislation"/>
+		<term name="Medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/29/1994--Introduced.
+Makes employees of small business concerns eligible to participate in the Federal Employees Health Benefits Program (FEHBP) as provided in this Act. Requires the Director of the Office of Personnel Management to transmit to the Congress a plan providing for the transition of FEHBP to carry out this Act as well as recommendations for legislation to carry out the plan. Requires the plan to include provisions under which: (1) small business concerns with 50 or fewer employees are required to form groups of at least 50 employees as a condition of eligibility; and (2) additional administrative expenses resulting from implementation of the plan are borne by such businesses and their employees.
+
+	</summary>
+</bill>

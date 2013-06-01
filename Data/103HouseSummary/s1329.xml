@@ -1,0 +1,97 @@
+<bill session="103" type="s" number="1329" updated="2012-07-17T06:01:02-04:00">
+	<state datetime="1994-08-18">REPORTED</state>
+	<status><calendar datetime="1994-08-18" /></status>
+
+	<introduced datetime="1993-07-30"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for an investigation of the whereabouts of the United States citizens and others who have been missing from Cyprus since 1974.</title>
+	</titles>
+	<sponsor id="403142"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="1993-11-16"/>
+		<cosponsor id="409580" joined="1993-11-10"/>
+		<cosponsor id="300060" joined="1993-11-16"/>
+		<cosponsor id="300059" joined="1993-09-22"/>
+		<cosponsor id="300043" joined="1993-11-19"/>
+		<cosponsor id="400557" joined="1994-03-23"/>
+		<cosponsor id="408252" joined="1993-11-16"/>
+		<cosponsor id="401709" joined="1993-11-16"/>
+		<cosponsor id="300089" joined="1993-10-28"/>
+		<cosponsor id="409225" joined="1993-11-05"/>
+		<cosponsor id="300011" joined="1993-10-28"/>
+		<cosponsor id="409917" joined="1993-07-30"/>
+		<cosponsor id="400564" joined="1993-11-01"/>
+		<cosponsor id="300012" joined="1993-11-19"/>
+		<cosponsor id="300086" joined="1993-11-09"/>
+		<cosponsor id="300048" joined="1993-11-17"/>
+		<cosponsor id="300008" joined="1994-08-16"/>
+		<cosponsor id="400563" joined="1993-10-28"/>
+		<cosponsor id="300073" joined="1993-10-28"/>
+		<cosponsor id="300155" joined="1994-01-26"/>
+		<cosponsor id="407663" joined="1993-11-19"/>
+		<cosponsor id="402675" joined="1994-03-03"/>
+		<cosponsor id="300067" joined="1993-11-01"/>
+		<cosponsor id="300049" joined="1993-11-16"/>
+		<cosponsor id="300061" joined="1993-11-19"/>
+		<cosponsor id="300092" joined="1993-10-28"/>
+		<cosponsor id="300031" joined="1994-01-25"/>
+		<cosponsor id="403515" joined="1993-11-05"/>
+		<cosponsor id="300084" joined="1993-11-17"/>
+		<cosponsor id="300051" joined="1994-05-05"/>
+		<cosponsor id="408898" joined="1993-09-22"/>
+		<cosponsor id="403669" joined="1994-03-24"/>
+		<cosponsor id="404219" joined="1994-09-27"/>
+		<cosponsor id="403346" joined="1993-11-09"/>
+		<cosponsor id="411271" joined="1993-10-28" withdrawn="1994-02-08"/>
+		<cosponsor id="408597" joined="1994-03-10"/>
+		<cosponsor id="402004" joined="1993-11-17"/>
+		<cosponsor id="300034" joined="1994-08-02"/>
+		<cosponsor id="403171" joined="1993-11-19"/>
+		<cosponsor id="300023" joined="1993-11-08"/>
+		<cosponsor id="300046" joined="1994-02-10"/>
+		<cosponsor id="400565" joined="1994-01-25"/>
+		<cosponsor id="411818" joined="1993-08-04"/>
+		<cosponsor id="403962" joined="1994-09-27"/>
+		<cosponsor id="407992" joined="1993-11-01"/>
+		<cosponsor id="405310" joined="1993-11-19"/>
+		<cosponsor id="300064" joined="1993-11-17"/>
+		<cosponsor id="300042" joined="1994-03-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-30" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S9989)</text></action>
+		<action datetime="1993-07-30" state="REFERRED"><text>Read twice and referred to the Committee on Foreign Relations.</text></action>
+		<calendar datetime="1994-08-18"  state="REPORTED"><committee name="Committee on Foreign Relations"/><text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-08-18"><text>Committee on Foreign Relations. Reported to Senate by Senator Pell without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="580" datetime="1994-08-18" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 580.</text></calendar>
+		<action datetime="1994-10-03"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S13957-13958"/></action>
+		<action datetime="1994-10-03"><text>Senate incorporated this measure in H.R. 2826 as an amendment.</text></action>
+		<action datetime="1994-10-03"><text>Senate passed companion measure H.R. 2826 in lieu of this measure by Voice Vote.</text></action>
+		<action datetime="1994-10-03"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S13958"/></action>
+	</actions>
+	<committees>
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2826" />
+		<bill relation="superseded" session="103" type="h" number="2826" />
+		<bill relation="unknown" session="103" type="h" number="2826" />
+		<bill relation="unknown" session="103" type="h" number="2826" />
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Americans in foreign countries"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cyprus"/>
+		<term name="Europe"/>
+		<term name="Governmental investigations"/>
+		<term name="Missing persons"/>
+	</subjects>
+	<amendments>
+		<amendment number="s2609"/>
+	</amendments>
+	<summary>
+	10/3/1994--Indefinitely postponed in Senate. Directs the President to: (1) investigate and report to the Congress and the families of the missing Americans on the whereabouts of U.S. citizens who have been missing from Cyprus since 1974; and (2) do everything possible to return such persons and others who have been missing (including the remains of those no longer alive) to their families.
+
+	</summary>
+</bill>

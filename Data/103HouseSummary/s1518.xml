@@ -1,0 +1,37 @@
+<bill session="103" type="s" number="1518" updated="2012-07-17T06:06:56-04:00">
+	<state datetime="1993-10-05">REFERRED</state>
+	<status><introduced datetime="1993-10-05"/></status>
+
+	<introduced datetime="1993-10-05"/>
+	<titles>
+		<title type="official" as="introduced">A bill to suspend temporarily the duty on Diquat Dibromide.</title>
+	</titles>
+	<sponsor id="300154"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-05" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2162" />
+		<bill relation="identical" session="103" type="s" number="1740" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Chemicals"/>
+		<term name="Pesticides"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/5/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1996, the duty on o-diquat dibromide 1,1'-ethylene-2,2'-dipyridylium dibromide (also known as diquat dibromide).
+
+	</summary>
+</bill>

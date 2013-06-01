@@ -1,0 +1,120 @@
+<bill session="103" type="h" number="4867" updated="2010-12-17T18:49:43-05:00">
+	<state datetime="1994-11-02">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-11-02" /></status>
+
+	<introduced datetime="1994-08-01"/>
+	<titles>
+		<title type="short" as="introduced">High-Speed Rail Development Act of 1994</title>
+		<title type="short" as="enacted">Federal Railroad Safety Authorization Act of 1994</title>
+		<title type="short" as="enacted">Swift Rail Development Act of 1994</title>
+		<title type="official" as="introduced">To authorize appropriations for high-speed rail transportation, and for other purposes.</title>
+		<title type="official" as="amended by senate">An Act to authorize appropriations for high-speed ground transportation, and for other purposes.</title>
+	</titles>
+	<sponsor id="409627"/>
+	<cosponsors>
+		<cosponsor id="410567" joined="1994-08-01"/>
+		<cosponsor id="400110" joined="1994-08-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-01"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-08-02"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+		<action datetime="1994-08-04"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-08-04"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-08-04"><text>Sponsor introductory remarks on measure. (CR E1645)</text></action>
+		<action datetime="1994-08-05"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-08-05"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-08-10T18:53:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 103-692.</text></action>
+		<calendar number="378" datetime="1994-08-10T18:54:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 378.</text></calendar>
+		<action datetime="1994-08-16T13:04:00-04:00"><text>Ms. Schenk moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-08-16T13:05:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8429-8433"/></action>
+		<action datetime="1994-08-16T13:05:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-08-16T13:22:00-04:00"><text>VOTE POSTPONED - Mr. Hefley demanded a vote on the motion to suspend the rules and pass the bill. Pursuant to a previous announcement by the Speaker, further proceedings were postponed.</text></action>
+		<action datetime="1994-08-16T17:35:00-04:00"><text>Considered as unfinished business.</text></action>
+		<vote how="roll" type="vote" roll="398" datetime="1994-08-16T17:52:00-04:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 281 - 103 (Roll No. 398).</text></vote>
+		<action datetime="1994-08-16T17:53:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-08-17"><text>Received in the Senate, read twice.</text></action>
+		<action datetime="1994-08-18"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S12133"/></action>
+		<action datetime="1994-08-18"><text>Senate struck all after the Enacting Clause and substituted the language of S. 839 amended.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-08-18" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate in lieu of S. 839 with an amendment and an amendment to the Title by Voice Vote.</text></vote>
+		<action datetime="1994-08-23"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-07T02:41:00-04:00"><text>Mr. Swift asked unanimous consent that the House agree with an amendment to the Senate amendments. (consideration: CR 10/6/1994 H11171)</text></action>
+		<vote how="without objection" type="pingpong" datetime="1994-10-07T02:42:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House agree with an amendment to the Senate amendments Agreed to without objection.</text></vote>
+		<action datetime="1994-10-07T02:43:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-07"><text>Message on House action received in Senate and at the desk: House amendment to Senate amendments.</text></action>
+		<action datetime="1994-10-08"><text>Senate agreed to the House amendment to the Senate amendments by Voice Vote.</text><reference label="consideration" ref="CR S15024"/></action>
+		<topresident datetime="1994-10-08" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-12"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-21" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-11-02" ><text>Signed by President.</text></signed>
+		<enacted number="103-440" type="public" datetime="1994-11-02"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-440.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="supersedes" session="103" type="s" number="839" />
+		<bill relation="unknown" session="103" type="s" number="839" />
+	</relatedbills>
+	<subjects>
+		<term name="Railroads"/>
+		<term name="Administrative procedure"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Buy American"/>
+		<term name="Commercialization"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Conversion of industries"/>
+		<term name="Cost effectiveness"/>
+		<term name="Defense economics"/>
+		<term name="Department of Labor"/>
+		<term name="Department of Transportation"/>
+		<term name="Employee assistance programs"/>
+		<term name="Employee rights"/>
+		<term name="Executive departments"/>
+		<term name="Federal aid to transportation"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Finance"/>
+		<term name="Foreign trade"/>
+		<term name="Highspeed trains"/>
+		<term name="Independent regulatory commissions"/>
+		<term name="Infrastructure"/>
+		<term name="Interstate Commerce Commission"/>
+		<term name="Jurisdiction"/>
+		<term name="Labor"/>
+		<term name="Law"/>
+		<term name="Liability insurance"/>
+		<term name="Licenses"/>
+		<term name="Mississippi"/>
+		<term name="Public contracts"/>
+		<term name="Railroad commuting traffic"/>
+		<term name="Railroad employees"/>
+		<term name="Railroad engineering"/>
+		<term name="Railroad finance"/>
+		<term name="Railroad freight operations"/>
+		<term name="Railroad passenger traffic"/>
+		<term name="Railroad research"/>
+		<term name="Railroad safety"/>
+		<term name="Railroads and state"/>
+		<term name="Research and development"/>
+		<term name="Right-of-way"/>
+		<term name="Science policy"/>
+		<term name="Technological innovations"/>
+		<term name="Technology"/>
+		<term name="Technology transfer"/>
+		<term name="Trade"/>
+		<term name="Traffic accidents and safety"/>
+		<term name="Transportation"/>
+		<term name="Transportation insurance"/>
+		<term name="Transportation planning"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1994--House agreed to Senate amendment with amendment. TABLE OF CONTENTS: Title I: High-Speed Rail Title II: Rail Safety Title III: Grade Crossing Safety Title I: High-Speed Rail - Swift Rail Development Act of 1994 - Authorizes the Secretary of Transportation (Secretary) to provide financial assistance to a public agency or group of public agencies for up to 50 percent of the publicly financed costs for corridor planning activities (engineering, operational, financial, environmental, or socioeconomic projections for the establishment of high-speed rail service in the corridor that leads toward development of a prudent financial and institutional plan for implementation of specific high-speed rail improvements). Prohibits the use of such assistance for corridor planning with respect to the main line of the Northeast Corridor, between Washington, D.C., and Boston, Massachusetts. Authorizes the Secretary to undertake activities for the improvement, adaptation, and integration of proven technologies for commercial application in high-speed rail service in the United States. Requires the Secretary to promulgate safety regulations necessary for high-speed rail. Authorizes appropriations for FY 1995 through 1997. (Sec. 104) Requires the Secretary, or the Secretary of the Treasury, to authorize the Delta Transportation Company, doing business as the Columbus and Greenville Railway, to redeem the obligations and liabilities of such company which remain outstanding. Title II: Rail Safety - Federal Railroad Safety Authorization Act of 1994 - Amends Federal transportation law to authorize appropriations for FY 1995 through 1998 for railroad research and development and general safety operations. (Sec. 203) Authorizes railroad carriers, and labor organizations representing affected covered service employees of such railroads, to jointly petition the Secretary for approval of a waiver of limitations on hours of serve with respect to such employees in order to establish one or more pilot projects to demonstrate the possible benefits of implementing alternatives to such requirements, including those concerning maximum on-duty and minimum off-duty periods. Authorizes the Secretary to waive compliance with such limitations for up to two years if it is in the public interest and is consistent with railroad safety. (Sec. 206) Requires the Secretary to report biennially (currently, annually) to the President and the Congress on the administration of Federal railroad safety rules and standards. (Sec. 207) Requires the Secretary to submit to specified congressional committees a report concerning actions taken on railroad bridge displacement detection systems. (Sec. 208) Requires the Secretary, not later than September 1, 1995 (currently, September 3, 1994), to prescribe regulations to revise track safety standards. Includes in a specified review by the Secretary on track safety standards, an evaluation of cold weather installation procedures. Requires the Secretary to consider, in light of such revision and review, whether or not to prescribe regulations concerning: (1) inspection procedures to identify internal rail defects in rail that has significant shelling; and (2) specific actions that should be taken when a rail surface condition, such as shelling, prevents the identification of such defects. (Sec. 210) Requires the Secretary to establish an Institute for Railroad Safety to research and develop measures to reduce the number of fatalities and injuries relating to railroad operations. Authorizes appropriations for FY 1996 through 2000. (Sec. 211) Directs the Secretary to encourage railroad carriers to warn the public about potential liability for violation of regulations related to vandalism of railroad signs, devices, and equipment and to trespassing on railroad property. (Sec. 212) Directs the Secretary to review the Department of Transportation's rules with respect to railroad car visibility. Requires the Secretary to prescribe regulations requiring enhanced visibility standards for newly manufactured and remanufactured railroad cars if such review establishes that enhanced railroad car visibility would likely improve safety in a cost-effective manner. (Sec. 213) Requires the Secretary to consult with the Secretary of Labor to ensure that applicable laws affecting safe working conditions for railroad employees are enforced to ensure a safe and productive working environment for the railroad industry. (Sec. 214) Requires the Secretary to report to the Congress on the development, deployment, and demonstration of positive train control system by December 31, 1995. (Sec. 215) Requires the Secretary to prescribe regulations establishing minimum standards for the safety of railroad passenger cars. (Sec. 216) Authorizes the Secretary to enter into contracts, or make grants, with Federal, State and local governments and private organizations to carry out the functions of the Federal Railroad Administration. (Sec. 217) Requires the Secretary, in prescribing regulations with respect to railroad safety affecting tourist, historic, scenic, or excursion railroad carriers, to take in consideration any financial or operational factors that may be unique to such carriers. (Sec. 218) Authorizes FY 1995 through appropriations for railroad and development to support Operation Lifesaver, Inc. (Sec. 219) Requires the Secretary to: (1) review current local, State, and Federal laws regarding trespassing on railroad property and vandalism affecting railroad safety; and (2) develop model prevention strategies and enforcement laws for consideration by State and local legislatures and governments. Requires the Secretary to develop a comprehensive outreach program to improve communications among Federal railroad safety inspectors, State inspectors certified by the Federal Railroad Administration, railroad police, and State and local law enforcement officers in order to address and increase public and police awareness of the illegality of, and dangers of, trespassing and vandalism on railroad property, and to strengthen relevant enforcement strategies. Requires the Secretary to develop and make available to State and local governments model legislation providing for civil or criminal penalties, or both, for vandalism of railroad equipment or property which could affect the safety of the public or railroad employees, and trespassing on railroad owned rights-of-way. Title III: Grade Crossing Safety - Requires the Secretary to conduct a pilot program to demonstrate an emergency notification system utilizing a toll-free telephone number that the public can use to convey to railroad carriers information about malfunctions or other safety problems at railroad-highway grade crossings. (Sec. 302) Requires the Secretary to prescribe regulations requiring locomotive horns be sounded while each train is approaching and entering upon each public highway-rail grade crossing, with specified exceptions. Authorizes the Secretary, in order to provide for safety and the quiet of communities affected by train operations, to specify in such regulations that any supplementary safety measures must be applied to all highway-rail grade crossings within a specified distance along the railroad in order to be excepted from such regulations. Authorizes the Secretary, in order to promote the quiet of communities affected by train operations and the development of innovative safety measures at highway-rail grade crossings, to order railroad carriers to cease temporarily the sounding of locomotive horns at such crossings.
+
+	</summary>
+</bill>

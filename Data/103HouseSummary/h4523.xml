@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="4523" updated="2010-04-19T10:56:19-04:00">
+	<state datetime="1994-09-28">REPORTED</state>
+	<status><calendar datetime="1994-09-28" /></status>
+
+	<introduced datetime="1994-05-26"/>
+	<titles>
+		<title type="short" as="introduced">Mancos Project Private Power Development Authorization Act of 1994</title>
+		<title type="short" as="reported to house">Mancos Project Private Power Development Authorization Act of 1994</title>
+		<title type="official" as="introduced">To provide for private development of power at the Mancos Project and for other purposes.</title>
+	</titles>
+	<sponsor id="400265"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-26"><text>Sponsor introductory remarks on measure. (CR E1090)</text></action>
+		<action datetime="1994-05-26"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-07-11"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Subcommittee on Oversight and Investigations Discharged.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T19:27:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-790.</text></action>
+		<calendar number="436" datetime="1994-10-03T19:27:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 436.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Oversight and Investigations" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="2124" />
+	</relatedbills>
+	<subjects>
+		<term name="Energy law and legislation"/>
+		<term name="Colorado"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Hydroelectric power"/>
+		<term name="Infrastructure"/>
+		<term name="Leases"/>
+		<term name="Public contracts"/>
+		<term name="Reservoirs"/>
+		<term name="Water districts"/>
+		<term name="Water resources"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Reported to House amended. Mancos Project Private Power Development Authorization Act of 1994 - Authorizes the Secretary of the Interior to enter into a lease with the Mancos Water Conservancy District for hydroelectric power privileges at the Mancos Project, Colorado. Provides lease conditions. Allows the District to receive revenues from the sale of power generated notwithstanding provisions of the Water Conservation and Utilization Act.
+
+	</summary>
+</bill>

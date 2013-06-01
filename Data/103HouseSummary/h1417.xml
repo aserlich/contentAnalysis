@@ -1,0 +1,66 @@
+<bill session="103" type="h" number="1417" updated="2010-04-19T02:52:13-04:00">
+	<state datetime="1993-03-18">REFERRED</state>
+	<status><introduced datetime="1993-03-18"/></status>
+
+	<introduced datetime="1993-03-18"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Family and Medical Leave Act of 1993 to restore the leave rights of certain employees.</title>
+	</titles>
+	<sponsor id="406082"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-04-02"/>
+		<cosponsor id="400509" joined="1994-03-09"/>
+		<cosponsor id="400532" joined="1994-10-07"/>
+		<cosponsor id="401494" joined="1993-04-02"/>
+		<cosponsor id="400122" joined="1994-02-02"/>
+		<cosponsor id="400129" joined="1994-02-24"/>
+		<cosponsor id="400885" joined="1994-07-13"/>
+		<cosponsor id="408109" joined="1994-02-02"/>
+		<cosponsor id="400306" joined="1994-07-13"/>
+		<cosponsor id="400527" joined="1994-02-09"/>
+		<cosponsor id="410589" joined="1994-02-02"/>
+		<cosponsor id="400106" joined="1994-06-21"/>
+		<cosponsor id="400143" joined="1994-07-13"/>
+		<cosponsor id="400511" joined="1994-07-26"/>
+		<cosponsor id="411350" joined="1994-02-24"/>
+		<cosponsor id="400140" joined="1994-06-21"/>
+		<cosponsor id="400178" joined="1994-07-26"/>
+		<cosponsor id="404190" joined="1994-10-07"/>
+		<cosponsor id="400201" joined="1994-02-09"/>
+		<cosponsor id="400391" joined="1994-06-21"/>
+		<cosponsor id="400554" joined="1994-02-02"/>
+		<cosponsor id="400204" joined="1994-02-09"/>
+		<cosponsor id="400240" joined="1994-02-09"/>
+		<cosponsor id="400025" joined="1994-02-02"/>
+		<cosponsor id="400278" joined="1994-02-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-18"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-03-18"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-04-05"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor"/>
+		<term name="Employee rights"/>
+		<term name="Executives"/>
+		<term name="Leave of absence"/>
+		<term name="Parental leave"/>
+		<term name="Sick leave"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/18/1993--Introduced.
+Amends the Family and Medical Leave Act of 1993 (Public Law 103-3) to repeal an exemption concerning highly compensated employees. (Under such exemption an employer could deny restoration of equivalent employment status upon return from family or medical leave to such highly compensated employees under certain circumstances.)
+
+	</summary>
+</bill>

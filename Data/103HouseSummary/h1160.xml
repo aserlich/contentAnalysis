@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="1160" updated="2010-04-19T02:09:27-04:00">
+	<state datetime="1993-03-01">REFERRED</state>
+	<status><introduced datetime="1993-03-01"/></status>
+
+	<introduced datetime="1993-03-01"/>
+	<titles>
+		<title type="official" as="introduced">To make permanent the temporary exemption from duty of the cost of certain foreign repairs made to United States vessels.</title>
+	</titles>
+	<sponsor id="400397"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-01"><text>Sponsor introductory remarks on measure. (CR E467)</text></action>
+		<action datetime="1993-03-01"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-04-07"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1993-08-27"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Ways and Means"/><text>See H.R.5110.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5110" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Maintenance and repair"/>
+		<term name="Shipbuilding"/>
+		<term name="Ships"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/1/1993--Introduced.
+Amends the Customs and Trade Act of 1990 to make permanent the exemption from duty of certain foreign repairs made to U.S. vessels that enter the United States.
+
+	</summary>
+</bill>

@@ -1,0 +1,64 @@
+<bill session="103" type="h" number="456" updated="2010-04-19T00:11:53-04:00">
+	<state datetime="1993-01-06">REFERRED</state>
+	<status><introduced datetime="1993-01-06"/></status>
+
+	<introduced datetime="1993-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Individual Development Account Demonstration Act</title>
+		<title type="official" as="introduced">To provide for the establishment of demonstration projects designed to determine the social, psychological, and economic effects of providing to individuals with limited means an opportunity to accumulate assets, and to determine the extent to which an asset-based welfare policy may be used to enable individuals with low income to achieve economic self-sufficiency.</title>
+	</titles>
+	<sponsor id="400538"/>
+	<cosponsors>
+		<cosponsor id="400428" joined="1993-03-23"/>
+		<cosponsor id="400553" joined="1993-03-23"/>
+		<cosponsor id="400122" joined="1993-09-08"/>
+		<cosponsor id="408109" joined="1993-05-12"/>
+		<cosponsor id="400511" joined="1993-03-23"/>
+		<cosponsor id="400422" joined="1993-03-23"/>
+		<cosponsor id="400178" joined="1993-03-23"/>
+		<cosponsor id="400211" joined="1993-03-23"/>
+		<cosponsor id="400390" joined="1993-06-08"/>
+		<cosponsor id="404139" joined="1993-03-23"/>
+		<cosponsor id="403864" joined="1993-01-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-06"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-01-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Postsecondary Education and Training.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Postsecondary Education and Training" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public welfare"/>
+		<term name="Bank accounts"/>
+		<term name="College costs"/>
+		<term name="Education"/>
+		<term name="Educational finance"/>
+		<term name="Home ownership"/>
+		<term name="Housing"/>
+		<term name="Housing finance"/>
+		<term name="Income tax"/>
+		<term name="Poor"/>
+		<term name="Public assistance programs"/>
+		<term name="Saving and investment"/>
+		<term name="Savings accounts"/>
+		<term name="Tax deductions"/>
+		<term name="Tax exclusion"/>
+		<term name="Trusts and trustees"/>
+		<term name="Vocational education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/1993--Introduced.
+Individual Development Account Demonstration Act - Amends the Internal Revenue Code to allow a deduction for contributions made to an individual development account (IDA) by or on behalf of a qualified individual to pay qualified expenses of such individual. Limits such contributions to $2,000 per year. Defines qualified expenses as those for: (1) postsecondary educational expenses; (2) a first-home purchase; and (3) retirement. Allows such deduction in arriving at adjusted gross income. Declares that contributions to IDAs are not subject to the gift tax or the tax on prohibited transactions. Provides for the establishment of demonstration projects designed to determine: (1) the social, psychological, and economic effects of providing to individuals with limited means an opportunity to accumulate assets; and (2) the extent to which an asset-based welfare policy may be used to enable individuals with low income to achieve economic self-sufficiency. Makes an individual eligible for assistance under a demonstration project if such individual is a member of a household that meets: (1) the income test of not more than 200 percent of the poverty threshold; and (2) the net worth test of not more than $20,000.
+
+	</summary>
+</bill>

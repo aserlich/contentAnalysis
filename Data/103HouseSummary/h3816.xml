@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="3816" updated="2010-04-19T09:05:37-04:00">
+	<state datetime="1994-02-08">REFERRED</state>
+	<status><introduced datetime="1994-02-08"/></status>
+
+	<introduced datetime="1994-02-08"/>
+	<titles>
+		<title type="official" as="introduced">To provide grants to the States to allow States to employ additional prosecutors.</title>
+	</titles>
+	<sponsor id="406284"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-08"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-03-08"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+		<action datetime="1994-04-21"><committee name="House Committee on Judiciary"/><text>See H.R.4092.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4092" />
+	</relatedbills>
+	<subjects>
+		<term name="Law enforcement"/>
+		<term name="Budgets"/>
+		<term name="Criminal justice"/>
+		<term name="Federal aid to law enforcement agencies"/>
+		<term name="Public prosecutors"/>
+		<term name="State and local government"/>
+		<term name="State officials and employees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/8/1994--Introduced.
+Authorizes the Attorney General to make grants to the States to allow States to employ additional prosecutors. Authorizes appropriations.
+
+	</summary>
+</bill>

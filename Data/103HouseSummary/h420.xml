@@ -1,0 +1,58 @@
+<bill session="103" type="h" number="420" updated="2010-04-19T00:05:48-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Foreign Capital and Securities Markets Study Act of 1993</title>
+		<title type="official" as="introduced">To require the Secretary of the Treasury to perform a study of the structures, operations, practices and regulation of Japan's capital and securities markets, and their implications for the United States.</title>
+	</titles>
+	<sponsor id="300156"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="1993-02-23"/>
+		<cosponsor id="401494" joined="1993-02-23"/>
+		<cosponsor id="400170" joined="1993-02-23"/>
+		<cosponsor id="400370" joined="1993-02-23"/>
+		<cosponsor id="402454" joined="1994-10-04"/>
+		<cosponsor id="404602" joined="1993-02-23"/>
+		<cosponsor id="402152" joined="1993-02-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+		<action datetime="1993-02-01"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on International Development, Finance, Trade and Monetary Policy.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="International Development, Finance, Trade and Monetary Policy" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Securities"/>
+		<term name="American investments"/>
+		<term name="Banks and banking"/>
+		<term name="Capital investments"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Corporate governance"/>
+		<term name="Economic research"/>
+		<term name="Foreign investments"/>
+		<term name="Foreign trade"/>
+		<term name="Japan"/>
+		<term name="Securities industry"/>
+		<term name="Securities regulation"/>
+		<term name="Stock exchanges"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Foreign Capital and Securities Markets Study Act of 1993 - Directs the Secretary of the Treasury to study and report to the Congress on the capital and securities markets of Japan and their implications for and economic effects on the United States.
+
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="3542" updated="2010-04-19T08:22:57-04:00">
+	<state datetime="1993-11-18">REFERRED</state>
+	<status><introduced datetime="1993-11-18"/></status>
+
+	<introduced datetime="1993-11-18"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 18, United States Code, to regulate the manufacture, importation, and sale of certain particularly dangerous bullets.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="400001" joined="1994-02-08"/>
+		<cosponsor id="400283" joined="1994-01-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-18"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-12-01"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Firearms"/>
+		<term name="Ammunition"/>
+		<term name="Criminal justice"/>
+		<term name="Firearms control"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/18/1993--Introduced.
+Amends the Federal criminal code to include within the definition of &quot;armor piercing ammunition&quot;: (1) a jacketed hollow point projectile which may be used in a handgun, the jacket of which is designed to produce, upon impact, evenly spaced sharp or barb-like projections that extend beyond the diameter of the unfired projectile; and (2) a jacketed projectile which may be used in a handgun, the jacket of which has a weight of more than 25 percent of the total weight of the projectile.
+
+	</summary>
+</bill>

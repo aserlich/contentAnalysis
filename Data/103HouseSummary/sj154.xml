@@ -1,0 +1,54 @@
+<bill session="103" type="sj" number="154" updated="2012-07-17T04:09:35-04:00">
+	<state datetime="1993-12-14">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-14" /></status>
+
+	<introduced datetime="1993-11-19"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution designating January 16, 1994, as &quot;Religious Freedom Day&quot;.</title>
+	</titles>
+	<sponsor id="400564"/>
+	<cosponsors>
+		<cosponsor id="300099" joined="1993-11-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-19" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S16498-16499)</text></action>
+		<action datetime="1993-11-19" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-11-20"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S16893"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment and with a preamble by Voice Vote.</text></vote>
+		<action datetime="1993-11-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-21T14:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-21"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-11-21T22:21:00-05:00"><text>Committee on Post Office and Civil Service discharged.</text></action>
+		<action datetime="1993-11-21T22:24:00-05:00"><text>Mr. Wynn asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1993-11-21T22:25:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10621"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-11-21T22:26:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-11-21T22:26:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-11-21" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-12-08" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-14" ><text>Signed by President.</text></signed>
+		<enacted number="103-196" type="public" datetime="1993-12-14"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-196.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="216" />
+		<bill relation="unknown" session="103" type="hj" number="216" />
+	</relatedbills>
+	<subjects>
+		<term name="Special days"/>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Commemorations"/>
+		<term name="Religion"/>
+		<term name="Religious liberty"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/19/1993--Introduced.
+Designates January 16, 1994, as Religious Freedom Day.
+
+	</summary>
+</bill>

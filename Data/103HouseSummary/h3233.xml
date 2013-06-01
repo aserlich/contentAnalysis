@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="3233" updated="2010-04-19T07:35:00-04:00">
+	<state datetime="1993-10-06">REFERRED</state>
+	<status><introduced datetime="1993-10-06"/></status>
+
+	<introduced datetime="1993-10-06"/>
+	<titles>
+		<title type="official" as="introduced">To require the Secretary of Agriculture to take such actions as may be necessary to control the infestation of southern pine beetles currently ravaging wilderness areas in the State of Texas.</title>
+	</titles>
+	<sponsor id="411725"/>
+	<cosponsors>
+		<cosponsor id="404503" joined="1994-01-25"/>
+		<cosponsor id="406863" joined="1994-09-20"/>
+		<cosponsor id="409442" joined="1993-11-03"/>
+		<cosponsor id="406625" joined="1994-01-25"/>
+		<cosponsor id="403190" joined="1994-01-25"/>
+		<cosponsor id="404068" joined="1993-11-19"/>
+		<cosponsor id="411587" joined="1993-11-19"/>
+		<cosponsor id="409052" joined="1994-01-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-06"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-10-06"><committee name="House Committee on Agriculture"/><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-10-08"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+		<action datetime="1993-11-15"><committee name="House Committee on Natural Resources" subcommittee="Specialty Crops and Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1994-06-01"><committee name="House Committee on Agriculture" subcommittee="Specialty Crops and Natural Resources"/><text>Field Hearings Held in Lufkin,Texas.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral, Hearings" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Forests and forestry"/>
+		<term name="Environmental protection"/>
+		<term name="Forest conservation"/>
+		<term name="Forest management"/>
+		<term name="Insect control"/>
+		<term name="Natural resources"/>
+		<term name="Public lands"/>
+		<term name="Texas"/>
+		<term name="Wilderness areas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/6/1993--Introduced.
+Directs the Secretary of Agriculture to take measures, including salvage harvesting of damaged timber stands, to control the southern pine beetle in specified Texas wilderness areas.
+
+	</summary>
+</bill>

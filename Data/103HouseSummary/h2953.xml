@@ -1,0 +1,67 @@
+<bill session="103" type="h" number="2953" updated="2010-04-19T06:51:41-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="short" as="introduced">Spending Reduction Act of 1993</title>
+		<title type="official" as="introduced">To provide a fair, nonpolitical process that will achieve $65,000,000,000 in budget outlay reductions each fiscal year until a balanced budget is reached.</title>
+	</titles>
+	<sponsor id="400590"/>
+	<cosponsors>
+		<cosponsor id="400571" joined="1993-10-15"/>
+		<cosponsor id="400197" joined="1993-08-06"/>
+		<cosponsor id="400510" joined="1993-08-06"/>
+		<cosponsor id="406431" joined="1993-08-06"/>
+		<cosponsor id="400113" joined="1993-08-06"/>
+		<cosponsor id="400180" joined="1993-08-06"/>
+		<cosponsor id="400584" joined="1993-08-06"/>
+		<cosponsor id="400332" joined="1993-08-06"/>
+		<cosponsor id="400176" joined="1993-10-15"/>
+		<cosponsor id="407899" joined="1993-08-06"/>
+		<cosponsor id="400370" joined="1993-08-06"/>
+		<cosponsor id="400581" joined="1993-08-06"/>
+		<cosponsor id="400325" joined="1993-10-15"/>
+		<cosponsor id="400083" joined="1993-10-15"/>
+		<cosponsor id="404009" joined="1993-10-15"/>
+		<cosponsor id="411997" joined="1993-08-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-08-20"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4000" />
+		<bill relation="identical" session="103" type="s" number="1191" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Balanced budgets"/>
+		<term name="Congressional investigations"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Expedited congressional procedure"/>
+		<term name="Federal budget process"/>
+		<term name="Government spending reductions"/>
+		<term name="House rules and procedure"/>
+		<term name="Legislative resolutions"/>
+		<term name="Presidential appointments"/>
+		<term name="Presidential commissions"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Subsidies"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Spending Reduction Act of 1993 - Establishes the Spending Reduction Commission to propose cost savings and changes in law to achieve at least $65 billion of budget outlay reductions for the budget year and each outyear until a balanced budget is reached. Sets forth the procedure for implementation of the Commission's recommendations by the Office of Management and Budget, the President, and the Congress. Makes any budget outlay reductions permanent. Requires the Comptroller General to make a compliance report on this Act at the end of each congressional session.
+
+	</summary>
+</bill>

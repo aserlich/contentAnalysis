@@ -1,0 +1,56 @@
+<bill session="103" type="sc" number="34" updated="2010-04-19T21:16:20-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution expressing the sense of the Senate regarding the accounting standards proposed by the Financial Accounting Standards Board.</title>
+	</titles>
+	<sponsor id="401709"/>
+	<cosponsors>
+		<cosponsor id="405212" joined="1994-02-03"/>
+		<cosponsor id="411818" joined="1994-02-03"/>
+		<cosponsor id="400559" joined="1994-03-16"/>
+		<cosponsor id="300011" joined="1993-11-18"/>
+		<cosponsor id="300073" joined="1993-10-26"/>
+		<cosponsor id="300061" joined="1994-03-16"/>
+		<cosponsor id="403968" joined="1993-11-17"/>
+		<cosponsor id="403346" joined="1993-11-17"/>
+		<cosponsor id="400558" joined="1994-02-03"/>
+		<cosponsor id="300089" joined="1993-11-17"/>
+		<cosponsor id="300067" joined="1993-11-17"/>
+		<cosponsor id="300043" joined="1993-11-18"/>
+		<cosponsor id="400562" joined="1993-10-26"/>
+		<cosponsor id="300049" joined="1994-02-03"/>
+		<cosponsor id="403669" joined="1994-03-16"/>
+		<cosponsor id="300064" joined="1993-11-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Sponsor introductory remarks on measure. (CR S10933-10934)</text></action>
+		<action datetime="1993-08-06"><text>Referred to the Committee on Banking.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hc" number="98" />
+	</relatedbills>
+	<subjects>
+		<term name="Accounting"/>
+		<term name="Administrative procedure"/>
+		<term name="Employee ownership"/>
+		<term name="Employee stock options"/>
+		<term name="Entrepreneurs"/>
+		<term name="Financial statements"/>
+		<term name="Profit"/>
+		<term name="Standards"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Expresses the sense of the Congress that: (1) the accounting standards proposed by the Financial Accounting Standards Board will have grave economic consequences, particularly for businesses in new-growth sectors, which rely heavily on entrepreneurship; and (2) the Board should not change the current accounting rules by requiring that businesses deduct the value of stock options from profits.
+
+	</summary>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="103" type="hc" number="59" updated="2010-04-18T21:09:53-04:00">
+	<state datetime="1993-03-04">REFERRED</state>
+	<status><introduced datetime="1993-03-04"/></status>
+
+	<introduced datetime="1993-03-04"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of Congress that any health care reform program enacted by Congress should not discriminate in the treatment of services relating to mental illness and substance abuse.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+		<cosponsor id="400289" joined="1994-09-19"/>
+		<cosponsor id="400409" joined="1993-10-06"/>
+		<cosponsor id="400524" joined="1993-07-15"/>
+		<cosponsor id="404375" joined="1993-10-06"/>
+		<cosponsor id="404520" joined="1993-09-14"/>
+		<cosponsor id="402152" joined="1993-09-21"/>
+		<cosponsor id="400438" joined="1993-09-29"/>
+		<cosponsor id="400314" joined="1993-09-29"/>
+		<cosponsor id="400278" joined="1993-09-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-04"><text>Sponsor introductory remarks on measure. (CR E507)</text></action>
+		<action datetime="1993-03-04"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-03-16"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Coinsurance"/>
+		<term name="Discrimination in insurance"/>
+		<term name="Drug abuse"/>
+		<term name="Health insurance"/>
+		<term name="Insurance premiums"/>
+		<term name="Legislation"/>
+		<term name="Managed care"/>
+		<term name="Mental health services"/>
+		<term name="Mentally ill"/>
+		<term name="Treatment and rehabilitation of alcoholics"/>
+		<term name="Treatment and rehabilitation of narcotic addicts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/4/1993--Introduced.
+Expresses the sense of the Congress that any health care reform program enacted by the Congress should include provisions to prohibit discrimination in the provision of and payment for health care services against individuals who suffer from mental illness or substance abuse.
+
+	</summary>
+</bill>

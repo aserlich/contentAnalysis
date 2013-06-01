@@ -1,0 +1,52 @@
+<bill session="103" type="hc" number="88" updated="2010-04-18T21:14:29-04:00">
+	<state datetime="1993-11-08T17:06:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-08T17:06:00-05:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1993-04-27"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing and commending American airmen held as prisoners of war at the Buchenwald concentration camp during World War II for their service, bravery, and fortitude.</title>
+	</titles>
+	<sponsor id="407838"/>
+	<cosponsors>
+		<cosponsor id="300151" joined="1993-06-24"/>
+		<cosponsor id="400524" joined="1993-07-30"/>
+		<cosponsor id="406790" joined="1993-09-21"/>
+		<cosponsor id="410565" joined="1993-06-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-27"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-10-27"><committee name="House Committee on Post Office and Civil Service"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-27"  state="REPORTED"><committee name="House Committee on Post Office and Civil Service"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1993-11-08T17:00:00-05:00"><text>Committee on Post Office and Civil Service discharged.</text></action>
+		<action datetime="1993-11-08T17:00:00-05:00"><text>Ms. Byrne asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1993-11-08T17:00:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H8920-8921"/></action>
+		<vote how="without objection" type="vote" datetime="1993-11-08T17:06:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On agreeing to the resolution Agreed to without objection.</text></vote>
+		<action datetime="1993-11-08T17:06:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-09"><text>Received in the Senate and referred to the Committee on Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Discharged" />
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congressional tributes"/>
+		<term name="Air force personnel"/>
+		<term name="Aircraft pilots"/>
+		<term name="Commemorations"/>
+		<term name="Concentration camps"/>
+		<term name="Germany"/>
+		<term name="Prisoners of war"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/27/1993--Introduced.
+Commends the American airmen held as prisoners of war at the Buchenwald concentration camp during World War II.
+
+	</summary>
+</bill>

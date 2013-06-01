@@ -1,0 +1,42 @@
+<bill session="103" type="hr" number="163" updated="2010-04-19T13:24:11-04:00">
+	<state datetime="1993-05-05T15:23:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-05-05T15:23:00-04:00" where="h" result="pass" how="roll" roll="152"/></status>
+
+	<introduced datetime="1993-05-04"/>
+	<titles>
+		<title type="official" as="introduced">Waiving points of order against the conference report to accompany the bill (H.R. 2) to establish national voter registration procedures for Federal elections, and for other purposes.</title>
+	</titles>
+	<sponsor id="400143"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-04T14:05:00-04:00"><text>Rule provides for consideration of the conference report to H.R. 2. During consideration of the conference report to accompany H.R. 2, points of order against the conference report for failure to comply with clause 3 of rule XXVIII are waived.</text></action>
+		<action datetime="1993-05-04T14:33:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-78, by Mr. Frost.</text></action>
+		<calendar datetime="1993-05-04T14:34:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 38.</text></calendar>
+		<action datetime="1993-05-05T14:12:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H2257-2263"/></action>
+		<action datetime="1993-05-05T14:12:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-05-05T15:03:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="roll" type="vote" roll="152" datetime="1993-05-05T15:23:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 253 - 168 (Roll no. 152).</text></vote>
+		<action datetime="1993-05-05T15:23:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Elections"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/4/1993--Introduced.
+Waives points of order against the consideration of the conference report on H.R. 2 (establishing national voter registration procedures for Federal elections) with respect to failure to comply with rule XXVIII of the House of Representatives, relating to germane modification of a disagreement to an amendment in the nature of a substitute.
+
+	</summary>
+</bill>

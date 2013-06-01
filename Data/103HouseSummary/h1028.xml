@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="1028" updated="2010-04-19T01:47:58-04:00">
+	<state datetime="1993-02-23">REFERRED</state>
+	<status><introduced datetime="1993-02-23"/></status>
+
+	<introduced datetime="1993-02-23"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Indian Gaming Regulatory Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="410889"/>
+	<cosponsors>
+		<cosponsor id="401494" joined="1993-05-05"/>
+		<cosponsor id="400333" joined="1993-05-05"/>
+		<cosponsor id="400409" joined="1993-05-05"/>
+		<cosponsor id="400526" joined="1993-05-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Native American Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1261" />
+		<bill relation="unknown" session="103" type="h" number="1624" />
+		<bill relation="unknown" session="103" type="h" number="1953" />
+		<bill relation="unknown" session="103" type="h" number="2287" />
+		<bill relation="unknown" session="103" type="h" number="2323" />
+		<bill relation="unknown" session="103" type="h" number="4787" />
+		<bill relation="unknown" session="103" type="h" number="5262" />
+	</relatedbills>
+	<subjects>
+		<term name="Indians"/>
+		<term name="District courts"/>
+		<term name="Gambling"/>
+		<term name="Jurisdiction"/>
+		<term name="Licenses"/>
+		<term name="State government-Indian relations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1993--Introduced.
+Amends the Indian Gaming Regulatory Act (the Act) to revise conditions under which a tribe may receive certification for certain types of gaming activities on Indian lands. Allows a State the option to consent to enter into negotiations with a tribe to enter into a class III gaming certification compact. Repeals the current mandate to do so. Allows a tribe to apply to the National Indian Gaming Commission (the Commission) for a class III gaming certificate if a State fails to consent to Federal court jurisdiction or raises a defense against such jurisdiction, or the Federal court finds it lacks such jurisdiction, for any reason not curable by the tribe. Directs the Commission to approve the application if such gaming will be conducted in accordance with a tribal ordinance or resolution and will be located in a State that permits such gaming for any purpose, by any person, organization, or entity. Authorizes the Commission to add regulatory or licensing provisions as a condition of such approval and to impose annual fees to defray reasonable costs of regulation. Considers an application approved if the Commission fails to act upon it within a specified time.
+
+	</summary>
+</bill>

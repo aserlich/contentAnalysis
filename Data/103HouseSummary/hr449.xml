@@ -1,0 +1,43 @@
+<bill session="103" type="hr" number="449" updated="2010-04-19T14:08:48-04:00">
+	<state datetime="1994-06-14T12:40:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-06-14T12:40:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-06-09"/>
+	<titles>
+		<title type="official" as="introduced">Waiving certain points of order against the bill (H.R. 4506) making appropriations for energy and water development for the fiscal year ending September 30, 1995, and for other purposes.</title>
+	</titles>
+	<sponsor id="400538"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-09T16:52:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-540, by Mr. Hall (OH).</text></action>
+		<action datetime="1994-06-09T16:52:00-04:00"><text>Rule provides for consideration of H.R. 4506. All points of order against provisions in the bill for failure to comply with clause 2 or 6 of rule XXI are waived. Measure will be read by paragraph. Bill is open to amendments.</text></action>
+		<calendar datetime="1994-06-09T16:53:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 172.</text></calendar>
+		<action datetime="1994-06-14T12:30:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H4402-4403"/></action>
+		<action datetime="1994-06-14T12:30:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1994-06-14T12:39:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-06-14T12:40:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1994-06-14T12:40:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4506" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congress"/>
+		<term name="House rules and procedure"/>
+		<term name="Public works"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/9/1994--Introduced.
+Waives points of order against the consideration of H.R. 4506 (FY 1995 appropriations for energy and water development).
+
+	</summary>
+</bill>

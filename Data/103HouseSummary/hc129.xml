@@ -1,0 +1,41 @@
+<bill session="103" type="hc" number="129" updated="2010-04-18T21:21:00-04:00">
+	<state datetime="1993-07-30">REFERRED</state>
+	<status><introduced datetime="1993-07-30"/></status>
+
+	<introduced datetime="1993-07-30"/>
+	<titles>
+		<title type="official" as="introduced">To commend Israel and the Israeli Supreme Court.</title>
+	</titles>
+	<sponsor id="400611"/>
+	<cosponsors>
+		<cosponsor id="400231" joined="1993-08-05"/>
+		<cosponsor id="400569" joined="1993-08-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-30"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Europe and the Middle East.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Europe and the Middle East" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Civil liberties"/>
+		<term name="Commemorations"/>
+		<term name="Congressional tributes"/>
+		<term name="Courts"/>
+		<term name="Israel"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/30/1993--Introduced.
+Commends Israel and the Israeli Supreme Court for its commitment to freedom and the preservation of individual rights.
+
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="948" updated="2012-07-17T05:11:06-04:00">
+	<state datetime="1993-05-13">REFERRED</state>
+	<status><introduced datetime="1993-05-13"/></status>
+
+	<introduced datetime="1993-05-13"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide special rules for certain gratuitous transfers of employer securities for the benefit of employees.</title>
+	</titles>
+	<sponsor id="300031"/>
+	<cosponsors>
+		<cosponsor id="406084" joined="1993-07-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-13" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1807" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Charities"/>
+		<term name="Employee ownership"/>
+		<term name="Securities"/>
+		<term name="Tax administration"/>
+		<term name="Tax exemption"/>
+		<term name="Trusts and trustees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/13/1993--Introduced.
+Amends the Internal Revenue Code regarding estates and trusts to provide rules for the gratuitous transfer of qualified employer securities to an employee stock ownership plan from charitable remainder trusts.
+
+	</summary>
+</bill>

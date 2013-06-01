@@ -1,0 +1,74 @@
+<bill session="103" type="h" number="4981" updated="2010-04-19T12:08:07-04:00">
+	<state datetime="1994-08-17">REFERRED</state>
+	<status><introduced datetime="1994-08-17"/></status>
+
+	<introduced datetime="1994-08-17"/>
+	<titles>
+		<title type="short" as="introduced">Civil Rights Procedures Protection Act of 1994</title>
+		<title type="official" as="introduced">To amend certain Federal civil rights statutes to prevent the involuntary application of arbitration to claims that arise from unlawful employment discrimination based on race, color, religion, sex, national origin, age, or disability; and for other purposes.</title>
+	</titles>
+	<sponsor id="409650"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="1994-08-17"/>
+		<cosponsor id="400126" joined="1994-10-07"/>
+		<cosponsor id="407153" joined="1994-08-17"/>
+		<cosponsor id="400204" joined="1994-10-07"/>
+		<cosponsor id="400025" joined="1994-10-07"/>
+		<cosponsor id="400301" joined="1994-10-07"/>
+		<cosponsor id="400314" joined="1994-10-07"/>
+		<cosponsor id="300100" joined="1994-10-07"/>
+		<cosponsor id="400278" joined="1994-10-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-17"><text>Sponsor introductory remarks on measure. (CR E1753)</text></action>
+		<action datetime="1994-08-17"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1994-08-17"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-08-19"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+		<action datetime="1994-09-16"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Select Education and Civil Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-04" name="House Education and Labor" subcommittee="Select Education and Civil Rights" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2405" />
+	</relatedbills>
+	<subjects>
+		<term name="Civil rights"/>
+		<term name="Age discrimination"/>
+		<term name="Aged"/>
+		<term name="Alternative dispute resolution"/>
+		<term name="Civil liberties"/>
+		<term name="Contracts"/>
+		<term name="Disabled"/>
+		<term name="Discrimination in employment"/>
+		<term name="Employment of the handicapped"/>
+		<term name="Equal pay for equal work"/>
+		<term name="Equality before the law"/>
+		<term name="Families"/>
+		<term name="Labor"/>
+		<term name="Law"/>
+		<term name="Mediation"/>
+		<term name="Minimum wages"/>
+		<term name="Minorities"/>
+		<term name="Older workers"/>
+		<term name="Overtime"/>
+		<term name="Parental leave"/>
+		<term name="Racial discrimination"/>
+		<term name="Religion"/>
+		<term name="Religious liberty"/>
+		<term name="Sex discrimination in employment"/>
+		<term name="Sick leave"/>
+		<term name="Women"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/17/1994--Introduced.
+Civil Rights Procedures Protection Act of 1994 - Amends specified Federal civil rights statutes (including Title VII of the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967, the Rehabilitation Act of 1973, the Americans With Disabilities Act of 1990, the equal pay requirement under the Fair Labor Standards Act of 1938, and the Family and Medical Leave Act of 1993) to prevent the involuntary application of arbitration to claims that arise from unlawful employment discrimination based on race, color, religion, sex, national origin, age, or disability.
+
+	</summary>
+</bill>

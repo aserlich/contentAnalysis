@@ -1,0 +1,64 @@
+<bill session="103" type="h" number="3973" updated="2010-04-19T09:30:12-04:00">
+	<state datetime="1994-03-08">REFERRED</state>
+	<status><introduced datetime="1994-03-08"/></status>
+
+	<introduced datetime="1994-03-08"/>
+	<titles>
+		<title type="short" as="introduced">Piscataway National Park Expansion Act of 1994</title>
+		<title type="official" as="introduced">To expand the boundaries of the Piscataway National Park, and for other purposes.</title>
+	</titles>
+	<sponsor id="400189"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1994-05-03"/>
+		<cosponsor id="400149" joined="1994-05-05"/>
+		<cosponsor id="400064" joined="1994-04-28"/>
+		<cosponsor id="400122" joined="1994-05-05"/>
+		<cosponsor id="407351" joined="1994-05-03"/>
+		<cosponsor id="400377" joined="1994-05-12"/>
+		<cosponsor id="400524" joined="1994-04-28"/>
+		<cosponsor id="400143" joined="1994-05-05"/>
+		<cosponsor id="411065" joined="1994-07-14"/>
+		<cosponsor id="400001" joined="1994-05-24"/>
+		<cosponsor id="400178" joined="1994-04-28"/>
+		<cosponsor id="401310" joined="1994-05-03"/>
+		<cosponsor id="400569" joined="1994-05-24"/>
+		<cosponsor id="400291" joined="1994-05-03"/>
+		<cosponsor id="400318" joined="1994-05-12"/>
+		<cosponsor id="400283" joined="1994-03-08"/>
+		<cosponsor id="400438" joined="1994-06-08"/>
+		<cosponsor id="407044" joined="1994-07-14"/>
+		<cosponsor id="300058" joined="1994-05-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-08"><text>Sponsor introductory remarks on measure. (CR E372)</text></action>
+		<action datetime="1994-03-08"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-04-27"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1994-05-25"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1994-07-14"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-07-21"><committee name="House Committee on Natural Resources"/><text>For Further Action See S.1703.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1703" />
+		<bill relation="unknown" session="103" type="s" number="1703" />
+		<bill relation="unknown" session="103" type="s" number="1703" />
+	</relatedbills>
+	<subjects>
+		<term name="Parks"/>
+		<term name="Land transfers"/>
+		<term name="Maryland"/>
+		<term name="National parks"/>
+		<term name="Public lands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/8/1994--Introduced.
+Piscataway National Park Expansion Act of 1994 - Authorizes the Secretary of the Interior to acquire specified land to be added to the Piscataway National Park, Maryland. Authorizes appropriations.
+
+	</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="103" type="s" number="1862" updated="2012-07-17T05:09:12-04:00">
+	<state datetime="1994-02-23">REFERRED</state>
+	<status><introduced datetime="1994-02-23"/></status>
+
+	<introduced datetime="1994-02-23"/>
+	<titles>
+		<title type="official" as="introduced">A bill to repeal the public financing of and spending limits on Presidential election campaigns.</title>
+	</titles>
+	<sponsor id="300072"/>
+	<cosponsors>
+		<cosponsor id="300048" joined="1994-03-09"/>
+		<cosponsor id="300069" joined="1994-03-09"/>
+		<cosponsor id="300089" joined="1994-03-08"/>
+		<cosponsor id="300023" joined="1994-03-09"/>
+		<cosponsor id="300015" joined="1994-03-09"/>
+		<cosponsor id="300154" joined="1994-03-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-23" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1742-1743)</text></action>
+		<action datetime="1994-02-23" state="REFERRED"><text>Read twice and referred to the Committee on Rules.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Campaign funds"/>
+		<term name="Checkoff"/>
+		<term name="Economics and public finance"/>
+		<term name="Government trust funds"/>
+		<term name="Income tax"/>
+		<term name="Presidential elections"/>
+		<term name="Tax returns"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1994--Introduced.
+Amends the Internal Revenue Code and the Federal Election Campaign Act of 1971 to repeal presidential campaign public financing and spending limits.
+
+	</summary>
+</bill>

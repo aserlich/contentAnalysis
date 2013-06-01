@@ -1,0 +1,50 @@
+<bill session="103" type="s" number="1784" updated="2010-04-19T19:08:28-04:00">
+	<state datetime="1993-11-24">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-11-24" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-11-24"/>
+	<titles>
+		<title type="short" as="reported to house">Tlingit and Haida Status Clarification Act</title>
+		<title type="official" as="introduced">To restore the Central Council of Tlingit and Haida Indian Tribes of Alaska to the Department of the Interior list of Indian entities recognized and eligible to receive Services from the United States Bureau of Indian Affairs.</title>
+	</titles>
+	<sponsor id="300150"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-11-24"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-24" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S17232"/></vote>
+		<action datetime="1994-02-01T12:01:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-02-01"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-02-01"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Native American Affairs.</text></action>
+		<action datetime="1994-02-01"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-02-10"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1994-02-25"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Subcommittee on Native American Affairs Discharged.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28" ><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T20:19:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-800.</text></action>
+		<calendar number="446" datetime="1994-10-03T20:19:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 446.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Referral, Hearings, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Indians"/>
+		<term name="Alaska"/>
+		<term name="Budgets"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Minorities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Reported to House amended. Tlingit and Haida Status Clarification Act - States that the Congress reaffirms and acknowledges that the Central Council of Tlingit and Haida Indian Tribes of Alaska (Tribes) is a federally recognized tribe. States that other federally recognized tribes in Southeast Alaska shall have Federal grant or assistance preference over the Tribes to the extent their populations overlap.
+
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="3181" updated="2010-04-19T07:26:59-04:00">
+	<state datetime="1993-09-29">REFERRED</state>
+	<status><introduced datetime="1993-09-29"/></status>
+
+	<introduced datetime="1993-09-29"/>
+	<titles>
+		<title type="official" as="introduced">To redesignate the J. Edgar Hoover Federal Bureau of Investigation Building located at Ninth and Pennsylvania Avenue, N.W., Washington, D.C., as the Federal Bureau of Investigation Building.</title>
+	</titles>
+	<sponsor id="400283"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-29"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-10-12"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Public Buildings and Grounds.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Public Buildings and Grounds" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1489" />
+		<bill relation="unknown" session="103" type="s" number="1489" />
+	</relatedbills>
+	<subjects>
+		<term name="Public buildings"/>
+		<term name="Department of Justice"/>
+		<term name="District of Columbia"/>
+		<term name="Executive departments"/>
+		<term name="Federal office buildings"/>
+		<term name="Names"/>
+		<term name="Signs and symbols"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/29/1993--Introduced.
+Redesignates the J. Edgar Hoover Federal Bureau of Investigation Building located at Ninth Street and Pennsylvania Avenue, N.W., Washington, D.C., as the Federal Bureau of Investigation Building.
+
+	</summary>
+</bill>

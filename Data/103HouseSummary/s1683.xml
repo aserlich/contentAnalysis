@@ -1,0 +1,59 @@
+<bill session="103" type="s" number="1683" updated="2012-07-17T04:40:52-04:00">
+	<state datetime="1994-09-21">REPORTED</state>
+	<status><calendar datetime="1994-09-21" /></status>
+
+	<introduced datetime="1993-11-18"/>
+	<titles>
+		<title type="short" as="introduced">Sterling Forest and New Jersey Watershed Protection Act of 1993</title>
+		<title type="short" as="reported to senate">Sterling Forest Protection Act of 1994</title>
+		<title type="official" as="introduced">A bill to authorize the Secretary of the Interior to provide funds to the Palisades Interstate Park Commission for acquisition of land in the Sterling Forest area of the New York/New Jersey Highlands Region, and for other purposes.</title>
+	</titles>
+	<sponsor id="401709"/>
+	<cosponsors>
+		<cosponsor id="300064" joined="1993-11-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-18" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S16226-16227)</text></action>
+		<action datetime="1993-11-18" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-05-05"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-05-17"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed: S.Hrg. 103-775.</text></action>
+		<calendar datetime="1994-09-21"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-09-27"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="643" datetime="1994-09-27" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 643.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2741" />
+	</relatedbills>
+	<subjects>
+		<term name="Parks"/>
+		<term name="Animals"/>
+		<term name="Easements"/>
+		<term name="Environmental protection"/>
+		<term name="Forests and forestry"/>
+		<term name="Grants-in-aid"/>
+		<term name="Habitat conservation"/>
+		<term name="Interstate commissions"/>
+		<term name="Land transfers"/>
+		<term name="New Jersey"/>
+		<term name="New York State"/>
+		<term name="Open space lands"/>
+		<term name="Outdoor recreation"/>
+		<term name="Public lands and natural resources"/>
+		<term name="State parks"/>
+		<term name="Trails"/>
+		<term name="Water resources development"/>
+		<term name="Watershed management"/>
+		<term name="Wildlife conservation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/27/1994--Reported to Senate amended. Sterling Forest Protection Act of 1994 - Establishes the Sterling Forest Reserve, New York, upon certification by the Palisades Interstate Park Commission to the Secretary of the Interior that the Commission has acquired sufficient lands or interests therein to constitute a manageable unit. Sets forth provisions regarding: (1) Reserve boundaries; (2) the transfer of funds to the Commission for land acquisition; and (3) conditions of funding (including provision for specified conservation easements and that funds may be transferred to the Commission only to the extent that they are matched from funds contributed by non-Federal sources). Directs the Commission to: (1) manage the lands acquired within the Reserve in a manner consistent with the Commission's authorities and the protection of significant watershed, wildlife and recreational resources within the New York-New Jersey highlands region; and (2) prepare a general management plan for the Reserve, to be submitted to the Secretary for approval. Authorizes appropriations. Limits the amount that may be appropriated to the Secretary for transfer to the Commission for the acquisition of lands and interests therein within the Reserve.
+
+	</summary>
+</bill>

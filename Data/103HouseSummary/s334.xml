@@ -1,0 +1,46 @@
+<bill session="103" type="s" number="334" updated="2012-07-17T05:55:42-04:00">
+	<state datetime="1993-02-04">REFERRED</state>
+	<status><introduced datetime="1993-02-04"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Clean Campaign Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend the Communications Act of 1934 regarding the broadcasting of certain material regarding candidates for Federal elective office, and for other purposes.</title>
+	</titles>
+	<sponsor id="300053"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="1993-02-04"/>
+		<cosponsor id="403171" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1435-1437)</text></action>
+		<action datetime="1993-02-04" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<action datetime="1993-05-13"><committee name="Committee on Commerce"/><text>Subcommittee on Communications. Hearings held. Hearings printed: S.Hrg. 103-345.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="Senate Commerce, Science, and Transportation" subcommittee="Communications" activity="Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Congressional elections"/>
+		<term name="Election candidates"/>
+		<term name="Equal time rule"/>
+		<term name="Political action committees"/>
+		<term name="Political advertising"/>
+		<term name="Presidential elections"/>
+		<term name="Radio in politics"/>
+		<term name="Television in politics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Clean Campaign Act of 1993 - Amends the Communications Act of 1934 to require that, if any legally qualified candidate for any Federal elective office uses a broadcast station to refer to another legally qualified candidate, such reference shall be made in person. Requires any licensee that permits a broadcasting station to be used in a manner not in accordance with such requirement to provide to the candidate to whom the reference was made the opportunity to use, without charge, an equal amount of time. Requires any licensee that permits a person to use a broadcasting station to endorse or oppose a candidate for any Federal elective office to provide equal time to the opposing candidate. Makes this Act equally applicable in the case of an authorized committee speaking on behalf of or against a legally qualified candidate.
+
+	</summary>
+</bill>

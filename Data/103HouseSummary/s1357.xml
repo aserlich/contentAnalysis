@@ -1,0 +1,79 @@
+<bill session="103" type="s" number="1357" updated="2012-07-17T04:16:51-04:00">
+	<state datetime="1994-09-21">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-09-21" /></status>
+
+	<introduced datetime="1993-08-04"/>
+	<titles>
+		<title type="short" as="introduced">Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians Act</title>
+		<title type="short" as="passed senate">Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians Act</title>
+		<title type="short" as="enacted">Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians Act</title>
+		<title type="official" as="introduced">A bill to reaffirm and clarify the Federal relationships of the Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians as distinct federally recognized Indian tribes, and for other purposes.</title>
+	</titles>
+	<sponsor id="300066"/>
+	<cosponsors>
+		<cosponsor id="409225" joined="1993-08-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S10431)</text></action>
+		<action datetime="1993-08-04" state="REFERRED"><text>Read twice and referred to the Committee on Indian Affairs.</text></action>
+		<action datetime="1994-02-10"><committee name="Committee on Indian Affairs"/><text>Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 103-543.</text></action>
+		<calendar datetime="1994-04-13"  state="REPORTED"><committee name="Committee on Indian Affairs"/><text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-05-16"><text>Committee on Indian Affairs. Reported to Senate by Senator Inouye without amendment. With written report No. 103-260.</text></action>
+		<calendar under="General Orders" number="425" datetime="1994-05-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 425.</text></calendar>
+		<action datetime="1994-05-25"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S6424-6425"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-05-25" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1994-05-26T11:02:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-05-26"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-05-26T15:18:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-06-23"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-06-24"><committee name="House Committee on Natural Resources"/><text>Late Referral to the Subcommittee on Native American Affairs (Aug 30, 94).</text></action>
+		<action datetime="1994-06-29"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-06-29" ><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-07-25T11:00:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 103-621.</text></action>
+		<calendar number="340" datetime="1994-07-25T11:01:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 340.</text></calendar>
+		<action datetime="1994-08-01T19:12:00-04:00"><text>Rules Committee Resolution H. Res. 501 Reported to House. Rule provides for consideration of S. 1357 with 1 hour of general debate. Previous question shall be considered as ordered except motion to recommit. Measure will be read by section. Bill is open to amendments.</text></action>
+		<action datetime="1994-08-03T12:51:00-04:00"><text>Rule H. Res. 501 passed House.</text></action>
+		<action datetime="1994-08-03T12:56:00-04:00"><text>Considered under the provisions of rule H. Res. 501.</text><reference label="consideration" ref="CR H6709-6721"/></action>
+		<action datetime="1994-08-03T12:56:00-04:00"><text>Rule provides for consideration of S. 1357 with 1 hour of general debate. Previous question shall be considered as ordered except motion to recommit. Measure will be read by section. Bill is open to amendments.</text></action>
+		<action datetime="1994-08-03T12:56:00-04:00"><text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 501 and Rule XXIII.</text></action>
+		<action datetime="1994-08-03T12:56:00-04:00"><text>The Speaker designated the Honorable Robert Menendez to act as Chairman of the Committee.</text></action>
+		<action datetime="1994-08-03T12:56:00-04:00"><text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate.</text></action>
+		<action datetime="1994-08-03T13:52:00-04:00"><text>The House rose from the Committee of the Whole House on the state of the Union to report S. 1357.</text></action>
+		<action datetime="1994-08-03T13:52:00-04:00"><text>The previous question was ordered pursuant to the rule.</text></action>
+		<vote how="roll" type="vote2" roll="372" datetime="1994-08-03T14:15:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed by the Yeas and Nays: 238 - 180 (Roll no. 372).</text></vote>
+		<action datetime="1994-08-03T14:15:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-08-03" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-09-14" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-09-21" ><text>Signed by President.</text></signed>
+		<enacted number="103-324" type="public" datetime="1994-09-21"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-324.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="" name="Senate Indian Affairs" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="103" type="hr" number="501" />
+		<bill relation="identical" session="103" type="h" number="2376" />
+		<bill relation="unknown" session="103" type="h" number="2376" />
+		<bill relation="unknown" session="103" type="h" number="2376" />
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Constitutions"/>
+		<term name="Economics and public finance"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Indian lands"/>
+		<term name="Land transfers"/>
+		<term name="Michigan"/>
+		<term name="Minorities"/>
+	</subjects>
+	<amendments>
+		<amendment number="h812"/>
+		<amendment number="s1745"/>
+	</amendments>
+	<summary>
+	5/25/1994--Passed Senate amended. Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians Act - Reaffirms and extends Federal recognition and associated benefits to the Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians (Tribes) of Michigan. Provides for the Tribes to be governed by current interim documents and officials until the Secretary of the Interior conducts elections to adopt a constitution and elect new tribal officials. Provides for the transfer of specified land for the benefit of the Bands.
+
+	</summary>
+</bill>

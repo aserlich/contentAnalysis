@@ -1,0 +1,44 @@
+<bill session="103" type="s" number="800" updated="2012-07-17T05:35:54-04:00">
+	<state datetime="1993-04-21">REFERRED</state>
+	<status><introduced datetime="1993-04-21"/></status>
+
+	<introduced datetime="1993-04-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for a demonstration project to improve the provision of certain benefits under the Social Security Act through a private aid program.</title>
+	</titles>
+	<sponsor id="300061"/>
+	<cosponsors>
+		<cosponsor id="300042" joined="1993-04-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4765-4769)</text></action>
+		<action datetime="1993-04-21" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1784" />
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Aid to dependent children"/>
+		<term name="Day care"/>
+		<term name="Health"/>
+		<term name="Manpower training programs"/>
+		<term name="Medicaid"/>
+		<term name="Poor"/>
+		<term name="Public assistance programs"/>
+		<term name="Public service employment"/>
+		<term name="Vocational guidance"/>
+		<term name="Wisconsin"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/21/1993--Introduced.
+Directs the Secretary of Health and Human Services to provide for a demonstration project (New Hope Project, Inc.) of a private aid program in Milwaukee, Wisconsin, that provides low-income residents with child and medical care equivalent to that provided under the Social Security Act.
+
+	</summary>
+</bill>

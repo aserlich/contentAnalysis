@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="4864" updated="2010-04-19T11:49:51-04:00">
+	<state datetime="1994-08-09">REPORTED</state>
+	<status><calendar datetime="1994-08-09" /></status>
+
+	<introduced datetime="1994-08-01"/>
+	<titles>
+		<title type="short" as="introduced">Medical Device User Fee Act of 1994</title>
+		<title type="short" as="reported to house">Medical Device User Fee Act of 1994</title>
+		<title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to authorize a device application fee, and for other purposes.</title>
+	</titles>
+	<sponsor id="400425"/>
+	<cosponsors>
+		<cosponsor id="400110" joined="1994-08-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-01"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-08-09"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-08-09"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported (Amended) by the Yeas and Nays: 31 - 13.</text></calendar>
+		<action datetime="1994-09-26T19:32:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 103-751.</text></action>
+		<calendar number="413" datetime="1994-09-26T19:32:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 413.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4728" />
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Administrative procedure"/>
+		<term name="Biomedical engineering"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Collection of accounts"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Consumers"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Executive departments"/>
+		<term name="Federal employees"/>
+		<term name="Government employees"/>
+		<term name="Manufacturing industries"/>
+		<term name="Medical supplies"/>
+		<term name="Medicine"/>
+		<term name="Product safety"/>
+		<term name="Small business"/>
+		<term name="User charges"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/26/1994--Reported to House amended. Medical Device User Fee Act of 1994 - Amends the Federal Food, Drug, and Cosmetic Act to authorize the assessment and collection of fees from applicants for medical device approval. Provides for the use of such fees to defray cost increases in the resources allocated for the process of device application review and related activities. Authorizes appropriations for FY 1995 through 1999.
+
+	</summary>
+</bill>

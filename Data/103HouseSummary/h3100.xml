@@ -1,0 +1,71 @@
+<bill session="103" type="h" number="3100" updated="2010-04-19T07:14:24-04:00">
+	<state datetime="1993-09-21">REFERRED</state>
+	<status><introduced datetime="1993-09-21"/></status>
+
+	<introduced datetime="1993-09-21"/>
+	<titles>
+		<title type="short" as="introduced">National Drug Policy Act of 1993</title>
+		<title type="official" as="introduced">To establish the Commission on National Drug Policy.</title>
+	</titles>
+	<sponsor id="403776"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-10-26"/>
+		<cosponsor id="400364" joined="1994-02-08"/>
+		<cosponsor id="400289" joined="1994-01-25"/>
+		<cosponsor id="405775" joined="1993-10-26"/>
+		<cosponsor id="400122" joined="1994-07-12"/>
+		<cosponsor id="411040" joined="1993-10-26"/>
+		<cosponsor id="400387" joined="1994-01-25"/>
+		<cosponsor id="407772" joined="1994-03-16"/>
+		<cosponsor id="403364" joined="1994-02-08"/>
+		<cosponsor id="400416" joined="1994-03-16"/>
+		<cosponsor id="404978" joined="1994-02-08"/>
+		<cosponsor id="400140" joined="1993-10-26"/>
+		<cosponsor id="406082" joined="1994-04-14"/>
+		<cosponsor id="400178" joined="1994-02-08"/>
+		<cosponsor id="401310" joined="1993-10-26"/>
+		<cosponsor id="404190" joined="1993-10-26"/>
+		<cosponsor id="400201" joined="1993-10-26"/>
+		<cosponsor id="400554" joined="1993-10-26"/>
+		<cosponsor id="400357" joined="1994-01-25"/>
+		<cosponsor id="400025" joined="1993-10-26"/>
+		<cosponsor id="400314" joined="1994-02-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-21"><text>Sponsor introductory remarks on measure. (CR E2194-2195)</text></action>
+		<action datetime="1993-09-21"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-09-21"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-09-24"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Drugs"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cost effectiveness"/>
+		<term name="Drug abuse"/>
+		<term name="Drug abuse prevention"/>
+		<term name="Drug law enforcement"/>
+		<term name="Drug policy"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Narcotic traffic"/>
+		<term name="Sentences (Criminal procedure)"/>
+		<term name="Treatment and rehabilitation of narcotic addicts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/21/1993--Introduced.
+National Drug Policy Act of 1993 - Establishes the Commission on National Drug Policy to study and report to the President and the Congress on the unlawful production, distribution, and use of controlled substances.
+
+	</summary>
+</bill>

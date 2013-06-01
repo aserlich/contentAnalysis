@@ -1,0 +1,37 @@
+<bill session="103" type="h" number="3753" updated="2010-04-19T08:55:47-04:00">
+	<state datetime="1994-01-26">REFERRED</state>
+	<status><introduced datetime="1994-01-26"/></status>
+
+	<introduced datetime="1994-01-26"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Thomas R. Dahlberg.</title>
+	</titles>
+	<sponsor id="408052"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-01-26"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Claims"/>
+		<term name="Legal fees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1994--Introduced.
+Relieves a named individual of liability to the United States for attorney's fees and court costs with respect to a specified civil action.
+
+	</summary>
+</bill>

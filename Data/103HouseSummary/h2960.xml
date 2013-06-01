@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="2960" updated="2012-07-17T04:46:50-04:00">
+	<state datetime="1993-11-21T15:15:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-21T15:15:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Competitiveness Policy Council Act to provide for reauthorization, to rename the Council, and for other purposes.</title>
+	</titles>
+	<sponsor id="400537"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E2047)</text></action>
+		<action datetime="1993-08-06" state="REFERRED"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-09-01"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Economic Growth and Credit Formation.</text></action>
+		<action datetime="1993-11-09"><committee name="House Committee on Banking, Finance + Urban Affrs" subcommittee="Economic Growth and Credit Formation"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-11-16"><committee name="House Committee on Banking, Finance + Urban Affrs" subcommittee="Economic Growth and Credit Formation"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-11-16"><committee name="House Committee on Banking, Finance + Urban Affrs" subcommittee="Economic Growth and Credit Formation"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-11-21T15:06:00-05:00"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Mr. Kanjorski moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-11-21T15:06:00-05:00"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10524-10527"/></action>
+		<action datetime="1993-11-21T15:06:00-05:00"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-21T15:15:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-21T15:15:00-05:00"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-22"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Received in the Senate.</text></action>
+		<action datetime="1993-11-23"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Read twice and referred to the Committee on Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="Economic Growth and Credit Formation" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1399" />
+	</relatedbills>
+	<subjects>
+		<term name="Commerce"/>
+		<term name="Authorization"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal officials"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="International competitiveness"/>
+		<term name="Names"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Amends the Competitiveness Policy Council Act to rename it and to: (1) change the name of the Competitiveness Policy Council to the National Competitiveness Commission (Commission); and (2) reauthorize and extend the Commission. Amends the National Competitiveness Commission Act (as renamed) to make technical changes with respect to Commission duties, powers, staff, and reporting requirements.
+
+	</summary>
+</bill>

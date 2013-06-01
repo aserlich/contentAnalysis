@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="3014" updated="2010-04-19T07:01:04-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="short" as="introduced">Richard Bolling Center for the Study of Congress Act of 1993</title>
+		<title type="official" as="introduced">To provide financial assistance for the establishment of a Richard Bolling Center for the Study of Congress.</title>
+	</titles>
+	<sponsor id="411488"/>
+	<cosponsors>
+		<cosponsor id="400146" joined="1994-03-08"/>
+		<cosponsor id="400578" joined="1994-03-08"/>
+		<cosponsor id="401134" joined="1993-10-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-09-14"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Postsecondary Education and Training.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Postsecondary Education and Training" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Colleges"/>
+		<term name="Congress"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Foundations"/>
+		<term name="Missouri"/>
+		<term name="Political science research"/>
+		<term name="Research centers"/>
+		<term name="Scholarships"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Richard Bolling Center for the Study of Congress Act of 1993 - Authorizes the Secretary of Education to provide funds to assist in the development and construction of the Richard Bolling Center for the Study of Congress at the University of Missouri, Kansas City, Missouri. Authorizes appropriations.
+
+	</summary>
+</bill>

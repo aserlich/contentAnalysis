@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="5135" updated="2010-04-19T12:31:43-04:00">
+	<state datetime="1994-09-29">REFERRED</state>
+	<status><introduced datetime="1994-09-29"/></status>
+
+	<introduced datetime="1994-09-29"/>
+	<titles>
+		<title type="short" as="introduced">Employee Benefit Plan Security and Protection Act of 1994</title>
+		<title type="official" as="introduced">To amend title I of the Employee Retirement Income Security Act of 1974 and the Internal Revenue Code of 1986 to clarify provisions governing fiduciary duties in relation to external benefits, social investing, and economically targeted investments.</title>
+	</titles>
+	<sponsor id="400359"/>
+	<cosponsors>
+		<cosponsor id="400015" joined="1994-10-06"/>
+		<cosponsor id="400510" joined="1994-10-07"/>
+		<cosponsor id="400332" joined="1994-10-06"/>
+		<cosponsor id="400018" joined="1994-10-06"/>
+		<cosponsor id="400581" joined="1994-10-07"/>
+		<cosponsor id="400551" joined="1994-10-06"/>
+		<cosponsor id="412001" joined="1994-10-06"/>
+		<cosponsor id="400083" joined="1994-10-06"/>
+		<cosponsor id="403864" joined="1994-10-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-29"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1994-09-29"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-10-26"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor"/>
+		<term name="Employee benefit plans"/>
+		<term name="Finance"/>
+		<term name="Investments"/>
+		<term name="Pension funds"/>
+		<term name="Pensions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/29/1994--Introduced.
+Employee Benefit Plan Security and Protection Act of 1994 - Amends the Employee Retirement Income Security Act of 1974 (ERISA) and the Internal Revenue Code to revise provisions regarding employee benefit plan fiduciary duties in relation to external benefits, social investing, and economically targeted investments.
+
+	</summary>
+</bill>

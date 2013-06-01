@@ -1,0 +1,76 @@
+<bill session="103" type="s" number="622" updated="2012-07-17T04:34:38-04:00">
+	<state datetime="1994-10-03">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-10-03" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-03-19"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize appropriations for the United States Office of Special Counsel, the Merit Systems Protection Board, and for other purposes.</title>
+	</titles>
+	<sponsor id="300066"/>
+	<cosponsors>
+		<cosponsor id="402727" joined="1993-03-19"/>
+		<cosponsor id="408939" joined="1993-03-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-19" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3276-3278)</text></action>
+		<action datetime="1993-03-19" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<calendar datetime="1994-04-26"  state="REPORTED"><committee name="Committee on Governmental Affairs"/><text>Committee on Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-08-23"><text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn with an amendment in the nature of a substitute. With written report No. 103-358.</text></action>
+		<calendar under="General Orders" number="599" datetime="1994-08-23" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 599.</text></calendar>
+		<action datetime="1994-10-03"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S13958-13961"/></action>
+		<action datetime="1994-10-03"><text>The committee substitute as amended agreed to by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-10-03" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1994-10-04"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-04T12:04:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-10-04T21:24:00-04:00"><text>Held at the desk.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2970" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Administrative remedies"/>
+		<term name="Armed forces and national security"/>
+		<term name="Authorization"/>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Civil service pensions"/>
+		<term name="Civil service retirement"/>
+		<term name="Department of Veterans Affairs"/>
+		<term name="Disability retirement"/>
+		<term name="Disciplining of employees"/>
+		<term name="Discrimination in employment"/>
+		<term name="Economics and public finance"/>
+		<term name="Employee rights"/>
+		<term name="Evidence (Law)"/>
+		<term name="Freedom of information"/>
+		<term name="Government corporations"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Government trust funds"/>
+		<term name="Governmental investigations"/>
+		<term name="Health"/>
+		<term name="Labor and employment"/>
+		<term name="Law"/>
+		<term name="Legal fees"/>
+		<term name="Merit Systems Protection Board"/>
+		<term name="Personnel management"/>
+		<term name="Physical examinations"/>
+		<term name="Psychiatry"/>
+		<term name="Rating of employees"/>
+		<term name="Resolution Trust Corporation"/>
+		<term name="Subpoena"/>
+		<term name="Surveys"/>
+		<term name="Whistle blowing"/>
+	</subjects>
+	<amendments>
+		<amendment number="s2610"/>
+		<amendment number="s2611"/>
+	</amendments>
+	<summary>
+	10/3/1994--Passed Senate amended. Amends the Whistleblower Protection Act of 1989 (WPA) to extend the authorization of appropriations for the Merit Systems Protection Board (MSPB) and the Office of Special Counsel (OSC). Makes numerous miscellaneous and technical amendments to various OSC provisions under WPA, including those regarding OSC administration and powers of disclosure, investigation of prohibited personnel practices and individual rights of action in certain reprisal cases, and OSC reports. Amends Federal law to: (1) make an agency decision to order psychiatric testing or examination of an employee, as well as any other significant change in duties, responsibilities, or working conditions, a personnel action subject to review in whistleblower cases; (2) extend protection against certain prohibited personnel practices to employees of Government corporations; (3) make agency and Government corporation heads responsible for ensuring that their employees are informed of the rights and remedies available under Federal law for whistleblowers; (4) make compliance with merit systems principles a factor in Senior Executive Service performance appraisals; (5) revise the definition of covered position with respect to prohibited personnel practices; (6) permit reasonable attorney's fees in certain cases; (7) allow Federal employees to use circumstantial evidence in seeking to obtain corrective actions; (8) extend whistleblower protection coverage to certain Department of Veterans Affairs personnel; (9) allow the Board to order corrective action that will make the employee whole; and (10) give the MSPB the authorization to receive reimbursement, subject to congressional limitation, from the Civil Service Retirement and Disability Fund for expenses incurred in administering Federal retirement appeals. Requires OSC to: (1) issue a policy statement regarding the implementation of WPA; (2) include in any letter terminating an investigation of a prohibited personnel practice the identification of an OSC employee who can respond to questions on the investigations; and (3) conduct an annual survey of all individuals who contact it for assistance. Gives employees of the Resolution Trust Corporation and Thrift Depositor Protection Oversight Board the option of electing which laws to apply in pursuing remedies in Whistleblower cases.
+
+	</summary>
+</bill>

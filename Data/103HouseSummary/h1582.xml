@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="1582" updated="2010-04-19T03:18:26-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="official" as="introduced">To give any State in which lands are more than 25 percent federally owned the right to disapprove the establishment of Wilderness Areas located in that State.</title>
+	</titles>
+	<sponsor id="400552"/>
+	<cosponsors>
+		<cosponsor id="400113" joined="1993-04-01"/>
+		<cosponsor id="400239" joined="1993-04-01"/>
+		<cosponsor id="400144" joined="1993-04-01"/>
+		<cosponsor id="400504" joined="1993-04-01"/>
+		<cosponsor id="400340" joined="1993-04-01"/>
+		<cosponsor id="400440" joined="1993-04-01"/>
+		<cosponsor id="411178" joined="1993-04-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Wilderness areas"/>
+		<term name="Congressional veto"/>
+		<term name="Federal-state relations"/>
+		<term name="Public lands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Authorizes any State in which more than 25 percent of the land is federally-owned to disapprove the designation of wilderness areas in such State. Authorizes the Congress to override such disapproval by joint resolution.
+
+	</summary>
+</bill>

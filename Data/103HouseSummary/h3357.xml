@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="3357" updated="2010-04-19T07:54:05-04:00">
+	<state datetime="1993-10-26">REFERRED</state>
+	<status><introduced datetime="1993-10-26"/></status>
+
+	<introduced datetime="1993-10-26"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit travel by Members, officers, and employees of the House of Representatives at lobbyist expense.</title>
+	</titles>
+	<sponsor id="400156"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-11-08"/>
+		<cosponsor id="400160" joined="1993-11-22"/>
+		<cosponsor id="407320" joined="1993-11-08"/>
+		<cosponsor id="407124" joined="1993-11-08"/>
+		<cosponsor id="400332" joined="1993-11-08"/>
+		<cosponsor id="401310" joined="1993-11-22"/>
+		<cosponsor id="409633" joined="1993-11-08"/>
+		<cosponsor id="400318" joined="1993-11-08"/>
+		<cosponsor id="410887" joined="1993-11-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-26"><text>Sponsor introductory remarks on measure. (CR H8436)</text></action>
+		<action datetime="1993-10-26"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-11-02"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Accounts.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Accounts" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congress"/>
+		<term name="Congressional employees"/>
+		<term name="Congressional travel"/>
+		<term name="Gifts"/>
+		<term name="Lobbying"/>
+		<term name="Members of Congress (House)"/>
+		<term name="Politics and government"/>
+		<term name="Travel costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/26/1993--Introduced.
+Prohibits a Member, officer, or employee of the House of Representatives from performing any travel at the expense of a person required to register under the Federal Regulation of Lobbying Act.
+
+	</summary>
+</bill>

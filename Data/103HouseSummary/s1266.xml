@@ -1,0 +1,49 @@
+<bill session="103" type="s" number="1266" updated="2012-07-17T06:07:28-04:00">
+	<state datetime="1993-07-20">REFERRED</state>
+	<status><introduced datetime="1993-07-20"/></status>
+
+	<introduced datetime="1993-07-20"/>
+	<titles>
+		<title type="short" as="introduced">Fairness in Medicaid Funding Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend title XIX of the Social Security Act to improve the Federal medical assistance percentage used under the Medicaid program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400562"/>
+	<cosponsors>
+		<cosponsor id="300159" joined="1994-05-24"/>
+		<cosponsor id="409580" joined="1993-07-20"/>
+		<cosponsor id="402004" joined="1993-07-20"/>
+		<cosponsor id="408939" joined="1993-07-20"/>
+		<cosponsor id="300053" joined="1993-07-29"/>
+		<cosponsor id="300046" joined="1993-07-20"/>
+		<cosponsor id="300023" joined="1993-07-20"/>
+		<cosponsor id="300054" joined="1994-05-03"/>
+		<cosponsor id="407992" joined="1994-05-24"/>
+		<cosponsor id="409917" joined="1994-06-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-20" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S9077-9078)</text></action>
+		<action datetime="1993-07-20" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4047" />
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Government operations and politics"/>
+		<term name="Health"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="Medicaid"/>
+		<term name="Public assistance programs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/20/1993--Introduced.
+Fairness in Medicaid Funding Act of 1993 - Amends title XIX (Medicaid) of the Social Security Act to change the Federal medical assistance percentage used under the Medicaid program. Bases payments to the States for administration costs on the Federal medical assistance percentage.
+
+	</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="103" type="s" number="565" updated="2012-07-17T05:34:48-04:00">
+	<state datetime="1993-03-11">REFERRED</state>
+	<status><introduced datetime="1993-03-11"/></status>
+
+	<introduced datetime="1993-03-11"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to improve disclosure requirements for tax-exempt organizations.</title>
+	</titles>
+	<sponsor id="300099"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-05-04"/>
+		<cosponsor id="300150" joined="1993-08-03"/>
+		<cosponsor id="300052" joined="1994-02-22"/>
+		<cosponsor id="300010" joined="1993-08-02"/>
+		<cosponsor id="403968" joined="1993-08-03"/>
+		<cosponsor id="300029" joined="1993-08-06"/>
+		<cosponsor id="300154" joined="1993-03-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-11" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2782-2784)</text></action>
+		<action datetime="1993-03-11" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+		<action datetime="1994-03-02"><text>Sponsor introductory remarks on measure. (CR S2255-2257)</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Charitable contributions"/>
+		<term name="Charities"/>
+		<term name="Executive compensation"/>
+		<term name="Financial disclosure"/>
+		<term name="Financial statements"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Government paperwork"/>
+		<term name="Tax-exempt organizations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/1993--Introduced.
+Amends the Internal Revenue Code to require certain tax-exempt organizations to furnish each contributor, upon written request, a disclosure statement containing its gross income, expenses, disbursements, and information on certain highly compensated employees. Allows such organizations to charge a processing fee. Establishes a penalty for failure to provide a disclosure statement.
+
+	</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="3525" updated="2010-04-19T08:20:19-04:00">
+	<state datetime="1993-11-17">REFERRED</state>
+	<status><introduced datetime="1993-11-17"/></status>
+
+	<introduced datetime="1993-11-17"/>
+	<titles>
+		<title type="short" as="introduced">Voter Protection Act of 1993</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, to punish certain types of bribery in Federal elections.</title>
+	</titles>
+	<sponsor id="406420"/>
+	<cosponsors>
+		<cosponsor id="400289" joined="1993-11-17"/>
+		<cosponsor id="400272" joined="1993-11-17"/>
+		<cosponsor id="405775" joined="1993-11-17"/>
+		<cosponsor id="404013" joined="1993-11-17"/>
+		<cosponsor id="400312" joined="1993-11-17"/>
+		<cosponsor id="400008" joined="1993-11-17"/>
+		<cosponsor id="400308" joined="1993-11-17"/>
+		<cosponsor id="300156" joined="1993-11-17"/>
+		<cosponsor id="409650" joined="1993-11-17"/>
+		<cosponsor id="400591" joined="1993-11-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-17"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-01-28"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Elections"/>
+		<term name="Bribery"/>
+		<term name="Public corruption"/>
+		<term name="Voting"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/17/1993--Introduced.
+Voter Protection Act of 1993 - Amends the Federal criminal code to provide that whoever gives a person anything of value with the intent to influence such person to withhold his or her vote in an election for Federal, State, or local political office, shall be fined, imprisoned not more than two years, or both.
+
+	</summary>
+</bill>

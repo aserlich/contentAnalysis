@@ -1,0 +1,61 @@
+<bill session="103" type="h" number="257" updated="2010-04-18T23:39:49-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Health Care Crisis Policy Commission Act</title>
+		<title type="official" as="introduced">To establish a Health Care Crisis Policy Commission.</title>
+	</titles>
+	<sponsor id="408109"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-15"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-02-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Cost control"/>
+		<term name="Cost effectiveness"/>
+		<term name="Employee health benefits"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Geriatrics"/>
+		<term name="Health insurance"/>
+		<term name="Home care services"/>
+		<term name="Income tax"/>
+		<term name="Long-term care"/>
+		<term name="Long-term care insurance"/>
+		<term name="Malpractice"/>
+		<term name="Maternal health services"/>
+		<term name="Medical economics"/>
+		<term name="Medically uninsured"/>
+		<term name="Medicare"/>
+		<term name="Physicians"/>
+		<term name="Rural hospitals"/>
+		<term name="Rural public health"/>
+		<term name="Self-insurance"/>
+		<term name="Tax incentives"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Health Care Crisis Policy Commission Act - Establishes the Health Care Crisis Policy Commission to study and report on the problems of the cost and delivery of medical care in the United States.
+
+	</summary>
+</bill>

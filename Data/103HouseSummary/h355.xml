@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="355" updated="2010-04-18T23:55:12-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Common Sense Campaign Reform Act</title>
+		<title type="official" as="introduced">To provide for comprehensive reform of Federal election campaign financing.</title>
+	</titles>
+	<sponsor id="409966"/>
+	<cosponsors>
+		<cosponsor id="404869" joined="1993-04-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-19"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Elections"/>
+		<term name="Banks and banking"/>
+		<term name="Business and politics"/>
+		<term name="Campaign contributors"/>
+		<term name="Campaign funds"/>
+		<term name="Congressional elections"/>
+		<term name="Corporations"/>
+		<term name="Government paperwork"/>
+		<term name="Income tax"/>
+		<term name="Indexing (Economic policy)"/>
+		<term name="Labor union finances"/>
+		<term name="Labor union political activities"/>
+		<term name="Political action committees"/>
+		<term name="Presidential elections"/>
+		<term name="Tax credits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Common Sense Campaign Reform Act - Amends the Internal Revenue Code to allow a tax credit of up to $100 ($200 for a joint return) for qualified congressional campaign contributions. Amends the Federal Election Campaign Act of 1971 to reduce the ceiling (from $5,000 to $2,500) on multicandidate political committee (PAC) contributions to candidates for Federal office. Increases the ceiling (from $1,000 to $2,000) on contributions to such candidates by persons other than PACs. Prohibits a candidate for Federal office from establishing, maintaining, financing, or controlling a political committee (leadership committee) other than the principal campaign committee. Prohibits contributions between PACs. Requires the authorized committee of a candidate to include in the report of contributions to such committee certain identifying information of contributors of more than $25. Requires a separate segregated fund established by a national bank, corporation, or labor organization that is a PAC to include in its name the name of the establishing entity. Requires the candidate to sign any required reports.
+
+	</summary>
+</bill>

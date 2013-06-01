@@ -1,0 +1,51 @@
+<bill session="103" type="hc" number="293" updated="2010-04-18T21:46:52-04:00">
+	<state datetime="1994-10-07">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1994-10-07" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-09-22"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the printing of the book entitled &quot;History of the United States House of Representatives&quot;.</title>
+	</titles>
+	<sponsor id="409400"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-22"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1994-09-23"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on House Administration" subcommittee="Personnel and Police"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on House Administration" subcommittee="Personnel and Police"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-10-04"><committee name="House Committee on House Administration"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-10-04"  state="REPORTED"><committee name="House Committee on House Administration"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-07T02:37:00-04:00"><text>Committee on House Administration discharged.</text></action>
+		<action datetime="1994-10-07T02:37:00-04:00"><text>Mr. Manton asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-10-07T02:37:00-04:00"><text>Considered by unanimous consent. (consideration: CR 10/6/1994 H11164-11165)</text></action>
+		<action datetime="1994-10-07T02:38:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<vote how="without objection" type="vote" datetime="1994-10-07T02:39:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On agreeing to the resolution Agreed to without objection.</text></vote>
+		<action datetime="1994-10-07T02:39:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-07" where="s" result="pass"  state="PASSED:CONCURRENTRES"><text>Received in the Senate, considered, and agreed to without amendment by Voice Vote.</text><reference label="consideration" ref="CR S14667"/></vote>
+		<action datetime="1994-10-12"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, Markup, Discharged" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Books"/>
+		<term name="Congress"/>
+		<term name="Congressional publications"/>
+		<term name="Government information"/>
+		<term name="History"/>
+	</subjects>
+	<amendments>
+		<amendment number="h928"/>
+	</amendments>
+	<summary>
+	10/7/1994--Passed House amended. Provides for the printing of a revised edition of the book entitled &quot;History of the United States House of Representatives&quot; as a House document.
+
+	</summary>
+</bill>

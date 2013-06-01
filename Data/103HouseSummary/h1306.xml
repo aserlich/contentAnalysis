@@ -1,0 +1,37 @@
+<bill session="103" type="h" number="1306" updated="2010-04-19T02:34:23-04:00">
+	<state datetime="1993-03-10">REFERRED</state>
+	<status><introduced datetime="1993-03-10"/></status>
+
+	<introduced datetime="1993-03-10"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Harold W. Brown.</title>
+	</titles>
+	<sponsor id="401014"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-10"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-03-15"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Claims"/>
+		<term name="Federal employees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/10/1993--Introduced.
+Directs the Secretary of Defense to pay a certain amount to a named individual in full satisfaction of his claim against the United States for reimbursement of transportation expenses incurred at the time of his retirement as a Department of Defense civilian employee in 1982.
+
+	</summary>
+</bill>

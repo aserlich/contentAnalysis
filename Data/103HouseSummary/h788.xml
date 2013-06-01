@@ -1,0 +1,64 @@
+<bill session="103" type="h" number="788" updated="2010-04-19T01:07:20-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="official" as="introduced">To eliminate the exemption for Congress from the application of certain provisions of Federal law and for other purposes.</title>
+	</titles>
+	<sponsor id="408109"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Select Education and Civil Rights.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor Standards, Occupational Health and Safety.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Information, Justice, Transportation and Agriculture.</text></action>
+		<action datetime="1994-07-25"><committee name="House Committee on Government Operations"/><text>See H.R.4822.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+		<committee code="HSED-04" name="House Education and Labor" subcommittee="Select Education and Civil Rights" activity="Referral" />
+		<committee code="HSED-10" name="House Education and Labor" subcommittee="Labor Standards, Occupational Health and Safety" activity="Referral" />
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Information, Justice, Transportation, and Agriculture" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="107" />
+		<bill relation="unknown" session="103" type="h" number="4822" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Age and employment"/>
+		<term name="Age discrimination"/>
+		<term name="American Samoa"/>
+		<term name="Congress"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional employees"/>
+		<term name="Congressional privileges and immunities"/>
+		<term name="Disabled"/>
+		<term name="Discrimination in employment"/>
+		<term name="Employee rights"/>
+		<term name="Employee-management relations in government"/>
+		<term name="Employment of the handicapped"/>
+		<term name="Equal pay for equal work"/>
+		<term name="Freedom of information"/>
+		<term name="Minimum wages"/>
+		<term name="Occupational health and safety"/>
+		<term name="Older workers"/>
+		<term name="Right of privacy"/>
+		<term name="Unfair labor practices"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Amends the Fair Labor Standards Act to extend its coverage to the employees of any unit of the legislative branch (currently, any unit that has positions in the competitive civil service). Repeals certain provisions relating to wage rates in American Samoa. Amends the Civil Rights Act of 1964 to require all units of the legislative branch (currently, those units having positions in the competitive service) to grant equal employment opportunities to employees or applicants. Applies the provisions of the Freedom of Information Act and the Privacy Act to the legislative branch. Amends the Age Discrimination in Employment Act of 1967, the Occupational Safety and Health Act of 1970, and the Americans with Disabilities Act of 1990 to apply their provisions to the Government. Amends the Age Discrimination Act of 1975 to make it applicable to the Congress. Amends the National Labor Relations Act to subject the Government (including the legislative branch) as an employer to the prohibition against unfair labor practices.
+
+	</summary>
+</bill>

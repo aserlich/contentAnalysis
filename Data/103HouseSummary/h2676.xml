@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="2676" updated="2010-04-19T06:08:45-04:00">
+	<state datetime="1993-07-20">REFERRED</state>
+	<status><introduced datetime="1993-07-20"/></status>
+
+	<introduced datetime="1993-07-20"/>
+	<titles>
+		<title type="short" as="introduced">SSI Reform Act of 1993</title>
+		<title type="official" as="introduced">To amend title XVI of the Social Security Act to reform the supplemental security income program.</title>
+	</titles>
+	<sponsor id="400511"/>
+	<cosponsors>
+		<cosponsor id="400289" joined="1994-10-07"/>
+		<cosponsor id="400122" joined="1994-08-03"/>
+		<cosponsor id="400333" joined="1993-08-05"/>
+		<cosponsor id="400424" joined="1993-10-05"/>
+		<cosponsor id="404213" joined="1993-11-22"/>
+		<cosponsor id="404520" joined="1993-08-05"/>
+		<cosponsor id="400357" joined="1993-09-14"/>
+		<cosponsor id="400310" joined="1993-08-05"/>
+		<cosponsor id="410407" joined="1994-05-05"/>
+		<cosponsor id="400163" joined="1993-10-27"/>
+		<cosponsor id="400075" joined="1993-09-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-20"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-07-23"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Age"/>
+		<term name="Earnings"/>
+		<term name="Income"/>
+		<term name="Public assistance programs"/>
+		<term name="Social security eligibility"/>
+		<term name="Supplemental security income program"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/20/1993--Introduced.
+SSI Reform Act of 1993 - Amends title XVI (Supplemental Security Income) (SSI) of the Social Security Act to: (1) increase the limit on the amount of income and resources needed to qualify for SSI; (2) increase the amount of SSI benefits payable; (3) eliminate certain resource exclusions and increase certain earned income exclusions; (4) disregard in-kind support and maintenance in determining income; and (5) phase-in an expansion of eligibility based on age.
+
+	</summary>
+</bill>

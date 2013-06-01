@@ -1,0 +1,39 @@
+<bill session="103" type="sr" number="256" updated="2010-04-19T22:39:01-04:00">
+	<state datetime="1994-09-21">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-09-21" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-09-19"/>
+	<titles>
+		<title type="official" as="introduced">A resolution to authorize the use of funds available to the Committee on Energy and Natural Resources for consultants.</title>
+	</titles>
+	<sponsor id="406084"/>
+	<cosponsors>
+		<cosponsor id="411271" joined="1994-09-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-19"><text>Referred to the Committee on Rules.</text></action>
+		<action datetime="1994-09-21"><text>Senate Committee on Rules discharged by Unanimous Consent.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-09-21" where="s" result="pass"  state="PASSED:SIMPLERES"><text>Resolution agreed to in Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S13092-13093"/></vote>
+	</actions>
+	<committees>
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Senate"/>
+		<term name="Congress"/>
+		<term name="Congressional committees (Senate)"/>
+		<term name="Government consultants"/>
+		<term name="Public contracts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/19/1994--Introduced.
+Amends the Omnibus Committee Funding Resolution for 1993 and 1994 (S.Res. 71, 103d Congress) to authorize the use of funds made available to the Senate Committee on Energy and Natural Resources for procurement of consultant services.
+
+	</summary>
+</bill>

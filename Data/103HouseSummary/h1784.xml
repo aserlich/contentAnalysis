@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="1784" updated="2010-04-19T03:50:07-04:00">
+	<state datetime="1993-04-21">REFERRED</state>
+	<status><introduced datetime="1993-04-21"/></status>
+
+	<introduced datetime="1993-04-21"/>
+	<titles>
+		<title type="official" as="introduced">To provide for a demonstration project to improve provision of certain benefits under the Social Security Act through a private aid program.</title>
+	</titles>
+	<sponsor id="400223"/>
+	<cosponsors>
+		<cosponsor id="400553" joined="1993-04-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-21"><text>Sponsor introductory remarks on measure. (CR E967)</text></action>
+		<action datetime="1993-04-21"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-04-21"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-04-30"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+		<action datetime="1993-05-12"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="800" />
+	</relatedbills>
+	<subjects>
+		<term name="Public welfare"/>
+		<term name="Aid to dependent children"/>
+		<term name="Day care"/>
+		<term name="Manpower training programs"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Poor"/>
+		<term name="Public assistance programs"/>
+		<term name="Public service employment"/>
+		<term name="Vocational guidance"/>
+		<term name="Wisconsin"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/21/1993--Introduced.
+Directs the Secretary of Health and Human Services to provide for a demonstration project (New Hope Project, Inc.) of a private aid program in Milwaukee, Wisconsin, that provides low-income residents with child and medical care equivalent to that provided under the Social Security Act.
+
+	</summary>
+</bill>

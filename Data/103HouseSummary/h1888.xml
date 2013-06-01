@@ -1,0 +1,102 @@
+<bill session="103" type="h" number="1888" updated="2010-04-19T04:06:36-04:00">
+	<state datetime="1993-04-28">REFERRED</state>
+	<status><introduced datetime="1993-04-28"/></status>
+
+	<introduced datetime="1993-04-28"/>
+	<titles>
+		<title type="official" as="introduced">To amend title II of the Social Security Act to exclude from coverage any service performed by election officials or election workers only on election days.</title>
+	</titles>
+	<sponsor id="404401"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1993-05-12"/>
+		<cosponsor id="400420" joined="1993-05-12"/>
+		<cosponsor id="400327" joined="1993-09-13"/>
+		<cosponsor id="400428" joined="1993-06-18"/>
+		<cosponsor id="404503" joined="1993-05-12"/>
+		<cosponsor id="400553" joined="1993-06-18"/>
+		<cosponsor id="400160" joined="1993-06-18"/>
+		<cosponsor id="410529" joined="1993-08-04"/>
+		<cosponsor id="400023" joined="1993-09-13"/>
+		<cosponsor id="405775" joined="1993-06-18"/>
+		<cosponsor id="400380" joined="1993-07-13"/>
+		<cosponsor id="400122" joined="1993-11-16"/>
+		<cosponsor id="400156" joined="1993-05-12"/>
+		<cosponsor id="400113" joined="1993-06-18"/>
+		<cosponsor id="400180" joined="1993-08-04"/>
+		<cosponsor id="400584" joined="1993-05-12"/>
+		<cosponsor id="400170" joined="1993-09-13"/>
+		<cosponsor id="400036" joined="1993-05-12"/>
+		<cosponsor id="401014" joined="1993-09-13"/>
+		<cosponsor id="400389" joined="1993-09-13"/>
+		<cosponsor id="400268" joined="1993-06-18"/>
+		<cosponsor id="400165" joined="1993-08-04"/>
+		<cosponsor id="400506" joined="1993-05-12"/>
+		<cosponsor id="406420" joined="1993-06-18"/>
+		<cosponsor id="400307" joined="1993-05-12"/>
+		<cosponsor id="400018" joined="1993-05-12"/>
+		<cosponsor id="400261" joined="1993-06-18"/>
+		<cosponsor id="400409" joined="1993-05-12"/>
+		<cosponsor id="400365" joined="1993-06-18"/>
+		<cosponsor id="400143" joined="1993-07-13"/>
+		<cosponsor id="400359" joined="1993-06-18"/>
+		<cosponsor id="400402" joined="1993-05-12"/>
+		<cosponsor id="400144" joined="1993-08-04"/>
+		<cosponsor id="411947" joined="1993-08-04"/>
+		<cosponsor id="300083" joined="1993-05-12"/>
+		<cosponsor id="405313" joined="1993-05-12"/>
+		<cosponsor id="404097" joined="1993-09-13"/>
+		<cosponsor id="400008" joined="1993-06-18"/>
+		<cosponsor id="400205" joined="1993-08-04"/>
+		<cosponsor id="400140" joined="1993-06-18"/>
+		<cosponsor id="412001" joined="1993-05-12"/>
+		<cosponsor id="400251" joined="1993-05-12"/>
+		<cosponsor id="402626" joined="1993-05-12"/>
+		<cosponsor id="401310" joined="1993-05-12"/>
+		<cosponsor id="400366" joined="1993-08-04"/>
+		<cosponsor id="400536" joined="1993-07-13"/>
+		<cosponsor id="405524" joined="1993-06-18"/>
+		<cosponsor id="400193" joined="1993-06-18"/>
+		<cosponsor id="408476" joined="1993-07-13"/>
+		<cosponsor id="400012" joined="1993-05-12"/>
+		<cosponsor id="400201" joined="1993-07-13"/>
+		<cosponsor id="400318" joined="1993-06-18"/>
+		<cosponsor id="400438" joined="1993-07-13"/>
+		<cosponsor id="400150" joined="1993-06-18"/>
+		<cosponsor id="407669" joined="1993-07-13"/>
+		<cosponsor id="406554" joined="1993-06-18"/>
+		<cosponsor id="400435" joined="1993-05-12"/>
+		<cosponsor id="400537" joined="1993-08-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-28"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-06"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+		<action datetime="1994-05-17"><text>Sponsor introductory remarks on measure. (CR E939)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Election Day"/>
+		<term name="Election administration"/>
+		<term name="Local officials and employees"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Social security eligibility"/>
+		<term name="Social security taxes"/>
+		<term name="State officials and employees"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/28/1993--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act and the Internal Revenue Code to exclude from OASDI coverage all service performed during the calendar year by State and local election officials and workers if it is performed only on an election day.
+
+	</summary>
+</bill>

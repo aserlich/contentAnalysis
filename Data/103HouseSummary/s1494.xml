@@ -1,0 +1,67 @@
+<bill session="103" type="s" number="1494" updated="2012-07-17T05:01:50-04:00">
+	<state datetime="1993-09-24">REFERRED</state>
+	<status><introduced datetime="1993-09-24"/></status>
+
+	<introduced datetime="1993-09-24"/>
+	<titles>
+		<title type="short" as="introduced">Health Care Information Modernization and Security Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend the Social Security Act to improve the exchange of information relating to health care services, to provide for measurement of health care quality, and for other purposes.</title>
+	</titles>
+	<sponsor id="300010"/>
+	<cosponsors>
+		<cosponsor id="409225" joined="1993-09-24"/>
+		<cosponsor id="403171" joined="1994-06-09"/>
+		<cosponsor id="300015" joined="1993-09-24"/>
+		<cosponsor id="411818" joined="1994-06-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S122516-12517, S12521-12522)</text></action>
+		<action datetime="1993-09-24" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<action datetime="1993-11-24"><text>Sponsor introductory remarks on measure. (CR S17234-17235)</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3137" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Administrative procedure"/>
+		<term name="Ambulatory care"/>
+		<term name="Communication in medicine"/>
+		<term name="Community health services"/>
+		<term name="Computer networks"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Data banks"/>
+		<term name="Data transmission systems"/>
+		<term name="Electronic data interchange"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to health facilities"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Grants-in-aid"/>
+		<term name="Health insurance"/>
+		<term name="Information services"/>
+		<term name="Legislation"/>
+		<term name="Medical economics"/>
+		<term name="Medical records"/>
+		<term name="Medical statistics"/>
+		<term name="Medicare"/>
+		<term name="Military medicine"/>
+		<term name="Office of Management and Budget"/>
+		<term name="Quality of care"/>
+		<term name="Right of privacy"/>
+		<term name="Social welfare"/>
+		<term name="Standards"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/24/1993--Introduced.
+Health Care Information Modernization and Security Act of 1993 - Amends the Social Security Act to establish the Health Care Data Panel to: (1) develop and submit to the Office of Management and Budget for implementation proposed regulations for an integrated electronic health care data interchange system; (2) select and establish data and transaction standards, conventions, and requirements for the data interchange system; and (3) provide for appointment of a National Health Informatics Commission to advise the Panel on its activities. Authorizes appropriations.
+
+	</summary>
+</bill>

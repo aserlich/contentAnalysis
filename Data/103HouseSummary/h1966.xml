@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="1966" updated="2010-04-19T04:18:44-04:00">
+	<state datetime="1993-05-04">REFERRED</state>
+	<status><introduced datetime="1993-05-04"/></status>
+
+	<introduced datetime="1993-05-04"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Federal Cigarette Labeling and Advertising Act to require that cigarettes and cigarette advertising bear a label stating the addictive quality of nicotine.</title>
+	</titles>
+	<sponsor id="409966"/>
+	<cosponsors>
+		<cosponsor id="300038" joined="1993-06-10"/>
+		<cosponsor id="410589" joined="1993-05-19"/>
+		<cosponsor id="400140" joined="1993-05-19"/>
+		<cosponsor id="404190" joined="1993-06-10"/>
+		<cosponsor id="410889" joined="1993-05-20"/>
+		<cosponsor id="400314" joined="1993-05-20"/>
+		<cosponsor id="400243" joined="1993-05-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-04"><text>Sponsor introductory remarks on measure. (CR E1128)</text></action>
+		<action datetime="1993-05-04"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-06-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Consumer protection"/>
+		<term name="Advertising"/>
+		<term name="Cigarettes"/>
+		<term name="Consumer education"/>
+		<term name="Drug abuse"/>
+		<term name="Drugs"/>
+		<term name="Labeling"/>
+		<term name="Packaging"/>
+		<term name="Smoking"/>
+		<term name="Tobacco"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/4/1993--Introduced.
+Amends the Federal Cigarette Labeling and Advertising Act to require that cigarette packages and cigarette advertising bear a label stating that nicotine in cigarettes is an addictive drug.
+
+	</summary>
+</bill>

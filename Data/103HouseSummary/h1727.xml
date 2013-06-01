@@ -1,0 +1,142 @@
+<bill session="103" type="h" number="1727" updated="2012-07-17T05:13:42-04:00">
+	<state datetime="1994-05-19">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-05-19" /></status>
+
+	<introduced datetime="1993-04-20"/>
+	<titles>
+		<title type="short" as="introduced">Arson Prevention Act of 1993</title>
+		<title type="short" as="reported to house">Arson Prevention Act of 1993</title>
+		<title type="short" as="passed house">Arson Prevention Act of 1993</title>
+		<title type="short" as="passed senate">Arson Prevention Act of 1993</title>
+		<title type="short" as="enacted">Arson Prevention Act of 1994</title>
+		<title type="official" as="introduced">To establish a program of grants to States for arson research, prevention, and control, and for other purposes.</title>
+	</titles>
+	<sponsor id="400043"/>
+	<cosponsors>
+		<cosponsor id="400594" joined="1993-04-20"/>
+		<cosponsor id="405939" joined="1993-05-18"/>
+		<cosponsor id="400124" joined="1993-04-20"/>
+		<cosponsor id="400409" joined="1993-04-20"/>
+		<cosponsor id="400264" joined="1993-04-20"/>
+		<cosponsor id="400189" joined="1993-04-20"/>
+		<cosponsor id="400070" joined="1993-05-18"/>
+		<cosponsor id="400428" joined="1993-04-20"/>
+		<cosponsor id="400572" joined="1993-04-20"/>
+		<cosponsor id="410407" joined="1993-04-20"/>
+		<cosponsor id="400269" joined="1993-04-20"/>
+		<cosponsor id="400236" joined="1993-04-20"/>
+		<cosponsor id="404097" joined="1993-05-18"/>
+		<cosponsor id="400160" joined="1993-04-20"/>
+		<cosponsor id="400035" joined="1993-04-20"/>
+		<cosponsor id="400614" joined="1993-05-24"/>
+		<cosponsor id="400216" joined="1993-05-04"/>
+		<cosponsor id="400527" joined="1993-05-04"/>
+		<cosponsor id="400378" joined="1993-04-28"/>
+		<cosponsor id="407669" joined="1993-04-20"/>
+		<cosponsor id="401153" joined="1993-04-20"/>
+		<cosponsor id="406420" joined="1993-07-13"/>
+		<cosponsor id="407306" joined="1993-04-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-20" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E948)</text></action>
+		<action datetime="1993-04-20" state="REFERRED"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-04-20"><text>Hearings Held Prior to Referral.</text></action>
+		<action datetime="1993-04-22"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Science.</text></action>
+		<action datetime="1993-06-17"><committee name="House Committee on Science, Space and Technology" subcommittee="Science"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-06-17"><committee name="House Committee on Science, Space and Technology" subcommittee="Science"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-06-30"><committee name="House Committee on Science, Space and Technology"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-06-30"  state="REPORTED"><committee name="House Committee on Science, Space and Technology"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-07-13T17:56:00-04:00"><text>Reported (Amended) by the Committee on Science, Space and Technology. H. Rept. 103-172.</text></action>
+		<calendar number="96" datetime="1993-07-13T17:56:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 96.</text></calendar>
+		<action datetime="1993-07-26T12:53:00-04:00"><text>Mr. Boucher moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-07-26T12:54:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5081-5084"/></action>
+		<action datetime="1993-07-26T12:54:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-07-26T13:06:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-07-26T13:06:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-07-27"><text>Received in the Senate and read twice and referred to the Committee on Commerce.</text></action>
+		<action datetime="1993-11-22"><text>Senate Committee on Commerce discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S16986"/></action>
+		<action datetime="1993-11-22"><text>Measure laid before Senate.</text></action>
+		<action datetime="1993-11-22"><text>Senate struck all after the Enacting Clause and substituted the language of S. 798.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-11-22" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate in lieu of S. 798 with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-11-22"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-04-26T13:56:00-04:00"><text>House agreed to Senate amendment with amendment pursuant to H. Res. 413.</text><reference label="consideration" ref="CR H2751-2754"/></action>
+		<action datetime="1994-05-02"><text>Message on House action received in Senate and at desk: House amendment to Senate amendment.</text></action>
+		<action datetime="1994-05-06"><text>Senate agreed to the House amendment to the Senate amendment by Voice Vote.</text><reference label="consideration" ref="CR S5380"/></action>
+		<topresident datetime="1994-05-06" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-05-09"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-05-10" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-05-19" ><text>Signed by President.</text></signed>
+		<enacted number="103-254" type="public" datetime="1994-05-19"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-254.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Markup, Reporting" />
+		<committee code="HSSY-14" name="House Science, Space and Technology" subcommittee="Science" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hr" number="413" />
+		<bill relation="unknown" session="103" type="hr" number="413" />
+		<bill relation="unknown" session="103" type="hr" number="413" />
+		<bill relation="unknown" session="103" type="s" number="798" />
+		<bill relation="supersedes" session="103" type="s" number="798" />
+		<bill relation="unknown" session="103" type="s" number="798" />
+	</relatedbills>
+	<subjects>
+		<term name="Fires"/>
+		<term name="Arson"/>
+		<term name="Authorization"/>
+		<term name="Buy American"/>
+		<term name="Counseling"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Crime prevention"/>
+		<term name="Criminal investigation"/>
+		<term name="Criminal justice information"/>
+		<term name="Criminal statistics"/>
+		<term name="Drug abuse"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Emergency management"/>
+		<term name="Emergency medical services"/>
+		<term name="Employee training"/>
+		<term name="Families"/>
+		<term name="Family violence"/>
+		<term name="Federal Emergency Management Agency"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to law enforcement agencies"/>
+		<term name="Federal aid to research"/>
+		<term name="Fire departments"/>
+		<term name="Fire fighters"/>
+		<term name="Fire prevention"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Forest fires"/>
+		<term name="Fraud"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Grants-in-aid"/>
+		<term name="Health"/>
+		<term name="Heart diseases"/>
+		<term name="Housing and community development"/>
+		<term name="Juvenile delinquency"/>
+		<term name="Labor and employment"/>
+		<term name="Licenses"/>
+		<term name="Narcotic traffic"/>
+		<term name="Narcotics and crime"/>
+		<term name="Paramedical education"/>
+		<term name="Paramedical personnel"/>
+		<term name="Police training"/>
+		<term name="Research"/>
+		<term name="Riot control"/>
+		<term name="Rural conditions"/>
+		<term name="Science, technology, communications"/>
+		<term name="Smoke detectors"/>
+		<term name="Volunteer workers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/26/1994--House agreed to Senate amendment with amendment. Arson Prevention Act of 1994 - Amends the Fire Prevention and Control Act of 1974 to direct the Administrator of the United States Fire Administration, acting through the Office of Fire Prevention and Arson Control, to carry out a demonstration program under which not more than ten grant awards shall be made to States or consortia of States (States) for programs relating to arson research, prevention, and control. Directs the Administrator, in carrying out such provision, to award two-year grants on a competitive, merit basis to States for projects that promote one or more of specified goals, including: (1) improving the training by States leading to professional certification of arson investigators; (2) providing resources for the formation of arson task forces or interagency organizational arrangements involving the police and fire departments and other relevant local agencies; (3) combating fraud as a cause of arson and advancing research at the State and local levels on the significance and prevention of fraud as a motive for setting fires; (4) combating juvenile arson, drug-related arson, and domestic violence as a cause of arson; and (5) improving the capability of firefighters to identify and combat arson through expanded training programs. Sets forth provisions regarding: (1) the structuring of applications; (2) State qualification criteria; (3) the extension of grants; (4) technical assistance; (5) consultation and cooperation with other Federal agencies; (6) assessment; and (7) the purchase of American made equipment and products by grant recipients. (Sec. 4) Includes within a provision requiring the Administrator to provide training and instructional materials in skills and knowledge necessary to assist Federal, State, and local fire service and law enforcement personnel in arson prevention, detection, and control, a requirement that particular emphasis be placed on the needs of volunteer firefighters for improved and more widely available arson training courses. (Sec. 5) Prohibits making certain funds available to a State or local government under the Act unless such government has a policy to actively promote the training of its firefighters in cardiopulmonary resuscitation. (Sec. 6) Exempts Federal employee housing that does not have an adequate and reliable electrical system from the requirement for protection by hard-wired (but requires battery operated) smoke detectors. (Sec. 7) Authorizes appropriations, including appropriations for basic research on the development of an advanced course on arson prevention and for the expansion of arson investigator training programs at the National Fire Academy and the Federal Law Enforcement Training Center or through regional delivery sites. (Sec. 8) Prohibits any funds from being authorized to be appropriated for any fiscal year after FY 1996 for carrying out the programs for which funds are authorized by this Act or the amendments made by this Act.
+
+	</summary>
+</bill>

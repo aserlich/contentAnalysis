@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="1006" updated="2012-07-17T05:59:43-04:00">
+	<state datetime="1993-05-25">REPORTED</state>
+	<status><calendar datetime="1993-05-25" /></status>
+
+	<introduced datetime="1993-05-20"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize a certificate of documentation for the vessel Arbitrage II.</title>
+	</titles>
+	<sponsor id="300053"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-20" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6279-6280)</text></action>
+		<action datetime="1993-05-20" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<calendar datetime="1993-05-25"  state="REPORTED"><committee name="Committee on Commerce"/><text>Committee on Commerce. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-06-29"><text>Committee on Commerce. Reported to Senate by Senator Hollings without amendment. With written report No. 103-78.</text></action>
+		<calendar under="General Orders" number="119" datetime="1993-06-29" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 119.</text></calendar>
+		<action datetime="1993-11-24"><text>Indefinitely postponed by Senate by Unanimous Consent.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2150" />
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Ships"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/1993--Introduced.
+Authorizes the Secretary of Transportation to issue a certificate of documentation for a named vessel.
+
+	</summary>
+</bill>

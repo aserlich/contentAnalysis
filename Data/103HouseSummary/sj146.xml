@@ -1,0 +1,101 @@
+<bill session="103" type="sj" number="146" updated="2012-07-17T04:21:16-04:00">
+	<state datetime="1994-05-16">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-05-16" /></status>
+
+	<introduced datetime="1993-10-20"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution designating May 1, 1994, through May 7, 1994, as &quot;National Walking Week&quot;.</title>
+	</titles>
+	<sponsor id="411818"/>
+	<cosponsors>
+		<cosponsor id="300016" joined="1994-04-12"/>
+		<cosponsor id="300150" joined="1994-02-22"/>
+		<cosponsor id="300052" joined="1994-01-27"/>
+		<cosponsor id="300056" joined="1994-02-07"/>
+		<cosponsor id="409580" joined="1994-04-11"/>
+		<cosponsor id="300060" joined="1994-04-11"/>
+		<cosponsor id="406084" joined="1994-04-11"/>
+		<cosponsor id="408252" joined="1994-04-13"/>
+		<cosponsor id="400559" joined="1994-02-24"/>
+		<cosponsor id="401874" joined="1994-04-11"/>
+		<cosponsor id="300089" joined="1994-02-09"/>
+		<cosponsor id="406256" joined="1994-04-26"/>
+		<cosponsor id="300011" joined="1994-03-17"/>
+		<cosponsor id="409917" joined="1994-02-22"/>
+		<cosponsor id="300012" joined="1994-04-14"/>
+		<cosponsor id="300036" joined="1994-05-02"/>
+		<cosponsor id="300086" joined="1994-04-13"/>
+		<cosponsor id="408939" joined="1994-04-20"/>
+		<cosponsor id="300154" joined="1994-02-22"/>
+		<cosponsor id="300048" joined="1994-01-28"/>
+		<cosponsor id="300069" joined="1994-04-26"/>
+		<cosponsor id="300001" joined="1994-02-22"/>
+		<cosponsor id="400563" joined="1994-03-10"/>
+		<cosponsor id="300073" joined="1994-05-02"/>
+		<cosponsor id="300065" joined="1994-03-17"/>
+		<cosponsor id="407663" joined="1994-01-27"/>
+		<cosponsor id="403142" joined="1994-01-27"/>
+		<cosponsor id="402675" joined="1994-04-26"/>
+		<cosponsor id="407786" joined="1994-05-02"/>
+		<cosponsor id="408420" joined="1994-05-02"/>
+		<cosponsor id="300092" joined="1994-03-08"/>
+		<cosponsor id="300029" joined="1994-02-09"/>
+		<cosponsor id="403515" joined="1994-05-02"/>
+		<cosponsor id="300005" joined="1994-02-22"/>
+		<cosponsor id="300057" joined="1994-04-26"/>
+		<cosponsor id="300009" joined="1994-05-02"/>
+		<cosponsor id="403669" joined="1994-01-27"/>
+		<cosponsor id="403346" joined="1994-04-11"/>
+		<cosponsor id="402412" joined="1994-02-22"/>
+		<cosponsor id="408597" joined="1994-01-27"/>
+		<cosponsor id="407254" joined="1994-01-27"/>
+		<cosponsor id="300034" joined="1994-05-02"/>
+		<cosponsor id="403171" joined="1994-04-20"/>
+		<cosponsor id="300023" joined="1994-05-02"/>
+		<cosponsor id="300046" joined="1994-04-14"/>
+		<cosponsor id="300157" joined="1994-04-11"/>
+		<cosponsor id="403962" joined="1994-03-08"/>
+		<cosponsor id="404598" joined="1994-02-07"/>
+		<cosponsor id="406188" joined="1994-02-07"/>
+		<cosponsor id="401604" joined="1994-02-22"/>
+		<cosponsor id="300054" joined="1994-01-27"/>
+		<cosponsor id="405310" joined="1994-02-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-20" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1994-05-02"><text>Senate Committee on Judiciary discharged by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-05-02" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment and with a preamble by Voice Vote.</text><reference label="consideration" ref="CR S4988"/></vote>
+		<action datetime="1994-05-03T12:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-05-03"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-05-03"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-05-03T17:37:00-04:00"><text>Committee on Post Office and Civil Service discharged.</text></action>
+		<action datetime="1994-05-03T17:37:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H2982-2983"/></action>
+		<action datetime="1994-05-03T17:37:00-04:00"><text>Mrs. Byrne asked unanimous consent to discharge from committee and consider.</text></action>
+		<vote how="without objection" type="vote2" datetime="1994-05-03T17:38:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-05-03T17:38:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-05-03" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-05-05" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-05-16" ><text>Signed by President.</text></signed>
+		<enacted number="103-251" type="public" datetime="1994-05-16"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-251.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="276" />
+	</relatedbills>
+	<subjects>
+		<term name="Special weeks"/>
+		<term name="Commemorations"/>
+		<term name="Walking"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/20/1993--Introduced.
+Designates May 1 through 7, 1994, as National Walking Week.
+
+	</summary>
+</bill>

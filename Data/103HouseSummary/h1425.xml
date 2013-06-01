@@ -1,0 +1,115 @@
+<bill session="103" type="h" number="1425" updated="2012-07-17T05:30:56-04:00">
+	<state datetime="1993-12-03">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-03" /></status>
+
+	<introduced datetime="1993-03-18"/>
+	<titles>
+		<title type="short" as="introduced">American Indian Agricultural Act of 1993</title>
+		<title type="short" as="passed house">American Indian Agricultural Resource Management Act</title>
+		<title type="short" as="enacted">American Indian Agricultural Resource Management Act</title>
+		<title type="official" as="introduced">To improve the management, productivity, and use of Indian agricultural lands and resources.</title>
+	</titles>
+	<sponsor id="409205"/>
+	<cosponsors>
+		<cosponsor id="300058" joined="1993-03-18"/>
+		<cosponsor id="411677" joined="1993-03-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-18" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-03-19" state="REPORTED"><text>Sponsor introductory remarks on measure. (CR E716)</text></action>
+		<action datetime="1993-04-13" state="REFERRED"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Native American Affairs.</text></action>
+		<action datetime="1993-06-18"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-07-12"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1993-07-30"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-07-30"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-09-22"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-09-22"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-11-16T12:23:00-05:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-367.</text></action>
+		<calendar number="202" datetime="1993-11-16T12:24:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 202.</text></calendar>
+		<action datetime="1993-11-16T14:17:00-05:00"><text>Mr. Richardson moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-16T14:18:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9733-9737"/></action>
+		<action datetime="1993-11-16T14:18:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-16T14:21:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-16T14:21:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-18"><text>Received in the Senate and read twice and referred to the Committee on Indian Affairs.</text></action>
+		<calendar datetime="1993-11-18" ><committee name="House Committee on Natural Resources"/><text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-11-18"><text>Committee on Indian Affairs. Reported to Senate by Senator Inouye without amendment. With written report No. 103-186.</text></action>
+		<calendar under="General Orders" number="298" datetime="1993-11-18" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 298.</text></calendar>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-11-20" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote. (consideration: CR 11/19/1993 S16583-16584)</text></vote>
+		<action datetime="1993-11-20"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-11-20" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-11-23" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-03" ><text>Signed by President.</text></signed>
+		<enacted number="103-177" type="public" datetime="1993-12-03"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-177.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="" name="Senate Indian Affairs" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Administrative procedure"/>
+		<term name="Agricultural colleges"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural education"/>
+		<term name="Agriculture and food"/>
+		<term name="Alaska"/>
+		<term name="Community colleges"/>
+		<term name="Conservation of natural resources"/>
+		<term name="Continuing education"/>
+		<term name="Department of the Interior"/>
+		<term name="Education"/>
+		<term name="Education of Indians"/>
+		<term name="Educational policy"/>
+		<term name="Employee training"/>
+		<term name="Environmental education"/>
+		<term name="Environmental protection"/>
+		<term name="Executive reorganization"/>
+		<term name="Farm lands"/>
+		<term name="Farm management"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Federal employees"/>
+		<term name="Federal preemption"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Government internships"/>
+		<term name="Government liability"/>
+		<term name="Government operations and politics"/>
+		<term name="Graduate education"/>
+		<term name="Higher education"/>
+		<term name="Indian courts"/>
+		<term name="Indian economic development"/>
+		<term name="Indian lands"/>
+		<term name="Jurisdiction"/>
+		<term name="Labor and employment"/>
+		<term name="Land use"/>
+		<term name="Leases"/>
+		<term name="Licenses"/>
+		<term name="Manpower training programs"/>
+		<term name="Minorities"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Range management"/>
+		<term name="Recruiting of employees"/>
+		<term name="Rent"/>
+		<term name="Right of property"/>
+		<term name="Scholarships"/>
+		<term name="Student aid"/>
+		<term name="Student employment"/>
+		<term name="Student loan funds"/>
+		<term name="Surety and fidelity"/>
+		<term name="Technical education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/16/1993--Passed House amended. TABLE OF CONTENTS: Title I: Rangeland and Farmland Enhancement Title II: Education in Agriculture Management Title III: General Provisions American Indian Agricultural Resource Management Act - Title I: Rangeland and Farmland Enhancement - Directs the Secretary of the Interior to provide for the management of Indian agricultural lands to achieve certain objectives. Requires development and implementation of a ten-year Indian agriculture resource management and monitoring plan to meet such objectives. Authorizes an Indian tribe, pursuant to a self-determination contract or self-governance compact, to develop or implement such a plan. Requires the Secretary, in the event the tribe chooses not to contract plan development or implementation, to develop or implement the plan, in close consultation with the tribe. Specifies the general contents of a plan. Requires the Secretary to conduct all land management activities on Indian agricultural land in accordance with such a plan, in an integrated resource management plan, and in accordance with all tribal laws and ordinances, except where compliance would be contrary to the trust responsibility of the United States. Provides for waiver of Department of the Interior regulations or administrative policies when they conflict with a plan or a tribal law, unless such a waiver would violate Federal law, judicial decision, or U.S. trust responsibility. States that provision for such a waiver does not waive U.S. sovereign immunity or authorize tribal justice systems to review actions of the Secretary. Directs the Secretary to issue regulations establishing civil penalties for trespass on Indian agricultural lands. Treats civil penalty proceeds as proceeds for the sale of agricultural products from the lands on which the trespass occurred. Grants Indian tribes concurrent jurisdiction to enforce such regulations. Requires Federal agencies to defer to tribal prosecution of such trespass cases. Requires the Secretary to contract with a non-Federal entity knowledgeable in agricultural management on Federal and private lands to conduct an independent national assessment of Indian agricultural management and practices, including an analysis of Federal investment and management efforts for Indian trust and restricted agricultural lands as compared to federally-owned lands managed by other Federal agencies or instrumentalities, and as compared to federally-served private lands. Authorizes the Secretary, when it is in the best interest of the Indian landowners, to: (1) approve ten-year or ten-to-25 year agricultural leases or permits with respect to Indian agricultural lands when such lease or permit requires substantial lessee investment in the development of the lands or crops; as well as (2) lease or permit agricultural lands to the highest bidder at rates less than the Federal appraisal. Requires the Secretary, among other specified duties, to provide a preference to Indian operators in the issuance and renewal of such agricultural leases and permits so long as the lessor receives fair market value for the property. Conditions the Secretary's authority to perform such duties on authorization by a tribal resolution establishing a general policy for leasing such lands. Sets forth the rights of individual landowners. Title II: Education in Agriculture Management - Directs the Secretary to: (1) establish within the Department of the Interior (Department) a specified number of Indian and Alaska Native student agricultural resources intern positions; (2) maintain a cooperative education program to recruit Indian and Alaska Native students for Federal service in Indian agricultural or natural resources related positions; and (3) establish postgraduate recruitment, education (postgraduate intergovernmental internships), and training programs in such areas. Authorizes a scholarship-obligated service program for Indian agricultural students to pursue related postsecondary and graduate programs. Authorizes cooperative agreements between the Department and Indian tribes for manpower and job training, environmental and natural resources materials, and land and facility improvements. Title III: General Provisions - Sets forth general provisions relating to the promulgation of regulations and trust responsibilities. Declares that nothing in this Act shall be construed to supersede or limit the authority of Federal, State, or local agencies otherwise authorized by law to provide services to Indians. Authorizes appropriations. Declares that activities required under title II may only be funded from appropriations made pursuant to this Act. Requires coordination of such activities, to the greatest extent possible, with activities funded from other sources.
+
+	</summary>
+</bill>

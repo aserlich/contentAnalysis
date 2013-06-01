@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="3184" updated="2010-04-19T07:27:26-04:00">
+	<state datetime="1993-09-29">REFERRED</state>
+	<status><introduced datetime="1993-09-29"/></status>
+
+	<introduced datetime="1993-09-29"/>
+	<titles>
+		<title type="short" as="introduced">Semiautomatic Assault Weapon Violence Prevention Act of 1993</title>
+		<title type="official" as="introduced">To prohibit the transfer or possession of semiautomatic assault weapons, and for other purposes.</title>
+	</titles>
+	<sponsor id="409154"/>
+	<cosponsors>
+		<cosponsor id="400295" joined="1994-03-02"/>
+		<cosponsor id="400170" joined="1993-11-03"/>
+		<cosponsor id="407124" joined="1993-10-06"/>
+		<cosponsor id="400306" joined="1993-11-03"/>
+		<cosponsor id="400354" joined="1993-10-14"/>
+		<cosponsor id="404375" joined="1993-11-03"/>
+		<cosponsor id="411947" joined="1993-10-06"/>
+		<cosponsor id="404978" joined="1993-11-03"/>
+		<cosponsor id="402152" joined="1993-10-06"/>
+		<cosponsor id="400256" joined="1993-10-14"/>
+		<cosponsor id="400615" joined="1993-11-03"/>
+		<cosponsor id="400438" joined="1993-11-03"/>
+		<cosponsor id="400243" joined="1993-10-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-29"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-10-07"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+		<action datetime="1994-05-05"><committee name="House Committee on Judiciary"/><text>See H.R.4296.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4296" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Assault weapons"/>
+		<term name="Firearms control"/>
+		<term name="Foreign trade"/>
+		<term name="Identification devices"/>
+		<term name="Import restrictions"/>
+		<term name="Labeling"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/29/1993--Introduced.
+Semiautomatic Assault Weapon Violence Prevention Act of 1993 - Amends the Federal criminal code to: (1) make it unlawful to transfer or possess a semiautomatic assault weapon; and (2) list weapons classified as semiautomatic assault weapons. Makes this Act inapplicable to the transfer or possession of a weapon: (1) by a Federal or State agency; (2) that was lawfully possessed before this Act's enactment or, in the case of a semiautomatic firearm designated as a semiautomatic assault weapon under this Act, before the designation is made; or (3) by a licensed manufacturer or importer for purposes of authorized testing or experimentation. Directs the Secretary of the Treasury to designate a rifle, pistol, or shotgun that is a semiautomatic firearm and meets specified criteria as a semiautomatic assault weapon. Requires the serial numbers of such weapons to clearly show if they were manufactured or imported after this Act's effective date.
+
+	</summary>
+</bill>

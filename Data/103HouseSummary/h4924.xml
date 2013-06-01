@@ -1,0 +1,78 @@
+<bill session="103" type="h" number="4924" updated="2010-04-19T11:59:06-04:00">
+	<state datetime="1994-10-22">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-22" /></status>
+
+	<introduced datetime="1994-08-09"/>
+	<titles>
+		<title type="short" as="introduced">Rhinoceros and Tiger Conservation Act of 1994</title>
+		<title type="short" as="passed house">Rhinoceros and Tiger Conservation Act of 1994</title>
+		<title type="short" as="enacted">Rhinoceros and Tiger Conservation Act of 1994</title>
+		<title type="official" as="introduced">To assist in the conservation of rhinoceros and tigers by supporting and providing financial resources for the conservation programs of nations whose activities directly or indirectly affect rhinoceros and tiger populations, and of the CITES Secretariat.</title>
+	</titles>
+	<sponsor id="404068"/>
+	<cosponsors>
+		<cosponsor id="410496" joined="1994-08-09"/>
+		<cosponsor id="401310" joined="1994-08-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-09"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1994-08-10"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Subcommittee on Environment and Natural Resources Discharged.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-08-11"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-09-26T17:38:00-04:00"><text>Reported by the Committee on Merchant Marine and Fisheries. H. Rept. 103-748.</text></action>
+		<calendar number="411" datetime="1994-09-26T17:39:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 411.</text></calendar>
+		<action datetime="1994-09-27T17:01:00-04:00"><text>Mr. Studds asked unanimous consent to discharge the Committee of the Whole House on the State of the Union.</text></action>
+		<action datetime="1994-09-27T17:02:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H9869-9873"/></action>
+		<vote how="without objection" type="vote" datetime="1994-09-27T17:03:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-09-27T17:03:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<calendar under="General Orders" number="692" datetime="1994-09-28" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 692.</text></calendar>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-08" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote. (consideration: CR 10/7/1994 S14960)</text></vote>
+		<topresident datetime="1994-10-08" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-12"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-18" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-22" ><text>Signed by President.</text></signed>
+		<enacted number="103-391" type="public" datetime="1994-10-22"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-391.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3987" />
+		<bill relation="unknown" session="103" type="h" number="3987" />
+	</relatedbills>
+	<subjects>
+		<term name="Animals"/>
+		<term name="American economic assistance"/>
+		<term name="Budgets"/>
+		<term name="California"/>
+		<term name="Economic policy"/>
+		<term name="Endangered animals"/>
+		<term name="Environmental education"/>
+		<term name="Environmental protection"/>
+		<term name="Foreign aid"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Government trust funds"/>
+		<term name="Habitat conservation"/>
+		<term name="International affairs"/>
+		<term name="Names"/>
+		<term name="Natural resources"/>
+		<term name="New Jersey"/>
+		<term name="Public buildings"/>
+		<term name="Sustainable development"/>
+		<term name="Treaties"/>
+		<term name="Water resources"/>
+		<term name="Wetland ecology"/>
+		<term name="Wildlife conservation"/>
+		<term name="Wildlife refuges"/>
+	</subjects>
+	<amendments>
+		<amendment number="h888"/>
+	</amendments>
+	<summary>
+	9/27/1994--Passed House amended. Rhinoceros and Tiger Conservation Act of 1994 - Requires the Secretary of the Interior to provide financial assistance for conservation of rhinoceros and tiger projects. Authorizes the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) Secretariat, or any other person, to submit to the Secretary a project proposal for the conservation of such animals. Provides for approval criteria and project reporting. Directs the Secretary to consider projects which will enhance sustainable development programs to ensure effective, long-term conservation of rhinoceros and tigers. (Sec. 6) Establishes in the Treasury the Rhinoceros and Tiger Conservation Fund. Provides for Fund deposits, Fund use, and acceptance and use of donations. (Sec. 7) Authorizes appropriations.
+
+	</summary>
+</bill>

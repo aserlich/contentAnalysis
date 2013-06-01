@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="2297" updated="2010-04-19T05:10:05-04:00">
+	<state datetime="1993-05-27">REFERRED</state>
+	<status><introduced datetime="1993-05-27"/></status>
+
+	<introduced datetime="1993-05-27"/>
+	<titles>
+		<title type="official" as="introduced">To remove certain restrictions applicable to the Cumberland Gap National Historical Park, and for other purposes.</title>
+	</titles>
+	<sponsor id="400043"/>
+	<cosponsors>
+		<cosponsor id="400340" joined="1993-05-27"/>
+		<cosponsor id="400081" joined="1993-05-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-27"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-07-06"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-07-27"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-07-29"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Text of Measure Incorporated into H.R.1584.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Parks"/>
+		<term name="Commemorations"/>
+		<term name="Historic sites"/>
+		<term name="Kentucky"/>
+		<term name="Land transfers"/>
+		<term name="National parks"/>
+		<term name="Tennessee"/>
+		<term name="Virginia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/27/1993--Introduced.
+Removes restrictions prohibiting the Secretary of the Interior from using appropriated funds to purchase lands within the Cumberland Gap National Historical Park in Tennessee, Kentucky, and Virginia.
+
+	</summary>
+</bill>

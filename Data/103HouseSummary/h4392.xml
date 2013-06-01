@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="4392" updated="2010-04-19T10:35:37-04:00">
+	<state datetime="1994-05-11">REFERRED</state>
+	<status><introduced datetime="1994-05-11"/></status>
+
+	<introduced datetime="1994-05-11"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Federal Property and Administrative Services Act of 1949 to authorize the distribution of Federal surplus property to nonprofit organizations providing assistance to the hungry and the indigent.</title>
+	</titles>
+	<sponsor id="407399"/>
+	<cosponsors>
+		<cosponsor id="404097" joined="1994-05-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-11"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-05-17"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government property"/>
+		<term name="Charities"/>
+		<term name="Food"/>
+		<term name="Food relief"/>
+		<term name="Hunger"/>
+		<term name="Nonprofit organizations"/>
+		<term name="Poor"/>
+		<term name="Social services"/>
+		<term name="Surplus government property"/>
+		<term name="Tax-exempt organizations"/>
+		<term name="Taxation"/>
+		<term name="Welfare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/11/1994--Introduced.
+Amends the Federal Property and Administrative Services Act of 1949 to direct the Administrator of General Services to transfer surplus Federal property to certain tax-exempt nonprofit organizations to assist the hungry or the indigent.
+
+	</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="3686" updated="2010-04-19T08:45:18-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Safe Drinking Water Act to suspend the requirements of that Act until the costs of implementing those requirements are fully funded by the Federal Government.</title>
+	</titles>
+	<sponsor id="300083"/>
+	<cosponsors>
+		<cosponsor id="400505" joined="1993-11-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-12-20"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Water"/>
+		<term name="Environmental protection"/>
+		<term name="Federal-state relations"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="Potable water"/>
+		<term name="State and local government"/>
+		<term name="Water pollution"/>
+		<term name="Water purification"/>
+		<term name="Water quality"/>
+		<term name="Water resources"/>
+		<term name="Water supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Amends the Safe Drinking Water Act to provide that provisions of such Act that impose requirements on States shall be treated as recommendations and compliance by States shall be voluntary until the costs of implementing such provisions (including costs to local governments) are fully funded by the Federal Government.
+
+	</summary>
+</bill>

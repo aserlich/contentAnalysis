@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="273" updated="2010-04-18T23:42:15-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To deem the Florida Panther to be an endangered species under the Endangered Species Act of 1973.</title>
+	</titles>
+	<sponsor id="400596"/>
+	<cosponsors>
+		<cosponsor id="400156" joined="1993-01-05"/>
+		<cosponsor id="401014" joined="1993-06-22"/>
+		<cosponsor id="400344" joined="1993-01-05"/>
+		<cosponsor id="400388" joined="1993-01-05"/>
+		<cosponsor id="400028" joined="1993-01-05"/>
+		<cosponsor id="400439" joined="1993-01-05"/>
+		<cosponsor id="406790" joined="1993-01-05"/>
+		<cosponsor id="400369" joined="1993-01-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-01-29"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1993-01-29"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Interior.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Endangered animals"/>
+		<term name="Florida"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Makes the Florida panther an endangered species for purposes of the Endangered Species Act of 1973.
+
+	</summary>
+</bill>

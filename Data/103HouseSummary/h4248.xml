@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="4248" updated="2010-04-19T10:13:05-04:00">
+	<state datetime="1994-04-19">REFERRED</state>
+	<status><introduced datetime="1994-04-19"/></status>
+
+	<introduced datetime="1994-04-19"/>
+	<titles>
+		<title type="short" as="introduced">Library of Congress Book Protection Act of 1994</title>
+		<title type="official" as="introduced">To provide for the protection of books and materials from the Library of Congress, and for other purposes.</title>
+	</titles>
+	<sponsor id="404068"/>
+	<cosponsors>
+		<cosponsor id="400370" joined="1994-05-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-19"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1994-04-21"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Libraries and Memorials.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Libraries and Memorials" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1900" />
+	</relatedbills>
+	<subjects>
+		<term name="Congressional agencies"/>
+		<term name="Administrative procedure"/>
+		<term name="Books"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Government information"/>
+		<term name="Government publications"/>
+		<term name="Government trust funds"/>
+		<term name="Humanities"/>
+		<term name="Libraries"/>
+		<term name="Library of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/19/1994--Introduced.
+Library of Congress Book Protection Act of 1994 - Requires the Librarian of Congress to promulgate regulations to: (1) establish a schedule of late fines for any borrower who has a book on loan for more than 70 days; (2) assess a late fine on such borrower; (3) suspend his or her loan privileges and that of all borrowers on his or her office loan account if the borrower has not returned a book after such period; (4) reinstate the loan privileges of any borrower after the return of the book and the payment of all late fines; and (5) provide for waivers, at the discretion of the Librarian, with regard to all or any part of an assessed late fine and the suspension of all or any part of the borrower's loan privileges. Requires the Librarian to establish a Late Book Fine Fund to be available to the Librarian without fiscal year limitation for general operating expenses of the Library of Congress and the replacement of lost or stolen books. Prohibits Federal funds from being used to pay the assessed late fine. Imposes a fine for such violation. Requires the Librarian to include in the annual report submitted to the Congress: (1) the estimated number of books that are missing from the Library due to borrowers who have had loan privileges suspended; (2) the name of any office with an office loan account that includes any borrower who has had loan privileges suspended and has been assessed late fines that have not been paid for more than one month; (3) the total amount of such fines assessed to each named office; (4) all monies deposited in the Fund; and (5) the amounts and uses of expenditures from the Fund.
+
+	</summary>
+</bill>

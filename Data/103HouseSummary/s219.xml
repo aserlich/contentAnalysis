@@ -1,0 +1,41 @@
+<bill session="103" type="s" number="219" updated="2012-07-17T04:57:08-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="short" as="introduced">Monetary Policy Reform Act of 1993</title>
+		<title type="official" as="introduced">A bill to provide for a Federal Open Market Advisory Committee, and for other purposes.</title>
+	</titles>
+	<sponsor id="300086"/>
+	<cosponsors>
+		<cosponsor id="409580" joined="1993-01-26"/>
+		<cosponsor id="409225" joined="1993-01-26"/>
+		<cosponsor id="300037" joined="1993-01-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S735-737)</text></action>
+		<action datetime="1993-01-26" state="REFERRED"><text>Read twice and referred to the Committee on Banking.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="586" />
+	</relatedbills>
+	<subjects>
+		<term name="Money"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Finance and financial sector"/>
+		<term name="Monetary policy"/>
+		<term name="Open market operations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Monetary Policy Reform Act of 1993 - Amends the Federal Reserve Act to establish the Federal Open Market Advisory Committee to advise the Board of Governors of the Federal Reserve System on the conduct of open-market operations.
+
+	</summary>
+</bill>

@@ -1,0 +1,94 @@
+<bill session="103" type="s" number="20" updated="2012-07-17T05:46:24-04:00">
+	<state datetime="1993-08-03">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-08-03" /></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="short" as="introduced">Government Performance and Results Act of 1993</title>
+		<title type="short" as="passed senate">Government Performance and Results Act of 1993</title>
+		<title type="short" as="enacted">Government Performance and Results Act of 1993</title>
+		<title type="official" as="introduced">A bill to provide for the establishment, testing, and evaluation of strategic planning and performance measurement in the Federal Government, and for other purposes.</title>
+		<title type="official" as="amended by senate">An Act to provide for the establishment of strategic planning and performance measurement in the Federal Government, and for other purposes.</title>
+	</titles>
+	<sponsor id="400565"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="1993-01-21"/>
+		<cosponsor id="300052" joined="1993-02-16"/>
+		<cosponsor id="409923" joined="1993-01-27"/>
+		<cosponsor id="300043" joined="1993-04-22"/>
+		<cosponsor id="300067" joined="1993-03-24"/>
+		<cosponsor id="300037" joined="1993-03-16"/>
+		<cosponsor id="300082" joined="1993-04-21"/>
+		<cosponsor id="300017" joined="1993-04-22"/>
+		<cosponsor id="300009" joined="1993-01-27"/>
+		<cosponsor id="400564" joined="1993-01-21"/>
+		<cosponsor id="300070" joined="1993-01-21"/>
+		<cosponsor id="300023" joined="1993-03-24"/>
+		<cosponsor id="300046" joined="1993-01-21"/>
+		<cosponsor id="300048" joined="1993-04-21"/>
+		<cosponsor id="404598" joined="1993-01-21"/>
+		<cosponsor id="300069" joined="1993-03-30"/>
+		<cosponsor id="402727" joined="1993-03-03"/>
+		<cosponsor id="300001" joined="1993-01-21"/>
+		<cosponsor id="300155" joined="1993-01-27"/>
+		<cosponsor id="407663" joined="1993-01-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S406)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<action datetime="1993-03-11"><committee name="Committee on Governmental Affairs"/><text>Committee on Governmental Affairs. Hearings held.</text></action>
+		<calendar datetime="1993-03-24"  state="REPORTED"><committee name="Committee on Governmental Affairs"/><text>Committee on Governmental Affairs. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1993-06-16"><text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn with amendments and an amendment to the title. With written report No. 103-58. Additional views filed.</text></action>
+		<calendar under="General Orders" number="96" datetime="1993-06-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 96.</text></calendar>
+		<action datetime="1993-06-23"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S7739-7748"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-06-23" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with amendments and an amendment to the Title by Voice Vote.</text></vote>
+		<action datetime="1993-06-24T17:42:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-06-24"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-06-24T18:54:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-07-15T17:53:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H4734-4737"/></action>
+		<action datetime="1993-07-15T17:53:00-04:00"><text>Mr. English (OK) asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<vote how="without objection" type="vote2" datetime="1993-07-15T18:00:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-07-15T18:00:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-07-15" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-07-22" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-08-03" ><text>Signed by President.</text></signed>
+		<enacted number="103-62" type="public" datetime="1993-08-03"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-62.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="826" />
+		<bill relation="unknown" session="103" type="h" number="826" />
+	</relatedbills>
+	<subjects>
+		<term name="Productivity in government"/>
+		<term name="Administrative procedure"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cost accounting"/>
+		<term name="Employee training"/>
+		<term name="Federal budget process"/>
+		<term name="Federal budgets"/>
+		<term name="Federal employees"/>
+		<term name="Federal officials"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="House rules and procedure"/>
+		<term name="Legislative resolutions"/>
+		<term name="Management by objectives"/>
+		<term name="Planning-programming-budgeting"/>
+		<term name="Postal service"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Standards"/>
+		<term name="Strategic planning"/>
+		<term name="United States Postal Service"/>
+	</subjects>
+	<amendments>
+		<amendment number="s509"/>
+	</amendments>
+	<summary>
+	6/23/1993--Passed Senate amended. Government Performance and Results Act of 1993 - Requires executive agency heads to submit to the Director of the Office of Management and Budget (OMB) and the Congress a strategic plan for performance goals of their agency's program activities. Requires such plan to cover at least a five-year period and to be updated at least every three years. Requires the inclusion of performance plans in the President's budget. Directs the Director to require each agency to prepare annual performance plans covering each program activity in the agency's budget. Requires executive agency heads to report annually to the President and the Congress on program performance for the previous fiscal year, setting forth performance indicators, actual program performance, and a comparison with plan goals for that fiscal year. Specifies the contents of such reports. Authorizes the Director to exempt any agency with annual outlays of $20 million or less from strategic and performance plan reporting requirements. Allows performance plans to include proposals to waive administrative procedural requirements and controls in return for specific individual or organization accountability to achieve a performance goal. Requires the Director to designate: (1) no fewer than ten agencies (representing a range of Government functions) as pilot projects in performance measurement; (2) no fewer than five agencies (selected from agencies in performance measurement pilot projects) as pilot projects in managerial accountability and flexibility; and (3) no fewer than five agencies (selected from agencies in performance measurement pilot projects) as pilot projects in performance budgeting. Sets forth provisions with respect to strategic and performance planning at the U.S. Postal Service. Directs the Office of Personnel Management to develop a strategic planning and performance measurement training component for its management training.
+
+	</summary>
+</bill>

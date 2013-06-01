@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="1629" updated="2010-04-19T03:25:53-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 18, United States Code, with respect to the use and sale of military medals and decorations.</title>
+	</titles>
+	<sponsor id="407320"/>
+	<cosponsors>
+		<cosponsor id="410147" joined="1993-04-01"/>
+		<cosponsor id="403545" joined="1993-04-01"/>
+		<cosponsor id="408553" joined="1993-04-01"/>
+		<cosponsor id="400594" joined="1993-04-01"/>
+		<cosponsor id="408476" joined="1993-04-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-04-05"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+		<action datetime="1994-04-21"><committee name="House Committee on Judiciary"/><text>See H.R.4092.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4092" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Barter"/>
+		<term name="Commemorations"/>
+		<term name="Congressional Medal of Honor"/>
+		<term name="Counterfeiting"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Military medals, decorations, etc."/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Amends the Federal criminal code to delete the $250 cap on the maximum fine for the unauthorized wearing, manufacturing, or selling of military decorations or medals. Specifies that if the decoration or medal involved in the offense is a Congressional Medal of Honor the offender shall be fined or imprisoned for not more than one year, or both. Includes as sales, with respect to a Congressional Medal of Honor, trades, barters, or exchanges for anything of value.
+
+	</summary>
+</bill>

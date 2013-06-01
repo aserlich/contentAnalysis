@@ -1,0 +1,76 @@
+<bill session="103" type="s" number="1130" updated="2012-07-17T06:31:33-04:00">
+	<state datetime="1993-10-08">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-10-08" /></status>
+
+	<introduced datetime="1993-06-17"/>
+	<titles>
+		<title type="short" as="introduced">Federal Employees Leave Sharing Amendments Act of 1993</title>
+		<title type="short" as="passed house">Federal Employees Leave Sharing Amendments Act of 1993</title>
+		<title type="short" as="enacted">Federal Employees Leave Sharing Amendments Act of 1993</title>
+		<title type="official" as="introduced">A bill to provide for continuing authorization of Federal employee leave transfer and leave bank programs, and for other purposes.</title>
+	</titles>
+	<sponsor id="408939"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-06-17"/>
+		<cosponsor id="404598" joined="1993-06-17"/>
+		<cosponsor id="300056" joined="1993-06-22"/>
+		<cosponsor id="409580" joined="1993-06-23"/>
+		<cosponsor id="300036" joined="1993-06-17"/>
+		<cosponsor id="300001" joined="1993-06-17"/>
+		<cosponsor id="300073" joined="1993-06-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-17" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S7517)</text></action>
+		<action datetime="1993-06-17" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<calendar datetime="1993-06-24"  state="REPORTED"><committee name="Committee on Governmental Affairs"/><text>Committee on Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-06-30"><text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="124" datetime="1993-06-30" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 124.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-07-14" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S8731"/></vote>
+		<action datetime="1993-07-15T10:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-07-15"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-07-15"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-07-19"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+		<action datetime="1993-07-22"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-07-22"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-08-04"><committee name="House Committee on Post Office and Civil Service"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-08-04" ><committee name="House Committee on Post Office and Civil Service"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-09-21T12:53:00-04:00"><text>Reported (Amended) by the Committee on Post Office and Civil Service. H. Rept. 103-246.</text></action>
+		<calendar number="137" datetime="1993-09-21T12:54:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 137.</text></calendar>
+		<action datetime="1993-09-21T14:47:00-04:00"><text>Ms. Norton moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-09-21T14:48:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6801-6802"/></action>
+		<action datetime="1993-09-21T14:48:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote2" datetime="1993-09-21T14:51:00-04:00" where="h" result="pass"  state="PASS_BACK:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-09-21T14:53:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-09-22"><text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text></action>
+		<vote how="by Voice Vote" type="pingpong" datetime="1993-09-23" where="s" result="pass"  state="PASSED:BILL"><text>Senate agreed to House amendment by Voice Vote.</text><reference label="consideration" ref="CR S12463"/></vote>
+		<topresident datetime="1993-09-23" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-09-24"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-09-28" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-10-08" ><text>Signed by President.</text></signed>
+		<enacted number="103-103" type="public" datetime="1993-10-08"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-103.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Administrative procedure"/>
+		<term name="Emergency medical services"/>
+		<term name="Health"/>
+		<term name="Leave of absence"/>
+		<term name="Office of Personnel Management"/>
+		<term name="Sick leave"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/21/1993--Passed House amended. Federal Employees Leave Sharing Amendments Act of 1993 - Amends the Federal Employees Leave Sharing Act of 1988 to repeal the termination of the Federal employee leave transfer and leave bank programs (thus making them permanent). Revises the definition of medical emergency under such programs to exclude any advanced leave from consideration in determining whether any paid leave is available to an employee. Allows an employee whose medical emergency has not terminated, but who has exhausted all transferred leave, to use any annual or sick leave accrued during the period of the medical emergency. Precludes any annual or sick leave accrued during the period of a medical emergency from being: (1) credited to an employee whose medical emergency terminates as a result of the employee's separation from service; or (2) used for any purpose by an employee whose medical emergency terminates for such reason. Requires the Office of Personnel Management (OPM) to prescribe regulations under which an employee participating in a leave bank program may also make or receive donations under a leave transfer program. Sets forth coordination rules for employee participation in both programs in connection with the same medical emergency. Repeals the demonstration project status of the leave bank program.
+
+	</summary>
+</bill>

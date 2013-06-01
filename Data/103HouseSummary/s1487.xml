@@ -1,0 +1,81 @@
+<bill session="103" type="s" number="1487" updated="2012-07-17T05:34:24-04:00">
+	<state datetime="1993-10-28">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-10-28" /></status>
+
+	<introduced datetime="1993-09-23"/>
+	<titles>
+		<title type="short" as="passed house">Middle East Peace Facilitation Act of 1993</title>
+		<title type="short" as="enacted">Middle East Peace Facilitation Act of 1993</title>
+		<title type="official" as="introduced">A bill entitled &quot;Middle East Peace Facilitation Act of 1993&quot;.</title>
+	</titles>
+	<sponsor id="408597"/>
+	<cosponsors>
+		<cosponsor id="300154" joined="1993-09-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-23" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S12388)</text></action>
+		<action datetime="1993-09-23" state="REFERRED"><text>Read twice and referred to the Committee on Foreign Relations.</text></action>
+		<calendar datetime="1993-09-28"  state="REPORTED"><committee name="Committee on Foreign Relations"/><text>Committee on Foreign Relations. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action datetime="1993-09-28"><text>Committee on Foreign Relations. Reported to Senate by Senator Pell with an amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="213" datetime="1993-09-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 213.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-09-29" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text><reference label="consideration" ref="CR S12749"/></vote>
+		<action datetime="1993-09-30T13:27:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-09-30"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-09-30T16:40:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-10-06"><text>Referred jointly to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-10-06"><text>Referred jointly to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-10-07"><committee name="Committee on Foreign Relations"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-07" ><committee name="Committee on Foreign Relations"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-10-12T12:36:00-04:00"><text>Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 103-283, Part I.</text></action>
+		<action datetime="1993-10-12T13:56:00-04:00"><text>Mr. Berman moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-10-12T13:56:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7693-7696"/></action>
+		<action datetime="1993-10-12T13:56:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote2" datetime="1993-10-12T14:14:00-04:00" where="h" result="pass"  state="PASS_BACK:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-10-12T14:14:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-10-13"><text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text></action>
+		<action datetime="1993-10-15"><text>Senate agreed to the House amendment by Voice Vote.</text><reference label="consideration" ref="CR S13519"/></action>
+		<action datetime="1993-10-15"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-10-15" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-10-18" state="PASS_OVER:SENATE"><committee name="Committee on Foreign Relations"/><text>Referred to the Subcommittee on International Development, Finance, Trade and Monetary Policy.</text></action>
+		<topresident datetime="1993-10-20"  state="PASS_BACK:HOUSE"><text>Presented to President.</text></topresident>
+		<signed datetime="1993-10-28" ><text>Signed by President.</text></signed>
+		<enacted number="103-125" type="public" datetime="1993-10-28"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-125.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting" />
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="International Development, Finance, Trade and Monetary Policy" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="American economic assistance"/>
+		<term name="Arab countries"/>
+		<term name="Arab-Israeli conflict"/>
+		<term name="Commercial blacklisting"/>
+		<term name="Congress"/>
+		<term name="Congress and foreign policy"/>
+		<term name="Congressional oversight"/>
+		<term name="Diplomacy"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="International agencies"/>
+		<term name="International monetary system"/>
+		<term name="Israel"/>
+		<term name="Multilateral development banks"/>
+		<term name="Norway"/>
+		<term name="Palestinians"/>
+		<term name="Peace treaties"/>
+		<term name="Recognition (International law)"/>
+		<term name="United Nations economic assistance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/12/1993--Passed House amended. Middle East Peace Facilitation Act of 1993 - Grants the President the authority to suspend specified provisions of law which prohibit foreign and United Nations assistance to the Palestine Liberation Organization (PLO), the receipt or expenditure of PLO funds, and PLO membership in the International Monetary Fund, upon certification to specified congressional committees that: (1) such waiver is in the national interest; and (2) the PLO continues to abide by commitments made in letters to Israel and the Foreign Minister of Norway and under the Declaration of Principles signed in September 1993. Makes such suspensions effective until January 1, 1994, or an earlier date specified by the President. Declares that the Congress expects that any extension of the President's authority will be conditional on the PLO: (1) renouncing the Arab League boycott of Israel; and (2) urging the Arab League, and cooperating with efforts by the President, to end such boycott. Provides that this Act supersedes similar provisions of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1994.
+
+	</summary>
+</bill>

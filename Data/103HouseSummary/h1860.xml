@@ -1,0 +1,59 @@
+<bill session="103" type="h" number="1860" updated="2010-04-19T04:02:10-04:00">
+	<state datetime="1993-04-26">REFERRED</state>
+	<status><introduced datetime="1993-04-26"/></status>
+
+	<introduced datetime="1993-04-26"/>
+	<titles>
+		<title type="short" as="introduced">Combined Welfare Administration Act of 1993</title>
+		<title type="official" as="introduced">To authorize a combined grant to States for administrative costs necessary to carry out the program of aid to families with dependent children under title IV of the Social Security Act, the State plan for medical assistance under title XIX of such Act, and the Food Stamp program, to eliminate enhanced Federal payments for such costs under such programs, and for other purposes.</title>
+	</titles>
+	<sponsor id="400649"/>
+	<cosponsors>
+		<cosponsor id="300151" joined="1994-04-12"/>
+		<cosponsor id="400010" joined="1993-11-22"/>
+		<cosponsor id="408553" joined="1994-06-08"/>
+		<cosponsor id="412001" joined="1993-11-21"/>
+		<cosponsor id="409618" joined="1994-07-27"/>
+		<cosponsor id="400221" joined="1994-02-02"/>
+		<cosponsor id="411997" joined="1993-11-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-26"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-04-26"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-04-26"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Department Operations and Nutrition.</text></action>
+		<action datetime="1993-05-06"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+		<action datetime="1993-05-12"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Department Operations and Nutrition" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public welfare"/>
+		<term name="Aid to dependent children"/>
+		<term name="Auditing"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Food stamps"/>
+		<term name="Grants-in-aid"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Public assistance programs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/26/1993--Introduced.
+Combined Welfare Administration Act of 1993 - Authorizes the Secretary of Health and Human Services to make a combined grant to States for administrative costs necessary to carry out the Aid to Families with Dependent Children program under part A of title IV of the Social Security Act, the Medicaid program under title XIX of the Social Security Act, and the Food Stamp program. Eliminates enhanced Federal payments for State administrative activities under such programs. Provides for allotment and payment of funds under such grant program, as well as State reports on the intended use of such allotments. Sets forth audit requirements.
+
+	</summary>
+</bill>

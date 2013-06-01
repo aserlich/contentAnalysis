@@ -1,0 +1,53 @@
+<bill session="103" type="hj" number="324" updated="2010-04-18T22:42:50-04:00">
+	<state datetime="1994-02-10">REFERRED</state>
+	<status><introduced datetime="1994-02-10"/></status>
+
+	<introduced datetime="1994-02-10"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to limit the number of years an individual may serve in certain positions in the Government of the United States, and for other purposes.</title>
+	</titles>
+	<sponsor id="409578"/>
+	<cosponsors>
+		<cosponsor id="405258" joined="1994-09-13"/>
+		<cosponsor id="401774" joined="1994-02-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-10"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-02-15"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="277" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal officials"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Cabinet officers"/>
+		<term name="Congress"/>
+		<term name="Congressional terms of office"/>
+		<term name="Constitution"/>
+		<term name="Constitutional amendments"/>
+		<term name="Executive departments"/>
+		<term name="Government employees"/>
+		<term name="Judicial tenure"/>
+		<term name="Law"/>
+		<term name="Politics and government"/>
+		<term name="Presidential appointments"/>
+		<term name="Presidential term of office"/>
+		<term name="Presidents"/>
+		<term name="Supreme Court justices"/>
+		<term name="Term limits"/>
+		<term name="Vice Presidential term of office"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/1994--Introduced.
+Constitutional Amendment - Prohibits a person from serving in the U.S. Government in the following positions, either individually or cumulatively, for more than 12 years: (1) President of the United States; (2) Vice-President of the United States; (3) member of the President's Cabinet; (4) Member of Congress; (5) a position within the District of Columbia or a contiguous area for which appointment by the President is required, by and with the advice and consent of the Senate; and (6) Justice of the Supreme Court.
+
+	</summary>
+</bill>

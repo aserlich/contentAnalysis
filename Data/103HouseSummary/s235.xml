@@ -1,0 +1,69 @@
+<bill session="103" type="s" number="235" updated="2012-07-17T04:35:20-04:00">
+	<state datetime="1993-01-27">REFERRED</state>
+	<status><introduced datetime="1993-01-27"/></status>
+
+	<introduced datetime="1993-01-27"/>
+	<titles>
+		<title type="official" as="introduced">A bill to limit State taxation of certain pension income, and for other purposes.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-01-27"/>
+		<cosponsor id="300150" joined="1993-06-07"/>
+		<cosponsor id="300071" joined="1994-02-02"/>
+		<cosponsor id="300052" joined="1993-03-26"/>
+		<cosponsor id="300056" joined="1993-01-27"/>
+		<cosponsor id="409923" joined="1993-06-22"/>
+		<cosponsor id="403142" joined="1993-06-15"/>
+		<cosponsor id="400557" joined="1993-01-27"/>
+		<cosponsor id="400562" joined="1993-06-22"/>
+		<cosponsor id="300015" joined="1993-06-07"/>
+		<cosponsor id="300049" joined="1994-03-22"/>
+		<cosponsor id="400559" joined="1993-02-03"/>
+		<cosponsor id="300007" joined="1993-06-22"/>
+		<cosponsor id="300029" joined="1993-10-21"/>
+		<cosponsor id="406256" joined="1993-06-15"/>
+		<cosponsor id="300017" joined="1993-06-22"/>
+		<cosponsor id="300009" joined="1993-06-07"/>
+		<cosponsor id="403346" joined="1993-02-02"/>
+		<cosponsor id="402004" joined="1993-01-27"/>
+		<cosponsor id="300036" joined="1993-08-04"/>
+		<cosponsor id="407254" joined="1993-10-25"/>
+		<cosponsor id="300046" joined="1993-03-11"/>
+		<cosponsor id="400565" joined="1993-10-15"/>
+		<cosponsor id="300048" joined="1993-06-07"/>
+		<cosponsor id="300076" joined="1993-04-19"/>
+		<cosponsor id="300069" joined="1993-07-15"/>
+		<cosponsor id="300001" joined="1993-06-07"/>
+		<cosponsor id="300155" joined="1993-04-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-27" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S820-822)</text></action>
+		<action datetime="1993-01-27" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+		<action datetime="1993-06-15"><text>Sponsor introductory remarks on measure. (CR S7172-7173)</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="546" />
+		<bill relation="identical" session="103" type="h" number="702" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Civil service pensions"/>
+		<term name="Labor and employment"/>
+		<term name="Residence requirements"/>
+		<term name="Retirement income"/>
+		<term name="State taxation"/>
+		<term name="SOURCE TAX"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/1993--Introduced.
+Amends Federal law to prohibit any State from imposing an income tax on the pension income of any individual who is not a resident or domiciliary of that State.
+
+	</summary>
+</bill>

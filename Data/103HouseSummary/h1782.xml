@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="1782" updated="2010-04-19T03:49:47-04:00">
+	<state datetime="1993-04-21">REFERRED</state>
+	<status><introduced datetime="1993-04-21"/></status>
+
+	<introduced datetime="1993-04-21"/>
+	<titles>
+		<title type="short" as="introduced">Chesapeake Bay Protection Act</title>
+		<title type="official" as="introduced">To require the Administrator of the Environmental Protection Agency to apply the hazard ranking system under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to areas in the Chesapeake Bay Program in the same manner as such system is applied to areas in the National Estuary Program.</title>
+	</titles>
+	<sponsor id="400149"/>
+	<cosponsors>
+		<cosponsor id="400064" joined="1993-04-21"/>
+		<cosponsor id="400524" joined="1993-04-21"/>
+		<cosponsor id="401383" joined="1993-04-21"/>
+		<cosponsor id="400017" joined="1993-04-21"/>
+		<cosponsor id="407672" joined="1993-04-21"/>
+		<cosponsor id="400189" joined="1993-04-21"/>
+		<cosponsor id="400438" joined="1993-04-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-21"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-04-21"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-04-30"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+		<action datetime="1993-05-03"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Administrative procedure"/>
+		<term name="Environmental Protection Agency"/>
+		<term name="Estuarine area conservation"/>
+		<term name="Hazardous waste disposal"/>
+		<term name="Liability for toxic substances pollution damages"/>
+		<term name="Maryland"/>
+		<term name="Pennsylvania"/>
+		<term name="Virginia"/>
+		<term name="Water pollution control"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/21/1993--Introduced.
+Chesapeake Bay Protection Act - Directs the Administrator of the Environmental Protection Agency to promulgate an amendment to the hazard ranking system under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to require such system to be applied to areas under the Chesapeake Bay Program in the same manner as the system is applied to areas under the National Estuary Program. Requires such areas, at a minimum, to be considered environmentally sensitive and assigned the same rating value as areas under the estuary program.
+
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="1907" updated="2012-07-17T05:41:19-04:00">
+	<state datetime="1994-04-14">REPORTED</state>
+	<status><calendar datetime="1994-04-14" /></status>
+
+	<introduced datetime="1994-03-08"/>
+	<titles>
+		<title type="official" as="introduced">A bill to require that the Department of Veterans Affairs adjudicate and resolve certain claims relating to medical malpractice in the health care services provided by the Department.</title>
+	</titles>
+	<sponsor id="300084"/>
+	<cosponsors>
+		<cosponsor id="400566" joined="1994-03-21"/>
+		<cosponsor id="300031" joined="1994-03-08"/>
+		<cosponsor id="300046" joined="1994-03-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-08" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2502-2504, S2507)</text></action>
+		<action datetime="1994-03-08" state="REFERRED"><text>Read twice and referred to the Committee on Veterans.</text></action>
+		<action datetime="1994-03-24"><committee name="Committee on Veterans"/><text>Committee on Veterans. Hearings held.</text></action>
+		<calendar datetime="1994-04-14"  state="REPORTED"><committee name="Committee on Veterans"/><text>Committee on Veterans. Provisions of measure incorporated into measure S. 1908 ordered to be reported.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1908" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Government liability"/>
+		<term name="Health"/>
+		<term name="Law"/>
+		<term name="Malpractice"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/8/1994--Introduced.
+Directs the Secretary of Veterans Affairs to: (1) determine whether the injury of any veteran as a result of medical treatment was caused by medical malpractice by the Department of Veterans Affairs; and (2) if so, provide appropriate compensation.
+
+	</summary>
+</bill>

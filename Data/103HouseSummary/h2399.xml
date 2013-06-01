@@ -1,0 +1,90 @@
+<bill session="103" type="h" number="2399" updated="2010-10-13T13:50:24-04:00">
+	<state datetime="1993-10-27">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-10-27" /></status>
+
+	<introduced datetime="1993-06-10"/>
+	<titles>
+		<title type="short" as="introduced">Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993</title>
+		<title type="short" as="passed house">Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993</title>
+		<title type="short" as="passed senate">Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993</title>
+		<title type="short" as="enacted">Catawba Indian Tribe of South Carolina land Claims Settlement Act of 1993</title>
+		<title type="official" as="introduced">To provide for the settlement of land claims of the Catawba Tribe of Indians in the State of South Carolina and the restoration of the Federal trust relationship with the Tribe, and for other purposes.</title>
+	</titles>
+	<sponsor id="403403"/>
+	<cosponsors>
+		<cosponsor id="400075" joined="1993-07-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-10"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-06-10"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-07-02"><committee name="House Committee on Natural Resources"/><text>Hearings Held by the Subcommittee on Native American Affairs Prior to Referral (Jul 2, 93).</text></action>
+		<action datetime="1993-07-06"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Native American Affairs.</text></action>
+		<action datetime="1993-07-12"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1993-09-09"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-09-09"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-09-13"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from HHS.</text></action>
+		<action datetime="1993-09-22"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-09-22"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-09-27T10:37:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-257, Part I.</text></action>
+		<action datetime="1993-09-27T13:38:00-04:00"><text>Mr. Richardson moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-09-27T13:40:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7002-7026"/></action>
+		<action datetime="1993-09-27T13:40:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-09-27T13:59:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-09-27T14:00:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-09-29"><text>Received in the Senate.</text></action>
+		<calendar under="General Orders" number="223" datetime="1993-10-04" calendar="Senate Legislative" ><text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 223.</text></calendar>
+		<action datetime="1993-10-05"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S13087"/></action>
+		<action datetime="1993-10-05"><text>Amendment SP 1022 proposed by Senator Lautenberg for Senator Inouye.</text></action>
+		<action datetime="1993-10-05"><text>Amendment SP 1022 agreed to in Senate by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-10-05" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-10-06"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-10-12T13:38:00-04:00"><text>Mr. Richardson moved that the House suspend the rules and agree to the Senate amendments.</text><reference label="consideration" ref="CR H7690"/></action>
+		<action datetime="1993-10-12T13:39:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="pingpong" datetime="1993-10-12T13:39:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.</text></vote>
+		<action datetime="1993-10-12T13:40:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-10-12" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-10-15" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-10-27" ><text>Signed by President.</text></signed>
+		<enacted number="103-116" type="public" datetime="1993-10-27"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-116.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1156" />
+		<bill relation="unknown" session="103" type="s" number="1156" />
+	</relatedbills>
+	<subjects>
+		<term name="Indians"/>
+		<term name="Aged"/>
+		<term name="Budgets"/>
+		<term name="Constitutions"/>
+		<term name="Economic policy"/>
+		<term name="Educational policy"/>
+		<term name="Enterprise zones"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Foreign trade"/>
+		<term name="Free ports and zones"/>
+		<term name="Gambling"/>
+		<term name="Government trust funds"/>
+		<term name="Income tax"/>
+		<term name="Indian claims"/>
+		<term name="Indian economic development"/>
+		<term name="Indian lands"/>
+		<term name="Land transfers"/>
+		<term name="Minorities"/>
+		<term name="Old age assistance"/>
+		<term name="South Carolina"/>
+		<term name="Taxation"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1022"/>
+	</amendments>
+	<summary>
+	10/5/1993--Passed Senate amended. Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993 - Restores and extends Federal recognition, rights, and services to the Catawba Nation (Tribe). Repeals the Termination Act (of 1959). (Sec. 5) Authorizes settlement appropriations. Directs the Secretary of the Interior (Secretary) to collect on behalf of the Tribe the additional Settlement Agreement funds from Federal, State, local, and private sources. (Sec. 6 through 11) Provides for: (1) ratification of prior transfers and extinguishment of aboriginal title, rights, and claims; (2) tribal membership; (3) transitional and provisional government; and (4) tribal and reservation governance (including discretionary organization under the Indian Reorganization Act), jurisdiction, and trust funds. Directs the Secretary to establish: (1) a Catawba Land Acquisition Trust Fund; (2) a Catawba Economic Development Trust Fund; (3) a Catawba Education Trust Fund; (4) a Catawba Social Services and Elderly Assistance Trust Fund; and (5) a Catawba Per Capita Payment Trust Fund. (Sec. 12) Provides for: (1) the conveyance of the Catawba Reservation by South Carolina to the United States as trustee; and (2) the expansion of the Reservation as prescribed by the Settlement Agreement. (Sec. 13) Authorizes the Tribe to acquire and dispose of non-Reservation properties. (Sec. 14) Makes the Indian Gaming Regulatory Act inapplicable to the Tribe. Permits games of chance as provided for in the Settlement Agreement and State legislation. (Sec. 15) Makes the Tribe eligible to operate an enterprise zone or general purpose foreign trade zone. States that any subsequent Federal law relating to Indians shall not apply unless specifically made applicable within South Carolina. (Sec. 16) States that nothing in this Act, the Settlement Agreement, or a State Act shall alter tax treatment under the Internal Revenue Code, except by reason of the restoration of the trust relationship between the United States and the Tribe.
+
+	</summary>
+</bill>

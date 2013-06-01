@@ -1,0 +1,172 @@
+<bill session="103" type="h" number="3276" updated="2012-07-17T05:01:57-04:00">
+	<state datetime="1993-11-08T13:08:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-08T13:08:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-10-13"/>
+	<titles>
+		<title type="short" as="introduced">Intermodal Surface Transportation Technical Corrections Act</title>
+		<title type="short" as="passed house">Intermodal Surface Transportation Technical Corrections Act</title>
+		<title type="official" as="introduced">To make technical corrections to title 23, United States Code, the Federal Transit Act, and the Intermodal Surface Transportation Efficiency Act of 1991, and for other purposes.</title>
+	</titles>
+	<sponsor id="400331"/>
+	<cosponsors>
+		<cosponsor id="407772" joined="1993-10-13"/>
+		<cosponsor id="400374" joined="1993-10-13"/>
+		<cosponsor id="400318" joined="1993-10-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-20" state="REFERRED"><committee name="House Committee on Public Works + Transportation" subcommittee="Surface Transportation"/><text>Hearings Held by the Subcommittee on Surface Transportation Prior to Referral.</text></action>
+		<action datetime="1993-04-21"><committee name="House Committee on Public Works + Transportation" subcommittee="Surface Transportation"/><text>Hearings Held by the Subcommittee on Surface Transportation Prior to Referral.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Public Works + Transportation" subcommittee="Surface Transportation"/><text>Hearings Held by the Subcommittee on Surface Transportation Prior to Referral.</text></action>
+		<action datetime="1993-04-28"><committee name="House Committee on Public Works + Transportation" subcommittee="Surface Transportation"/><text>Hearings Held by the Subcommittee on Surface Transportation Prior to Referral.</text></action>
+		<action datetime="1993-05-04"><committee name="House Committee on Public Works + Transportation" subcommittee="Surface Transportation"/><text>Hearings Held by the Subcommittee on Surface Transportation Prior to Referral.</text></action>
+		<action datetime="1993-10-13" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E2405-2406)</text></action>
+		<action datetime="1993-10-13" state="REFERRED"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-10-18"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Public Works + Transportation" subcommittee="Surface Transportation"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Public Works + Transportation" subcommittee="Surface Transportation"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-10-26"><committee name="House Committee on Public Works + Transportation"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-26"  state="REPORTED"><committee name="House Committee on Public Works + Transportation"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-11-08T12:00:00-05:00"><text>Reported (Amended) by the Committee on Public Works + Transportation. H. Rept. 103-337.</text></action>
+		<calendar number="184" datetime="1993-11-08T12:01:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 184.</text></calendar>
+		<action datetime="1993-11-08T12:59:00-05:00"><text>Mr. Rahall moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-08T12:59:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8887-8897"/></action>
+		<action datetime="1993-11-08T12:59:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-08T13:08:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-08T13:08:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-10"><text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3118" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Administrative procedure"/>
+		<term name="Airports"/>
+		<term name="Alcohol and youth"/>
+		<term name="Asphalt"/>
+		<term name="Automobile safety appliances"/>
+		<term name="Automotive engineering"/>
+		<term name="Bikeways"/>
+		<term name="Block grants"/>
+		<term name="Bridges"/>
+		<term name="California"/>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Colombia"/>
+		<term name="Commemorations"/>
+		<term name="Commerce"/>
+		<term name="Construction workers"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Department of Transportation"/>
+		<term name="Discrimination"/>
+		<term name="District of Columbia"/>
+		<term name="Driver education"/>
+		<term name="Driver licenses"/>
+		<term name="Drug abuse"/>
+		<term name="Drunk driving"/>
+		<term name="Earthquakes"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Emergency management"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Environmental assessment"/>
+		<term name="Environmental protection"/>
+		<term name="Families"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid highway program"/>
+		<term name="Federal aid to research"/>
+		<term name="Federal aid to transportation"/>
+		<term name="Ferries"/>
+		<term name="Fuel"/>
+		<term name="Gasoline tax"/>
+		<term name="Government lending"/>
+		<term name="Government operations and politics"/>
+		<term name="Government service contracts"/>
+		<term name="Harbors"/>
+		<term name="Highway engineering"/>
+		<term name="Highway maintenance"/>
+		<term name="Highway planning"/>
+		<term name="Highway research"/>
+		<term name="Housing and community development"/>
+		<term name="Illinois"/>
+		<term name="Indian lands"/>
+		<term name="Infrastructure"/>
+		<term name="Intermodal transportation"/>
+		<term name="International affairs"/>
+		<term name="Interstate commissions"/>
+		<term name="Interstate highway system"/>
+		<term name="Iowa"/>
+		<term name="Labor and employment"/>
+		<term name="Latin America"/>
+		<term name="Maryland"/>
+		<term name="Mass rapid transit"/>
+		<term name="Metropolitan areas"/>
+		<term name="Minimum wages"/>
+		<term name="Minorities"/>
+		<term name="Minority business enterprises"/>
+		<term name="Motor buses"/>
+		<term name="Motor vehicle safety"/>
+		<term name="Motorcycles"/>
+		<term name="Names"/>
+		<term name="Narcotic traffic"/>
+		<term name="National forests"/>
+		<term name="Occupational health and safety"/>
+		<term name="Ohio"/>
+		<term name="Panama"/>
+		<term name="Parking facilities"/>
+		<term name="Pedestrians"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Public utilities"/>
+		<term name="Puerto Rico"/>
+		<term name="Railroad commuting traffic"/>
+		<term name="Railroad engineering"/>
+		<term name="Railroad safety"/>
+		<term name="Recycling of waste products"/>
+		<term name="Regional planning"/>
+		<term name="Research and development"/>
+		<term name="Research centers"/>
+		<term name="Revolving funds"/>
+		<term name="Right-of-way"/>
+		<term name="Roads and highways"/>
+		<term name="Rural affairs legislation"/>
+		<term name="Science, technology, communications"/>
+		<term name="Seat belts"/>
+		<term name="Small business"/>
+		<term name="Speed limits"/>
+		<term name="Surplus government property"/>
+		<term name="Surveys"/>
+		<term name="Tax treaties"/>
+		<term name="Taxation"/>
+		<term name="Technology transfer"/>
+		<term name="Toll roads"/>
+		<term name="Tourist trade"/>
+		<term name="Traffic accidents and safety"/>
+		<term name="Traffic congestion"/>
+		<term name="Traffic engineering"/>
+		<term name="Trails"/>
+		<term name="Transportation planning"/>
+		<term name="Transportation research"/>
+		<term name="Trucks"/>
+		<term name="Urban affairs"/>
+		<term name="Urban planning"/>
+		<term name="Urban transportation"/>
+		<term name="Virginia"/>
+		<term name="Waste disposal sites"/>
+		<term name="West Virginia"/>
+		<term name="Wisconsin"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/8/1993--Passed House amended. TABLE OF CONTENTS: Title I: Title 23 Programs Title II: Federal Transit Programs Title III: Miscellaneous Surface Transportation Programs Intermodal Surface Transportation Technical Corrections Act - Title I: Title 23 Programs - Amends title 23 of the United States Code and the Intermodal Surface Transportation Efficiency Act of 1991 to revise and make technical corrections to provisions regarding: (1) changing the name of the Interstate and Defense Highway System to the Dwight D. Eisenhower System of Interstate and Defense Highways; (2) Federal-aid highway systems; (3) State highway apportionments; (4) rights-of-way; (5) Federal share of costs for transportation planning; (6) waiver of axle weight limitations for certain vehicles using the Dwight D. Eisenhower System of Interstate and Defense Highways and certain State highways; (7) toll roads and rail-highway crossings; (8) metropolitan planning organizations; (9) the discretionary highway bridge replacement and rehabilitation program; (10) penalties for non-use of safety belts and motorcycle helmets; (11) national maximum speed limit requirements with respect to highway fund apportionments; (12) a national minimum drinking age; (13) revocation of drivers' licenses of individuals convicted of drug offenses; (14) the Federal lands highway program; (15) bicycle transportation and pedestrian walkways; (16) State highway research and planning; (17) the international highway transportation outreach program; (18) highway safety programs; (19) State alcohol-impaired driving countermeasures; (20) safety at construction sites; (21) certain high cost bridge, congestion relief, high priority corridor, rural access, urban access and mobility, innovative, and intermodal projects; (22) the disadvantaged business enterprise program; (23) freeway service patrols; and (24) the Pan American highway. Title II: Federal Transit Programs - Amends the Federal Transit Act with respect to various Federal transit programs, including: (1) metropolitan planning; (2) transit security systems; (3) planning and research programs; and (4) increased Federal share of costs for transportation construction projects in States with large areas of Indian and public domain lands and national forests. Amends Federal law to revise terms of specified multiyear contracts. Title III: Miscellaneous Surface Transportation Programs - Amends the Intermodal Surface Transportation Efficiency Act of 1991 to authorize the Secretary of Transportation (Secretary) to enter into cooperative agreements and contracts with non-Federal entities for operational tests relating to intelligent vehicle-highway systems. Amends the Motor Carrier Safety Act of 1984 to require the Secretary to issue regulations making Federal commercial motor carrier safety regulations applicable to private motor (bus) carriers that transport passengers in interstate commerce.
+
+	</summary>
+</bill>

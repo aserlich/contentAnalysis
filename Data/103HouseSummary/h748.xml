@@ -1,0 +1,37 @@
+<bill session="103" type="h" number="748" updated="2010-04-19T01:00:24-04:00">
+	<state datetime="1993-02-02">REFERRED</state>
+	<status><introduced datetime="1993-02-02"/></status>
+
+	<introduced datetime="1993-02-02"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of John M. Ragsdale.</title>
+	</titles>
+	<sponsor id="400057"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-02"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-17"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Claims"/>
+		<term name="Federal employees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1993--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named individual as compensation for injuries sustained while such individual was employed by the National Bureau of Standards.
+
+	</summary>
+</bill>

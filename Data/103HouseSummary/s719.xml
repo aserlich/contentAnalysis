@@ -1,0 +1,40 @@
+<bill session="103" type="s" number="719" updated="2012-07-17T06:12:35-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to permanently extend the treatment of certain qualified small issue bonds.</title>
+	</titles>
+	<sponsor id="300012"/>
+	<cosponsors>
+		<cosponsor id="400557" joined="1993-04-01"/>
+		<cosponsor id="406084" joined="1993-07-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4282)</text></action>
+		<action datetime="1993-04-01" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Farms"/>
+		<term name="Industrial development bonds"/>
+		<term name="Manufacturing industries"/>
+		<term name="Rural affairs legislation"/>
+		<term name="Tax-exempt securities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Amends the Internal Revenue Code to make permanent the provisions permitting small issues of tax-exempt bonds to finance manufacturing facilities and farm property.
+
+	</summary>
+</bill>

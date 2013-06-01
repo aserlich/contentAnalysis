@@ -1,0 +1,40 @@
+<bill session="103" type="h" number="1574" updated="2010-04-19T03:17:09-04:00">
+	<state datetime="1993-03-31">REFERRED</state>
+	<status><introduced datetime="1993-03-31"/></status>
+
+	<introduced datetime="1993-03-31"/>
+	<titles>
+		<title type="official" as="introduced">To permit national banks to underwrite municipal revenue bonds.</title>
+	</titles>
+	<sponsor id="400251"/>
+	<cosponsors>
+		<cosponsor id="400532" joined="1993-06-10"/>
+		<cosponsor id="401494" joined="1993-06-10"/>
+		<cosponsor id="411725" joined="1993-06-10"/>
+		<cosponsor id="400140" joined="1993-06-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-31"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-04-15"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Financial Institutions Supervision, Regulation and Deposit Insurance.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="Financial Institutions Supervision, Regulation and Deposit Insurance" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Banks and banking"/>
+		<term name="Securities industry"/>
+		<term name="Tax-exempt securities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/31/1993--Introduced.
+Amends Federal banking law to permit a national bank to deal in, underwrite, and purchase for its own account municipal revenue bonds (thus providing enhanced financial services for State and local governments).
+
+	</summary>
+</bill>

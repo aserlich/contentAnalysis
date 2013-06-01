@@ -1,0 +1,45 @@
+<bill session="103" type="s" number="411" updated="2012-07-17T04:20:27-04:00">
+	<state datetime="1993-02-18">INTRODUCED</state>
+	<status><introduced datetime="1993-02-18"/></status>
+
+	<introduced datetime="1993-02-18"/>
+	<titles>
+		<title type="short" as="introduced">Domestic Spending Freeze Act of 1993</title>
+		<title type="official" as="introduced">A bill to freeze domestic discretionary spending for fiscal years 1994 and 1995 at fiscal year 1993 levels.</title>
+	</titles>
+	<sponsor id="403142"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="1993-04-22"/>
+		<cosponsor id="403171" joined="1993-05-18"/>
+		<cosponsor id="300154" joined="1993-05-25"/>
+		<cosponsor id="300048" joined="1993-11-19"/>
+		<cosponsor id="401874" joined="1993-10-13"/>
+		<cosponsor id="403968" joined="1993-03-16"/>
+		<cosponsor id="300069" joined="1993-08-04"/>
+		<cosponsor id="300029" joined="1993-11-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-18" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1919)</text></action>
+		<action datetime="1993-02-18"><text>Read twice and referred jointly to the Committees on Budget; Governmental Affairs pursuant to the order of August 4, 1977, with instructions that if one Committee reports, the other Committee have thirty days to report or be discharged.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBU" name="Senate Budget" activity="Referral, In Committee" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2569" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Congressional budget"/>
+		<term name="Government spending reductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/18/1993--Introduced.
+Domestic Spending Freeze Act of 1993 - Prohibits domestic spending limits for FY 1994 and 1995 from exceeding such limits for FY 1993.
+
+	</summary>
+</bill>

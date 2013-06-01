@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="3204" updated="2010-04-19T07:30:30-04:00">
+	<state datetime="1994-09-28">REPORTED</state>
+	<status><calendar datetime="1994-09-28" /></status>
+
+	<introduced datetime="1993-09-30"/>
+	<titles>
+		<title type="official" as="introduced">To transfer a parcel of land to the Taos Pueblo Indians of New Mexico.</title>
+	</titles>
+	<sponsor id="409205"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-30"><text>Sponsor introductory remarks on measure. (CR E2330-2331)</text></action>
+		<action datetime="1993-09-30"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-11-15"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1994-01-31"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1994-05-24"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T20:31:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-807.</text></action>
+		<calendar number="452" datetime="1994-10-03T20:31:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 452.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4746" />
+		<bill relation="identical" session="103" type="s" number="1509" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands"/>
+		<term name="Indian lands"/>
+		<term name="Land transfers"/>
+		<term name="Minorities"/>
+		<term name="National forests"/>
+		<term name="Natural resources"/>
+		<term name="New Mexico"/>
+		<term name="Wilderness areas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Reported to House amended. Transfers without consideration a specified parcel of land to the Pueblo de Taos Reservation, New Mexico. Makes conforming boundary adjustments to the Carson National Forest and the Wheeler Peak Wilderness.
+
+	</summary>
+</bill>

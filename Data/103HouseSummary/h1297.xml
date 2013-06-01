@@ -1,0 +1,38 @@
+<bill session="103" type="h" number="1297" updated="2010-04-19T02:33:00-04:00">
+	<state datetime="1993-03-10">REFERRED</state>
+	<status><introduced datetime="1993-03-10"/></status>
+
+	<introduced datetime="1993-03-10"/>
+	<titles>
+		<title type="official" as="introduced">To reduce the rates of basic pay for Members of Congress.</title>
+	</titles>
+	<sponsor id="400316"/>
+	<cosponsors>
+		<cosponsor id="400017" joined="1994-02-02"/>
+		<cosponsor id="400083" joined="1994-08-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-10"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-03-10"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional salaries and pensions"/>
+		<term name="Cost of living adjustments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/10/1993--Introduced.
+Reduces the basic pay of Members of Congress by the amount of the cost-of-living adjustment for 1993 and by an additional amount so that the total reduction is five percent. Provides for an increase in such basic pay on or after January 1, 1994, by an amount equal to the amount of the 1993 cost-of-living adjustment by which the pay was reduced.
+
+	</summary>
+</bill>

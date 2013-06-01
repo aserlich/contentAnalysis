@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="556" updated="2010-04-19T00:28:42-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="short" as="introduced">Aviation Noise Limit Act of 1993</title>
+		<title type="official" as="introduced">To provide for aviation noise management and reduction in residential areas.</title>
+	</titles>
+	<sponsor id="412001"/>
+	<cosponsors>
+		<cosponsor id="400584" joined="1993-02-02"/>
+		<cosponsor id="406420" joined="1993-03-09"/>
+		<cosponsor id="400370" joined="1993-02-04"/>
+		<cosponsor id="400524" joined="1993-05-06"/>
+		<cosponsor id="404401" joined="1993-01-21"/>
+		<cosponsor id="400533" joined="1993-03-17"/>
+		<cosponsor id="300156" joined="1993-01-21"/>
+		<cosponsor id="407141" joined="1993-02-04"/>
+		<cosponsor id="400554" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-02-04"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Aviation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-05" name="House Public Works and Transportation" subcommittee="Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Commercial aviation"/>
+		<term name="Air routes"/>
+		<term name="Airports"/>
+		<term name="Environmental protection"/>
+		<term name="Noise"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Aviation Noise Limit Act of 1993 - Directs the Secretary of Transportation (Secretary) to develop a staged plan to reduce by at least 75 percent on or before January 1, 2001, the number of individuals residing in residential areas in the vicinity of an airport who are exposed to a yearly day-night average sound level of 60 decibels or above. Requires the Secretary in developing such plan to consider various methods for aviation noise reduction, including soundproofing, relocation incentives, use of quieter aircraft, operations restrictions, and revision of air routes. Authorizes the Administrator of the Federal Aviation Administration to make airspace traffic changes in residential areas if they will not result in an increase in aviation noise.
+
+	</summary>
+</bill>

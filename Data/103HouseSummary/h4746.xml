@@ -1,0 +1,144 @@
+<bill session="103" type="h" number="4746" updated="2012-07-17T06:29:11-04:00">
+	<state datetime="1994-10-03T20:27:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-03T20:27:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-07-13"/>
+	<titles>
+		<title type="short" as="introduced">Anaktuvuk Pass Land Exchange and Wilderness Redesignation Act of 1994</title>
+		<title type="short" as="passed house">Anaktuvuk Pass Land Exchange and Wilderness Redesignation Act of 1994</title>
+		<title type="short" as="passed house">Great Falls Preservation and Redevelopment Act of 1994</title>
+		<title type="short" as="passed house">Lower Salmon River Recreational and Scenic Rivers Act of 1994</title>
+		<title type="short" as="passed house">Manassas National Battlefield Park Amendments of 1994</title>
+		<title type="short" as="passed house">Pennsylvania Avenue Development Corporation Reauthorization Act of 1994</title>
+		<title type="short" as="passed house">Quinebaug and Shetucket Rivers Valley National Heritage Corridor Act of 1994</title>
+		<title type="short" as="passed house">Walnut Canyon National Monument Boundary Modification Act of 1994</title>
+		<title type="official" as="introduced">To provide for the exchange of lands within Gates of the Arctic National Park and Preserve, and for other purposes.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-13" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-07-14"><committee name="House Committee on Natural Resources"/><text>Late Referral to the Subcommittee on National Parks, Forests and Public Lands (Nov 30, 94).</text></action>
+		<action datetime="1994-08-04"><text>Hearings Held by the Subcommittee on National Parks, Forests and Public Lands Prior to Referral.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T20:14:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-796.</text></action>
+		<calendar number="442" datetime="1994-10-03T20:14:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 442.</text></calendar>
+		<action datetime="1994-10-03T20:20:00-04:00"><text>Mr. Vento moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-03T20:20:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10653-10664"/></action>
+		<action datetime="1994-10-03T20:21:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-10-03T20:27:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-03T20:27:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-04"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Hearings" />
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="233" />
+		<bill relation="unknown" session="103" type="h" number="359" />
+		<bill relation="unknown" session="103" type="h" number="1348" />
+		<bill relation="unknown" session="103" type="h" number="3204" />
+		<bill relation="unknown" session="103" type="h" number="3498" />
+		<bill relation="unknown" session="103" type="h" number="3554" />
+		<bill relation="unknown" session="103" type="h" number="3559" />
+		<bill relation="unknown" session="103" type="h" number="3898" />
+		<bill relation="unknown" session="103" type="h" number="4083" />
+		<bill relation="unknown" session="103" type="h" number="4642" />
+		<bill relation="unknown" session="103" type="h" number="4697" />
+		<bill relation="unknown" session="103" type="h" number="4754" />
+		<bill relation="unknown" session="103" type="h" number="4754" />
+		<bill relation="unknown" session="103" type="h" number="5096" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Actions and defenses"/>
+		<term name="Alaska"/>
+		<term name="All terrain vehicles"/>
+		<term name="Animals"/>
+		<term name="Architecture"/>
+		<term name="Arizona"/>
+		<term name="Armed forces and national security"/>
+		<term name="Arts, culture, religion"/>
+		<term name="Authorization"/>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Civil war"/>
+		<term name="Commemorations"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Connecticut"/>
+		<term name="Dams"/>
+		<term name="Department of the Interior"/>
+		<term name="District of Columbia"/>
+		<term name="Easements"/>
+		<term name="Economics and public finance"/>
+		<term name="Electric power transmission"/>
+		<term name="Eminent domain"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Environmental protection"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Government corporations"/>
+		<term name="Government operations and politics"/>
+		<term name="Grants-in-aid"/>
+		<term name="Harbors"/>
+		<term name="Historic sites"/>
+		<term name="History"/>
+		<term name="Hydroelectric power"/>
+		<term name="Idaho"/>
+		<term name="Indian lands"/>
+		<term name="Land transfers"/>
+		<term name="Land use"/>
+		<term name="Law"/>
+		<term name="Leases"/>
+		<term name="Licenses"/>
+		<term name="Massachusetts"/>
+		<term name="Military aviation"/>
+		<term name="Military history"/>
+		<term name="Minorities"/>
+		<term name="Montana"/>
+		<term name="National forests"/>
+		<term name="National monuments"/>
+		<term name="National parks"/>
+		<term name="New Jersey"/>
+		<term name="New Mexico"/>
+		<term name="New York State"/>
+		<term name="Ohio"/>
+		<term name="Pennsylvania"/>
+		<term name="Pennsylvania Avenue Development Corporation"/>
+		<term name="Public utilities"/>
+		<term name="Real estate development"/>
+		<term name="Regional planning"/>
+		<term name="Reservoirs"/>
+		<term name="Rights of women"/>
+		<term name="Rivers"/>
+		<term name="Sailing ships"/>
+		<term name="State laws"/>
+		<term name="Transportation and public works"/>
+		<term name="Urban affairs"/>
+		<term name="Urban economic development"/>
+		<term name="Virginia"/>
+		<term name="Water resources development"/>
+		<term name="Watershed management"/>
+		<term name="Watersheds"/>
+		<term name="Whaling"/>
+		<term name="Wild rivers"/>
+		<term name="Wilderness areas"/>
+		<term name="Women"/>
+		<term name="Wyoming"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Passed House amended. TABLE OF CONTENTS: Title I: Anaktuvuk Pass Land Exchange and Wilderness Redesignation Title II: Washington Square Title III: Walnut Canyon National Monument Boundary Modification Title IV: North Fork Payette River Title V: Lower Salmon River Title VI: Targhee National Forest Exchange Title VII: Transfer to Taos Pueblo Title VIII: Women's Rights National Historical Park Title IX: Dayton Aviation Heritage Subtitle A: Dayton Aviation Heritage Amendments Subtitle B: Manassas National Battlefield Park Amendments Title X: Pennsylvania Avenue Development Corporation Title XI: New Bedford Whaling National Historical Park Title XII: Quinebaug and Shetucket Rivers Valley National Heritage Corridor Title XIII: Great Falls Preservation and Redevelopment Title I: Anaktuvuk Pass Land Exchange and Wilderness Redesignation - Anaktuvuk Pass Land Exchange and Wilderness Redesignation Act of 1994 - Ratifies and confirms the agreement between the United States, the Arctic Slope Regional Corporation, the Nunamiut Corporation, and the city of Anaktuvuk Pass executed on December 17, 1992. Requires the lands acquired by the United States pursuant to such Agreement to be administered by the Secretary of the Interior (Secretary) as part of the Gates of the Arctic National Park and Preserve. (Sec. 104) Amends the Alaska National Interest Lands Conservation Act to provide for the addition of lands within the Noatak National Preserve and Noatak Wilderness. Title II: Washington Square - Authorizes the Secretary, acting through the Director of the National Park Service, to provide a grant to Philadelphia, Pennsylvania, to undertake the restoration of Washington Square in accordance with the standards established to facilitate its inclusion in Independence National Historical Park. Prohibits such grant from being used to fund more than 66.6 percent of the costs of such restoration. Authorizes appropriations. (Sec. 202) Authorizes the Secretary to: (1) enter into a lease agreement with Philadelphia for the lease of the restored Square to the National Park Service; (2) modify the Park's boundaries to include the Square; and (3) provide for the administration of the Square as part of the Park. Title III: Walnut Canyon National Monument Boundary Modification - Walnut Canyon National Monument Boundary Modification Act of 1994 - Modifies the boundaries of the Walnut Canyon National Monument in Arizona. (Sec. 304) Authorizes the Secretary to acquire lands and interests in lands within the Monument. Transfers Federal property: (1) within the boundaries of the Monument (as modified by this Act) to the administrative jurisdiction of the Secretary for management as part of the Monument; and (2) excluded from the Monument (pursuant to the boundary modification) to the administrative jurisdiction of the Secretary of Agriculture to be managed as part of the Coconino National Forest. (Sec. 305) Requires the Secretary acting through the Director of the National Park Service, to manage the Monument as a unit of the National Park Service. Authorizes appropriations. Title IV: North Fork Payette River - Makes certain protections under the Wild and Scenic Rivers Act regarding the placing of restrictions on water resources construction projects licensed by the Federal Energy Regulatory Commission applicable to a segment of the North Fork of the Payette River in Idaho. (Sec. 402) Makes this Act effective for as long as Idaho law prohibits development of hydroelectric projects and other water resource projects on or directly affecting such segment. Title V: Lower Salmon River - Lower Salmon River Recreational and Scenic Rivers Act of 1994 - Amends the Wild and Scenic Rivers Act to designate specified segments of the Lower Salmon River, Idaho, as components of the National Wild and Scenic Rivers System. (Sec. 503) Makes permanent certain withdrawals made by the Secretary through specified Public Land Orders. (Sec. 504) Designates a specified segment of Rock Creek, Montana, for potential addition to the System. Title VI: Targhee National Forest Exchange - Authorizes the Secretary of Agriculture to exchange specified Federal lands in the Targhee National Forest in Idaho (known as the North Fork Tract) for specified non-Federal lands in the Targhee National Forest in Wyoming (known as the Squirrel Meadows Tract). (Sec. 604) Directs the Secretary of Agriculture to seek to acquire portions of Squirrel Meadows Tract that are not acquired under this Act. Title VII: Transfer to Taos Pueblo - Transfers without consideration a specified parcel of land to the Pueblo de Taos Reservation, New Mexico. Makes conforming boundary adjustments to the Carson National Forest and the Wheeler Peak Wilderness. Title VIII: Women's Rights National Historical Park - Adds specified lands to the Women's Rights National Historical Park in New York. (Sec. 802) Authorizes appropriations for the Park for FY 1995 and each fiscal year thereafter. Provides that the Bloomer House at 53 East Bayard Street, Seneca Falls, New York, shall no longer be a part of the Park. Title IX: Dayton Aviation Heritage: Subtitle A: Dayton Aviation Heritage Amendments - Amends the Dayton Aviation Heritage Preservation Act of 1992 to require the Secretary to consider recommendations submitted for members on the Dayton Aviation Heritage Commission before making appointments to such Commission. (Current law requires the Secretary to make appointments from recommendations submitted by specified officials or entities.) Subtitle B: Manassas National Battlefield Park Amendments - Manassas National Battlefield Park Amendments of 1994 - Authorizes the owner of any property taken or the grantee of any easement terminated within the Addition to Manassas National Battlefield Park, Virginia, by the United States to be used for public utility purposes to initiate a proceeding in a court of competent jurisdiction seeking a determination of just compensation with respect to the taking of such property or the termination of such easement at any time within three years after the enactment of this Act. Title X: Pennsylvania Avenue Development Corporation - Pennsylvania Avenue Development Corporation Reauthorization Act of 1994 - Amends the Pennsylvania Avenue Development Corporation Act of 1972 to authorize appropriations for FY 1995 for operating and administrative expenses of the Pennsylvania Avenue Development Corporation. (Sec. 1003) Requires the Corporation's Board of Directors to prepare and submit a dissolution and succession plan to the Congress that provides for the timely dissolution of the Corporation and an orderly transition to such dissolution. Prohibits the Corporation from obligating or expending funds appropriated for FY 1995, after March 31, 1995, if the Board fails to submit the plan on or before such date. Title XI: New Bedford Whaling National Historical Park - Establishes the New Bedford Whaling National Historical Park in New Bedford, Massachusetts. Requires Federal funds to be matched by non-federal funds. Limits expenditures for operation and maintenance of the Schooner Ernestina. (Sec. 1105) Requires the Secretary to submit to specified congressional committees a general management plan for the Park and to implement such plan. Authorizes appropriations. Limits authorizations for visitor and interpretive facilities. Title XII: Quinebaug and Shetucket Rivers Valley National Heritage Corridor - Quinebaug and Shetucket Rivers Valley National Heritage Corridor Act of 1994 - Establishes: (1) the Quinebaug and Shetucket Rivers Valley National Heritage Corridor in Connecticut; and (2) within the Department of the Interior, the Quinebaug and Shetucket Rivers Valley National Heritage Corridor Commission to assist appropriate Federal, State, and regional planning organizations and local authorities in the development and implementation of an integrated resource management plan for the Corridor's lands and water. Authorizes appropriations. Title XIII: Great Falls Preservation and Redevelopment - Great Falls Preservation and Redevelopment Act of 1994 - Establishes the Great Falls Historic District in Paterson, New Jersey, to be administered by the Secretary. (Sec. 1305) Authorizes the Secretary to enter into cooperative agreements with: (1) State or local government agencies or nonprofit entities to prepare a plan for the development of historic, architectural, natural, cultural, and interpretative resources within the District and to implement projects approved by the Secretary pursuant to the plan; and (2) property owners for the preservation and interpretation of properties of historical or cultural significance. Requires applications for funds for capital projects and improvements to be submitted to the Secretary and to include a description of how the project will further the purposes of the District. Subjects such payments to an agreement that conversion, use, or disposal of such project for purposes contrary to this Act shall result in a right of the United States of reimbursement of all funds made available to such project or the proportion of the increased value of the project attributable to such funds as determined at the time of such conversion, use, or disposal, whichever is greater. (Sec. 1307) Authorizes appropriations. Prohibits funds made available for capital projects and planning from exceeding 50 percent of the total costs of the project to be funded. Terminates the authority to expend funds under this Act five years after the date of its enactment.
+
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="1386" updated="2010-04-19T02:47:07-04:00">
+	<state datetime="1993-03-17">REFERRED</state>
+	<status><introduced datetime="1993-03-17"/></status>
+
+	<introduced datetime="1993-03-17"/>
+	<titles>
+		<title type="short" as="introduced">Drunk Driving Prevention Act of 1993</title>
+		<title type="official" as="introduced">To amend title 23, United States Code, to require the Secretary of Transportation to withhold certain funds from States that fail to deem a person driving with a blood alcohol concentration of 0.08 percent or greater to be driving while intoxicated, and for other purposes.</title>
+	</titles>
+	<sponsor id="409633"/>
+	<cosponsors>
+		<cosponsor id="406873" joined="1993-07-13"/>
+		<cosponsor id="400534" joined="1993-07-13"/>
+		<cosponsor id="409205" joined="1994-06-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-17"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="605" />
+	</relatedbills>
+	<subjects>
+		<term name="Roads and highways"/>
+		<term name="Drunk driving"/>
+		<term name="Federal aid highway program"/>
+		<term name="Standards"/>
+		<term name="State laws"/>
+		<term name="Traffic accidents and safety"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/17/1993--Introduced.
+Drunk Driving Prevention Act of 1993 - Requires the Secretary of Transportation to withhold Federal highway funds from States that fail to provide that a person with a blood alcohol concentration of .08 percent or greater when driving shall be deemed to be driving while intoxicated. Requires five percent of funds to be withheld in the first fiscal year in which a State is not in compliance with such standard and ten percent for each succeeding year of noncompliance. Releases funds withheld in excess of three fiscal years to States that fail to adopt such standard, but permits such funds to be used only for programs approved by the National Highway Traffic Safety Adminstration to prevent driving while intoxicated. Provides for the release of withheld funds to States that subsequently adopt the standard.
+
+	</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="3731" updated="2010-04-19T08:52:22-04:00">
+	<state datetime="1994-01-25">REFERRED</state>
+	<status><introduced datetime="1994-01-25"/></status>
+
+	<introduced datetime="1994-01-25"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 10, United States Code, to repeal the requirement that amounts paid to a member of the Armed Forces under the Special Separation Benefits program of the Department of Defense be offset from amounts subsequently paid to that member by the Department of Veterans Affairs as disability compensation.</title>
+	</titles>
+	<sponsor id="400048"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="1994-06-23"/>
+		<cosponsor id="400333" joined="1994-06-23"/>
+		<cosponsor id="400143" joined="1994-06-23"/>
+		<cosponsor id="407772" joined="1994-06-23"/>
+		<cosponsor id="400440" joined="1994-06-23"/>
+		<cosponsor id="400201" joined="1994-06-23"/>
+		<cosponsor id="400357" joined="1994-06-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-01-25"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-02-01"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1994-02-01"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1994-07-21"><committee name="House Committee on Armed Services"/><text>Unfavorable Executive Comment Received from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Defense policy"/>
+		<term name="Disabled"/>
+		<term name="Dismissal wage"/>
+		<term name="Military pensions"/>
+		<term name="Pensions"/>
+		<term name="Veterans"/>
+		<term name="Veterans' disability compensation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/25/1994--Introduced.
+Allows payments to members of the armed forces under the Special Separation Benefits program of the Department of Defense without a concurrent pro rata reduction of veterans' disability compensation paid to such members through the Department of Veterans Affairs.
+
+	</summary>
+</bill>

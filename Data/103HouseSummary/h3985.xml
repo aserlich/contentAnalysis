@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="3985" updated="2010-04-19T09:32:03-04:00">
+	<state datetime="1994-03-09">REFERRED</state>
+	<status><introduced datetime="1994-03-09"/></status>
+
+	<introduced datetime="1994-03-09"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Federal Rules of Evidence with respect to the rule of privileges in civil cases.</title>
+	</titles>
+	<sponsor id="400085"/>
+	<cosponsors>
+		<cosponsor id="400604" joined="1994-06-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-09"><text>Sponsor introductory remarks on measure. (CR E386)</text></action>
+		<action datetime="1994-03-09"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-05-24"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Civil procedure"/>
+		<term name="Civil liberties"/>
+		<term name="Evidence (Law)"/>
+		<term name="Law"/>
+		<term name="Privileges and immunities"/>
+		<term name="State and local government"/>
+		<term name="State laws"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/9/1994--Introduced.
+Amends rule 501 of the Federal Rules of Evidence to provide that, in civil actions for deprivation of rights, the privilege of a witness, person, government, State, or political subdivision thereof shall be determined in accordance with State law.
+
+	</summary>
+</bill>

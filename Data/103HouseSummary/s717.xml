@@ -1,0 +1,71 @@
+<bill session="103" type="s" number="717" updated="2012-07-17T04:51:57-04:00">
+	<state datetime="1993-12-14">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-14" /></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="short" as="introduced">Egg Research and Consumer Information Improvement Act of 1993</title>
+		<title type="short" as="passed senate">Egg Research and Consumer Information Act Amendments of 1993</title>
+		<title type="short" as="enacted">Egg Research and Consumer Information Act Amendments of 1993</title>
+		<title type="official" as="introduced">A bill to amend the Egg Research and Consumer Information Act to modify the provisions governing the rate of assessment, to expand the exemption of egg producers from such Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="408939"/>
+	<cosponsors>
+		<cosponsor id="402004" joined="1993-11-18"/>
+		<cosponsor id="402675" joined="1993-05-05"/>
+		<cosponsor id="403171" joined="1993-11-20"/>
+		<cosponsor id="300023" joined="1993-04-01"/>
+		<cosponsor id="408420" joined="1993-11-24"/>
+		<cosponsor id="300154" joined="1993-11-18"/>
+		<cosponsor id="400559" joined="1993-05-06"/>
+		<cosponsor id="409225" joined="1993-06-17"/>
+		<cosponsor id="405310" joined="1993-04-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4280-4281)</text></action>
+		<action datetime="1993-04-01" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-04-12"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Domestic and Foreign Marketing.</text></action>
+		<calendar datetime="1993-11-18"  state="REPORTED"><committee name="Committee on Agriculture"/><text>Committee on Agriculture. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1993-11-19"><text>Committee on Agriculture. Reported to Senate by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="319" datetime="1993-11-19" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 319.</text></calendar>
+		<action datetime="1993-11-20"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S16867-16868"/></action>
+		<action datetime="1993-11-20"><text>The committee substitute as amended agreed to by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-11-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-21T14:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-21T17:37:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-11-21T22:09:00-05:00"><text>Mr. de la Garza asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1993-11-21T22:10:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10610-10611"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-11-21T22:10:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-11-21T22:10:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-11-21" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-12-08" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-14" ><text>Signed by President.</text></signed>
+		<enacted number="103-188" type="public" datetime="1993-12-14"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-188.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Domestic and Foreign Marketing and Product Promotion" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1637" />
+		<bill relation="unknown" session="103" type="h" number="3515" />
+		<bill relation="unknown" session="103" type="h" number="3515" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural research"/>
+		<term name="Fees"/>
+		<term name="Marketing of farm produce"/>
+		<term name="Poultry industry"/>
+		<term name="Referendum"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1231"/>
+	</amendments>
+	<summary>
+	11/20/1993--Passed Senate amended. Egg Research and Consumer Information Act Amendments of 1993 - Amends the Egg Research and Consumer Information Act to: (1) increase the maximum assessment rate from ten cents per case of commercial eggs to 20 cents per case; (2) authorize the Egg Board to increase assessments subject to producer referendum; (3) increase the trigger level for assessment exemptions from (producers of) 30,000 laying hens to 75,000 laying hens; and (4) allocate funds for research activities.
+
+	</summary>
+</bill>

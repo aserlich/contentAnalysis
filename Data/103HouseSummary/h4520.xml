@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="4520" updated="2010-04-19T10:55:51-04:00">
+	<state datetime="1994-05-26">REFERRED</state>
+	<status><introduced datetime="1994-05-26"/></status>
+
+	<introduced datetime="1994-05-26"/>
+	<titles>
+		<title type="official" as="introduced">To amend chapter 11 of title 31, United States Code, to require that the President's budget submission separately reflect the budget aggregates relating to activities within the unified budget and aggregates relating to activities required by law to be excluded from the unified budget.</title>
+	</titles>
+	<sponsor id="407153"/>
+	<cosponsors>
+		<cosponsor id="404083" joined="1994-07-21"/>
+		<cosponsor id="400388" joined="1994-07-21"/>
+		<cosponsor id="400325" joined="1994-05-26"/>
+		<cosponsor id="408618" joined="1994-05-26"/>
+		<cosponsor id="400083" joined="1994-05-26"/>
+		<cosponsor id="408476" joined="1994-07-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-26"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-06-01"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Federal budget process"/>
+		<term name="Off-budget expenditures"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/26/1994--Introduced.
+Amends Federal law to require the President's budget submission to set forth all budget aggregates (including receipts, disbursements, and deficits) as follows: (1) one set of aggregates shall relate solely to activities of the Federal budget which are within the unified budget; and (2) one set of aggregates shall relate solely to activities of the Federal budget which are off-budget.
+
+	</summary>
+</bill>

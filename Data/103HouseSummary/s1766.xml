@@ -1,0 +1,57 @@
+<bill session="103" type="s" number="1766" updated="2010-04-19T19:05:38-04:00">
+	<state datetime="1993-12-14">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-14" /></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="short" as="introduced">Lime Research, Promotion, and Consumer Information Improvement Act</title>
+		<title type="short" as="enacted">Lime Research, Promotion, and Consumer Information Improvement Act</title>
+		<title type="official" as="introduced">A bill to amend the Lime Research, Promotion, and Consumer Information Act of 1990 to cover seedless and not seeded limes, to increase the exemption level, to delay the initial referendum date, and to alter the composition of the Lime Board, and for other purposes.</title>
+	</titles>
+	<sponsor id="300046"/>
+	<cosponsors>
+		<cosponsor id="400562" joined="1993-11-20"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S16896"/></vote>
+		<action datetime="1993-11-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-21T14:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-21T17:37:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-11-21T22:16:00-05:00"><text>Mr. de la Garza asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1993-11-21T22:16:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10619-10620"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-11-21T22:17:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-11-21T22:17:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-11-21" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-12-08" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-14" ><text>Signed by President.</text></signed>
+		<enacted number="103-194" type="public" datetime="1993-12-14"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-194.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3071" />
+		<bill relation="unknown" session="103" type="h" number="3515" />
+		<bill relation="unknown" session="103" type="sc" number="56" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural economics"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Citrus fruits"/>
+		<term name="Executive departments"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Foreign trade"/>
+		<term name="Marketing of farm produce"/>
+		<term name="Referendum"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+Lime Research, Promotion, and Consumer Information Improvement Act - Amends the Lime Research, Promotion, and Consumer Information Act of 1990 to cover seedless and not seeded limes, alter the composition of the Lime Board, increase the level of exemption from the assessment, and delay the initial date set for the referendum under the Act.
+
+	</summary>
+</bill>

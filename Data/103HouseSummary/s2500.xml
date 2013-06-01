@@ -1,0 +1,81 @@
+<bill session="103" type="s" number="2500" updated="2010-04-19T21:00:25-04:00">
+	<state datetime="1994-10-22">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-22" /></status>
+
+	<introduced datetime="1994-10-04"/>
+	<titles>
+		<title type="short" as="introduced">Sheep Promotion, Research, and Information Act of 1994</title>
+		<title type="short" as="enacted">Sheep Promotion, Research, and Information Act of 1994</title>
+		<title type="official" as="introduced">A bill to enable producers and feeders of sheep and importers of sheep and sheep products to develop, finance, and carry out a nationally coordinated program for sheep and sheep product promotion, research, and information, and for other purposes.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="300029" joined="1994-10-04"/>
+		<cosponsor id="300005" joined="1994-10-04"/>
+		<cosponsor id="300009" joined="1994-10-04"/>
+		<cosponsor id="411271" joined="1994-10-04"/>
+		<cosponsor id="411818" joined="1994-10-04"/>
+		<cosponsor id="300052" joined="1994-10-04"/>
+		<cosponsor id="300037" joined="1994-10-04"/>
+		<cosponsor id="300015" joined="1994-10-04"/>
+		<cosponsor id="406256" joined="1994-10-04"/>
+		<cosponsor id="300017" joined="1994-10-04"/>
+		<cosponsor id="408898" joined="1994-10-04"/>
+		<cosponsor id="300054" joined="1994-10-04"/>
+		<cosponsor id="400561" joined="1994-10-04"/>
+		<cosponsor id="300036" joined="1994-10-04"/>
+		<cosponsor id="409923" joined="1994-10-04"/>
+		<cosponsor id="300026" joined="1994-10-04"/>
+		<cosponsor id="300031" joined="1994-10-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-04"><text>Sponsor introductory remarks on measure. (CR S14106-14107)</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-10-04" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S14106"/></vote>
+		<action datetime="1994-10-05"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-05T11:20:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-10-05T15:28:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-10-05T18:58:00-04:00"><text>Mr. de la Garza asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1994-10-05T18:58:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10923-10928"/></action>
+		<vote how="without objection" type="vote2" datetime="1994-10-05T18:58:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-10-05T18:58:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-10-05" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-10-13" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-22" ><text>Signed by President.</text></signed>
+		<enacted number="103-407" type="public" datetime="1994-10-22"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-407.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="5183" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Agricultural research"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Animals"/>
+		<term name="Department of Agriculture"/>
+		<term name="Executive departments"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Foreign trade"/>
+		<term name="Foreign trade promotion"/>
+		<term name="Law"/>
+		<term name="Marketing of farm produce"/>
+		<term name="Referendum"/>
+		<term name="Science policy"/>
+		<term name="Sheep"/>
+		<term name="Subpoena"/>
+		<term name="Trade"/>
+		<term name="Wool"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/4/1994--Introduced.
+Sheep Promotion, Research, and Information Act of 1994 - Directs the Secretary of Agriculture to issue a sheep and wool promotion, research, education, and information order. Includes in such order: (1) establishment of a National Sheep Promotion, Research, and Information Board; and (2) assessment of fees. Provides for approval referenda among producers, feeders, and importers. Authorizes appropriations.
+
+	</summary>
+</bill>

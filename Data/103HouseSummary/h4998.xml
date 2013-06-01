@@ -1,0 +1,59 @@
+<bill session="103" type="h" number="4998" updated="2010-04-19T12:10:45-04:00">
+	<state datetime="1994-08-19">REFERRED</state>
+	<status><introduced datetime="1994-08-19"/></status>
+
+	<introduced datetime="1994-08-19"/>
+	<titles>
+		<title type="short" as="introduced">Weather Service Modernization Performance Review Act of 1994</title>
+		<title type="official" as="introduced">To provide for an independent review of the implementation of the National Implementation Plan for modernization of the National Weather Service at specific sites, and for other purposes.</title>
+	</titles>
+	<sponsor id="400084"/>
+	<cosponsors>
+		<cosponsor id="406873" joined="1994-08-19"/>
+		<cosponsor id="408839" joined="1994-08-19"/>
+		<cosponsor id="407351" joined="1994-08-19"/>
+		<cosponsor id="400176" joined="1994-09-13"/>
+		<cosponsor id="401033" joined="1994-09-13"/>
+		<cosponsor id="404996" joined="1994-09-13"/>
+		<cosponsor id="400520" joined="1994-08-19"/>
+		<cosponsor id="401153" joined="1994-08-19"/>
+		<cosponsor id="406920" joined="1994-08-19"/>
+		<cosponsor id="400211" joined="1994-08-19"/>
+		<cosponsor id="401417" joined="1994-08-19"/>
+		<cosponsor id="400150" joined="1994-09-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-19"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1994-08-24"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Space.</text></action>
+		<action datetime="1994-09-13"><committee name="House Committee on Science, Space and Technology" subcommittee="Space"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-09-13"><committee name="House Committee on Science, Space and Technology" subcommittee="Space"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-09-14"><committee name="House Committee on Science, Space and Technology"/><text>Executive Comment Requested from Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Space" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4008" />
+	</relatedbills>
+	<subjects>
+		<term name="Weather"/>
+		<term name="Emergency management"/>
+		<term name="Meteorological research"/>
+		<term name="Natural resources"/>
+		<term name="Planning"/>
+		<term name="Radar"/>
+		<term name="Science policy"/>
+		<term name="Technological innovations"/>
+		<term name="Technology"/>
+		<term name="Weather forecasting"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/19/1994--Introduced.
+Weather Service Modernization Performance Review Act of 1994 - Directs the Secretary of Commerce to: (1) ensure that the implementation of the National Implementation Plan (Plan) for modernization of the National Weather Service does not result in service degradation in any specific geographic area; and (2) provide for an independent review of the Plan by the National Research Council of the National Academy of Sciences.
+
+	</summary>
+</bill>

@@ -1,0 +1,66 @@
+<bill session="103" type="s" number="2100" updated="2010-04-19T19:57:44-04:00">
+	<state datetime="1994-10-07T18:49:00-04:00">PASSED:BILL</state>
+	<status><vote2 datetime="1994-10-07T18:49:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1994-05-10"/>
+	<titles>
+		<title type="short" as="introduced">Stewardship End-Result Contracts Demonstration Act</title>
+		<title type="official" as="introduced">A bill to provide for rural development, multiple-use management, expenditures under the Knutson-Vandenburg Act of 1930, and ecosystem-based management of certain forest lands, and for other purposes.</title>
+	</titles>
+	<sponsor id="403346"/>
+	<cosponsors>
+		<cosponsor id="300029" joined="1994-05-10"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1994-05-10" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S5446-5447"/></vote>
+		<action datetime="1994-05-11"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-05-11T14:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-05-11T18:37:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-10-07T18:47:00-04:00"><text>Mr. LaRocco asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1994-10-07T18:48:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H11339-11340"/></action>
+		<vote how="without objection" type="vote2" datetime="1994-10-07T18:49:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-10-07T18:49:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-07T18:49:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1994-10-07"><text>Message on House action received in Senate and at the desk: House amendments to Senate bill.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Forests and forestry"/>
+		<term name="Alabama"/>
+		<term name="Animals"/>
+		<term name="Arizona"/>
+		<term name="Ecosystem management"/>
+		<term name="Environmental assessment"/>
+		<term name="Environmental protection"/>
+		<term name="Forest conservation"/>
+		<term name="Forest ecology"/>
+		<term name="Forest management"/>
+		<term name="Forestry research"/>
+		<term name="Government information"/>
+		<term name="Habitat conservation"/>
+		<term name="Idaho"/>
+		<term name="Information services"/>
+		<term name="Maine"/>
+		<term name="National forests"/>
+		<term name="Natural resources"/>
+		<term name="Nevada"/>
+		<term name="New Hampshire"/>
+		<term name="Public contracts"/>
+		<term name="Public lands"/>
+		<term name="Timber sales"/>
+		<term name="Vermont"/>
+		<term name="Wildlife conservation"/>
+	</subjects>
+	<amendments>
+		<amendment number="h937"/>
+	</amendments>
+	<summary>
+	10/7/1994--Passed House amended. Authorizes the Secretary of Agriculture to carry out a demonstration program to develop ecosystem-based and end-result oriented management practices in the Priest Lake District project, Idaho Panhandle National Forest. Authorizes the use of timber revenue to offset program costs. Terminates program authority on December 31, 1995.
+
+	</summary>
+</bill>

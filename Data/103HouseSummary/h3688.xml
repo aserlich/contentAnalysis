@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="3688" updated="2010-04-19T08:45:36-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="official" as="introduced">To extend the deadlines applicable to certain hydroelectric projects under the Federal Power Act.</title>
+	</titles>
+	<sponsor id="409570"/>
+	<cosponsors>
+		<cosponsor id="400169" joined="1993-11-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-01-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Energy and Power.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="HSIF-03" name="House Energy and Commerce" subcommittee="Energy and Power" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Energy law and legislation"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Hydroelectric power"/>
+		<term name="Licenses"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Directs the Federal Energy Regulatory Commission, upon the request of specified licensees, to extend, for a maximum of three consecutive two-year periods, the time required for commencement of construction of certain hydroelectric projects.
+
+	</summary>
+</bill>

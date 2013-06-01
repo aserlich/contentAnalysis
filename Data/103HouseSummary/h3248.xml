@@ -1,0 +1,80 @@
+<bill session="103" type="h" number="3248" updated="2010-04-19T07:37:18-04:00">
+	<state datetime="1994-03-09">REPORTED</state>
+	<status><calendar datetime="1994-03-09" /></status>
+
+	<introduced datetime="1993-10-07"/>
+	<titles>
+		<title type="short" as="introduced">Fair Trade in Financial Services Act of 1993</title>
+		<title type="official" as="introduced">To provide for fair trade in financial services.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="400387" joined="1993-10-07"/>
+		<cosponsor id="400178" joined="1994-02-23"/>
+		<cosponsor id="400223" joined="1994-01-26"/>
+		<cosponsor id="400236" joined="1993-10-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-07"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-10-07"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-10-07"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-10-13"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-10-18"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Financial Institutions Supervision, Regulation and Deposit Insurance.</text></action>
+		<action datetime="1993-10-18"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on International Development, Finance, Trade and Monetary Policy.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness.</text></action>
+		<action datetime="1993-11-09"><committee name="House Committee on Banking, Finance + Urban Affrs" subcommittee="International Development, Finance, Trade and Monetary Policy"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-11-19"><committee name="House Committee on Banking, Finance + Urban Affrs" subcommittee="International Development, Finance, Trade and Monetary Policy"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-11-19"><committee name="House Committee on Banking, Finance + Urban Affrs" subcommittee="International Development, Finance, Trade and Monetary Policy"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1994-02-01"><committee name="House Committee on Banking, Finance + Urban Affrs" subcommittee="Financial Institutions Supervision, Regulation and Deposit Insurance"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-03-02"><committee name="House Committee on Banking, Finance + Urban Affrs" subcommittee="Financial Institutions Supervision, Regulation and Deposit Insurance"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-03-02"><committee name="House Committee on Banking, Finance + Urban Affrs" subcommittee="Financial Institutions Supervision, Regulation and Deposit Insurance"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1994-03-09"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-03-09"  state="REPORTED"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-07-12"><committee name="House Committee on Ways and Means"/><text>Provisions Incorporated into H.R.3474.</text></action>
+		<action datetime="1994-09-30"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>See H.R.4926.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, Markup, In Committee" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="Financial Institutions Supervision, Regulation and Deposit Insurance" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="International Development, Finance, Trade and Monetary Policy" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Commerce, Consumer Protection, and Competitiveness" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4926" />
+		<bill relation="identical" session="103" type="s" number="1527" />
+	</relatedbills>
+	<subjects>
+		<term name="Banks and banking"/>
+		<term name="American investments"/>
+		<term name="Bank holding companies"/>
+		<term name="Brokers"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Corporate mergers"/>
+		<term name="Financial services"/>
+		<term name="Foreign banks and banking"/>
+		<term name="Foreign trade"/>
+		<term name="Governmental investigations"/>
+		<term name="International banking"/>
+		<term name="International competitiveness"/>
+		<term name="Investment advisers"/>
+		<term name="Nontariff trade barriers"/>
+		<term name="Reciprocity"/>
+		<term name="Securities industry"/>
+		<term name="Securities regulation"/>
+		<term name="Trade agreements"/>
+		<term name="Trade negotiations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1993--Introduced.
+Fair Trade in Financial Services Act of 1993 - Amends the International Banking Act of 1978 to direct the Secretary of the Treasury (the Secretary) to: (1) identify the extent to which a foreign country denies national treatment to U.S. banking and securities organizations; and (2) determine whether such denial has a significant adverse effect upon them. Authorizes the Secretary to publish the determinations of adverse effect in the Federal Register. Authorizes Federal banking agencies and the Securities and Exchange Commission (SEC), upon concurrence and/or recommendation of the Secretary, to deny applications filed by entities of such identified countries. Prohibits a financial services organization of such a country from commencing any line of business in the United States in which, as of the Secretary's publication date, it was not engaged, or conduct business from any location at which the organization did not conduct business as of that date. Requires securities organizations from those countries to notify the SEC and gain its approval before acquiring control of any registered domestic securities organization. Prescribes guidelines for the Secretary to initiate negotiations with foreign countries that deny national treatment for U.S. banking and securities organizations. Requires the Secretary to submit a biennial status report to the Congress. Amends the Omnibus Trade and Competitiveness Act of 1988 to direct the Secretary to investigate and report to the President and the Congress on: (1) the extent of the interdependence of U.S. financial services sectors and certain foreign countries; and (2) the economic and strategic consequences of that interdependence for the United States.
+
+	</summary>
+</bill>

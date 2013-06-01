@@ -1,0 +1,45 @@
+<bill session="103" type="s" number="1376" updated="2012-07-17T04:35:07-04:00">
+	<state datetime="1993-08-05">REFERRED</state>
+	<status><introduced datetime="1993-08-05"/></status>
+
+	<introduced datetime="1993-08-05"/>
+	<titles>
+		<title type="official" as="introduced">A bill to repeal the Helium Act, to require the Secretary of the Interior to sell Federal real and personal property held in connection with activities carried out under the Helium Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="411818"/>
+	<cosponsors>
+		<cosponsor id="300048" joined="1994-10-06"/>
+		<cosponsor id="401874" joined="1993-11-02"/>
+		<cosponsor id="409580" joined="1994-04-12"/>
+		<cosponsor id="300064" joined="1993-11-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-05" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S10576)</text></action>
+		<action datetime="1993-08-05" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-08-06"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Energy Research and Development.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee" />
+		<committee code="SSEG-1" name="Senate Energy and Natural Resources" subcommittee="Energy Research and Development" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Government lending"/>
+		<term name="Government property"/>
+		<term name="Helium"/>
+		<term name="Public debt"/>
+		<term name="Strategic materials"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/1993--Introduced.
+Repeals the Helium Act (an Act concerned mainly with the extraction and recovery of helium for national defense purposes). Directs the Secretary of the Interior to sell or otherwise dispose of: (1) all facilities, equipment, and real or personal property held for activities under such Act; and (2) all helium reserves held by the United States other than those required for specific immediate needs. Requires sale proceeds to be used solely to reduce outstanding Federal debt.
+
+	</summary>
+</bill>

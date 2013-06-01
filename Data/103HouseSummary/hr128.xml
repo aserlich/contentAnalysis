@@ -1,0 +1,110 @@
+<bill session="103" type="hr" number="128" updated="2010-04-19T13:18:37-04:00">
+	<state datetime="1993-03-11">REFERRED</state>
+	<status><introduced datetime="1993-03-11"/></status>
+
+	<introduced datetime="1993-03-11"/>
+	<titles>
+		<title type="official" as="introduced">Concerning democracy for Zaire.</title>
+	</titles>
+	<sponsor id="400312"/>
+	<cosponsors>
+		<cosponsor id="409154" joined="1993-07-01"/>
+		<cosponsor id="400364" joined="1993-07-01"/>
+		<cosponsor id="400532" joined="1993-05-11"/>
+		<cosponsor id="400542" joined="1993-07-01"/>
+		<cosponsor id="400122" joined="1993-07-01"/>
+		<cosponsor id="400246" joined="1993-07-01"/>
+		<cosponsor id="400333" joined="1993-05-11"/>
+		<cosponsor id="407351" joined="1993-05-11"/>
+		<cosponsor id="400170" joined="1993-05-11"/>
+		<cosponsor id="408109" joined="1993-07-01"/>
+		<cosponsor id="400348" joined="1993-07-01"/>
+		<cosponsor id="400003" joined="1993-07-01"/>
+		<cosponsor id="400409" joined="1993-07-01"/>
+		<cosponsor id="400585" joined="1993-05-11"/>
+		<cosponsor id="408364" joined="1993-07-01"/>
+		<cosponsor id="400511" joined="1993-05-11"/>
+		<cosponsor id="400387" joined="1993-05-11"/>
+		<cosponsor id="400386" joined="1993-07-01"/>
+		<cosponsor id="400048" joined="1993-07-01"/>
+		<cosponsor id="410974" joined="1993-07-01"/>
+		<cosponsor id="407672" joined="1993-05-11"/>
+		<cosponsor id="400103" joined="1993-07-01"/>
+		<cosponsor id="406082" joined="1993-03-11"/>
+		<cosponsor id="400178" joined="1993-05-11"/>
+		<cosponsor id="400366" joined="1993-07-01"/>
+		<cosponsor id="404190" joined="1993-05-11"/>
+		<cosponsor id="409633" joined="1993-05-11"/>
+		<cosponsor id="407399" joined="1993-05-11"/>
+		<cosponsor id="400204" joined="1993-07-01"/>
+		<cosponsor id="400438" joined="1993-07-01"/>
+		<cosponsor id="400513" joined="1993-05-11"/>
+		<cosponsor id="400301" joined="1993-07-01"/>
+		<cosponsor id="411488" joined="1993-07-01"/>
+		<cosponsor id="403776" joined="1993-05-11"/>
+		<cosponsor id="402762" joined="1993-05-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-11"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-03-11"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-03-11"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-03-11"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-17"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on International Development, Finance, Trade and Monetary Policy.</text></action>
+		<action datetime="1993-03-17"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-03-19"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Economic Policy, Trade and Environment.</text></action>
+		<action datetime="1993-03-19"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Africa.</text></action>
+		<action datetime="1993-03-19"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Security, International Organizations and Human Rights.</text></action>
+		<action datetime="1993-05-04"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1993-11-16"><committee name="House Committee on Foreign Affairs" subcommittee="Africa"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-11-16"><committee name="House Committee on Foreign Affairs" subcommittee="Africa"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1994-04-19"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Received from State.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Economic Policy, Trade, and Environment" activity="Referral" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Africa" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Security, International Organizations, and Human Rights" activity="Referral" />
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="International Development, Finance, Trade and Monetary Policy" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Alien property"/>
+		<term name="Ambassadors"/>
+		<term name="American economic assistance"/>
+		<term name="Arms sales"/>
+		<term name="Bank accounts"/>
+		<term name="Banks and banking"/>
+		<term name="Belgium"/>
+		<term name="Democracy"/>
+		<term name="Diplomacy"/>
+		<term name="Embargo"/>
+		<term name="Foreign trade"/>
+		<term name="France"/>
+		<term name="Import restrictions"/>
+		<term name="International agencies"/>
+		<term name="International military forces"/>
+		<term name="International monetary system"/>
+		<term name="Military intervention"/>
+		<term name="Multilateral development banks"/>
+		<term name="Sanctions (International law)"/>
+		<term name="United Nations"/>
+		<term name="Visas"/>
+		<term name="Zaire"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/1993--Introduced.
+Urges President Clinton to: (1) continue working with Belgium, France, and other allies in applying diplomatic pressure necessary for democratic change in Zaire; (2) pressure President Mobutu to leave Zaire so that the legitimate transitional government can complete the process of democratization as mandated by the Sovereign National Conference; and (3) impose a variety of sanctions on President Mobutu, including freezing the bank accounts of, and denying visas to, President Mobutu, his family, and associates and expelling Mobutu's ambassador. Recommends that: (1) the United States support the suspension of Zaire from the International Monetary Fund and World Bank, impose an arms embargo, and ban all imports from Zaire if further measures are needed to ensure Mobutu's departure; and (2) if the previously stated actions are unsuccessful, President Clinton encourage such allies to join the United States in urging the United Nations Security Council to consider other options, including intervention to stabilize the situation in Zaire. Urges President Clinton, upon the departure of President Mobutu, to consider waiving the Brook Amendment and all U.S. sanctions against Zaire to allow for emergency economic assistance to the transitional government.
+
+	</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="2387" updated="2010-04-19T05:23:47-04:00">
+	<state datetime="1993-06-10">REFERRED</state>
+	<status><introduced datetime="1993-06-10"/></status>
+
+	<introduced datetime="1993-06-10"/>
+	<titles>
+		<title type="short" as="introduced">Physician Assistant Incentive Act of 1993</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for increased medicare reimbursement for physician assistants, to increase the delivery of health services in health professional shortage areas, and for other purposes.</title>
+	</titles>
+	<sponsor id="400409"/>
+	<cosponsors>
+		<cosponsor id="400543" joined="1993-06-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-10"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-06-10"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-06-16"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-07-01"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Medical care"/>
+		<term name="Medical fees"/>
+		<term name="Medicare"/>
+		<term name="Physicians' assistants"/>
+		<term name="Rural public health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/10/1993--Introduced.
+Physician Assistant Incentive Act of 1993 - Amends title XVIII (Medicare) of the Social Security Act to provide increased Medicare reimbursement for physician assistants at 97 percent of the physician fee schedule amount for services performed, regardless of the location or practice setting. Provides for bonus payments for services provided by physician assistants in health professional shortage areas.
+
+	</summary>
+</bill>

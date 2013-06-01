@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="5229" updated="2010-04-19T12:46:08-04:00">
+	<state datetime="1994-10-06">REFERRED</state>
+	<status><introduced datetime="1994-10-06"/></status>
+
+	<introduced datetime="1994-10-06"/>
+	<titles>
+		<title type="short" as="introduced">Panama Canal Amendments Act of 1994</title>
+		<title type="official" as="introduced">To amend the Panama Canal Act of 1979 to reconstitute the Panama Canal Commission as a United States Government corporation, and for other purposes.</title>
+	</titles>
+	<sponsor id="400397"/>
+	<cosponsors>
+		<cosponsor id="404068" joined="1994-10-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-06"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1994-10-07"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Coast Guard and Navigation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Coast Guard and Navigation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="5221" />
+	</relatedbills>
+	<subjects>
+		<term name="Navigation"/>
+		<term name="Executive departments"/>
+		<term name="Executive reorganization"/>
+		<term name="Foreign policy"/>
+		<term name="Government corporations"/>
+		<term name="International affairs"/>
+		<term name="International agencies"/>
+		<term name="Interoceanic canals"/>
+		<term name="Latin America"/>
+		<term name="Marine resources"/>
+		<term name="Panama"/>
+		<term name="Panama Canal"/>
+		<term name="Panama Canal Commission"/>
+		<term name="Transportation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/6/1994--Introduced.
+Panama Canal Amendments Act of 1994 - Amends the Panama Canal Act of 1979 to reestablish the Panama Canal Commission as a wholly owned government corporation within the executive branch.
+
+	</summary>
+</bill>

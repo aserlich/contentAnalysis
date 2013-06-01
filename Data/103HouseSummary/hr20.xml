@@ -1,0 +1,102 @@
+<bill session="103" type="hr" number="20" updated="2010-04-19T13:01:44-04:00">
+	<state datetime="1993-01-26T15:22:00-05:00">FAIL:ORIGINATING:HOUSE</state>
+	<status><vote datetime="1993-01-26T15:22:00-05:00" where="h" result="fail" how="roll" roll="10"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To establish the Select Committee on Narcotics Abuse and Control.</title>
+	</titles>
+	<sponsor id="400333"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-01-21"/>
+		<cosponsor id="402763" joined="1993-01-05"/>
+		<cosponsor id="400580" joined="1993-01-21"/>
+		<cosponsor id="400219" joined="1993-01-21"/>
+		<cosponsor id="409154" joined="1993-01-21"/>
+		<cosponsor id="400364" joined="1993-01-21"/>
+		<cosponsor id="400272" joined="1993-01-21"/>
+		<cosponsor id="403314" joined="1993-01-05"/>
+		<cosponsor id="400080" joined="1993-01-21"/>
+		<cosponsor id="400532" joined="1993-01-25"/>
+		<cosponsor id="401494" joined="1993-01-21"/>
+		<cosponsor id="405775" joined="1993-01-05"/>
+		<cosponsor id="300055" joined="1993-01-05"/>
+		<cosponsor id="400302" joined="1993-01-05"/>
+		<cosponsor id="400122" joined="1993-01-21"/>
+		<cosponsor id="400246" joined="1993-01-05"/>
+		<cosponsor id="400424" joined="1993-01-21"/>
+		<cosponsor id="400538" joined="1993-01-21"/>
+		<cosponsor id="401014" joined="1993-01-21"/>
+		<cosponsor id="400332" joined="1993-01-05"/>
+		<cosponsor id="404296" joined="1993-01-25"/>
+		<cosponsor id="400268" joined="1993-01-21"/>
+		<cosponsor id="400176" joined="1993-01-05"/>
+		<cosponsor id="401033" joined="1993-01-25"/>
+		<cosponsor id="400307" joined="1993-01-05"/>
+		<cosponsor id="400306" joined="1993-01-21"/>
+		<cosponsor id="400409" joined="1993-01-05"/>
+		<cosponsor id="400370" joined="1993-01-05" withdrawn="1993-01-26"/>
+		<cosponsor id="403904" joined="1993-01-21"/>
+		<cosponsor id="411725" joined="1993-01-21"/>
+		<cosponsor id="403545" joined="1993-01-05"/>
+		<cosponsor id="400312" joined="1993-01-05"/>
+		<cosponsor id="400329" joined="1993-01-21"/>
+		<cosponsor id="400188" joined="1993-01-21"/>
+		<cosponsor id="403364" joined="1993-01-21"/>
+		<cosponsor id="411350" joined="1993-01-05"/>
+		<cosponsor id="400416" joined="1993-01-21"/>
+		<cosponsor id="407306" joined="1993-01-05"/>
+		<cosponsor id="410974" joined="1993-01-21"/>
+		<cosponsor id="407672" joined="1993-01-05"/>
+		<cosponsor id="407141" joined="1993-01-21"/>
+		<cosponsor id="400251" joined="1993-01-21"/>
+		<cosponsor id="400178" joined="1993-01-21"/>
+		<cosponsor id="400350" joined="1993-01-25"/>
+		<cosponsor id="400366" joined="1993-01-21"/>
+		<cosponsor id="400536" joined="1993-01-05"/>
+		<cosponsor id="400211" joined="1993-01-21"/>
+		<cosponsor id="400269" joined="1993-01-21"/>
+		<cosponsor id="405524" joined="1993-01-05"/>
+		<cosponsor id="400438" joined="1993-01-25"/>
+		<cosponsor id="400150" joined="1993-01-05"/>
+		<cosponsor id="400163" joined="1993-01-21"/>
+		<cosponsor id="400611" joined="1993-01-05"/>
+		<cosponsor id="406790" joined="1993-01-05"/>
+		<cosponsor id="401774" joined="1993-01-21"/>
+		<cosponsor id="400516" joined="1993-01-25"/>
+		<cosponsor id="411488" joined="1993-01-21"/>
+		<cosponsor id="402762" joined="1993-01-21"/>
+		<cosponsor id="400075" joined="1993-01-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-01-21"><committee name="House Committee on Rules"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-01-21"  state="REPORTED"><committee name="House Committee on Rules"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1993-01-25T12:58:00-05:00"><text>Reported (Amended) by the Committee on Rules. H. Rept. 103-5.</text></action>
+		<calendar number="5" datetime="1993-01-25T12:58:00-05:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 5.</text></calendar>
+		<action datetime="1993-01-26T13:21:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H230-246"/></action>
+		<action datetime="1993-01-26T13:27:00-05:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-01-26T15:00:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 237 - 180 (Roll no. 9).</text></action>
+		<vote how="roll" type="vote" roll="10" datetime="1993-01-26T15:22:00-05:00" where="h" result="fail"  state="FAIL:ORIGINATING:HOUSE"><text>On agreeing to the resolution Failed by recorded vote: 180 - 237 (Roll no. 10).</text></vote>
+		<action datetime="1993-01-26T15:22:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congressional committees (House)"/>
+		<term name="Drug abuse"/>
+		<term name="Narcotic traffic"/>
+	</subjects>
+	<amendments>
+		<amendment number="h2"/>
+	</amendments>
+	<summary>
+	1/25/1993--Reported to House amended. Establishes in the House of Representatives the Select Committee on Narcotics Abuse and Control to conduct a continuing oversight and review of the problems of narcotics, drug, and polydrug abuse and control.
+
+	</summary>
+</bill>

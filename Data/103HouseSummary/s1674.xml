@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="1674" updated="2012-07-17T05:24:49-04:00">
+	<state datetime="1994-06-23">REPORTED</state>
+	<status><calendar datetime="1994-06-23" /></status>
+
+	<introduced datetime="1993-11-18"/>
+	<titles>
+		<title type="official" as="introduced">A bill to limit the authority of the Secretary of the Army to acquire land adjacent to Abiquiu Dam in New Mexico.</title>
+	</titles>
+	<sponsor id="300036"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="1993-11-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-18" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S16216)</text></action>
+		<action datetime="1993-11-18" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar datetime="1994-06-23"  state="REPORTED"><committee name="Committee on Environment and Public Works"/><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Dams"/>
+		<term name="Eminent domain"/>
+		<term name="Land transfers"/>
+		<term name="New Mexico"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/18/1993--Introduced.
+Limits the authority of the Secretary of the Army to acquire land adjacent to Abiquiu Dam in New Mexico to purchase from willing sellers.
+
+	</summary>
+</bill>

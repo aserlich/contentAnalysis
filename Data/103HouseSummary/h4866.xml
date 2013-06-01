@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="4866" updated="2010-04-19T11:50:10-04:00">
+	<state datetime="1994-08-05">REPORTED</state>
+	<status><calendar datetime="1994-08-05" /></status>
+
+	<introduced datetime="1994-08-01"/>
+	<titles>
+		<title type="short" as="introduced">Solar, Wind, Waste, and Geothermal Power Production Act of 1994</title>
+		<title type="official" as="introduced">To encourage solar, wind, waste, and geothermal power production by permanently removing the size limitations contained in the Public Utility Policies Act of 1978.</title>
+	</titles>
+	<sponsor id="409793"/>
+	<cosponsors>
+		<cosponsor id="407899" joined="1994-08-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-01"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-08-02"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Energy and Power.</text></action>
+		<action datetime="1994-08-04"><committee name="House Committee on Energy and Commerce" subcommittee="Energy and Power"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-08-04"><committee name="House Committee on Energy and Commerce" subcommittee="Energy and Power"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-08-05"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-08-05"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-08-08T13:56:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 103-684.</text></action>
+		<calendar number="373" datetime="1994-08-08T13:57:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 373.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="HSIF-03" name="House Energy and Commerce" subcommittee="Energy and Power" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Energy law and legislation"/>
+		<term name="Alternative energy sources"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Electric power production"/>
+		<term name="Electric utilities"/>
+		<term name="Electric utility rates"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Geothermal power plants"/>
+		<term name="Public utility regulation"/>
+		<term name="Refuse as fuel"/>
+		<term name="Solar power plants"/>
+		<term name="Solid wastes"/>
+		<term name="Wind power"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/8/1994--Reported to House amended. Amends the Federal Power Act to extend for two years the removal of the size restrictions for renewable energy facilities larger than 80 megawatts (thereby conferring upon such facilities the regulatory benefits conferred under the Public Utility Regulatory Policies Act of 1978 (PURPA). Requires the Secretary of Energy to study and report to the Congress on current implementation of PURPA, including: (1) mandatory purchase requirements; (2) implementation of avoided cost requirements by State public service commissions; and (3) ownership restrictions.
+
+	</summary>
+</bill>

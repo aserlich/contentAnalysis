@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="2036" updated="2010-04-19T04:29:41-04:00">
+	<state datetime="1993-05-06">REFERRED</state>
+	<status><introduced datetime="1993-05-06"/></status>
+
+	<introduced datetime="1993-05-06"/>
+	<titles>
+		<title type="official" as="introduced">To cancel the F/A-18 aircraft upgrade program.</title>
+	</titles>
+	<sponsor id="300085"/>
+	<cosponsors>
+		<cosponsor id="406431" joined="1993-11-20"/>
+		<cosponsor id="400216" joined="1994-02-02"/>
+		<cosponsor id="407153" joined="1994-07-19"/>
+		<cosponsor id="412001" joined="1993-11-20"/>
+		<cosponsor id="409618" joined="1994-07-25"/>
+		<cosponsor id="400251" joined="1993-11-22"/>
+		<cosponsor id="300100" joined="1994-05-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-06"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-05-11"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Acquisition.</text></action>
+		<action datetime="1993-05-11"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Acquisition" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Defense procurement"/>
+		<term name="Fighter aircraft"/>
+		<term name="Reprogramming of appropriated funds"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/6/1993--Introduced.
+Directs the Secretary of Defense to cancel the F/A-18 aircraft upgrade program. Provides that funds programmed or appropriated for such upgrade for fiscal years after FY 1992 shall be used to procure additional such aircraft configured in the C/D model.
+
+	</summary>
+</bill>

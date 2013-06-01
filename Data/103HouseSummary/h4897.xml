@@ -1,0 +1,68 @@
+<bill session="103" type="h" number="4897" updated="2010-04-19T11:55:01-04:00">
+	<state datetime="1994-08-04">REFERRED</state>
+	<status><introduced datetime="1994-08-04"/></status>
+
+	<introduced datetime="1994-08-04"/>
+	<titles>
+		<title type="short" as="introduced">Child Support Enforcement Act of 1994</title>
+		<title type="official" as="introduced">To provide for more effective child support enforcement.</title>
+	</titles>
+	<sponsor id="400081"/>
+	<cosponsors>
+		<cosponsor id="404503" joined="1994-08-09"/>
+		<cosponsor id="410147" joined="1994-10-06"/>
+		<cosponsor id="400155" joined="1994-08-04"/>
+		<cosponsor id="400183" joined="1994-09-26"/>
+		<cosponsor id="406420" joined="1994-09-12"/>
+		<cosponsor id="400143" joined="1994-08-09"/>
+		<cosponsor id="408476" joined="1994-09-26"/>
+		<cosponsor id="406024" joined="1994-10-06"/>
+		<cosponsor id="300058" joined="1994-09-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-04"><text>Sponsor introductory remarks on measure. (CR H6771-6772, E1651-1652)</text></action>
+		<action datetime="1994-08-04"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-09-22"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+		<action datetime="1994-10-07"><committee name="House Committee on Ways and Means"/><text>See H.R.5252.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5252" />
+	</relatedbills>
+	<subjects>
+		<term name="Children"/>
+		<term name="Banks and banking"/>
+		<term name="Business"/>
+		<term name="Child support"/>
+		<term name="Claims"/>
+		<term name="Collection of accounts"/>
+		<term name="Consumer credit"/>
+		<term name="Consumers"/>
+		<term name="Driver licenses"/>
+		<term name="Families"/>
+		<term name="Finance"/>
+		<term name="Forfeiture"/>
+		<term name="Gambling"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Grandparents"/>
+		<term name="Insurance"/>
+		<term name="Law"/>
+		<term name="Licenses"/>
+		<term name="Lotteries"/>
+		<term name="Motor vehicle registration"/>
+		<term name="Probate law and practice"/>
+		<term name="Transportation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/4/1994--Introduced.
+Child Support Enforcement Act of 1994 - Amends title IV (Aid to Families With Dependent Children) (AFDC) of the Social Security Act to require State laws to have in effect procedures for seizure of lottery winnings, settlements, and payouts and for the sale of forfeited property to pay child support arrearages. Requires State procedures prohibiting the issuance or renewal of certain professional, occupational, business, and driver's licenses to noncustodial parents who are: (1) delinquent in the payment of child support; or (2) the subject of an outstanding failure to appear warrant related to a child support proceeding on the State's crime information system. Provides for: (1) attachment of bank accounts to satisfy child support arrearages; and (2) the reporting of child support obligations to credit bureaus. Requires State procedures under which each parent of an individual is liable for the financial support of any child of that individual to the extent the individual is unable to provide such support.
+
+	</summary>
+</bill>

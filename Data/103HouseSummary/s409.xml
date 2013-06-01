@@ -1,0 +1,56 @@
+<bill session="103" type="s" number="409" updated="2012-07-17T04:40:11-04:00">
+	<state datetime="1993-07-14">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-07-14" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-02-18"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend the terms of various patents, and for other purposes.</title>
+	</titles>
+	<sponsor id="404598"/>
+	<cosponsors>
+		<cosponsor id="300157" joined="1993-03-16"/>
+		<cosponsor id="300048" joined="1993-03-09"/>
+		<cosponsor id="403669" joined="1993-03-09"/>
+		<cosponsor id="300052" joined="1993-02-18"/>
+		<cosponsor id="300043" joined="1993-06-10"/>
+		<cosponsor id="405310" joined="1993-03-09"/>
+		<cosponsor id="300023" joined="1993-06-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-18" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1914-1915)</text></action>
+		<action datetime="1993-02-18" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+		<action datetime="1993-02-24"><text>Senate Committee on Finance discharged by Unanimous Consent.</text></action>
+		<action datetime="1993-02-24"><text>Referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-03-05"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Patents, Copyrights and Trademarks.</text></action>
+		<calendar datetime="1993-05-06"  state="REPORTED"><committee name="Committee on Judiciary"/><text>Committee on Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1993-06-23"><text>Committee on Judiciary. Reported to Senate by Senator Biden with an amendment in the nature of a substitute. With written report No. 103-64.</text></action>
+		<calendar under="General Orders" number="102" datetime="1993-06-23" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 102.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-07-14" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-07-15T10:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-07-15"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-07-15"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-07-20"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, Discharged" />
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Judiciary" subcommittee="Patents, Copyrights and Trademarks" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Patents"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/18/1993--Introduced.
+Extends the terms of certain patents for: (1) olestra; (2) the insignia of the United Daughters of the Confederacy; and (3) badges of the American Legion, the American Legion Women's Auxiliary, and the Sons of the American Legion.
+
+	</summary>
+</bill>

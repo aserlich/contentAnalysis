@@ -1,0 +1,65 @@
+<bill session="103" type="h" number="3301" updated="2010-04-19T07:45:28-04:00">
+	<state datetime="1993-10-19">REFERRED</state>
+	<status><introduced datetime="1993-10-19"/></status>
+
+	<introduced datetime="1993-10-19"/>
+	<titles>
+		<title type="short" as="introduced">Domestic Violence Firearm Prevention Act</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, to prevent persons who have committed domestic abuse from obtaining a firearm.</title>
+	</titles>
+	<sponsor id="300156"/>
+	<cosponsors>
+		<cosponsor id="400246" joined="1993-10-19"/>
+		<cosponsor id="408109" joined="1993-10-26"/>
+		<cosponsor id="400527" joined="1993-10-28"/>
+		<cosponsor id="300068" joined="1993-11-10"/>
+		<cosponsor id="400106" joined="1993-10-28"/>
+		<cosponsor id="400316" joined="1993-11-17"/>
+		<cosponsor id="404375" joined="1994-01-26"/>
+		<cosponsor id="400533" joined="1993-10-26"/>
+		<cosponsor id="400103" joined="1993-10-19"/>
+		<cosponsor id="409650" joined="1993-10-19"/>
+		<cosponsor id="400140" joined="1993-10-26"/>
+		<cosponsor id="400422" joined="1993-11-10"/>
+		<cosponsor id="400251" joined="1993-10-26"/>
+		<cosponsor id="405524" joined="1993-10-26"/>
+		<cosponsor id="402152" joined="1993-10-26"/>
+		<cosponsor id="400615" joined="1993-10-26"/>
+		<cosponsor id="404190" joined="1993-11-10"/>
+		<cosponsor id="400283" joined="1993-10-19"/>
+		<cosponsor id="400240" joined="1993-10-26"/>
+		<cosponsor id="400314" joined="1993-10-28"/>
+		<cosponsor id="400278" joined="1994-01-26"/>
+		<cosponsor id="405507" joined="1994-01-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-19"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1570" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Ammunition"/>
+		<term name="Criminal justice"/>
+		<term name="Families"/>
+		<term name="Family violence"/>
+		<term name="Firearms"/>
+		<term name="Firearms control"/>
+		<term name="Wife abuse"/>
+		<term name="Women"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/19/1993--Introduced.
+Domestic Violence Firearm Prevention Act - Amends the Federal criminal code to prohibit the sale or other disposal of firearms or ammunition to, or the receipt of firearms or ammunition by, persons convicted of offenses involving domestic abuse.
+
+	</summary>
+</bill>

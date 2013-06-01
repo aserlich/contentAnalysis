@@ -1,0 +1,60 @@
+<bill session="103" type="s" number="164" updated="2012-07-17T04:38:54-04:00">
+	<state datetime="1993-04-12">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-04-12" /></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize the adjustment of the boundaries of the South Dakota portion of the Sioux Ranger District of Custer National Forest, and for other purposes.</title>
+	</titles>
+	<sponsor id="300031"/>
+	<cosponsors>
+		<cosponsor id="408898" joined="1993-02-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S594)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-01-23"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1993-03-02"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of Agriculture, and Office of Management and Budget.</text></action>
+		<calendar datetime="1993-03-03"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-03-11"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 103-10.</text></action>
+		<calendar under="General Orders" number="24" datetime="1993-03-11" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 24.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-03-17" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S3037"/></vote>
+		<action datetime="1993-03-18T11:27:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-03-18"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-03-18T19:14:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-03-29T16:14:00-05:00"><text>Mr. Vento moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-03-29T16:15:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1655-1656"/></action>
+		<action datetime="1993-03-29T16:15:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-03-29T16:17:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed until March 30.</text></action>
+		<action datetime="1993-03-30T13:39:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1697"/></action>
+		<vote how="roll" type="vote2" roll="117" datetime="1993-03-30T13:48:00-05:00" where="h" result="pass" suspension="1"  state="PASSED:BILL"><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays (2/3 required): 417 - 3 (Roll No. 117).</text></vote>
+		<action datetime="1993-03-30T13:48:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-03-30" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-04-01" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-04-12" ><text>Signed by President.</text></signed>
+		<enacted number="103-16" type="public" datetime="1993-04-12"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-16.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="720" />
+		<bill relation="unknown" session="103" type="h" number="720" />
+		<bill relation="unknown" session="103" type="h" number="720" />
+	</relatedbills>
+	<subjects>
+		<term name="Forests and forestry"/>
+		<term name="Land transfers"/>
+		<term name="National forests"/>
+		<term name="South Dakota"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Authorizes the Secretary of Agriculture to accept title to any non-Federal lands within five miles of the exterior boundaries of the South Dakota portion of the Sioux Ranger District of Custer National Forest, which are found to be chiefly valuable for national forest purposes in exchange for national forest lands in Custer National Forest. Incorporates such lands into the forest.
+
+	</summary>
+</bill>

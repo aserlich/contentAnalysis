@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="2569" updated="2010-04-19T05:52:09-04:00">
+	<state datetime="1993-06-30">REFERRED</state>
+	<status><introduced datetime="1993-06-30"/></status>
+
+	<introduced datetime="1993-06-30"/>
+	<titles>
+		<title type="short" as="introduced">Domestic Spending Freeze Act of 1993</title>
+		<title type="official" as="introduced">To freeze domestic discretionary spending for fiscal years 1994 and 1995 at fiscal year 1993 levels.</title>
+	</titles>
+	<sponsor id="404296"/>
+	<cosponsors>
+		<cosponsor id="412001" joined="1994-07-28"/>
+		<cosponsor id="410887" joined="1994-03-18"/>
+		<cosponsor id="411997" joined="1993-11-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-30"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-06-30"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-07-02"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="411" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Congressional budget"/>
+		<term name="Government spending reductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/30/1993--Introduced.
+Domestic Spending Freeze Act of 1993 - Prohibits domestic spending limits for FY 1994 and 1995 from exceeding such limits for FY 1993.
+
+	</summary>
+</bill>

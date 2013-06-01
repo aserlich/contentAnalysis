@@ -1,0 +1,165 @@
+<bill session="103" type="s" number="473" updated="2012-07-17T05:37:27-04:00">
+	<state datetime="1993-11-20">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-11-20" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-03-02"/>
+	<titles>
+		<title type="short" as="introduced">Department of Energy National Competitiveness Technology Partnership Act of 1993</title>
+		<title type="short" as="reported to house">Department of Energy Laboratory Technology Act of 1994</title>
+		<title type="short" as="reported to senate">Department of Energy National Competitiveness Technology Partnership Act of 1993</title>
+		<title type="short" as="passed senate">Department of Energy National Competitiveness Technology Partnership Act of 1993</title>
+		<title type="official" as="introduced">A bill to promote the industrial competitiveness and economic growth of the United States by strengthening the linkages between the laboratories of the Department of Energy and the private sector and by supporting the development and application of technologies critical to the economic, scientific and technological competitiveness of the United States, and for other purposes.</title>
+	</titles>
+	<sponsor id="406084"/>
+	<cosponsors>
+		<cosponsor id="404219" joined="1993-03-02"/>
+		<cosponsor id="300009" joined="1993-03-02"/>
+		<cosponsor id="411271" joined="1993-03-02"/>
+		<cosponsor id="409580" joined="1993-05-27"/>
+		<cosponsor id="300036" joined="1993-03-02"/>
+		<cosponsor id="407254" joined="1993-03-02"/>
+		<cosponsor id="405212" joined="1993-03-11"/>
+		<cosponsor id="400559" joined="1993-03-02"/>
+		<cosponsor id="300076" joined="1993-07-21"/>
+		<cosponsor id="300069" joined="1993-05-27"/>
+		<cosponsor id="300029" joined="1993-03-09"/>
+		<cosponsor id="300082" joined="1993-11-19"/>
+		<cosponsor id="406256" joined="1993-03-02"/>
+		<cosponsor id="409917" joined="1993-06-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-02" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2215-2216, S2220-2221)</text></action>
+		<action datetime="1993-03-02" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-03-03"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Energy Research and Development.</text></action>
+		<action datetime="1993-03-09" state="REPORTED"><text>Star Print ordered on S.473.</text></action>
+		<action datetime="1993-03-11" state="REFERRED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of Energy, and Office of Management and Budget.</text></action>
+		<action datetime="1993-03-18"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Hearings held.</text></action>
+		<action datetime="1993-03-23"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Hearings held.</text></action>
+		<action datetime="1993-03-24"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Hearings concluded. Hearings printed: S.Hrg. 103-70.</text></action>
+		<calendar datetime="1993-05-26"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1993-06-24"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment in the nature of a substitute. With written report No. 103-69.</text></action>
+		<calendar under="General Orders" number="109" datetime="1993-06-24" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 109.</text></calendar>
+		<action datetime="1993-11-20"><text>Measure laid before Senate.</text></action>
+		<action datetime="1993-11-20"><text>The committee substitute as amended agreed to by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote. (consideration: CR 11/19/1993 S16574-16583)</text></vote>
+		<action datetime="1993-11-20T14:05:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-20"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-20T18:52:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-03-08"><text>Senate ordered measure printed as passed.</text></action>
+		<action datetime="1994-05-02"><text>Referred jointly to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-05-02"><text>Referred jointly to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1994-05-02"><text>Referred jointly to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-05-04"><committee name="Committee on Energy and Natural Resources"/><text>Referred to the Subcommittee on Energy.</text></action>
+		<action datetime="1994-05-06"><committee name="Committee on Energy and Natural Resources"/><text>Referred to the Subcommittee on Military Acquisition.</text></action>
+		<action datetime="1994-05-06"><committee name="Committee on Energy and Natural Resources"/><text>Executive Comment Requested from DOE.</text></action>
+		<action datetime="1994-05-10"><committee name="Committee on Energy and Natural Resources"/><text>Referred to the Subcommittee on Energy and Power.</text></action>
+		<action datetime="1994-05-17"><committee name="Committee on Energy and Natural Resources" subcommittee="Energy and Power"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-05-17"><committee name="Committee on Energy and Natural Resources" subcommittee="Energy and Power"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1994-06-09"><committee name="Committee on Energy and Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-06-09" ><committee name="Committee on Energy and Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-07-19T13:03:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 103-611, Part I.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSEG-1" name="Senate Energy and Natural Resources" subcommittee="Energy Research and Development" activity="Referral" />
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Acquisition" activity="Referral" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Energy" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="HSIF-03" name="House Energy and Commerce" subcommittee="Energy and Power" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="2251" />
+	</relatedbills>
+	<subjects>
+		<term name="Science, technology, communications"/>
+		<term name="Administrative procedure"/>
+		<term name="Armed forces and national security"/>
+		<term name="Astronautics"/>
+		<term name="Awards, medals, prizes"/>
+		<term name="Black colleges"/>
+		<term name="Career education"/>
+		<term name="Commemorations"/>
+		<term name="Commerce"/>
+		<term name="Commercialization"/>
+		<term name="Computer industry"/>
+		<term name="Computer integrated manufacturing systems"/>
+		<term name="Computer networks"/>
+		<term name="Computers"/>
+		<term name="Computers and government"/>
+		<term name="Computers in education"/>
+		<term name="Conflict of interests"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Department of Energy"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Employee training"/>
+		<term name="Energy"/>
+		<term name="Energy efficiency"/>
+		<term name="Energy policy"/>
+		<term name="Energy research"/>
+		<term name="Energy supplies"/>
+		<term name="Engineering"/>
+		<term name="Engineers"/>
+		<term name="Environmental protection"/>
+		<term name="Environmental research"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Federal employees"/>
+		<term name="Federal officials"/>
+		<term name="Financial disclosure"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Government and business"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Government procurement"/>
+		<term name="Government trust funds"/>
+		<term name="Health"/>
+		<term name="Higher education"/>
+		<term name="Information networks"/>
+		<term name="Intellectual property"/>
+		<term name="International competitiveness"/>
+		<term name="Labor and employment"/>
+		<term name="Laboratories"/>
+		<term name="Lasers"/>
+		<term name="Manufacturing industries"/>
+		<term name="Materials research"/>
+		<term name="Mathematics"/>
+		<term name="Medical research"/>
+		<term name="Minorities"/>
+		<term name="Minority education"/>
+		<term name="Nonprofit organizations"/>
+		<term name="Nuclear research"/>
+		<term name="Nuclear weapons"/>
+		<term name="Products liability"/>
+		<term name="Recruiting of employees"/>
+		<term name="Research and development"/>
+		<term name="Research and development contracts"/>
+		<term name="Scholarships"/>
+		<term name="Scientific education"/>
+		<term name="Scientific exchanges"/>
+		<term name="Scientists in government"/>
+		<term name="Small business"/>
+		<term name="Space activities"/>
+		<term name="Standards"/>
+		<term name="Supercomputers"/>
+		<term name="Technological forecasting"/>
+		<term name="Technological innovations"/>
+		<term name="Technology policy"/>
+		<term name="Technology transfer"/>
+		<term name="Transfer of employees"/>
+		<term name="Transportation and public works"/>
+		<term name="Transportation research"/>
+		<term name="Uranium enrichment"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1225"/>
+	</amendments>
+	<summary>
+	7/19/1994--Reported to House amended. Department of Energy Laboratory Technology Act of 1994 - Amends the Department of Energy Organization Act to add a new &quot;Title XI - Departmental Laboratories.&quot; (Sec. 2) Defines &quot;technology transfer&quot; to mean any collaborative effort involving governmental, educational, and private entities, including any process by which federally owned or originated technology or intellectual property rights associated with such technology are transferred to such entities. Authorizes the Secretary of Energy to maintain department laboratories to advance missions to: (1) maintain national security; (2) ensure the Nation's energy supply; and (3) implement research, development, and commercial application on technologies that minimize environmental impacts of the production and use of energy. Authorizes additional missions subject to certain determinations made by the President. Prescribes a technology transfer scheme which: (1) establishes a sliding scale mechanism within which the Secretary may allocate for technology transfer activities at each departmental laboratory up to 20 percent of the funds appropriated for research, demonstration, and commercial applications; and (2) permits the Secretary to use the scientific, technical, and human resources of the departmental laboratories to improve the quality of education in science, mathematics, and engineering. Instructs the Secretary to submit to the Congress and the National Science and Technology Council a report prepared by the Secretary of Energy's Advisory Board Task Force on alternative scenarios for future uses of the departmental laboratories. Directs the National Science and Technology Council to submit to the Congress its review of such report. Prescribes implementation guidelines. Directs the Secretary and the departmental laboratory directors to seek advice from industry, labor, education, and professional sectors with respect to DOE collaboration with industry. Authorizes the Secretary to establish a National Technology Partnership Award. Directs the President to review and evaluate on an ongoing basis the technology transfer implementation by the Federal laboratories. Instructs the Secretary to issue a notice of proposed rulemaking with respect to contractor reform and DOE laboratory management and operations (including cost reimbursement for certain contractor fines, third party liabilities, and damage to Federal property). Requires the Secretary to use an objective merit review process before awarding financial assistance for non-military activities. Directs the Secretary to report annually to certain congressional committees on opportunities for minority educational institutions to participate in DOE activities or those of departmental laboratories. Prescribes guidelines under which cooperative research and development agreements (CRADAs) entered into under the Stevenson-Wydler Technology Innovation Act of 1980 must reflect the requirements of this Act. Directs the Secretary to: (1) develop a departmental laboratories' cost savings implementation plan; and (2) report thereon to the Congress. (Sec. 3) Amends the Stevenson-Wydler Technology Innovation Act of 1980 to: (1) streamline the CRADA review and approval process; (2) require CRADAs involving a Federal commitment of $500,000 or more to contain a schedule of performance goals and evaluation criteria; and (3) authorize a Federal agency to permit a laboratory director to enter into certain small-sized CRADAs without specific agency approval if the activity is consistent with an assigned laboratory mission.
+
+	</summary>
+</bill>

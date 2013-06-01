@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="642" updated="2010-04-19T00:42:38-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="official" as="introduced">To provide that for taxable years beginning before 1980 the federal income tax deductibility of flight training expenses shall be determined without regard to whether such expenses were reimbursed through certain veterans educational assistance allowances.</title>
+	</titles>
+	<sponsor id="410529"/>
+	<cosponsors>
+		<cosponsor id="300030" joined="1994-08-03"/>
+		<cosponsor id="405855" joined="1994-07-12"/>
+		<cosponsor id="400261" joined="1993-10-13"/>
+		<cosponsor id="403545" joined="1994-07-19"/>
+		<cosponsor id="404375" joined="1994-10-06"/>
+		<cosponsor id="409954" joined="1994-10-06"/>
+		<cosponsor id="409829" joined="1994-10-06"/>
+		<cosponsor id="400169" joined="1994-07-20"/>
+		<cosponsor id="400265" joined="1994-03-11"/>
+		<cosponsor id="400109" joined="1994-08-03"/>
+		<cosponsor id="411178" joined="1994-07-19"/>
+		<cosponsor id="401081" joined="1993-07-15"/>
+		<cosponsor id="400301" joined="1994-06-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2338" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Costs"/>
+		<term name="Education"/>
+		<term name="Flight training"/>
+		<term name="Higher education"/>
+		<term name="Tax deductions"/>
+		<term name="Taxation"/>
+		<term name="Transportation"/>
+		<term name="Veterans"/>
+		<term name="Veterans' education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Requires that, for pre-1980 tax years, the Federal income tax deductibility of flight training expenses be determined without considering whether the taxpayer received reimbursement through veterans' educational programs.
+
+	</summary>
+</bill>

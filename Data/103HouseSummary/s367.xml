@@ -1,0 +1,46 @@
+<bill session="103" type="s" number="367" updated="2012-07-17T04:09:54-04:00">
+	<state datetime="1993-02-16">REFERRED</state>
+	<status><introduced datetime="1993-02-16"/></status>
+
+	<introduced datetime="1993-02-16"/>
+	<titles>
+		<title type="short" as="introduced">Downed Animal Protection Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend the Packers and Stockyards Act, 1921, to make it unlawful for any stockyard owner, market agency, or dealer to transfer or market nonambulatory livestock, and for other purposes.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+		<cosponsor id="408597" joined="1993-02-16"/>
+		<cosponsor id="402727" joined="1993-07-01"/>
+		<cosponsor id="300034" joined="1993-04-22"/>
+		<cosponsor id="300082" joined="1993-02-16"/>
+		<cosponsor id="300017" joined="1993-04-22"/>
+		<cosponsor id="300155" joined="1993-02-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-16" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1603-1604)</text></action>
+		<action datetime="1993-02-16" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-03-15"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Agricultural Research.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Agricultural Research, Conservation, Forestry and General Legislation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="559" />
+	</relatedbills>
+	<subjects>
+		<term name="Animals"/>
+		<term name="Euthanasia"/>
+		<term name="Livestock"/>
+		<term name="Livestock industry"/>
+		<term name="Protection of animals"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/16/1993--Introduced.
+Downed Animal Protection Act - Amends the Packers and Stockyards Act, 1921 to make it unlawful for any stockyard owner, market agency, or dealer to market, transfer, or hold nonambulatory livestock that has not been humanely euthanized.
+
+	</summary>
+</bill>

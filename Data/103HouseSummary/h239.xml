@@ -1,0 +1,79 @@
+<bill session="103" type="h" number="239" updated="2010-04-18T23:37:05-04:00">
+	<state datetime="1993-04-16">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-04-16" /></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Stock Raising Homestead Act to resolve certain problems regarding subsurface estates, and for other purposes.</title>
+	</titles>
+	<sponsor id="406729"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-01-26"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Energy and Mineral Resources.</text></action>
+		<action datetime="1993-02-23"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on Natural Resources" subcommittee="Energy and Mineral Resources"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Natural Resources" subcommittee="Energy and Mineral Resources"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Natural Resources" subcommittee="Energy and Mineral Resources"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-03-17"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-03-17"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1993-03-29T16:00:00-05:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-44.</text></action>
+		<calendar number="20" datetime="1993-03-29T16:01:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 20.</text></calendar>
+		<action datetime="1993-03-29T16:17:00-05:00"><text>Mr. Lehman moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-03-29T16:18:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1656-1658"/></action>
+		<action datetime="1993-03-29T16:19:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-03-29T16:24:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed until March 30.</text></action>
+		<action datetime="1993-03-30T13:51:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1698-1699"/></action>
+		<vote how="roll" type="vote" roll="118" datetime="1993-03-30T13:58:00-05:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 1 (Roll no. 118).</text></vote>
+		<action datetime="1993-03-30T13:58:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-03-31"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-04-01" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S4250"/></vote>
+		<topresident datetime="1993-04-01" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-04-02"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-04-05" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-04-16" ><text>Signed by President.</text></signed>
+		<enacted number="103-23" type="public" datetime="1993-04-16"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-23.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-06" name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="336" />
+		<bill relation="unknown" session="103" type="s" number="336" />
+	</relatedbills>
+	<subjects>
+		<term name="Mines and mineral resources"/>
+		<term name="Actions and defenses"/>
+		<term name="Administrative fees"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Damages"/>
+		<term name="Environmental protection"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Foreign investments"/>
+		<term name="Foreign trade"/>
+		<term name="Government paperwork"/>
+		<term name="Grazing"/>
+		<term name="Homestead law"/>
+		<term name="Injunctions"/>
+		<term name="Land transfers"/>
+		<term name="Land use"/>
+		<term name="Mining claims"/>
+		<term name="Prospecting"/>
+		<term name="Public lands"/>
+		<term name="Reclamation of land"/>
+		<term name="Soil conservation"/>
+		<term name="Soil erosion"/>
+		<term name="Surety and fidelity"/>
+		<term name="User charges"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/29/1993--Reported to House amended. (Sec. 1) Amends Federal law regarding stock-raising homesteads to require a written notice to the surface owner before a person may enter lands for exploration purposes or to locate a mining claim. Provides for an authorized exploration period during which exploring and locating a mining claim may be conducted with minimal surface disruption, but no road construction, use of explosives, mechanical earth moving equipment, or hazardous materials. Limits the total acreage that may be covered at any time by notices of intention to locate a claim. Prohibits any mineral exploration or development activities without the surface owner's written consent unless the Secretary of the Interior (the Secretary) has authorized them according to prescribed guidelines which include posting a surety bond to insure: (1) completion of surface reclamation; (2) compensation to the surface owner for permanent damages to crops and tangible improvements; and (3) compensation for permanent loss of income by the surface owner from impaired land use. Prohibits the Secretary from authorizing any mineral activities unless a plan of operations has been submitted meeting specified criteria, including: (1) minimization of damages to crops and tangible improvements of the surface owner, and of disruption to grazing or other land use by the surface owner; and (2) payment of a fee to the surface owner, equivalent to the loss of income to the ranch operation. Directs the Secretary to submit such plan of operations for the surface owner's comments and modifications before determining whether it complies with this Act. Requires reclamation of land to return it, as contemporaneously as practicable with the conduct of mineral activities, to a condition capable of supporting the uses which it was capable of supporting before surface disturbance. Authorizes any surface owner to request an inspection if such owner has reason to believe that he may be adversely affected due to any violation of an approved plan of operations. Authorizes a surface owner to bring an action in Federal district court for damages resulting from non-compliance with this Act. Authorizes the Secretary, upon petition by the surface owner, to provide compensation for damages through payment of all or part of any bond or other financial guarantee required under this Act. (Sec. 2) Directs the Secretary to report to the Congress within two years on the acquisition of mineral interests after enactment of this Act by foreign firms on lands subject to the 1916 Stock Raising Homestead Act.
+
+	</summary>
+</bill>

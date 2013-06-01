@@ -1,0 +1,51 @@
+<bill session="103" type="hj" number="412" updated="2010-04-18T22:57:06-04:00">
+	<state datetime="1994-09-20">REFERRED</state>
+	<status><introduced datetime="1994-09-20"/></status>
+
+	<introduced datetime="1994-09-20"/>
+	<titles>
+		<title type="official" as="introduced">To express the sense of the Congress in commemoration of the 75th anniversary of Grand Canyon National Park.</title>
+	</titles>
+	<sponsor id="400504"/>
+	<cosponsors>
+		<cosponsor id="402890" joined="1994-09-20"/>
+		<cosponsor id="400226" joined="1994-09-20"/>
+		<cosponsor id="403875" joined="1994-09-20"/>
+		<cosponsor id="400310" joined="1994-09-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-20"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-10-05"><committee name="House Committee on Natural Resources"/><text>Late Referral to the Subcommittee on National Parks, Forests and Public Lands (Nov 21, 94).</text></action>
+		<action datetime="1994-10-06"><committee name="House Committee on Natural Resources"/><text>See S.J.Res.221.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="sj" number="21" />
+		<bill relation="identical" session="103" type="sj" number="221" />
+		<bill relation="unknown" session="103" type="sj" number="221" />
+		<bill relation="unknown" session="103" type="sj" number="221" />
+	</relatedbills>
+	<subjects>
+		<term name="Anniversaries"/>
+		<term name="Arizona"/>
+		<term name="Commemorations"/>
+		<term name="Congress"/>
+		<term name="Congressional tributes"/>
+		<term name="Department of the Interior"/>
+		<term name="Executive departments"/>
+		<term name="Federal employees"/>
+		<term name="Government employees"/>
+		<term name="National parks"/>
+		<term name="Public lands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/20/1994--Introduced.
+Expresses the sense of the Congress in commemoration of the 75th anniversary of the Grand Canyon National Park.
+
+	</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="5050" updated="2010-04-19T12:18:40-04:00">
+	<state datetime="1994-09-28">REPORTED</state>
+	<status><calendar datetime="1994-09-28" /></status>
+
+	<introduced datetime="1994-09-19"/>
+	<titles>
+		<title type="short" as="introduced">Paskenta Band Restoration Act</title>
+		<title type="short" as="reported to house">Paskenta Band Restoration Act</title>
+		<title type="official" as="introduced">To restore Federal recognition to the Paskenta Band of Nomlaki Indians of California.</title>
+	</titles>
+	<sponsor id="404013"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1994-09-19"/>
+		<cosponsor id="400278" joined="1994-09-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-19"><text>Sponsor introductory remarks on measure. (CR E1867)</text></action>
+		<action datetime="1994-09-19"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on Natural Resources"/><text>Late Referral to the Subcommittee on Native American Affairs (Nov 21, 94).</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T20:20:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-801.</text></action>
+		<calendar number="447" datetime="1994-10-03T20:20:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 447.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Indians"/>
+		<term name="Budgets"/>
+		<term name="California"/>
+		<term name="Constitutions"/>
+		<term name="Economic policy"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Indian economic development"/>
+		<term name="Indian lands"/>
+		<term name="Minorities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Reported to House amended. Paskenta Band Restoration Act - Extends Federal recognition and restores rights and privileges of the Paskenta Band of Nomlaki Indians of the Paskenta Rancheria of California.
+
+	</summary>
+</bill>

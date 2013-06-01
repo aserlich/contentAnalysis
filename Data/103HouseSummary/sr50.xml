@@ -1,0 +1,38 @@
+<bill session="103" type="sr" number="50" updated="2010-04-19T22:07:15-04:00">
+	<state datetime="1993-01-21">REPORTED</state>
+	<status><calendar datetime="1993-01-21" /></status>
+
+	<introduced datetime="1993-02-02"/>
+	<titles>
+		<title type="official" as="introduced">An original resolution authorizing expenditures by the Committee on Banking, Housing, and Urban Affairs.</title>
+	</titles>
+	<sponsor id="409225"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar datetime="1993-01-21"  state="REPORTED"><text>Committee on Banking ordered to be reported an original measure.</text></calendar>
+		<action datetime="1993-02-02"><text>Committee on Banking. Original measure reported to Senate by Senator Riegle. Without written report.</text></action>
+		<action datetime="1993-02-02"><text>Referred to the Committee on Rules.</text></action>
+		<calendar datetime="1993-02-18" ><text>Committee on Rules. Provisions of measure incorporated into measure S.RES. 71 ordered to be reported.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Origin, Reporting, Markup" />
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="sr" number="71" />
+	</relatedbills>
+	<subjects>
+		<term name="Senate"/>
+		<term name="Congressional committees (Senate)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1993--Introduced.
+Authorizes expenditures by the Senate Committee on Banking, Housing, and Urban Affairs for the 103d Congress.
+
+	</summary>
+</bill>

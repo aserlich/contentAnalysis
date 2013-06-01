@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="3778" updated="2010-04-19T08:59:39-04:00">
+	<state datetime="1994-02-02">REFERRED</state>
+	<status><introduced datetime="1994-02-02"/></status>
+
+	<introduced datetime="1994-02-02"/>
+	<titles>
+		<title type="short" as="introduced">Congressional Parking Act</title>
+		<title type="official" as="introduced">To terminate funds for congressional parking attendants and to charge for parking.</title>
+	</titles>
+	<sponsor id="400649"/>
+	<cosponsors>
+		<cosponsor id="406431" joined="1994-04-28"/>
+		<cosponsor id="400083" joined="1994-08-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-02"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1994-02-11"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Appropriations"/>
+		<term name="Budgets"/>
+		<term name="Congressional employees"/>
+		<term name="Congressional office buildings"/>
+		<term name="Congressional privileges and immunities"/>
+		<term name="Government employees"/>
+		<term name="Government spending reductions"/>
+		<term name="Members of Congress"/>
+		<term name="Parking facilities"/>
+		<term name="Transportation"/>
+		<term name="User charges"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1994--Introduced.
+Congressional Parking Act - Prohibits funds from being appropriated for congressional parking attendants or administering congressional parking attendants beginning in FY 1995. Provides that Members of Congress, staff, and visitors shall be charged market rates for parking within the buildings and parking lots in the Capitol Hill complex.
+
+	</summary>
+</bill>

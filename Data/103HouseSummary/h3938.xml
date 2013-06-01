@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="3938" updated="2010-05-20T23:24:34-04:00">
+	<state datetime="1994-03-02">REFERRED</state>
+	<status><introduced datetime="1994-03-02"/></status>
+
+	<introduced datetime="1994-03-02"/>
+	<titles>
+		<title type="official" as="introduced">To provide duty-free privileges to participants in, and other individuals associated with, the 1994 World Rowing Championships.</title>
+	</titles>
+	<sponsor id="405939"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-02"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-03-04"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1994-03-08"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1994-03-23"><committee name="House Committee on Ways and Means"/><text>For Further Action See H.R.4066.</text></action>
+		<action datetime="1994-06-08"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4066" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Aliens"/>
+		<term name="Athletes"/>
+		<term name="Athletics"/>
+		<term name="Equipment and supplies"/>
+		<term name="Sports"/>
+		<term name="Tariff"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/2/1994--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to provide duty-free treatment, through October 30, 1994 to the personal effects of participants in, and other individuals and equipment associated with, the 1994 World Rowing Championships.
+
+	</summary>
+</bill>

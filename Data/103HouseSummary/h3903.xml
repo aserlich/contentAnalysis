@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="3903" updated="2010-04-19T09:19:17-04:00">
+	<state datetime="1994-02-24">REFERRED</state>
+	<status><introduced datetime="1994-02-24"/></status>
+
+	<introduced datetime="1994-02-24"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to permit the tax-free rollover of certain payments made by employers to separated employees.</title>
+	</titles>
+	<sponsor id="400201"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="1994-04-13"/>
+		<cosponsor id="400289" joined="1994-04-13"/>
+		<cosponsor id="405775" joined="1994-05-16"/>
+		<cosponsor id="400113" joined="1994-04-13"/>
+		<cosponsor id="400397" joined="1994-04-13"/>
+		<cosponsor id="400261" joined="1994-07-26"/>
+		<cosponsor id="406863" joined="1994-05-16"/>
+		<cosponsor id="404097" joined="1994-07-26"/>
+		<cosponsor id="400178" joined="1994-05-16"/>
+		<cosponsor id="400438" joined="1994-04-13"/>
+		<cosponsor id="405258" joined="1994-04-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-24"><text>Sponsor introductory remarks on measure. (CR E251)</text></action>
+		<action datetime="1994-02-24"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1968" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Dismissal wage"/>
+		<term name="Individual retirement accounts"/>
+		<term name="Labor"/>
+		<term name="Pensions"/>
+		<term name="Tax exclusion"/>
+		<term name="Tax-deferred compensation plans"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1994--Introduced.
+Amends the Internal Revenue Code to exclude from gross income qualified separation payments transferred to individual retirement accounts.
+
+	</summary>
+</bill>

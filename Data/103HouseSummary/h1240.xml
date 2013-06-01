@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="1240" updated="2010-04-19T02:23:42-04:00">
+	<state datetime="1993-03-04">REFERRED</state>
+	<status><introduced datetime="1993-03-04"/></status>
+
+	<introduced datetime="1993-03-04"/>
+	<titles>
+		<title type="short" as="introduced">Social Security Domestic Employment Tax Act of 1993</title>
+		<title type="official" as="introduced">To amend title II of the Social Security Act and the Internal Revenue Code of 1986 to increase from $50 per quarter to $2,000 per year the threshold level at which cash remuneration payable to a domestic employee in any year becomes subject to social security employment taxes, to provide for annual adjustments in such threshold amount, and to annualize the payment of domestic service employment taxes.</title>
+	</titles>
+	<sponsor id="400369"/>
+	<cosponsors>
+		<cosponsor id="405560" joined="1993-05-24"/>
+		<cosponsor id="408476" joined="1993-10-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-04"><text>Sponsor introductory remarks on measure. (CR E524)</text></action>
+		<action datetime="1993-03-04"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-09"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+		<action datetime="1994-04-28"><committee name="House Committee on Ways and Means"/><text>See H.R.4278.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4278" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Government trust funds"/>
+		<term name="Household workers"/>
+		<term name="Income tax"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Social security taxes"/>
+		<term name="State taxation"/>
+		<term name="Tax administration"/>
+		<term name="Tax returns"/>
+		<term name="Unemployment insurance"/>
+		<term name="Wages"/>
+		<term name="Withholding tax"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/4/1993--Introduced.
+Social Security Domestic Employment Tax Act of 1993 - Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act and the Internal Revenue Code to raise the threshold amount at which cash remuneration for domestic services becomes subject to social security employment taxes. Provides for annual: (1) adjustments in such threshold amount; and (2) payment of domestic service employment taxes, with certain exceptions. Grants the Secretary of the Treasury authority to enter into agreements to collect State unemployment taxes on such remuneration.
+
+	</summary>
+</bill>

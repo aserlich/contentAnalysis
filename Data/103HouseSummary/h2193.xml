@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="2193" updated="2010-04-19T04:53:55-04:00">
+	<state datetime="1993-05-19">REFERRED</state>
+	<status><introduced datetime="1993-05-19"/></status>
+
+	<introduced datetime="1993-05-19"/>
+	<titles>
+		<title type="popular" as="">Authorization bill FY94, NASA</title>
+		<title type="popular" as="">NASA FY94 Authorization bill</title>
+		<title type="short" as="introduced">NASA Aeronautics Research and Technology Act of 1993</title>
+		<title type="official" as="introduced">To authorize appropriations to the National Aeronautics and Space Administration for fiscal years 1994 and 1995 for aeronautical research and technology, and for other purposes.</title>
+	</titles>
+	<sponsor id="411065"/>
+	<cosponsors>
+		<cosponsor id="406790" joined="1993-05-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-19"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-05-24"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Technology, Environment and Aviation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Technology, Environment and Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2200" />
+	</relatedbills>
+	<subjects>
+		<term name="Space sciences"/>
+		<term name="Administrative procedure"/>
+		<term name="Aeronautics"/>
+		<term name="Aerospace industries"/>
+		<term name="Authorization"/>
+		<term name="Federal aid to research"/>
+		<term name="Foreign trade"/>
+		<term name="International competitiveness"/>
+		<term name="National Aeronautics and Space Administration"/>
+		<term name="Research and development"/>
+		<term name="Research and development contracts"/>
+		<term name="Research centers"/>
+		<term name="Research grants"/>
+		<term name="Spacecraft"/>
+		<term name="Technology transfer"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/19/1993--Introduced.
+NASA Aeronautics Research and Technology Act of 1993 - Directs the Administrator of the National Aeronautics and Space Administration (NASA) to provide for independent performance reviews of NASA programs of: (1) aeronautics research and development; and (2) private technology transfer. Provides for a joint NASA-Federal agency aeronautical research and development program to enhance U.S. competitiveness. Directs the Administrator to study strategies to optimize development of an hypersonic research plane and the ultimate development of a single-stage-to-orbit, air breathing plane. Authorizes appropriations for specified NASA programs.
+
+	</summary>
+</bill>

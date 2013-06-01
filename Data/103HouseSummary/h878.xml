@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="878" updated="2010-04-19T01:22:30-04:00">
+	<state datetime="1993-02-04">REFERRED</state>
+	<status><introduced datetime="1993-02-04"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">To restore Federal services to the Pokagon Band of Potawatomi Indians.</title>
+	</titles>
+	<sponsor id="400414"/>
+	<cosponsors>
+		<cosponsor id="400216" joined="1993-10-20"/>
+		<cosponsor id="400225" joined="1993-05-26"/>
+		<cosponsor id="400520" joined="1993-02-04"/>
+		<cosponsor id="400391" joined="1993-05-26"/>
+		<cosponsor id="402325" joined="1993-05-26"/>
+		<cosponsor id="400182" joined="1993-05-26"/>
+		<cosponsor id="402762" joined="1993-10-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04"><text>Sponsor introductory remarks on measure. (CR E313-314)</text></action>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-03-02"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Native American Affairs.</text></action>
+		<action datetime="1993-09-17"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-11-08"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-11-08"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1994-06-29"><committee name="House Committee on Natural Resources"/><text>For Further Action See S.1066.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1066" />
+		<bill relation="unknown" session="103" type="s" number="1066" />
+	</relatedbills>
+	<subjects>
+		<term name="Indians"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Indian lands"/>
+		<term name="Indiana"/>
+		<term name="Michigan"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Affirms Federal recognition of, and provides Federal services to, the Pokagon Band of Potawatomi Indians. States that the Band's service area shall consist of specified counties in Michigan and Indiana.
+
+	</summary>
+</bill>

@@ -1,0 +1,58 @@
+<bill session="103" type="sj" number="227" updated="2010-04-19T21:58:57-04:00">
+	<state datetime="1994-10-25">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-25" /></status>
+
+	<introduced datetime="1994-09-30"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution to approve the location of a Thomas Paine Memorial.</title>
+	</titles>
+	<sponsor id="404219"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1994-09-30"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1994-09-30" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Voice Vote.</text><reference label="consideration" ref="CR S13834"/></vote>
+		<action datetime="1994-10-03"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-03T12:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-10-03T16:31:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-10-07T02:12:00-04:00"><text>Mr. Vento asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1994-10-07T02:13:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H11135-11136"/></action>
+		<vote how="without objection" type="vote2" datetime="1994-10-07T02:14:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-10-07T02:14:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-07T02:14:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1994-10-07"><text>Message on House action received in Senate and at the desk: House amendments to Senate bill.</text></action>
+		<vote how="by Voice Vote" type="pingpong" datetime="1994-10-08" where="s" result="pass" ><text>Senate agreed to House amendments by Voice Vote.</text><reference label="consideration" ref="CR S14960"/></vote>
+		<topresident datetime="1994-10-08" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-12"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-18" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-25" ><text>Signed by President.</text></signed>
+		<enacted number="103-422" type="public" datetime="1994-10-25"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-422.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hj" number="420" />
+		<bill relation="unknown" session="103" type="hj" number="420" />
+		<bill relation="unknown" session="103" type="sj" number="217" />
+	</relatedbills>
+	<subjects>
+		<term name="Monuments and memorials"/>
+		<term name="American Revolution"/>
+		<term name="Armed forces"/>
+		<term name="Commemorations"/>
+		<term name="District of Columbia"/>
+		<term name="History"/>
+		<term name="Military history"/>
+		<term name="Veterans"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+		<amendment number="h925"/>
+		<amendment number="h926"/>
+	</amendments>
+	<summary>
+	10/7/1994--Passed House amended. Approves specified locations on Federal lands for a Thomas Paine Memorial and a World War II Memorial.
+
+	</summary>
+</bill>

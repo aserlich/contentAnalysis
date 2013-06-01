@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="4262" updated="2010-04-19T10:15:15-04:00">
+	<state datetime="1994-04-20">REFERRED</state>
+	<status><introduced datetime="1994-04-20"/></status>
+
+	<introduced datetime="1994-04-20"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Higher Education Act of 1965 to require that recipients of Pell Grants be citizens or nationals of the United States.</title>
+	</titles>
+	<sponsor id="403190"/>
+	<cosponsors>
+		<cosponsor id="400099" joined="1994-04-20"/>
+		<cosponsor id="406024" joined="1994-04-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-20"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1994-05-03"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Postsecondary Education and Training.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Postsecondary Education and Training" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Aliens"/>
+		<term name="Budgets"/>
+		<term name="Citizenship"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Higher education"/>
+		<term name="Immigration"/>
+		<term name="Scholarships"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/20/1994--Introduced.
+Amends the Higher Education Act of 1965 to require that Pell grant recipients be U.S. citizens or nationals.
+
+	</summary>
+</bill>

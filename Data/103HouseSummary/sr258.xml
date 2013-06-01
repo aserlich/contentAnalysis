@@ -1,0 +1,41 @@
+<bill session="103" type="sr" number="258" updated="2010-04-19T22:39:19-04:00">
+	<state datetime="1994-10-04">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-10-04" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-09-19"/>
+	<titles>
+		<title type="official" as="introduced">A resolution to refer S. 974 entitled &quot;A bill for the relief of Richard Kanehl of Mobile, Alambama.&quot; to the chief judge of the United States Court of Federal Claims for a report thereon.</title>
+	</titles>
+	<sponsor id="405310"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-19"><text>Referred to the Committee on Judiciary.</text></action>
+		<action datetime="1994-09-21"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+		<action datetime="1994-09-22"><committee name="Committee on Judiciary"/><text>Subcommittee on Courts and Administrative Practice. Approved for full committee consideration without amendment favorably.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="Committee on Judiciary"/><text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-09-28"><text>Committee on Judiciary. Reported to Senate by Senator Biden without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="688" datetime="1994-09-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 688.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-10-04" where="s" result="pass"  state="PASSED:SIMPLERES"><text>Resolution agreed to in Senate without amendment by Voice Vote.</text></vote>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Claims"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/19/1994--Introduced.
+Refers S. 974, a bill for the relief of a named individual, to the chief judge of the United States Court of Federal Claims, as a supplement to S. Res. 108, for a report thereon.
+
+	</summary>
+</bill>

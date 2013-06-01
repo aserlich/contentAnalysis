@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="3085" updated="2010-04-19T07:12:04-04:00">
+	<state datetime="1993-09-23">REPORTED</state>
+	<status><calendar datetime="1993-09-23" /></status>
+
+	<introduced datetime="1993-09-15"/>
+	<titles>
+		<title type="short" as="introduced">National Forest Foundation Act Amendment Act of 1993</title>
+		<title type="official" as="introduced">To improve administrative services and support provided to the National Forest Foundation, and for other purposes.</title>
+	</titles>
+	<sponsor id="403308"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-15"><text>Sponsor introductory remarks on measure. (CR E2175)</text></action>
+		<action datetime="1993-09-15"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-09-20"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+		<calendar datetime="1993-09-23"  state="REPORTED"><committee name="House Committee on Agriculture"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1993-09-23"><committee name="House Committee on Agriculture"/><text>Subcommittee on Specialty Crops and Natural Resources Discharged.</text></action>
+		<action datetime="1993-09-23"><committee name="House Committee on Agriculture"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-09-28T19:24:00-04:00"><text>Reported by the Committee on Agriculture. H. Rept. 103-266.</text></action>
+		<calendar number="148" datetime="1993-09-28T19:24:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 148.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1381" />
+		<bill relation="unknown" session="103" type="s" number="1381" />
+	</relatedbills>
+	<subjects>
+		<term name="Forests and forestry"/>
+		<term name="Authorization"/>
+		<term name="Foundations"/>
+		<term name="Grants-in-aid"/>
+		<term name="National forests"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/15/1993--Introduced.
+National Forest Foundation Act Amendment Act of 1993 - Amends the National Forest Foundation Act to authorize start-up and matching funds to the National Forest Foundation to carry out project expenses. Extends the start-up funding to October 1, 1994, and the matching funding to October 1, 1997.
+
+	</summary>
+</bill>

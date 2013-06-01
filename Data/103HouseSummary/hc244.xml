@@ -1,0 +1,48 @@
+<bill session="103" type="hc" number="244" updated="2010-04-18T21:39:08-04:00">
+	<state datetime="1994-05-04">REFERRED</state>
+	<status><introduced datetime="1994-05-04"/></status>
+
+	<introduced datetime="1994-05-04"/>
+	<titles>
+		<title type="official" as="introduced">To condemn the March 1, 1994, attack on American Lubavitcher students.</title>
+	</titles>
+	<sponsor id="300062"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-04"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-05-04"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-05-17"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Europe and the Middle East.</text></action>
+		<action datetime="1994-06-24"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Europe and the Middle East" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Criminal justice"/>
+		<term name="Hate crimes"/>
+		<term name="International affairs"/>
+		<term name="Jews"/>
+		<term name="Murder"/>
+		<term name="New York City"/>
+		<term name="Palestinians"/>
+		<term name="Terrorism"/>
+		<term name="Violence"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/4/1994--Introduced.
+Condemns the March 1, 1994, attack on innocent Lubavicher rabbinical students in New York City. Calls on the Palestine Liberation Organization and other representatives of the Palestinian people to condemn the attack and take steps to deter future attacks on innocent citizens.
+
+	</summary>
+</bill>

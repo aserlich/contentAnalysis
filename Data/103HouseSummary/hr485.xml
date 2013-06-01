@@ -1,0 +1,67 @@
+<bill session="103" type="hr" number="485" updated="2010-04-19T14:14:25-04:00">
+	<state datetime="1994-07-20">REFERRED</state>
+	<status><introduced datetime="1994-07-20"/></status>
+
+	<introduced datetime="1994-07-20"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives that any health care reform legislation passed by Congress must ensure access to and the continued advancement of medical technology.</title>
+	</titles>
+	<sponsor id="400332"/>
+	<cosponsors>
+		<cosponsor id="400242" joined="1994-08-01"/>
+		<cosponsor id="400584" joined="1994-08-17"/>
+		<cosponsor id="408109" joined="1994-08-04"/>
+		<cosponsor id="401547" joined="1994-08-01"/>
+		<cosponsor id="400388" joined="1994-07-27"/>
+		<cosponsor id="400124" joined="1994-07-28"/>
+		<cosponsor id="400581" joined="1994-08-04"/>
+		<cosponsor id="400117" joined="1994-07-27"/>
+		<cosponsor id="411065" joined="1994-07-20"/>
+		<cosponsor id="400560" joined="1994-08-17"/>
+		<cosponsor id="412001" joined="1994-07-21"/>
+		<cosponsor id="400083" joined="1994-07-27"/>
+		<cosponsor id="400081" joined="1994-08-17"/>
+		<cosponsor id="401081" joined="1994-08-01"/>
+		<cosponsor id="300096" joined="1994-08-17"/>
+		<cosponsor id="406790" joined="1994-08-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-20"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-07-20"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-08-01"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Congress"/>
+		<term name="Economic policy"/>
+		<term name="Health care reform"/>
+		<term name="Health insurance"/>
+		<term name="Health policy"/>
+		<term name="Legislation"/>
+		<term name="Medical economics"/>
+		<term name="Medical research"/>
+		<term name="Medical technology"/>
+		<term name="Medicine"/>
+		<term name="Price regulation"/>
+		<term name="Research and development"/>
+		<term name="Science policy"/>
+		<term name="Technological innovations"/>
+		<term name="Technology"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/20/1994--Introduced.
+Expresses the sense of the Congress that any legislation enacted to reform health care delivery should not include price controls and limits on national health care expenditures that would restrict access to medical technology or hinder its development.
+
+	</summary>
+</bill>

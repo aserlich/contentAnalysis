@@ -1,0 +1,59 @@
+<bill session="103" type="h" number="2692" updated="2010-04-19T06:11:11-04:00">
+	<state datetime="1993-07-21">REFERRED</state>
+	<status><introduced datetime="1993-07-21"/></status>
+
+	<introduced datetime="1993-07-21"/>
+	<titles>
+		<title type="short" as="introduced">Federal Emergency Response Improvement Act of 1993</title>
+		<title type="official" as="introduced">To improve the ability of the Federal Government to prepare for and respond to major disasters, and for other purposes.</title>
+	</titles>
+	<sponsor id="408661"/>
+	<cosponsors>
+		<cosponsor id="400511" joined="1993-09-09"/>
+		<cosponsor id="400416" joined="1993-09-09"/>
+		<cosponsor id="400310" joined="1993-09-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-21"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-07-21"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-07-28"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+		<action datetime="1993-07-28"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1993-08-02"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1993-08-02"><committee name="House Committee on Public Works + Transportation"/><text>Executive Comment Requested from DOD, FEMA.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-06" name="House Armed Services" subcommittee="Oversight and Investigations" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Disasters"/>
+		<term name="Armed forces"/>
+		<term name="Civil defense"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Disaster relief"/>
+		<term name="Emergency management"/>
+		<term name="Emergency medical services"/>
+		<term name="Executive Office of the President"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal Emergency Management Agency"/>
+		<term name="Federal officials"/>
+		<term name="Gifts"/>
+		<term name="Grants-in-aid"/>
+		<term name="Medical care"/>
+		<term name="Standards"/>
+		<term name="Volunteer workers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/21/1993--Introduced.
+Federal Emergency Response Improvement Act of 1993 - Expresses the sense of the Congress that: (1) the Federal Government should give immediate attention to developing a broad risk-based strategy for improving Federal readiness and response to major disasters; (2) the all hazards approach is the best way to prepare the United States for all threats; (3) the American Red Cross and other volunteer organizations make valuable contributions in responding to disasters; and (4) State and local responses to disasters and emergencies must be strengthened and maintained. Amends the Robert T. Stafford Disaster Relief and Emergency Assistance Act to require: (1) the President or his designee to conduct and complete an inventory of critical resources related to emergency assistance that are available to the Government; (2) the Director of the Federal Emergency Management Agency (FEMA) to establish a certification program to encourage States to prepare for, respond to, and recover from disasters; and (3) the President to establish systems for the use of volunteers and management of donated goods during disasters. Directs the President to establish a Domestic Crisis Monitoring Unit, headed by a member of the National Security Council, to: (1) monitor potential disasters and emergencies; (2) notify the President and Federal agencies of impending disasters and emergencies when it deems necessary; and (3) ensure effective, rapid, and immediate Federal agency response to disasters. Provides for the establishment of disaster strike teams. Mandates restructuring of FEMA in order to implement an all hazards approach to disaster management and use defense-related resources for disasters.
+
+	</summary>
+</bill>

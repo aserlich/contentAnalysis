@@ -1,0 +1,57 @@
+<bill session="103" type="s" number="970" updated="2012-07-17T04:36:46-04:00">
+	<state datetime="1993-05-19">REPORTED</state>
+	<status><calendar datetime="1993-05-19" /></status>
+
+	<introduced datetime="1993-05-18"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title 38, United States Code, to codify the rates of disability compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for survivors of such veterans as such rates took effect of December 1, 1992, and to make a technical correction relating to the financing of discount points for certain veterans loans.</title>
+	</titles>
+	<sponsor id="300084"/>
+	<cosponsors>
+		<cosponsor id="300150" joined="1993-05-18"/>
+		<cosponsor id="403346" joined="1993-05-18"/>
+		<cosponsor id="300031" joined="1993-05-18"/>
+		<cosponsor id="300001" joined="1993-05-18"/>
+		<cosponsor id="300057" joined="1993-05-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-18" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6018-6020)</text></action>
+		<action datetime="1993-05-18" state="REFERRED"><text>Read twice and referred to the Committee on Veterans.</text></action>
+		<calendar datetime="1993-05-19"  state="REPORTED"><committee name="Committee on Veterans"/><text>Committee on Veterans. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-06-30"><text>Committee on Veterans. Reported to Senate by Senator Rockefeller without amendment. With written report No. 103-81.</text></action>
+		<calendar under="General Orders" number="127" datetime="1993-06-30" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 127.</text></calendar>
+		<action datetime="1993-07-28"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S9771-9772"/></action>
+		<action datetime="1993-07-28"><text>Senate incorporated this measure in H.R. 798 as an amendment.</text></action>
+		<action datetime="1993-07-28"><text>Senate passed companion measure H.R. 798 in lieu of this measure by Voice Vote.</text></action>
+		<action datetime="1993-07-28"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S9773"/></action>
+	</actions>
+	<committees>
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="superseded" session="103" type="h" number="798" />
+		<bill relation="unknown" session="103" type="h" number="798" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Disabled"/>
+		<term name="Families"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Housing and community development"/>
+		<term name="Mortgage loans"/>
+		<term name="Orphans"/>
+		<term name="Survivors' benefits"/>
+		<term name="Variable rate mortgage loans"/>
+		<term name="Veterans' benefits"/>
+		<term name="Veterans' disability compensation"/>
+		<term name="Veterans' loans"/>
+	</subjects>
+	<amendments>
+		<amendment number="s716"/>
+	</amendments>
+	<summary>
+	7/28/1993--Indefinitely postponed in Senate. Increases the rates of: (1) veterans' disability compensation; (2) additional compensation for veterans' dependents; (3) the clothing allowance for certain disabled veterans; (4) dependency and indemnity compensation for surviving spouses and children; and (5) supplemental dependency and indemnity compensation for disabled adult children. Makes a technical correction relating to the financing of discount points for certain veterans' loans. Deletes the requirement that adjustments in adjustable rate mortgages guaranteed to veterans by the Department of Veterans Affairs occur on the anniversary of the date on which the loan was closed.
+
+	</summary>
+</bill>

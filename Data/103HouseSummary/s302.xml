@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="302" updated="2012-07-17T06:08:40-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Energy Extension Fair Share Act of 1993</title>
+		<title type="official" as="introduced">A bill to provide for the utilization of the latest available census data in certain laws related to Energy and Natural Resources.</title>
+	</titles>
+	<sponsor id="400562"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="1993-02-04"/>
+		<cosponsor id="300154" joined="1993-04-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1198-1199)</text></action>
+		<action datetime="1993-02-03" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-02-04"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Renewable Energy.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="Senate Energy and Natural Resources" subcommittee="Renewable Energy, Energy Efficiency, and Competitiveness" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="752" />
+	</relatedbills>
+	<subjects>
+		<term name="Energy"/>
+		<term name="Census"/>
+		<term name="Energy conservation"/>
+		<term name="Energy policy"/>
+		<term name="Grants-in-aid"/>
+		<term name="Population statistics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Energy Extension Fair Share Act of 1993 - Amends the National Energy Extension Service Act to provide for the use of population figures in the latest available estimates prepared by the Department of Commerce (currently, provided by the most recent decennial census) for the calculation of the apportionment of State energy extension service funds.
+
+	</summary>
+</bill>

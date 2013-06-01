@@ -1,0 +1,37 @@
+<bill session="103" type="s" number="1888" updated="2012-07-17T05:42:17-04:00">
+	<state datetime="1994-03-03">REFERRED</state>
+	<status><introduced datetime="1994-03-03"/></status>
+
+	<introduced datetime="1994-03-03"/>
+	<titles>
+		<title type="official" as="introduced">A bill for the relief of Maria Manzano.</title>
+	</titles>
+	<sponsor id="300086"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-03" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1994-03-25"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Claims"/>
+		<term name="Federal employees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/3/1994--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named individual in full settlement of all claims against the United States arising out of improper disclosure of certain grievance proceeding records regarding a complaint against such individual (as supervisor) by an employee of the Laboratory Division of the Department of State.
+
+	</summary>
+</bill>

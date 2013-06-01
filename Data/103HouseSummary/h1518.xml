@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="1518" updated="2010-04-19T03:08:15-04:00">
+	<state datetime="1993-03-30">REFERRED</state>
+	<status><introduced datetime="1993-03-30"/></status>
+
+	<introduced datetime="1993-03-30"/>
+	<titles>
+		<title type="official" as="introduced">To repeal the Service Contract Act of 1965.</title>
+	</titles>
+	<sponsor id="400036"/>
+	<cosponsors>
+		<cosponsor id="410529" joined="1993-05-05"/>
+		<cosponsor id="400113" joined="1993-05-05"/>
+		<cosponsor id="400332" joined="1993-05-05"/>
+		<cosponsor id="400154" joined="1993-11-20"/>
+		<cosponsor id="400388" joined="1994-07-29"/>
+		<cosponsor id="400574" joined="1994-08-01"/>
+		<cosponsor id="400365" joined="1993-09-14"/>
+		<cosponsor id="400551" joined="1993-09-14"/>
+		<cosponsor id="300062" joined="1994-06-29"/>
+		<cosponsor id="400343" joined="1993-05-05"/>
+		<cosponsor id="412001" joined="1994-07-29"/>
+		<cosponsor id="409618" joined="1993-11-22"/>
+		<cosponsor id="400604" joined="1993-05-05"/>
+		<cosponsor id="400221" joined="1994-07-29"/>
+		<cosponsor id="411997" joined="1993-05-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-30"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-04-16"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor Standards, Occupational Health and Safety.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-10" name="House Education and Labor" subcommittee="Labor Standards, Occupational Health and Safety" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public contracts"/>
+		<term name="Government service contracts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/30/1993--Introduced.
+Repeals the Service Contract Act of 1965.
+
+	</summary>
+</bill>

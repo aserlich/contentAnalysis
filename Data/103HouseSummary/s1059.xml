@@ -1,0 +1,58 @@
+<bill session="103" type="s" number="1059" updated="2012-07-17T04:20:46-04:00">
+	<state datetime="1993-11-20">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-11-20" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-05-28"/>
+	<titles>
+		<title type="short" as="introduced">Alaska Native Culture and Arts Development Act</title>
+		<title type="short" as="reported to senate">Alaska Native Culture and Arts Development Act</title>
+		<title type="short" as="passed senate">Alaska Native Culture and Arts Development Act</title>
+		<title type="official" as="introduced">A bill to include Alaska Natives in a program for Native culture and arts development.</title>
+	</titles>
+	<sponsor id="300094"/>
+	<cosponsors>
+		<cosponsor id="300150" joined="1993-05-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-28" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6852)</text></action>
+		<action datetime="1993-05-28" state="REFERRED"><text>Read twice and referred to the Committee on Indian Affairs.</text></action>
+		<action datetime="1993-10-14"><committee name="Committee on Indian Affairs"/><text>Committee on Indian Affairs. Approved for reporting with an amendment favorably.</text></action>
+		<action datetime="1993-11-17"><text>Committee on Indian Affairs. Reported to Senate by Senator Inouye with an amendment. With written report No. 103-184.</text></action>
+		<calendar datetime="1993-11-17"  state="REPORTED"><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 287.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text><reference label="consideration" ref="CR S16892"/></vote>
+		<action datetime="1993-11-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-21T14:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-21"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-12-22"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="" name="Senate Indian Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Alaska"/>
+		<term name="Art"/>
+		<term name="Arts, culture, religion"/>
+		<term name="Education"/>
+		<term name="Education of Indians"/>
+		<term name="Educational policy"/>
+		<term name="Eskimos"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Federal aid to the arts and humanities"/>
+		<term name="Higher education"/>
+		<term name="Minorities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Passed Senate amended. Alaska Native Culture and Arts Development Act - Amends the Higher Education Amendments of 1986 to include Alaska Natives in a program for native culture and arts development.
+
+	</summary>
+</bill>

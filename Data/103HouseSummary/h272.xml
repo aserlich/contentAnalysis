@@ -1,0 +1,37 @@
+<bill session="103" type="h" number="272" updated="2010-04-18T23:42:06-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 11 of the United States Code to establish a priority for the payment of claims for retiree health benefits in liquidation cases under chapter 7 and 11.</title>
+	</titles>
+	<sponsor id="400596"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Bankruptcy"/>
+		<term name="Medical care"/>
+		<term name="Retiree health benefits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends Federal bankruptcy law to establish a payment priority for retiree health benefit claims, with an aggregate limitation of $10,000 multiplied by the relevant number of former employees.
+
+	</summary>
+</bill>

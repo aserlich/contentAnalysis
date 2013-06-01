@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="5108" updated="2012-07-17T05:25:48-04:00">
+	<state datetime="1994-10-04T19:00:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-04T19:00:00-04:00" where="h" result="pass" how="roll" roll="477"/></status>
+
+	<introduced datetime="1994-09-27"/>
+	<titles>
+		<title type="official" as="introduced">To extend the Export Administration Act of 1979.</title>
+	</titles>
+	<sponsor id="404996"/>
+	<cosponsors>
+		<cosponsor id="400536" joined="1994-09-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-27" state="REFERRED"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T16:11:00-04:00"><text>Mr. Menendez moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-10-03T16:12:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10577-10578"/></action>
+		<action datetime="1994-10-03T16:12:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-03T16:16:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1994-10-04T18:54:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10735-10736"/></action>
+		<vote how="roll" type="vote" roll="477" datetime="1994-10-04T19:00:00-04:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 4 (Roll no. 477).</text></vote>
+		<action datetime="1994-10-04T19:00:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-05"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Read twice and referred to the Committee on Banking.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup" />
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Export controls"/>
+		<term name="Exports"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/27/1994--Introduced.
+Amends the Export Administration Act of 1979 to extend such Act through September 30, 1995.
+
+	</summary>
+</bill>

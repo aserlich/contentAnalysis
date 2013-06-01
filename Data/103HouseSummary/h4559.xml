@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="4559" updated="2010-04-19T11:02:08-04:00">
+	<state datetime="1994-06-09">REFERRED</state>
+	<status><introduced datetime="1994-06-09"/></status>
+
+	<introduced datetime="1994-06-09"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Anglo-Irish Agreement Support Act of 1986 to prohibit United States contributions to the International Fund for Ireland.</title>
+	</titles>
+	<sponsor id="406431"/>
+	<cosponsors>
+		<cosponsor id="400078" joined="1994-06-09"/>
+		<cosponsor id="400113" joined="1994-06-09"/>
+		<cosponsor id="400332" joined="1994-06-09"/>
+		<cosponsor id="300083" joined="1994-07-12"/>
+		<cosponsor id="408618" joined="1994-06-09"/>
+		<cosponsor id="400076" joined="1994-06-09"/>
+		<cosponsor id="407669" joined="1994-08-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-09"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-06-22"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Europe and the Middle East.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Europe and the Middle East" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="American economic assistance"/>
+		<term name="Europe"/>
+		<term name="Foreign aid"/>
+		<term name="Foreign policy"/>
+		<term name="International finance"/>
+		<term name="Ireland"/>
+		<term name="Multilateral development banks"/>
+		<term name="Northern Ireland"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/9/1994--Introduced.
+Amends the Anglo-Irish Agreement Support Act of 1986 to prohibit U.S. contributions to the International Fund for Ireland.
+
+	</summary>
+</bill>

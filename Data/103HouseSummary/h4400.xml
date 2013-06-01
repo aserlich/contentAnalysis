@@ -1,0 +1,103 @@
+<bill session="103" type="h" number="4400" updated="2012-07-17T06:31:43-04:00">
+	<state datetime="1994-06-27T13:50:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-06-27T13:50:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-05-12"/>
+	<titles>
+		<title type="short" as="introduced">Postal Inspection Service and Inspector General Act</title>
+		<title type="short" as="passed house">Postal Inspection Service and Inspector General Act</title>
+		<title type="official" as="introduced">To amend title 39, United States Code, to prevent the use of paid confidential informants by the United States Postal Service in certain narcotics investigations; to require that the appointment of the Inspector General of the United States Postal Service be made by the President, with the advice and consent of the Senate; and for other purposes.</title>
+	</titles>
+	<sponsor id="402626"/>
+	<cosponsors>
+		<cosponsor id="404190" joined="1994-05-25"/>
+		<cosponsor id="400122" joined="1994-06-10"/>
+		<cosponsor id="400409" joined="1994-06-10"/>
+		<cosponsor id="400030" joined="1994-05-20"/>
+		<cosponsor id="400312" joined="1994-06-10"/>
+		<cosponsor id="400438" joined="1994-05-26"/>
+		<cosponsor id="401446" joined="1994-05-25"/>
+		<cosponsor id="400295" joined="1994-05-20"/>
+		<cosponsor id="402152" joined="1994-05-12"/>
+		<cosponsor id="408839" joined="1994-05-19"/>
+		<cosponsor id="407351" joined="1994-05-25"/>
+		<cosponsor id="411040" joined="1994-06-10"/>
+		<cosponsor id="400539" joined="1994-05-20"/>
+		<cosponsor id="400572" joined="1994-06-14"/>
+		<cosponsor id="400170" joined="1994-05-20"/>
+		<cosponsor id="403364" joined="1994-05-25"/>
+		<cosponsor id="405775" joined="1994-06-13"/>
+		<cosponsor id="410407" joined="1994-05-12"/>
+		<cosponsor id="400050" joined="1994-05-26"/>
+		<cosponsor id="404097" joined="1994-06-23"/>
+		<cosponsor id="400615" joined="1994-05-19"/>
+		<cosponsor id="400424" joined="1994-05-20"/>
+		<cosponsor id="400524" joined="1994-06-08"/>
+		<cosponsor id="400310" joined="1994-05-26"/>
+		<cosponsor id="402762" joined="1994-05-12"/>
+		<cosponsor id="400080" joined="1994-05-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-12" state="REFERRED"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-05-12"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-05-17"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1994-06-02"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Postal Operations and Services.</text></action>
+		<action datetime="1994-06-15"><committee name="House Committee on Post Office and Civil Service" subcommittee="Postal Operations and Services"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-06-15"><committee name="House Committee on Post Office and Civil Service" subcommittee="Postal Operations and Services"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-06-15"><committee name="House Committee on Post Office and Civil Service" subcommittee="Postal Operations and Services"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1994-06-22"><committee name="House Committee on Post Office and Civil Service"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-06-22"  state="REPORTED"><committee name="House Committee on Post Office and Civil Service"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1994-06-27T12:53:00-04:00"><text>Reported (Amended) by the Committee on Post Office and Civil Service. H. Rept. 103-561, Part I.</text></action>
+		<action datetime="1994-06-27T13:40:00-04:00"><text>Ms. Collins (MI) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-06-27T13:42:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5085-5088"/></action>
+		<action datetime="1994-06-27T13:42:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-06-27T13:50:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-06-27T13:50:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-06-29"><text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<action datetime="1994-06-30"><text>Sponsor introductory remarks on measure.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Postal Operations and Services" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Postal service"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Arrest"/>
+		<term name="Auditing"/>
+		<term name="Collective bargaining in government"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Criminal investigation"/>
+		<term name="Drug abuse"/>
+		<term name="Employee rights"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal officials"/>
+		<term name="Finance and financial sector"/>
+		<term name="Government employee unions"/>
+		<term name="Government operations and politics"/>
+		<term name="Informers"/>
+		<term name="Inspectors general"/>
+		<term name="Labor and employment"/>
+		<term name="Labor unions"/>
+		<term name="Narcotic traffic"/>
+		<term name="Postal crimes"/>
+		<term name="Postal employees"/>
+		<term name="Presidential appointments"/>
+		<term name="United States Postal Service"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/27/1994--Passed House amended. Postal Inspection Service and Inspector General Act - Prohibits the Postal Service from retaining the services of a paid confidential informant for purposes of investigations concerning the possible violation of laws relating to controlled substances unless the unlawful use of the mails is involved. Directs the Postal Service to render a semiannual report to the Congress concerning any investigation: (1) in which the Postal Service retains the services of a paid confidential informant; and (2) which results in the arrest of one or more individuals for violating any law relating to controlled substances. Creates a Chief Postal Inspector within the Postal Service. Amends the Inspector General Act of 1978 to transfer internal audit and program review functions of the Postal Inspection Service to the Office of the Inspector General of the Postal Service. Confers oversight responsibility for all activities of the Postal Inspection Service on the Inspector General. Requires the Chief Postal Inspector to report significant activities being carried out by the Postal Inspection Service to the Inspector General. Applies all provisions of the Inspector General Act of 1978 to the Postal Service. Declares that nothing in such Act shall adversely affect any of the rights, privileges, or benefits of either employees of the Postal Service or labor organizations representing such employees.
+
+	</summary>
+</bill>

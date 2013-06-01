@@ -1,0 +1,104 @@
+<bill session="103" type="h" number="2921" updated="2012-07-17T04:23:22-04:00">
+	<state datetime="1994-08-10">PASS_BACK:SENATE</state>
+	<status><vote2 datetime="1994-08-10" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="short" as="introduced">Historically Black Colleges and Universities Historic Building Restoration and Preservation Act</title>
+		<title type="short" as="passed house">Historically Black Colleges and Universities Historic Building Restoration and Preservation Act</title>
+		<title type="short" as="reported to senate">Historically Black Colleges and Universities Historic Building Restoration and Preservation Act</title>
+		<title type="short" as="passed senate">Historically Black Colleges and Universities Historic Building Restoration and Preservation Act</title>
+		<title type="official" as="introduced">To authorize appropriations for the preservation and restoration of historic buildings at historically black colleges and universities.</title>
+	</titles>
+	<sponsor id="400548"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1993-10-05"/>
+		<cosponsor id="400143" joined="1993-08-06"/>
+		<cosponsor id="400048" joined="1993-08-06"/>
+		<cosponsor id="407838" joined="1993-10-06"/>
+		<cosponsor id="400081" joined="1993-08-06"/>
+		<cosponsor id="400532" joined="1993-09-08"/>
+		<cosponsor id="400409" joined="1993-08-06"/>
+		<cosponsor id="400350" joined="1993-08-06"/>
+		<cosponsor id="409154" joined="1993-09-14"/>
+		<cosponsor id="400240" joined="1993-09-08"/>
+		<cosponsor id="400387" joined="1993-09-08"/>
+		<cosponsor id="400364" joined="1993-09-30"/>
+		<cosponsor id="400289" joined="1993-11-16"/>
+		<cosponsor id="402763" joined="1993-09-23"/>
+		<cosponsor id="410974" joined="1993-08-06"/>
+		<cosponsor id="400609" joined="1993-10-14"/>
+		<cosponsor id="400170" joined="1993-08-06"/>
+		<cosponsor id="403364" joined="1993-10-28"/>
+		<cosponsor id="400502" joined="1993-08-06"/>
+		<cosponsor id="400422" joined="1993-08-06"/>
+		<cosponsor id="400511" joined="1993-08-06"/>
+		<cosponsor id="400082" joined="1993-09-28"/>
+		<cosponsor id="406873" joined="1993-08-06"/>
+		<cosponsor id="400424" joined="1993-11-09"/>
+		<cosponsor id="408476" joined="1993-09-23"/>
+		<cosponsor id="400155" joined="1993-09-08"/>
+		<cosponsor id="410821" joined="1993-09-08"/>
+		<cosponsor id="400204" joined="1993-08-06"/>
+		<cosponsor id="400080" joined="1993-08-06"/>
+		<cosponsor id="400075" joined="1993-08-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-09-16"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-09-21"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1993-11-10"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-11-10"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-11-20T17:42:00-05:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-398.</text></action>
+		<calendar number="222" datetime="1993-11-20T17:42:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 222.</text></calendar>
+		<action datetime="1993-11-23T01:08:00-05:00"><text>Mr. Vento asked unanimous consent to discharge the Committee of the Whole House on the state of the Union and consider.</text></action>
+		<action datetime="1993-11-23T01:09:00-05:00"><text>Considered by unanimous consent. (CR H10912-10915)</text></action>
+		<vote how="without objection" type="vote" datetime="1993-11-23T01:10:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-11-23T01:10:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-23"><text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-04-13"><committee name="House Committee on Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-04-21"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee on Public Lands, National Parks. Hearings held.</text></action>
+		<calendar datetime="1994-05-11" ><committee name="House Committee on Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1994-05-25"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments. With written report No. 103-279.</text></action>
+		<calendar under="General Orders" number="450" datetime="1994-05-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 450.</text></calendar>
+		<action datetime="1994-08-10"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S11186"/></action>
+		<action datetime="1994-08-10"><text>Amendment SP 2550 proposed by Senator Bennett for Senator Dole.</text></action>
+		<action datetime="1994-08-10"><text>Amendment SP 2550 agreed to in Senate by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-08-10" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with amendments by Voice Vote.</text></vote>
+		<action datetime="1994-08-12"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Historic sites"/>
+		<term name="Black colleges"/>
+		<term name="Commemorations"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Educational facilities"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Higher education"/>
+		<term name="History"/>
+		<term name="Iowa"/>
+		<term name="Kansas"/>
+		<term name="Minorities"/>
+		<term name="Tennessee"/>
+	</subjects>
+	<amendments>
+		<amendment number="h418"/>
+		<amendment number="s2550"/>
+	</amendments>
+	<summary>
+	8/10/1994--Passed Senate amended. TABLE OF CONTENTS: Title I: Historically Black Colleges and Universities Historic Building Restoration and Preservation Title II: Cooper Hall and Science Hall Preservation and Restoration Title I: Historically Black Colleges and Universities Historic Building Restoration and Preservation - Historically Black Colleges and Universities Historic Building Restoration and Preservation Act - Directs the Secretary of the Interior to administer a program of grants-in-aid, from amounts authorized to be appropriated to carry out the National Historic Preservation Act for FY 1995 through 1998, to eligible historically black colleges and universities for the preservation and restoration of historic buildings and structures on their campuses. Requires a grantee to covenant, for the period of time specified by the Secretary, that: (1) no alteration will be made in the property with respect to which the grant is made without the concurrence of the Secretary; and (2) reasonable public access will be permitted to such property for interpretive and educational purposes. Authorizes the Secretary to: (1) obligate funds for a grant with respect to a building or structure listed on the National Register of Historic Places only if the grantee agrees to match the amount of such grant, with funds derived from non-Federal sources; and (2) waive this matching requirement if an extreme emergency exists or that such a waiver is in the public interest to assure the preservation of historically significant resources. Limits amounts made available for this Act for FY 1995 through 1998. Earmarks funds for FY 1995 for grants to: (1) Fisk University; and (2) historically black colleges and universities identified for inclusion in the Department of the Interior Historically Black College and University Historic Preservation Initiative. Title II: Cooper Hall and Science Hall Preservation and Restoration - Authorizes the Secretary to make grants to preserve and restore Cooper Hall at Sterling College located in Sterling, Kansas, and Science Hall at Simpson College located in Indianola, Iowa, from amounts authorized to be appropriated to carry out the National Historic Preservation Act. Authorizes the Secretary to obligate such funds only if the grantee agrees to match the amount of such grant with funds derived from non-Federal sources. Limits amounts to be made available for such grants.
+
+	</summary>
+</bill>

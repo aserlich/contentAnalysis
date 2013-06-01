@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="3417" updated="2010-04-19T08:03:29-04:00">
+	<state datetime="1993-10-28">REFERRED</state>
+	<status><introduced datetime="1993-10-28"/></status>
+
+	<introduced datetime="1993-10-28"/>
+	<titles>
+		<title type="short" as="introduced">Emergency Cervidae Tuberculosis Protection Act</title>
+		<title type="official" as="introduced">To provide for a voluntary national insurance program to protect the owners of domesticated cervidae against losses incurred as result of destroying animals or herds infected with, or exposed to, tuberculosis.</title>
+	</titles>
+	<sponsor id="300003"/>
+	<cosponsors>
+		<cosponsor id="300030" joined="1994-02-28"/>
+		<cosponsor id="400036" joined="1994-02-01"/>
+		<cosponsor id="400316" joined="1994-02-01"/>
+		<cosponsor id="400193" joined="1994-02-01"/>
+		<cosponsor id="300058" joined="1994-02-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-28"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Environment, Credit and Rural Development.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Livestock.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA.</text></action>
+		<action datetime="1994-02-03"><committee name="House Committee on Agriculture" subcommittee="Livestock"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Environment, Credit and Rural Development" activity="Referral" />
+		<committee code="HSAG-03" name="House Agriculture" subcommittee="Livestock" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Animals"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural insurance"/>
+		<term name="Animal diseases"/>
+		<term name="Cattle"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Insurance premiums"/>
+		<term name="Insurance rates"/>
+		<term name="Interstate commerce"/>
+		<term name="Tuberculosis"/>
+		<term name="Veterinary medicine"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/28/1993--Introduced.
+Emergency Cervidae Tuberculosis Protection Act - Authorizes the Secretary of Agriculture to establish a voluntary ten-year insurance program to compensate participating owners of domesticated cervidae (deer, elk, reindeer) for the destruction of animals injected with, or exposed to, tuberculosis. Places specified limitations on the movement of cervidae in interstate commerce.
+
+	</summary>
+</bill>

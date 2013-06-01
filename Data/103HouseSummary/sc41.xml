@@ -1,0 +1,60 @@
+<bill session="103" type="sc" number="41" updated="2010-04-19T21:17:25-04:00">
+	<state datetime="1994-08-03T15:41:00-04:00">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1994-08-03T15:41:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution to authorize the printing of the book entitled &quot;The Cornerstones of the United States Capitol&quot;.</title>
+		<title type="official" as="amended by senate">A concurrent resolution authorizing the printing of the book entitled &quot;The Cornerstones of hte United States Capitol&quot;.</title>
+	</titles>
+	<sponsor id="407786"/>
+	<cosponsors>
+		<cosponsor id="403515" joined="1993-08-06"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-08-06" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text><reference label="consideration" ref="CR S10807-10808"/></vote>
+		<action datetime="1993-09-08T12:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-09-08"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-09-08"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-09-09"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+		<action datetime="1994-06-28"><committee name="House Committee on House Administration" subcommittee="Personnel and Police"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-06-28"><committee name="House Committee on House Administration" subcommittee="Personnel and Police"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1994-07-28"><committee name="House Committee on House Administration"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-07-28" ><committee name="House Committee on House Administration"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-08-03T15:40:00-04:00"><text>Committee on House Administration discharged.</text></action>
+		<action datetime="1994-08-03T15:40:00-04:00"><text>Mr. Manton asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-08-03T15:40:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H6735"/></action>
+		<vote how="without objection" type="vote2" datetime="1994-08-03T15:41:00-04:00" where="h" result="pass"  state="PASSED:CONCURRENTRES"><text>On agreeing to the resolution Agreed to without objection.</text></vote>
+		<action datetime="1994-08-03T15:41:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-08-03T15:41:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1994-08-08"><text>Message on House action received in Senate and at the desk: House amendments to Senate bill.</text></action>
+		<action datetime="1994-08-10"><text>Senate agreed to the House amendment and the amendment to the title by Voice Vote.</text><reference label="consideration" ref="CR S11184"/></action>
+		<action datetime="1994-08-11"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, Markup, Discharged" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Senate"/>
+		<term name="Anniversaries"/>
+		<term name="Architecture"/>
+		<term name="Books"/>
+		<term name="Capitol (Washington, D.C.)"/>
+		<term name="Commemorations"/>
+		<term name="Congress"/>
+		<term name="Congressional publications"/>
+		<term name="Government information"/>
+		<term name="Humanities"/>
+	</subjects>
+	<amendments>
+		<amendment number="h817"/>
+	</amendments>
+	<summary>
+	8/3/1994--Passed House amended. Authorizes the printing of the book entitled &quot;The Cornerstones of the United States Capitol&quot; as a Senate document. Requires additional printing of such document for the use of the Commission on the Bicentennial of the United States Capitol.
+
+	</summary>
+</bill>

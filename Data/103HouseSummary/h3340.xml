@@ -1,0 +1,76 @@
+<bill session="103" type="h" number="3340" updated="2010-04-19T07:51:32-04:00">
+	<state datetime="1993-11-02T12:11:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-02T12:11:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-10-21"/>
+	<titles>
+		<title type="short" as="introduced">Veterans' Benefits Amendments of 1993</title>
+		<title type="short" as="passed house">Veterans' Compensation Rates Amendments of 1993</title>
+		<title type="official" as="introduced">To amend title 38, United States Code, to provide a cost-of-living adjustment in the rates of disability compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for survivors of such veterans, and for other purposes.</title>
+	</titles>
+	<sponsor id="409966"/>
+	<cosponsors>
+		<cosponsor id="400219" joined="1993-10-21"/>
+		<cosponsor id="400126" joined="1993-10-21"/>
+		<cosponsor id="400302" joined="1993-10-28"/>
+		<cosponsor id="400389" joined="1993-10-28"/>
+		<cosponsor id="400127" joined="1993-10-21"/>
+		<cosponsor id="400388" joined="1993-10-21"/>
+		<cosponsor id="409570" joined="1993-10-21"/>
+		<cosponsor id="408556" joined="1993-10-28"/>
+		<cosponsor id="400028" joined="1993-10-21"/>
+		<cosponsor id="409205" joined="1993-10-28"/>
+		<cosponsor id="407838" joined="1993-10-21"/>
+		<cosponsor id="405313" joined="1993-10-28"/>
+		<cosponsor id="400048" joined="1993-10-28"/>
+		<cosponsor id="400504" joined="1993-10-21"/>
+		<cosponsor id="410695" joined="1993-10-21"/>
+		<cosponsor id="400118" joined="1993-10-21"/>
+		<cosponsor id="400906" joined="1993-10-21"/>
+		<cosponsor id="408476" joined="1993-10-28"/>
+		<cosponsor id="400610" joined="1993-10-21"/>
+		<cosponsor id="409219" joined="1993-10-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-21"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-10-26"><committee name="House Committee on Veterans' Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-26"  state="REPORTED"><committee name="House Committee on Veterans' Affairs"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-10-28T18:34:00-04:00"><text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 103-312.</text></action>
+		<calendar number="164" datetime="1993-10-28T18:34:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 164.</text></calendar>
+		<action datetime="1993-11-02T12:09:00-05:00"><text>Mr. Montgomery moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-02T12:09:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8670-8671"/></action>
+		<action datetime="1993-11-02T12:10:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-02T12:11:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-02T12:12:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-11-02T12:14:00-05:00"><text>Laid on the table. See S. 616 for further action.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="superseded" session="103" type="s" number="616" />
+		<bill relation="unknown" session="103" type="s" number="616" />
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Children"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Disabled"/>
+		<term name="Divorcees"/>
+		<term name="Economic policy"/>
+		<term name="Military cemeteries and funerals"/>
+		<term name="Orphans"/>
+		<term name="Pensions"/>
+		<term name="Remarriage"/>
+		<term name="Survivors' benefits"/>
+		<term name="Veterans' disability compensation"/>
+		<term name="Veterans' pensions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/2/1993--Passed House amended. Veterans' Compensation Rates Amendments of 1993 - Increases, as of December 1, 1993, the rates of veterans' disability compensation, additional compensation for dependents, the clothing allowance for certain disabled adult veterans, dependency and indemnity compensation (DIC) for surviving spouses and children, and supplemental DIC for disabled adult children.
+
+	</summary>
+</bill>

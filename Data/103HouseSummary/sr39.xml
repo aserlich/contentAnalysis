@@ -1,0 +1,38 @@
+<bill session="103" type="sr" number="39" updated="2010-04-19T22:05:33-04:00">
+	<state datetime="1993-01-27">REPORTED</state>
+	<status><calendar datetime="1993-01-27" /></status>
+
+	<introduced datetime="1993-01-27"/>
+	<titles>
+		<title type="official" as="introduced">An original resolution to authorize expenditures for the Committee on Energy and Natural Resources for the period March 1, 1993, through February 28, 1995.</title>
+	</titles>
+	<sponsor id="406084"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar datetime="1993-01-27"  state="REPORTED"><text>Committee on Energy and Natural Resources ordered to be reported an original measure.</text></calendar>
+		<action datetime="1993-01-27"><text>Committee on Energy and Natural Resources. Original measure reported to Senate by Senator Johnston. Without written report.</text></action>
+		<action datetime="1993-01-27"><text>Referred to the Committee on Rules.</text></action>
+		<calendar datetime="1993-02-18" ><text>Committee on Rules. Provisions of measure incorporated into measure S.RES. 71 ordered to be reported.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Origin, Reporting, Markup" />
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="sr" number="71" />
+	</relatedbills>
+	<subjects>
+		<term name="Senate"/>
+		<term name="Congressional committees (Senate)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/1993--Introduced.
+Authorizes expenditures by the Senate Committee on Energy and Natural Resources for the 103d Congress.
+
+	</summary>
+</bill>

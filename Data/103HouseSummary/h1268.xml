@@ -1,0 +1,106 @@
+<bill session="103" type="h" number="1268" updated="2012-07-17T06:01:51-04:00">
+	<state datetime="1993-12-03">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-03" /></status>
+
+	<introduced datetime="1993-03-09"/>
+	<titles>
+		<title type="short" as="introduced">Indian Tribal Justice Act</title>
+		<title type="short" as="passed senate">Indian Tribal Justice Systems Act</title>
+		<title type="short" as="enacted">Indian Tribal Justice Act</title>
+		<title type="official" as="introduced">To assist the development of tribal judicial systems, and for other purposes.</title>
+	</titles>
+	<sponsor id="409205"/>
+	<cosponsors>
+		<cosponsor id="403875" joined="1993-03-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-09" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E549-550)</text></action>
+		<action datetime="1993-03-09" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Native American Affairs.</text></action>
+		<action datetime="1993-04-21"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-06-18"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-06-18"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-07-12"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1993-07-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-07-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<calendar number="116" datetime="1993-08-02T12:07:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 116.</text></calendar>
+		<action datetime="1993-08-02T12:07:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-205.</text></action>
+		<action datetime="1993-08-02T15:51:00-04:00"><text>Mr. Richardson moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-08-02T15:52:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5630-5632"/></action>
+		<action datetime="1993-08-02T15:52:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-08-02T15:59:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-08-02T15:59:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-08-03"><text>Received in the Senate and read twice and referred to the Committee on Indian Affairs.</text></action>
+		<action datetime="1993-08-06"><text>Amendment SP 776 proposed by Senator Kassebaum for Senator McCain.</text></action>
+		<action datetime="1993-08-06"><text>Senate Committee on Indian Affairs discharged by Unanimous Consent.</text></action>
+		<action datetime="1993-08-06"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S10829-10831"/></action>
+		<action datetime="1993-08-06"><text>Amendment SP 776 agreed to in Senate by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-08-06" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-08-06"><text>Senate insists on its amendment asks for a conference, appoints conferees Inouye; DeConcini; Daschle; Conrad; Reid; Simon; Akaka; Wellstone; Dorgan; Campbell; McCain; Murkowski; Cochran; Gorton; Domenici; Kassebaum; Nickles; Hatfield.</text><reference label="consideration" ref="CR S10831"/></action>
+		<action datetime="1993-09-08"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-09-28T18:41:00-04:00"><text>Mr. Richardson asked unanimous consent that the House disagree to the Senate amendment, and agree to a conference.</text></action>
+		<action datetime="1993-09-28T18:41:00-04:00"><text>On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to without objection.</text><reference label="consideration" ref="CR H7126"/></action>
+		<action datetime="1993-09-28T18:42:00-04:00"><text>The Speaker appointed conferees: Miller (CA), Richardson, and Thomas (WY).</text></action>
+		<action datetime="1993-09-28T18:43:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-18"><text>Conferees agreed to file conference report.</text></action>
+		<action datetime="1993-11-19"><text>Conference papers: Senate report and managers' statement held at the desk in Senate.</text></action>
+		<action datetime="1993-11-19T17:23:00-05:00"><text>Mr. Miller asked unanimous consent that it may be in order for the House to consider the conference report on the bill H.R. 1268, and that all points of order against said conference report and against its consideration shall be waived. Agreed to without objection.</text></action>
+		<action datetime="1993-11-19T17:23:00-05:00"><text>Conference report H. Rept. 103-383 filed.</text><reference label="text of conference report" ref="CR H10259-10262"/></action>
+		<action datetime="1993-11-19T17:23:00-05:00"><text>Mr. Miller (CA) brought up conference report H. Rept. 103-383 by previously agreed to special order.</text></action>
+		<vote how="without objection" type="conference" datetime="1993-11-19T17:24:00-05:00" where="h" result="pass" ><text>On agreeing to the conference report Agreed to without objection.</text><reference label="consideration" ref="CR H10259-10262"/></vote>
+		<action datetime="1993-11-19T17:24:00-05:00"><text>Motions to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-19"><text>Conference papers: message on House action held at the desk in Senate.</text></action>
+		<vote how="by Voice Vote" type="conference" datetime="1993-11-20" where="s" result="pass"  state="PASSED:BILL"><text>Senate agreed to conference report by Voice Vote. (consideration: 11/19/1993 CR S16597)</text></vote>
+		<action datetime="1993-11-20"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-11-20" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-11-23" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-03" ><text>Signed by President.</text></signed>
+		<enacted number="103-176" type="public" datetime="1993-12-03"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-176.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="" name="Senate Indian Affairs" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="521" />
+		<bill relation="unknown" session="103" type="s" number="521" />
+		<bill relation="unknown" session="103" type="s" number="521" />
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Administration of criminal justice"/>
+		<term name="Administration of justice"/>
+		<term name="Authorization"/>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Conferences"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Data banks"/>
+		<term name="Department of the Interior"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Government operations and politics"/>
+		<term name="Higher education"/>
+		<term name="Indian courts"/>
+		<term name="Information services"/>
+		<term name="Judges"/>
+		<term name="Judicial officers"/>
+		<term name="Judicial statistics"/>
+		<term name="Jurisdiction"/>
+		<term name="Law"/>
+		<term name="Legal education"/>
+		<term name="Minorities"/>
+		<term name="Surveys"/>
+	</subjects>
+	<amendments>
+		<amendment number="s776"/>
+	</amendments>
+	<summary>
+	11/19/1993--Conference report filed in House. TABLE OF CONTENTS: Title I: Tribal Justice Systems Title II: Authorizations of Appropriations Title III: Disclaimers Indian Tribal Justice Act - Title I: Tribal Justice Systems - Establishes within the Bureau of Indian Affairs (Bureau) the Office of Tribal Justice Support (Office) to further the development of tribal justice systems and Courts of Indian Offenses. Transfers functions and personnel of the Bureau's Branch of Judicial Services to the Office. Directs the Office to: (1) establish a tribal justice systems clearinghouse; (2) survey systems resources and funding; (3) provide training and technical assistance; and (4) provide funds to tribes and tribal organizations for the continuing operation of tribal justice systems. Directs the Secretary of the Interior (Secretary) to contract for a survey of tribal judicial systems, which shall be annually updated. Authorizes the Secretary to: (1) provide grants to or enter into contracts with tribes or tribal organizations for the development and operation of tribal justice systems; and (2) contract with tribal judicial conferences for such purposes. Title II: Authorizations of Appropriations - Authorizes appropriations for tribal justice systems and related activities through FY 2000. Authorizes additional appropriations for the tribal judicial system survey. Exempts related appropriations from the Indian priority system. Title III: Disclaimers - States that nothing in this Act shall be construed to diminish: (1) the inherent authority of a tribe's governmental authority, including its legal system; or (2) the trust responsibility of the United States to tribal governments and legal systems, or to imply that any tribal court is a U.S. instrumentality.
+
+	</summary>
+</bill>

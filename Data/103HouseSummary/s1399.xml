@@ -1,0 +1,42 @@
+<bill session="103" type="s" number="1399" updated="2012-07-17T05:28:57-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Competitiveness Policy Council Act to provide for reauthorization, to rename the Council, and for other purposes.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+		<cosponsor id="409225" joined="1993-08-06"/>
+		<cosponsor id="300084" joined="1993-08-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S10846-10847)</text></action>
+		<action datetime="1993-08-06" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2960" />
+	</relatedbills>
+	<subjects>
+		<term name="Commerce"/>
+		<term name="Authorization"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal officials"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="International competitiveness"/>
+		<term name="Names"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Amends the Competitiveness Policy Council Act to rename it and to: (1) change the name of the Competitiveness Policy Council to the National Competitiveness Commission (Commission); and (2) reauthorize and extend the Commission. Amends the National Competitiveness Commission Act (as renamed) to make technical changes with respect to Commission duties, powers, staff, and reporting requirements.
+
+	</summary>
+</bill>

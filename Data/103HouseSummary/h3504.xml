@@ -1,0 +1,75 @@
+<bill session="103" type="h" number="3504" updated="2010-04-19T08:17:03-04:00">
+	<state datetime="1993-11-10">REFERRED</state>
+	<status><introduced datetime="1993-11-10"/></status>
+
+	<introduced datetime="1993-11-10"/>
+	<titles>
+		<title type="short" as="introduced">Federal Mandates Relief Act of 1993</title>
+		<title type="official" as="introduced">To provide Federal payments for Federal mandates imposed upon State and local governments.</title>
+	</titles>
+	<sponsor id="410887"/>
+	<cosponsors>
+		<cosponsor id="400174" joined="1993-11-10"/>
+		<cosponsor id="400505" joined="1993-11-10"/>
+		<cosponsor id="400267" joined="1993-11-10"/>
+		<cosponsor id="401547" joined="1993-11-10"/>
+		<cosponsor id="406863" joined="1993-11-10"/>
+		<cosponsor id="400370" joined="1993-11-10"/>
+		<cosponsor id="400581" joined="1993-11-10"/>
+		<cosponsor id="406343" joined="1993-11-10"/>
+		<cosponsor id="400504" joined="1993-11-10"/>
+		<cosponsor id="400070" joined="1993-11-10"/>
+		<cosponsor id="400012" joined="1993-11-10"/>
+		<cosponsor id="411997" joined="1993-11-10"/>
+		<cosponsor id="400583" joined="1993-11-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-10"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-11-10"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-11-17"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Human Resources and Intergovernmental Relations.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Government Operations"/><text>See H.R.4771.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Human Resources and Intergovernmental Relations" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="140" />
+		<bill relation="unknown" session="103" type="h" number="4771" />
+		<bill relation="identical" session="103" type="s" number="648" />
+	</relatedbills>
+	<subjects>
+		<term name="Intergovernmental relations"/>
+		<term name="Administrative procedure"/>
+		<term name="Appropriations"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Costs"/>
+		<term name="Economic impact statements"/>
+		<term name="Economic policy"/>
+		<term name="Executive departments"/>
+		<term name="Federal-local relations"/>
+		<term name="Federal-state relations"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="House rules and procedure"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="Legislation"/>
+		<term name="Legislative resolutions"/>
+		<term name="Politics and government"/>
+		<term name="Regulatory impact statements"/>
+		<term name="Regulatory reform"/>
+		<term name="Senate rules and procedure"/>
+		<term name="State and local government"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/10/1993--Introduced.
+Federal Mandates Relief Act of 1993 - Prohibits State and local governments from being obligated to take any action required by any new Federal law, unless: (1) all expenses associated with such obligation are fully funded by the Federal Government; and (2) each Federal agency that has authority to administer a Federal mandate publishes a schedule of compliance costs. Requires each bill or joint resolution considered in the Congress to be accompanied by a report estimating the costs to State and local governments that any Federal mandate in such legislation would impose.
+
+	</summary>
+</bill>

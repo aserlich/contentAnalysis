@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="3430" updated="2010-04-19T08:05:32-04:00">
+	<state datetime="1993-11-03">REFERRED</state>
+	<status><introduced datetime="1993-11-03"/></status>
+
+	<introduced datetime="1993-11-03"/>
+	<titles>
+		<title type="short" as="introduced">Environmental Defense Act of 1993</title>
+		<title type="official" as="introduced">To require the Secretary of Education to investigate the feasibility of establishing a National Environmental Science and Policy Academy.</title>
+	</titles>
+	<sponsor id="400594"/>
+	<cosponsors>
+		<cosponsor id="400219" joined="1993-11-23"/>
+		<cosponsor id="406768" joined="1993-11-23"/>
+		<cosponsor id="400003" joined="1993-11-23"/>
+		<cosponsor id="401310" joined="1993-11-23"/>
+		<cosponsor id="405524" joined="1993-11-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-03"><text>Sponsor introductory remarks on measure. (CR E2764)</text></action>
+		<action datetime="1993-11-03"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-11-17"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Postsecondary Education and Training.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Postsecondary Education and Training" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Colleges"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Environmental education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/3/1993--Introduced.
+Environmental Defense Act of 1993 - Directs the Secretary of Education to investigate the feasibility of the Federal Government establishing a National Environmental Science and Policy Academy. Requires a report, with recommendations, to the Congress.
+
+	</summary>
+</bill>

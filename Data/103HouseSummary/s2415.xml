@@ -1,0 +1,45 @@
+<bill session="103" type="s" number="2415" updated="2012-07-17T04:45:43-04:00">
+	<state datetime="1994-08-23">REFERRED</state>
+	<status><introduced datetime="1994-08-23"/></status>
+
+	<introduced datetime="1994-08-23"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 relating to the treatment of partnership investment expenses under the alternative minimum tax.</title>
+	</titles>
+	<sponsor id="300034"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="1994-08-23"/>
+		<cosponsor id="401604" joined="1994-08-23"/>
+		<cosponsor id="402004" joined="1994-08-23"/>
+		<cosponsor id="300011" joined="1994-08-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-23" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S12384-12385)</text></action>
+		<action datetime="1994-08-23" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Commerce"/>
+		<term name="Finance and financial sector"/>
+		<term name="Interest"/>
+		<term name="Investments"/>
+		<term name="Minimum tax"/>
+		<term name="Partnerships"/>
+		<term name="Tax deductions"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/23/1994--Introduced.
+Amends the Internal Revenue Code to allow a limited deduction of partnership investment expenses for purposes of computing the alternative minimum tax.
+
+	</summary>
+</bill>

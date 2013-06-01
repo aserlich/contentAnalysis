@@ -1,0 +1,51 @@
+<bill session="103" type="s" number="1776" updated="2012-07-17T06:12:56-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="short" as="introduced">Civil Rights Standards Restoration Act</title>
+		<title type="official" as="introduced">A bill to amend the Revised Statutes to restore standards for proving intentional discrimination.</title>
+	</titles>
+	<sponsor id="407663"/>
+	<cosponsors>
+		<cosponsor id="300076" joined="1993-11-22"/>
+		<cosponsor id="409917" joined="1993-11-22"/>
+		<cosponsor id="411818" joined="1993-11-22"/>
+		<cosponsor id="300042" joined="1993-11-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S16948-16951)</text></action>
+		<action datetime="1993-11-22" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3680" />
+	</relatedbills>
+	<subjects>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Age and employment"/>
+		<term name="Age discrimination"/>
+		<term name="Discrimination"/>
+		<term name="Discrimination in employment"/>
+		<term name="Evidence (Law)"/>
+		<term name="Housing and community development"/>
+		<term name="Housing discrimination"/>
+		<term name="Labor and employment"/>
+		<term name="Law"/>
+		<term name="Older workers"/>
+		<term name="Social welfare"/>
+		<term name="Standards"/>
+		<term name="Supreme Court decisions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Civil Rights Standards Restoration Act - Amends the Revised Statutes to restore, and ensure the application of, standards for proving intentional discrimination.
+
+	</summary>
+</bill>

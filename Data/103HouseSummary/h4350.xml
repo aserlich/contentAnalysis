@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="4350" updated="2010-04-19T10:29:05-04:00">
+	<state datetime="1994-05-05">REFERRED</state>
+	<status><introduced datetime="1994-05-05"/></status>
+
+	<introduced datetime="1994-05-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XIX of the Social Security Act to make optional the provision of non-emergency medical transportation services under the medicaid program and to deny Federal financial participation for such services.</title>
+	</titles>
+	<sponsor id="400012"/>
+	<cosponsors>
+		<cosponsor id="400174" joined="1994-05-25"/>
+		<cosponsor id="400015" joined="1994-06-17"/>
+		<cosponsor id="300055" joined="1994-05-05"/>
+		<cosponsor id="400574" joined="1994-05-17"/>
+		<cosponsor id="400261" joined="1994-05-05"/>
+		<cosponsor id="406863" joined="1994-06-08"/>
+		<cosponsor id="400551" joined="1994-05-05"/>
+		<cosponsor id="400343" joined="1994-07-12"/>
+		<cosponsor id="400560" joined="1994-05-18"/>
+		<cosponsor id="405033" joined="1994-06-14"/>
+		<cosponsor id="400583" joined="1994-05-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-05"><text>Sponsor introductory remarks on measure. (CR E869)</text></action>
+		<action datetime="1994-05-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-05-25"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Ambulances"/>
+		<term name="Health policy"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Public assistance programs"/>
+		<term name="Transportation"/>
+		<term name="Welfare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/5/1994--Introduced.
+Amends title XIX (Medicaid) of the Social Security Act to declare that the Secretary of Health and Human Services is not authorized to require a State plan for medical assistance to ensure the provision of necessary non-emergency medical transportation services. Denies Federal payment for such services.
+
+	</summary>
+</bill>

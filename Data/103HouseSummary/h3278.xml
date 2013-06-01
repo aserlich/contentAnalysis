@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="3278" updated="2010-04-19T07:41:57-04:00">
+	<state datetime="1993-10-13">REFERRED</state>
+	<status><introduced datetime="1993-10-13"/></status>
+
+	<introduced datetime="1993-10-13"/>
+	<titles>
+		<title type="short" as="introduced">Income Equity Act of 1993</title>
+		<title type="official" as="introduced">To increase the minimum wage and to deny employers a deduction for payments of excessive compensation.</title>
+	</titles>
+	<sponsor id="400354"/>
+	<cosponsors>
+		<cosponsor id="401494" joined="1993-10-26"/>
+		<cosponsor id="400612" joined="1994-03-02"/>
+		<cosponsor id="400416" joined="1993-10-26"/>
+		<cosponsor id="404190" joined="1994-05-05"/>
+		<cosponsor id="410889" joined="1994-04-18"/>
+		<cosponsor id="400240" joined="1993-10-26"/>
+		<cosponsor id="400314" joined="1993-10-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-13"><text>Sponsor introductory remarks on measure. (CR E2416)</text></action>
+		<action datetime="1993-10-13"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-10-13"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-11-03"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor Standards, Occupational Health and Safety.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-10" name="House Education and Labor" subcommittee="Labor Standards, Occupational Health and Safety" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor"/>
+		<term name="Earnings"/>
+		<term name="Executive compensation"/>
+		<term name="Income tax"/>
+		<term name="Minimum wages"/>
+		<term name="Tax deductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/13/1993--Introduced.
+Income Equity Act of 1993 - Amends the Fair Labor Standards Act of 1938 to increase the minimum wage from $4.25 to $6.50 an hour. Amends the Internal Revenue Code to deny employers a deduction for payments of excessive compensation (more than 25 times the lowest compensation paid any other employee).
+
+	</summary>
+</bill>

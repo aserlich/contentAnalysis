@@ -1,0 +1,68 @@
+<bill session="103" type="h" number="3442" updated="2010-04-19T08:07:25-04:00">
+	<state datetime="1993-11-03">REFERRED</state>
+	<status><introduced datetime="1993-11-03"/></status>
+
+	<introduced datetime="1993-11-03"/>
+	<titles>
+		<title type="official" as="introduced">To eliminate certain expenditures provided by the Omnibus Budget Reconciliation Act of 1993.</title>
+	</titles>
+	<sponsor id="409633"/>
+	<cosponsors>
+		<cosponsor id="406431" joined="1994-04-28"/>
+		<cosponsor id="400113" joined="1994-08-08"/>
+		<cosponsor id="400036" joined="1994-04-28"/>
+		<cosponsor id="400176" joined="1993-11-22"/>
+		<cosponsor id="400225" joined="1994-08-01"/>
+		<cosponsor id="400221" joined="1994-06-29"/>
+		<cosponsor id="400012" joined="1994-02-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-03"><text>Sponsor introductory remarks on measure. (CR H8712)</text></action>
+		<action datetime="1993-11-03"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-11-03"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-11-03"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Elections.</text></action>
+		<action datetime="1993-11-05"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Department Operations and Nutrition.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Department Operations and Nutrition" activity="Referral" />
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="HSHA-08" name="House Administration" subcommittee="Elections" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Adoption"/>
+		<term name="Auditing"/>
+		<term name="Campaign funds"/>
+		<term name="Checkoff"/>
+		<term name="Children"/>
+		<term name="Collection of accounts"/>
+		<term name="Earned income tax credit"/>
+		<term name="Elections"/>
+		<term name="Federal aid to child welfare"/>
+		<term name="Food"/>
+		<term name="Food stamps"/>
+		<term name="Foster home care"/>
+		<term name="Government spending reductions"/>
+		<term name="Income tax"/>
+		<term name="Presidential elections"/>
+		<term name="Public assistance programs"/>
+		<term name="Social security"/>
+		<term name="Tax returns"/>
+		<term name="Taxation"/>
+		<term name="Welfare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/3/1993--Introduced.
+Amends the Internal Revenue Code (as amended by the Revenue Reconciliation Act of 1993 of the Omnibus Budget Reconciliation Act of 1993) to repeal: (1) the increase in the earned income tax credit; and (2) the increase in the presidential election campaign fund checkoff. Amends the Omnibus Budget Reconciliation Act of 1993 to repeal the moratorium on the collection of disallowances under the child welfare services provisions of the Social Security Act. Amends the Food Stamp Act (as amended by the Omnibus Budget Reconciliation Act of 1993) to repeal and reverse certain provisions which would increase the costs of the food stamp program.
+
+	</summary>
+</bill>

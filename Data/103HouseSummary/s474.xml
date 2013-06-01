@@ -1,0 +1,45 @@
+<bill session="103" type="s" number="474" updated="2012-07-17T05:14:49-04:00">
+	<state datetime="1993-03-02">REFERRED</state>
+	<status><introduced datetime="1993-03-02"/></status>
+
+	<introduced datetime="1993-03-02"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to increase the amount of the exemption for dependent children under age 18 to $3,500, and for other purposes.</title>
+	</titles>
+	<sponsor id="402675"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-03-18"/>
+		<cosponsor id="300007" joined="1993-03-11"/>
+		<cosponsor id="300079" joined="1993-06-22"/>
+		<cosponsor id="300015" joined="1993-04-02"/>
+		<cosponsor id="300155" joined="1993-06-10"/>
+		<cosponsor id="300154" joined="1993-05-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-02" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2223)</text></action>
+		<action datetime="1993-03-02" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Families"/>
+		<term name="Indexing (Economic policy)"/>
+		<term name="Support of dependents"/>
+		<term name="Tax deductions"/>
+		<term name="Tax exemption"/>
+		<term name="Tax rates"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/2/1993--Introduced.
+Amends the Internal Revenue Code to increase the personal exemption for a dependent child who has not attained age 18 from $2,000 to $3,500. Provides for rounding inflation adjustments in tax tables to the nearest multiple of $10 (currently rounded to the next lowest multiple of $50).
+
+	</summary>
+</bill>

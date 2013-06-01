@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="4697" updated="2010-04-19T11:23:51-04:00">
+	<state datetime="1994-09-28">REPORTED</state>
+	<status><calendar datetime="1994-09-28" /></status>
+
+	<introduced datetime="1994-06-30"/>
+	<titles>
+		<title type="short" as="introduced">Walnut Canyon National Monument Boundary Modification Act of 1994</title>
+		<title type="short" as="reported to house">Walnut Canyon National Monument Boundary Modification Act of 1994</title>
+		<title type="official" as="introduced">To modify the boundaries of Walnut Canyon National Monument in the States of Arizona.</title>
+	</titles>
+	<sponsor id="403875"/>
+	<cosponsors>
+		<cosponsor id="402890" joined="1994-08-02"/>
+		<cosponsor id="400226" joined="1994-08-02"/>
+		<cosponsor id="300062" joined="1994-08-02"/>
+		<cosponsor id="400504" joined="1994-08-02"/>
+		<cosponsor id="400310" joined="1994-08-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-30"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-08-04"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Hearings Held by the Subcommittee on National Parks, Forests and Public Lands Prior to Referral.</text></action>
+		<action datetime="1994-08-30"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T20:17:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-799.</text></action>
+		<calendar number="445" datetime="1994-10-03T20:17:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 445.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4746" />
+		<bill relation="identical" session="103" type="s" number="2359" />
+	</relatedbills>
+	<subjects>
+		<term name="Monuments and memorials"/>
+		<term name="Arizona"/>
+		<term name="Commemorations"/>
+		<term name="Land transfers"/>
+		<term name="National forests"/>
+		<term name="National monuments"/>
+		<term name="Natural resources"/>
+		<term name="Public lands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Reported to House amended. Walnut Canyon National Monument Boundary Modification Act of 1994 - Modifies the boundaries of the Walnut Canyon National Monument in Arizona. Authorizes the Secretary of the Interior to acquire lands and interests in lands within the Monument. Transfers Federal property: (1) within the boundaries of the Monument (as modified by this Act) to the administrative jurisdiction of the Secretary of the Interior for management as part of the Monument; and (2) excluded from the Monument (pursuant to the boundary modification) to the administrative jurisdiction of the Secretary of Agriculture to be managed as part of the Coconino National Forest. Requires the Secretary of the Interior, acting through the Director of the National Park Service, to manage the Monument as a unit of the National Park Service. Authorizes appropriations.
+
+	</summary>
+</bill>

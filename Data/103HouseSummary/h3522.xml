@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="3522" updated="2010-04-19T08:19:50-04:00">
+	<state datetime="1993-11-17">REFERRED</state>
+	<status><introduced datetime="1993-11-17"/></status>
+
+	<introduced datetime="1993-11-17"/>
+	<titles>
+		<title type="official" as="introduced">To suspend until January 1, 1996, the duty on certain machinery.</title>
+	</titles>
+	<sponsor id="400076"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-17"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-11-19"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-12-13"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1994-04-22"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3848" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Machinery"/>
+		<term name="Tariff"/>
+		<term name="Textile industry and fabrics"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/17/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1995, the duty on: (1) roto autocoro textile spinning machinery; (2) rotary screen print machinery; (3) airjet weaving machines and accessories of a width exceeding 30 cm; and (4) projectile looms of a width exceeding 30 cm.
+
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="103" type="sc" number="67" updated="2010-04-19T21:21:27-04:00">
+	<state datetime="1994-04-28T17:39:00-04:00">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1994-04-28T17:39:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1994-04-26"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution to correct technical errors in the enrollment of the bill H.R. 2333.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1994-04-26" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text><reference label="consideration" ref="CR S4921-4922"/></vote>
+		<action datetime="1994-04-28"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-04-28T12:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-04-28T17:36:00-04:00"><text>Mr. Hamilton asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1994-04-28T17:36:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H2901-2902"/></action>
+		<vote how="without objection" type="vote2" datetime="1994-04-28T17:39:00-04:00" where="h" result="pass"  state="PASSED:CONCURRENTRES"><text>On agreeing to the resolution Agreed to without objection.</text></vote>
+		<action datetime="1994-04-28T17:39:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2333" />
+	</relatedbills>
+	<subjects>
+		<term name="Senate"/>
+		<term name="Congress"/>
+		<term name="Foreign relations"/>
+		<term name="Legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/26/1994--Introduced.
+Makes technical corrections in the enrollment of H.R. 2333 (authorizing appropriations for the Department of State, the United States Information Agency, and related agencies).
+
+	</summary>
+</bill>

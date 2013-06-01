@@ -1,0 +1,66 @@
+<bill session="103" type="s" number="1216" updated="2012-07-17T05:38:24-04:00">
+	<state datetime="1994-10-03">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-10-03" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-07-13"/>
+	<titles>
+		<title type="short" as="introduced">Crow Settlement Act</title>
+		<title type="short" as="passed senate">Crow Boundary Settlement Act of 1994</title>
+		<title type="official" as="introduced">A bill to resolve the 107th Meridian boundary dispute between the Crow Indian Tribe, the Northern Cheyenne Indian Tribe, and the United States and various other issues pertaining to the Crow Indian Reservation.</title>
+		<title type="official" as="amended by senate">An Act to resolve the 107th meridian boundary dispute between the Crow Indian Tribe and the United States.</title>
+	</titles>
+	<sponsor id="300005"/>
+	<cosponsors>
+		<cosponsor id="300015" joined="1993-07-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-13" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8628)</text></action>
+		<action datetime="1993-07-13" state="REFERRED"><text>Read twice and referred to the Committee on Indian Affairs.</text></action>
+		<action datetime="1993-07-14"><text>Ordered that, if and when the Committee on Indian Affairs reports the bill it then be referred to the Comittee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-07-21"><committee name="Committee on Indian Affairs"/><text>Committee on Indian Affairs. Approved for reporting with an amendment in the nature of a substitute favorably.</text></action>
+		<action datetime="1994-09-21"><text>Committee on Indian Affairs. Reported to Senate by Senator Inouye with an amendment in the nature of a substitute and an amendment to the title. With written report No. 103-371.</text></action>
+		<action datetime="1994-09-21"><text>Referred to the Committee on Energy and Natural Resources pursuant to the order of July 14, 1993.</text></action>
+		<action datetime="1994-10-03"><text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-10-03" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text><reference label="consideration" ref="CR S13958"/></vote>
+		<action datetime="1994-10-05"><text>Sponsor introductory remarks on measure. (CR S14272-14273)</text></action>
+		<action datetime="1994-10-05"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-05T11:20:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-10-05T15:26:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-10-07"><text>Returned to Senate pursuant to the provisions of H. Res. 577.</text><reference label="consideration" ref="CR H11211-11212"/></action>
+	</actions>
+	<committees>
+		<committee code="" name="Senate Indian Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hr" number="577" />
+		<bill relation="unknown" session="103" type="h" number="5200" />
+		<bill relation="unknown" session="103" type="h" number="5200" />
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Boundaries"/>
+		<term name="Dams"/>
+		<term name="Economics and public finance"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Government trust funds"/>
+		<term name="Hydroelectric power"/>
+		<term name="Indian claims"/>
+		<term name="Indian lands"/>
+		<term name="Irrigation"/>
+		<term name="Land transfers"/>
+		<term name="Minorities"/>
+		<term name="Missouri River development"/>
+		<term name="Montana"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Water resources development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Passed Senate amended. Crow Boundary Settlement Act of 1994 - Directs the Secretary of the Interior to enter into the Settlement Agreement with the Crow Tribe for the resolution of the 107th meridian boundary dispute. Ratifies the Settlement Agreement. Sets forth the terms and conditions of the Agreement, including: (1) surface land boundaries and coal, oil, and other mineral rights; (2) lands and mineral rights to be part of the Northern Cheyenne Indian Reservation; (3) land exchanges with Montana and private owners; and (4) compensation. Establishes in the Treasury the Crow Tribe Trust Fund. Divides the existing 107th meridian escrow fund evenly between the Crow and Northern Cheyenne Tribes. Authorizes appropriations.
+
+	</summary>
+</bill>

@@ -1,0 +1,63 @@
+<bill session="103" type="s" number="400" updated="2012-07-17T06:12:05-04:00">
+	<state datetime="1993-03-17">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-03-17" /></status>
+
+	<introduced datetime="1993-02-18"/>
+	<titles>
+		<title type="short" as="introduced">Pension Benefit Guaranty Corporation Lease Settlements Act of 1993</title>
+		<title type="short" as="passed house">Aircraft Equipment Settlement Leases Act of 1993</title>
+		<title type="short" as="passed senate">Aircraft Equipment Settlement Leases Act of 1993</title>
+		<title type="short" as="enacted">Aircraft Equipment Settlement Leases Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend the Employee Retirement Income Security Act of 1974 to provide for the treatment of settlement agreements reached with the Pension Benefit Guaranty Corporation.</title>
+	</titles>
+	<sponsor id="300057"/>
+	<cosponsors>
+		<cosponsor id="300017" joined="1993-02-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-18" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1897)</text></action>
+		<action datetime="1993-02-18" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<action datetime="1993-03-11"><text>Senate Committee on Labor and Human Resources discharged by Unanimous Consent.</text></action>
+		<action datetime="1993-03-11"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S2775"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-03-11" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-03-15T12:01:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-03-15T12:14:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-03-15"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-03-16T13:43:00-05:00"><text>Mr. Brooks asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1993-03-16T13:43:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H1255"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-03-16T13:43:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-03-16T13:44:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-03-16T13:44:00-05:00"><text>A similar measure H.R. 1140 was laid on the table without objection.</text></action>
+		<topresident datetime="1993-03-16" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-03-16" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-03-17" ><text>Signed by President.</text></signed>
+		<enacted number="103-7" type="public" datetime="1993-03-17"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-7.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Aircraft"/>
+		<term name="Airline employees"/>
+		<term name="Bankruptcy"/>
+		<term name="Debtor and creditor"/>
+		<term name="Equipment and supplies"/>
+		<term name="Government operations and politics"/>
+		<term name="Leases"/>
+		<term name="Merchant seamen"/>
+		<term name="Pension Benefit Guaranty Corporation"/>
+		<term name="Pension trust guaranty insurance"/>
+		<term name="Ships"/>
+	</subjects>
+	<amendments>
+		<amendment number="s81"/>
+	</amendments>
+	<summary>
+	3/11/1993--Passed Senate amended. Aircraft Equipment Settlement Leases Act of 1993 - Treats certain pension liability settlement leases involving aircraft equipment (or vessels) as leases for purposes of the Federal bankruptcy code if any agreements settling such liability: (1) involve at least one party who was a debtor under the code; (2) were, are, or will be made with the Pension Benefit Guaranty Corporation under the Employee Retirement Income Security Act of 1974 (ERISA); and (3) stipulate that the leases shall be so treated.
+
+	</summary>
+</bill>

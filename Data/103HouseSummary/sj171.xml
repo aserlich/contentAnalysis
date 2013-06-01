@@ -1,0 +1,60 @@
+<bill session="103" type="sj" number="171" updated="2012-07-17T05:45:43-04:00">
+	<state datetime="1994-03-24">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-03-24" /></status>
+
+	<introduced datetime="1994-03-15"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution to designate March 20 through March 26, 1994, as &quot;Small Family Farm Week&quot;.</title>
+	</titles>
+	<sponsor id="300154"/>
+	<cosponsors>
+		<cosponsor id="300157" joined="1994-03-15"/>
+		<cosponsor id="408898" joined="1994-03-15"/>
+		<cosponsor id="300048" joined="1994-03-15"/>
+		<cosponsor id="300052" joined="1994-03-15"/>
+		<cosponsor id="300010" joined="1994-03-15"/>
+		<cosponsor id="403968" joined="1994-03-15"/>
+		<cosponsor id="300005" joined="1994-03-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-15" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1994-03-17"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S3282"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-03-17" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment and with a preamble by Voice Vote.</text></vote>
+		<action datetime="1994-03-21T12:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-03-21"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-03-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-03-21T20:29:00-05:00"><text>Committee on Post Office and Civil Service discharged.</text></action>
+		<action datetime="1994-03-21T20:29:00-05:00"><text>Ms. Norton asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-03-21T20:29:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H1754"/></action>
+		<vote how="without objection" type="vote2" datetime="1994-03-21T20:30:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-03-21T20:30:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-03-21" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-03-24" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-03-24" ><text>Signed by President.</text></signed>
+		<enacted number="103-224" type="public" datetime="1994-03-24"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-224.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="291" />
+		<bill relation="identical" session="103" type="hj" number="291" />
+		<bill relation="unknown" session="103" type="hj" number="291" />
+	</relatedbills>
+	<subjects>
+		<term name="Special weeks"/>
+		<term name="Agriculture and food"/>
+		<term name="Commemorations"/>
+		<term name="Family farms"/>
+		<term name="Small farms"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/15/1994--Introduced.
+Designates March 20 through 26, 1994, as Small Family Farm Week.
+
+	</summary>
+</bill>

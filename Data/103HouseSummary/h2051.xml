@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="2051" updated="2010-04-19T04:31:59-04:00">
+	<state datetime="1993-05-10">REFERRED</state>
+	<status><introduced datetime="1993-05-10"/></status>
+
+	<introduced datetime="1993-05-10"/>
+	<titles>
+		<title type="short" as="introduced">Expedited Shoreline Resources Improvement Act of 1993</title>
+		<title type="official" as="introduced">To modify the project for navigation, Jones Inlet, New York.</title>
+	</titles>
+	<sponsor id="400219"/>
+	<cosponsors>
+		<cosponsor id="406768" joined="1993-05-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-10"><text>Sponsor introductory remarks on measure. (CR E1191)</text></action>
+		<action datetime="1993-05-10"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-05-24"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Public Works + Transportation"/><text>See H.R.4460.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4460" />
+	</relatedbills>
+	<subjects>
+		<term name="Navigation"/>
+		<term name="Beach erosion"/>
+		<term name="Dredging"/>
+		<term name="Environmental protection"/>
+		<term name="New York State"/>
+		<term name="River regulation"/>
+		<term name="Shore protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/10/1993--Introduced.
+Expedited Shoreline Resources Improvement Act of 1993 - Modifies the project for navigation at Jones Inlet, New York, to provide for the placement of noncontaminated dredged material on beach areas downdrift from the federally maintained channel at such Inlet in order to mitigate the interruption of littoral system natural processes caused by the jetty and continued dredging of such channel.
+
+	</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="1931" updated="2010-04-19T04:13:13-04:00">
+	<state datetime="1993-04-29">REFERRED</state>
+	<status><introduced datetime="1993-04-29"/></status>
+
+	<introduced datetime="1993-04-29"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow farmers' cooperatives to elect to include gains or losses from certain dispositions in the determination of net earnings, and for other purposes.</title>
+	</titles>
+	<sponsor id="406466"/>
+	<cosponsors>
+		<cosponsor id="411677" joined="1993-11-03"/>
+		<cosponsor id="400183" joined="1993-11-03"/>
+		<cosponsor id="404723" joined="1993-04-29"/>
+		<cosponsor id="400176" joined="1993-04-29"/>
+		<cosponsor id="410589" joined="1993-11-03"/>
+		<cosponsor id="400112" joined="1993-11-03"/>
+		<cosponsor id="408661" joined="1994-01-25"/>
+		<cosponsor id="405507" joined="1993-04-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-29"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="545" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Accounting"/>
+		<term name="Agricultural cooperatives"/>
+		<term name="Agricultural economics"/>
+		<term name="Business losses"/>
+		<term name="Earnings"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/29/1993--Introduced.
+Amends the Internal Revenue Code to allow farmers' cooperatives to include gains or losses from the sale or other disposition of assets in net earnings from business done with or for patrons if the assets were used to facilitate the conduct of business.
+
+	</summary>
+</bill>

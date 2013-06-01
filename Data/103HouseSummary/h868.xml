@@ -1,0 +1,118 @@
+<bill session="103" type="h" number="868" updated="2012-07-17T06:14:06-04:00">
+	<state datetime="1994-08-16">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-08-16" /></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Consumer Protection Telemarketing Act</title>
+		<title type="short" as="passed house">Consumer Protection Telemarketing Act</title>
+		<title type="short" as="passed senate">Telemarketing and Consumer Fraud and Abuse Prevention Act</title>
+		<title type="short" as="enacted">Telemarketing and Consumer Fraud and Abuse Prevention Act</title>
+		<title type="official" as="introduced">To strengthen the authority of the Federal Trade Commission to protect consumers in connection with sales made with a telephone, and for other purposes.</title>
+	</titles>
+	<sponsor id="410567"/>
+	<cosponsors>
+		<cosponsor id="400307" joined="1993-02-04"/>
+		<cosponsor id="400150" joined="1993-02-04"/>
+		<cosponsor id="300068" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-04"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+		<action datetime="1993-02-17"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-02-17"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-02-17"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-02-23"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-02-23"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-02-24T12:42:00-05:00"><text>Reported by the Committee on Energy and Commerce. H. Rept. 103-20.</text></action>
+		<calendar number="9" datetime="1993-02-24T12:42:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 9.</text></calendar>
+		<action datetime="1993-03-02T13:52:00-05:00"><text>Mr. Swift moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-03-02T13:53:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H931-936"/></action>
+		<action datetime="1993-03-02T13:53:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-03-02T14:05:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1993-03-02T15:27:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H949-950"/></action>
+		<vote how="roll" type="vote" roll="45" datetime="1993-03-02T15:38:00-05:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 411 - 3 (Roll No. 45).</text></vote>
+		<action datetime="1993-03-02T15:38:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-03-03"><text>Received in the Senate and read twice and referred to the Committee on Commerce.</text></action>
+		<action datetime="1993-06-30"><text>Senate Committee on Commerce discharged by Unanimous Consent.</text></action>
+		<action datetime="1993-06-30"><text>Measure laid before Senate by unanimous consent.</text></action>
+		<action datetime="1993-06-30"><text>Senate struck all after the Enacting Clause and substituted the language of S. 568 amended.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-06-30" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate in lieu of S. 568 with an amendment by Voice Vote.</text><reference label="consideration" ref="CR S8375-8379"/></vote>
+		<action datetime="1993-07-01"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-07-25T12:16:00-04:00"><text>House agreed to Senate amendment with amendment pursuant to H. Res. 488.</text><reference label="consideration" ref="CR H6158-6162"/></action>
+		<action datetime="1994-07-26"><text>Message on House action received in Senate and at the desk: House amendment to Senate amendment.</text></action>
+		<vote how="by Voice Vote" type="pingpong" datetime="1994-08-02" where="s" result="pass"  state="PASSED:BILL"><text>Senate agreed to House amendment to Senate amendment by Voice Vote.</text><reference label="consideration" ref="CR S10267-10271"/></vote>
+		<action datetime="1994-08-02"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-08-02" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-08-04" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-08-16" ><text>Signed by President.</text></signed>
+		<enacted number="103-297" type="public" datetime="1994-08-16"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-297.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hr" number="488" />
+		<bill relation="unknown" session="103" type="hr" number="488" />
+		<bill relation="supersedes" session="103" type="s" number="568" />
+		<bill relation="unknown" session="103" type="s" number="568" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Actions and defenses"/>
+		<term name="Administrative procedure"/>
+		<term name="Attorneys general"/>
+		<term name="Bank records"/>
+		<term name="Brokers"/>
+		<term name="Citizen lawsuits"/>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Commerce"/>
+		<term name="Commodity Futures Trading Commission"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Consumer protection"/>
+		<term name="Contempt of court"/>
+		<term name="Credit cards"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Damages"/>
+		<term name="Deceptive advertising"/>
+		<term name="District courts"/>
+		<term name="Evidence (Law)"/>
+		<term name="Federal Trade Commission"/>
+		<term name="Finance and financial sector"/>
+		<term name="Forfeiture"/>
+		<term name="Fraud"/>
+		<term name="Futures trading"/>
+		<term name="Government paperwork"/>
+		<term name="Health"/>
+		<term name="Independent regulatory commissions"/>
+		<term name="Information services"/>
+		<term name="Injunctions"/>
+		<term name="Investment advisers"/>
+		<term name="Jurisdiction"/>
+		<term name="Law"/>
+		<term name="Legal fees"/>
+		<term name="Life care communities"/>
+		<term name="Postal crimes"/>
+		<term name="Restrictive trade practices"/>
+		<term name="Right of privacy"/>
+		<term name="Sales promotion"/>
+		<term name="Science, technology, communications"/>
+		<term name="Searches and seizures"/>
+		<term name="Securities and Exchange Commission"/>
+		<term name="Securities fraud"/>
+		<term name="Securities regulation"/>
+		<term name="Subpoena"/>
+		<term name="Telemarketing"/>
+		<term name="Telephone"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/25/1994--House agreed to Senate amendment with amendment. Telemarketing and Consumer Fraud and Abuse Prevention Act - Directs the Federal Trade Commission to prescribe rules prohibiting deceptive telemarketing acts or practices and other abusive telemarketing acts or practices. Requires such rules to include: (1) a requirement that telemarketers not make unsolicited calls in a pattern which a reasonable customer would consider coercive or abusive of the customer's right to privacy; (2) restrictions on the times of day and night when unsolicited calls can be made to consumers; and (3) a requirement that any telephone solicitor shall promptly and clearly disclose the purpose of the call. Directs the Securities and Exchange Commission and the Commodity Futures Trading Commission to promulgate similar rules regarding telemarketing by brokers and dealers, unless Federal laws or rules adopted by such Commissions provide protection or such rules are not necessary or appropriate in the public interest. Requires such Commissions to publish reasons for allowing any exception. (Sec. 4) Permits the attorney general of any State, whenever there is reason to believe that the interests of a State's residents are adversely affected because of a telemarketing practice which violates rules promulgated pursuant to this Act, to bring a civil action to enjoin such telemarketing and to obtain damages and other appropriate relief. (Sec. 5) Permits similar actions by any person adversely affected by violations of the rules promulgated pursuant to this Act, if the amount in controversy exceeds the sum or value of $50,000 in actual damages for each person adversely affected. (Sec. 8) Amends the Federal Trade Commission Act to make it unlawful to disseminate by U.S. mails or by any means false advertisements concerning services. (Sec. 9) Permits the Federal Trade Commission, until two years following the promulgation of rules under this Act, to bring a criminal contempt action for violations of orders of the Commission obtained in false advertising cases. (Sec. 10) Provides for the review of the implementation of this Act, five years following the promulgation of rules, and for a report to the Congress.
+
+	</summary>
+</bill>

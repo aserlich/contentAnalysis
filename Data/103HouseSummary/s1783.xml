@@ -1,0 +1,49 @@
+<bill session="103" type="s" number="1783" updated="2010-04-19T19:08:18-04:00">
+	<state datetime="1993-11-24">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-11-24" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-11-24"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Mount Rushmore commemorative Coin Act to allow proceeds from the sale of coins to be used to renovate the Mount Rushmore National Memorial.</title>
+	</titles>
+	<sponsor id="300031"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-24" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S17231"/></vote>
+		<action datetime="1994-02-01T12:01:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-02-01"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1994-02-01"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-02-11"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Consumer Credit and Insurance.</text></action>
+		<action datetime="1994-09-29"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>See H.R.3841.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="Consumer Credit and Insurance" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3841" />
+	</relatedbills>
+	<subjects>
+		<term name="Money"/>
+		<term name="Budget deficits"/>
+		<term name="Budgets"/>
+		<term name="Coins and coinage"/>
+		<term name="Commemorations"/>
+		<term name="Gold"/>
+		<term name="Maintenance and repair"/>
+		<term name="National monuments"/>
+		<term name="Public debt"/>
+		<term name="Silver"/>
+		<term name="South Dakota"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/24/1993--Introduced.
+Amends the Mount Rushmore Commemorative Coin Act to require the first $18.75 million in surcharges received from coin sales during FY 1994 to be paid to the Secretary of the Mount Rushmore National Memorial Society of Black Hills to assist efforts to improve the Memorial and the remainder to be returned to the Treasury for purposes of reducing the national debt. Requires any surcharges received from such coin sales and paid into the Treasury for deficit reduction before enactment of this Act to be paid out of the Treasury to the extent necessary to comply with this Act regarding efforts to improve the Memorial. Requires such amounts to be paid out of unappropriated funds.
+
+	</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="103" type="sr" number="65" updated="2010-04-19T22:09:35-04:00">
+	<state datetime="1993-01-28">REPORTED</state>
+	<status><calendar datetime="1993-01-28" /></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">An original resolution to authorize expenditures of the Committee on the Judiciary.</title>
+	</titles>
+	<sponsor id="300008"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar datetime="1993-01-28"  state="REPORTED"><text>Committee on Judiciary ordered to be reported an original measure.</text></calendar>
+		<action datetime="1993-02-04"><text>Committee on Judiciary. Original measure reported to Senate by Senator Biden. Without written report.</text></action>
+		<action datetime="1993-02-04"><text>Referred to the Committee on Rules.</text></action>
+		<calendar datetime="1993-02-18" ><text>Committee on Rules. Provisions of measure incorporated into measure S.RES. 71 ordered to be reported.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Origin, Reporting, Markup" />
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="sr" number="71" />
+	</relatedbills>
+	<subjects>
+		<term name="Senate"/>
+		<term name="Congressional committees (Senate)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Authorizes expenditures by the Senate Committee on the Judiciary for the 103d Congress.
+
+	</summary>
+</bill>

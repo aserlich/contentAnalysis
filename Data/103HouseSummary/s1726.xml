@@ -1,0 +1,57 @@
+<bill session="103" type="s" number="1726" updated="2012-07-17T04:42:01-04:00">
+	<state datetime="1994-09-21">REPORTED</state>
+	<status><calendar datetime="1994-09-21" /></status>
+
+	<introduced datetime="1993-11-19"/>
+	<titles>
+		<title type="short" as="introduced">East Saint Louis Jefferson National Expansion Memorial Architectural Design Competition Act</title>
+		<title type="short" as="reported to senate">East Saint Louis Jefferson National Expansion Memorial Architectural Design Competition Act of 1994</title>
+		<title type="official" as="introduced">A bill to provide for a competition to select the architectuarl plans for a museum to be built on the East Saint Louis portion of the Jefferson National Expansion Memorial, and for other purposes.</title>
+	</titles>
+	<sponsor id="409917"/>
+	<cosponsors>
+		<cosponsor id="300010" joined="1994-08-15"/>
+		<cosponsor id="407992" joined="1994-08-15"/>
+		<cosponsor id="403171" joined="1994-08-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-19" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S16480)</text></action>
+		<action datetime="1993-11-19" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-07-21"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-08-02"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held.</text></action>
+		<calendar datetime="1994-09-21"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-09-27"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="644" datetime="1994-09-27" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 644.</text></calendar>
+		<action datetime="1994-10-07"><text>Sponsor introductory remarks on measure. (CR S14952-14953)</text></action>
+		<action datetime="1994-11-30"><text>By Senator Johnston from Committee on Energy and Natural Resources filed written report. Report No. 103-417.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3553" />
+		<bill relation="unknown" session="103" type="h" number="3553" />
+	</relatedbills>
+	<subjects>
+		<term name="Monuments and memorials"/>
+		<term name="Architecture"/>
+		<term name="Arts, culture, religion"/>
+		<term name="Commemorations"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Government operations and politics"/>
+		<term name="Illinois"/>
+		<term name="Minorities"/>
+		<term name="Museums"/>
+		<term name="National monuments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/27/1994--Reported to Senate amended. East Saint Louis Jefferson National Expansion Memorial Architectural Design Competition Act of 1994 - Authorizes the Secretary of the Interior, acting through the Director of the National Park Service, to enter into a cooperative agreement with the National Endowment for the Arts to conduct an architectural competition to solicit design proposals for a museum to be constructed on the East Saint Louis portion of the Jefferson National Expansion Memorial, commemorating the role of ethnic diversity in the development of the United States. Authorizes the Secretary to identify possible funding sources for the development, construction, and maintenance of the museum. Authorizes appropriations.
+
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="949" updated="2012-07-17T04:25:44-04:00">
+	<state datetime="1993-05-13">REFERRED</state>
+	<status><introduced datetime="1993-05-13"/></status>
+
+	<introduced datetime="1993-05-13"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide an excise tax exemption for transportation on certain ferries.</title>
+	</titles>
+	<sponsor id="407786"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-13" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5925-5926)</text></action>
+		<action datetime="1993-05-13" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1806" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Excise tax"/>
+		<term name="Ferries"/>
+		<term name="Marine transportation"/>
+		<term name="Passenger ships"/>
+		<term name="Tax exclusion"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/13/1993--Introduced.
+Amends the Internal Revenue Code to exempt from the excise tax on transportation of passengers by water a ferry voyage of less than 12 hours between a port in the United States and a port outside the United States.
+
+	</summary>
+</bill>

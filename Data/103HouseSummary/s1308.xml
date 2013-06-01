@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="1308" updated="2012-07-17T04:32:15-04:00">
+	<state datetime="1993-07-29">REFERRED</state>
+	<status><introduced datetime="1993-07-29"/></status>
+
+	<introduced datetime="1993-07-29"/>
+	<titles>
+		<title type="official" as="introduced">A bill to suspend until January 1, 1995, the duty on certain machinery used to recycle mercury.</title>
+	</titles>
+	<sponsor id="403669"/>
+	<cosponsors>
+		<cosponsor id="400566" joined="1993-10-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-29" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S9871)</text></action>
+		<action datetime="1993-07-29" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2510" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Environmental protection"/>
+		<term name="Machinery"/>
+		<term name="Mercury"/>
+		<term name="Recycling of waste products"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/29/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1994, the duty on mercury recycling crushers and distillers.
+
+	</summary>
+</bill>

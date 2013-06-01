@@ -1,0 +1,58 @@
+<bill session="103" type="h" number="857" updated="2010-04-19T01:18:51-04:00">
+	<state datetime="1993-02-04">REFERRED</state>
+	<status><introduced datetime="1993-02-04"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Emerging Telecommunications Technologies Act of 1993</title>
+		<title type="official" as="introduced">To establish procedures to improve the allocation and assignment of the electromagnetic spectrum, and for other purposes.</title>
+	</titles>
+	<sponsor id="400307"/>
+	<cosponsors>
+		<cosponsor id="400113" joined="1993-07-20"/>
+		<cosponsor id="400348" joined="1993-03-31"/>
+		<cosponsor id="403545" joined="1994-08-11"/>
+		<cosponsor id="400017" joined="1994-01-25"/>
+		<cosponsor id="400551" joined="1993-03-09"/>
+		<cosponsor id="412001" joined="1993-03-25"/>
+		<cosponsor id="400169" joined="1993-02-04"/>
+		<cosponsor id="400083" joined="1993-04-20"/>
+		<cosponsor id="400189" joined="1994-01-25"/>
+		<cosponsor id="400601" joined="1993-04-22"/>
+		<cosponsor id="400150" joined="1993-02-04"/>
+		<cosponsor id="401081" joined="1993-03-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Energy and Commerce"/><text>For Further Action See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Communications"/>
+		<term name="Administrative procedure"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cost control"/>
+		<term name="Federal Communications Commission"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Licenses"/>
+		<term name="Radio frequency allocation"/>
+		<term name="Radio stations"/>
+		<term name="Telecommunication industry"/>
+		<term name="Telecommunication policy"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Emerging Telecommunications Technologies Act of 1993 - Requires the Secretary of Commerce and the Chairman of the Federal Communications Commission (FCC) to conduct joint electromagnetic spectrum planning meetings with respect to: (1) future spectrum needs and allocation actions; and (2) actions to promote the efficient use of the spectrum. Requires reports to the President identifying frequency bands that: (1) are allocated on a primary basis for Government use and eligible for licensing pursuant to the Communications Act of 1934; (2) are not required for Government needs; (3) can be made available and are likely to have significant value for non-Government users; and (4) will not result in excessive costs to the Government. Sets forth criteria for identifying, and recommending for reassignment or sharing, such frequency bands. Requires reports to make an initial identification of 30MHz of spectrum for immediate reallocation and distribution by the FCC pursuant to competitive bidding procedures, and preliminary and final identifications of additional reallocable frequency bands. Directs the Secretary to convene an advisory committee to review, advise, and receive public comment. Directs the President to: (1) withdraw or limit the assignment to a Government station of any frequency recommended for reallocation or mixed use; (2) assign or reassign other frequencies to Government stations as necessary; and (3) publish in the Federal Register a notice of such actions. Authorizes the President to substitute alternative frequencies in the interests of national defense, important Government needs, public health or safety, or Federal financial considerations. Provides that any Government licensee, or non-Government entity operating on behalf of a Government licensee, that is displaced from a frequency may be reimbursed not more than its incremental costs that are directly attributable to the loss of the use of the frequency. Authorizes appropriations. Directs the FCC to: (1) form a plan to assign the spectrum identified in the initial report pursuant to competitive bidding procedures during FY 1996 through 1998; and (2) submit a plan for the distribution of the remaining bands. Authorizes the President to reclaim reallocated frequencies for reassignment to Government stations. Amends the Act to require the FCC to use competitive bidding for awarding all initial licenses and new construction permits, subject to specified exclusions. Prohibits licensing by lottery when competitive bidding is required.
+
+	</summary>
+</bill>

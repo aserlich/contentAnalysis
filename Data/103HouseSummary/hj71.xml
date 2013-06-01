@@ -1,0 +1,38 @@
+<bill session="103" type="hj" number="71" updated="2010-04-18T22:02:00-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="popular" as="">Term Limits bill</title>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States limiting the terms of offices of Members of Congress and increasing the term of Representatives to four years.</title>
+	</titles>
+	<sponsor id="400076"/>
+	<cosponsors>
+		<cosponsor id="411725" joined="1993-02-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional terms of office"/>
+		<term name="Constitutional amendments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Constitutional Amendment - Declares the term of office of Members of the House of Representatives to be four years. Prohibits persons from being elected to the office of Representative more than three times and to the office of Senator more than twice.
+
+	</summary>
+</bill>

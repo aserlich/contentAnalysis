@@ -1,0 +1,60 @@
+<bill session="103" type="s" number="2430" updated="2010-04-19T20:49:37-04:00">
+	<state datetime="1994-08-25">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-08-25" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-08-25"/>
+	<titles>
+		<title type="official" as="introduced">A bill to facilitate recovery from the recent flooding in Georgia, Alabama, and Florida resulting from Tropical Storm Alberto by providing greater flexibility for depository institutions and their regulators, and for other purposes.</title>
+	</titles>
+	<sponsor id="408252"/>
+	<cosponsors>
+		<cosponsor id="400558" joined="1994-08-25"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1994-08-25" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S12671"/></vote>
+		<action datetime="1994-09-12T12:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-09-12"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1994-09-12"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Banks and banking"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Alabama"/>
+		<term name="Bank capital"/>
+		<term name="Bank deposits"/>
+		<term name="Branch banking"/>
+		<term name="Checks"/>
+		<term name="Community development banking"/>
+		<term name="Consumer credit"/>
+		<term name="Consumers"/>
+		<term name="Credit unions"/>
+		<term name="Disaster relief"/>
+		<term name="Due process of law"/>
+		<term name="Emergency management"/>
+		<term name="Executive departments"/>
+		<term name="Finance"/>
+		<term name="Financial deregulation"/>
+		<term name="Floods"/>
+		<term name="Florida"/>
+		<term name="Georgia"/>
+		<term name="Government information"/>
+		<term name="Government publications"/>
+		<term name="Law"/>
+		<term name="Storms"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/25/1994--Introduced.
+Directs the Board of Governors of the Federal Reserve System to make exceptions to the Truth in Lending Act and the Expedited Funds Availability Act for a specified time for transactions within an area eligible for disaster relief due to the 1994 flood damage from Tropical Storm Alberto (the Storm) in Georgia, Alabama, and Florida (if it determines that this can alleviate hardships to the public that outweigh possible adverse effects). Cites circumstances under which the appropriate Federal banking agency may permit an insured depository institution in the disaster area, in calculating compliance with the leverage limit prescribed by the Federal Deposit Insurance Act, to subtract from its total assets an amount not exceeding the qualifying amount attributable to insurance proceeds. Expresses the sense of the Congress that specified Federal banking regulatory agencies should encourage depository institutions to meet the financial services needs of their communities and customers located in such disaster areas affected by the Storm.
+
+	</summary>
+</bill>

@@ -1,0 +1,61 @@
+<bill session="103" type="h" number="988" updated="2010-04-19T01:41:20-04:00">
+	<state datetime="1993-02-18">REFERRED</state>
+	<status><introduced datetime="1993-02-18"/></status>
+
+	<introduced datetime="1993-02-18"/>
+	<titles>
+		<title type="official" as="introduced">To waive certain limitations on assistance for losses resulting from Hurricane Andrew, Typhoon Omar, or Hurricane Iniki, and for other purposes.</title>
+	</titles>
+	<sponsor id="400554"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-18"><text>Sponsor introductory remarks on measure. (CR H698-699)</text></action>
+		<action datetime="1993-02-18"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-02-18"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-02-18"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-02-22"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Environment, Credit and Rural Development.</text></action>
+		<action datetime="1993-03-02"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee On Insular and International Affairs.</text></action>
+		<action datetime="1993-03-03"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Housing and Community Development.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Environment, Credit and Rural Development" activity="Referral" />
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="HSBA-04" name="House Banking, Finance, and Urban Affairs" subcommittee="Housing and Community Development" activity="Referral" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Insular and International Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="141" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural price supports"/>
+		<term name="Disaster loans"/>
+		<term name="Disaster relief"/>
+		<term name="Federal aid to housing"/>
+		<term name="Federal budgets"/>
+		<term name="Florida"/>
+		<term name="Government lending"/>
+		<term name="Guam"/>
+		<term name="Hawaii"/>
+		<term name="Housing"/>
+		<term name="Hurricanes"/>
+		<term name="Louisiana"/>
+		<term name="Low-income housing"/>
+		<term name="Off-budget expenditures"/>
+		<term name="Rural housing"/>
+		<term name="Storms"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/18/1993--Introduced.
+Waives specified limitations on assistance for losses incurred during the 1992 and subsequent crop years resulting from Hurricanes Andrew and Iniki or Typhoon Omar. Makes rural housing assistance applicable to low-income families and hazard mitigation applicable to Hawaii as a result of losses from such events.
+
+	</summary>
+</bill>

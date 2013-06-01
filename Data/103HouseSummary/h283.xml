@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="283" updated="2010-04-18T23:43:46-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Equity in Citizenship Act of 1993</title>
+		<title type="official" as="introduced">To amend the Immigration and Nationality Act to provide the children of female United States citizens born abroad before May 24, 1934, and their descendants, with the same rights to citzenship at birth as children born of male citizens abroad.</title>
+	</titles>
+	<sponsor id="407772"/>
+	<cosponsors>
+		<cosponsor id="400025" joined="1993-01-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1993-11-20"><committee name="House Committee on Judiciary"/><text>See H.R.783.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="783" />
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Americans in foreign countries"/>
+		<term name="Citizenship"/>
+		<term name="Naturalization"/>
+		<term name="Residence requirements"/>
+		<term name="Sex discrimination against women"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Equity in Citizenship Act of 1993 - Amends the Immigration and Nationality Act to grant U.S. citizenship at birth to a person born before noon May 24, 1934, outside the limits and jurisdiction of the United States to an alien father and U.S. citizen mother who, prior to the birth of such person, had resided in the United States. Waives the physical U.S. presence requirements for a person claiming U.S. citizenship based upon descent from a person described above. Makes such provisions retroactive.
+
+	</summary>
+</bill>

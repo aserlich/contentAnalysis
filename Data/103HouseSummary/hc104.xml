@@ -1,0 +1,48 @@
+<bill session="103" type="hc" number="104" updated="2010-04-18T21:17:02-04:00">
+	<state datetime="1993-05-20">REFERRED</state>
+	<status><introduced datetime="1993-05-20"/></status>
+
+	<introduced datetime="1993-05-20"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress that the President of the United States should not proceed toward the normalization of diplomatic and economic relations with Socialist Republic of Vietnam until the Vietnamese Government has furnished a complete accounting of missing American servicemen in Southeast Asia and opened its archives to inspection.</title>
+	</titles>
+	<sponsor id="300085"/>
+	<cosponsors>
+		<cosponsor id="401014" joined="1993-09-22"/>
+		<cosponsor id="400176" joined="1994-02-02"/>
+		<cosponsor id="407817" joined="1993-09-13"/>
+		<cosponsor id="400536" joined="1993-05-27"/>
+		<cosponsor id="400569" joined="1993-07-14"/>
+		<cosponsor id="405033" joined="1993-09-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-20"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-05-26"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Asia and the Pacific.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="HSFA-05" name="House Foreign Affairs" subcommittee="Asia and the Pacific" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Embargo"/>
+		<term name="Foreign trade"/>
+		<term name="Missing in action"/>
+		<term name="Prisoners of war"/>
+		<term name="Recognition (International law)"/>
+		<term name="Sanctions (International law)"/>
+		<term name="Vietnam"/>
+		<term name="Vietnamese Conflict"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/1993--Introduced.
+Expresses the sense of the Congress that the President should not proceed toward the normalization of diplomatic and economic relations with the Socialist Republic of Vietnam until the Vietnamese Government has provided the fullest possible accounting of missing American servicemen in Southeast Asia.
+
+	</summary>
+</bill>

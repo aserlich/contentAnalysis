@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="4182" updated="2010-04-19T10:02:47-04:00">
+	<state datetime="1994-04-13">REFERRED</state>
+	<status><introduced datetime="1994-04-13"/></status>
+
+	<introduced datetime="1994-04-13"/>
+	<titles>
+		<title type="official" as="introduced">To require the transfer of air emission credits attributable to the closure of a military installation to the redevelopment authority established for that installation.</title>
+	</titles>
+	<sponsor id="400505"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-13"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-04-13"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-04-18"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Installations and Facilities.</text></action>
+		<action datetime="1994-04-18"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1994-04-26"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Installations and Facilities" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Air pollution"/>
+		<term name="Air pollution control"/>
+		<term name="Defense economics"/>
+		<term name="Emissions trading"/>
+		<term name="Environmental protection"/>
+		<term name="Military base closures"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/13/1994--Introduced.
+Amends the Defense Base Closure and Realignment Act of 1990 and the Defense Authorization Amendments and Base Closure and Realignment Act to require the Secretary of Defense to transfer air emission credits attributable to the closure of a military installation to the redevelopment authority established for such installation. Requires the approval of any such transfer by the redevelopment authority concerned.
+
+	</summary>
+</bill>

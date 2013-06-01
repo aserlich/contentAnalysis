@@ -1,0 +1,35 @@
+<bill session="103" type="sr" number="44" updated="2010-04-19T22:06:20-04:00">
+	<state datetime="1993-02-18">REPORTED</state>
+	<status><calendar datetime="1993-02-18" /></status>
+
+	<introduced datetime="1993-01-28"/>
+	<titles>
+		<title type="official" as="introduced">A resolution authorizing expenditures by the Special Committee on Aging.</title>
+	</titles>
+	<sponsor id="408939"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-28"><text>Referred to the Committee on Rules.</text></action>
+		<calendar datetime="1993-02-18"  state="REPORTED"><committee name="Committee on Rules"/><text>Committee on Rules. Provisions of measure incorporated into measure S.RES. 71 ordered to be reported.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="sr" number="71" />
+	</relatedbills>
+	<subjects>
+		<term name="Senate"/>
+		<term name="Congressional committees (Senate)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/1993--Introduced.
+Authorizes expenditures by the Senate Special Committee on Aging for the 103d Congress.
+
+	</summary>
+</bill>

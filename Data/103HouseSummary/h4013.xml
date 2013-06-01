@@ -1,0 +1,109 @@
+<bill session="103" type="h" number="4013" updated="2010-04-19T09:36:26-04:00">
+	<state datetime="1994-06-08">PASS_BACK:SENATE</state>
+	<status><vote2 datetime="1994-06-08" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-03-11"/>
+	<titles>
+		<title type="short" as="introduced">Veterans Health Programs Improvement Act of 1994</title>
+		<title type="short" as="introduced">Veterans Health-Care Pilot Program Act of 1994</title>
+		<title type="short" as="reported to house">Veterans Health Programs Improvement Act of 1994</title>
+		<title type="short" as="reported to house">Veterans Health-Care Pilot Program Act of 1994</title>
+		<title type="short" as="passed senate">VA State Health Care Reform Pilot Program Act</title>
+		<title type="official" as="introduced">To amend title 38, United States Code, to provide the Secretary of Veterans Affairs with necessary flexibility in staffing the Veterans Health Administration, to authorize the Secretary to establish pilot programs for health care delivery, and for other purposes.</title>
+	</titles>
+	<sponsor id="409442"/>
+	<cosponsors>
+		<cosponsor id="411677" joined="1994-03-16"/>
+		<cosponsor id="400380" joined="1994-03-11"/>
+		<cosponsor id="400389" joined="1994-04-12"/>
+		<cosponsor id="400127" joined="1994-04-12"/>
+		<cosponsor id="400388" joined="1994-04-12"/>
+		<cosponsor id="409570" joined="1994-04-14"/>
+		<cosponsor id="408556" joined="1994-04-12"/>
+		<cosponsor id="400028" joined="1994-04-12"/>
+		<cosponsor id="409205" joined="1994-04-12"/>
+		<cosponsor id="407838" joined="1994-03-11"/>
+		<cosponsor id="300151" joined="1994-04-12"/>
+		<cosponsor id="400030" joined="1994-03-15"/>
+		<cosponsor id="406482" joined="1994-03-15"/>
+		<cosponsor id="400329" joined="1994-04-12"/>
+		<cosponsor id="405313" joined="1994-04-12"/>
+		<cosponsor id="400048" joined="1994-04-12"/>
+		<cosponsor id="400504" joined="1994-03-11"/>
+		<cosponsor id="408476" joined="1994-04-12"/>
+		<cosponsor id="400357" joined="1994-04-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-11"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1994-03-16"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Hospitals and Health Care.</text></action>
+		<action datetime="1994-03-16"><committee name="House Committee on Veterans' Affairs" subcommittee="Hospitals and Health Care"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-03-16"><committee name="House Committee on Veterans' Affairs" subcommittee="Hospitals and Health Care"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-03-23"><committee name="House Committee on Veterans' Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-03-23"  state="REPORTED"><committee name="House Committee on Veterans' Affairs"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-04-14T11:59:00-04:00"><text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 103-477.</text></action>
+		<calendar number="268" datetime="1994-04-14T12:00:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 268.</text></calendar>
+		<action datetime="1994-04-26T12:13:00-04:00"><text>Mr. Montgomery moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-04-26T12:13:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2708-2714"/></action>
+		<action datetime="1994-04-26T12:13:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-04-26T12:48:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Penny objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed until April 28. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1994-04-28"><text>Sponsor introductory remarks on measure. (CR H2842)</text></action>
+		<action datetime="1994-04-28T17:09:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2889"/></action>
+		<vote how="roll" type="vote" roll="148" datetime="1994-04-28T17:29:00-04:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 282 - 118 (Roll No. 148).</text></vote>
+		<action datetime="1994-04-28T17:29:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-04-28T17:29:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1994-05-02"><text>Received in the Senate.</text></action>
+		<calendar under="General Orders" number="420" datetime="1994-05-03" calendar="Senate Legislative" ><text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 420.</text></calendar>
+		<action datetime="1994-06-08"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S6626"/></action>
+		<action datetime="1994-06-08"><text>Senate struck all after the Enacting Clause and substituted the language of S. 1974 amended.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-06-08" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate in lieu of S. 1974 with an amendment by Voice Vote.</text></vote>
+		<action datetime="1994-06-09"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="HSVR-03" name="House Veterans' Affairs" subcommittee="Hospitals and Health Care" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="supersedes" session="103" type="s" number="1974" />
+		<bill relation="unknown" session="103" type="s" number="1974" />
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Budgets"/>
+		<term name="Comprehensive health care"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Department of Veterans Affairs"/>
+		<term name="Disabled"/>
+		<term name="Executive departments"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal employees"/>
+		<term name="Finance"/>
+		<term name="Government employees"/>
+		<term name="Government procurement"/>
+		<term name="Government trust funds"/>
+		<term name="Health care reform"/>
+		<term name="Health insurance"/>
+		<term name="Health policy"/>
+		<term name="Insurance premiums"/>
+		<term name="Labor"/>
+		<term name="Layoffs"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Productivity in government"/>
+		<term name="Public contracts"/>
+		<term name="Recruiting of employees"/>
+		<term name="Revolving funds"/>
+		<term name="State and local government"/>
+		<term name="State laws"/>
+		<term name="Veterans' hospitals"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/8/1994--Passed Senate amended. VA State Health Care Reform Pilot Program Act - Authorizes the Secretary of Veterans Affairs to carry out pilot programs on the participation of the Department of Veterans Affairs health care system in the health care systems of States that have adopted comprehensive health benefit plans. Allows up to five States to be used for such pilot programs. Requires the Secretary to provide benefits to persons through the Department health care system in such a State as if such system were a provider of benefits under the State plan. Prohibits a State from refusing Department participation in a State health benefit plan unless the chief executive officer of such State certifies that the Department plan or its facilities are inadequate to meet the State health benefit plan. Requires the Secretary to designate a health system director for each State in which a pilot program is carried out. Authorizes the Secretary to carry out any necessary administrative reorganization of Department health care systems or facilities in a program State. Allows the Secretary to exclude Department facilities from participation in a pilot program. Authorizes a health system director to enter into contracts and agreements for the provision of health care services and related services in connection with the pilot program. Excludes such contracts and agreements from certain Federal law. Requires review by the Central Office of the Department of contracts and agreements of $250,000 or more. Outlines provisions concerning: (1) the use of Department personnel in a pilot program; (2) eligible persons; and (3) copayments and other charges (and their waiver with respect to certain veterans). Establishes in the Treasury the Department of Veterans Affairs Health Care Reform Fund to be used for pilot program purposes, with a separate account established for each program. Requires the Secretary to collect, and report to specified congressional committees concerning, information with respect to the provision of health care benefits under each pilot program. Requires annual reports by the Secretary to such committees concerning expenditures made from the Reform Fund for each pilot program during the previous fiscal year.
+
+	</summary>
+</bill>

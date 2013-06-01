@@ -1,0 +1,84 @@
+<bill session="103" type="s" number="1231" updated="2012-07-17T05:46:28-04:00">
+	<state datetime="1994-03-22">REPORTED</state>
+	<status><calendar datetime="1994-03-22" /></status>
+
+	<introduced datetime="1993-07-14"/>
+	<titles>
+		<title type="short" as="introduced">Social Security Domestic Employment Reform Act of 1993</title>
+		<title type="short" as="reported to senate">Social Security Domestic Employment Reform Act of 1994</title>
+		<title type="official" as="introduced">A bill to provide for simplified collection of employment taxes on domestic services, and for other purposes.</title>
+	</titles>
+	<sponsor id="400563"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="1994-03-22"/>
+		<cosponsor id="402412" joined="1993-07-14"/>
+		<cosponsor id="300012" joined="1993-07-20"/>
+		<cosponsor id="411271" joined="1993-07-14"/>
+		<cosponsor id="407254" joined="1993-09-23"/>
+		<cosponsor id="407786" joined="1994-03-15"/>
+		<cosponsor id="408420" joined="1993-07-23"/>
+		<cosponsor id="300048" joined="1993-07-14"/>
+		<cosponsor id="300076" joined="1993-07-20"/>
+		<cosponsor id="401604" joined="1993-07-14"/>
+		<cosponsor id="409225" joined="1994-03-22"/>
+		<cosponsor id="300026" joined="1994-03-22"/>
+		<cosponsor id="403515" joined="1993-07-14"/>
+		<cosponsor id="300017" joined="1994-03-25"/>
+		<cosponsor id="300084" joined="1993-07-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-14" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8721)</text></action>
+		<action datetime="1993-07-14" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+		<action datetime="1993-07-21"><committee name="Committee on Finance"/><text>Committee on Finance. Hearings held. Hearings printed: S.Hrg. 103-445.</text></action>
+		<calendar datetime="1994-03-22"  state="REPORTED"><committee name="Committee on Finance"/><text>Committee on Finance. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1994-04-19"><text>Committee on Finance. Reported to Senate by Senator Moynihan with amendments. With written report No. 103-252.</text></action>
+		<calendar under="General Orders" number="415" datetime="1994-04-19" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 415.</text></calendar>
+		<action datetime="1994-05-25"><text>Senate incorporated this measure in H.R. 4278 as an amendment.</text></action>
+		<action datetime="1994-05-25"><text>Senate passed companion measure H.R. 4278 in lieu of this measure by Voice Vote.</text></action>
+		<action datetime="1994-05-25"><text>Indefinitely postponed by Senate by Unanimous Consent.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4278" />
+		<bill relation="superseded" session="103" type="h" number="4278" />
+		<bill relation="unknown" session="103" type="h" number="4278" />
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Civil commitment"/>
+		<term name="Collection of accounts"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Debtor and creditor"/>
+		<term name="Economics and public finance"/>
+		<term name="Extended care facilities"/>
+		<term name="Finance and financial sector"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Government trust funds"/>
+		<term name="Health"/>
+		<term name="Household workers"/>
+		<term name="Income tax"/>
+		<term name="Insanity defense"/>
+		<term name="Intergovernmental tax relations"/>
+		<term name="Labor and employment"/>
+		<term name="Mental illness"/>
+		<term name="Nursing homes"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Social security taxes"/>
+		<term name="State taxation"/>
+		<term name="Tax administration"/>
+		<term name="Tax returns"/>
+		<term name="Taxation"/>
+		<term name="Unemployment insurance"/>
+		<term name="Withholding tax"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/19/1994--Reported to Senate amended. Social Security Domestic Employment Reform Act of 1994 - Amends the Internal Revenue Code and title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to change the threshold (currently, $50 a quarter) at which cash remuneration for domestic services becomes subject to social security employment taxes to an applicable dollar amount required for a quarter of coverage under title II. Excludes the employment of domestic employees under age 18 from such coverage. Sets forth rules for filing returns with respect to domestic service employment taxes and requires such returns to be made on a calendar year basis. Exempts such taxes from estimated tax provisions. Makes filing requirements inapplicable to any employer liable for tax concerning remuneration for services other than domestic service in a private home. Authorizes the Secretary of the Treasury to enter into agreements with States to collect the State unemployment tax imposed on remuneration for domestic service and transfer such amounts to a State's account in the Unemployment Trust Fund. Authorizes the Social Security Administration to use certain debt collection practices available to other Federal agencies. Prohibits the payment of OASDI benefits to certain individuals confined to public institutions by court order as a result of felony verdicts of guilty but insane (or mentally incompetent) or not guilty by reason of insanity (or mental incompetence). Requires nursing home administrators to timely report the admission of any social security recipient to the Social Security Administration.
+
+	</summary>
+</bill>

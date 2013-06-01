@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="23" updated="2010-04-18T23:03:33-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Cooperative Productivity and Competitiveness Act of 1993</title>
+		<title type="official" as="introduced">To encourage innovation and productivity, stimulate trade, and promote the competitiveness and technological leadership of the United States.</title>
+	</titles>
+	<sponsor id="404097"/>
+	<cosponsors>
+		<cosponsor id="407899" joined="1993-02-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1993-06-10"><committee name="House Committee on Judiciary"/><text>For Further Action See H.R.1313.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1313" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Antitrust law"/>
+		<term name="Foreign trade promotion"/>
+		<term name="Government and business"/>
+		<term name="International competitiveness"/>
+		<term name="Joint ventures"/>
+		<term name="Manufacturing industries"/>
+		<term name="Product development"/>
+		<term name="Research and development"/>
+		<term name="Technological innovations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Cooperative Productivity and Competitiveness Act of 1993 - Amends the National Cooperative Research Act of 1984 to authorize joint production ventures for purposes of improving technology in the production of U.S. goods or services and the competitiveness of U.S. industries. Requires the worldwide capacity of suppliers to provide a product, process, or service to be considered in determining a properly defined relevant market with respect to the rule of reason standard used in determining whether a joint research and development venture violates U.S. antitrust laws.
+
+	</summary>
+</bill>

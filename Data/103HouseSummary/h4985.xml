@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="4985" updated="2010-04-19T12:08:44-04:00">
+	<state datetime="1994-08-18">REFERRED</state>
+	<status><introduced datetime="1994-08-18"/></status>
+
+	<introduced datetime="1994-08-18"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit aircraft from flying over The Ballpark in Arlington, Texas, and for other purposes.</title>
+	</titles>
+	<sponsor id="400018"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-18"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-09-01"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Aviation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-05" name="House Public Works and Transportation" subcommittee="Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Commercial aviation"/>
+		<term name="Air routes"/>
+		<term name="Air traffic"/>
+		<term name="Baseball"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Sports"/>
+		<term name="Stadiums"/>
+		<term name="Texas"/>
+		<term name="Transportation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/18/1994--Introduced.
+Prohibits aircraft from flying at less than a specified altitude and distance over The Ballpark in Arlington, Texas. Imposes a civil penalty for violations of this Act.
+
+	</summary>
+</bill>

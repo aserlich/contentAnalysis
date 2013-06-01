@@ -1,0 +1,36 @@
+<bill session="103" type="s" number="1861" updated="2012-07-17T06:00:58-04:00">
+	<state datetime="1994-02-23">REFERRED</state>
+	<status><introduced datetime="1994-02-23"/></status>
+
+	<introduced datetime="1994-02-23"/>
+	<titles>
+		<title type="official" as="introduced">A bill to suspend temporarily the duty on certain pigments.</title>
+	</titles>
+	<sponsor id="402412"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-23" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1741-1742)</text></action>
+		<action datetime="1994-02-23" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3910" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Dyes and dyeing"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1994--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1998, the duties on various specified red and yellow pigments.
+
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="118" updated="2012-07-17T04:07:21-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to require the Commodity Credit Corporation to refund to first processors of sugarcane and sugar beets marketing assessments collected by the Corporation during fiscal year 1991, and for other purposes.</title>
+	</titles>
+	<sponsor id="300056"/>
+	<cosponsors>
+		<cosponsor id="300001" joined="1993-01-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S561)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-03-15"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Agricultural Production.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Agricultural Production and Stabilization of Prices" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Agricultural economics"/>
+		<term name="Marketing of farm produce"/>
+		<term name="Sugar and sugar trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Requires the Commodity Credit Corporation to refund to first processors of sugarcane and sugar beets marketing assessments collected during FY 1991.
+
+	</summary>
+</bill>

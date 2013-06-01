@@ -1,0 +1,62 @@
+<bill session="103" type="h" number="3994" updated="2010-04-19T09:33:28-04:00">
+	<state datetime="1994-03-10">REFERRED</state>
+	<status><introduced datetime="1994-03-10"/></status>
+
+	<introduced datetime="1994-03-10"/>
+	<titles>
+		<title type="official" as="introduced">To provide limitations on the use of certain funds for the establishment of diplomatic relations between the United States and the territory of the former Yugoslav republic of Macedonia.</title>
+	</titles>
+	<sponsor id="400028"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1994-07-25"/>
+		<cosponsor id="406768" joined="1994-03-21"/>
+		<cosponsor id="404587" joined="1994-05-17"/>
+		<cosponsor id="400268" joined="1994-06-29"/>
+		<cosponsor id="405758" joined="1994-07-13"/>
+		<cosponsor id="400359" joined="1994-04-12"/>
+		<cosponsor id="400008" joined="1994-04-18"/>
+		<cosponsor id="400140" joined="1994-03-10"/>
+		<cosponsor id="412001" joined="1994-09-27"/>
+		<cosponsor id="400251" joined="1994-03-10"/>
+		<cosponsor id="300091" joined="1994-03-10"/>
+		<cosponsor id="411997" joined="1994-08-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-10"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-03-21"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Europe and the Middle East.</text></action>
+		<action datetime="1994-03-21"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Operations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Europe and the Middle East" activity="Referral" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Operations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Commemorations"/>
+		<term name="Department of State"/>
+		<term name="Embassies"/>
+		<term name="Europe"/>
+		<term name="Executive departments"/>
+		<term name="Federal employees"/>
+		<term name="Foreign policy"/>
+		<term name="Foreign service"/>
+		<term name="Government employees"/>
+		<term name="Macedonia"/>
+		<term name="Names"/>
+		<term name="Recognition (International law)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/10/1994--Introduced.
+Prohibits the use of funds authorized to be appropriated to the Department of State to pay any expense associated with the establishment of diplomatic relations (including the establishment, upgrading, or expansion of any consulate, embassy, mission, or other post of such Department and any increase in the number or level of positions at any such post) between the United States and the territory of the former Yugoslav republic of Macedonia under any official designation of such territory which includes the term &quot;Macedonia.&quot;
+
+	</summary>
+</bill>

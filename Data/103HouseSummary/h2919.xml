@@ -1,0 +1,107 @@
+<bill session="103" type="h" number="2919" updated="2010-04-19T06:46:23-04:00">
+	<state datetime="1994-10-03T17:19:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-03T17:19:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="short" as="introduced">Indoor Air Act of 1993</title>
+		<title type="short" as="reported to house">Indoor Air Act of 1994</title>
+		<title type="short" as="passed house">Indoor Air Act of 1994</title>
+		<title type="official" as="introduced">To amend the Public Health Service Act to authorize a national program to reduce the threat to human health posed by exposure to contaminants in the air indoors.</title>
+	</titles>
+	<sponsor id="406277"/>
+	<cosponsors>
+		<cosponsor id="400126" joined="1994-06-16"/>
+		<cosponsor id="400262" joined="1994-05-26"/>
+		<cosponsor id="400502" joined="1994-06-16"/>
+		<cosponsor id="400422" joined="1994-05-26"/>
+		<cosponsor id="404190" joined="1994-05-26"/>
+		<cosponsor id="400357" joined="1993-10-06"/>
+		<cosponsor id="400438" joined="1994-07-14"/>
+		<cosponsor id="400425" joined="1993-10-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-09-22"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1993-11-01"><committee name="House Committee on Energy and Commerce" subcommittee="Health and the Environment"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-08-03"><committee name="House Committee on Energy and Commerce" subcommittee="Health and the Environment"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-08-03"><committee name="House Committee on Energy and Commerce" subcommittee="Health and the Environment"/><text>Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 18 - 17.</text></action>
+		<action datetime="1994-08-09"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-08-09"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-09-13T16:18:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 103-719.</text></action>
+		<calendar number="396" datetime="1994-09-13T16:18:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 396.</text></calendar>
+		<action datetime="1994-10-03T17:04:00-04:00"><text>Mr. Waxman moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-03T17:04:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10593-10605"/></action>
+		<action datetime="1994-10-03T17:04:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-10-03T17:19:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-03T17:19:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-03T17:19:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1994-10-03T17:20:00-04:00"><text>Laid on the table. See S. 656 for further action.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="superseded" session="103" type="s" number="656" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Actions and defenses"/>
+		<term name="Administrative fees"/>
+		<term name="Administrative procedure"/>
+		<term name="Air pollution"/>
+		<term name="Air pollution control"/>
+		<term name="Air pollution measurement"/>
+		<term name="Air quality"/>
+		<term name="Awards, medals, prizes"/>
+		<term name="Budgets"/>
+		<term name="Building construction"/>
+		<term name="Commemorations"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Criminal justice"/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Employee training"/>
+		<term name="Energy"/>
+		<term name="Energy efficiency"/>
+		<term name="Energy policy"/>
+		<term name="Environmental Protection Agency"/>
+		<term name="Environmental health"/>
+		<term name="Executive departments"/>
+		<term name="Federal aid to air pollution control"/>
+		<term name="Federal installations"/>
+		<term name="Federal office buildings"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Government contractors"/>
+		<term name="Government information"/>
+		<term name="Government publications"/>
+		<term name="Health education"/>
+		<term name="Health policy"/>
+		<term name="Housing"/>
+		<term name="Indoor air pollution"/>
+		<term name="Information services"/>
+		<term name="Job training"/>
+		<term name="Labor"/>
+		<term name="Law"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Occupational health and safety"/>
+		<term name="Public buildings"/>
+		<term name="Public contracts"/>
+		<term name="Risk assessment"/>
+		<term name="Science policy"/>
+		<term name="Sick building syndrome"/>
+		<term name="State and local government"/>
+		<term name="Technology"/>
+		<term name="Technology assessment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Passed House amended. Indoor Air Act of 1994 - Directs the Administrator of the Environmental Protection Agency to publish: (1) a list of common significant indoor air health risks; and (2) concurrently with such list, voluntary guidelines for identifying, reducing, and preventing such risks. Requires the Administrator to give priority to conducting and providing financial or other assistance to studies concerning indoor air quality. Directs the Administrator to: (1) report to the Congress on persons operating contractor businesses engaged in the identification, reduction, and prevention of significant indoor air health risks and on the need for a program to certify contractors engaged in such activities; and (2) establish a voluntary certification program for contractors engaged in the identification of such risks. Imposes fees for certification. Authorizes the suspension or revocation of certifications for violations of certification requirements. Directs the Administrator to publish and disseminate the list of common significant indoor air health risks, the guidelines for identifying, reducing, and preventing such risks, and indoor air health advisories addressing the health effects of such risks. Requires the Administrator to develop a voluntary program to provide Federal recognition to buildings that are operated and maintained to prevent or minimize such risks and that provide significant energy efficiency benefits. Authorizes the Administrator to provide grants to States and local governments to implement programs to identify, reduce, and prevent such risks. Requires the Director of the National Institute for Occupational Safety and Health to implement a Building Assessment Program to provide assistance and guidance to employers and employees on measures to reduce such risks. Authorizes the Director, at the request of an employer or employee, to conduct on-site assessments of buildings. Directs the Administrator to ensure that the presentation of information on significant indoor air health risks is unbiased and informative. Authorizes appropriations.
+
+	</summary>
+</bill>

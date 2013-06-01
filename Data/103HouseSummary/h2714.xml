@@ -1,0 +1,40 @@
+<bill session="103" type="h" number="2714" updated="2010-04-19T06:14:33-04:00">
+	<state datetime="1993-07-22">REFERRED</state>
+	<status><introduced datetime="1993-07-22"/></status>
+
+	<introduced datetime="1993-07-22"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to extend to recipients of the Medal of Honor eligibility for medical and dental care furnished by the Department of Veterans Affairs.</title>
+	</titles>
+	<sponsor id="409442"/>
+	<cosponsors>
+		<cosponsor id="400030" joined="1993-08-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-22"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-07-23"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Hospitals and Health Care.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="HSVR-03" name="House Veterans' Affairs" subcommittee="Hospitals and Health Care" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Commemorations"/>
+		<term name="Congressional Medal of Honor"/>
+		<term name="Dental care"/>
+		<term name="Medical care"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/22/1993--Introduced.
+Extends to recipients of the Medal of Honor eligibility for medical and dental care furnished by the Department of Veterans Affairs.
+
+	</summary>
+</bill>

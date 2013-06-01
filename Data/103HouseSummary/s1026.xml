@@ -1,0 +1,53 @@
+<bill session="103" type="s" number="1026" updated="2012-07-17T05:38:56-04:00">
+	<state datetime="1993-05-26">REFERRED</state>
+	<status><introduced datetime="1993-05-26"/></status>
+
+	<introduced datetime="1993-05-26"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide that certain deductions of members of the National Guard or reserve units of the Armed Forces will be allowable in computing adjusted gross income.</title>
+	</titles>
+	<sponsor id="300069"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-05-26"/>
+		<cosponsor id="404219" joined="1993-06-22"/>
+		<cosponsor id="300052" joined="1994-07-27"/>
+		<cosponsor id="300056" joined="1993-05-26"/>
+		<cosponsor id="300012" joined="1994-02-28"/>
+		<cosponsor id="403142" joined="1993-05-26"/>
+		<cosponsor id="402675" joined="1993-05-26"/>
+		<cosponsor id="406084" joined="1993-06-30"/>
+		<cosponsor id="300023" joined="1993-05-26"/>
+		<cosponsor id="300015" joined="1993-05-26"/>
+		<cosponsor id="300157" joined="1993-05-26"/>
+		<cosponsor id="300092" joined="1993-05-26"/>
+		<cosponsor id="300072" joined="1993-05-26"/>
+		<cosponsor id="400563" joined="1994-06-07"/>
+		<cosponsor id="406256" joined="1993-05-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-26" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6585-6586)</text></action>
+		<action datetime="1993-05-26" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1736" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Agriculture and food"/>
+		<term name="Armed forces reserves"/>
+		<term name="National Guard"/>
+		<term name="Tax deductions"/>
+		<term name="Travel costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/26/1993--Introduced.
+Amends the Internal Revenue Code to permit an individual taxpayer an income tax deduction for travel, meals, lodging, transportation, and uniform expenses paid or incurred in connection with the taxpayer's performance of services as a member of the armed forces reserves or the National Guard.
+
+	</summary>
+</bill>

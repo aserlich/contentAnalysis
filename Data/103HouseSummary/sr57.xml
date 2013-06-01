@@ -1,0 +1,38 @@
+<bill session="103" type="sr" number="57" updated="2010-04-19T22:08:22-04:00">
+	<state datetime="1993-01-29">REPORTED</state>
+	<status><calendar datetime="1993-01-29" /></status>
+
+	<introduced datetime="1993-02-02"/>
+	<titles>
+		<title type="official" as="introduced">An original resolution authorizing expenditures by the Committee on the Budget.</title>
+	</titles>
+	<sponsor id="409580"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar datetime="1993-01-29"  state="REPORTED"><text>Committee on Budget ordered to be reported an original measure.</text></calendar>
+		<action datetime="1993-02-02"><text>Committee on Budget. Original measure reported to Senate by Senator Sasser. Without written report.</text></action>
+		<action datetime="1993-02-02"><text>Referred to the Committee on Rules.</text></action>
+		<calendar datetime="1993-02-18" ><text>Committee on Rules. Provisions of measure incorporated into measure S.RES. 71 ordered to be reported.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSBU" name="Senate Budget" activity="Origin, Reporting, Markup" />
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="sr" number="71" />
+	</relatedbills>
+	<subjects>
+		<term name="Senate"/>
+		<term name="Congressional committees (Senate)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1993--Introduced.
+Authorizes expenditures by the Senate Committee on the Budget for the 103d Congress.
+
+	</summary>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="103" type="h" number="226" updated="2010-04-18T23:35:05-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Live Performing Artists Labor Relations Act</title>
+		<title type="official" as="introduced">To amend the National Labor Relations Act to give employers and performers in the live performing arts the same rights given by section 8(f) of such Act to employers and employees in the construction industry, and for other purposes.</title>
+	</titles>
+	<sponsor id="400216"/>
+	<cosponsors>
+		<cosponsor id="411677" joined="1993-03-25"/>
+		<cosponsor id="300038" joined="1993-08-04"/>
+		<cosponsor id="400370" joined="1993-03-25"/>
+		<cosponsor id="400316" joined="1993-08-04"/>
+		<cosponsor id="411947" joined="1993-11-22"/>
+		<cosponsor id="400082" joined="1993-03-25"/>
+		<cosponsor id="300156" joined="1993-08-04"/>
+		<cosponsor id="400614" joined="1993-11-22"/>
+		<cosponsor id="400211" joined="1993-08-04"/>
+		<cosponsor id="400357" joined="1993-03-25"/>
+		<cosponsor id="400286" joined="1993-08-04"/>
+		<cosponsor id="400100" joined="1993-08-04"/>
+		<cosponsor id="410565" joined="1993-11-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+		<action datetime="1993-07-15"><committee name="House Committee on Education and Labor"/><text>Executive Comment Requested from Labor.</text></action>
+		<action datetime="1993-07-21"><committee name="House Committee on Education and Labor" subcommittee="Labor-Management Relations"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-11-12"><committee name="House Committee on Education and Labor" subcommittee="Labor-Management Relations"/><text>Field Hearings Held in Nashville, Tennessee.</text></action>
+		<action datetime="1994-10-12"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="481" />
+	</relatedbills>
+	<subjects>
+		<term name="Labor"/>
+		<term name="Collective bargaining agreements"/>
+		<term name="Collective bargaining unit"/>
+		<term name="Entertainers"/>
+		<term name="Music"/>
+		<term name="Performing arts"/>
+		<term name="Unfair labor practices"/>
+		<term name="Union security"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Live Performing Artists Labor Relations Act - Amends the National Labor Relations Act to permit employers to: (1) agree with a labor organization to make membership in it a condition of performing arts employment; and (2) make agreements with a labor organization covering performing artists even if its majority status has not yet been established (pre-hire agreements). Defines &quot;employer&quot; to include purchasers of live musical performance services. Defines &quot;employee&quot; to include independent contractors engaged to perform live musical services. Provides that nothing in the amendments made by this Act shall be construed as affecting the treatment of individuals (as employees or independent contractors) covered by such labor law amendments for purposes of the Internal Revenue Code or any other laws.
+
+	</summary>
+</bill>

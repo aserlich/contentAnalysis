@@ -1,0 +1,37 @@
+<bill session="103" type="hj" number="26" updated="2010-04-18T21:55:00-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States with respect to the right to life.</title>
+	</titles>
+	<sponsor id="403864"/>
+	<cosponsors>
+		<cosponsor id="400397" joined="1993-02-03"/>
+		<cosponsor id="400299" joined="1993-02-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="128" />
+	</relatedbills>
+	<subjects>
+		<term name="Abortion"/>
+		<term name="Constitutional amendments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Constitutional Amendment - Defines &quot;person&quot; to include the unborn for the purpose of the right to life guarantee. Exempts from applicability of this amendment laws permitting medical procedures required to prevent the death of the mother.
+
+	</summary>
+</bill>

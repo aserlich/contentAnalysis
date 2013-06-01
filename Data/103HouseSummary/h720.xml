@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="720" updated="2010-04-19T00:55:34-04:00">
+	<state datetime="1993-03-17">REPORTED</state>
+	<status><calendar datetime="1993-03-17" /></status>
+
+	<introduced datetime="1993-02-02"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the adjustment of the boundaries of the South Dakota portion of the Sioux Ranger District of Custer National Forest, and for other purposes.</title>
+	</titles>
+	<sponsor id="300058"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-02"><text>Sponsor introductory remarks on measure. (CR E233)</text></action>
+		<action datetime="1993-02-02"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-02-18"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-02-23"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-03-09"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-03-09"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-03-17"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-03-17"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-03-23T12:25:00-05:00"><text>Reported by the Committee on Natural Resources. H. Rept. 103-40, Part I.</text></action>
+		<action datetime="1993-03-23"><text>Referred sequentially to the House Committee on Agriculture for a period ending not later than March 24, 1993 for consideration of such provisions of the bill as fall within the jurisdiction of that committee pursuant to clause 1(a), rule X.</text></action>
+		<action datetime="1993-03-23"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+		<action datetime="1993-03-24T17:35:00-05:00"><text>Committee on Agriculture discharged.</text></action>
+		<calendar number="17" datetime="1993-03-24T17:35:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 17.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="HSAG" name="House Agriculture" activity="Referral, Discharged" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="164" />
+		<bill relation="unknown" session="103" type="s" number="164" />
+		<bill relation="unknown" session="103" type="s" number="164" />
+	</relatedbills>
+	<subjects>
+		<term name="Forests and forestry"/>
+		<term name="Land transfers"/>
+		<term name="National forests"/>
+		<term name="South Dakota"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1993--Introduced.
+Authorizes the Secretary of Agriculture to accept title to any non-Federal lands within five miles of the exterior boundaries of the South Dakota portion of the Sioux Ranger District of Custer National Forest, which are found to be chiefly valuable for national forest purposes in exchange for national forest lands in Custer National Forest. Incorporates such lands into the forest.
+
+	</summary>
+</bill>

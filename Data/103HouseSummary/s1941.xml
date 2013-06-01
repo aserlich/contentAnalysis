@@ -1,0 +1,48 @@
+<bill session="103" type="s" number="1941" updated="2012-07-17T06:02:53-04:00">
+	<state datetime="1994-03-16">REFERRED</state>
+	<status><introduced datetime="1994-03-16"/></status>
+
+	<introduced datetime="1994-03-16"/>
+	<titles>
+		<title type="official" as="introduced">A bill to terminate the Milstar II Communications Satellite Program.</title>
+	</titles>
+	<sponsor id="402004"/>
+	<cosponsors>
+		<cosponsor id="300061" joined="1994-06-16"/>
+		<cosponsor id="400566" joined="1994-06-23"/>
+		<cosponsor id="407254" joined="1994-05-17"/>
+		<cosponsor id="300026" joined="1994-03-16"/>
+		<cosponsor id="300064" joined="1994-03-16"/>
+		<cosponsor id="409917" joined="1994-03-16"/>
+		<cosponsor id="300065" joined="1994-03-16"/>
+		<cosponsor id="300042" joined="1994-03-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-16" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3080-3081)</text></action>
+		<action datetime="1994-03-16" state="REFERRED"><text>Read twice and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4283" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Communication satellites"/>
+		<term name="Defense budgets"/>
+		<term name="Economics and public finance"/>
+		<term name="Government operations and politics"/>
+		<term name="Government spending reductions"/>
+		<term name="Military communications"/>
+		<term name="Nuclear warfare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/16/1994--Introduced.
+Directs the Secretary of Defense to terminate the Milstar II Communications Satellite program. Allows funds available for obligation for such program to be used only for the payment of termination costs.
+
+	</summary>
+</bill>

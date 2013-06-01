@@ -1,0 +1,37 @@
+<bill session="103" type="h" number="1512" updated="2010-04-19T03:07:18-04:00">
+	<state datetime="1993-03-29">REFERRED</state>
+	<status><introduced datetime="1993-03-29"/></status>
+
+	<introduced datetime="1993-03-29"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 23, United States Code, to repeal provisions establishing a national maximum speed limit.</title>
+	</titles>
+	<sponsor id="409578"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-29"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-04-12"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Roads and highways"/>
+		<term name="Federal aid highway program"/>
+		<term name="Speed limits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/29/1993--Introduced.
+Repeals provisions establishing a national maximum speed limit.
+
+	</summary>
+</bill>

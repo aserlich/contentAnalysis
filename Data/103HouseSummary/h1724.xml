@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="1724" updated="2010-04-19T03:40:35-04:00">
+	<state datetime="1993-04-20">REFERRED</state>
+	<status><introduced datetime="1993-04-20"/></status>
+
+	<introduced datetime="1993-04-20"/>
+	<titles>
+		<title type="short" as="introduced">Capitan Reef Management Consolidation Act</title>
+		<title type="official" as="introduced">To modify the boundaries of Carlsbad Caverns National Park, and for other purposes.</title>
+	</titles>
+	<sponsor id="400882"/>
+	<cosponsors>
+		<cosponsor id="400143" joined="1993-06-08"/>
+		<cosponsor id="411725" joined="1993-06-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-20"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-06-02"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-06-08"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1879" />
+		<bill relation="unknown" session="103" type="h" number="1879" />
+	</relatedbills>
+	<subjects>
+		<term name="Parks"/>
+		<term name="Easements"/>
+		<term name="Energy policy"/>
+		<term name="Geothermal resources"/>
+		<term name="Land transfers"/>
+		<term name="Mining leases"/>
+		<term name="National parks"/>
+		<term name="New Mexico"/>
+		<term name="Trails"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/20/1993--Introduced.
+Amends Federal law to provide health insurance benefits for temporary Federal employees completing the equivalent of at least one year of service in a particular position within the preceding two years.
+
+	</summary>
+</bill>

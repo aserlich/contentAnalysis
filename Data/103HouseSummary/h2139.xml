@@ -1,0 +1,80 @@
+<bill session="103" type="h" number="2139" updated="2012-07-17T05:35:07-04:00">
+	<state datetime="1994-05-31">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-05-31" /></status>
+
+	<introduced datetime="1993-05-18"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 44, United States Code, to authorize appropriations for the National Historical Publications and Records Commission.</title>
+		<title type="official" as="amended by senate">An Act to authorize appropriations for the National Historical Publications and Records Commission for fiscal years 1994, 1995, 1996, and 1997.</title>
+	</titles>
+	<sponsor id="400505"/>
+	<cosponsors>
+		<cosponsor id="404190" joined="1993-07-01"/>
+		<cosponsor id="400378" joined="1993-07-01"/>
+		<cosponsor id="300097" joined="1993-05-18"/>
+		<cosponsor id="409793" joined="1993-05-18"/>
+		<cosponsor id="408556" joined="1993-07-01"/>
+		<cosponsor id="400080" joined="1993-05-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-18" state="REFERRED"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-05-20"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Information, Justice, Transportation and Agriculture.</text></action>
+		<action datetime="1993-06-23"><committee name="House Committee on Government Operations" subcommittee="Information, Justice, Transportation and Agriculture"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-06-23"><committee name="House Committee on Government Operations" subcommittee="Information, Justice, Transportation and Agriculture"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-06-23"><committee name="House Committee on Government Operations" subcommittee="Information, Justice, Transportation and Agriculture"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-07-28"><committee name="House Committee on Government Operations"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-07-28"  state="REPORTED"><committee name="House Committee on Government Operations"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-08-04T19:18:00-04:00"><text>Reported by the Committee on Government Operations. H. Rept. 103-215.</text></action>
+		<calendar number="121" datetime="1993-08-04T19:19:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 121.</text></calendar>
+		<action datetime="1993-09-13T13:13:00-04:00"><text>Mr. Condit moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-09-13T13:14:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6614-6615"/></action>
+		<action datetime="1993-09-13T13:14:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-09-13T13:18:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-09-13T13:18:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-09-14"><text>Received in the Senate.</text></action>
+		<action datetime="1993-09-21"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<action datetime="1994-03-17"><text>Senate Committee on Governmental Affairs discharged by Unanimous Consent.</text></action>
+		<action datetime="1994-03-17"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S3282"/></action>
+		<action datetime="1994-03-17"><text>Amendment SP 1549 proposed by Senator Ford for Senator Lieberman.</text></action>
+		<action datetime="1994-03-17"><text>Amendment SP 1549 agreed to in Senate by Voice Vote.</text></action>
+		<action datetime="1994-03-17"><text>Senate struck all after the Enacting Clause and substituted the language of S. 314 amended.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-03-17" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate in lieu of S. 314 with an amendment and an amendment to the Title by Voice Vote.</text></vote>
+		<action datetime="1994-03-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-05-18T19:05:00-04:00"><text>Mr. Condit asked unanimous consent that the House agree to the Senate amendments.</text><reference label="consideration" ref="CR H3665-3666"/></action>
+		<vote how="without objection" type="pingpong" datetime="1994-05-18T19:06:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House agree to the Senate amendments Agreed to without objection.</text></vote>
+		<action datetime="1994-05-18T19:06:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-05-18" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-05-20" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-05-31" ><text>Signed by President.</text></signed>
+		<enacted number="103-262" type="public" datetime="1994-05-31"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-262.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Government Operations" subcommittee="Information, Justice, Transportation, and Agriculture" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1063" />
+		<bill relation="unknown" session="103" type="h" number="1063" />
+		<bill relation="supersedes" session="103" type="s" number="314" />
+		<bill relation="unknown" session="103" type="s" number="314" />
+		<bill relation="unknown" session="103" type="s" number="314" />
+	</relatedbills>
+	<subjects>
+		<term name="Government paperwork"/>
+		<term name="Archives"/>
+		<term name="Authorization"/>
+		<term name="Economics and public finance"/>
+		<term name="Government operations and politics"/>
+		<term name="National Archives and Records Administration"/>
+		<term name="Public records"/>
+		<term name="Records management"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1549"/>
+	</amendments>
+	<summary>
+	3/17/1994--Passed Senate amended. Extends through FY 1997 the authorization of appropriations for the National Historical Publications and Records Commission.
+
+	</summary>
+</bill>

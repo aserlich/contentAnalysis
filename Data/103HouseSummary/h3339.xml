@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="3339" updated="2010-04-19T07:51:22-04:00">
+	<state datetime="1993-10-21">REFERRED</state>
+	<status><introduced datetime="1993-10-21"/></status>
+
+	<introduced datetime="1993-10-21"/>
+	<titles>
+		<title type="official" as="introduced">To provide that tolls may not be collected solely from vehicles exiting into Richmond County, New York, from a bridge connecting Kings and Richmond Counties, New York.</title>
+	</titles>
+	<sponsor id="400289"/>
+	<cosponsors>
+		<cosponsor id="400409" joined="1993-10-21"/>
+		<cosponsor id="400416" joined="1993-10-21"/>
+		<cosponsor id="400251" joined="1993-10-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-21"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Roads and highways"/>
+		<term name="Bridges"/>
+		<term name="Business"/>
+		<term name="Infrastructure"/>
+		<term name="International affairs"/>
+		<term name="Job training"/>
+		<term name="Labor"/>
+		<term name="New York City"/>
+		<term name="Toll roads"/>
+		<term name="Transportation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/21/1993--Introduced.
+Prohibits the collection of tolls solely from vehicles exiting into Richmond County from the bridge connecting Kings and Richmond Counties, New York.
+
+	</summary>
+</bill>

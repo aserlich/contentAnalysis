@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="307" updated="2010-04-18T23:47:29-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XIX of the Social Security Act to provide that clinical social worker services are a mandatory benefit under the medicaid program.</title>
+	</titles>
+	<sponsor id="408976"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Public assistance programs"/>
+		<term name="Social workers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends title XIX (Medicaid) of the Social Security Act to require States to cover clinical social worker services under the Medicaid program.
+
+	</summary>
+</bill>

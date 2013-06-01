@@ -1,0 +1,69 @@
+<bill session="103" type="s" number="1618" updated="2012-07-17T04:55:08-04:00">
+	<state datetime="1993-11-24">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-11-24" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-11-04"/>
+	<titles>
+		<title type="short" as="introduced">Tribal Self-Governance Act of 1993</title>
+		<title type="short" as="passed senate">Tribal Self-Governance Act of 1993</title>
+		<title type="official" as="introduced">A bill to establish Tribal Self-Governance, and for other purposes.</title>
+	</titles>
+	<sponsor id="300071"/>
+	<cosponsors>
+		<cosponsor id="403669" joined="1993-11-05"/>
+		<cosponsor id="300150" joined="1993-11-04"/>
+		<cosponsor id="400559" joined="1993-11-04"/>
+		<cosponsor id="300056" joined="1993-11-04"/>
+		<cosponsor id="400566" joined="1993-11-05"/>
+		<cosponsor id="300082" joined="1993-11-23"/>
+		<cosponsor id="300017" joined="1993-11-08"/>
+		<cosponsor id="409917" joined="1993-11-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S15089-15090, S15092-15101)</text></action>
+		<action datetime="1993-11-04" state="REFERRED"><text>Read twice and referred to the Committee on Indian Affairs.</text></action>
+		<calendar datetime="1993-11-18"  state="REPORTED"><committee name="Committee on Indian Affairs"/><text>Committee on Indian Affairs. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action datetime="1993-11-22"><text>Committee on Indian Affairs. Reported to Senate by Senator McCain with an amendment. With written report No. 103-205.</text></action>
+		<calendar under="General Orders" number="332" datetime="1993-11-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 332.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-24" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text><reference label="consideration" ref="CR S17228-17230"/></vote>
+		<action datetime="1994-02-01T12:01:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-02-01"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-02-01"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Native American Affairs.</text></action>
+		<action datetime="1994-02-01"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-02-10"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1994-02-25"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-08-16"><committee name="House Committee on Natural Resources"/><text>For Further Action See H.R.3508.</text></action>
+		<action datetime="1994-09-13"><text>See also H.R. 3508.</text></action>
+	</actions>
+	<committees>
+		<committee code="" name="Senate Indian Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3508" />
+		<bill relation="unknown" session="103" type="h" number="3508" />
+		<bill relation="unknown" session="103" type="h" number="3508" />
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Administrative procedure"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cost effectiveness"/>
+		<term name="Department of the Interior"/>
+		<term name="Early retirement"/>
+		<term name="Economics and public finance"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal budgets"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Government operations and politics"/>
+		<term name="Minorities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/24/1993--Passed Senate amended. Tribal Self-Governance Act of 1993 - Amends the Indian Self-Determination and Education Assistance Act to establish within the Department of the Interior a program of Tribal Self-Governance. Authorizes up to 20 additional tribal participants each year. Directs the Secretary of the Interior to enter into annual funding agreements with the governing body of each participating tribe. Authorizes appropriations.
+
+	</summary>
+</bill>

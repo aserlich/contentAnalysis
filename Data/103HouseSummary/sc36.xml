@@ -1,0 +1,65 @@
+<bill session="103" type="sc" number="36" updated="2010-04-19T21:16:39-04:00">
+	<state datetime="1993-11-20">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-11-20" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that United States truck safety standards are of paramount importance to the implementation of the North American Free Trade Agreement.</title>
+	</titles>
+	<sponsor id="409225"/>
+	<cosponsors>
+		<cosponsor id="409917" joined="1993-08-06"/>
+		<cosponsor id="411818" joined="1993-11-05"/>
+		<cosponsor id="403962" joined="1993-11-01"/>
+		<cosponsor id="300037" joined="1993-11-16"/>
+		<cosponsor id="400565" joined="1993-11-01"/>
+		<cosponsor id="300067" joined="1993-09-20"/>
+		<cosponsor id="400561" joined="1993-11-01"/>
+		<cosponsor id="407992" joined="1993-08-06"/>
+		<cosponsor id="300026" joined="1993-09-20"/>
+		<cosponsor id="300084" joined="1993-08-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Sponsor introductory remarks on measure. (CR S10934)</text></action>
+		<action datetime="1993-08-06"><text>Referred to the Committee on Finance.</text></action>
+		<action datetime="1993-11-20"><text>Senate Committee on Finance discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S16885"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text></vote>
+		<action datetime="1993-11-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-21T14:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-21"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-12-03"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, Discharged" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hc" number="107" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Canada"/>
+		<term name="Criminal justice information systems"/>
+		<term name="Customs unions"/>
+		<term name="Free trade"/>
+		<term name="Mexico"/>
+		<term name="Motor vehicle safety"/>
+		<term name="North America"/>
+		<term name="Standards"/>
+		<term name="Trade agreements"/>
+		<term name="Trade negotiations"/>
+		<term name="Traffic accidents and safety"/>
+		<term name="Truck drivers"/>
+		<term name="Trucking"/>
+		<term name="Trucks"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Declares it is the Congress' intent that the Secretary of Transportation, in negotiating under the auspices of the Land Transportation Standards Subcommittee established under the North American Free Trade Agreement (NAFTA), uphold U.S. truck safety standards, including truck sizes and weights, and safety standards such as truck driver hours of service, front brake and other safety equipment requirements, and the truck driver record system.
+
+	</summary>
+</bill>

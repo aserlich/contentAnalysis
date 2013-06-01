@@ -1,0 +1,49 @@
+<bill session="103" type="s" number="1148" updated="2012-07-17T05:02:48-04:00">
+	<state datetime="1993-06-23">INTRODUCED</state>
+	<status><introduced datetime="1993-06-23"/></status>
+
+	<introduced datetime="1993-06-23"/>
+	<titles>
+		<title type="official" as="introduced">A bill to allow for moderate growth of mandatory spending.</title>
+	</titles>
+	<sponsor id="401874"/>
+	<cosponsors>
+		<cosponsor id="300069" joined="1994-08-02"/>
+		<cosponsor id="409923" joined="1993-06-23"/>
+		<cosponsor id="403142" joined="1993-06-23"/>
+		<cosponsor id="300029" joined="1993-06-23"/>
+		<cosponsor id="400562" joined="1993-06-23"/>
+		<cosponsor id="400558" joined="1993-11-23"/>
+		<cosponsor id="300155" joined="1993-06-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-23" state="INTRODUCED"><text>Read twice and referred jointly to the Committees on Budget; Governmental Affairs pursuant to the order of August 4, 1977, with instructions that if one Committee reports, the other have thirty days to report or be discharged.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBU" name="Senate Budget" activity="Referral, In Committee" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3717" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Congress"/>
+		<term name="Congressional budget process"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Economics and public finance"/>
+		<term name="Entitlements"/>
+		<term name="Government spending reductions"/>
+		<term name="House rules and procedure"/>
+		<term name="Legislation"/>
+		<term name="Senate rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/23/1993--Introduced.
+Prohibits the growth of each individual mandatory program except Social Security, beginning with FY 1994 and fiscal years thereafter, from exceeding a level that is: (1) adjusted for beneficiary and inflation growth; plus (2) two percent for FY 1994 and one percent for FY 1995. Requires a sequester to reduce spending for mandatory programs if Congress fails to make relevant changes in laws to maintain appropriate spending levels.
+
+	</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="2590" updated="2010-04-19T05:55:26-04:00">
+	<state datetime="1993-07-01">REFERRED</state>
+	<status><introduced datetime="1993-07-01"/></status>
+
+	<introduced datetime="1993-07-01"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Agricultural Act of 1949 to require the Secretary of Agriculture to make prevented planted disaster payments for wheat, feed grains, upland cotton, and rice under certain circumstances, and for other purposes.</title>
+	</titles>
+	<sponsor id="300058"/>
+	<cosponsors>
+		<cosponsor id="408618" joined="1993-07-01"/>
+		<cosponsor id="400599" joined="1993-07-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-01"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-07-06"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+		<action datetime="1993-07-06"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on General Farm Commodities.</text></action>
+		<action datetime="1993-07-06"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral" />
+		<committee code="" name="House Agriculture" subcommittee="General Farm Commodities" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural insurance"/>
+		<term name="Agricultural price supports"/>
+		<term name="Cotton"/>
+		<term name="Disaster relief"/>
+		<term name="Feed grain program"/>
+		<term name="Rice"/>
+		<term name="Wheat"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/1/1993--Introduced.
+Amends the Agricultural Act of 1949 with regard to disaster payments for producers of wheat, feed grains, upland cotton, and rice to: (1) make prevented planting assistance available independent from crop insurance coverage; and (2) provide reduced yield disaster payments for any crop whose loss has created an economic emergency.
+
+	</summary>
+</bill>

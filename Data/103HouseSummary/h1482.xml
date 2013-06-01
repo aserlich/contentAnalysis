@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="1482" updated="2010-04-19T03:02:31-04:00">
+	<state datetime="1993-03-25">REFERRED</state>
+	<status><introduced datetime="1993-03-25"/></status>
+
+	<introduced datetime="1993-03-25"/>
+	<titles>
+		<title type="official" as="introduced">To eliminate the tobacco price support program.</title>
+	</titles>
+	<sponsor id="400649"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-04-21"/>
+		<cosponsor id="400414" joined="1993-11-10"/>
+		<cosponsor id="402890" joined="1994-07-27"/>
+		<cosponsor id="400370" joined="1993-06-18"/>
+		<cosponsor id="300151" joined="1994-04-12"/>
+		<cosponsor id="406482" joined="1994-02-02"/>
+		<cosponsor id="300062" joined="1994-06-30"/>
+		<cosponsor id="407153" joined="1994-07-19"/>
+		<cosponsor id="400594" joined="1994-02-02"/>
+		<cosponsor id="412001" joined="1993-11-18"/>
+		<cosponsor id="400083" joined="1994-08-01"/>
+		<cosponsor id="400265" joined="1994-02-02"/>
+		<cosponsor id="400269" joined="1993-07-14"/>
+		<cosponsor id="400601" joined="1993-06-18"/>
+		<cosponsor id="409627" joined="1994-07-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-25"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural price supports"/>
+		<term name="Farm production quotas"/>
+		<term name="Marketing of farm produce"/>
+		<term name="Tobacco"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/25/1993--Introduced.
+Amends the Agricultural Act of 1949 to repeal the tobacco price support program. Amends the Agricultural Adjustment Act of 1938 to repeal tobacco marketing quota provisions.
+
+	</summary>
+</bill>

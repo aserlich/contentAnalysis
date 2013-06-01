@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="1488" updated="2010-04-19T03:03:28-04:00">
+	<state datetime="1993-03-25">REFERRED</state>
+	<status><introduced datetime="1993-03-25"/></status>
+
+	<introduced datetime="1993-03-25"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit imports into the United States of meat products from the European Community until certain unfair trade barriers are removed, and for other purposes.</title>
+	</titles>
+	<sponsor id="300058"/>
+	<cosponsors>
+		<cosponsor id="400023" joined="1993-03-25"/>
+		<cosponsor id="300038" joined="1993-03-25"/>
+		<cosponsor id="404723" joined="1993-03-25"/>
+		<cosponsor id="404869" joined="1993-03-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-25"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Agricultural economics"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="EEC countries"/>
+		<term name="Exports"/>
+		<term name="Import restrictions"/>
+		<term name="Meat"/>
+		<term name="Nontariff trade barriers"/>
+		<term name="Reciprocity"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/25/1993--Introduced.
+Declares it is U.S. policy that the European Community's Third Country Meat Directive is an unfair nontariff trade barrier and that it is in the public interest to remove barriers to exports of U.S. meat products. Directs the President to prohibit the importation of all European Community meat products.
+
+	</summary>
+</bill>

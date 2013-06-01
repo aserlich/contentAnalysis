@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="4868" updated="2012-07-17T04:12:08-04:00">
+	<state datetime="1994-08-16T13:27:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-08-16T13:27:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-08-01"/>
+	<titles>
+		<title type="short" as="introduced">Railroad Unemployment Insurance Amendments Act of 1994</title>
+		<title type="short" as="passed house">Railroad Unemployment Insurance Amendments Act of 1994</title>
+		<title type="official" as="introduced">To amend the Railroad Unemployment Insurance Act to reduce the waiting period for benefits payable under that Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="410567"/>
+	<cosponsors>
+		<cosponsor id="400307" joined="1994-08-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-01" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-08-02"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+		<action datetime="1994-08-04"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-08-04"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-08-05"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-08-05"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-08-10T18:55:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 103-693.</text></action>
+		<calendar number="379" datetime="1994-08-10T18:55:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 379.</text></calendar>
+		<action datetime="1994-08-16T13:25:00-04:00"><text>Ms. Schenk moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-08-16T13:26:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8433-8435"/></action>
+		<action datetime="1994-08-16T13:26:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-08-16T13:27:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-08-16T13:27:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-08-17"><text>Received in the Senate and read twice and referred to the Committee on Labor and Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral, Markup, Reporting" />
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Unemployment insurance"/>
+		<term name="Earnings"/>
+		<term name="Employee benefit plans"/>
+		<term name="Labor and employment"/>
+		<term name="Railroad employees"/>
+		<term name="Sick leave"/>
+		<term name="Transportation and public works"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/16/1994--Passed House amended. Railroad Unemployment Insurance Amendments Act of 1994 - Amends the Railroad Unemployment Insurance Act to revise the waiting period for unemployment benefits. Permits an employee to receive up to seven days of unemployment benefits during the first registration period during a time of continued unemployment, under specified conditions. Prohibits payment of benefits during a registration period if the employee had earnings during it of more than the monthly compensation base for the applicable base year. Makes similar revisions to the waiting period for sickness benefits. Revises the formula for calculating the maximum daily benefit rate. Provides extended benefits for up to 65 days of unemployment or 65 days of sickness during a benefit year after exhaustion of regular benefits.
+
+	</summary>
+</bill>

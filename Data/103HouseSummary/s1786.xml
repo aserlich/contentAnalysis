@@ -1,0 +1,61 @@
+<bill session="103" type="s" number="1786" updated="2012-07-17T05:56:04-04:00">
+	<state datetime="1994-09-21">REPORTED</state>
+	<status><calendar datetime="1994-09-21" /></status>
+
+	<introduced datetime="1994-01-25"/>
+	<titles>
+		<title type="official" as="introduced">A bill to increase the authorization of appropriations for the Belle Fourche Irrigation Project, and for other purposes.</title>
+	</titles>
+	<sponsor id="300031"/>
+	<cosponsors>
+		<cosponsor id="408898" joined="1994-01-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-01-25" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-01-26"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Water and Power.</text></action>
+		<action datetime="1994-05-18"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-06-14"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-06-28"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Water and Power. Hearings held. Hearings printed: S.Hrg. 103-844.</text></action>
+		<calendar datetime="1994-09-21"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-09-26"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment in the nature of a substitute. With written report No. 103-376.</text></action>
+		<calendar under="General Orders" number="630" datetime="1994-09-26" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 630.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-3" name="Senate Energy and Natural Resources" subcommittee="Water and Power" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4439" />
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Agriculture and food"/>
+		<term name="Animals"/>
+		<term name="Authorization"/>
+		<term name="Bridges"/>
+		<term name="Dams"/>
+		<term name="Economics and public finance"/>
+		<term name="Environmental protection"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Fishery management"/>
+		<term name="Government operations and politics"/>
+		<term name="Irrigation"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Missouri River development"/>
+		<term name="Outdoor recreation"/>
+		<term name="South Dakota"/>
+		<term name="Sports and recreation"/>
+		<term name="Transportation and public works"/>
+		<term name="User charges"/>
+		<term name="Water conservation"/>
+		<term name="Watershed management"/>
+		<term name="Wildlife conservation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/26/1994--Reported to Senate amended. Modifies the general plan for the Belle Fourche irrigation project, within the Pick-Sloan Missouri Basin program, to include: (1) rehabilitation of the Whitewood Siphon and two Belle Fourche dam outlets; (2) lining at South Canal and rehabilitation of Johnson Lateral for water conservation; (3) replacement or rehabilitation of deteriorated canal bridges; (4) provision of minor lateral rehabilitation and contract support work by the Belle Fourche irrigation district; and (5) a detailed study of project-wide water use management and implementation of improved management practices for the purpose of achieving optimal conservation of water supplies. Sets forth provisions regarding: (1) the Federal and State share of costs; and (2) extension of the repayment period. Provides that: (1) before July 1, 1995, the rates of charge to land class in the unit shall continue as established in the November 29, 1949, repayment contract with the district, as subsequently amended and supplemented; and (2) on and after July 1, 1995, such rates of charge and assessable acreage shall be in accordance with the amortization capacity and classification of unit lands as then determined by the Secretary, subject to specified requirements. Permits the rates of charge and assessable acreage to be amended as deemed necessary by the Secretary after final completion of the rehabilitation and betterment program authorized by the Act, at intervals agreed to by the Secretary and the Belle Fourche irrigation district. Authorizes appropriations for the project. Directs the Secretary and the district to amend the contract to reflect the amendments made by this Act.
+
+	</summary>
+</bill>

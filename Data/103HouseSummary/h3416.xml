@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="3416" updated="2010-04-19T08:03:20-04:00">
+	<state datetime="1993-10-28">REFERRED</state>
+	<status><introduced datetime="1993-10-28"/></status>
+
+	<introduced datetime="1993-10-28"/>
+	<titles>
+		<title type="short" as="introduced">Commission on Closure and Relocation of the Lorton Correctional Complex Act</title>
+		<title type="official" as="introduced">To establish a commission to consider the closing and relocation of the Lorton Correctional Complex.</title>
+	</titles>
+	<sponsor id="400435"/>
+	<cosponsors>
+		<cosponsor id="400571" joined="1993-10-28"/>
+		<cosponsor id="400283" joined="1993-11-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-28"><text>Sponsor introductory remarks on measure. (CR E2715-2716)</text></action>
+		<action datetime="1993-10-28"><text>Referred to the House Committee on District of Columbia.</text></action>
+		<action datetime="1993-10-28"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-11-02"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on District of Columbia"/><text>Referred to the Subcommittee on Judiciary and Education.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSDT" name="House District of Columbia" activity="Referral, In Committee" />
+		<committee code="" name="House District of Columbia" subcommittee="Judiciary and Education" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Corrections"/>
+		<term name="Criminal justice"/>
+		<term name="District of Columbia"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Prisons"/>
+		<term name="Virginia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/28/1993--Introduced.
+Commission on Closure and Relocation of the Lorton Correctional Complex Act - Establishes the Commission on Closure and Relocation of the Lorton Correctional Complex to: (1) develop comprehensive plans for closing the Complex by the year 2010, including options for the use of the land on which the complex is located, and establishing new model prison facilities within the District of Columbia to replace the Complex; and (2) identify and recommend appropriate strategies for improving the effectiveness and safety of the Complex's operations until it is closed and the new facilities are established. Authorizes appropriations.
+
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="103" type="hr" number="298" updated="2010-04-19T13:45:29-04:00">
+	<state datetime="1993-11-09T13:03:00-05:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-11-09T13:03:00-05:00" where="h" result="pass" how="roll" roll="551"/></status>
+
+	<introduced datetime="1993-11-08"/>
+	<titles>
+		<title type="official" as="introduced">Waiving points of order against the conference report to accompany the bill (H.R. 3167) to extend the emergency unemployment compensation program, to establish a system of worker profiling, and for other purposes.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-08T16:52:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-334, by Ms. Slaughter.</text></action>
+		<action datetime="1993-11-08T16:52:00-05:00"><text>Rule provides for consideration of the conference report to H.R. 3167.</text></action>
+		<calendar datetime="1993-11-08T16:53:00-05:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 112.</text></calendar>
+		<action datetime="1993-11-09T12:33:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H8949-8951"/></action>
+		<action datetime="1993-11-09T12:33:00-05:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-11-09T12:44:00-05:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="roll" type="vote" roll="551" datetime="1993-11-09T13:03:00-05:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 249 - 172 (Roll no. 551).</text></vote>
+		<action datetime="1993-11-09T13:03:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3167" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="House rules and procedure"/>
+		<term name="Unemployment insurance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/8/1993--Introduced.
+Waives points of order against the consideration of the conference report on H.R. 3167 (extending the emergency unemployment compensation program).
+
+	</summary>
+</bill>

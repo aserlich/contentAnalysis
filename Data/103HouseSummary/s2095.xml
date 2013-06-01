@@ -1,0 +1,191 @@
+<bill session="103" type="s" number="2095" updated="2012-07-17T05:22:48-04:00">
+	<state datetime="1994-06-22">REPORTED</state>
+	<status><calendar datetime="1994-06-22" /></status>
+
+	<introduced datetime="1994-05-10"/>
+	<titles>
+		<title type="short" as="reported to senate">Federal Crop Insurance Reform Act of 1994</title>
+		<title type="official" as="introduced">A bill to reform the Federal Crop Insurance Program, and for other purposes.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="400561" joined="1994-05-10"/>
+		<cosponsor id="403669" joined="1994-05-10"/>
+		<cosponsor id="300031" joined="1994-05-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-10" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5453-5454)</text></action>
+		<action datetime="1994-05-10" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1994-05-11"><committee name="Committee on Agriculture"/><text>Committee on Agriculture. Hearings held.</text></action>
+		<action datetime="1994-05-19"><committee name="Committee on Agriculture"/><text>Subcommittee on Agricultural Production. Hearings held.</text></action>
+		<calendar datetime="1994-06-22"  state="REPORTED"><committee name="Committee on Agriculture"/><text>Committee on Agriculture. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-07-01"><text>Committee on Agriculture. Reported to Senate by Senator Leahy with an amendment in the nature of a substitute. With written report No. 103-301.</text></action>
+		<calendar under="General Orders" number="507" datetime="1994-07-01" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 507.</text></calendar>
+		<action datetime="1994-08-25"><text>Measure laid before Senate by unanimous consent.</text></action>
+		<action datetime="1994-08-25"><text>The committee substitute as amended agreed to by Voice Vote.</text></action>
+		<action datetime="1994-08-25"><text>Senate incorporated this measure in H.R. 4217 as an amendment.</text></action>
+		<action datetime="1994-08-25"><text>Senate passed companion measure H.R. 4217 in lieu of this measure by Voice Vote.</text><reference label="consideration" ref="CR S12660-12670"/></action>
+		<action datetime="1994-08-25"><text>Indefinitely postponed by Senate by Unanimous Consent.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Agricultural Production and Stabilization of Prices" activity="Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4217" />
+		<bill relation="superseded" session="103" type="h" number="4217" />
+		<bill relation="unknown" session="103" type="h" number="4217" />
+		<bill relation="unknown" session="103" type="h" number="4217" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Administrative fees"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Agricultural cooperatives"/>
+		<term name="Agricultural credit"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural education"/>
+		<term name="Agricultural extension work"/>
+		<term name="Agricultural insurance"/>
+		<term name="Agricultural policies"/>
+		<term name="Agricultural price supports"/>
+		<term name="Agricultural research"/>
+		<term name="Agricultural statistics"/>
+		<term name="Agricultural subsidies"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Aircraft pilots"/>
+		<term name="American agricultural assistance"/>
+		<term name="Appropriations"/>
+		<term name="Authorization"/>
+		<term name="Aviation safety"/>
+		<term name="Budget deficits"/>
+		<term name="Business records"/>
+		<term name="Child nutrition"/>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Claims"/>
+		<term name="Colorado River development"/>
+		<term name="Commerce"/>
+		<term name="Community development"/>
+		<term name="Conflict of interests"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Conservation of natural resources"/>
+		<term name="Conservation tillage"/>
+		<term name="Consumer education"/>
+		<term name="Cost control"/>
+		<term name="Cotton"/>
+		<term name="Cropland conversion program"/>
+		<term name="Data banks"/>
+		<term name="Department of Agriculture"/>
+		<term name="Disaster relief"/>
+		<term name="Disciplining of employees"/>
+		<term name="Dismissal of employees"/>
+		<term name="Droughts"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Emergency management"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Environmental protection"/>
+		<term name="Executive reorganization"/>
+		<term name="Families"/>
+		<term name="Farmers"/>
+		<term name="Farms"/>
+		<term name="Federal Crop Insurance Corporation"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Federal budgets"/>
+		<term name="Federal employees"/>
+		<term name="Federal officials"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Feed grain program"/>
+		<term name="Feeds"/>
+		<term name="Finance and financial sector"/>
+		<term name="Floods"/>
+		<term name="Food relief"/>
+		<term name="Food safety"/>
+		<term name="Food stamps"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Foreign trade promotion"/>
+		<term name="Forest management"/>
+		<term name="Fraud"/>
+		<term name="Freedom of speech"/>
+		<term name="Frozen food"/>
+		<term name="Gay rights"/>
+		<term name="Gays"/>
+		<term name="Government corporations"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Government service contracts"/>
+		<term name="Grain inspection"/>
+		<term name="Health"/>
+		<term name="Health education"/>
+		<term name="Homosexuality"/>
+		<term name="Housing and community development"/>
+		<term name="Indemnity"/>
+		<term name="Information services"/>
+		<term name="Insurance companies"/>
+		<term name="Insurance premiums"/>
+		<term name="International affairs"/>
+		<term name="International relief"/>
+		<term name="Irrigation"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Labeling"/>
+		<term name="Law"/>
+		<term name="Layoffs"/>
+		<term name="Limitation of actions"/>
+		<term name="Marketing of farm produce"/>
+		<term name="Meat inspection"/>
+		<term name="Meat packing industry"/>
+		<term name="National forests"/>
+		<term name="Nutrition"/>
+		<term name="Nutrition policy"/>
+		<term name="Oilseeds"/>
+		<term name="Poultry"/>
+		<term name="Poultry industry"/>
+		<term name="Poultry inspection"/>
+		<term name="Presidential appointments"/>
+		<term name="Public assistance programs"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Public meetings of administrative bodies"/>
+		<term name="Rating of employees"/>
+		<term name="Refuse and refuse disposal"/>
+		<term name="Reinsurance"/>
+		<term name="Rental housing"/>
+		<term name="Rice"/>
+		<term name="Rural economic development"/>
+		<term name="Rural electrification"/>
+		<term name="Rural housing"/>
+		<term name="Saline water conversion"/>
+		<term name="School lunch program"/>
+		<term name="Science, technology, communications"/>
+		<term name="Social welfare"/>
+		<term name="Soil conservation"/>
+		<term name="Soil erosion"/>
+		<term name="Storms"/>
+		<term name="Telephone"/>
+		<term name="Transportation and public works"/>
+		<term name="Water conservation"/>
+		<term name="Water resources development"/>
+		<term name="Water supply"/>
+		<term name="Watershed management"/>
+		<term name="Wetland conservation"/>
+		<term name="Wheat"/>
+	</subjects>
+	<amendments>
+		<amendment number="s2575"/>
+		<amendment number="s2576"/>
+		<amendment number="s2577"/>
+		<amendment number="s2578"/>
+		<amendment number="s2579"/>
+		<amendment number="s2580"/>
+	</amendments>
+	<summary>
+	8/25/1994--Indefinitely postponed in Senate. TABLE OF CONTENTS: Title I: Federal Crop Insurance Reform Subtitle A: Catastrophic Risk and Additional Coverage Insurance Subtitle B: Noninsured Assistance Program Subtitle C: Miscellaneous Title II: Department of Agriculture Reorganization Subtitle A: Short Title; Purpose; Definitions Subtitle B: General Authorities of the Secretary Subtitle C: National Appeals Division Subtitle D: Farm and International Trade Services Subtitle E: Rural Economic and Community Development Subtitle F: Food, Nutrition, and Consumer Services Subtitle G: Natural Resources and Environment Subtitle H: Marketing and Inspection Services Subtitle I: Research, Economics, and Education Subtitle J: Food Safety Subtitle K: Miscellaneous Title I: Federal Crop Insurance Reform - Subtitle A: Catastrophic Risk and Additional Coverage Insurance - Federal Crop Insurance Reform Act of 1994 - Amends the Federal Crop Insurance Act to direct the Federal Crop Insurance Corporation (Corporation) to offer a catastrophic risk protection plan that would indemnify producers for loss in yield or prevented planting due to drought, flood, or other natural disaster. Authorizes such coverage to be offered by: (1) private insurance carriers; or (2) Department of Agriculture (Department) local offices. Sets forth required fees, with specified waivers for need or additional coverage purchases. Requires at least catastrophic coverage on each significant crop in order for a producer to be eligible for price supports, production adjustments, or specified agricultural loans. (Sec. 1103) Directs the Corporation to offer insurance plans that offer greater than catastrophic coverage from approved private insurers (or from the Corporation if offered). Sets forth required fees and waivers. Offers different market-based price elections for varieties of wheat. Permits State premium subsidies. (Sec. 1104) Authorizes premium levels for: (1) catastrophic risk protection; (2) additional coverage; and (3) high coverage. Authorizes: (1) Corporation premium subsidies; and (2) private insurer premium reductions. (Sec. 1105) Requires producers to apply either at local Department offices or to approved insurance providers. (Sec. 1106) Directs the Corporation to implement crop insurance underwriting rules that ensure that yield coverage is provided to all program participants. Authorizes an insured producer to choose individual or area yield coverage, or combined coverage, on a commodity by commodity basis. Establishes two-year transitional yields for feed or forage producers. (Sec. 1107) Directs the Corporation to offer: (1) a pilot cost of production risk protection plan for the 1996 and 1997 crop years which would indemnify producers for insured income losses; (2) additional prevented planting coverage beginning in the 1995 crop year; and (3) a 30-county pilot transitional yield program for new producers for the 1995 and 1996 crop years. (Sec. 1108) Authorizes the Corporation to provide for the adjustment and payment of loss claims. (Sec. 1110) Authorizes appropriations for Corporation and provider expenses. Establishes a related insurance fund. (Sec. 1111) Authorizes the Secretary to establish within the Department an Advisory Committee for Federal Crop Insurance which shall remain in existence until September 30, 1998. (Sec. 1112) Sets forth technical and management provisions with respect to the Corporation. Subtitle B: Noninsured Assistance Program - Directs the Corporation to establish a noninsured assistance program for those crops for which catastrophic risk protection is not offered and that are produced for food, fiber, or an industrial crop on a commercial basis, excluding livestock. (Sec. 1202) Limits: (1) individual payments to $100,000; and (2) income for purposes of program eligibility. Prohibits double benefits under this program and the emergency livestock feed assistance program for the same loss. Subtitle C: Miscellaneous - Makes a person who has knowingly and falsely obtained benefits under the Act or who has evaded the Act ineligible for catastrophic risk and noninsured assistance payments. (Sec. 1302) Sets forth 1994 prevented planting (including oilseeds) payment provisions. (Sec. 1303) Amends the Balanced Budget and Emergency Deficit Control Act of 1985 to permit appropriations for emergency agricultural crop disaster assistance. (Sec. 1305) Authorizes the use of specified Corporation funds to cover certain operating and administrative costs for fall-planted 1995 crops. (Sec. 1306) Expresses the sense of the Senate that: (1) the Department should hold hearings on the labeling of fresh poultry in September 1994; and (2) persons involved financially should not serve on a related advisory committee. (Sec. 1307) Prohibits the removal and requires the reinstatement of any Department employee who has made remarks on his or her personal time in opposition to Department policies regarding homosexuals. (Sec. 1308) Amends the Food Stamp Act of 1977 to prohibit reductions in the thrifty food plan below FY 1994 levels. (Sec. 1310) Terminates authority and amendments under this title on September 30, 2000. Title II: Department of Agriculture Reorganization - Subtitle A: Short Title; Purposes; Definitions - Department of Agriculture Reorganization Act of 1994 - Sets forth the purpose of this title and appropriate definitions. Subtitle B: General Authorities of the Secretary - Delegates, with specified exceptions, all Department of Agriculture (Department) functions to the Secretary of Agriculture, (Secretary). Grants the Secretary general reorganization authority. (Sec. 2203) Directs the Secretary to reduce the number of Department employees by at least 7,500 by September 30, 1999. (Sec. 2204) Directs the Secretary to consolidate Washington, D.C. headquarters offices. Subtitle C: National Appeals Division - Directs the Secretary to establish a National Appeals Division within the Office of the Secretary. Sets forth related provisions. Subtitle D: Farm and International Trade Services - Establishes in the Department the position of Under Secretary of Agriculture for Farm and International Trade Services. (Sec. 2402) Authorizes the Secretary to establish a Farm Service Agency to carry out specified agricultural assistance programs. (Sec. 2404) Authorizes the Secretary to establish an International Trade Service. Subtitle E: Rural Economic and Community Development - Amends the Rural Development Policy Act of 1980 to establish in the Department the position of Under Secretary of Agriculture for Rural Economic and Community Development (in lieu of the position of Under Secretary of Agriculture for Small Community and Rural Development). (Sec. 2502) Authorizes the Secretary to establish within the Department: (1) the Rural Utilities Service; (2) the Rural Housing and Community Development Service; and (3) the Rural Business and Cooperative Development Service. Subtitle F: Food, Nutrition, and Consumer Services - Establishes in the Department the position of Under Secretary of Agriculture for Food, Nutrition, and Consumer Services. (Sec. 2602) Authorizes the Secretary to establish within the Department: (1) the Food and Consumer Service; and (2) the Nutrition Research and Education Service. Subtitle G: Natural Resources and Environment - Authorizes the Secretary to establish in the Department the Natural Resources Conservation Service. (Sec. 2702) Sets forth proposals to be included in the reorganization of the Forest Service. Subtitle H: Marketing and Inspection Services - Authorizes the Secretary to establish within the Department the Grain Inspection, Packers and Stockyards Administration. Subtitle I: Research, Economics, and Education - Authorizes the Secretary to establish within the Department: (1) the Federal Research and Information Service; (2) the Cooperative State Research and Education Service; (3) the Agricultural Economics and Statistics Service; and (4) the Program Policy and Coordination Staff. Subtitle J: Food Safety - Amends the Federal Meat Inspection Act to direct the Secretary to establish within the Department the Food Safety Service. Subtitle K: Miscellaneous - Establishes within the Department six positions of Assistant Secretary of Agriculture. Terminates, with specified exceptions, the Secretary's reorganization authority two years after enactment of this Act.
+
+	</summary>
+</bill>

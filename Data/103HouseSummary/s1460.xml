@@ -1,0 +1,46 @@
+<bill session="103" type="s" number="1460" updated="2012-07-17T04:06:38-04:00">
+	<state datetime="1993-09-15">REFERRED</state>
+	<status><introduced datetime="1993-09-15"/></status>
+
+	<introduced datetime="1993-09-15"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Elementary and Secondary Education Act of 1965 to authorize programs of child abuse education and prevention, and to establish a demonstration project relating to child abuse education and prevention.</title>
+	</titles>
+	<sponsor id="407992"/>
+	<cosponsors>
+		<cosponsor id="403142" joined="1993-10-18"/>
+		<cosponsor id="300011" joined="1994-05-03"/>
+		<cosponsor id="409917" joined="1994-05-03"/>
+		<cosponsor id="407663" joined="1993-11-02"/>
+		<cosponsor id="401709" joined="1993-11-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-15" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S11927-11928)</text></action>
+		<action datetime="1993-09-15" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<action datetime="1994-02-01"><committee name="Committee on Labor and Human Resources"/><text>Referred to Subcommittee on Education, Arts, Humanities.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee" />
+		<committee code="" name="Senate Labor and Human Resources" subcommittee="Education, Arts and Humanities" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1466" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Child abuse"/>
+		<term name="Curricula"/>
+		<term name="Elementary education"/>
+		<term name="Federal aid to education"/>
+		<term name="Secondary education"/>
+		<term name="Teacher education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/15/1993--Introduced.
+Amends the Elementary and Secondary Education Act of 1965 to direct the Secretary of Education to establish a demonstration program and fund other programs for child abuse education and prevention curriculum development and teacher training. Authorizes appropriations.
+
+	</summary>
+</bill>

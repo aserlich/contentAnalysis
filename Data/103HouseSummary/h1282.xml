@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="1282" updated="2010-04-19T02:30:28-04:00">
+	<state datetime="1993-03-10">REFERRED</state>
+	<status><introduced datetime="1993-03-10"/></status>
+
+	<introduced datetime="1993-03-10"/>
+	<titles>
+		<title type="short" as="introduced">Outer Continental Shelf Enhanced Exploration and Deep Water Incentives Act</title>
+		<title type="official" as="introduced">To provide enhanced energy security through incentives to explore and develop frontier areas of the Outer Continental Shelf and to enhance production of the domestic oil and gas resources in deep water areas of the Outer Continental Shelf.</title>
+	</titles>
+	<sponsor id="404068"/>
+	<cosponsors>
+		<cosponsor id="400397" joined="1993-03-10"/>
+		<cosponsor id="406863" joined="1993-03-10"/>
+		<cosponsor id="406625" joined="1993-03-10"/>
+		<cosponsor id="400440" joined="1993-03-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-10"><text>Sponsor introductory remarks on measure. (CR E581-582)</text></action>
+		<action datetime="1993-03-10"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-03-10"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Energy and Mineral Resources.</text></action>
+		<action datetime="1993-03-22"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Oceanography, Gulf of Mexico, and the Outer Continental Shelf.</text></action>
+		<action datetime="1993-03-22"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1993-09-14"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Oceanography, Gulf of Mexico, and the Outer Continental Shelf"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-06" name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Referral" />
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Oceanography, Gulf of Mexico and the Outer Continental Shelf" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="318" />
+	</relatedbills>
+	<subjects>
+		<term name="Energy law and legislation"/>
+		<term name="Continental shelf"/>
+		<term name="Energy policy"/>
+		<term name="Gas in submerged lands"/>
+		<term name="Oil and gas leases"/>
+		<term name="Oil and gas royalties"/>
+		<term name="Petroleum in submerged lands"/>
+		<term name="Prospecting"/>
+		<term name="Submarine oil well drilling"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/10/1993--Introduced.
+Outer Continental Shelf Enhanced Exloration and Deep Water Incentives Act - Amends the Outer Continental Shelf Lands Act to authorize the Secretary of the Interior to suspend any royalty or net profit share set forth in Outer Continental Shelf (OCS) oil or gas leases. Declares that no royalty payment shall be due on new production from leases located in depths of 200 meters or more until the capital costs directly related to such production have been recovered out of the resulting proceeds. Requires the Secretary to designate as frontier areas those portions of the OCS with respect to which the Secretary will exercise authority to modify royalty payment requirements.
+
+	</summary>
+</bill>

@@ -1,0 +1,82 @@
+<bill session="103" type="s" number="617" updated="2012-07-17T06:24:08-04:00">
+	<state datetime="1994-08-04">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-08-04" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-03-18"/>
+	<titles>
+		<title type="short" as="introduced">Desalinization Research and Development Act of 1993</title>
+		<title type="short" as="reported to senate">Desalinization Research and Development Act of 1994</title>
+		<title type="short" as="passed senate">Desalinization Research and Development Act of 1994</title>
+		<title type="official" as="introduced">A bill to authorize research into the desalinization of water and water reuse and to authorize a program for States, cities, or any qualifying agency which desires to own and operate a desalinization or water reuse facility to develop such facilities.</title>
+	</titles>
+	<sponsor id="409917"/>
+	<cosponsors>
+		<cosponsor id="400564" joined="1993-03-18"/>
+		<cosponsor id="300089" joined="1993-03-18"/>
+		<cosponsor id="400557" joined="1993-03-18"/>
+		<cosponsor id="300082" joined="1993-03-18"/>
+		<cosponsor id="400563" joined="1993-03-18"/>
+		<cosponsor id="300067" joined="1993-03-18"/>
+		<cosponsor id="300057" joined="1993-03-18"/>
+		<cosponsor id="401709" joined="1993-03-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-18" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3185-3186)</text></action>
+		<action datetime="1993-03-18" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<action datetime="1993-10-20" state="REPORTED"><text>Sponsor introductory remarks on measure. (CR S14023-14025)</text></action>
+		<calendar datetime="1994-06-23" ><committee name="Committee on Environment and Public Works"/><text>Committee on Environment and Public Works. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1994-07-27"><text>Committee on Environment and Public Works. Reported to Senate by Senator Baucus with amendments. With written report No. 103-320.</text></action>
+		<calendar under="General Orders" number="532" datetime="1994-07-27" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 532.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-08-04" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with amendments by Voice Vote.</text><reference label="consideration" ref="CR S10609-10612"/></vote>
+		<action datetime="1994-08-05"><text>Sponsor introductory remarks on measure. (CR S10891)</text></action>
+		<action datetime="1994-08-05"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-08-05T10:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-08-05"><text>Referred jointly to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-08-05"><text>Referred jointly to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1994-08-05"><text>Referred jointly to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-08-09"><committee name="Committee on Environment and Public Works"/><text>Referred to the Subcommittee on Science.</text></action>
+		<action datetime="1994-08-18"><committee name="Committee on Environment and Public Works"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1994-11-21"><committee name="Committee on Environment and Public Works"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Oversight and Investigations" activity="Referral" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="HSSY-14" name="House Science, Space and Technology" subcommittee="Science" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4944" />
+		<bill relation="unknown" session="103" type="h" number="4944" />
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Conferences"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Construction costs"/>
+		<term name="Economics and public finance"/>
+		<term name="Environmental engineering"/>
+		<term name="Environmental protection"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Infrastructure"/>
+		<term name="International affairs"/>
+		<term name="International cooperation"/>
+		<term name="Research and development"/>
+		<term name="Research grants"/>
+		<term name="Saline water conversion"/>
+		<term name="Science, technology, communications"/>
+		<term name="Technological innovations"/>
+		<term name="Water conservation"/>
+		<term name="Water treatment plants"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/4/1994--Passed Senate amended. Desalinization Research and Development Act of 1994 - Directs the Secretary of the Interior and the Secretary of the Army to conduct a basic research and development program to gain knowledge concerning the most efficient means by which usable water can be produced from saline water. Grants the Secretaries authority to design and construct desalinization facilities in cost-sharing cooperation with applying sponsors. Directs the President to instruct the Agency for International Development to sponsor an international desalinization conference to explore new technologies of affordable desalinization and propose a research agenda. Requires reports to the Congress and the President. Authorizes appropriations.
+
+	</summary>
+</bill>

@@ -1,0 +1,109 @@
+<bill session="103" type="h" number="2970" updated="2010-10-13T17:40:42-04:00">
+	<state datetime="1994-10-29">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-29" /></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">To reauthorize the Office of Special Counsel, and for other purposes.</title>
+		<title type="official" as="amended by senate">An Act to authorize appropriations for the United States Office of Special Counsel, the Merit Systems Protection Board, and for other purposes.</title>
+	</titles>
+	<sponsor id="407351"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-08-16"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Civil Service.</text></action>
+		<action datetime="1993-09-14"><committee name="House Committee on Post Office and Civil Service" subcommittee="Civil Service"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-10-20"><committee name="House Committee on Post Office and Civil Service" subcommittee="Civil Service"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-10-20"><committee name="House Committee on Post Office and Civil Service" subcommittee="Civil Service"/><text>Forwarded by Subcommittee to Full Committee in the Nature of a Substitute.</text></action>
+		<action datetime="1994-08-10"><committee name="House Committee on Post Office and Civil Service"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-08-10"  state="REPORTED"><committee name="House Committee on Post Office and Civil Service"/><text>Ordered to be Reported in the Nature of a Substitute.</text></calendar>
+		<action datetime="1994-09-30T16:27:00-04:00"><text>Reported (Amended) by the Committee on Post Office and Civil Service. H. Rept. 103-769.</text></action>
+		<calendar number="417" datetime="1994-09-30T16:27:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 417.</text></calendar>
+		<action datetime="1994-10-03T19:34:00-04:00"><text>Mr. McCloskey moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-03T19:34:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10614-10618"/></action>
+		<action datetime="1994-10-03T19:34:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-10-03T19:40:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-03T19:40:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-04"><text>Received in the Senate, read twice.</text></action>
+		<action datetime="1994-10-07"><text>Measure laid before Senate by unanimous consent. (CR S14668-14670)</text></action>
+		<action datetime="1994-10-07"><text>Amendment SP 2641 proposed by Senator Breaux for Senator Levin.</text></action>
+		<action datetime="1994-10-07"><text>Amendment SP 2641 agreed to in Senate by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-07" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text></vote>
+		<action datetime="1994-10-07"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-07T23:55:00-04:00"><text>Mr. McCloskey asked unanimous consent that the House agree to the Senate amendment.</text></action>
+		<vote how="without objection" type="pingpong" datetime="1994-10-07T23:58:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House agree to the Senate amendment Agreed to without objection.</text><reference label="consideration" ref="CR H11422"/></vote>
+		<action datetime="1994-10-07T23:58:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-10-07" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-10-18" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-29" ><text>Signed by President.</text></signed>
+		<enacted number="103-424" type="public" datetime="1994-10-29"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-424.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Civil Service" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="622" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Administrative remedies"/>
+		<term name="Authorization"/>
+		<term name="Banks and banking"/>
+		<term name="Budgets"/>
+		<term name="Civil service pensions"/>
+		<term name="Civil service retirement"/>
+		<term name="Criminal investigation"/>
+		<term name="Criminal justice"/>
+		<term name="Department of Veterans Affairs"/>
+		<term name="Disability retirement"/>
+		<term name="Disciplining of employees"/>
+		<term name="Dismissal of employees"/>
+		<term name="Employee rights"/>
+		<term name="Evidence (Law)"/>
+		<term name="Executive departments"/>
+		<term name="Federal officials"/>
+		<term name="Finance"/>
+		<term name="Freedom of information"/>
+		<term name="Government corporations"/>
+		<term name="Government employees"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Government trust funds"/>
+		<term name="Governmental investigations"/>
+		<term name="Grievance procedures"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Labor"/>
+		<term name="Law"/>
+		<term name="Legal fees"/>
+		<term name="Medical care"/>
+		<term name="Medical personnel"/>
+		<term name="Medicine"/>
+		<term name="Merit Systems Protection Board"/>
+		<term name="Pensions"/>
+		<term name="Personnel management"/>
+		<term name="Physical examinations"/>
+		<term name="Politics and government"/>
+		<term name="Prosecution"/>
+		<term name="Psychiatry"/>
+		<term name="Rating of employees"/>
+		<term name="Resolution Trust Corporation"/>
+		<term name="Security classification (Government documents)"/>
+		<term name="Subpoena"/>
+		<term name="Surveys"/>
+		<term name="Transfer of employees"/>
+		<term name="Veterans"/>
+		<term name="Veterans' medical care"/>
+		<term name="Waste in government spending"/>
+		<term name="Whistle blowing"/>
+	</subjects>
+	<amendments>
+		<amendment number="s2641"/>
+	</amendments>
+	<summary>
+	10/7/1994--Passed Senate amended. Amends the Whistleblower Protection Act of 1989 (WPA) to extend the authorization of appropriations for the Office of Special Counsel (OSC) and the Merit Systems Protection Board through 1997. Makes miscellaneous and technical amendments to various OSC provisions under WPA, including those regarding OSC administration and powers of disclosure, investigation of prohibited personnel practices and individual rights of action in certain reprisal cases, and OSC reports. Amends Federal law to: (1) provide for the awarding of reasonable attorney fees by agencies to prevailing parties in certain cases; (2) subject to review in whistleblower cases any agency decision to require psychiatric testing or examination of an employee or any other significant change in duties, responsibilities, or working conditions made by the agency; (3) make agency heads responsible for ensuring that their employees are informed of whistleblower rights and remedies; (4) make compliance with merit systems principles a factor in Senior Executive Service performance appraisals; (5) provide for the application of certain merit systems provisions to certain Department of Veterans Affairs personnel; (6) allow corrective actions by the Merit Systems Protection Board to include placing the individual, as nearly as possible, in the position he or she would have been had the prohibited personnel practice not occurred, as well as reimbursement for attorney's fees, back pay and related benefits, medical costs incurred, travel expenses, and any other reasonable and foreseeable consequential damages; (7) provide aggrieved individuals (including, specifically, the employees of the Resolution Trust Corporation and Thrift Depositor Protection Oversight Board) with a choice of remedies with respect to certain prohibited personnel practices; (8) revise the definition of covered position with respect to prohibited personnel practices; and (9) provide that the Civil Service Retirement and Disability Fund is made available for any expenses incurred by the Board in administering Federal retirement appeals. Requires OSC to: (1) issue a policy statement regarding the implementation of WPA; (2) include in any letter terminating an investigation of a prohibited personnel practice the identification of an OSC employee who can respond to questions on the investigation or review; and (3) conduct an annual survey of all individuals who contacted the office for assistance for inclusion in its annual report.
+
+	</summary>
+</bill>

@@ -1,0 +1,68 @@
+<bill session="103" type="h" number="904" updated="2010-10-13T13:50:36-04:00">
+	<state datetime="1993-04-07">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-04-07" /></status>
+
+	<introduced datetime="1993-02-16"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992 with respect to the establishment of the National Commission to Ensure a Strong Competitive Airline Industry.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="402657" joined="1993-02-16"/>
+		<cosponsor id="400146" joined="1993-02-16"/>
+		<cosponsor id="407772" joined="1993-02-16"/>
+		<cosponsor id="400374" joined="1993-02-16"/>
+		<cosponsor id="402325" joined="1993-02-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-16"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-02-22"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Aviation.</text></action>
+		<action datetime="1993-02-22"><committee name="House Committee on Public Works + Transportation"/><text>Subcommittee on Aviation Discharged.</text></action>
+		<action datetime="1993-02-23"><committee name="House Committee on Public Works + Transportation"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-02-23"  state="REPORTED"><committee name="House Committee on Public Works + Transportation"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-03-01T12:25:00-05:00"><text>Reported by the Committee on Public Works + Transportation. H. Rept. 103-22.</text></action>
+		<calendar number="11" datetime="1993-03-01T12:26:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 11.</text></calendar>
+		<action datetime="1993-03-02T13:08:00-05:00"><text>Mr. Oberstar moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-03-02T13:09:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H923-931"/></action>
+		<action datetime="1993-03-02T13:09:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-03-02T13:52:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1993-03-02T15:21:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H948-949"/></action>
+		<vote how="roll" type="vote" roll="44" datetime="1993-03-02T15:27:00-05:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 367 - 43 (Roll no. 44).</text></vote>
+		<action datetime="1993-03-02T15:27:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-03-03"><text>Received in the Senate.</text></action>
+		<calendar under="General Orders" number="22" datetime="1993-03-05" calendar="Senate Legislative" ><text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 22.</text></calendar>
+		<action datetime="1993-03-17"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S3017-3018"/></action>
+		<action datetime="1993-03-17"><text>Senate struck all after the Enacting Clause and substituted the language of S. 366 amended.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-03-17" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate in lieu of S. 366 with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-03-18"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-03-23T12:30:00-05:00"><text>Mr. Oberstar moved that the House suspend the rules and agree to the Senate amendment.</text></action>
+		<action datetime="1993-03-23T12:31:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="pingpong" datetime="1993-03-23T12:52:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.</text><reference label="consideration" ref="CR H1535-1539"/></vote>
+		<action datetime="1993-03-23T12:52:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-03-23" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-03-26" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-04-07" ><text>Signed by President.</text></signed>
+		<enacted number="103-13" type="public" datetime="1993-04-07"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-13.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting" />
+		<committee code="HSPW-05" name="House Public Works and Transportation" subcommittee="Aviation" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="supersedes" session="103" type="s" number="366" />
+		<bill relation="unknown" session="103" type="s" number="366" />
+		<bill relation="unknown" session="103" type="s" number="366" />
+	</relatedbills>
+	<subjects>
+		<term name="Commercial aviation"/>
+		<term name="Airlines"/>
+		<term name="Federal advisory bodies"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/17/1993--Passed Senate amended. Amends the Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992 with respect to the establishment of the National Commission to Ensure a Strong Competitive Airline Industry.
+
+	</summary>
+</bill>

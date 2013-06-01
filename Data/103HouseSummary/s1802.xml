@@ -1,0 +1,37 @@
+<bill session="103" type="s" number="1802" updated="2012-07-17T05:29:03-04:00">
+	<state datetime="1994-01-26">REFERRED</state>
+	<status><introduced datetime="1994-01-26"/></status>
+
+	<introduced datetime="1994-01-26"/>
+	<titles>
+		<title type="official" as="introduced">A bill for the relief of Johnson Chestnut Whittaker.</title>
+	</titles>
+	<sponsor id="300053"/>
+	<cosponsors>
+		<cosponsor id="400564" joined="1994-04-13"/>
+		<cosponsor id="300066" joined="1994-03-11"/>
+		<cosponsor id="300099" joined="1994-02-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-01-26" state="REFERRED"><text>Read twice and referred to the Committee on Armed Services.</text></action>
+		<action datetime="1994-02-04"><text>Sponsor introductory remarks on measure. (CR S946)</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Military personnel"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1994--Introduced.
+Urges and requests the President to appoint posthumously a named individual as a commissioned officer in the Army as recompense for his unjust separation from the Army and Corps of Cadets of the U.S. Military Academy.
+
+	</summary>
+</bill>

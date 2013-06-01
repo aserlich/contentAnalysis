@@ -1,0 +1,44 @@
+<bill session="103" type="s" number="1060" updated="2012-07-17T05:35:35-04:00">
+	<state datetime="1993-05-28">REFERRED</state>
+	<status><introduced datetime="1993-05-28"/></status>
+
+	<introduced datetime="1993-05-28"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide a tax credit to businesses which mine metallurgical coal and are required to make contributions to the UMWA Combined Benefit Fund created by the Energy Policy Act of 1992.</title>
+	</titles>
+	<sponsor id="400564"/>
+	<cosponsors>
+		<cosponsor id="300099" joined="1993-05-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-28" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1443" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Business income tax"/>
+		<term name="Coal"/>
+		<term name="Employee health benefits"/>
+		<term name="Energy policy"/>
+		<term name="Health"/>
+		<term name="Health insurance"/>
+		<term name="Insurance premiums"/>
+		<term name="Iron and steel industry"/>
+		<term name="Metallurgy"/>
+		<term name="Minimum tax"/>
+		<term name="Tax credits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/28/1993--Introduced.
+Amends the Internal Revenue Code to allow a general business credit for metallurgical coal mining. Declares such credit to consist of: (1) the lesser of a percentage of coal industry health benefit premiums; or (2) a percentage of the sale of metallurgical coal. Allows such credit to offset a percentage of the minimum tax.
+
+	</summary>
+</bill>

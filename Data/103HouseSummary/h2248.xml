@@ -1,0 +1,38 @@
+<bill session="103" type="h" number="2248" updated="2010-04-19T05:02:25-04:00">
+	<state datetime="1993-05-25">REFERRED</state>
+	<status><introduced datetime="1993-05-25"/></status>
+
+	<introduced datetime="1993-05-25"/>
+	<titles>
+		<title type="official" as="introduced">To provide that petitioners for immigration classification on the basis of immediate relative status to a citizen shall be required to pay only one fee when such petitions are filed at the same time.</title>
+	</titles>
+	<sponsor id="403545"/>
+	<cosponsors>
+		<cosponsor id="400192" joined="1993-06-10"/>
+		<cosponsor id="408476" joined="1993-06-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-25"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Families"/>
+		<term name="Fees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/25/1993--Introduced.
+Amends the Immigration anden petitioning for immediate relative status for an alien to pay only one fee if several such petitions are filed at the same time.
+
+	</summary>
+</bill>

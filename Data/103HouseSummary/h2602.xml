@@ -1,0 +1,122 @@
+<bill session="103" type="h" number="2602" updated="2010-04-19T05:57:15-04:00">
+	<state datetime="1993-07-01">REFERRED</state>
+	<status><introduced datetime="1993-07-01"/></status>
+
+	<introduced datetime="1993-07-01"/>
+	<titles>
+		<title type="short" as="introduced">Immigration Enforcement and Asylum Reform Act of 1993</title>
+		<title type="official" as="introduced">To amend the Immigration and Nationality Act to improve immigration enforcement and anti-smuggling activities, to reform the asylum law, and to authorize appropriations for the Immigration and Naturalization Service.</title>
+	</titles>
+	<sponsor id="407306"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-07-27"/>
+		<cosponsor id="400509" joined="1993-07-27"/>
+		<cosponsor id="400149" joined="1993-11-22"/>
+		<cosponsor id="400596" joined="1993-07-01"/>
+		<cosponsor id="400183" joined="1993-10-14"/>
+		<cosponsor id="400023" joined="1993-07-26"/>
+		<cosponsor id="405775" joined="1993-07-27"/>
+		<cosponsor id="400510" joined="1993-08-04"/>
+		<cosponsor id="400122" joined="1993-09-08"/>
+		<cosponsor id="400348" joined="1993-09-27"/>
+		<cosponsor id="400091" joined="1993-07-20"/>
+		<cosponsor id="400154" joined="1993-07-26"/>
+		<cosponsor id="400388" joined="1993-09-08"/>
+		<cosponsor id="400574" joined="1993-07-20"/>
+		<cosponsor id="300087" joined="1993-07-01"/>
+		<cosponsor id="400307" joined="1993-07-21"/>
+		<cosponsor id="408556" joined="1993-08-03"/>
+		<cosponsor id="400370" joined="1993-09-21"/>
+		<cosponsor id="400365" joined="1993-09-09"/>
+		<cosponsor id="400192" joined="1993-07-27"/>
+		<cosponsor id="400585" joined="1993-07-28"/>
+		<cosponsor id="400524" joined="1993-07-22"/>
+		<cosponsor id="400143" joined="1993-07-27"/>
+		<cosponsor id="400316" joined="1993-07-26"/>
+		<cosponsor id="400387" joined="1993-07-20"/>
+		<cosponsor id="400144" joined="1993-07-13"/>
+		<cosponsor id="400533" joined="1993-07-13"/>
+		<cosponsor id="406729" joined="1993-07-26"/>
+		<cosponsor id="411065" joined="1993-07-22"/>
+		<cosponsor id="400057" joined="1993-11-02"/>
+		<cosponsor id="400560" joined="1993-10-26"/>
+		<cosponsor id="407817" joined="1993-07-21"/>
+		<cosponsor id="400399" joined="1993-10-28"/>
+		<cosponsor id="401153" joined="1993-07-29"/>
+		<cosponsor id="406082" joined="1993-08-06"/>
+		<cosponsor id="401310" joined="1993-07-20"/>
+		<cosponsor id="406605" joined="1993-07-22"/>
+		<cosponsor id="400536" joined="1993-08-06"/>
+		<cosponsor id="404602" joined="1993-07-30"/>
+		<cosponsor id="405524" joined="1993-07-21"/>
+		<cosponsor id="402152" joined="1994-01-26"/>
+		<cosponsor id="400012" joined="1993-08-02"/>
+		<cosponsor id="400283" joined="1993-07-13"/>
+		<cosponsor id="401081" joined="1993-07-22"/>
+		<cosponsor id="407044" joined="1993-07-26"/>
+		<cosponsor id="407669" joined="1993-09-21"/>
+		<cosponsor id="406790" joined="1993-09-21"/>
+		<cosponsor id="400369" joined="1993-07-14"/>
+		<cosponsor id="401774" joined="1993-10-13"/>
+		<cosponsor id="400435" joined="1993-07-27"/>
+		<cosponsor id="300058" joined="1993-10-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-01"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-07-08"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1993-07-21"><committee name="House Committee on Judiciary"/><text>Sponsor introductory remarks on measure. (CR H4863)</text></action>
+		<action datetime="1993-10-20"><committee name="House Committee on Judiciary" subcommittee="International Law, Immigration, and Refugees"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Judiciary" subcommittee="International Law, Immigration, and Refugees"/><text>Clean Bill, H.R. 3363 Forwarded by Subcommittee to Full Committee in Lieu.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral, Markup" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3363" />
+		<bill relation="identical" session="103" type="s" number="1358" />
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Administrative fees"/>
+		<term name="Administrative remedies"/>
+		<term name="Airline employees"/>
+		<term name="Airline passenger traffic"/>
+		<term name="Airlines"/>
+		<term name="Airports"/>
+		<term name="Alien labor"/>
+		<term name="Aliens"/>
+		<term name="Authorization"/>
+		<term name="Boundaries"/>
+		<term name="Citizenship"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Counterfeiting"/>
+		<term name="Crime and criminals"/>
+		<term name="Department of Justice"/>
+		<term name="Deportation"/>
+		<term name="Employee training"/>
+		<term name="Executive departments"/>
+		<term name="Federal employees"/>
+		<term name="Fraud"/>
+		<term name="Government paperwork"/>
+		<term name="Habeas corpus"/>
+		<term name="Illegal aliens"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Jurisdiction"/>
+		<term name="Law enforcement officers"/>
+		<term name="Passports"/>
+		<term name="Political persecution"/>
+		<term name="Political refugees"/>
+		<term name="Right of asylum"/>
+		<term name="Smuggling"/>
+		<term name="Visas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/1/1993--Introduced.
+TABLE OF CONTENTS: Title I: Smuggling and Fraud Title II: Asylum Title III: Inspections Title IV: Authorization of Appropriations for the Immigration and Naturalization Service Immigration Enforcement and Asylum Reform Act of 1993 - Title I: Smuggling and Fraud - Amends the Immigration and Nationality Act to provide expedited exclusion procedures for aliens who arrive without proper documentation or who are determined by a special asylum officer not to have a proper claim of asylum (based upon a credible fear of persecution). Limits judicial review to habeas corpus. Increases penalties for certain alien smuggling offenses. Extends penalties to persons who contract to bring in illegal labor. Treats smuggling as an aggravated felony. Title II: Asylum - Revises asylum procedures. Sets forth mandatory and discretionary conditions for granting provisional asylum. Establishes new application deadlines. States that asylum applications shall be determined by specially trained asylum officers. Terminates an alien's claim for failure to appear at the application hearing. Title III: Inspections - Directs the Attorney General to establish: (1) specified numbers of preinspection stations at foreign airports identified as last departure points for the greatest numbers of U.S.-arriving passengers and at those with the greatest numbers of U.S.-arriving undocumented aliens (and to assign additional immigration officers at such airports without preinspection stations); and (2) an expedited inspection process for U.S. citizens returning by air from abroad. Revises the pilot visa waiver program to: (1) make it permanent; (2) repeal certain paperwork requirements; (3) subject participants to exclusion or deportation without appeal (except for an asylum claim); and (4) require carriers to distribute program information to passengers. Provides for the training of airline personnel in detection of fraudulent documents. Title IV: Authorization of Appropriations for the Immigration and Naturalization Service - Authorizes appropriations for the Border Patrol.
+
+	</summary>
+</bill>

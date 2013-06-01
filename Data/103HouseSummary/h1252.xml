@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="1252" updated="2010-04-19T02:25:37-04:00">
+	<state datetime="1993-03-09">REFERRED</state>
+	<status><introduced datetime="1993-03-09"/></status>
+
+	<introduced datetime="1993-03-09"/>
+	<titles>
+		<title type="official" as="introduced">To repeal title X of the Congressional Budget and Impoundment Control Act of 1974.</title>
+	</titles>
+	<sponsor id="300014"/>
+	<cosponsors>
+		<cosponsor id="410147" joined="1993-04-01"/>
+		<cosponsor id="400015" joined="1993-04-01"/>
+		<cosponsor id="300097" joined="1993-04-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-09"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-03-09"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-03-11"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Congressional budget"/>
+		<term name="Congressional budget process"/>
+		<term name="Executive impoundment of appropriated funds"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/9/1993--Introduced.
+Repeals the Impoundment Control Act of 1974 (title X of the Congressional Budget and Impoundment Control Act of 1974).
+
+	</summary>
+</bill>

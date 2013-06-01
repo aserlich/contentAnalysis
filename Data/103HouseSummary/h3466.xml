@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="3466" updated="2010-04-19T08:11:07-04:00">
+	<state datetime="1993-11-08">REFERRED</state>
+	<status><introduced datetime="1993-11-08"/></status>
+
+	<introduced datetime="1993-11-08"/>
+	<titles>
+		<title type="short" as="introduced">Juvenile Handgun Safety Act of 1993</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, to prohibit the possession of a handgun or handgun ammunition by, or the private transfer of a handgun or handgun ammunition to, a juvenile.</title>
+	</titles>
+	<sponsor id="400300"/>
+	<cosponsors>
+		<cosponsor id="401134" joined="1994-06-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-08"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-11-16"><committee name="House Committee on Judiciary"/><text>See H.R.3098.</text></action>
+		<action datetime="1993-11-16"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3098" />
+	</relatedbills>
+	<subjects>
+		<term name="Firearms"/>
+		<term name="Ammunition"/>
+		<term name="Children"/>
+		<term name="Crime and criminals"/>
+		<term name="Criminal justice"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Firearms control"/>
+		<term name="Juvenile delinquency"/>
+		<term name="Juvenile delinquents"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/8/1993--Introduced.
+Juvenile Handgun Safety Act of 1993 - Amends the Federal criminal code to prohibit: (1) the sale, delivery, or transfer to a juvenile of a handgun or ammunition that is suitable for use only in a handgun; and (2) the possession by a juvenile of a handgun or such ammunition. Makes exceptions with respect to a transfer to, or possession by, a juvenile: (1) for target practice, hunting, competition, or a course of instruction in the safe use of a handgun under adult supervision, under specified conditions; (2) if the transfer occurs with the permission of a parent, grandparent, or legal guardian of the juvenile; and (3) in accordance with State and local law. Sets penalties for violations of this Act.
+
+	</summary>
+</bill>

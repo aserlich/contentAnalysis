@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="815" updated="2010-04-19T01:11:45-04:00">
+	<state datetime="1993-02-04">REFERRED</state>
+	<status><introduced datetime="1993-02-04"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to restore and increase tax deduction for the health insurance costs of self-employed individuals.</title>
+	</titles>
+	<sponsor id="400568"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Health insurance"/>
+		<term name="Insurance premiums"/>
+		<term name="Medical care"/>
+		<term name="Self-employed"/>
+		<term name="Tax deductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Amends Internal Revenue Code provisions governing the income tax deduction for the health insurance costs of self-employed individuals to: (1) make the deduction permanent; and (2) phase in an increase in the allowable deduction, reaching 100 percent for taxable years beginning in 1998 and thereafter.
+
+	</summary>
+</bill>

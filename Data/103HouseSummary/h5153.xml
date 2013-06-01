@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="5153" updated="2010-04-19T12:34:31-04:00">
+	<state datetime="1994-09-30">REFERRED</state>
+	<status><introduced datetime="1994-09-30"/></status>
+
+	<introduced datetime="1994-09-30"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for an open enrollment period under part B of the medicare program for individuals formerly covered as retirees under group health plans of local educational agencies.</title>
+	</titles>
+	<sponsor id="400387"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-30"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-09-30"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-10-24"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Government employees"/>
+		<term name="Government employees' health insurance"/>
+		<term name="Health policy"/>
+		<term name="Local officials and employees"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Retiree health benefits"/>
+		<term name="School personnel"/>
+		<term name="State and local government"/>
+		<term name="Teachers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/1994--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to provide a special open enrollment period under part B for certain individuals enrolled in a group health plan by reason of the individual's or the individual's spouse's current or former employment with a local educational agency.
+
+	</summary>
+</bill>

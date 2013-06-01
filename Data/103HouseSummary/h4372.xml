@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="4372" updated="2010-04-19T10:32:29-04:00">
+	<state datetime="1994-05-10">REFERRED</state>
+	<status><introduced datetime="1994-05-10"/></status>
+
+	<introduced datetime="1994-05-10"/>
+	<titles>
+		<title type="short" as="introduced">Social Security Eligibility Act of 1994</title>
+		<title type="official" as="introduced">To amend title II of the Social Security Act to provide for a phased-in 5-year increase in the age for eligibility for OASDI benefits by the year 2013.</title>
+	</titles>
+	<sponsor id="408618"/>
+	<cosponsors>
+		<cosponsor id="406768" joined="1994-05-10"/>
+		<cosponsor id="407153" joined="1994-05-10"/>
+		<cosponsor id="400269" joined="1994-05-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-10"><text>Sponsor introductory remarks on measure. (CR E881)</text></action>
+		<action datetime="1994-05-10"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-05-16"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on Ways and Means" subcommittee="Social Security"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Aged"/>
+		<term name="Early retirement"/>
+		<term name="Labor"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Retirement"/>
+		<term name="Social security eligibility"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/10/1994--Introduced.
+Social Security Eligibility Act of 1994 - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) to increase the retirement age for OASDI benefits to age 67 by the year 2004 and to age 70 by the year 2013.
+
+	</summary>
+</bill>

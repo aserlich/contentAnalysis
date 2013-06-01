@@ -1,0 +1,112 @@
+<bill session="103" type="h" number="4908" updated="2010-04-19T11:56:37-04:00">
+	<state datetime="1994-08-19T14:08:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-08-19T14:08:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-08-05"/>
+	<titles>
+		<title type="short" as="introduced">Hydrogen, Fusion, and High Energy and Nuclear Physics Research Act of 1994</title>
+		<title type="short" as="introduced">Department of Energy High Energy and Nuclear Physics Authorization Act of 1994</title>
+		<title type="short" as="introduced">Hydrogen Future Act of 1994</title>
+		<title type="short" as="passed house">Hydrogen, Fusion, and High Energy and Nuclear Physics Research Act of 1994</title>
+		<title type="short" as="passed house">Department of Energy High Energy and Nuclear Physics Authorization Act of 1994</title>
+		<title type="short" as="passed house">Hydrogen Future Act of 1994</title>
+		<title type="official" as="introduced">To authorize the hydrogen and fusion research, development, and demonstration programs, and the high energy physics and nuclear physics programs of the Department of Energy, and for other purposes.</title>
+	</titles>
+	<sponsor id="406873"/>
+	<cosponsors>
+		<cosponsor id="411247" joined="1994-08-05"/>
+		<cosponsor id="400035" joined="1994-08-05"/>
+		<cosponsor id="400572" joined="1994-08-05"/>
+		<cosponsor id="400043" joined="1994-08-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-05"><text>Sponsor introductory remarks on measure. (CR E1658)</text></action>
+		<action datetime="1994-08-05"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1994-08-05T15:04:00-04:00"><text>The House Committee on Science, Space and Technology reported an original measure, H. Rept. 103-674, by Mr. Brown (CA).</text></action>
+		<calendar datetime="1994-08-05T15:05:00-04:00"  state="REPORTED"><text>Placed on the Union Calendar, Calendar No. 365.</text></calendar>
+		<action datetime="1994-08-10T21:47:00-04:00"><text>Rules Committee Resolution H. Res. 515 Reported to House. Rule provides for consideration of H.R. 4908 with 1 hour of general debate. Previous question shall be considered as ordered except motion to recommit. Measure will be read by title. Bill is open to amendments.</text></action>
+		<action datetime="1994-08-19T11:07:00-04:00"><text>Rule H. Res. 515 passed House.</text></action>
+		<action datetime="1994-08-19T11:09:00-04:00"><text>Considered under the provisions of rule H. Res. 515.</text><reference label="consideration" ref="CR H8707-8726"/></action>
+		<action datetime="1994-08-19T11:09:00-04:00"><text>Rule provides for consideration of H.R. 4908 with 1 hour of general debate. Previous question shall be considered as ordered except motion to recommit. Measure will be read by title. Bill is open to amendments.</text></action>
+		<action datetime="1994-08-19T11:09:00-04:00"><text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 515 and Rule XXIII.</text></action>
+		<action datetime="1994-08-19T11:09:00-04:00"><text>The Speaker designated the Honorable John Olver to act as Chairman of the Committee.</text></action>
+		<action datetime="1994-08-19T11:10:00-04:00"><text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate.</text></action>
+		<action datetime="1994-08-19T14:00:00-04:00"><text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4908.</text></action>
+		<action datetime="1994-08-19T14:00:00-04:00"><text>The previous question was ordered pursuant to the rule.</text></action>
+		<action datetime="1994-08-19T14:00:00-04:00"><text>The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-08-19T14:08:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed by voice vote.</text></vote>
+		<action datetime="1994-08-19T14:08:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<calendar under="General Orders" number="600" datetime="1994-08-23" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 600.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Origin, Reporting, Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="103" type="hr" number="515" />
+		<bill relation="unknown" session="103" type="h" number="4553" />
+	</relatedbills>
+	<subjects>
+		<term name="Energy law and legislation"/>
+		<term name="Alternative energy sources"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cost effectiveness"/>
+		<term name="Economic impact statements"/>
+		<term name="Economic policy"/>
+		<term name="Education"/>
+		<term name="Electric power production"/>
+		<term name="Electric vehicles"/>
+		<term name="Energy"/>
+		<term name="Energy efficiency"/>
+		<term name="Energy policy"/>
+		<term name="Energy research"/>
+		<term name="Energy storage"/>
+		<term name="Energy supplies"/>
+		<term name="Europe"/>
+		<term name="Executive departments"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Federal aid to research"/>
+		<term name="Foreign policy"/>
+		<term name="Higher education"/>
+		<term name="Hydrogen as fuel"/>
+		<term name="International affairs"/>
+		<term name="International agencies"/>
+		<term name="International cooperation in science"/>
+		<term name="Laboratories"/>
+		<term name="Metals"/>
+		<term name="Motor vehicles"/>
+		<term name="Negotiations"/>
+		<term name="Nuclear energy research"/>
+		<term name="Nuclear engineering"/>
+		<term name="Nuclear facilities"/>
+		<term name="Nuclear fuels"/>
+		<term name="Nuclear fusion"/>
+		<term name="Nuclear physics"/>
+		<term name="Nuclear reactors"/>
+		<term name="Nuclear research"/>
+		<term name="Public contracts"/>
+		<term name="Research and development"/>
+		<term name="Science policy"/>
+		<term name="Technological innovations"/>
+		<term name="Technology"/>
+		<term name="Technology transfer"/>
+		<term name="Test facilities"/>
+		<term name="Transportation"/>
+		<term name="Treaties"/>
+	</subjects>
+	<amendments>
+		<amendment number="h854"/>
+		<amendment number="h855"/>
+		<amendment number="h856"/>
+		<amendment number="h857"/>
+		<amendment number="h858"/>
+		<amendment number="h859"/>
+	</amendments>
+	<summary>
+	8/19/1994--Passed House amended. TABLE OF CONTENTS: Title I: Hydrogen Energy Research Program Title II: Fusion Energy Research Program Title III: High Energy and Nuclear Physics Title IV: Miscellaneous Provisions Hydrogen, Fusion, and High Energy and Nuclear Physics Research Act of 1994 - Title I: Hydrogen Energy Research Program - Hydrogen Future Act of 1994 - Directs the Secretary of Energy to support specified hydrogen research, development, and demonstration programs, in the areas of: (1) production; (2) storage; (3) use; (4) transportation; (5) innovative technologies; and (6) technology transfer. Requires non-Federal cost sharing for research and development programs and demonstration projects. Exempts highly innovative technology programs from such requirement. (Sec. 110) Authorizes FY 1995 through 1998 appropriations. Limits related authorizations of appropriations for each of such fiscal years for Energy Supply Research and Development activities. Title II: Fusion Energy Research Program - Directs the Secretary to carry out a Fusion Energy Research Program consisting of activities related to: (1) magnetic fusion energy technology; (2) alternative fusion concepts; and (3) the International Thermonuclear Experimental Reactor (ITER). (Sec. 204) Directs the Secretary to contract with the National Academy of Sciences for studies of: (1) fusion technologies; and (2) other energy sources, including deuterated metal. (Sec. 206) Directs the Secretary to study the advantages and disadvantages (including cost estimates) of siting ITER within or outside the United States. (Sec. 208) Authorizes FY 1995 through 1997 appropriations for programs of fusion energy and alternative energy research. Authorizes specified appropriations through FY 2000 for the Tokamak Physics Experiment from the Fusion Energy Research Program. Provides no funds for ITER, nor for any magnetic fusion facility other than ITER and related facilities, and the Tokamak Physics Experiment. Stipulates that this prohibition shall not apply to the design or engineering of fusion materials irradiation test facilities. Title III: High Energy and Nuclear Physics - Department of Energy High Energy and Nuclear Physics Authorization Act of 1994 - Authorizes FY 1996 through 1999 appropriations for Department of Energy programs of: (1) high energy physics; and (2) nuclear physics. Limits related major construction projects. (Sec. 304) Directs the Secretary to enter into negotiations with the European organization for Nuclear Research (CERN) concerning U.S. participation in the Large Hadron Collider project. (Sec. 305) Requires the Secretary to submit an operating plan to the appropriate committees. (Sec. 306) Directs the Secretary to contract for an independent review of the high energy and nuclear physics programs. Title IV: Miscellaneous Provisions - Directs the Secretary to combine the Nuclear Engineering Research and Education program, the University Research Reactor program, and the University Reactor Fuel Assistance program into a new University Radiation Science and Technology program as a separate part of the University and Science Education program. Authorizes FY 1995 through 1997 appropriations. (Sec. 403) Requires an annual foreign participation report. (Sec. 403 (sic)) Prohibits financial assistance awards without a prior merit review process.
+
+	</summary>
+</bill>

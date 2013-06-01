@@ -1,0 +1,41 @@
+<bill session="103" type="s" number="1265" updated="2012-07-17T06:11:28-04:00">
+	<state datetime="1993-07-20">REFERRED</state>
+	<status><introduced datetime="1993-07-20"/></status>
+
+	<introduced datetime="1993-07-20"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Export Administration Act of 1979 to extend indefinitely the current provisions governing the export of certain domestically produced crude oil.</title>
+	</titles>
+	<sponsor id="300076"/>
+	<cosponsors>
+		<cosponsor id="406084" joined="1994-02-02"/>
+		<cosponsor id="405212" joined="1993-07-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-20" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S9076-9077)</text></action>
+		<action datetime="1993-07-20" state="REFERRED"><text>Read twice and referred to the Committee on Banking.</text></action>
+		<action datetime="1994-03-16"><committee name="Committee on Banking"/><text>Subcommittee on International Finance (Banking). Hearings held. Hearings printed: S.Hrg. 103-505.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="SSBK-5" name="Senate Banking, Housing, and Urban Affairs" subcommittee="International Finance and Monetary Policy" activity="Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Alaska"/>
+		<term name="Energy policy"/>
+		<term name="Export controls"/>
+		<term name="Petroleum"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/20/1993--Introduced.
+Amends the Export Administration Act of 1979 to extend indefinitely the restrictions on the export of Alaskan North Slope oil.
+
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="716" updated="2010-04-19T00:54:52-04:00">
+	<state datetime="1993-02-02">REFERRED</state>
+	<status><introduced datetime="1993-02-02"/></status>
+
+	<introduced datetime="1993-02-02"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 31, United States Code, to establish an interest penalty for failure to make prompt payments under service contracts with small business concerns.</title>
+	</titles>
+	<sponsor id="400140"/>
+	<cosponsors>
+		<cosponsor id="400524" joined="1994-05-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-02"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public contracts"/>
+		<term name="Government contractors"/>
+		<term name="Government service contracts"/>
+		<term name="Interest"/>
+		<term name="Small business"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1993--Introduced.
+Provides that in the case of a failure to make a payment under a Federal service contract with a small business concern by the payment due date, the interest penalty shall be paid without regard to whether such concern is obligated to provide property or services after the required payment date.
+
+	</summary>
+</bill>

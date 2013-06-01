@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="120" updated="2010-04-18T23:18:47-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To provide that funds appropriated to the Department of Defense may not be used to purchase articles of packaged food not packaged in the United States or its possessions.</title>
+	</titles>
+	<sponsor id="402763"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Readiness.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1993-08-30"><committee name="House Committee on Armed Services"/><text>Unfavorable Executive Comment Received from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-03" name="House Armed Services" subcommittee="Readiness" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Buy American"/>
+		<term name="Defense budgets"/>
+		<term name="Defense procurement"/>
+		<term name="Food"/>
+		<term name="Food industry"/>
+		<term name="Foreign trade"/>
+		<term name="Packaging"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Prohibits funds appropriated to the Department of Defense from being used to purchase packaged food that was not packaged in the United States or its possessions.
+
+	</summary>
+</bill>

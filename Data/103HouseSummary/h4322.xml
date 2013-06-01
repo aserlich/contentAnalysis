@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="4322" updated="2010-04-19T10:24:45-04:00">
+	<state datetime="1994-07-22">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-07-22" /></status>
+
+	<introduced datetime="1994-05-02"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Small Business Act to increase the authorization for the development company program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400537"/>
+	<cosponsors>
+		<cosponsor id="407669" joined="1994-05-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-02"><text>Referred to the House Committee on Small Business.</text></action>
+		<action datetime="1994-05-04"><committee name="House Committee on Small Business"/><text>Committee Hearings Held.</text></action>
+		<action datetime="1994-06-24"><committee name="House Committee on Small Business"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-06-24"  state="REPORTED"><committee name="House Committee on Small Business"/><text>Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 19.</text></calendar>
+		<action datetime="1994-06-30T11:46:00-04:00"><text>Reported (Amended) by the Committee on Small Business. H. Rept. 103-572.</text></action>
+		<calendar number="318" datetime="1994-06-30T11:47:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 318.</text></calendar>
+		<action datetime="1994-07-19T12:45:00-04:00"><text>Mr. LaFalce moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-07-19T12:47:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5784-5785"/></action>
+		<action datetime="1994-07-19T12:47:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-07-19T12:55:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-07-19T12:55:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-07-20" where="s" result="pass"  state="PASSED:BILL"><text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S9332"/></vote>
+		<topresident datetime="1994-07-20" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-07-21"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-07-22" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-07-22" ><text>Signed by President.</text></signed>
+		<enacted number="103-282" type="public" datetime="1994-07-22"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-282.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSSM" name="House Small Business" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Small business"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Disaster loans"/>
+		<term name="Emergency management"/>
+		<term name="Executive departments"/>
+		<term name="Federal employees"/>
+		<term name="Finance"/>
+		<term name="Government employees"/>
+		<term name="Government lending"/>
+		<term name="Small Business Administration"/>
+		<term name="Travel costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/19/1994--Passed House amended. Amends the Small Business Act to: (1) increase from $1.2 billion to $1.5 billion the authorization of appropriations for the development company program administered by the Small Business Administration (SBA); (2) increase by a corresponding amount the total amount authorized generally for SBA loans; and (3) authorize the SBA Administrator to extend for an additional six months the authorized period for payment of travel expenses of SBA personnel performing disaster loan-making activities.
+
+	</summary>
+</bill>

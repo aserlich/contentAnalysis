@@ -1,0 +1,71 @@
+<bill session="103" type="h" number="4955" updated="2010-04-19T12:04:00-04:00">
+	<state datetime="1994-08-12">REFERRED</state>
+	<status><introduced datetime="1994-08-12"/></status>
+
+	<introduced datetime="1994-08-12"/>
+	<titles>
+		<title type="short" as="introduced">War Crimes Disclosure Act</title>
+		<title type="official" as="introduced">To amend title 5, United States Code, and the National Security Act of 1947 to require disclosure under the Freedom of Information Act of information regarding certain individuals who participated in Nazi war crimes during the period in which the United States was involved in World War II.</title>
+	</titles>
+	<sponsor id="400251"/>
+	<cosponsors>
+		<cosponsor id="400289" joined="1994-08-12"/>
+		<cosponsor id="404083" joined="1994-10-05"/>
+		<cosponsor id="400246" joined="1994-08-12"/>
+		<cosponsor id="300087" joined="1994-08-26"/>
+		<cosponsor id="400143" joined="1994-09-13"/>
+		<cosponsor id="400359" joined="1994-08-12"/>
+		<cosponsor id="404375" joined="1994-10-07"/>
+		<cosponsor id="407772" joined="1994-10-05"/>
+		<cosponsor id="411947" joined="1994-08-26"/>
+		<cosponsor id="300156" joined="1994-10-07"/>
+		<cosponsor id="400081" joined="1994-08-12"/>
+		<cosponsor id="400357" joined="1994-10-05"/>
+		<cosponsor id="400310" joined="1994-08-12"/>
+		<cosponsor id="400240" joined="1994-10-05"/>
+		<cosponsor id="400025" joined="1994-10-05"/>
+		<cosponsor id="400425" joined="1994-08-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-12"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-08-12"><text>Referred to the House Committee on Intelligence (Permanent).</text></action>
+		<action datetime="1994-08-12"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-08-16"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Information, Justice, Transportation and Agriculture.</text></action>
+		<action datetime="1994-08-16"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Information, Justice, Transportation, and Agriculture" activity="Referral" />
+		<committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, In Committee" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Information services"/>
+		<term name="Aliens"/>
+		<term name="Civil liberties"/>
+		<term name="Criminal justice"/>
+		<term name="Data banks"/>
+		<term name="Europe"/>
+		<term name="Freedom of information"/>
+		<term name="Government information"/>
+		<term name="Immigration"/>
+		<term name="International affairs"/>
+		<term name="National socialism"/>
+		<term name="Politics and government"/>
+		<term name="Technology"/>
+		<term name="War crimes"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/12/1994--Introduced.
+War Crimes Disclosure Act - Requires disclosure under provisions of the Freedom of Information Act of any matter that relates to any individual who is listed in a Watch List as a participant in Nazi war crimes. Provides disclosure exceptions, such as for the protection of intelligence agents and informants or for compelling national security reasons. Requires disclosure of information that can be reasonably separated from excepted information. Amends the National Security Act of 1947 to provide that the exemption from public disclosure authorized under such Act for operational files of the Central Intelligence Agency shall not apply to information regarding Nazi war crimes participants.
+
+	</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="3211" updated="2010-04-19T07:31:35-04:00">
+	<state datetime="1993-10-05">REFERRED</state>
+	<status><introduced datetime="1993-10-05"/></status>
+
+	<introduced datetime="1993-10-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for a temporary delay in the requirement to pay certain premiums under the Coal Industry Retiree Health Benefit Act of 1992.</title>
+	</titles>
+	<sponsor id="408725"/>
+	<cosponsors>
+		<cosponsor id="400058" joined="1993-10-06"/>
+		<cosponsor id="400882" joined="1993-10-05"/>
+		<cosponsor id="400261" joined="1993-10-05"/>
+		<cosponsor id="408556" joined="1993-10-05"/>
+		<cosponsor id="400567" joined="1993-10-05"/>
+		<cosponsor id="400188" joined="1993-10-05"/>
+		<cosponsor id="400205" joined="1993-10-05"/>
+		<cosponsor id="400201" joined="1993-10-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-05"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-10-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-10-05"><committee name="House Committee on Ways and Means"/><text>Hearing Held on Issue Prior to Introduction and Referral (Sep 9, 93).</text></action>
+		<action datetime="1993-10-06"><committee name="House Committee on Ways and Means"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-10-22"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor Standards, Occupational Health and Safety.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, Hearings, Markup, In Committee" />
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-10" name="House Education and Labor" subcommittee="Labor Standards, Occupational Health and Safety" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor"/>
+		<term name="Coal"/>
+		<term name="Employee health benefits"/>
+		<term name="Health policy"/>
+		<term name="Insurance premiums"/>
+		<term name="Labor union finances"/>
+		<term name="Medical care"/>
+		<term name="Retiree health benefits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/5/1993--Introduced.
+Amends the Internal Revenue Code to temporarily defer the payment of premiums to the United Mine Workers of America Combined Benefit Fund.
+
+	</summary>
+</bill>

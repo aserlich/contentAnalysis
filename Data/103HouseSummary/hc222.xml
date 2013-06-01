@@ -1,0 +1,57 @@
+<bill session="103" type="hc" number="222" updated="2010-04-18T21:35:40-04:00">
+	<state datetime="1994-06-21">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1994-06-21" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-03-11"/>
+	<titles>
+		<title type="official" as="introduced">Authorizing the placement of a bust of Raoul Wallenberg in the Capitol.</title>
+	</titles>
+	<sponsor id="409400"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-11"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1994-03-15"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Libraries and Memorials.</text></action>
+		<action datetime="1994-04-13"><committee name="House Committee on House Administration" subcommittee="Libraries and Memorials"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-04-13"><committee name="House Committee on House Administration" subcommittee="Libraries and Memorials"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1994-04-18T12:31:00-04:00"><committee name="House Committee on House Administration"/><text>Mr. Rose moved to suspend the rules and agree to the resolution.</text></action>
+		<action datetime="1994-04-18T12:32:00-04:00"><committee name="House Committee on House Administration"/><text>Considered under suspension of the rules. (CR H2377-2380)</text></action>
+		<action datetime="1994-04-18T12:32:00-04:00"><committee name="House Committee on House Administration"/><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-04-18T12:46:00-04:00"><committee name="House Committee on House Administration"/><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1994-04-18T17:41:00-04:00"><committee name="House Committee on House Administration"/><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2385-2386"/></action>
+		<vote how="roll" type="vote" roll="114" datetime="1994-04-18T17:57:00-04:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><committee name="House Committee on House Administration"/><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 358 - 0 (Roll no. 114).</text></vote>
+		<action datetime="1994-04-18T17:57:00-04:00"><committee name="House Committee on House Administration"/><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-04-19"><committee name="House Committee on House Administration"/><text>Received in the Senate and referred to the Committee on Rules.</text></action>
+		<calendar datetime="1994-06-09" ><committee name="Committee on Rules" subcommittee="Libraries and Memorials"/><text>Committee on Rules. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-06-15"><committee name="Committee on Rules"/><text>Committee on Rules. Reported to Senate by Senator Ford without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="466" datetime="1994-06-15" calendar="Senate Legislative" ><committee name="Committee on Rules"/><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 466.</text></calendar>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-06-21" where="s" result="pass"  state="PASSED:CONCURRENTRES"><committee name="Committee on Rules"/><text>Resolution agreed to in Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S7268"/></vote>
+		<action datetime="1994-06-23"><committee name="Committee on Rules"/><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral" />
+		<committee code="" name="House Administration" subcommittee="Libraries and Memorials" activity="Referral, Markup, Reporting" />
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public buildings"/>
+		<term name="Capitol (Washington, D.C.)"/>
+		<term name="Commemorations"/>
+		<term name="Congress"/>
+		<term name="Congressional tributes"/>
+		<term name="Hungary"/>
+		<term name="Jewish holocaust (1939-1945)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/1994--Introduced.
+Authorizes the Joint Committee on the Library to accept and place a bust of Raoul Wallenberg in the Capitol.
+
+	</summary>
+</bill>

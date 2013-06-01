@@ -1,0 +1,63 @@
+<bill session="103" type="h" number="1102" updated="2012-07-17T04:56:32-04:00">
+	<state datetime="1993-10-12T14:22:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-10-12T14:22:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="short" as="introduced">Court Arbitration Authorization Act of 1993</title>
+		<title type="short" as="passed house">Court Arbitration Authorization Act of 1993</title>
+		<title type="official" as="introduced">To make permanent chapter 44 of title 28, United States Code, relating to arbitration.</title>
+	</titles>
+	<sponsor id="405775"/>
+	<cosponsors>
+		<cosponsor id="407899" joined="1993-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24" state="REFERRED"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-04-13"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+		<action datetime="1993-05-05"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-10-06"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-06"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1993-10-12T12:00:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-284.</text></action>
+		<calendar number="156" datetime="1993-10-12T12:01:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 156.</text></calendar>
+		<action datetime="1993-10-12T14:14:00-04:00"><text>Mr. Brooks moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-10-12T14:14:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7696-7697"/></action>
+		<action datetime="1993-10-12T14:15:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-10-12T14:22:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-10-12T14:22:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-10-13"><text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-10-29"><committee name="House Committee on Judiciary"/><text>Subcommittee on Courts and Administrative Practice. Hearings held.</text></action>
+		<action datetime="1993-11-09"><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+		<action datetime="1994-01-25"><text>Sponsor introductory remarks on measure. (CR E14)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1732" />
+		<bill relation="unknown" session="103" type="s" number="2407" />
+	</relatedbills>
+	<subjects>
+		<term name="Law"/>
+		<term name="Authorization"/>
+		<term name="Commercial arbitration"/>
+		<term name="Damages"/>
+		<term name="District courts"/>
+		<term name="Economics and public finance"/>
+		<term name="Industrial arbitration"/>
+		<term name="Jurisdiction"/>
+		<term name="Mediation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/12/1993--Passed House amended. Court Arbitration Authorization Act of 1993 - Amends the Judicial Improvements and Access to Justice Act to: (1) delete provisions that would repeal the authority of U.S. district courts to authorize the use of arbitration in civil actions; (2) make permanent the authorization of appropriations under such Act; (3) require each U.S. district court to authorize by local rule the use of arbitration in civil actions; and (4) increase the maximum amount in controversy for mandatory referral to arbitration to $150,000.
+
+	</summary>
+</bill>

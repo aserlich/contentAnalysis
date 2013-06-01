@@ -1,0 +1,50 @@
+<bill session="103" type="s" number="1691" updated="2012-07-17T05:03:41-04:00">
+	<state datetime="1993-11-19">REFERRED</state>
+	<status><introduced datetime="1993-11-19"/></status>
+
+	<introduced datetime="1993-11-19"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide taxpayers engaged in certain agriculture-related activities a credit against income tax for property used to control environmental pollution and for soil and water conservation expenditures.</title>
+	</titles>
+	<sponsor id="300026"/>
+	<cosponsors>
+		<cosponsor id="408898" joined="1994-03-22"/>
+		<cosponsor id="300048" joined="1993-11-19"/>
+		<cosponsor id="403669" joined="1994-05-23"/>
+		<cosponsor id="300031" joined="1993-11-19"/>
+		<cosponsor id="406256" joined="1994-05-16"/>
+		<cosponsor id="406084" joined="1994-05-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-19" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S16442)</text></action>
+		<action datetime="1993-11-19" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+		<action datetime="1994-10-05"><committee name="Committee on Finance"/><text>Subcommittee on Energy and Agricultural Taxation. Hearings held. Hearings printed: S.Hrg. 103-1025.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+		<committee code="" name="Senate Finance" subcommittee="Energy and Agricultural Taxation" activity="Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2708" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural pollution"/>
+		<term name="Environmental protection"/>
+		<term name="Equipment and supplies"/>
+		<term name="Investment tax credit"/>
+		<term name="Pollution control"/>
+		<term name="Soil conservation"/>
+		<term name="Tax deductions"/>
+		<term name="Water conservation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/19/1993--Introduced.
+Amends the Internal Revenue Code to allow taxpayers primarily engaged in a farming-related business an investment tax credit for a percentage of: (1) the costs of agricultural environmental property; and (2) the amount allowed as a deduction for soil and water conservation expenditures.
+
+	</summary>
+</bill>

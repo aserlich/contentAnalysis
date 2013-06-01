@@ -1,0 +1,68 @@
+<bill session="103" type="h" number="3250" updated="2010-04-19T07:37:36-04:00">
+	<state datetime="1993-10-07">REFERRED</state>
+	<status><introduced datetime="1993-10-07"/></status>
+
+	<introduced datetime="1993-10-07"/>
+	<titles>
+		<title type="official" as="introduced">To repeal the retroactive application of the income, estate, and gift tax rates made by the budget reconciliation act and reduce administrative expenses for agencies by $3,000,000,000 for each of the fiscal years 1994, 1995, and 1996.</title>
+	</titles>
+	<sponsor id="400381"/>
+	<cosponsors>
+		<cosponsor id="404503" joined="1993-10-18"/>
+		<cosponsor id="410147" joined="1993-11-01"/>
+		<cosponsor id="406431" joined="1994-05-05"/>
+		<cosponsor id="400113" joined="1994-08-02"/>
+		<cosponsor id="400036" joined="1993-10-18"/>
+		<cosponsor id="401547" joined="1993-10-18"/>
+		<cosponsor id="400388" joined="1994-07-26"/>
+		<cosponsor id="400165" joined="1993-10-07"/>
+		<cosponsor id="400574" joined="1994-08-18"/>
+		<cosponsor id="403545" joined="1994-08-01"/>
+		<cosponsor id="400225" joined="1994-08-02"/>
+		<cosponsor id="400551" joined="1993-11-22"/>
+		<cosponsor id="300062" joined="1994-07-26"/>
+		<cosponsor id="400343" joined="1993-10-26"/>
+		<cosponsor id="400083" joined="1994-08-01"/>
+		<cosponsor id="400221" joined="1994-07-26"/>
+		<cosponsor id="400649" joined="1993-10-07"/>
+		<cosponsor id="400012" joined="1993-10-26"/>
+		<cosponsor id="410887" joined="1993-10-18"/>
+		<cosponsor id="403864" joined="1993-10-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-07"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-10-07"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-10-12"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1524" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Budgets"/>
+		<term name="Estate tax"/>
+		<term name="Executive departments"/>
+		<term name="Federal budgets"/>
+		<term name="Gift tax"/>
+		<term name="Government consultants"/>
+		<term name="Government spending reductions"/>
+		<term name="Income tax"/>
+		<term name="Internal revenue law"/>
+		<term name="Overhead costs"/>
+		<term name="Tax rates"/>
+		<term name="Travel costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1993--Introduced.
+Amends the Internal Revenue Code to repeal the retroactive application of income, estate, and gift tax rate increases. Requires a reduction in administrative expenses of Federal departments and agencies for FY 1994 through 1996.
+
+	</summary>
+</bill>

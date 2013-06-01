@@ -1,0 +1,77 @@
+<bill session="103" type="h" number="1130" updated="2010-04-19T02:04:35-04:00">
+	<state datetime="1993-02-24">REFERRED</state>
+	<status><introduced datetime="1993-02-24"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="official" as="introduced">To enable the Secretary of Health and Human Services to carry out activities to reduce waste and fraud under the medicare program.</title>
+	</titles>
+	<sponsor id="300085"/>
+	<cosponsors>
+		<cosponsor id="400414" joined="1993-11-02"/>
+		<cosponsor id="400242" joined="1993-04-20"/>
+		<cosponsor id="300055" joined="1993-04-01"/>
+		<cosponsor id="406431" joined="1993-05-20"/>
+		<cosponsor id="400113" joined="1993-02-24"/>
+		<cosponsor id="300030" joined="1993-03-29"/>
+		<cosponsor id="400584" joined="1993-09-13"/>
+		<cosponsor id="400322" joined="1993-03-29"/>
+		<cosponsor id="400348" joined="1993-03-29"/>
+		<cosponsor id="400154" joined="1993-11-20"/>
+		<cosponsor id="400388" joined="1994-07-20"/>
+		<cosponsor id="400264" joined="1993-03-29"/>
+		<cosponsor id="300151" joined="1994-04-12"/>
+		<cosponsor id="400359" joined="1993-04-20"/>
+		<cosponsor id="400010" joined="1993-11-22"/>
+		<cosponsor id="400225" joined="1994-08-01"/>
+		<cosponsor id="400017" joined="1994-01-26"/>
+		<cosponsor id="408553" joined="1993-07-20"/>
+		<cosponsor id="400057" joined="1994-08-01"/>
+		<cosponsor id="412001" joined="1993-02-24"/>
+		<cosponsor id="400169" joined="1993-08-05"/>
+		<cosponsor id="400083" joined="1994-08-01"/>
+		<cosponsor id="409618" joined="1993-04-21"/>
+		<cosponsor id="400604" joined="1993-09-28"/>
+		<cosponsor id="400601" joined="1993-04-28"/>
+		<cosponsor id="400649" joined="1993-02-24"/>
+		<cosponsor id="409633" joined="1993-11-17"/>
+		<cosponsor id="400318" joined="1993-04-19"/>
+		<cosponsor id="401081" joined="1993-05-20"/>
+		<cosponsor id="400369" joined="1993-11-22"/>
+		<cosponsor id="411997" joined="1993-03-29"/>
+		<cosponsor id="400583" joined="1993-11-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-03-09"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1328" />
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Appropriations"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Medicare fraud"/>
+		<term name="Peer review organizations (Medicine)"/>
+		<term name="Waste in government spending"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Makes additional appropriations to the Secretary of Health and Human Services for peer review activities and activities to reduce waste and fraud under the Medicare program under title XVIII of the Social Security Act.
+
+	</summary>
+</bill>

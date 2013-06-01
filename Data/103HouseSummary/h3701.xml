@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="3701" updated="2010-04-19T08:47:41-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="official" as="introduced">To deauthorize a portion of the project for navigation, Falmouth, Massachusetts, and for other purposes.</title>
+	</titles>
+	<sponsor id="410496"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-12-06"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Public Works + Transportation"/><text>See H.R.4460.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4460" />
+	</relatedbills>
+	<subjects>
+		<term name="Navigation"/>
+		<term name="Budgets"/>
+		<term name="Government spending reductions"/>
+		<term name="Massachusetts"/>
+		<term name="River regulation"/>
+		<term name="Transportation"/>
+		<term name="Water resources"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Deauthorizes specified portions of the project for navigation, Falmouth, Massachusetts, as authorized under the River and Harbor Act of 1948. Redesignates a portion of such project as an anchorage area.
+
+	</summary>
+</bill>

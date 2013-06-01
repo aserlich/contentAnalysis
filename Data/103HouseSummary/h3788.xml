@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="3788" updated="2010-04-19T09:01:14-04:00">
+	<state datetime="1994-02-03">REFERRED</state>
+	<status><introduced datetime="1994-02-03"/></status>
+
+	<introduced datetime="1994-02-03"/>
+	<titles>
+		<title type="official" as="introduced">To amend title II of the Social Security Act to make it clear that States and local governments may not tax social security benefits.</title>
+	</titles>
+	<sponsor id="400113"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-03"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-02-03"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-02-07"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+		<action datetime="1994-02-08"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Local taxation"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Social security"/>
+		<term name="State and local government"/>
+		<term name="State taxation"/>
+		<term name="Tax exclusion"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1994--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to explicitly prohibit State or local governments from taxing OASDI benefits.
+
+	</summary>
+</bill>

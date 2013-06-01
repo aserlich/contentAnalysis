@@ -1,0 +1,43 @@
+<bill session="103" type="hr" number="563" updated="2010-04-19T14:26:37-04:00">
+	<state datetime="1994-10-05T11:20:00-04:00">FAIL:ORIGINATING:HOUSE</state>
+	<status><vote datetime="1994-10-05T11:20:00-04:00" where="h" result="fail" how="roll" roll="483"/></status>
+
+	<introduced datetime="1994-10-04"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the concurrent resolution (H. Con. Res. 301) expressing the sense of the Congress regarding entitlements.</title>
+	</titles>
+	<sponsor id="403403"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-04T19:59:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-828, by Mr. Derrick.</text></action>
+		<action datetime="1994-10-04T19:59:00-04:00"><text>Rule provides for consideration of H. Con. Res. 301 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Providing for the consideration in the Committee of the Whole. Measure will be read by section. Specified amendments are in order. The question on adopting the amendment numbered 1 in the report of the Committee on Rules accomanying this resolution shall be considered as pending without intervening motion or debate. No other amendment shall be in order except those printed in the report, if offered in the order and manner specified. All poiints of order against the amendments shall be waived.</text></action>
+		<calendar datetime="1994-10-04T19:59:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 239.</text></calendar>
+		<action datetime="1994-10-05T09:48:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H10851-10860"/></action>
+		<action datetime="1994-10-05T09:51:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1994-10-05T10:54:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="roll" type="vote" roll="483" datetime="1994-10-05T11:20:00-04:00" where="h" result="fail"  state="FAIL:ORIGINATING:HOUSE"><text>On agreeing to the resolution Failed by the Yeas and Nays: 83 - 339 (Roll no. 483).</text></vote>
+		<action datetime="1994-10-05T11:20:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hc" number="301" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congress"/>
+		<term name="Federal budgets"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/4/1994--Introduced.
+Sets forth the rule for the consideration of H. Con. Res. 301 (the sense of the Congress regarding entitlements).
+
+	</summary>
+</bill>

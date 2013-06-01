@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="1949" updated="2010-04-19T04:16:03-04:00">
+	<state datetime="1993-04-29">REFERRED</state>
+	<status><introduced datetime="1993-04-29"/></status>
+
+	<introduced datetime="1993-04-29"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide a capital gain exclusion for investments in qualified businesses with employee stock ownership programs within Federal enterprise zones.</title>
+	</titles>
+	<sponsor id="400428"/>
+	<cosponsors>
+		<cosponsor id="400008" joined="1993-04-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-29"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Capital gains tax"/>
+		<term name="Employee ownership"/>
+		<term name="Enterprise zones"/>
+		<term name="Investments"/>
+		<term name="Poor"/>
+		<term name="Stocks"/>
+		<term name="Tax exclusion"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/29/1993--Introduced.
+Amends the Internal Revenue Code to exclude from gross income 100 percent of qualified capital gain recognized on the sale or exchange of a qualified zone asset held for more than five years. Describes such assets as enterprise zone stock, business property, and partnership interests.
+
+	</summary>
+</bill>

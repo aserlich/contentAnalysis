@@ -1,0 +1,62 @@
+<bill session="103" type="h" number="2318" updated="2010-04-19T05:13:20-04:00">
+	<state datetime="1993-05-27">REFERRED</state>
+	<status><introduced datetime="1993-05-27"/></status>
+
+	<introduced datetime="1993-05-27"/>
+	<titles>
+		<title type="official" as="introduced">To redesignate the Federal building located at 380 Trapelo Road in Waltham, Massachusetts, as the &quot;Frederick C. Murphy Federal Center&quot;.</title>
+	</titles>
+	<sponsor id="400253"/>
+	<cosponsors>
+		<cosponsor id="400389" joined="1994-02-02"/>
+		<cosponsor id="401547" joined="1993-05-27"/>
+		<cosponsor id="410496" joined="1993-05-27"/>
+		<cosponsor id="300038" joined="1994-02-02"/>
+		<cosponsor id="400600" joined="1993-05-27"/>
+		<cosponsor id="407838" joined="1993-05-27"/>
+		<cosponsor id="406277" joined="1993-05-27"/>
+		<cosponsor id="400386" joined="1994-02-02"/>
+		<cosponsor id="400140" joined="1993-05-27"/>
+		<cosponsor id="400269" joined="1993-05-27"/>
+		<cosponsor id="400291" joined="1993-05-27"/>
+		<cosponsor id="400610" joined="1994-02-02"/>
+		<cosponsor id="410887" joined="1993-05-27"/>
+		<cosponsor id="400301" joined="1993-05-27"/>
+		<cosponsor id="409052" joined="1994-02-02"/>
+		<cosponsor id="400223" joined="1994-02-02"/>
+		<cosponsor id="403864" joined="1994-02-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-27"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-05-28"><text>Sponsor introductory remarks on measure. (CR E1402)</text></action>
+		<action datetime="1993-06-10"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Public Buildings and Grounds.</text></action>
+		<action datetime="1994-02-24"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-03-02"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-03-02"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1994-03-23"><committee name="House Committee on Public Works + Transportation"/><text>For Further Action See S.1206.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Public Buildings and Grounds" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1206" />
+		<bill relation="unknown" session="103" type="s" number="1206" />
+		<bill relation="unknown" session="103" type="s" number="1206" />
+	</relatedbills>
+	<subjects>
+		<term name="Public buildings"/>
+		<term name="Commemorations"/>
+		<term name="Federal office buildings"/>
+		<term name="Massachusetts"/>
+		<term name="Names"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/27/1993--Introduced.
+Redesignates the Waltham Federal Center at 380 Trapelo Road, Waltham, Massachusetts, as the Frederick C. Murphy Federal Center.
+
+	</summary>
+</bill>

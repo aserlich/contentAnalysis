@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="3774" updated="2010-04-19T08:59:02-04:00">
+	<state datetime="1994-02-02">REFERRED</state>
+	<status><introduced datetime="1994-02-02"/></status>
+
+	<introduced datetime="1994-02-02"/>
+	<titles>
+		<title type="short" as="introduced">Davis-Bacon Abolition Act</title>
+		<title type="official" as="introduced">To repeal the Davis-Bacon Act.</title>
+	</titles>
+	<sponsor id="400649"/>
+	<cosponsors>
+		<cosponsor id="300151" joined="1994-04-28"/>
+		<cosponsor id="403545" joined="1994-08-01"/>
+		<cosponsor id="400057" joined="1994-08-01"/>
+		<cosponsor id="400083" joined="1994-08-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-02"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1994-02-11"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor Standards, Occupational Health and Safety.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-10" name="House Education and Labor" subcommittee="Labor Standards, Occupational Health and Safety" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor"/>
+		<term name="Business"/>
+		<term name="Construction industries"/>
+		<term name="Construction workers"/>
+		<term name="Government contractors"/>
+		<term name="Hours of labor"/>
+		<term name="Minimum wages"/>
+		<term name="Overtime"/>
+		<term name="Public buildings"/>
+		<term name="Public contracts"/>
+		<term name="Public works"/>
+		<term name="Wages"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1994--Introduced.
+Davis-Bacon Abolition Act - Repeals the Davis-Bacon Act (an Act which requires that the locally prevailing wage rate be paid to various classes of laborers and mechanics working under federally-financed or federally-assisted contracts for construction, alteration, and repair of public buildings or public works).
+
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="103" type="s" number="1851" updated="2012-07-17T06:28:45-04:00">
+	<state datetime="1994-02-10">REFERRED</state>
+	<status><introduced datetime="1994-02-10"/></status>
+
+	<introduced datetime="1994-02-10"/>
+	<titles>
+		<title type="official" as="introduced">A bill to exclude shipboard supervisory personnel from selection as employer representatives, and for other purposes.</title>
+	</titles>
+	<sponsor id="411818"/>
+	<cosponsors>
+		<cosponsor id="300086" joined="1994-03-09"/>
+		<cosponsor id="300073" joined="1994-05-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-10" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<action datetime="1994-03-21"><committee name="Committee on Labor and Human Resources"/><text>Referred to Subcommittee on Labor.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee" />
+		<committee code="" name="Senate Labor and Human Resources" subcommittee="Labor" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="859" />
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Labor unions"/>
+		<term name="Merchant seamen"/>
+		<term name="Picketing"/>
+		<term name="Supervisors"/>
+		<term name="Transportation and public works"/>
+		<term name="Unfair labor practices"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/1994--Introduced.
+Amends the National Labor Relations Act to exclude shipboard supervisory personnel from selection as employer representatives, if such personnel are licensed by the U.S. Coast Guard and represented by a labor organization. Provides that picketing or other economic activity undertaken by a labor organization on behalf of such licensed shipboard supervisory personnel shall not be considered a prohibited restraint or coercion.
+
+	</summary>
+</bill>

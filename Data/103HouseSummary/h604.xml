@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="604" updated="2010-04-19T00:36:30-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="official" as="introduced">To extend the authority of the Secretary of the Treasury to enter into agreements with certain cities and counties for the withholding of city and county income and employment taxes from the pay of Federal employees who are residents of, or regularly employed in, such cities and counties.</title>
+	</titles>
+	<sponsor id="400210"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-05-26"/>
+		<cosponsor id="406466" joined="1993-06-24"/>
+		<cosponsor id="404375" joined="1993-09-13"/>
+		<cosponsor id="400025" joined="1993-05-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-01-29"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Income tax"/>
+		<term name="Intergovernmental tax relations"/>
+		<term name="Local taxation"/>
+		<term name="Municipal taxation"/>
+		<term name="Social security taxes"/>
+		<term name="Taxation"/>
+		<term name="Withholding tax"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Amends Federal law to eliminate the requirement that there be 500 or more persons regularly employed by all Federal agencies in a city or county before the Secretary of the Treasury may enter into an agreement to withhold city and county income and employment taxes from the pay of Federal employees who live or work there.
+
+	</summary>
+</bill>

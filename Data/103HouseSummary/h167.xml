@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="167" updated="2010-04-18T23:26:02-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 5, United States Code, to eliminate maximum-age entry requirements for Federal law enforcement officers and firefighters.</title>
+	</titles>
+	<sponsor id="400116"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1994-02-23"/>
+		<cosponsor id="406873" joined="1994-02-24"/>
+		<cosponsor id="408839" joined="1993-03-18"/>
+		<cosponsor id="400122" joined="1994-06-08"/>
+		<cosponsor id="400409" joined="1993-03-11"/>
+		<cosponsor id="400057" joined="1994-03-16"/>
+		<cosponsor id="400140" joined="1994-02-23"/>
+		<cosponsor id="400366" joined="1993-04-19"/>
+		<cosponsor id="404190" joined="1993-04-02"/>
+		<cosponsor id="400025" joined="1993-03-16"/>
+		<cosponsor id="400100" joined="1994-02-23"/>
+		<cosponsor id="400243" joined="1994-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Civil Service.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Civil Service" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Age and employment"/>
+		<term name="Department of the Interior"/>
+		<term name="Fire fighters"/>
+		<term name="Law enforcement officers"/>
+		<term name="National parks"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Repeals provisions which authorize: (1) Federal agency heads to determine maximum-age entry requirements for Federal law enforcement officers and fire fighters; and (2) the Secretary of the Interior to determine maximum-age entry requirements for appointments to the United States Park Police.
+
+	</summary>
+</bill>

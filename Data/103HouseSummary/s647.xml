@@ -1,0 +1,46 @@
+<bill session="103" type="s" number="647" updated="2012-07-17T05:43:09-04:00">
+	<state datetime="1993-03-30">REPORTED</state>
+	<status><calendar datetime="1993-03-30" /></status>
+
+	<introduced datetime="1993-03-24"/>
+	<titles>
+		<title type="short" as="introduced">Central Intelligence Agency Voluntary Separation Incentive Act</title>
+		<title type="official" as="introduced">A bill to assist in the effective management of the civilian work force of the Central Intelligence Agency, and for other purposes.</title>
+	</titles>
+	<sponsor id="300099"/>
+	<cosponsors>
+		<cosponsor id="403346" joined="1993-03-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3655-3656)</text></action>
+		<action datetime="1993-03-24" state="REFERRED"><text>Read twice and referred to the Committee on Intelligence.</text></action>
+		<calendar datetime="1993-03-30"  state="REPORTED"><committee name="Committee on Intelligence"/><text>Committee on Intelligence. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-05-05"><text>Committee on Intelligence. Reported to Senate by Senator DeConcini without amendment. With written report No. 103-43.</text></action>
+		<calendar under="General Orders" number="62" datetime="1993-05-05" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 62.</text></calendar>
+		<action datetime="1993-05-26"><text>Indefinitely postponed by Senate by Unanimous Consent.</text></action>
+	</actions>
+	<committees>
+		<committee code="SLIN" name="Senate Intelligence (Select)" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1723" />
+		<bill relation="unknown" session="103" type="h" number="1723" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Central Intelligence Agency"/>
+		<term name="Civil service retirement"/>
+		<term name="Dismissal wage"/>
+		<term name="Early retirement"/>
+		<term name="Federal employees"/>
+		<term name="Intelligence officers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/24/1993--Introduced.
+Central Intelligence Agency Voluntary Separation Incentive Act - Authorizes the Director of Central Intelligence to establish a program to encourage voluntary separations, by retirement or resignation, from Central Intelligence Agency employment.
+
+	</summary>
+</bill>

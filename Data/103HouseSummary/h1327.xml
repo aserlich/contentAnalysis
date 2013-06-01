@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="1327" updated="2010-04-19T02:37:49-04:00">
+	<state datetime="1993-03-11">REFERRED</state>
+	<status><introduced datetime="1993-03-11"/></status>
+
+	<introduced datetime="1993-03-11"/>
+	<titles>
+		<title type="official" as="introduced">To amend the title XVIII of the Social Security Act to provide for a limitation on the use of claim sampling to deny claims or recover overpayments under the medicare program.</title>
+	</titles>
+	<sponsor id="409205"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-03-24"/>
+		<cosponsor id="400380" joined="1993-05-04"/>
+		<cosponsor id="400170" joined="1993-03-24"/>
+		<cosponsor id="400552" joined="1993-03-24"/>
+		<cosponsor id="407838" joined="1993-03-24"/>
+		<cosponsor id="400511" joined="1993-03-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-11"><text>Sponsor introductory remarks on measure. (CR E607)</text></action>
+		<action datetime="1993-03-11"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-03-11"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-17"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Medicare fraud"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/1993--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to prohibit the use of claim sampling to deny claims or recover overpayments under Medicare except when fraud has been determined, in which case claim sampling may be used for the purpose of assessing civil monetary penalties.
+
+	</summary>
+</bill>

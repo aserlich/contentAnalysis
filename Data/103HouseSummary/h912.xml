@@ -1,0 +1,59 @@
+<bill session="103" type="h" number="912" updated="2010-04-19T01:28:12-04:00">
+	<state datetime="1993-02-16">REFERRED</state>
+	<status><introduced datetime="1993-02-16"/></status>
+
+	<introduced datetime="1993-02-16"/>
+	<titles>
+		<title type="short" as="introduced">Economic Stimulus Tax Act of 1993</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the limitation on passive activity losses and credits, provide an accelerated depreciation schedule for real estate, restore the investment tax credit, allow a deduction for certain capital gains, restore and increase the deduction for health insurance costs of self-employed individuals, restore income averaging, and reduce social security taxes and remove the ceiling on wages subject to such taxes.</title>
+	</titles>
+	<sponsor id="400316"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-16"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-23"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Accounting"/>
+		<term name="Business losses"/>
+		<term name="Capital gains tax"/>
+		<term name="Corporation taxes"/>
+		<term name="Depreciation and amortization"/>
+		<term name="Health insurance"/>
+		<term name="Housing"/>
+		<term name="Insurance premiums"/>
+		<term name="Investment tax credit"/>
+		<term name="Medical care"/>
+		<term name="Medical economics"/>
+		<term name="Minimum tax"/>
+		<term name="Real estate business"/>
+		<term name="Real property"/>
+		<term name="Rental housing"/>
+		<term name="Self-employed"/>
+		<term name="Social security taxes"/>
+		<term name="Tax administration"/>
+		<term name="Tax deductions"/>
+		<term name="Tax rates"/>
+		<term name="Taxation"/>
+		<term name="Wages"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/16/1993--Introduced.
+Economic Stimulus Tax Act of 1993 - Amends the Internal Revenue Code (IRC) to repeal the limitation on passive activity losses and credits. Shortens the recovery period (providing for accelerated depreciation) for residential rental property and nonresidental real property. Restores the ten-percent general investment tax credit. Allows individuals and corporations a deduction of 50 percent of the net capital gain from assets held for at least one year. Increases the deduction for health insurance costs for self-employed individuals from 25 percent to 100 percent. Makes such deduction permanent. Repeals the Tax Reform Act of 1986 to restore IRC provisions relating to income averaging. Removes the ceiling on wages subject to social security taxes and provides a reduction in such taxes.
+
+	</summary>
+</bill>

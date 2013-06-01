@@ -1,0 +1,55 @@
+<bill session="103" type="s" number="1381" updated="2012-07-17T05:54:18-04:00">
+	<state datetime="1993-10-12">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-10-12" /></status>
+
+	<introduced datetime="1993-08-05"/>
+	<titles>
+		<title type="short" as="introduced">National Forest Foundation Act Amendment Act of 1993</title>
+		<title type="short" as="enacted">National Forest Foundation Act Amendment Act of 1993</title>
+		<title type="official" as="introduced">A bill to improve administrative services and support provided to the National Forest Foundation, and for other purposes.</title>
+	</titles>
+	<sponsor id="300036"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-05" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S10581)</text></action>
+		<action datetime="1993-08-05" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-08-20"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Agricultural Research.</text></action>
+		<action datetime="1993-09-15"><text>Senate Committee on Agriculture discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S11943-11944"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-09-15" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text></vote>
+		<action datetime="1993-09-21T12:36:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-09-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-09-21T19:31:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-09-28T19:08:00-04:00"><text>Mr. de la Garza asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1993-09-28T19:08:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H7136"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-09-28T19:09:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-09-28T19:09:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-09-28" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-09-30" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-10-12" ><text>Signed by President.</text></signed>
+		<enacted number="103-106" type="public" datetime="1993-10-12"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-106.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Agricultural Research, Conservation, Forestry and General Legislation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3085" />
+		<bill relation="unknown" session="103" type="h" number="3085" />
+	</relatedbills>
+	<subjects>
+		<term name="Forests and forestry"/>
+		<term name="Foundations"/>
+		<term name="Grants-in-aid"/>
+		<term name="National forests"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/1993--Introduced.
+National Forest Foundation Act Amendment Act of 1993 - Amends the National Forest Foundation Act to authorize start-up and matching funds to the National Forest Foundation to carry out project expenses. Extends the start-up funding to October 1, 1994, and the matching funding to October 1, 1997.
+
+	</summary>
+</bill>

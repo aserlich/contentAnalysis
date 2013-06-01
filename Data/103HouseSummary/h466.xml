@@ -1,0 +1,113 @@
+<bill session="103" type="h" number="466" updated="2010-04-19T00:13:32-04:00">
+	<state datetime="1993-01-06">REFERRED</state>
+	<status><introduced datetime="1993-01-06"/></status>
+
+	<introduced datetime="1993-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To extend until January 1, 1996, the existing suspension of duty on tamoxifen citrate.</title>
+	</titles>
+	<sponsor id="400600"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-10-19"/>
+		<cosponsor id="406466" joined="1993-11-04"/>
+		<cosponsor id="400509" joined="1993-05-25"/>
+		<cosponsor id="400253" joined="1993-11-04"/>
+		<cosponsor id="400420" joined="1993-05-25"/>
+		<cosponsor id="400428" joined="1993-09-21"/>
+		<cosponsor id="402763" joined="1993-06-10"/>
+		<cosponsor id="400078" joined="1993-06-10"/>
+		<cosponsor id="400553" joined="1993-05-19"/>
+		<cosponsor id="406873" joined="1993-05-25"/>
+		<cosponsor id="410147" joined="1993-05-19"/>
+		<cosponsor id="400414" joined="1993-05-25"/>
+		<cosponsor id="400532" joined="1993-10-07"/>
+		<cosponsor id="400015" joined="1993-05-25"/>
+		<cosponsor id="410529" joined="1993-10-19"/>
+		<cosponsor id="405775" joined="1993-05-27"/>
+		<cosponsor id="400122" joined="1993-07-29"/>
+		<cosponsor id="400333" joined="1993-09-21"/>
+		<cosponsor id="400085" joined="1993-01-06"/>
+		<cosponsor id="408109" joined="1993-05-19"/>
+		<cosponsor id="410496" joined="1993-05-19"/>
+		<cosponsor id="400578" joined="1993-11-21"/>
+		<cosponsor id="400306" joined="1993-06-30"/>
+		<cosponsor id="409578" joined="1993-10-06"/>
+		<cosponsor id="400354" joined="1993-06-10"/>
+		<cosponsor id="400365" joined="1993-10-28"/>
+		<cosponsor id="400567" joined="1993-06-10"/>
+		<cosponsor id="400585" joined="1993-06-18"/>
+		<cosponsor id="406284" joined="1993-01-06"/>
+		<cosponsor id="400262" joined="1993-10-07"/>
+		<cosponsor id="404869" joined="1993-11-04"/>
+		<cosponsor id="400316" joined="1993-05-19"/>
+		<cosponsor id="400010" joined="1993-09-29"/>
+		<cosponsor id="400511" joined="1993-05-27"/>
+		<cosponsor id="404375" joined="1993-07-15"/>
+		<cosponsor id="406277" joined="1993-07-15"/>
+		<cosponsor id="404401" joined="1993-10-28"/>
+		<cosponsor id="404097" joined="1993-06-30"/>
+		<cosponsor id="401446" joined="1993-11-04"/>
+		<cosponsor id="400205" joined="1993-06-30"/>
+		<cosponsor id="408553" joined="1993-06-18"/>
+		<cosponsor id="407153" joined="1993-10-21"/>
+		<cosponsor id="400035" joined="1993-11-04"/>
+		<cosponsor id="409650" joined="1993-06-18"/>
+		<cosponsor id="406920" joined="1993-11-18"/>
+		<cosponsor id="400140" joined="1993-05-19"/>
+		<cosponsor id="400070" joined="1993-09-21"/>
+		<cosponsor id="400251" joined="1993-05-25"/>
+		<cosponsor id="400378" joined="1993-06-18"/>
+		<cosponsor id="401310" joined="1993-05-19"/>
+		<cosponsor id="400211" joined="1993-11-21"/>
+		<cosponsor id="400269" joined="1993-06-30"/>
+		<cosponsor id="400118" joined="1993-05-27"/>
+		<cosponsor id="402454" joined="1993-11-04"/>
+		<cosponsor id="405524" joined="1993-05-27"/>
+		<cosponsor id="408476" joined="1993-06-30"/>
+		<cosponsor id="400326" joined="1993-11-04"/>
+		<cosponsor id="404190" joined="1993-09-21"/>
+		<cosponsor id="400291" joined="1993-01-06"/>
+		<cosponsor id="400201" joined="1993-06-30"/>
+		<cosponsor id="400318" joined="1993-05-19"/>
+		<cosponsor id="411178" joined="1993-05-19"/>
+		<cosponsor id="410887" joined="1993-06-18"/>
+		<cosponsor id="400240" joined="1993-10-07"/>
+		<cosponsor id="407669" joined="1993-07-29"/>
+		<cosponsor id="401774" joined="1993-08-04"/>
+		<cosponsor id="405033" joined="1993-10-07"/>
+		<cosponsor id="400526" joined="1993-10-06"/>
+		<cosponsor id="400278" joined="1993-06-10"/>
+		<cosponsor id="400243" joined="1993-05-27"/>
+		<cosponsor id="405507" joined="1993-08-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-15"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-04-12"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1993-07-28"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Ways and Means"/><text>See H.R.5110.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5110" />
+		<bill relation="identical" session="103" type="s" number="446" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Breast cancer"/>
+		<term name="Chemotherapy"/>
+		<term name="Drugs"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to extend, through December 31, 1995, the suspension of duty on tamoxifen citrate.
+
+	</summary>
+</bill>

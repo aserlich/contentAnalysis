@@ -1,0 +1,48 @@
+<bill session="103" type="s" number="2511" updated="2012-07-17T06:15:44-04:00">
+	<state datetime="1994-10-06">REFERRED</state>
+	<status><introduced datetime="1994-10-06"/></status>
+
+	<introduced datetime="1994-10-06"/>
+	<titles>
+		<title type="official" as="introduced">A bill to specifically exclude certain programs from provisions of the Electronic Funds Transfer Act.</title>
+	</titles>
+	<sponsor id="300067"/>
+	<cosponsors>
+		<cosponsor id="408898" joined="1994-10-07"/>
+		<cosponsor id="403669" joined="1994-10-07"/>
+		<cosponsor id="300012" joined="1994-10-07"/>
+		<cosponsor id="300036" joined="1994-10-07"/>
+		<cosponsor id="405212" joined="1994-10-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-06" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S14483-14488)</text></action>
+		<action datetime="1994-10-06" state="REFERRED"><text>Read twice and referred to the Committee on Banking.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Commerce"/>
+		<term name="Consumer protection"/>
+		<term name="Electronic funds transfers"/>
+		<term name="Entitlements"/>
+		<term name="Federal aid programs"/>
+		<term name="Government operations and politics"/>
+		<term name="Public assistance programs"/>
+		<term name="Science, technology, communications"/>
+		<term name="Social welfare"/>
+		<term name="State laws"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/6/1994--Introduced.
+Amends the Electronic Fund Transfer Act to prohibit the Board of Governors of the Federal Reserve System from applying to electronic benefit transfers established under a State or local governmental entitlement program certain disclosures, protections, responsibilities, and remedies (in effect, the liability limits currently applicable to private sector ATM and consumer credit cards), unless the payment under such program is made directly into a consumer's account held by the recipient.
+
+	</summary>
+</bill>

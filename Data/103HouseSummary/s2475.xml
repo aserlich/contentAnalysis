@@ -1,0 +1,77 @@
+<bill session="103" type="s" number="2475" updated="2010-04-19T20:56:34-04:00">
+	<state datetime="1994-10-19">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-19" /></status>
+
+	<introduced datetime="1994-09-29"/>
+	<titles>
+		<title type="short" as="introduced">African Conflict Resolution Act</title>
+		<title type="short" as="enacted">African Conflict Resolution Act</title>
+		<title type="official" as="introduced">An original bill to authorize assistance to promote the peaceful resolution of conflicts in Africa.</title>
+	</titles>
+	<sponsor id="408597"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar datetime="1994-09-29"  state="REPORTED"><text>Committee on Foreign Relations ordered to be reported an original measure.</text></calendar>
+		<action datetime="1994-09-29"><text>Committee on Foreign Relations. Original measure reported to Senate by Senator Pell. Without written report.</text></action>
+		<calendar under="General Orders" number="694" datetime="1994-09-29" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 694.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-10-04" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S14077-14079"/></vote>
+		<action datetime="1994-10-05"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-05T11:20:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-10-05T15:28:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-10-05T21:28:00-04:00"><text>Mr. Johnston asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1994-10-05T21:28:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10970-10972"/></action>
+		<vote how="without objection" type="vote2" datetime="1994-10-05T21:29:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-10-05T21:29:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-10-05" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-07"><text>By Senator Pell from Committee on Foreign Relations filed written report. Report No. 103-404.</text></action>
+		<topresident datetime="1994-10-13" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-19" ><text>Signed by President.</text></signed>
+		<enacted number="103-381" type="public" datetime="1994-10-19"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-381.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Origin, Reporting, Markup" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4541" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Africa (Sub-Saharan)"/>
+		<term name="American economic assistance"/>
+		<term name="American military assistance"/>
+		<term name="American technical assistance"/>
+		<term name="Arms control"/>
+		<term name="Civil-military relations"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Defense policy"/>
+		<term name="Dispute settlement"/>
+		<term name="Employee training"/>
+		<term name="Foreign aid"/>
+		<term name="Foreign policy"/>
+		<term name="International affairs"/>
+		<term name="International agencies"/>
+		<term name="Job training"/>
+		<term name="Mediation"/>
+		<term name="Military education"/>
+		<term name="Military personnel"/>
+		<term name="Military training"/>
+		<term name="Nongovernmental organizations"/>
+		<term name="Occupational retraining"/>
+		<term name="Peace"/>
+		<term name="Peace negotiations"/>
+		<term name="Subsaharan Africa"/>
+		<term name="War"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/29/1994--Introduced.
+African Conflict Resolution Act - Authorizes the President to provide assistance to: (1) strengthen the conflict resolution capabilities of the Organization of African Unity and subregional organizations established by countries in Subsaharan Africa; (2) nongovernmental organizations engaged in mediation and reconciliation efforts in Africa; and (3) provide for demobilizations of armed forces in Subsaharan African countries and for the reintegration of demobilized military personnel into civilian society. Earmarks funds for such purposes from foreign assistance funds allocated for Subsaharan Africa. Permits the President to establish a program to provide education and training in conflict resolution and peacekeeping for civilian and military personnel of countries in Subsaharan Africa. Earmarks funding for such program. Declares that the President should develop an integrated, long-term plan to provide support for the enhancement of conflict resolution capabilities and demobilization activities in Subsaharan Africa.
+
+	</summary>
+</bill>

@@ -1,0 +1,115 @@
+<bill session="103" type="h" number="1989" updated="2010-04-19T04:22:20-04:00">
+	<state datetime="1993-05-05">REFERRED</state>
+	<status><introduced datetime="1993-05-05"/></status>
+
+	<introduced datetime="1993-05-05"/>
+	<titles>
+		<title type="short" as="introduced">Medical Injury Compensation Fairness Act of 1993</title>
+		<title type="official" as="introduced">To provide for medical injury compensation reform for health care services furnished using funds provided under certain Federal programs or under group health plans, and for other purposes.</title>
+	</titles>
+	<sponsor id="407558"/>
+	<cosponsors>
+		<cosponsor id="400398" joined="1993-05-05"/>
+		<cosponsor id="410147" joined="1993-05-05"/>
+		<cosponsor id="400571" joined="1993-05-05"/>
+		<cosponsor id="400015" joined="1993-05-05"/>
+		<cosponsor id="410529" joined="1993-05-05"/>
+		<cosponsor id="400510" joined="1993-05-24"/>
+		<cosponsor id="400156" joined="1993-05-05"/>
+		<cosponsor id="400180" joined="1993-05-05"/>
+		<cosponsor id="300030" joined="1994-04-12"/>
+		<cosponsor id="400267" joined="1993-05-24"/>
+		<cosponsor id="404587" joined="1993-05-05"/>
+		<cosponsor id="404296" joined="1993-05-24"/>
+		<cosponsor id="400161" joined="1993-06-09"/>
+		<cosponsor id="400104" joined="1993-05-05"/>
+		<cosponsor id="404723" joined="1993-05-05"/>
+		<cosponsor id="400261" joined="1994-04-12"/>
+		<cosponsor id="400226" joined="1993-05-05"/>
+		<cosponsor id="400264" joined="1993-06-09"/>
+		<cosponsor id="411247" joined="1993-05-05"/>
+		<cosponsor id="403545" joined="1994-08-02"/>
+		<cosponsor id="400144" joined="1993-06-18"/>
+		<cosponsor id="400206" joined="1993-05-05"/>
+		<cosponsor id="400551" joined="1994-04-12"/>
+		<cosponsor id="400533" joined="1993-05-05"/>
+		<cosponsor id="408553" joined="1993-05-05"/>
+		<cosponsor id="400590" joined="1993-05-05"/>
+		<cosponsor id="400115" joined="1993-05-05"/>
+		<cosponsor id="400070" joined="1993-05-05"/>
+		<cosponsor id="412001" joined="1993-11-22"/>
+		<cosponsor id="400169" joined="1993-05-05"/>
+		<cosponsor id="400083" joined="1994-08-02"/>
+		<cosponsor id="300085" joined="1993-05-05"/>
+		<cosponsor id="405560" joined="1993-05-24"/>
+		<cosponsor id="400601" joined="1993-06-09"/>
+		<cosponsor id="400221" joined="1994-08-02"/>
+		<cosponsor id="401081" joined="1993-06-22"/>
+		<cosponsor id="405033" joined="1993-07-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-05-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-12"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1993-05-12"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-06-22"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1993-06-22"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness.</text></action>
+		<action datetime="1994-08-02"><committee name="House Committee on Judiciary"/><text>See H.R.3600.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Commerce, Consumer Protection, and Competitiveness" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3600" />
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Actions and defenses"/>
+		<term name="Administrative procedure"/>
+		<term name="Civil procedure"/>
+		<term name="Damages"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Employee health benefits"/>
+		<term name="Evidence (Law)"/>
+		<term name="Excise tax"/>
+		<term name="Federal preemption"/>
+		<term name="Government employees' health insurance"/>
+		<term name="Health insurance"/>
+		<term name="Income tax"/>
+		<term name="Indian medical care"/>
+		<term name="Insurance premiums"/>
+		<term name="Legal fees"/>
+		<term name="Liability (Law)"/>
+		<term name="Licenses"/>
+		<term name="Limitation of actions"/>
+		<term name="Malpractice"/>
+		<term name="Mediation"/>
+		<term name="Medicaid"/>
+		<term name="Medicare"/>
+		<term name="Military medicine"/>
+		<term name="Obstetrics"/>
+		<term name="Public assistance programs"/>
+		<term name="Punitive damages"/>
+		<term name="Standards"/>
+		<term name="State laws"/>
+		<term name="Tax deductions"/>
+		<term name="Tax-exempt organizations"/>
+		<term name="Taxation"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/5/1993--Introduced.
+Medical Injury Compensation Fairness Act of 1993 - Deems each individual or entity receiving health care services for which payment may be made in whole or in part with funds provided under a Federal program to have entered into an agreement to resolve any medical malpractice liability claim through a certified State or Federal dispute resolution system. Requires any such entity to bring any medical malpractice liability action that arises from a claim resolved through such system only in accordance with specified procedures. Denies a tax deduction for health insurance expenses to any employer not having in effect such an agreement with respect to the resolution of medical malpractice claims.
+
+	</summary>
+</bill>

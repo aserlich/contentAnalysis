@@ -1,0 +1,108 @@
+<bill session="103" type="s" number="50" updated="2012-07-17T04:57:20-04:00">
+	<state datetime="1993-05-27">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-05-27" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="short" as="introduced">Jefferson Commemorative Coin Act of 1993</title>
+		<title type="official" as="introduced">A bill to require the Secretary of the Treasury to mint coins in commemoration of the 250th anniversary of the birth of Thomas Jefferson.</title>
+	</titles>
+	<sponsor id="300099"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-02-03"/>
+		<cosponsor id="300150" joined="1993-05-11"/>
+		<cosponsor id="300071" joined="1993-04-20"/>
+		<cosponsor id="300052" joined="1993-03-22"/>
+		<cosponsor id="300056" joined="1993-02-24"/>
+		<cosponsor id="409580" joined="1993-04-20"/>
+		<cosponsor id="300059" joined="1993-04-20"/>
+		<cosponsor id="406084" joined="1993-03-22"/>
+		<cosponsor id="408252" joined="1993-04-20"/>
+		<cosponsor id="401874" joined="1993-02-03"/>
+		<cosponsor id="406256" joined="1993-02-03"/>
+		<cosponsor id="409917" joined="1993-04-20"/>
+		<cosponsor id="400564" joined="1993-01-21"/>
+		<cosponsor id="300012" joined="1993-04-20"/>
+		<cosponsor id="408939" joined="1993-03-22"/>
+		<cosponsor id="300154" joined="1993-05-05"/>
+		<cosponsor id="406487" joined="1993-04-20"/>
+		<cosponsor id="300048" joined="1993-05-18"/>
+		<cosponsor id="300008" joined="1993-05-13"/>
+		<cosponsor id="300001" joined="1993-04-20"/>
+		<cosponsor id="400563" joined="1993-04-20"/>
+		<cosponsor id="300073" joined="1993-02-24"/>
+		<cosponsor id="407663" joined="1993-02-03"/>
+		<cosponsor id="409923" joined="1993-04-20"/>
+		<cosponsor id="403142" joined="1993-03-22"/>
+		<cosponsor id="407786" joined="1993-04-20"/>
+		<cosponsor id="300067" joined="1993-02-24"/>
+		<cosponsor id="400562" joined="1993-05-13"/>
+		<cosponsor id="408420" joined="1993-04-27"/>
+		<cosponsor id="403515" joined="1993-02-03"/>
+		<cosponsor id="300005" joined="1993-04-20"/>
+		<cosponsor id="300084" joined="1993-04-20"/>
+		<cosponsor id="300051" joined="1993-05-18"/>
+		<cosponsor id="300057" joined="1993-04-20"/>
+		<cosponsor id="408898" joined="1993-04-20"/>
+		<cosponsor id="404219" joined="1993-04-20"/>
+		<cosponsor id="403346" joined="1993-04-20"/>
+		<cosponsor id="300159" joined="1993-01-21"/>
+		<cosponsor id="402412" joined="1993-04-20"/>
+		<cosponsor id="408597" joined="1993-04-20"/>
+		<cosponsor id="402004" joined="1993-02-03"/>
+		<cosponsor id="300034" joined="1993-02-24"/>
+		<cosponsor id="300070" joined="1993-02-24"/>
+		<cosponsor id="300046" joined="1993-02-03"/>
+		<cosponsor id="403171" joined="1993-01-21"/>
+		<cosponsor id="300023" joined="1993-03-22"/>
+		<cosponsor id="411818" joined="1993-04-27"/>
+		<cosponsor id="300157" joined="1993-02-24"/>
+		<cosponsor id="400558" joined="1993-02-03"/>
+		<cosponsor id="405310" joined="1993-04-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S462-463)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Banking.</text></action>
+		<calendar datetime="1993-05-27"  state="REPORTED"><committee name="Committee on Banking"/><text>Committee on Banking. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-05-27"><text>Committee on Banking. Reported to Senate by Senator Riegle without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="76" datetime="1993-05-27" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 76.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-05-27" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S6733-6734"/></vote>
+		<action datetime="1993-06-08T12:04:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-06-08"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-06-08"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-06-15"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Consumer Credit and Insurance.</text></action>
+		<action datetime="1993-12-14"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>For Further Action See H.R.3616.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="Consumer Credit and Insurance" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="789" />
+		<bill relation="unknown" session="103" type="h" number="3616" />
+		<bill relation="unknown" session="103" type="h" number="3616" />
+	</relatedbills>
+	<subjects>
+		<term name="Money"/>
+		<term name="Anniversaries"/>
+		<term name="Coins and coinage"/>
+		<term name="Commemorations"/>
+		<term name="Education"/>
+		<term name="Forests and forestry"/>
+		<term name="Foundations"/>
+		<term name="Government operations and politics"/>
+		<term name="Government trust funds"/>
+		<term name="Historic sites"/>
+		<term name="Silver"/>
+		<term name="Virginia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Jefferson Commemorative Coin Act of 1993 - Directs the Secretary of the Treasury to issue one-dollar silver coins emblematic of Thomas Jefferson and his home, Monticello. Mandates that all surcharges received from the sale of such coins be paid to the Jefferson Endowment Fund and to the Corporation for Jefferson's Poplar Forest. Expresses the sense of the Congress that the coin program shall be self-sustaining and that its administration should result in no net cost to the Numismatic Public Enterprise Fund.
+
+	</summary>
+</bill>

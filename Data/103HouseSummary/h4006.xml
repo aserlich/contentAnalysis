@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="4006" updated="2010-04-19T09:35:21-04:00">
+	<state datetime="1994-03-10">REFERRED</state>
+	<status><introduced datetime="1994-03-10"/></status>
+
+	<introduced datetime="1994-03-10"/>
+	<titles>
+		<title type="short" as="introduced">Economic and Employment Impact Act</title>
+		<title type="official" as="introduced">To provide statements of the economic and employment impacts of Federal legislation and regulation on the private sector and state and local governments.</title>
+	</titles>
+	<sponsor id="400083"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-10"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-03-10"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1994-03-15"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3446" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Administrative procedure"/>
+		<term name="Business"/>
+		<term name="Congressional Record"/>
+		<term name="Economic impact statements"/>
+		<term name="Economic policy"/>
+		<term name="Employment"/>
+		<term name="Executive departments"/>
+		<term name="Federal-local relations"/>
+		<term name="Federal-state relations"/>
+		<term name="Government and business"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Government regulation"/>
+		<term name="House rules and procedure"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="Labor"/>
+		<term name="Legislation"/>
+		<term name="Legislative resolutions"/>
+		<term name="Politics and government"/>
+		<term name="Regulatory impact statements"/>
+		<term name="Senate rules and procedure"/>
+		<term name="State and local government"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/10/1994--Introduced.
+Economic and Employment Impact Act - Requires the Director of the Congressional Budget Office to prepare an economic and employment impact statement to accompany each bill or joint resolution reported by any congressional committee (except the Committee on Appropriations) or considered on the floor of either House. Requires such statement to include: (1) an estimate of the numbers of individuals and businesses who would be regulated by the legislation and their groups and classes; (2) the economic impact of such regulation on individuals, consumers, and businesses affected; and (3) an estimate of costs which would be incurred by the private sector in complying with such legislation in each of the five fiscal years after it is to become effective, together with the basis for each such estimate, and of costs which would be incurred by State and local governments. Requires the statement to be printed in the committee report and, if unavailable for such publication, published in the Congressional Record within two calendar days before any floor consideration of the legislation by either House. Requires each executive department and agency to prepare such a statement to accompany regulatory actions, publish the statement in the Federal Register together with the regulatory action, and make the statement available to the public if such action is not published in the Federal Register. Provides that nothing in this Act shall be construed to modify or otherwise affect the requirements of rule XXVI of the Standing Rules of the Senate regarding committee preparation of an evaluation of regulatory impact with respect to legislation. Requires the Director, department, or agency to submit a statement setting forth the reasons if it is impracticable to comply with this Act. Sets forth provisions authorizing a national security emergency waiver of Act requirements under specified circumstances.
+
+	</summary>
+</bill>

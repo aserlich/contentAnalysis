@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="4130" updated="2010-04-19T09:54:45-04:00">
+	<state datetime="1994-03-24">REFERRED</state>
+	<status><introduced datetime="1994-03-24"/></status>
+
+	<introduced datetime="1994-03-24"/>
+	<titles>
+		<title type="official" as="introduced">To require that all Federal recurring payments be paid by electronic funds transfer, and for other purposes.</title>
+	</titles>
+	<sponsor id="403190"/>
+	<cosponsors>
+		<cosponsor id="402657" joined="1994-04-28"/>
+		<cosponsor id="406799" joined="1994-03-24"/>
+		<cosponsor id="400189" joined="1994-03-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-24"><text>Sponsor introductory remarks on measure. (CR E566)</text></action>
+		<action datetime="1994-03-24"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-03-29"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3060" />
+	</relatedbills>
+	<subjects>
+		<term name="Public finance"/>
+		<term name="Administrative procedure"/>
+		<term name="Bank deposits"/>
+		<term name="Banks and banking"/>
+		<term name="Civil service pensions"/>
+		<term name="Congress"/>
+		<term name="Congressional salaries and pensions"/>
+		<term name="Department of the Treasury"/>
+		<term name="Electronic funds transfers"/>
+		<term name="Executive departments"/>
+		<term name="Federal employees"/>
+		<term name="Finance"/>
+		<term name="Government employees"/>
+		<term name="Pensions"/>
+		<term name="Salaries"/>
+		<term name="Wages"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/24/1994--Introduced.
+Amends Federal monetary law to require that all recurring Federal payments shall be paid by electronic funds transfer, according to regulations prescribed by the Secretary of the Treasury (except with respect to the Congress). Prescribes procedural guidelines for such transfers.
+
+	</summary>
+</bill>

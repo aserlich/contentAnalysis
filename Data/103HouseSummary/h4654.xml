@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="4654" updated="2010-04-19T11:17:07-04:00">
+	<state datetime="1994-06-27">REFERRED</state>
+	<status><introduced datetime="1994-06-27"/></status>
+
+	<introduced datetime="1994-06-27"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for coverage under part B of the medicare program of drugs approved by the Food and Drug Administration for the treatment of individuals with multiple sclerosis.</title>
+	</titles>
+	<sponsor id="400161"/>
+	<cosponsors>
+		<cosponsor id="406768" joined="1994-08-16"/>
+		<cosponsor id="400170" joined="1994-08-18"/>
+		<cosponsor id="407465" joined="1994-10-07"/>
+		<cosponsor id="401014" joined="1994-08-11"/>
+		<cosponsor id="407153" joined="1994-08-26"/>
+		<cosponsor id="404190" joined="1994-08-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-27"><text>Sponsor introductory remarks on measure. (CR E1340)</text></action>
+		<action datetime="1994-06-27"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-06-27"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-07-12"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Drugs"/>
+		<term name="Health policy"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Medicine"/>
+		<term name="Multiple sclerosis"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/27/1994--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act, as amended by the Omnibus Budget Reconciliation Act of 1993, to provide for coverage of drugs approved by the Food and Drug Administration for the treatment of individuals with multiple sclerosis.
+
+	</summary>
+</bill>

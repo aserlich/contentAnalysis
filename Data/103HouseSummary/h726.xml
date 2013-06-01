@@ -1,0 +1,59 @@
+<bill session="103" type="h" number="726" updated="2010-04-19T00:56:41-04:00">
+	<state datetime="1993-02-02">REFERRED</state>
+	<status><introduced datetime="1993-02-02"/></status>
+
+	<introduced datetime="1993-02-02"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to exempt mental health services furnished to an individual who is a resident of a nursing facility from the limitation on the amount of incurred expenses for mental health services that may be taken into account in determining the amount of payment for such services under part B of the medicare program.</title>
+	</titles>
+	<sponsor id="407044"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-02-02"/>
+		<cosponsor id="400126" joined="1993-05-17"/>
+		<cosponsor id="400295" joined="1993-07-19"/>
+		<cosponsor id="400170" joined="1993-05-03"/>
+		<cosponsor id="400306" joined="1993-03-08"/>
+		<cosponsor id="400084" joined="1993-04-19"/>
+		<cosponsor id="400216" joined="1993-03-08"/>
+		<cosponsor id="400511" joined="1993-05-19"/>
+		<cosponsor id="404097" joined="1993-03-15"/>
+		<cosponsor id="400103" joined="1993-05-17"/>
+		<cosponsor id="400140" joined="1993-02-16"/>
+		<cosponsor id="400251" joined="1993-04-20"/>
+		<cosponsor id="400614" joined="1993-02-02"/>
+		<cosponsor id="400536" joined="1993-03-02"/>
+		<cosponsor id="400390" joined="1993-03-08"/>
+		<cosponsor id="400537" joined="1993-02-23"/>
+		<cosponsor id="402762" joined="1993-03-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-02"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-02"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-05"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="935" />
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Mental health services"/>
+		<term name="Nursing homes"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1993--Introduced.
+Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to remove the payment limitation with respect to mental health services furnished to skilled nursing facility residents.
+
+	</summary>
+</bill>

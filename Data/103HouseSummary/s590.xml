@@ -1,0 +1,45 @@
+<bill session="103" type="s" number="590" updated="2012-07-17T05:49:35-04:00">
+	<state datetime="1993-03-16">REFERRED</state>
+	<status><introduced datetime="1993-03-16"/></status>
+
+	<introduced datetime="1993-03-16"/>
+	<titles>
+		<title type="official" as="introduced">A bill to clarify tax treatment of certain disability benefits received by former police officers or firefighters.</title>
+	</titles>
+	<sponsor id="300034"/>
+	<cosponsors>
+		<cosponsor id="300067" joined="1993-03-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-16" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2934)</text></action>
+		<action datetime="1993-03-16" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="225" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Fire fighters"/>
+		<term name="Health"/>
+		<term name="Heart diseases"/>
+		<term name="Hypertension"/>
+		<term name="Limitation of actions"/>
+		<term name="Local officials and employees"/>
+		<term name="Police"/>
+		<term name="State officials and employees"/>
+		<term name="Survivors' benefits"/>
+		<term name="Tax exclusion"/>
+		<term name="Workers' compensation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/16/1993--Introduced.
+Treats heart disease and hypertension as personal injuries or sickness for purposes of excluding from gross income under the Internal Revenue Code the disability benefits received by former police officers or firefighters.
+
+	</summary>
+</bill>

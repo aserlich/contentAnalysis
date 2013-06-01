@@ -1,0 +1,47 @@
+<bill session="103" type="s" number="2070" updated="2012-07-17T04:40:31-04:00">
+	<state datetime="1994-05-04">REFERRED</state>
+	<status><introduced datetime="1994-05-04"/></status>
+
+	<introduced datetime="1994-05-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to increase the deductibility of business meal expenses for individuals who are subject to Federal hours of limitation.</title>
+	</titles>
+	<sponsor id="300061"/>
+	<cosponsors>
+		<cosponsor id="300048" joined="1994-06-09"/>
+		<cosponsor id="300052" joined="1994-06-22"/>
+		<cosponsor id="403962" joined="1994-06-22"/>
+		<cosponsor id="407254" joined="1994-06-09"/>
+		<cosponsor id="405310" joined="1994-09-22"/>
+		<cosponsor id="409917" joined="1994-06-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5180)</text></action>
+		<action datetime="1994-05-04" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4986" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Agriculture and food"/>
+		<term name="Commerce"/>
+		<term name="Hours of labor"/>
+		<term name="Labor and employment"/>
+		<term name="Tax deductions"/>
+		<term name="Taxation"/>
+		<term name="Transportation and public works"/>
+		<term name="Transportation workers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/4/1994--Introduced.
+Amends the Internal Revenue Code to restore the business meal expense deduction to 80 percent (currently 50 percent) for individuals subject to the hours of service limitations of the Department of Transportation.
+
+	</summary>
+</bill>

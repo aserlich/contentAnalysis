@@ -1,0 +1,78 @@
+<bill session="103" type="s" number="1125" updated="2012-07-17T04:24:26-04:00">
+	<state datetime="1993-11-03">REPORTED</state>
+	<status><calendar datetime="1993-11-03" /></status>
+
+	<introduced datetime="1993-06-17"/>
+	<titles>
+		<title type="short" as="introduced">Safe School Act of 1993</title>
+		<title type="short" as="reported to senate">Safe Schools Act of 1993</title>
+		<title type="official" as="introduced">A bill to help local school systems achieve Goal Six of the National Education Goals, which provides that by the year 2000, every school in America will be free of drugs and violence and will offer a disciplined environment conducive to learning, by ensuring that all schools are safe and free of violence.</title>
+	</titles>
+	<sponsor id="300034"/>
+	<cosponsors>
+		<cosponsor id="300066" joined="1993-07-01"/>
+		<cosponsor id="300056" joined="1993-08-06"/>
+		<cosponsor id="402412" joined="1993-07-30"/>
+		<cosponsor id="408597" joined="1993-06-17"/>
+		<cosponsor id="300059" joined="1993-06-17"/>
+		<cosponsor id="300067" joined="1993-06-30"/>
+		<cosponsor id="405212" joined="1993-08-04"/>
+		<cosponsor id="300023" joined="1993-11-05"/>
+		<cosponsor id="411818" joined="1993-07-20"/>
+		<cosponsor id="404598" joined="1993-11-10"/>
+		<cosponsor id="406188" joined="1993-06-17"/>
+		<cosponsor id="400566" joined="1994-01-25"/>
+		<cosponsor id="409917" joined="1993-07-27"/>
+		<cosponsor id="300073" joined="1993-10-25"/>
+		<cosponsor id="407663" joined="1993-11-05"/>
+		<cosponsor id="300057" joined="1993-06-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-17" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S7507-7510)</text></action>
+		<action datetime="1993-06-17" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<action datetime="1993-07-01" state="REPORTED"><text>Sponsor introductory remarks on measure. (CR S8408-8410)</text></action>
+		<action datetime="1993-08-03" state="REFERRED"><committee name="Committee on Labor and Human Resources"/><text>Referred to Subcommittee on Education, Arts, Humanities.</text></action>
+		<action datetime="1993-09-23"><committee name="Committee on Labor and Human Resources"/><text>Subcommittee on Education, Arts, Humanities. Hearings held.</text></action>
+		<action datetime="1993-10-21"><committee name="Committee on Labor and Human Resources"/><text>Subcommittee on Education, Arts, Humanities. Approved for full committee consideration with an amendment in the nature of a substitute favorably.</text></action>
+		<calendar datetime="1993-11-03"  state="REPORTED"><committee name="Committee on Labor and Human Resources"/><text>Committee on Labor and Human Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1993-11-10"><text>Committee on Labor and Human Resources. Reported to Senate by Senator Kennedy with an amendment in the nature of a substitute. With written report No. 103-180.</text></action>
+		<calendar under="General Orders" number="280" datetime="1993-11-10" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 280.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Labor and Human Resources" subcommittee="Education, Arts and Humanities" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2455" />
+		<bill relation="unknown" session="103" type="h" number="2455" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="District of Columbia"/>
+		<term name="Drug abuse"/>
+		<term name="Drugs and youth"/>
+		<term name="Educational policy"/>
+		<term name="Educational statistics"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Elementary education"/>
+		<term name="Federal aid to cities"/>
+		<term name="Federal aid to education"/>
+		<term name="Homicide"/>
+		<term name="Juvenile delinquency"/>
+		<term name="Narcotic traffic"/>
+		<term name="School discipline"/>
+		<term name="School violence"/>
+		<term name="Secondary education"/>
+		<term name="Urban affairs"/>
+		<term name="Urban education"/>
+		<term name="Urban renewal"/>
+		<term name="Violence"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/10/1993--Reported to Senate amended. Safe Schools Act of 1993 - Directs the Secretary of Education to make competitive grants to eligible local educational agencies for projects to achieve National Education Goal Six by helping to ensure that all schools are safe and free of violence. Authorizes appropriations. Authorizes the Secretary to use certain reserved funds to conduct national leadership activities such as research, program development and evaluation, data collection, public awareness activities, training and technical assistance, information dissemination, and peer review of applications under this Act. Directs the Secretary to: (1) designate the District of Columbia as a national model city; and (2) provide certain reserved funds to a local educational agency serving the District for a comprehensive program to address school and youth violence. Amends the General Education Provisions Act to require schools to include school safety policy and statistics on the incidents of school violence as part of the information collected and provided under the national cooperative education statistics system.
+
+	</summary>
+</bill>

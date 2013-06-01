@@ -1,0 +1,81 @@
+<bill session="103" type="h" number="4999" updated="2010-04-19T12:10:54-04:00">
+	<state datetime="1994-10-03T12:53:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-03T12:53:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-08-19"/>
+	<titles>
+		<title type="short" as="introduced">Civil Rights Commission Amendments Act of 1994</title>
+		<title type="short" as="passed house">Civil Rights Commission Amendments Act of 1994</title>
+		<title type="official" as="introduced">To amend the United States Commission on Civil Rights Act of 1983.</title>
+	</titles>
+	<sponsor id="403776"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-19"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-09-29"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-29"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1994-10-03T12:02:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-775.</text></action>
+		<calendar number="423" datetime="1994-10-03T12:03:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 423.</text></calendar>
+		<action datetime="1994-10-03T12:40:00-04:00"><text>Mr. Brooks moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-03T12:40:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10459-10462"/></action>
+		<action datetime="1994-10-03T12:40:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-10-03T12:53:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-03T12:53:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-03T12:54:00-04:00"><text>Laid on the table. See S. 2372 for further action.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="superseded" session="103" type="s" number="2372" />
+	</relatedbills>
+	<subjects>
+		<term name="Civil rights"/>
+		<term name="Abortion"/>
+		<term name="Administrative procedure"/>
+		<term name="Advertising"/>
+		<term name="Age discrimination"/>
+		<term name="Aged"/>
+		<term name="Civil liberties"/>
+		<term name="Civil rights legislation"/>
+		<term name="Commission on Civil Rights"/>
+		<term name="Communications"/>
+		<term name="Criminal justice"/>
+		<term name="Disabled"/>
+		<term name="Discrimination"/>
+		<term name="Elections"/>
+		<term name="Equality before the law"/>
+		<term name="Executive departments"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal officials"/>
+		<term name="Fees"/>
+		<term name="Fraternal organizations"/>
+		<term name="Fraud"/>
+		<term name="Government employees"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Governmental investigations"/>
+		<term name="Information services"/>
+		<term name="Law"/>
+		<term name="Minorities"/>
+		<term name="Names"/>
+		<term name="Public service advertising"/>
+		<term name="Racial discrimination"/>
+		<term name="Religion"/>
+		<term name="Religious liberty"/>
+		<term name="Sex discrimination"/>
+		<term name="Subpoena"/>
+		<term name="Voting"/>
+		<term name="Witnesses"/>
+		<term name="Women"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Passed House amended. Civil Rights Commission Amendments Act of 1994 - Amends the United States Commission on Civil Rights Act of 1983 to reauthorize the Commission. Renames such Act as the Civil Rights Commission Act of 1983. Provides that: (1) the initial membership of the Commission shall be the members of the Commission on September 30, 1994, and thereafter vacancies shall continue to be appointed according to a specified formula; and (2) the term of each member in the initial membership shall expire on the date such term would have expired as of September 30, 1994. Sets forth provisions regarding: (1) the Chairperson and Vice Chairperson; (2) removal of members; and (3) a quorum. Directs the Commission to: (1) investigate allegations in writing under oath or affirmation relating to deprivations because of color, race, religion, sex, age, disability, or national origin, or as a result of any pattern or practice of fraud, of the right of U.S. citizens to vote and have votes counted; and (2) study and collect information relating to, make appraisals of Federal laws and policies regarding, serve as a national clearinghouse for information relating to, and prepare public service announcements and advertising campaigns to discourage, discrimination or denials of equal protection of the laws under the Constitution because of color, race, religion, sex, age, disability, or national origin, or in the administration of justice. Specifies that nothing in this or any other Act shall be construed as authorizing the Commission, its advisory committees, or any person under its supervision or control to: (1) inquire into or investigate any membership practices or internal operations of any fraternal organization, college or university fraternity or sorority, private club, or religious organization; or (2) study and collect, make appraisals of, or serve as a clearinghouse for information about Federal laws and policies regarding abortion. Sets forth provisions regarding: (1) reports; (2) advisory committees; (3) hearings and ancillary matters; and (4) administrative provisions. Authorizes appropriations. Terminates such Act on September 30, 1995.
+
+	</summary>
+</bill>

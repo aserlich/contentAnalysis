@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="3676" updated="2010-04-19T08:43:45-04:00">
+	<state datetime="1994-06-28">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-06-28" /></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="official" as="introduced">To amend the District of Columbia Spouse Equity Act of 1988 to provide for coverage of the former spouses of judges of the District of Columbia courts.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on District of Columbia.</text></action>
+		<action datetime="1993-12-09"><committee name="House Committee on District of Columbia"/><text>Referred to the Subcommittee on Judiciary and Education.</text></action>
+		<action datetime="1994-05-25T10:35:00-04:00"><text>Committee on District of Columbia discharged.</text></action>
+		<action datetime="1994-05-25T10:35:00-04:00"><text>Mr. Stark asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-05-25T10:35:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H3972-3973"/></action>
+		<vote how="without objection" type="vote" datetime="1994-05-25T10:37:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-05-25T10:37:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-06-07"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-06-14" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S6855"/></vote>
+		<topresident datetime="1994-06-14" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-06-15"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-06-16" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-06-28" ><text>Signed by President.</text></signed>
+		<enacted number="103-268" type="public" datetime="1994-06-28"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-268.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSDT" name="House District of Columbia" activity="Referral, Discharged" />
+		<committee code="" name="House District of Columbia" subcommittee="Judiciary and Education" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Local government"/>
+		<term name="District of Columbia"/>
+		<term name="Divorcees"/>
+		<term name="Government employees"/>
+		<term name="Judges"/>
+		<term name="Judicial compensation"/>
+		<term name="Law"/>
+		<term name="State and local government"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Amends the District of Columbia Spouse Equity Act of 1988 to provide coverage for former spouses of judges of the District of Columbia Courts.
+
+	</summary>
+</bill>

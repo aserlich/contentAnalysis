@@ -1,0 +1,42 @@
+<bill session="103" type="s" number="2023" updated="2012-07-17T05:17:03-04:00">
+	<state datetime="1994-08-02">REPORTED</state>
+	<status><calendar datetime="1994-08-02" /></status>
+
+	<introduced datetime="1994-04-14"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for the transfer of certain real property to the General Services Administration and for other purposes.</title>
+	</titles>
+	<sponsor id="300094"/>
+	<cosponsors>
+		<cosponsor id="300150" joined="1994-04-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-14" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4349-4350)</text></action>
+		<action datetime="1994-04-14" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<calendar datetime="1994-08-02"  state="REPORTED"><committee name="Committee on Governmental Affairs"/><text>Committee on Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-10-07"><text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn without amendment. With written report No. 103-406.</text></action>
+		<calendar under="General Orders" number="720" datetime="1994-10-07" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 720.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Alaska"/>
+		<term name="Indian lands"/>
+		<term name="Interest"/>
+		<term name="Land transfers"/>
+		<term name="Minorities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/14/1994--Introduced.
+Authorizes Cook Inlet Region, Inc., to transfer to the United States the Wrangell Institute, in Wrangell, Alaska. Prescribes guidelines for the restoration of property credits.
+
+	</summary>
+</bill>

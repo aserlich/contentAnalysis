@@ -1,0 +1,41 @@
+<bill session="103" type="hc" number="283" updated="2010-04-18T21:45:16-04:00">
+	<state datetime="1994-08-16">REFERRED</state>
+	<status><introduced datetime="1994-08-16"/></status>
+
+	<introduced datetime="1994-08-16"/>
+	<titles>
+		<title type="official" as="introduced">Designating August 24, 1994, as &quot;Ukrainian Independence Day&quot;.</title>
+	</titles>
+	<sponsor id="400163"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-16"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-08-24"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Europe and the Middle East.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Europe and the Middle East" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Special days"/>
+		<term name="Commemorations"/>
+		<term name="Europe"/>
+		<term name="Foreign policy"/>
+		<term name="International affairs"/>
+		<term name="Sovereignty"/>
+		<term name="Ukraine"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/16/1994--Introduced.
+Designates August 24, 1994, as Ukrainian Independence Day.
+
+	</summary>
+</bill>

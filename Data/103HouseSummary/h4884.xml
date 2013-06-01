@@ -1,0 +1,63 @@
+<bill session="103" type="h" number="4884" updated="2012-07-17T05:38:49-04:00">
+	<state datetime="1994-08-16T13:03:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-08-16T13:03:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-08-02"/>
+	<titles>
+		<title type="short" as="introduced">Criminal Justice Information Services Placement Assistance Act</title>
+		<title type="short" as="passed house">Criminal Justice Information Services Placement Assistance Act</title>
+		<title type="official" as="introduced">To authorize noncompetitive, career or career-conditional appointments for employees of the Criminal Justice Information Services of the Federal Bureau of Investigation who do not relocate to Clarksburg, West Virginia.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+		<cosponsor id="400438" joined="1994-08-02"/>
+		<cosponsor id="400524" joined="1994-08-02"/>
+		<cosponsor id="400283" joined="1994-08-02"/>
+		<cosponsor id="402152" joined="1994-08-02"/>
+		<cosponsor id="400435" joined="1994-08-02"/>
+		<cosponsor id="407672" joined="1994-08-02"/>
+		<cosponsor id="400189" joined="1994-08-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-02" state="REFERRED"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-08-08"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Civil Service.</text></action>
+		<action datetime="1994-08-10"><committee name="House Committee on Post Office and Civil Service"/><text>Subcommittee on Civil Service Discharged.</text></action>
+		<action datetime="1994-08-10"><committee name="House Committee on Post Office and Civil Service"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-08-10"  state="REPORTED"><committee name="House Committee on Post Office and Civil Service"/><text>Ordered to be Reported in the Nature of a Substitute.</text></calendar>
+		<action datetime="1994-08-16T12:51:00-04:00"><text>Mr. McCloskey moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-08-16T12:51:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8427-8429"/></action>
+		<action datetime="1994-08-16T12:51:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-08-16T13:03:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-08-16T13:03:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-08-17"><text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Civil Service" activity="Referral, Discharged" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Civil service system"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Criminal justice information systems"/>
+		<term name="Department of Justice"/>
+		<term name="Employee rights"/>
+		<term name="Government operations and politics"/>
+		<term name="Labor and employment"/>
+		<term name="Relocation of employees"/>
+		<term name="Temporary employment"/>
+		<term name="Transfer of employees"/>
+		<term name="West Virginia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/16/1994--Passed House amended. Criminal Justice Information Services Placement Assistance Act - Authorizes noncompetitive, career or career-conditional appointments for employees of the Criminal Justice Information Services Division of the Federal Bureau of Investigation who do not relocate from Washington, D.C. to Clarksburg, West Virginia, provided that: (1) the employee meets the qualification requirements prescribed by the Office of Personnel Management for the position to which appointed; (2) the last previous Federal employment was as an employee of such Division; and (3) the individual is appointed to such position within two years after separating from such Division. Makes this Act inapplicable to an individual serving on the date of this Act's enactment in an appointed position on a temporary or term basis.
+
+	</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="576" updated="2010-04-19T00:31:49-04:00">
+	<state datetime="1993-05-13">REPORTED</state>
+	<status><calendar datetime="1993-05-13" /></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 39, United States Code, to provide the authority to extend to essential civilian personnel serving in support of military operations abroad, the same mailing privileges as are available to members of the Armed Forces serving in the same area.</title>
+	</titles>
+	<sponsor id="407351"/>
+	<cosponsors>
+		<cosponsor id="400524" joined="1993-02-17"/>
+		<cosponsor id="400030" joined="1993-03-17"/>
+		<cosponsor id="400539" joined="1993-02-17"/>
+		<cosponsor id="400536" joined="1993-02-17"/>
+		<cosponsor id="400438" joined="1993-02-17"/>
+		<cosponsor id="402762" joined="1993-01-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Postal Operations and Services.</text></action>
+		<action datetime="1993-03-17"><committee name="House Committee on Post Office and Civil Service" subcommittee="Postal Operations and Services"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-03-17"><committee name="House Committee on Post Office and Civil Service" subcommittee="Postal Operations and Services"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-05-13"><committee name="House Committee on Post Office and Civil Service"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-05-13"  state="REPORTED"><committee name="House Committee on Post Office and Civil Service"/><text>Ordered to be Reported.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Postal Operations and Services" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Postal service"/>
+		<term name="Americans in foreign countries"/>
+		<term name="Armed forces abroad"/>
+		<term name="Federal employees"/>
+		<term name="Magnetic tapes"/>
+		<term name="Postal rates and revenues"/>
+		<term name="Video tape recording"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Extends to civilian personnel serving abroad in support of military operations the same mailing privileges available to members of the armed forces serving in such area.
+
+	</summary>
+</bill>

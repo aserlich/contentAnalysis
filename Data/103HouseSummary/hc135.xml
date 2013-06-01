@@ -1,0 +1,93 @@
+<bill session="103" type="hc" number="135" updated="2010-04-18T21:21:57-04:00">
+	<state datetime="1993-11-02T15:47:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-02T15:47:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-08-05"/>
+	<titles>
+		<title type="official" as="introduced">Calling for the United States to take further steps to establish an international fishery agreement for conservation and management of living marine resources in international waters of the Bering Sea known as the Donut Hole.</title>
+	</titles>
+	<sponsor id="400440"/>
+	<cosponsors>
+		<cosponsor id="400398" joined="1993-10-05"/>
+		<cosponsor id="400428" joined="1993-10-05"/>
+		<cosponsor id="400160" joined="1993-10-05"/>
+		<cosponsor id="300018" joined="1993-10-05"/>
+		<cosponsor id="405775" joined="1993-10-05"/>
+		<cosponsor id="300055" joined="1993-10-05"/>
+		<cosponsor id="406431" joined="1993-10-05"/>
+		<cosponsor id="400302" joined="1993-10-05"/>
+		<cosponsor id="411040" joined="1993-10-05"/>
+		<cosponsor id="400397" joined="1993-10-05"/>
+		<cosponsor id="405855" joined="1993-10-05"/>
+		<cosponsor id="400091" joined="1993-10-05"/>
+		<cosponsor id="410496" joined="1993-08-05"/>
+		<cosponsor id="400603" joined="1993-10-07"/>
+		<cosponsor id="400003" joined="1993-10-07"/>
+		<cosponsor id="400106" joined="1993-10-15"/>
+		<cosponsor id="400359" joined="1993-08-05"/>
+		<cosponsor id="404869" joined="1993-10-05"/>
+		<cosponsor id="404375" joined="1993-10-05"/>
+		<cosponsor id="404097" joined="1993-10-15"/>
+		<cosponsor id="404978" joined="1993-10-05"/>
+		<cosponsor id="400308" joined="1993-10-05"/>
+		<cosponsor id="406625" joined="1993-10-05"/>
+		<cosponsor id="401153" joined="1993-10-15"/>
+		<cosponsor id="400076" joined="1993-10-05"/>
+		<cosponsor id="407141" joined="1993-08-05"/>
+		<cosponsor id="404068" joined="1993-08-05"/>
+		<cosponsor id="400107" joined="1993-10-05"/>
+		<cosponsor id="400569" joined="1993-10-05"/>
+		<cosponsor id="400221" joined="1993-10-07"/>
+		<cosponsor id="410887" joined="1993-10-05"/>
+		<cosponsor id="409052" joined="1993-10-05"/>
+		<cosponsor id="406554" joined="1993-10-05"/>
+		<cosponsor id="400583" joined="1993-10-05"/>
+		<cosponsor id="400243" joined="1993-10-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-05"><text>Sponsor introductory remarks on measure. (CR E1994)</text></action>
+		<action datetime="1993-08-05"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-08-09"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Fisheries Management.</text></action>
+		<action datetime="1993-08-09"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Commerce.</text></action>
+		<action datetime="1993-09-22"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Fisheries Management"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-10-05"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Fisheries Management"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-10-05"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Fisheries Management"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-21"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-11-02T12:17:00-05:00"><text>Reported by the Committee on Merchant Marine and Fisheries. H. Rept. 103-317.</text></action>
+		<calendar number="109" datetime="1993-11-02T12:17:00-05:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 109.</text></calendar>
+		<action datetime="1993-11-02T15:43:00-05:00"><text>Mr. Studds moved to suspend the rules and agree to the resolution.</text></action>
+		<action datetime="1993-11-02T15:43:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8691-8692"/></action>
+		<action datetime="1993-11-02T15:43:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-02T15:47:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-02T15:47:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-03"><text>Received in the Senate and referred to the Committee on Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Fisheries Management" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Fisheries"/>
+		<term name="Bering Sea"/>
+		<term name="Environmental protection"/>
+		<term name="Fishery agreements"/>
+		<term name="International fishery management"/>
+		<term name="Marine resources conservation"/>
+		<term name="Negotiations"/>
+		<term name="Russian Republic"/>
+		<term name="Territorial waters"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/1993--Introduced.
+Declares that it is the sense of the Congress that the United States should: (1) take measures to conserve the resources of an area of the Bering Sea known as the Donut Hole; (2) continue pursuit of an international agreement to ensure management for future commercial viability of the resources; (3) promote international programs for the implementation and enforcement of regulations of the fisheries by nations that fish in the Donut Hole; (4) be mindful of its management responsibility and its rights to use the stock in its Exclusive Economic Zone; (5) accept as an urgent duty conservation of Aleutian Basin pollock stock and carry out that duty; and (6) foster multilateral cooperation and explore all other options for conservation and management of these living marine resources.
+
+	</summary>
+</bill>

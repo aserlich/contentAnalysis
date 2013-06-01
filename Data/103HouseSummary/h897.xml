@@ -1,0 +1,91 @@
+<bill session="103" type="h" number="897" updated="2012-07-17T05:03:05-04:00">
+	<state datetime="1993-11-20T10:50:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-20T10:50:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-02-16"/>
+	<titles>
+		<title type="short" as="introduced">Copyright Reform Act of 1993</title>
+		<title type="short" as="passed house">Copyright Reform Act of 1993</title>
+		<title type="official" as="introduced">To amend title 17, United States Code, to modify certain recordation and registration requirements, to establish copyright arbitration royalty panels to replace the Copyright Royalty Tribunal, and for other purposes.</title>
+	</titles>
+	<sponsor id="405775"/>
+	<cosponsors>
+		<cosponsor id="400299" joined="1993-07-14"/>
+		<cosponsor id="400314" joined="1993-07-14"/>
+		<cosponsor id="407044" joined="1993-06-10"/>
+		<cosponsor id="402454" joined="1993-05-05"/>
+		<cosponsor id="400140" joined="1993-02-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-16" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E337-338)</text></action>
+		<action datetime="1993-02-16" state="REFERRED"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-23"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+		<action datetime="1993-03-03"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-08-03" state="REPORTED"><text>Sponsor introductory remarks on measure. (CR E1961-1962)</text></action>
+		<action datetime="1993-11-04" state="REFERRED"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-11-17"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-11-17"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1993-11-20T10:35:00-05:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-388.</text></action>
+		<calendar number="214" datetime="1993-11-20T10:35:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 214.</text></calendar>
+		<action datetime="1993-11-20T10:36:00-05:00"><text>Mr. Hughes moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-20T10:37:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10308-10312"/></action>
+		<action datetime="1993-11-20T10:38:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-20T10:50:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-20T10:50:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-20T10:50:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-11-20"><text>Received in the Senate.</text></action>
+		<action datetime="1993-11-23"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1994-02-03"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Patents, Copyrights and Trademarks.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Patents, Copyrights and Trademarks" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="373" />
+	</relatedbills>
+	<subjects>
+		<term name="Copyright"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Cable television"/>
+		<term name="Commercial arbitration"/>
+		<term name="Congress"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Copyright infringement"/>
+		<term name="Copyright royalties"/>
+		<term name="Damages"/>
+		<term name="Data banks"/>
+		<term name="Federal preemption"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Information services"/>
+		<term name="Intellectual property"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Libraries"/>
+		<term name="Library of Congress"/>
+		<term name="Licenses"/>
+		<term name="Magnetic recorders and recording"/>
+		<term name="Phonorecords"/>
+		<term name="Presidential appointments"/>
+		<term name="Public broadcasting"/>
+		<term name="Public meetings of administrative bodies"/>
+		<term name="Public records"/>
+		<term name="Science, technology, communications"/>
+		<term name="Sound recording and reproducing"/>
+		<term name="Television relay systems"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Passed House amended. Copyright Reform Act of 1993 - Amends Federal copyright law to grant the Librarian of Congress (currently, the Register of Copyrights) the authority to enforce certain requirements concerning the deposit of copies or phonorecords for the Library of Congress. Directs the Librarian to: (1) publish an annual statement in the Federal Register of the categories of works of which the Library wishes to acquire copies or phonorecords; (2) maintain public records of the receipt of copies and phonorecords; and (3) establish a data base containing records of all deposits to be made available to the public. Revises provisions concerning voluntary copyright registrations to authorize the Register to specify classes of material in which registration may be made without deposit of a copy or phonorecord. Permits a single registration for a group of works by the same author first published as contributions to collective works (currently, periodicals) within a five-year (currently, 12-month) period under certain conditions. Requires the Register to hold annual public hearings to consider proposals to amend Copyright Office regulations and practices to eliminate deposits that are unnecessary and to simplify registration procedures. Establishes a short-form application for copyright registration of specified works. Requires the Register to establish a formal appeals procedure with respect to refusals to register claims to copyright. Repeals provisions that require copyright registration as a prerequisite to an infringement suit and to certain remedies for infringement. Authorizes the courts to eliminate the award of statutory damages for unknowing infringement of copyright (currently, the court may reduce such award to no less than $200). Directs the Librarian to study and report to the Congress on: (1) the mandatory deposit provisions of this Act, including alternatives to such requirements; and (2) the effect on Library acquisitions and the copyright registration system of changes made by this Act in the Federal copyright registration and deposit provisions.
+
+	</summary>
+</bill>

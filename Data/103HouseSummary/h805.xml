@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="805" updated="2010-04-19T01:10:10-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Maritime Navigation Technology and Research Act of 1993</title>
+		<title type="official" as="introduced">To direct the Secretary of Transportation to issue rules which require vessels operating in harbors in the United States to use state-of-the-art maritime vessel traffic control equipment, and for other purposes.</title>
+	</titles>
+	<sponsor id="300156"/>
+	<cosponsors>
+		<cosponsor id="400343" joined="1993-02-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-02-09"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Technology, Environment and Aviation.</text></action>
+		<action datetime="1993-02-18"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Coast Guard and Navigation.</text></action>
+		<action datetime="1993-02-18"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from DOT.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Coast Guard and Navigation" activity="Referral" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Technology, Environment and Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Navigation"/>
+		<term name="Administrative procedure"/>
+		<term name="Coast guard"/>
+		<term name="Department of Transportation"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Marine safety"/>
+		<term name="Navigational aids"/>
+		<term name="Research and development"/>
+		<term name="Ships"/>
+		<term name="Transportation research"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Maritime Navigation Technology and Research Act of 1993 - Directs the Secretary of Transportation to issue regulations which require vessels operating in a U.S. harbor to use state-of-the-art navigation, communication, and collision avoidance equipment that is compatible with Coast Guard vessel traffic systems. Requires the Secretary to conduct research and development of vessel navigation technologies. Establishes the Maritime Navigation Research Advisory Committee to advise the Secretary on maritime research programs.
+
+	</summary>
+</bill>

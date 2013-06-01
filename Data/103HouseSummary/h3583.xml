@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="3583" updated="2012-07-17T04:33:30-04:00">
+	<state datetime="1993-11-23T01:05:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-23T01:05:00-05:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="official" as="introduced">To make certain non-Federal levees eligible for assistance under the Federal levee rehabilitation program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400578"/>
+	<cosponsors>
+		<cosponsor id="403864" joined="1993-11-20"/>
+		<cosponsor id="411166" joined="1993-11-20"/>
+		<cosponsor id="400082" joined="1993-11-20"/>
+		<cosponsor id="400377" joined="1993-11-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-20" state="REFERRED"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-11-23T01:04:00-05:00"><text>Committee on Public Works + Transportation discharged.</text></action>
+		<action datetime="1993-11-23T01:04:00-05:00"><text>Considered by unanimous consent. (consideration: 11/22/93 CR H10912)</text></action>
+		<action datetime="1993-11-23T01:04:00-05:00"><text>Mr. Applegate asked unanimous consent to discharge from committee and consider.</text></action>
+		<vote how="without objection" type="vote" datetime="1993-11-23T01:05:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-11-23T01:05:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-23"><text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Discharged" />
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1813" />
+	</relatedbills>
+	<subjects>
+		<term name="Public works"/>
+		<term name="Dikes (Engineering)"/>
+		<term name="Emergency management"/>
+		<term name="Flood control"/>
+		<term name="Floods"/>
+		<term name="Grants-in-aid"/>
+		<term name="Infrastructure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+States that the eligibility to receive assistance under the levee rehabilitation assistance program of the U.S. Army Corps of Engineers within an area that was affected by the Midwest flooding of 1993 shall not be affected by the status of participation (or lack of participation) of the public sponsor in the program. Provides application requirements of a public sponsor for such assistance, subject to specified conditions, including a 25 percent non-Federal share of program costs. Limits to $50 million the FY 1994 funding for the levee rehabilitation program.
+
+	</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="4875" updated="2010-04-19T11:51:34-04:00">
+	<state datetime="1994-08-01">REFERRED</state>
+	<status><introduced datetime="1994-08-01"/></status>
+
+	<introduced datetime="1994-08-01"/>
+	<titles>
+		<title type="short" as="introduced">Minority Business Development Act of 1994</title>
+		<title type="official" as="introduced">To amend the Small Business Act to modify requirements relating to the personal net worth of individuals who may be considered economically disadvantaged for the purpose of receiving contract awards under section 8(a) of that Act.</title>
+	</titles>
+	<sponsor id="407465"/>
+	<cosponsors>
+		<cosponsor id="400126" joined="1994-09-28"/>
+		<cosponsor id="400306" joined="1994-10-07"/>
+		<cosponsor id="400143" joined="1994-09-28"/>
+		<cosponsor id="400502" joined="1994-09-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-01"><text>Referred to the House Committee on Small Business.</text></action>
+		<action datetime="1994-08-03"><committee name="House Committee on Small Business"/><text>Referred to the Subcommittee on SBA Legislation and the General Economy.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSM" name="House Small Business" activity="Referral, In Committee" />
+		<committee code="" name="House Small Business" subcommittee="SBA Legislation and the General Economy" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Small business"/>
+		<term name="Business"/>
+		<term name="Government contractors"/>
+		<term name="Government procurement"/>
+		<term name="Minorities"/>
+		<term name="Minority business enterprises"/>
+		<term name="Public contracts"/>
+		<term name="Socially handicapped"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/1/1994--Introduced.
+Minority Business Development Act of 1994 - Amends the Small Business Act to provide that the Small Business Administration shall not prohibit the owner of a small business concern from qualifying as an economically disadvantaged individual for purposes of receiving contract awards solely on the basis of personal net worth unless such net worth exceeds $350,000.
+
+	</summary>
+</bill>

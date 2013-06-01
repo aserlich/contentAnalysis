@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="2560" updated="2010-04-19T05:50:46-04:00">
+	<state datetime="1993-06-29">REFERRED</state>
+	<status><introduced datetime="1993-06-29"/></status>
+
+	<introduced datetime="1993-06-29"/>
+	<titles>
+		<title type="official" as="introduced">To establish a program in the Department of Defense to promote and demonstrate electric vehicle and infrastructure development for military and civilian use.</title>
+	</titles>
+	<sponsor id="404013"/>
+	<cosponsors>
+		<cosponsor id="400166" joined="1993-06-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-29"><text>Sponsor introductory remarks on measure. (CR E1669)</text></action>
+		<action datetime="1993-06-29"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-06-29"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-07-06"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Research and Technology.</text></action>
+		<action datetime="1993-07-06"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1993-07-06"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Energy.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Research and Technology" activity="Referral" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Energy" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Aerospace industries"/>
+		<term name="Defense economics"/>
+		<term name="Defense industries"/>
+		<term name="Depressed areas"/>
+		<term name="Electric vehicles"/>
+		<term name="Energy policy"/>
+		<term name="Energy research"/>
+		<term name="Federal aid to research"/>
+		<term name="Federal aid to transportation"/>
+		<term name="Infrastructure (Economics)"/>
+		<term name="Metropolitan areas"/>
+		<term name="Military bases"/>
+		<term name="Military vehicles"/>
+		<term name="Research and development"/>
+		<term name="Transportation research"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/29/1993--Introduced.
+Requires the Secretary of Defense to carry out a program to demonstrate, for military and civilian use, electric motor vehicles and support systems in one or more geographically dispersed metropolitan areas. Allows financial assistance from the Secretary under the program for up to four years. Outlines provisions concerning program application and selection procedures. Authorizes appropriations.
+
+	</summary>
+</bill>

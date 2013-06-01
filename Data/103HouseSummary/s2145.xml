@@ -1,0 +1,64 @@
+<bill session="103" type="s" number="2145" updated="2012-07-17T06:15:48-04:00">
+	<state datetime="1994-05-25">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-05-25" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-05-24"/>
+	<titles>
+		<title type="short" as="introduced">Agricultural Mediation Act of 1994</title>
+		<title type="official" as="introduced">A bill to authorize the Secretary of Agriculture to determine which programs of the Department of Agriculture are eligible for State mediation and to certify States to administer mediation for the programs, and for other purposes.</title>
+	</titles>
+	<sponsor id="300026"/>
+	<cosponsors>
+		<cosponsor id="300048" joined="1994-05-24"/>
+		<cosponsor id="400566" joined="1994-05-24"/>
+		<cosponsor id="300031" joined="1994-05-24"/>
+		<cosponsor id="405310" joined="1994-05-24"/>
+		<cosponsor id="300037" joined="1994-05-24"/>
+		<cosponsor id="300051" joined="1994-05-24"/>
+		<cosponsor id="300042" joined="1994-05-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6288-6289)</text></action>
+		<action datetime="1994-05-24" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1994-05-25"><text>Senate Committee on Agriculture discharged by Unanimous Consent.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-05-25" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S6425-6426"/></vote>
+		<action datetime="1994-05-26"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-05-26T16:38:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-05-26T17:27:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-10-07"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-11-30"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Environment, Credit and Rural Development.</text></action>
+		<action datetime="1994-11-30"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Department Operations and Nutrition.</text></action>
+		<action datetime="1994-11-30"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged" />
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Environment, Credit and Rural Development" activity="Referral" />
+		<committee code="" name="House Agriculture" subcommittee="Department Operations and Nutrition" activity="Referral" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Administrative procedure"/>
+		<term name="Agricultural credit"/>
+		<term name="Agricultural economics"/>
+		<term name="Department of Agriculture"/>
+		<term name="Economics and public finance"/>
+		<term name="Federal-state relations"/>
+		<term name="Government operations and politics"/>
+		<term name="Grants-in-aid"/>
+		<term name="Law"/>
+		<term name="Mediation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/24/1994--Introduced.
+Agricultural Mediation Act of 1994 - Authorizes the Secretary of Agriculture to determine which Department of Agriculture programs are eligible for State mediation programs. Sets forth State program certification requirements. Directs the Secretary to provide State programs with matching grants. Authorizes appropriations. Terminates program authority on September 30, 1998.
+
+	</summary>
+</bill>

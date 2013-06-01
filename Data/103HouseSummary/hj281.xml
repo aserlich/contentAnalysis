@@ -1,0 +1,54 @@
+<bill session="103" type="hj" number="281" updated="2010-04-18T22:35:52-04:00">
+	<state datetime="1993-10-21">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-10-21" /></status>
+
+	<introduced datetime="1993-10-20"/>
+	<titles>
+		<title type="official" as="introduced">Making further continuing appropriations for the fiscal year 1994, and for other purposes.</title>
+	</titles>
+	<sponsor id="408103"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-20"><text>Referred to the House Committee on Appropriations.</text></action>
+		<action datetime="1993-10-20T22:13:00-04:00"><text>Rules Committee Resolution H. Res. 282 Reported to House. Rule provides for consideration of H.J. Res. 281 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Providing for the consideration of the joint resolution in the House.</text></action>
+		<action datetime="1993-10-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-10-21T12:20:00-04:00"><text>Rule H. Res. 282 passed House.</text></action>
+		<action datetime="1993-10-21T12:20:00-04:00"><text>Considered under the provisions of rule H. Res. 282.</text><reference label="consideration" ref="CR H8355-8357"/></action>
+		<action datetime="1993-10-21T12:20:00-04:00"><text>Rule provides for consideration of H.J. Res. 281 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. The joint resolution shall be considered in the House.</text></action>
+		<action datetime="1993-10-21T12:21:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 282, the House proceeded with one hour of debate on the joint resolution.</text></action>
+		<action datetime="1993-10-21T12:28:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<action datetime="1993-10-21T12:28:00-04:00"><text>Mr. McDade moved to recommit to Appropriations.</text></action>
+		<action datetime="1993-10-21T12:28:00-04:00"><text>The previous question on the motion to recommit was ordered without objection.</text></action>
+		<action datetime="1993-10-21T12:28:00-04:00"><text>On motion to recommit Failed by voice vote.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-10-21T12:29:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed by voice vote.</text></vote>
+		<action datetime="1993-10-21T12:29:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-10-21" where="s" result="pass"  state="PASSED:BILL"><text>Received in the Senate, considered, and agreed to without amendment by Voice Vote.</text><reference label="consideration" ref="CR S14164"/></vote>
+		<topresident datetime="1993-10-21" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-10-21" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-10-21" ><text>Signed by President.</text></signed>
+		<enacted number="103-113" type="public" datetime="1993-10-21"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-113.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSAP" name="House Appropriations" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="103" type="hr" number="282" />
+	</relatedbills>
+	<subjects>
+		<term name="Appropriations"/>
+		<term name="Budgets"/>
+		<term name="Continuing resolutions"/>
+		<term name="Defense budgets"/>
+		<term name="Executive departments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/20/1993--Introduced.
+Extends the law making further continuing appropriations for FY 1994.
+
+	</summary>
+</bill>

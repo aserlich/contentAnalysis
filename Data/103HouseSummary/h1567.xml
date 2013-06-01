@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="1567" updated="2010-04-19T03:16:04-04:00">
+	<state datetime="1993-03-31">REFERRED</state>
+	<status><introduced datetime="1993-03-31"/></status>
+
+	<introduced datetime="1993-03-31"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide that tax-exempt interest shall not be taken into account in determining the portion of social security benefits subject to income taxation.</title>
+	</titles>
+	<sponsor id="404139"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-31"><text>Sponsor introductory remarks on measure. (CR H1791)</text></action>
+		<action datetime="1993-03-31"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-04-02"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Interest"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Railroad retirement plans"/>
+		<term name="Tax exclusion"/>
+		<term name="Tax-exempt securities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/31/1993--Introduced.
+Amends the Internal Revenue Code to repeal the requirement that tax-exempt interest be taken into account when determining the portion of social security and railroad retirement benefits that is subject to tax.
+
+	</summary>
+</bill>

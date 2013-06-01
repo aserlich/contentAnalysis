@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="4613" updated="2010-04-19T11:10:44-04:00">
+	<state datetime="1994-06-21">REFERRED</state>
+	<status><introduced datetime="1994-06-21"/></status>
+
+	<introduced datetime="1994-06-21"/>
+	<titles>
+		<title type="official" as="introduced">To protect the ecologically fragile coastal resources of south Florida by prohibiting offshore oil and gas activities and by cancelling Federal leases in the area of the outer Continental Shelf adjacent to the south Florida coast.</title>
+	</titles>
+	<sponsor id="406082"/>
+	<cosponsors>
+		<cosponsor id="400156" joined="1994-06-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-21"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-06-21"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1994-06-27"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Oceanography, Gulf of Mexico, and the Outer Continental Shelf.</text></action>
+		<action datetime="1994-06-27"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1994-08-30"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Energy and Mineral Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-06" name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Referral" />
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Oceanography, Gulf of Mexico and the Outer Continental Shelf" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="583" />
+	</relatedbills>
+	<subjects>
+		<term name="Energy law and legislation"/>
+		<term name="Coastal zone"/>
+		<term name="Continental shelf"/>
+		<term name="Eminent domain"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Environmental protection"/>
+		<term name="Florida"/>
+		<term name="Gas in submerged lands"/>
+		<term name="Gulf of Mexico"/>
+		<term name="Marine resources"/>
+		<term name="Marine resources conservation"/>
+		<term name="Oil and gas leases"/>
+		<term name="Petroleum in submerged lands"/>
+		<term name="Prospecting"/>
+		<term name="Submarine oil well drilling"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/21/1994--Introduced.
+Prohibits the Secretary of the Interior from conducting lease sales, or permitting exploration, production, or drilling activities under the Outer Continental Shelf Lands Act in a certain area in the Eastern Gulf of Mexico Planning Area. Cancels all leases under such Act in such area. Prescribes compensation guidelines for holders of such cancelled leases. Declares that the State of Florida shall not be required to provide any compensation for cancelled leases.
+
+	</summary>
+</bill>

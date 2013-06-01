@@ -1,0 +1,36 @@
+<bill session="103" type="hr" number="109" updated="2010-04-19T13:15:39-04:00">
+	<state datetime="1993-03-02">REFERRED</state>
+	<status><introduced datetime="1993-03-02"/></status>
+
+	<introduced datetime="1993-03-02"/>
+	<titles>
+		<title type="official" as="introduced">To establish a Select Committee on POW and MIA Affairs.</title>
+	</titles>
+	<sponsor id="400219"/>
+	<cosponsors>
+		<cosponsor id="406768" joined="1993-03-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-02"><text>Referred to the House Committee on Rules.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hr" number="122" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congressional committees (House)"/>
+		<term name="Missing in action"/>
+		<term name="Prisoners of war"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/2/1993--Introduced.
+Establishes the House Select Committee on POW and MIA Affairs.
+
+	</summary>
+</bill>

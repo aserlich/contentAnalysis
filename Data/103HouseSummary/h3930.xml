@@ -1,0 +1,68 @@
+<bill session="103" type="h" number="3930" updated="2010-04-19T09:23:32-04:00">
+	<state datetime="1994-03-01">REFERRED</state>
+	<status><introduced datetime="1994-03-01"/></status>
+
+	<introduced datetime="1994-03-01"/>
+	<titles>
+		<title type="official" as="introduced">To identify illegal aliens who consume scarce health care resources in the United States and who do not pay for such care and to seek reimbursement for this care from the home government of the aliens.</title>
+	</titles>
+	<sponsor id="400176"/>
+	<cosponsors>
+		<cosponsor id="400144" joined="1994-03-09"/>
+		<cosponsor id="400056" joined="1994-03-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-01"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-03-01"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-03-01"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-03-01"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-03-04"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1994-03-04"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1994-03-21"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="American economic assistance"/>
+		<term name="Budgets"/>
+		<term name="Child health"/>
+		<term name="Children"/>
+		<term name="Deportation"/>
+		<term name="Federal aid to maternal health services"/>
+		<term name="Foreign aid"/>
+		<term name="Foreign policy"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Health policy"/>
+		<term name="Illegal aliens"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Public assistance programs"/>
+		<term name="Social security"/>
+		<term name="State and local government"/>
+		<term name="State laws"/>
+		<term name="Tax-exempt organizations"/>
+		<term name="Welfare"/>
+		<term name="Women"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/1/1994--Introduced.
+Requires: (1) each federally-subsidized health care provider that provides health care services to an illegal alien to identify such person to the Immigration and Naturalization Service; (2) the Attorney General to give such alien deportation priority; and (3) withholding of specified U.S. assistance to such alien's home country to cover the cost of any unpaid health services.
+
+	</summary>
+</bill>

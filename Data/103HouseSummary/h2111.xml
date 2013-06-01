@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="2111" updated="2010-04-19T04:41:09-04:00">
+	<state datetime="1993-05-12">REFERRED</state>
+	<status><introduced datetime="1993-05-12"/></status>
+
+	<introduced datetime="1993-05-12"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for the permanent extension of qualified small issue bonds and to except certain expenditures from the limitation of such bonds.</title>
+	</titles>
+	<sponsor id="400390"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-07-27"/>
+		<cosponsor id="400543" joined="1993-07-27"/>
+		<cosponsor id="400262" joined="1993-08-03"/>
+		<cosponsor id="400050" joined="1993-08-03"/>
+		<cosponsor id="400256" joined="1993-07-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-12"><text>Sponsor introductory remarks on measure. (CR E1241-1242)</text></action>
+		<action datetime="1993-05-12"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+		<bill relation="identical" session="103" type="s" number="945" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Farms"/>
+		<term name="Industrial development bonds"/>
+		<term name="Manufacturing industries"/>
+		<term name="Rural affairs legislation"/>
+		<term name="Tax-exempt securities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/12/1993--Introduced.
+Amends the Internal Revenue Code to permanently authorize the issuance of qualified small issue bonds issued to finance manufacturing facilities and farm property. Excepts certain expenditures from the monetary limitation on such bonds.
+
+	</summary>
+</bill>

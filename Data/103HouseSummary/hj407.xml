@@ -1,0 +1,39 @@
+<bill session="103" type="hj" number="407" updated="2010-04-18T22:56:20-04:00">
+	<state datetime="1994-09-12">REFERRED</state>
+	<status><introduced datetime="1994-09-12"/></status>
+
+	<introduced datetime="1994-09-12"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States relative to the free exercise of religion.</title>
+	</titles>
+	<sponsor id="407838"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-12"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-09-14"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="sj" number="199" />
+	</relatedbills>
+	<subjects>
+		<term name="Religion"/>
+		<term name="Civil liberties"/>
+		<term name="Constitution"/>
+		<term name="Constitutional amendments"/>
+		<term name="Religious liberty"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/12/1994--Introduced.
+Constitutional Amendment - Prohibits the denial or abridgement by the United States or by any State of the right of U.S. citizens to the free exercise of religion.
+
+	</summary>
+</bill>

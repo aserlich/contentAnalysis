@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="4615" updated="2010-04-19T11:11:02-04:00">
+	<state datetime="1994-09-28">REPORTED</state>
+	<status><calendar datetime="1994-09-28" /></status>
+
+	<introduced datetime="1994-06-21"/>
+	<titles>
+		<title type="official" as="introduced">To make applicable the provisions of the Act commonly known as the &quot;Warren Act&quot; to the Central Utah Project, Utah, and for other purposes.</title>
+	</titles>
+	<sponsor id="408364"/>
+	<cosponsors>
+		<cosponsor id="409829" joined="1994-06-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-21"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-06-22"><committee name="House Committee on Natural Resources"/><text>For Further Action See S.859.</text></action>
+		<action datetime="1994-07-12"><committee name="House Committee on Natural Resources"/><text>Provisions of Measure Not Included in S.859.</text></action>
+		<action datetime="1994-08-30"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Subcommittee on Oversight and Investigations Discharged.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T20:09:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-791.</text></action>
+		<calendar number="437" datetime="1994-10-03T20:09:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 437.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Oversight and Investigations" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="859" />
+		<bill relation="identical" session="103" type="s" number="2213" />
+	</relatedbills>
+	<subjects>
+		<term name="Water"/>
+		<term name="Environmental protection"/>
+		<term name="Executive departments"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Public contracts"/>
+		<term name="Utah"/>
+		<term name="Water conservation"/>
+		<term name="Water districts"/>
+		<term name="Water resources"/>
+		<term name="Water storage"/>
+		<term name="Water supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Reported to House amended. Authorizes the Secretary of the Interior, using any facilities associated with the Central Utah Project, Utah, to enter into: (1) contracts with private entities pursuant to the Warren Act for the impoundment, storage, and carriage of nonproject water for domestic, municipal, fish and wildlife, industrial, and other beneficial purposes; and (2) agreements under such Act with appropriate officials of other Federal agencies, municipalities, water districts and agencies, and States for the use of nonproject water for such purposes. Permits any employee, or member of the Board of Directors, of the Central Utah Water Conservancy District to serve as a member of the Utah Reclamation Mitigation and Conservation Commission.
+
+	</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="103" type="hr" number="352" updated="2010-05-21T00:04:38-04:00">
+	<state datetime="1994-02-09T15:06:00-05:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-02-09T15:06:00-05:00" where="h" result="pass" how="roll" roll="17"/></status>
+
+	<introduced datetime="1994-02-08"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the consideration of the bill (H.R. 811) to reauthorize the independent counsel law for an additional 5 years, and for other purposes.</title>
+	</titles>
+	<sponsor id="403403"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-02"><text>Sponsor introductory remarks on measure. (CR E82)</text></action>
+		<action datetime="1994-02-08T18:43:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-419, by Mr. Derrick.</text></action>
+		<action datetime="1994-02-08T18:43:00-05:00"><text>Rule provides for consideration of H.R. 811 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Providing for the consideration of the bill in the Committee of the Whole. Measure will be read by section. Specified amendments are in order. It shall be in order to consider as an original bill the amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill. Points of order against the committee amendment for failure to comply with provisions of the Budget Act shall be waived. Only those amendments printed in the report accompanying this resolution shall be in order, to be considered in the manner specified in the report and not subject to further amendment except as specified. All points of order against the amendments shall be waived. After passage of the bill, it shall be in ...</text></action>
+		<calendar datetime="1994-02-08T18:43:00-05:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 133.</text></calendar>
+		<action datetime="1994-02-09T13:12:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H366-377"/></action>
+		<action datetime="1994-02-09T13:15:00-05:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1994-02-09T13:29:00-05:00"><text>DEBATE - The House resumed debate.</text></action>
+		<action datetime="1994-02-09T14:48:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 249 - 174 (Roll no. 16).</text></action>
+		<vote how="roll" type="vote" roll="17" datetime="1994-02-09T15:06:00-05:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by recorded vote: 242 - 174 (Roll no. 17).</text></vote>
+		<action datetime="1994-02-09T15:06:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="811" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congress"/>
+		<term name="House rules and procedure"/>
+		<term name="Law enforcement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/8/1994--Introduced.
+Sets forth the rule for the consideration of H.R. 811 (reauthorizing the independent counsel law for an additional five years).
+
+	</summary>
+</bill>

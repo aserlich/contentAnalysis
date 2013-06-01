@@ -1,0 +1,36 @@
+<bill session="103" type="h" number="3760" updated="2010-04-19T08:56:52-04:00">
+	<state datetime="1994-02-01">REFERRED</state>
+	<status><introduced datetime="1994-02-01"/></status>
+
+	<introduced datetime="1994-02-01"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Kirsten T. Jorgensen.</title>
+	</titles>
+	<sponsor id="400161"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-01"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Immigration"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/1/1994--Introduced.
+Declares a named individual to have been lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act.
+
+	</summary>
+</bill>

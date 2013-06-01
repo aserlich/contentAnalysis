@@ -1,0 +1,64 @@
+<bill session="103" type="h" number="1229" updated="2010-04-19T02:21:56-04:00">
+	<state datetime="1993-03-04">REFERRED</state>
+	<status><introduced datetime="1993-03-04"/></status>
+
+	<introduced datetime="1993-03-04"/>
+	<titles>
+		<title type="short" as="introduced">National Aviation Research and Competitiveness Act of 1993</title>
+		<title type="official" as="introduced">To provide for the establishment of a joint aviation research and development program between the Federal Aviation Administration and the Department of Defense, and for other purposes.</title>
+	</titles>
+	<sponsor id="406790"/>
+	<cosponsors>
+		<cosponsor id="400348" joined="1993-03-04"/>
+		<cosponsor id="401547" joined="1993-03-04"/>
+		<cosponsor id="400057" joined="1993-03-04"/>
+		<cosponsor id="400343" joined="1993-03-04"/>
+		<cosponsor id="400560" joined="1993-03-04"/>
+		<cosponsor id="404602" joined="1993-06-23"/>
+		<cosponsor id="407399" joined="1993-03-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-03"><text>Sponsor introductory remarks on measure. (CR E494)</text></action>
+		<action datetime="1993-03-04"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-03-04"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-03-09"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Research and Technology.</text></action>
+		<action datetime="1993-03-09"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1993-03-09"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Technology, Environment and Aviation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Research and Technology" activity="Referral" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Technology, Environment and Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Commercial aviation"/>
+		<term name="Aeronautics"/>
+		<term name="Air pollution control"/>
+		<term name="Airports"/>
+		<term name="Aviation policy"/>
+		<term name="Aviation safety"/>
+		<term name="Communication satellites"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Environmental protection"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Foreign trade"/>
+		<term name="International competitiveness"/>
+		<term name="Military aviation"/>
+		<term name="Noise"/>
+		<term name="Research and development"/>
+		<term name="Technological innovations"/>
+		<term name="Transportation planning"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/4/1993--Introduced.
+National Aviation Research and Competitiveness Act of 1993 - Directs the Administrator of the Federal Aviation Administration (FAA) and the Secretary of Defense (Secretary) to jointly establish a research program on aviation technologies that applies to both military and civil aviation vehicles and airports and that enhance U.S. competitiveness. Requires the Administrator and the Secretary to transmit to the Congress a national aviation research plan that advances aviation technologies over a five-year period. Establishes a Joint Aviation Research Advisory Committee.
+
+	</summary>
+</bill>

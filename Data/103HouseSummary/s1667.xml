@@ -1,0 +1,65 @@
+<bill session="103" type="s" number="1667" updated="2010-04-19T18:50:12-04:00">
+	<state datetime="1993-12-02">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-02" /></status>
+
+	<introduced datetime="1993-11-17"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend authorities under the Middle East Peace Facilitation Act of 1993 by six months.</title>
+	</titles>
+	<sponsor id="408597"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-17" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S15954"/></vote>
+		<action datetime="1993-11-18T10:01:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-18T14:05:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-11-18T17:34:00-05:00"><text>Mr. Lantos asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1993-11-18T17:34:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10111"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-11-18T17:38:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-11-18T17:39:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-18"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-11-18" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-11-20" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-02" ><text>Signed by President.</text></signed>
+		<enacted number="103-166" type="public" datetime="1993-12-02"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-166.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="American economic assistance"/>
+		<term name="Arab countries"/>
+		<term name="Commercial blacklisting"/>
+		<term name="Congress"/>
+		<term name="Congress and foreign policy"/>
+		<term name="Congressional oversight"/>
+		<term name="Foreign aid"/>
+		<term name="Foreign policy"/>
+		<term name="Foreign trade"/>
+		<term name="International affairs"/>
+		<term name="International agencies"/>
+		<term name="International finance"/>
+		<term name="International monetary system"/>
+		<term name="Israel"/>
+		<term name="Middle East and North Africa"/>
+		<term name="Multilateral development banks"/>
+		<term name="Palestinians"/>
+		<term name="Peace treaties"/>
+		<term name="Recognition (International law)"/>
+		<term name="Trade"/>
+		<term name="United Nations finances"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/17/1993--Introduced.
+Amends the Middle East Peace Facilitation Act of 1993 to extend from January 1 to July 1, 1994, the authority to suspend the applicability of certain laws to the Palestine Liberation Organization.
+
+	</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="103" type="s" number="327" updated="2012-07-17T06:28:52-04:00">
+	<state datetime="1993-02-04">REFERRED</state>
+	<status><introduced datetime="1993-02-04"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Military Separation Retirement Benefits Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to permit rollovers into individual retirement accounts of separation pay from the Armed Services.</title>
+	</titles>
+	<sponsor id="300150"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-07-29"/>
+		<cosponsor id="403669" joined="1993-02-04"/>
+		<cosponsor id="300052" joined="1993-10-20"/>
+		<cosponsor id="300056" joined="1993-07-29"/>
+		<cosponsor id="300099" joined="1993-10-27"/>
+		<cosponsor id="409580" joined="1993-07-29"/>
+		<cosponsor id="402004" joined="1993-02-04"/>
+		<cosponsor id="405212" joined="1993-02-04"/>
+		<cosponsor id="300157" joined="1993-08-05"/>
+		<cosponsor id="400561" joined="1993-11-05"/>
+		<cosponsor id="404598" joined="1993-02-04"/>
+		<cosponsor id="300069" joined="1993-07-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1414-1415)</text></action>
+		<action datetime="1993-02-04" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2617" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Dismissal wage"/>
+		<term name="Individual retirement accounts"/>
+		<term name="Military discharges"/>
+		<term name="Military pay"/>
+		<term name="Tax exclusion"/>
+		<term name="Tax-deferred compensation plans"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Military Separation Retirement Benefits Act of 1993 - Amends the Internal Revenue Code to allow rollovers into individual retirement accounts of military separation pay.
+
+	</summary>
+</bill>

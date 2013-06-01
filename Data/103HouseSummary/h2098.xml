@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="2098" updated="2010-04-19T04:39:10-04:00">
+	<state datetime="1993-05-12">REFERRED</state>
+	<status><introduced datetime="1993-05-12"/></status>
+
+	<introduced datetime="1993-05-12"/>
+	<titles>
+		<title type="official" as="introduced">To suspend until January 1, 1997, the duty on certain instant print cameras.</title>
+	</titles>
+	<sponsor id="406277"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-12"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-17"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-05-19"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1993-10-07"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Cameras"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/12/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1996, the duty on certain instant print cameras.
+
+	</summary>
+</bill>

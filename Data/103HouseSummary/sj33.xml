@@ -1,0 +1,37 @@
+<bill session="103" type="sj" number="33" updated="2012-07-17T04:10:51-04:00">
+	<state datetime="1993-01-28">REFERRED</state>
+	<status><introduced datetime="1993-01-28"/></status>
+
+	<introduced datetime="1993-01-28"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States to limit the terms of office for Representatives and Senators in Congress.</title>
+	</titles>
+	<sponsor id="400562"/>
+	<cosponsors>
+		<cosponsor id="300054" joined="1993-09-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-28" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-02-04"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Constitution.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Constitution" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="77" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional terms of office"/>
+		<term name="Constitutional amendments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/1993--Introduced.
+Constitutional Amendment - Prohibits a person from serving more than four consecutive terms as a Representative or more than two consecutive terms as a Senator (excluding any term served before adoption of this Amendment).
+
+	</summary>
+</bill>

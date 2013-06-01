@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="3634" updated="2010-04-19T08:37:17-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="short" as="introduced">Selective Service Standby Act of 1993</title>
+		<title type="official" as="introduced">To amend the Military Selective Service Act to terminate the registration requirement and to terminate the activities of civilian local boards, civilian appeal boards and similar local agencies of the Selective Service System.</title>
+	</titles>
+	<sponsor id="400100"/>
+	<cosponsors>
+		<cosponsor id="400885" joined="1994-04-14"/>
+		<cosponsor id="402890" joined="1994-07-28"/>
+		<cosponsor id="404375" joined="1994-04-14"/>
+		<cosponsor id="400378" joined="1994-06-23"/>
+		<cosponsor id="400269" joined="1994-04-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-12-06"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-12-06"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1696" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Civil rights"/>
+		<term name="Defense policy"/>
+		<term name="Draft registration"/>
+		<term name="Executive departments"/>
+		<term name="Federal employees"/>
+		<term name="Government employees"/>
+		<term name="Presidential appointments"/>
+		<term name="Presidents"/>
+		<term name="Selective Service System"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Selective Service Standby Act of 1993 - Amends the Military Selective Service Act to prohibit: (1) requiring a person to submit to registration under the Selective Service System (SSS); (2) the President from appointing a person as a member of a civilian local board, civilian appeal board, or similar local agency of the SSS; and (3) any such board from meeting. Prohibits a person from being denied any right, privilege, benefit, or employment position under Federal law by reason of failure to so register after such date.
+
+	</summary>
+</bill>

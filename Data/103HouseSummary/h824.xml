@@ -1,0 +1,62 @@
+<bill session="103" type="h" number="824" updated="2010-04-19T01:13:17-04:00">
+	<state datetime="1993-02-04">REFERRED</state>
+	<status><introduced datetime="1993-02-04"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Department of Environmental Protection Act</title>
+		<title type="official" as="introduced">To establish a Department of Environmental Protection, and for other purposes.</title>
+	</titles>
+	<sponsor id="402657"/>
+	<cosponsors>
+		<cosponsor id="407320" joined="1993-02-04"/>
+		<cosponsor id="400156" joined="1993-03-25"/>
+		<cosponsor id="404587" joined="1993-03-23"/>
+		<cosponsor id="400116" joined="1993-07-13"/>
+		<cosponsor id="400264" joined="1993-02-04" withdrawn="1994-05-18"/>
+		<cosponsor id="400370" joined="1993-02-04"/>
+		<cosponsor id="400192" joined="1993-03-16"/>
+		<cosponsor id="404869" joined="1993-03-16"/>
+		<cosponsor id="400329" joined="1993-11-18"/>
+		<cosponsor id="404401" joined="1993-03-16"/>
+		<cosponsor id="404097" joined="1993-03-23"/>
+		<cosponsor id="407400" joined="1993-03-23"/>
+		<cosponsor id="407817" joined="1993-03-16"/>
+		<cosponsor id="412001" joined="1993-02-04"/>
+		<cosponsor id="400169" joined="1993-02-04"/>
+		<cosponsor id="400083" joined="1993-03-23"/>
+		<cosponsor id="400569" joined="1993-03-23"/>
+		<cosponsor id="409633" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04"><text>Sponsor introductory remarks on measure. (CR E298-299)</text></action>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Government Operations"/><text>See H.R.3425.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="109" />
+		<bill relation="unknown" session="103" type="h" number="2601" />
+		<bill relation="unknown" session="103" type="h" number="3425" />
+		<bill relation="unknown" session="103" type="h" number="3425" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Environmental Protection Agency"/>
+		<term name="Executive reorganization"/>
+		<term name="Presidential appointments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+TABLE OF CONTENTS: Title I: Redesignation of Environmental Protection Agency as Department of Environmental Protection Title II: Administrative Provisions TABLE OF CONTENTS: Department of Environmental Protection Act - Title I: Redesignation of Environmental Protection Agency as Department of Environmental Protection - Redesignates the Environmental Protection Agency as the Department of Environmental Protection, an executive department to be administered by a Secretary of Environmental Protection appointed by the President, by and with the advice and consent of the Senate. Title II: Administrative Provisions - Sets forth administrative provisions applicable to such designation.
+
+	</summary>
+</bill>

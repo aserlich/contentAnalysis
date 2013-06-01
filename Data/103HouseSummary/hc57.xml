@@ -1,0 +1,60 @@
+<bill session="103" type="hc" number="57" updated="2010-04-18T21:09:35-04:00">
+	<state datetime="1993-03-03">REFERRED</state>
+	<status><introduced datetime="1993-03-03"/></status>
+
+	<introduced datetime="1993-03-03"/>
+	<titles>
+		<title type="official" as="introduced">To recognize the heroic sacrifice of the Special Agents of the Bureau of Alcohol, Tobacco and Firearms in Waco, Texas.</title>
+	</titles>
+	<sponsor id="400189"/>
+	<cosponsors>
+		<cosponsor id="408725" joined="1993-03-03"/>
+		<cosponsor id="400197" joined="1993-03-03"/>
+		<cosponsor id="409422" joined="1993-03-03"/>
+		<cosponsor id="400882" joined="1993-03-03"/>
+		<cosponsor id="400354" joined="1993-03-03"/>
+		<cosponsor id="400567" joined="1993-03-03"/>
+		<cosponsor id="400417" joined="1993-03-03"/>
+		<cosponsor id="400188" joined="1993-03-03"/>
+		<cosponsor id="406799" joined="1993-03-03"/>
+		<cosponsor id="403190" joined="1993-03-03"/>
+		<cosponsor id="400118" joined="1993-03-03"/>
+		<cosponsor id="401417" joined="1993-03-03"/>
+		<cosponsor id="400301" joined="1993-03-03"/>
+		<cosponsor id="400435" joined="1993-03-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-03"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-03-03"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-03"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Judiciary"/><text>For Further Action See S.Con.Res.12.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="sc" number="12" />
+		<bill relation="identical" session="103" type="sc" number="12" />
+		<bill relation="unknown" session="103" type="sc" number="12" />
+	</relatedbills>
+	<subjects>
+		<term name="Congressional tributes"/>
+		<term name="Commemorations"/>
+		<term name="Department of the Treasury"/>
+		<term name="Federal employees"/>
+		<term name="Law enforcement officers"/>
+		<term name="Texas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/3/1993--Introduced.
+Declares that the sacrifice and dedication of the agents of the Bureau of Alcohol, Tobacco and Firearms is a cornerstone of our system of justice and cause for both sorrow and pride.
+
+	</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="103" type="s" number="14" updated="2012-07-17T05:20:23-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="short" as="introduced">Educational Equity Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend the amount of grants received under chapter 1 of title I of the Elementary and Secondary Education Act of 1965.</title>
+	</titles>
+	<sponsor id="300052"/>
+	<cosponsors>
+		<cosponsor id="300007" joined="1993-01-21"/>
+		<cosponsor id="300082" joined="1994-05-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S365-366)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="676" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Education of socially handicapped children"/>
+		<term name="Educational equalization"/>
+		<term name="Elementary education"/>
+		<term name="Federal aid to education"/>
+		<term name="Secondary education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Educational Equity Act of 1993 - Amends the Elementary and Secondary Education Act of 1965 to revise the formula for determining the amount of grants to States for educationally disadvantaged children (chapter 1 program). Replaces the State per pupil expenditure with the national average per pupil expenditure in such formula.
+
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="1807" updated="2010-04-19T03:53:48-04:00">
+	<state datetime="1993-04-22">REFERRED</state>
+	<status><introduced datetime="1993-04-22"/></status>
+
+	<introduced datetime="1993-04-22"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide special rules for certain gratuitous transfers of employer securities for the benefit of employees.</title>
+	</titles>
+	<sponsor id="400882"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-22"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Select Revenue Measures.</text></action>
+		<action datetime="1993-06-17"><committee name="House Committee on Ways and Means" subcommittee="Select Revenue Measures"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-05" name="House Ways and Means" subcommittee="Select Revenue Measures" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="948" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Charities"/>
+		<term name="Employee ownership"/>
+		<term name="Securities"/>
+		<term name="Tax administration"/>
+		<term name="Tax exemption"/>
+		<term name="Trusts and trustees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/22/1993--Introduced.
+Amends the Internal Revenue Code regarding estates and trusts to provide rules for the gratuitous transfer of qualified employer securities to an employee stock ownership plan from charitable remainder trusts.
+
+	</summary>
+</bill>

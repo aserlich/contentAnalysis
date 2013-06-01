@@ -1,0 +1,56 @@
+<bill session="103" type="s" number="2395" updated="2012-07-17T06:18:00-04:00">
+	<state datetime="1994-10-22">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-22" /></status>
+
+	<introduced datetime="1994-08-16"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the United States Federal Building and Courthouse in Detroit, Michigan, as the &quot;Theodore Levin Federal Building and Courthouse&quot;, and for other purposes.</title>
+		<title type="official" as="amended by senate">An act to designate the United States Courthouse in Detroit, Michigan, as the &quot;Theodore Levin Courthouse&quot;, and for other purposes.</title>
+	</titles>
+	<sponsor id="409225"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-16" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S11901)</text></action>
+		<action datetime="1994-08-16" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar datetime="1994-09-27"  state="REPORTED"><committee name="Committee on Environment and Public Works"/><text>Committee on Environment and Public Works. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1994-09-27"><text>Committee on Environment and Public Works. Reported to Senate by Senator Baucus with amendments and an amendment to the title. Without written report.</text></action>
+		<calendar under="General Orders" number="661" datetime="1994-09-27" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 661.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-09-30" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with amendments and an amendment to the Title by Voice Vote.</text><reference label="consideration" ref="CR S13833"/></vote>
+		<action datetime="1994-10-03"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-03T12:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-10-03T16:31:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-10-07T18:39:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H11316"/></action>
+		<action datetime="1994-10-07T18:39:00-04:00"><text>Mr. Traficant asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<vote how="without objection" type="vote2" datetime="1994-10-07T18:41:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-10-07T18:41:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-10-07" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-10-17" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-22" ><text>Signed by President.</text></signed>
+		<enacted number="103-405" type="public" datetime="1994-10-22"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-405.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4967" />
+		<bill relation="unknown" session="103" type="h" number="4967" />
+		<bill relation="unknown" session="103" type="h" number="4987" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Commemorations"/>
+		<term name="Courthouses"/>
+		<term name="Federal office buildings"/>
+		<term name="Michigan"/>
+		<term name="Names"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/1994--Passed Senate amended. Designates the courthouse facility located at 231 West Lafayette in Detroit, Michigan, as the Theodore Levin Courthouse.
+
+	</summary>
+</bill>

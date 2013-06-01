@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="3285" updated="2012-07-17T06:07:31-04:00">
+	<state datetime="1993-11-08T12:59:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-08T12:59:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-10-14"/>
+	<titles>
+		<title type="official" as="introduced">To redesignate the postal facility located at 1401 West Fort Street, Detroit, Michigan, as the &quot;George W. Young Post Office&quot;.</title>
+	</titles>
+	<sponsor id="402762"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-14" state="REFERRED"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-10-18"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Postal Operations and Services.</text></action>
+		<action datetime="1993-10-27"><committee name="House Committee on Post Office and Civil Service"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-27"  state="REPORTED"><committee name="House Committee on Post Office and Civil Service"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1993-10-27"><committee name="House Committee on Post Office and Civil Service"/><text>Subcommittee on Postal Operations and Services Discharged.</text></action>
+		<action datetime="1993-11-08T12:54:00-05:00"><text>Miss Collins (MI) moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-11-08T12:54:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8887"/></action>
+		<action datetime="1993-11-08T12:55:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-08T12:59:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-08T12:59:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-09"><text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<calendar datetime="1994-08-02" ><committee name="House Committee on Post Office and Civil Service"/><text>Committee on Governmental Affairs. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action datetime="1994-08-12"><text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn with an amendment and an amendment to the title. Without written report.</text></action>
+		<calendar under="General Orders" number="565" datetime="1994-08-12" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 565.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Postal Operations and Services" activity="Referral, Discharged" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Commemorations"/>
+		<term name="Executive compensation"/>
+		<term name="Federal officials"/>
+		<term name="Labor and employment"/>
+		<term name="Michigan"/>
+		<term name="Names"/>
+		<term name="Position classification"/>
+		<term name="Postal facilities"/>
+		<term name="Salaries"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/12/1994--Reported to Senate amended. Designates the postal facility located at 1401 West Fort Street, Detroit, Michigan, as the George W. Young Post Office. Reclassifies: (1) the position of Chairman of the Federal Labor Relations Authority (FLRA) at Level III of the Executive Schedule; and (2) the positions of Members and General Counsel of FLRA at Level IV. Applies post office consolidation and closing procedures to community post offices operated under contracts entered into with the Postmaster General.
+
+	</summary>
+</bill>

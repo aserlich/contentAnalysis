@@ -1,0 +1,62 @@
+<bill session="103" type="h" number="3627" updated="2010-04-19T08:36:11-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Export Administration Act of 1979 with respect to the control of computers and related equipment.</title>
+	</titles>
+	<sponsor id="300018"/>
+	<cosponsors>
+		<cosponsor id="400015" joined="1994-05-04"/>
+		<cosponsor id="404083" joined="1994-03-22"/>
+		<cosponsor id="407351" joined="1994-03-22"/>
+		<cosponsor id="411040" joined="1994-03-22"/>
+		<cosponsor id="400124" joined="1994-03-22"/>
+		<cosponsor id="408364" joined="1994-03-22"/>
+		<cosponsor id="400262" joined="1994-03-22"/>
+		<cosponsor id="410567" joined="1994-05-04"/>
+		<cosponsor id="406482" joined="1994-03-22"/>
+		<cosponsor id="409829" joined="1994-03-22"/>
+		<cosponsor id="400140" joined="1994-03-22"/>
+		<cosponsor id="406082" joined="1994-03-22"/>
+		<cosponsor id="400193" joined="1994-03-22"/>
+		<cosponsor id="403776" joined="1994-03-22"/>
+		<cosponsor id="300100" joined="1994-03-22"/>
+		<cosponsor id="400252" joined="1993-11-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-11-24"><text>Sponsor introductory remarks on measure. (CR E3110-3112)</text></action>
+		<action datetime="1993-12-06"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Economic Policy, Trade and Environment.</text></action>
+		<action datetime="1994-02-09"><text>Sponsor introductory remarks on measure. (CR H397)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Economic Policy, Trade, and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Computer software"/>
+		<term name="Computers"/>
+		<term name="Defense policy"/>
+		<term name="Export controls"/>
+		<term name="Licenses"/>
+		<term name="Military and naval supplies"/>
+		<term name="National security"/>
+		<term name="Technology"/>
+		<term name="Technology transfer"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Amends the Export Administration Act of 1979 to grant the Secretary of Commerce exclusive authority to control exports of all computer hardware, software, and technology for information security (including encryption), except any specifically designed or modified for military use. Exempts specified items from license requirements. Instructs the Secretary to authorize the export or reexport under specified circumstances of software with encryption capabilities for nonmilitary end-uses.
+
+	</summary>
+</bill>

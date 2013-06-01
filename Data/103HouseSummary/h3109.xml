@@ -1,0 +1,76 @@
+<bill session="103" type="h" number="3109" updated="2010-04-19T07:15:51-04:00">
+	<state datetime="1993-09-21">REFERRED</state>
+	<status><introduced datetime="1993-09-21"/></status>
+
+	<introduced datetime="1993-09-21"/>
+	<titles>
+		<title type="official" as="introduced">To require that educational organizations that offer educational programs to minors for a fee disclose certain information.</title>
+	</titles>
+	<sponsor id="400387"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-10-05"/>
+		<cosponsor id="400364" joined="1994-01-25"/>
+		<cosponsor id="400210" joined="1993-10-13"/>
+		<cosponsor id="400160" joined="1993-10-13"/>
+		<cosponsor id="405775" joined="1994-02-08"/>
+		<cosponsor id="406431" joined="1993-10-26"/>
+		<cosponsor id="400122" joined="1994-04-12"/>
+		<cosponsor id="400552" joined="1993-10-26"/>
+		<cosponsor id="409578" joined="1993-10-05"/>
+		<cosponsor id="400409" joined="1993-10-05"/>
+		<cosponsor id="411725" joined="1993-10-05"/>
+		<cosponsor id="404869" joined="1993-09-21"/>
+		<cosponsor id="400329" joined="1994-01-25"/>
+		<cosponsor id="403364" joined="1994-04-18"/>
+		<cosponsor id="404097" joined="1993-10-20"/>
+		<cosponsor id="412001" joined="1994-02-08"/>
+		<cosponsor id="400586" joined="1993-11-19"/>
+		<cosponsor id="400211" joined="1993-10-05"/>
+		<cosponsor id="401134" joined="1993-11-17"/>
+		<cosponsor id="400595" joined="1993-11-08"/>
+		<cosponsor id="400357" joined="1993-11-22"/>
+		<cosponsor id="400223" joined="1993-10-26"/>
+		<cosponsor id="400278" joined="1993-10-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-21"><text>Sponsor introductory remarks on measure. (CR H6836-6837)</text></action>
+		<action datetime="1993-09-21"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-10-07"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+		<action datetime="1993-10-07"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Select Education and Civil Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral" />
+		<committee code="HSED-04" name="House Education and Labor" subcommittee="Select Education and Civil Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="996" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Conflict of interests"/>
+		<term name="Consumer education"/>
+		<term name="Deceptive advertising"/>
+		<term name="Desegregation in education"/>
+		<term name="Discrimination in employment"/>
+		<term name="Elementary education"/>
+		<term name="Financial statements"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Government paperwork"/>
+		<term name="Mailing lists"/>
+		<term name="Nondiscrimination provisions"/>
+		<term name="Sales promotion"/>
+		<term name="Secondary education"/>
+		<term name="Sex discrimination in education"/>
+		<term name="Tax-exempt organizations"/>
+		<term name="Teachers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/21/1993--Introduced.
+Requires educational organizations that offer educational programs to minors for a fee to disclose certain information in written form to the minor or the minor's parent before accepting funds for the cost of the minor's participation in such a program. (Excludes from the definition of educational organization a local educational agency, an elementary or secondary school or organization sponsored by such a school, a recreational organization, or a social club.) Requires each such educational organization to include a verifiable statement of nondiscriminatory enrollment and employment policy on all enrollment or recruitment material. Directs the Secretary of Education to monitor compliance with this Act. Authorizes imposition of civil fines for violations.
+
+	</summary>
+</bill>

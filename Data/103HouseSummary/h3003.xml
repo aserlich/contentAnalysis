@@ -1,0 +1,36 @@
+<bill session="103" type="h" number="3003" updated="2010-04-19T06:59:23-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38 of the United States Code to permit certain eligible veterans to purchase up to $20,000 of National Service Life Insurance.</title>
+	</titles>
+	<sponsor id="409966"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-08-16"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Compensation, Pension and Insurance.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Veterans' Affairs" subcommittee="Compensation, Pension and Insurance" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Government life insurance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Permits an eligible veteran to purchase additional National Service Life Insurance in an amount equal to the amount of National Service Life Insurance such veteran already has in force.
+
+	</summary>
+</bill>

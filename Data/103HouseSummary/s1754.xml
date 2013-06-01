@@ -1,0 +1,36 @@
+<bill session="103" type="s" number="1754" updated="2012-07-17T06:14:31-04:00">
+	<state datetime="1993-11-20">REFERRED</state>
+	<status><introduced datetime="1993-11-20"/></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="official" as="introduced">A bill regarding the suspension of duty on diflunisal.</title>
+	</titles>
+	<sponsor id="401709"/>
+	<cosponsors>
+		<cosponsor id="300064" joined="1993-11-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-20" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S16768)</text></action>
+		<action datetime="1993-11-20" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3176" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Chemicals"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to extend, through December 31, 1995, the suspension of duty on 2,4-difluoro-4-hydroxy-3-biphenyl-carboxylic acid (also known as diflunisal).
+
+	</summary>
+</bill>

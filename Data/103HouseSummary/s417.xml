@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="417" updated="2012-07-17T04:46:31-04:00">
+	<state datetime="1993-02-24">REFERRED</state>
+	<status><introduced datetime="1993-02-24"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="official" as="introduced">A bill to exempt semiconductors from the country of origin marking requirements under the Tariff Act of 1930.</title>
+	</titles>
+	<sponsor id="408420"/>
+	<cosponsors>
+		<cosponsor id="403171" joined="1993-02-24"/>
+		<cosponsor id="300005" joined="1993-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2004-2005)</text></action>
+		<action datetime="1993-02-24" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="955" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Labeling"/>
+		<term name="Packaging"/>
+		<term name="Semiconductors"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Amends the Tariff Act of 1930 to exempt semiconductors from the country of origin marking requirements under such Act.
+
+	</summary>
+</bill>

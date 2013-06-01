@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="440" updated="2010-04-19T00:09:11-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To impose a 10-year moratorium on oil and gas leasing in certain areas off the coast of New Jersey.</title>
+	</titles>
+	<sponsor id="412001"/>
+	<cosponsors>
+		<cosponsor id="400380" joined="1993-02-23"/>
+		<cosponsor id="400359" joined="1993-01-05"/>
+		<cosponsor id="404401" joined="1993-01-05"/>
+		<cosponsor id="400008" joined="1993-01-05"/>
+		<cosponsor id="400533" joined="1993-01-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-02-04"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Energy and Mineral Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-06" name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Energy law and legislation"/>
+		<term name="Continental shelf"/>
+		<term name="Energy policy"/>
+		<term name="Environmental protection"/>
+		<term name="Gas in submerged lands"/>
+		<term name="New Jersey"/>
+		<term name="Oil and gas leases"/>
+		<term name="Petroleum in submerged lands"/>
+		<term name="Prospecting"/>
+		<term name="Submarine oil well drilling"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Prohibits the Secretary of the Interior from engaging in any oil or gas leasing or preleasing activity (including the approval of exploration, development, or production plans) for a ten-year moratorium period for specified areas off the New Jersey coast.
+
+	</summary>
+</bill>

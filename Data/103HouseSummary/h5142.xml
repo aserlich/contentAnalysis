@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="5142" updated="2010-04-19T12:32:48-04:00">
+	<state datetime="1994-09-30">REFERRED</state>
+	<status><introduced datetime="1994-09-30"/></status>
+
+	<introduced datetime="1994-09-30"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Agricultural Trade Act of 1978 to establish a condition on the provision of assistance under the export enhancement program for the export of durum wheat.</title>
+	</titles>
+	<sponsor id="400008"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-30"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-10-03"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on General Farm Commodities.</text></action>
+		<action datetime="1994-10-03"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Foreign Agriculture and Hunger.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="General Farm Commodities" activity="Referral" />
+		<committee code="" name="House Agriculture" subcommittee="Foreign Agriculture and Hunger" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural economics"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Export subsidies"/>
+		<term name="Foreign trade"/>
+		<term name="Trade"/>
+		<term name="Wheat"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/1994--Introduced.
+Amends the Agricultural Trade Act of 1978 to prohibit the Commodity Credit Corporation from providing assistance for the export of durum wheat in any year in which the projected stock-to-use ratio for such item is less than or equal to 40 percent.
+
+	</summary>
+</bill>

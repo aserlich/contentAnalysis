@@ -1,0 +1,54 @@
+<bill session="103" type="s" number="1552" updated="2012-07-17T05:46:56-04:00">
+	<state datetime="1993-10-15">REFERRED</state>
+	<status><introduced datetime="1993-10-15"/></status>
+
+	<introduced datetime="1993-10-15"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend for an additional two years the authorization of the Black Revolutionary War Patriots Foundation to establish a memorial.</title>
+	</titles>
+	<sponsor id="300099"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-11-01"/>
+		<cosponsor id="400564" joined="1993-11-01"/>
+		<cosponsor id="402412" joined="1993-11-01"/>
+		<cosponsor id="407992" joined="1993-11-16"/>
+		<cosponsor id="300070" joined="1993-11-02"/>
+		<cosponsor id="409917" joined="1993-11-16"/>
+		<cosponsor id="300084" joined="1993-11-16"/>
+		<cosponsor id="401709" joined="1993-11-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-15" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S13557)</text></action>
+		<action datetime="1993-10-15" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-10-18"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1994-02-01"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-02-10"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed: S.Hrg. 103-572.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2947" />
+	</relatedbills>
+	<subjects>
+		<term name="Monuments and memorials"/>
+		<term name="American Revolution"/>
+		<term name="Armed forces and national security"/>
+		<term name="Black military personnel"/>
+		<term name="Commemorations"/>
+		<term name="District of Columbia"/>
+		<term name="Foundations"/>
+		<term name="History"/>
+		<term name="Military history"/>
+		<term name="Minorities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/15/1993--Introduced.
+Extends the authorization of the Black Revolutionary War Patriots Foundation to establish a memorial on Federal land in the District of Columbia to October 27, 1995.
+
+	</summary>
+</bill>

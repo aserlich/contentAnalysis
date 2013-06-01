@@ -1,0 +1,66 @@
+<bill session="103" type="sj" number="167" updated="2012-07-17T05:07:48-04:00">
+	<state datetime="1994-08-19">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-08-19" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-03-09"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the week of September 12, 1994, through September 16, 1994, as &quot;National Gang Violence Prevention Week&quot;.</title>
+	</titles>
+	<sponsor id="409917"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="1994-05-05"/>
+		<cosponsor id="300059" joined="1994-05-05"/>
+		<cosponsor id="403142" joined="1994-05-05"/>
+		<cosponsor id="406084" joined="1994-07-20"/>
+		<cosponsor id="300037" joined="1994-05-05"/>
+		<cosponsor id="409225" joined="1994-07-28"/>
+		<cosponsor id="300029" joined="1994-07-28"/>
+		<cosponsor id="300082" joined="1994-05-05"/>
+		<cosponsor id="300017" joined="1994-05-05"/>
+		<cosponsor id="300084" joined="1994-05-05"/>
+		<cosponsor id="403346" joined="1994-05-05"/>
+		<cosponsor id="300066" joined="1994-05-05"/>
+		<cosponsor id="300034" joined="1994-06-24"/>
+		<cosponsor id="411818" joined="1994-05-05"/>
+		<cosponsor id="300157" joined="1994-06-24"/>
+		<cosponsor id="300069" joined="1994-07-01"/>
+		<cosponsor id="400566" joined="1994-05-05"/>
+		<cosponsor id="300001" joined="1994-05-05"/>
+		<cosponsor id="407992" joined="1994-03-09"/>
+		<cosponsor id="405310" joined="1994-05-05"/>
+		<cosponsor id="300064" joined="1994-05-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-09" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2643)</text></action>
+		<action datetime="1994-03-09" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1994-08-19"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S12206-12207"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-08-19" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment and with a preamble by Voice Vote.</text></vote>
+		<action datetime="1994-08-23"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-08-23T10:02:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-08-23"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="391" />
+	</relatedbills>
+	<subjects>
+		<term name="Special weeks"/>
+		<term name="Commemorations"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Crime prevention"/>
+		<term name="Families"/>
+		<term name="Gangs"/>
+		<term name="Violence"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/9/1994--Introduced.
+Designates September 12 through 16, 1994, as National Gang Violence Prevention Week.
+
+	</summary>
+</bill>

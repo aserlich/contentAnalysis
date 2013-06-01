@@ -1,0 +1,47 @@
+<bill session="103" type="s" number="2550" updated="2010-04-19T21:08:10-04:00">
+	<state datetime="1994-10-07">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-10-07" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-10-07"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for the sale of certain lands of the University of Arkansas.</title>
+	</titles>
+	<sponsor id="408939"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1994-10-07" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S14666"/></vote>
+		<action datetime="1994-11-29"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-11-29T12:30:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-11-29"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-11-30"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands"/>
+		<term name="Agricultural education"/>
+		<term name="Agricultural research"/>
+		<term name="Agriculture"/>
+		<term name="Arkansas"/>
+		<term name="Colleges"/>
+		<term name="Education"/>
+		<term name="Higher education"/>
+		<term name="Land transfers"/>
+		<term name="Science policy"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1994--Introduced.
+Authorizes the University of Arkansas to sell certain lands (commonly known as the Walker Tract) in Washington County, Arkansas, if all of the proceeds of such sale are used for the purposes of the University's agricultural research facilities and programs.
+
+	</summary>
+</bill>

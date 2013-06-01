@@ -1,0 +1,148 @@
+<bill session="103" type="h" number="995" updated="2012-07-17T06:07:57-04:00">
+	<state datetime="1994-10-13">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-13" /></status>
+
+	<introduced datetime="1993-02-18"/>
+	<titles>
+		<title type="short" as="introduced">Uniformed Services Employment and Reemployment Rights Act of 1993</title>
+		<title type="short" as="passed house">Uniformed Services Employment and Reemployment Rights Act of 1994</title>
+		<title type="short" as="passed senate">Uniformed Services Employment and Reemployment Rights Act of 1993</title>
+		<title type="short" as="enacted">Uniformed Services Employment and Reemployment Rights Act of 1994</title>
+		<title type="official" as="introduced">To amend title 38, United States Code, to improve reemployment rights and benefits of veterans and other benefits of employment of certain members of the uniformed services, and for other purposes.</title>
+	</titles>
+	<sponsor id="407838"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1993-04-05"/>
+		<cosponsor id="400048" joined="1993-04-26"/>
+		<cosponsor id="400329" joined="1993-02-18"/>
+		<cosponsor id="400422" joined="1993-04-26"/>
+		<cosponsor id="408618" joined="1993-02-18"/>
+		<cosponsor id="400127" joined="1993-04-05"/>
+		<cosponsor id="400030" joined="1993-04-27"/>
+		<cosponsor id="408556" joined="1993-04-05"/>
+		<cosponsor id="408476" joined="1993-04-05"/>
+		<cosponsor id="400504" joined="1993-02-18"/>
+		<cosponsor id="400389" joined="1993-04-05"/>
+		<cosponsor id="400380" joined="1993-02-18"/>
+		<cosponsor id="405313" joined="1993-04-05"/>
+		<cosponsor id="409966" joined="1993-02-18"/>
+		<cosponsor id="400075" joined="1993-02-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-18" state="REFERRED"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-02-18"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Civil Service.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Education, Training and Employment.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Veterans' Affairs"/><text>Executive Comment Requested from DOD, Labor, OPM.</text></action>
+		<action datetime="1993-03-10"><committee name="House Committee on Post Office and Civil Service"/><text>Executive Comment Requested from OPM.</text></action>
+		<action datetime="1993-03-25"><committee name="House Committee on Veterans' Affairs" subcommittee="Education, Training and Employment"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-03-25"><committee name="House Committee on Veterans' Affairs" subcommittee="Education, Training and Employment"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-04-01"><committee name="House Committee on Veterans' Affairs"/><text>Executive Comment Received from Labor.</text></action>
+		<action datetime="1993-04-01"><committee name="House Committee on Veterans' Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-04-01"  state="REPORTED"><committee name="House Committee on Veterans' Affairs"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-04-28T15:53:00-04:00"><text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 103-65, Part I.</text></action>
+		<action datetime="1993-05-04T12:43:00-04:00"><text>Mr. Montgomery moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-05-04T12:44:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2203-2212"/></action>
+		<action datetime="1993-05-04T12:44:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-05-04T13:03:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-05-04T13:03:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-05-05"><text>Received in the Senate and read twice and referred to the Committee on Veterans.</text></action>
+		<action datetime="1993-11-08"><text>Senate Committee on Veterans discharged by Unanimous Consent.</text></action>
+		<action datetime="1993-11-08"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S15356-15363"/></action>
+		<action datetime="1993-11-08"><text>Senate struck all after the Enacting Clause and substituted the language of S. 843 amended.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-11-08" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-11-09"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-09-13T16:08:00-04:00"><text>Mr. Montgomery asked unanimous consent that the House agree with an amendment to the Senate amendment.</text></action>
+		<vote how="without objection" type="pingpong" datetime="1994-09-13T16:13:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House agree with an amendment to the Senate amendment Agreed to without objection.</text><reference label="consideration" ref="CR H9117-9143"/></vote>
+		<action datetime="1994-09-19"><text>Message on House action received in Senate and at the desk: House amendment to Senate amendment.</text></action>
+		<action datetime="1994-09-28"><text>Senate agreed to the House amendment to the Senate amendment by Voice Vote.</text><reference label="consideration" ref="CR S13642"/></action>
+		<topresident datetime="1994-09-28" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-09-29"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-04" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-13" ><text>Signed by President.</text></signed>
+		<enacted number="103-353" type="public" datetime="1994-10-13"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-353.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Civil Service" activity="Referral" />
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Veterans' Affairs" subcommittee="Education, Training and Employment" activity="Referral, Markup, Reporting" />
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="843" />
+		<bill relation="unknown" session="103" type="s" number="843" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Actions and defenses"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Americans employed in foreign countries"/>
+		<term name="Armed forces reserves"/>
+		<term name="Business records"/>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Civil service pensions"/>
+		<term name="Civil service retirement"/>
+		<term name="Commerce"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Damages"/>
+		<term name="Department of Labor"/>
+		<term name="Department of Veterans Affairs"/>
+		<term name="Disabled"/>
+		<term name="Disciplining of employees"/>
+		<term name="Discrimination in employment"/>
+		<term name="Dismissal of employees"/>
+		<term name="District courts"/>
+		<term name="Earnings"/>
+		<term name="Employee benefit plans"/>
+		<term name="Employee health benefits"/>
+		<term name="Employee rights"/>
+		<term name="Employee training"/>
+		<term name="Employment agencies"/>
+		<term name="Employment of the handicapped"/>
+		<term name="Federal employees"/>
+		<term name="Federal preemption"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Government attorneys"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Governmental investigations"/>
+		<term name="Grievance procedures"/>
+		<term name="Health"/>
+		<term name="Health insurance"/>
+		<term name="Housing and community development"/>
+		<term name="Information services"/>
+		<term name="Injunctions"/>
+		<term name="Intelligence officers"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Labor and employment"/>
+		<term name="Law"/>
+		<term name="Leave of absence"/>
+		<term name="Legal fees"/>
+		<term name="Military discharges"/>
+		<term name="Military personnel"/>
+		<term name="Mortgage loans"/>
+		<term name="Pension funds"/>
+		<term name="Personnel records"/>
+		<term name="Promotions"/>
+		<term name="Recruiting of employees"/>
+		<term name="Right to counsel"/>
+		<term name="Seniority in employment"/>
+		<term name="State laws"/>
+		<term name="Subpoena"/>
+		<term name="Veterans' employment"/>
+		<term name="Veterans' loans"/>
+		<term name="Whistle blowing"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/13/1994--House agreed to Senate amendment with amendment. Uniformed Services Employment and Reemployment Rights Act of 1994 - Amends Federal veterans' benefits provisions to revise generally provisions relating to the employment and reemployment rights of members of the uniformed services. States that a person's entitlement to rights and benefits under this Act will be terminated in cases of a dishonorable or bad conduct discharge or a separation, release, or dismissal under conditions other than honorable. Prohibits the denial of initial employment, reemployment, retention in employment, promotion, or any benefit of employment by an employer against a person who is a member of, applies for membership in, or performs, has performed, applies to perform, or has an obligation to perform service in a uniformed service on the basis of such service or obligation. Prohibits an employer from discriminating in employment or taking any adverse employment action against any person who has acted to enforce a protection afforded by this Act. Excuses an employer from such reemployment requirements if changed circumstances make reemployment impossible or unreasonable or if reemployment would impose an undue hardship on such employer (with the burden of proof of such circumstances on the employer in such cases). Entitles any person absent from employment by reason of the performance of military service to the rights and benefits of this Act if: (1) the person has given advance notice of such service to the employer; (2) the cumulative length of such absence and any previous absences from employment by reason of military service does not exceed five years; and (3) the person reports or applies to such employer upon completion of such service in accordance with requirements enumerated under this Act. Excuses employer notice when precluded by military necessity or when otherwise impossible or unreasonable. Outlines certain conditions under which a person shall remain entitled to such employment and reemployment rights even though the cumulative length of military service exceeds five years. Outlines provisions concerning: (1) employee reporting requirements upon completion of military service, including the presentation of documentation of such military service to the employer; (2) the positions (same or substantially similar) to which the returning employee shall be entitled; (3) reemployment rights of persons disabled during such military service (requiring the employer to make reasonable efforts to accommodate the disability); and (4) reemployment rights of a person employed by the Federal Government before such military service. Requires the heads of certain Federal intelligence and investigative agencies to prescribe procedures to ensure that rights provided under this Act apply to their employees. Requires the head of each such agency to report to specified congressional committees on the number of persons whose reemployment with the agency was determined to be impossible or unreasonable during the preceding year. Entitles a person reemployed after military service to all seniority and other rights and benefits (including pension benefits and coverage under the appropriate health plan) that such person would have attained if the employment had not been interrupted by military service. Directs the Secretary of Labor to report annually to the Congress from 1996 through 2000 concerning actions taken during such year with regard to reemployment actions, violations, compliants and recommendations. Directs the Secretary of Labor to assist all eligible persons with respect to employment and reemployment rights and benefits. Outlines procedures for assistance, investigation of complaints, and enforcement of such rights and benefits against Federal, State, or private employers. Directs the Secretaries of Labor, Defense, and Veterans Affairs to provide those persons performing qualifying military service, as well as their employers, with information relating to their reemployment and other rights, benefits, and obligations. (Sec. 3) Excludes reemployment rights and benefits from any military minimum service requirements. (Sec. 4) Provides for the continuation of contributions to the Thrift Savings Plan for enrolled persons performing such military service. (Sec. 5) Amends Federal pay provisions concerning the Civil Service Retirement System (CSRS) and the Federal Employees Retirement System (FERS) to include as creditable Federal service under both systems full-time National Guard duty followed by reemployment occurring on or after August 1, 1990. Provides for appropriate CSRS and FERS pay deductions during such periods of duty. (Sec. 7) Increases from $46,000 to $50,750 the maximum loan amount that will be guaranteed by the Department of Veterans Affairs to veterans when used for the purchase or construction of a home.
+
+	</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="2870" updated="2010-04-19T06:38:46-04:00">
+	<state datetime="1993-08-04">REFERRED</state>
+	<status><introduced datetime="1993-08-04"/></status>
+
+	<introduced datetime="1993-08-04"/>
+	<titles>
+		<title type="short" as="introduced">Washington State Health Services Reform Enabling Act of 1993</title>
+		<title type="official" as="introduced">To amend title I of the Employee Retirement Income Security Act of 1974 to exempt from preemption under such title certain provisions of the law of the State of Washington relating to health plans.</title>
+	</titles>
+	<sponsor id="406482"/>
+	<cosponsors>
+		<cosponsor id="300018" joined="1993-08-04"/>
+		<cosponsor id="411040" joined="1993-08-04"/>
+		<cosponsor id="410567" joined="1993-08-04"/>
+		<cosponsor id="400109" joined="1993-08-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-04"><text>Sponsor introductory remarks on measure. (CR E1974-1975)</text></action>
+		<action datetime="1993-08-04"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-09-14"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1360" />
+	</relatedbills>
+	<subjects>
+		<term name="Employment"/>
+		<term name="Employee health benefits"/>
+		<term name="Federal preemption"/>
+		<term name="Health insurance"/>
+		<term name="Health policy"/>
+		<term name="Labor"/>
+		<term name="Medical care"/>
+		<term name="State and local government"/>
+		<term name="State laws"/>
+		<term name="Washington State"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/4/1993--Introduced.
+Washington State Health Services Reform Enabling Act of 1993 - Amends the Employee Retirement Income Security Act of 1974 (ERISA) to exempt from preemption under provisions for protection of employee benefit rights certain provisions of the law of the State of Washington relating to health plans.
+
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="103" type="s" number="518" updated="2012-07-17T04:23:59-04:00">
+	<state datetime="1993-03-05">REFERRED</state>
+	<status><introduced datetime="1993-03-05"/></status>
+
+	<introduced datetime="1993-03-05"/>
+	<titles>
+		<title type="short" as="introduced">Deficit Reduction Through Intelligence Programs Reduction Act of 1993</title>
+		<title type="official" as="introduced">A bill to reduce the deficit by limiting the amount of appropriations which may be available to the intelligence community for fiscal year 1994.</title>
+	</titles>
+	<sponsor id="402004"/>
+	<cosponsors>
+		<cosponsor id="409580" joined="1993-03-05"/>
+		<cosponsor id="300031" joined="1993-05-21"/>
+		<cosponsor id="411818" joined="1993-08-05"/>
+		<cosponsor id="300042" joined="1993-03-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-05" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2490-2492)</text></action>
+		<action datetime="1993-03-05" state="REFERRED"><text>Read twice and referred to the Committee on Appropriations.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAP" name="Senate Appropriations" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Appropriations"/>
+		<term name="Budget deficits"/>
+		<term name="Federal budgets"/>
+		<term name="Government spending reductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/5/1993--Introduced.
+Deficit Reduction Through Intelligence Programs Reduction Act of 1993 - Prohibits funds appropriated to carry out activities of the intelligence community for FY 1994 from exceeding the equal amount of such appropriations for FY 1993, minus $1,260,000,000.
+
+	</summary>
+</bill>

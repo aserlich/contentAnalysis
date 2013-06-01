@@ -1,0 +1,50 @@
+<bill session="103" type="s" number="764" updated="2012-07-17T05:14:15-04:00">
+	<state datetime="1993-04-02">REFERRED</state>
+	<status><introduced datetime="1993-04-02"/></status>
+
+	<introduced datetime="1993-04-02"/>
+	<titles>
+		<title type="official" as="introduced">A bill to exclude service of election officials and election workers from the Social Security payroll tax.</title>
+	</titles>
+	<sponsor id="411818"/>
+	<cosponsors>
+		<cosponsor id="404219" joined="1993-05-11"/>
+		<cosponsor id="403346" joined="1993-05-04"/>
+		<cosponsor id="300066" joined="1993-05-21"/>
+		<cosponsor id="300012" joined="1993-05-11"/>
+		<cosponsor id="400557" joined="1993-05-26"/>
+		<cosponsor id="300015" joined="1994-05-24"/>
+		<cosponsor id="300031" joined="1994-05-17"/>
+		<cosponsor id="300082" joined="1993-06-15"/>
+		<cosponsor id="300064" joined="1994-07-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-02" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4422)</text></action>
+		<action datetime="1993-04-02" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Election administration"/>
+		<term name="Local officials and employees"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Social security eligibility"/>
+		<term name="Social security taxes"/>
+		<term name="State officials and employees"/>
+		<term name="Tax exemption"/>
+		<term name="Withholding tax"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/2/1993--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act and the Internal Revenue Code to raise the social security payroll tax exemption for State and local election officials and workers and index the exempt amount beginning in 1993.
+
+	</summary>
+</bill>

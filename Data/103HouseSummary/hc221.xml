@@ -1,0 +1,45 @@
+<bill session="103" type="hc" number="221" updated="2010-04-18T21:35:31-04:00">
+	<state datetime="1994-03-09">REFERRED</state>
+	<status><introduced datetime="1994-03-09"/></status>
+
+	<introduced datetime="1994-03-09"/>
+	<titles>
+		<title type="official" as="introduced">Declaring the sense of Congress with respect to studies and research involving the legalization of drugs.</title>
+	</titles>
+	<sponsor id="410147"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-09"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-03-11"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3991" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Budgets"/>
+		<term name="Criminal justice"/>
+		<term name="Drug abuse"/>
+		<term name="Drug legalization"/>
+		<term name="Executive departments"/>
+		<term name="Federal aid to research"/>
+		<term name="Law"/>
+		<term name="Narcotic traffic"/>
+		<term name="Research"/>
+		<term name="Science policy"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/9/1994--Introduced.
+Expresses the sense of the Congress that no Government department or agency should conduct or finance any study or research involving the legalization of drugs.
+
+	</summary>
+</bill>

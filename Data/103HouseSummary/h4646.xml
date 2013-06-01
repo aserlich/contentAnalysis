@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="4646" updated="2010-04-19T11:15:51-04:00">
+	<state datetime="1994-06-24">REFERRED</state>
+	<status><introduced datetime="1994-06-24"/></status>
+
+	<introduced datetime="1994-06-24"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XIX of the Social Security Act to make optional the requirement that a State seek adjustment or recovery from an individual's estate of any medical assistance correctly paid on behalf of the individual under the State plan under such title, and to raise the minimum age of the individuals against whose estates the State is permitted to seek such adjustment or recovery.</title>
+	</titles>
+	<sponsor id="400099"/>
+	<cosponsors>
+		<cosponsor id="400160" joined="1994-06-24"/>
+		<cosponsor id="403190" joined="1994-09-13"/>
+		<cosponsor id="408476" joined="1994-06-24"/>
+		<cosponsor id="400357" joined="1994-06-24"/>
+		<cosponsor id="406024" joined="1994-06-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-24"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-06-30"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Collection of accounts"/>
+		<term name="Health policy"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Public assistance programs"/>
+		<term name="Welfare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/24/1994--Introduced.
+Amends title XIX (Medicaid) of the Social Security Act, as amended by the Omnibus Budget Reconciliation Act of 1993, to: (1) make optional the requirement that a State seek adjustment or recovery from an individual's estate of any medical assistance correctly paid on that individual's behalf under the State plan; and (2) raise from 55 to 65 the minimum age of the individuals against whose estates the State is permitted to seek such adjustment or recovery.
+
+	</summary>
+</bill>

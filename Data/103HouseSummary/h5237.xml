@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="5237" updated="2010-04-19T12:47:23-04:00">
+	<state datetime="1994-10-07">REFERRED</state>
+	<status><introduced datetime="1994-10-07"/></status>
+
+	<introduced datetime="1994-10-07"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 31, United States Code, to close appropriation accounts available for an indefinite period.</title>
+	</titles>
+	<sponsor id="300085"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-07"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-10-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Appropriations"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Government spending"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1994--Introduced.
+Amends Federal monetary law to revise the guidelines for the closing of appropriation accounts available for indefinite periods.
+
+	</summary>
+</bill>

@@ -1,0 +1,99 @@
+<bill session="103" type="h" number="3457" updated="2010-04-19T08:09:45-04:00">
+	<state datetime="1993-11-04">REFERRED</state>
+	<status><introduced datetime="1993-11-04"/></status>
+
+	<introduced datetime="1993-11-04"/>
+	<titles>
+		<title type="official" as="introduced">To provide that cost-of-living adjustments to payments made under the Federal law shall be determined using a new price index which does not take into account tobacco products.</title>
+	</titles>
+	<sponsor id="400382"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-11-04"/>
+		<cosponsor id="410147" joined="1993-11-16" withdrawn="1994-02-11"/>
+		<cosponsor id="400160" joined="1993-11-16"/>
+		<cosponsor id="400156" joined="1994-01-25"/>
+		<cosponsor id="404587" joined="1993-11-04"/>
+		<cosponsor id="300038" joined="1993-11-15"/>
+		<cosponsor id="402890" joined="1993-11-04"/>
+		<cosponsor id="400176" joined="1993-11-04"/>
+		<cosponsor id="400370" joined="1993-11-20"/>
+		<cosponsor id="400225" joined="1994-08-01"/>
+		<cosponsor id="400520" joined="1994-07-29"/>
+		<cosponsor id="400050" joined="1994-01-25"/>
+		<cosponsor id="400115" joined="1993-11-04"/>
+		<cosponsor id="300003" joined="1993-11-04"/>
+		<cosponsor id="400251" joined="1993-11-20"/>
+		<cosponsor id="400178" joined="1993-11-20"/>
+		<cosponsor id="400591" joined="1993-11-04"/>
+		<cosponsor id="403875" joined="1993-11-16"/>
+		<cosponsor id="400012" joined="1994-01-25"/>
+		<cosponsor id="400283" joined="1993-11-15"/>
+		<cosponsor id="409627" joined="1994-08-02"/>
+		<cosponsor id="410887" joined="1993-11-04"/>
+		<cosponsor id="400182" joined="1993-11-04"/>
+		<cosponsor id="400611" joined="1993-11-04"/>
+		<cosponsor id="405033" joined="1993-11-16" withdrawn="1993-11-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-28"><text>Sponsor introductory remarks on measure. (CR H8638)</text></action>
+		<action datetime="1993-11-04"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-11-04"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-11-04"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-11-04"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-11-04"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-11-09"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+		<action datetime="1993-11-09"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+		<action datetime="1993-11-10"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-11-10"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1993-11-17"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+		<action datetime="1993-11-18"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Economic policy"/>
+		<term name="Agriculture"/>
+		<term name="Civil service pensions"/>
+		<term name="Consumer price indexes"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Defense policy"/>
+		<term name="Disability insurance"/>
+		<term name="Disabled"/>
+		<term name="Federal employees"/>
+		<term name="Government employees"/>
+		<term name="Indexing (Economic policy)"/>
+		<term name="Labor"/>
+		<term name="Military pensions"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Pensions"/>
+		<term name="Railroad retirement plans"/>
+		<term name="Social security"/>
+		<term name="Survivors' benefits"/>
+		<term name="Tobacco"/>
+		<term name="Transportation"/>
+		<term name="Veterans"/>
+		<term name="Veterans' pensions"/>
+		<term name="Workers' compensation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/4/1993--Introduced.
+Provides that any payment made under Federal law which is subject to any cost of living adjustment made using a price index that takes into account prices of tobacco products shall be subject instead to a cost of living adjustment made using a new price index that does not take such prices into account.
+
+	</summary>
+</bill>

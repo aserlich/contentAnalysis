@@ -1,0 +1,49 @@
+<bill session="103" type="hc" number="22" updated="2010-04-18T21:03:56-04:00">
+	<state datetime="1993-01-25">REFERRED</state>
+	<status><introduced datetime="1993-01-25"/></status>
+
+	<introduced datetime="1993-01-25"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress with respect to contraception and infertility.</title>
+	</titles>
+	<sponsor id="409650"/>
+	<cosponsors>
+		<cosponsor id="300091" joined="1993-01-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-25"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Contraceptives"/>
+		<term name="Drugs"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to medical research"/>
+		<term name="Health education"/>
+		<term name="Human fertility"/>
+		<term name="Medical ethics"/>
+		<term name="Medical research"/>
+		<term name="Medical supplies"/>
+		<term name="Product safety"/>
+		<term name="Products liability"/>
+		<term name="Research and development"/>
+		<term name="Sexually transmitted diseases"/>
+		<term name="Vaccines"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/25/1993--Introduced.
+Declares that the Congress should: (1) establish a program of research for the development of methods of contraception and of diagnosing and treating infertility; (2) provide long-term resources for the program; (3) ensure that Federal programs with respect to sexually transmitted diseases respond to the role of such diseases in infertility; (4) ensure public education on contraception and infertility; (5) establish as Federal goals the development, by the year 2010, of improved barrier methods to protect against pregnancy and diseases, new methods of contraception for use by men, a vaccine-like drug for women that prevents pregnancy for a significant period of time without other specified effects, and improved techniques of diagnosing and treating infertility; (6) require the Secretary of Health and Human Services to reestablish the Ethical Advisory Board to facilitate infertility research; (7) review the policies of the Food and Drug Administration for expediting approval of drugs and devices for use by the public, especially with respect to contraception and infertility; and (8) determine to what extent measures can be implemented to resolve liability issues.
+
+	</summary>
+</bill>

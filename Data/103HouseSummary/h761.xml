@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="761" updated="2010-04-19T01:02:37-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Appalachian Regional Development Act of 1965 to include Montgomery and Roanoke Counties, Virginia, as part of the Appalachian region.</title>
+	</titles>
+	<sponsor id="400043"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Economic Development.</text></action>
+		<action datetime="1993-06-22"><committee name="House Committee on Public Works + Transportation" subcommittee="Economic Development"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on Public Works + Transportation" subcommittee="Economic Development"/><text>Provisions Incorporated into H.R.2442.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Economic Development" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public works"/>
+		<term name="Appalachia"/>
+		<term name="Regional economic development"/>
+		<term name="Rural economic development"/>
+		<term name="Virginia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Amends the Appalachian Regional Development Act of 1965 to include Montgomery and Roanoke Counties, Virginia, as part of the Appalachian region.
+
+	</summary>
+</bill>

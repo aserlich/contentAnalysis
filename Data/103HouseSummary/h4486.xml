@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="4486" updated="2010-04-19T10:50:25-04:00">
+	<state datetime="1994-05-25">REFERRED</state>
+	<status><introduced datetime="1994-05-25"/></status>
+
+	<introduced datetime="1994-05-25"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit any executive branch agency from entering into any service contract if the services procured under the contract can be performed at a lower cost by employees of the agency.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-25"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-05-31"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4438" />
+	</relatedbills>
+	<subjects>
+		<term name="Public contracts"/>
+		<term name="Budgets"/>
+		<term name="Cost accounting"/>
+		<term name="Cost control"/>
+		<term name="Federal employees"/>
+		<term name="Government employees"/>
+		<term name="Government procurement"/>
+		<term name="Government service contracts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/25/1994--Introduced.
+Prohibits executive branch agencies from entering into any service contract unless the total cost to the Federal Government of procuring services under the contract is less than the total cost of having those services performed by agency employees.
+
+	</summary>
+</bill>

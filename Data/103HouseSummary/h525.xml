@@ -1,0 +1,38 @@
+<bill session="103" type="h" number="525" updated="2010-04-19T00:23:38-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">To prevent States from reducing unemployment compensation benefits by certain remuneration for services in the military reserves.</title>
+	</titles>
+	<sponsor id="408052"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-26"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="876" />
+	</relatedbills>
+	<subjects>
+		<term name="Unemployment insurance"/>
+		<term name="Armed forces reserves"/>
+		<term name="Military pay"/>
+		<term name="State laws"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Amends the Internal Revenue Code with respect to approval of State unemployment compensation laws to prohibit States from denying or reducing unemployment compensation by reason of certain remuneration for services in the military reserves.
+
+	</summary>
+</bill>

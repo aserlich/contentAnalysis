@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="2601" updated="2010-04-19T05:57:06-04:00">
+	<state datetime="1993-07-01">REFERRED</state>
+	<status><introduced datetime="1993-07-01"/></status>
+
+	<introduced datetime="1993-07-01"/>
+	<titles>
+		<title type="short" as="introduced">Department of Environmental Protection Act</title>
+		<title type="official" as="introduced">To redesignate the Environmental Protection Agency as the Department of Environmental Protection.</title>
+	</titles>
+	<sponsor id="400080"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-01"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-07-07"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Government Operations"/><text>For Further Action See H.R.3425.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="824" />
+		<bill relation="unknown" session="103" type="h" number="3425" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Environmental Protection Agency"/>
+		<term name="Executive reorganization"/>
+		<term name="Presidential appointments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/1/1993--Introduced.
+Department of Environmental Protection Act - Redesignates the Environmental Protection Agency as the Department of Environmental Protection, an executive department to be headed by a Secretary of the Environment.
+
+	</summary>
+</bill>

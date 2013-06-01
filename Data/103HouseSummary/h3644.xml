@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="3644" updated="2010-04-19T08:38:50-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="official" as="introduced">To correct the tariff treatment of certain articles covered by the Nairobi Protocol.</title>
+	</titles>
+	<sponsor id="400560"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-11-30"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-12-13"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1994-04-26"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Blind"/>
+		<term name="Disabled"/>
+		<term name="Equipment and supplies"/>
+		<term name="Tariff"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to include parts and accessories of handicapped aids for tariff treatment under the Schedule.
+
+	</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="2878" updated="2010-04-19T06:40:02-04:00">
+	<state datetime="1993-08-05">REFERRED</state>
+	<status><introduced datetime="1993-08-05"/></status>
+
+	<introduced datetime="1993-08-05"/>
+	<titles>
+		<title type="short" as="introduced">Corporate Executives' Stock Option Accountability Act</title>
+		<title type="official" as="introduced">To require that stock option compensation paid to corporate executives be recorded as a compensation expense in corporate financial statements.</title>
+	</titles>
+	<sponsor id="401947"/>
+	<cosponsors>
+		<cosponsor id="405775" joined="1993-09-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-08-13"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="259" />
+	</relatedbills>
+	<subjects>
+		<term name="Securities"/>
+		<term name="Corporation reports"/>
+		<term name="Employee stock options"/>
+		<term name="Executive compensation"/>
+		<term name="Financial statements"/>
+		<term name="Securities regulation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/1993--Introduced.
+Corporate Executives' Stock Option Accountability Act - Amends the Securities Exchange Act of 1934 to direct the Securities and Exchange Commission to require the issuer of stock options to identify as an expense in its financial statements the fair value of options granted to its senior corporate personnel in exchange for services.
+
+	</summary>
+</bill>

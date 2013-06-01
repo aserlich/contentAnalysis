@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="108" updated="2010-04-18T23:16:52-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To provide that professional baseball teams, and leagues composed of such teams, shall be subject to the antitrust laws.</title>
+	</titles>
+	<sponsor id="400028"/>
+	<cosponsors>
+		<cosponsor id="400596" joined="1993-01-05"/>
+		<cosponsor id="400205" joined="1993-06-22"/>
+		<cosponsor id="300014" joined="1993-01-05"/>
+		<cosponsor id="400439" joined="1993-03-15"/>
+		<cosponsor id="407044" joined="1993-06-22"/>
+		<cosponsor id="400301" joined="1993-03-04"/>
+		<cosponsor id="406790" joined="1993-03-04"/>
+		<cosponsor id="400583" joined="1993-09-29"/>
+		<cosponsor id="400243" joined="1993-03-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Antitrust law"/>
+		<term name="Baseball"/>
+		<term name="Professional sports"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Provides that the antitrust laws shall apply to the business of providing for profit public baseball games between, and to leagues composed of, teams of professional baseball players.
+
+	</summary>
+</bill>

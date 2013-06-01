@@ -1,0 +1,58 @@
+<bill session="103" type="hj" number="228" updated="2012-07-17T06:19:55-04:00">
+	<state datetime="1993-11-02">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-11-02" /></status>
+
+	<introduced datetime="1993-07-13"/>
+	<titles>
+		<title type="official" as="introduced">To approve the extension of nondiscriminatory treatment with respect to the products of Romania.</title>
+	</titles>
+	<sponsor id="400146"/>
+	<cosponsors>
+		<cosponsor id="407676" joined="1993-07-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-13" state="REFERRED"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-07-19"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-09-29"><committee name="House Committee on Ways and Means"/><text>Favorable Executive Comment Received from State.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Ways and Means" subcommittee="Trade"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Ways and Means" subcommittee="Trade"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-10-06"><committee name="House Committee on Ways and Means"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-06"  state="REPORTED"><committee name="House Committee on Ways and Means"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-10-07T20:48:00-04:00"><text>Reported by the Committee on Ways and Means. H. Rept. 103-279.</text></action>
+		<calendar number="153" datetime="1993-10-07T20:49:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 153.</text></calendar>
+		<action datetime="1993-10-12T12:31:00-04:00"><text>Mr. Rostenkowski moved to suspend the rules and pass the resolution.</text></action>
+		<action datetime="1993-10-12T12:31:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7678-7683"/></action>
+		<action datetime="1993-10-12T12:31:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-10-12T13:03:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1993-10-12T13:03:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-10-13"><text>Received in the Senate and read twice and referred to the Committee on Finance.</text></action>
+		<action datetime="1993-10-21"><text>Senate Committee on Finance discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S14217"/></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-10-21" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text></vote>
+		<topresident datetime="1993-10-21" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-10-22"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-10-25" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-11-02" ><text>Signed by President.</text></signed>
+		<enacted number="103-133" type="public" datetime="1993-11-02"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-133.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral, Markup, Reporting" />
+		<committee code="SSFI" name="Senate Finance" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="sj" number="110" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Most favored nation principle"/>
+		<term name="Romania"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/13/1993--Introduced.
+Approves the extension of nondiscriminatory treatment (most-favored-nation treatment) to the products of Romania pursuant to the message transmitted to the Congress by the President on July 2, 1993.
+
+	</summary>
+</bill>

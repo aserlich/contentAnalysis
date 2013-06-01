@@ -1,0 +1,70 @@
+<bill session="103" type="h" number="934" updated="2012-07-17T05:31:00-04:00">
+	<state datetime="1994-10-07T18:19:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-07T18:19:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1993-02-17"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 28, United States Code, relating to jurisdictional immunities of foreign states, to grant jurisdiction to the courts of the United States in certain cases involving torture or extrajudicial killing occurring in that state.</title>
+	</titles>
+	<sponsor id="407306"/>
+	<cosponsors>
+		<cosponsor id="300087" joined="1993-04-20"/>
+		<cosponsor id="400326" joined="1993-08-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-17" state="REFERRED"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-04"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1993-09-08"><committee name="House Committee on Judiciary" subcommittee="International Law, Immigration, and Refugees"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-09-08"><committee name="House Committee on Judiciary" subcommittee="International Law, Immigration, and Refugees"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1994-06-29"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-06-29"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1994-08-16T12:18:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-702.</text></action>
+		<calendar number="384" datetime="1994-08-16T12:19:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 384.</text></calendar>
+		<action datetime="1994-10-07T18:15:00-04:00"><text>Mr. Brooks asked unanimous consent to discharge the Committee of the Whole House on the state of the Union and consider.</text></action>
+		<action datetime="1994-10-07T18:19:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H11299-11300"/></action>
+		<vote how="without objection" type="vote" datetime="1994-10-07T18:19:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-10-07T18:19:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-07T18:19:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1994-10-07"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral, Markup, Reporting" />
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2363" />
+	</relatedbills>
+	<subjects>
+		<term name="Law"/>
+		<term name="Americans in foreign countries"/>
+		<term name="Claims"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Damages"/>
+		<term name="East Germany"/>
+		<term name="Europe"/>
+		<term name="Finance and financial sector"/>
+		<term name="Genocide"/>
+		<term name="Germany"/>
+		<term name="Government liability (International law)"/>
+		<term name="Immigration"/>
+		<term name="Immunities of foreign states"/>
+		<term name="International affairs"/>
+		<term name="Jurisdiction"/>
+		<term name="Liens"/>
+		<term name="Limitation of actions"/>
+		<term name="Murder"/>
+		<term name="Torts"/>
+		<term name="Torture"/>
+		<term name="Victims of crimes"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+		<amendment number="h933"/>
+	</amendments>
+	<summary>
+	10/7/1994--Passed House amended. Amends the Federal judicial code to make an exception to: (1) sovereign immunity for certain cases in which money damages are sought against the Federal Republic of Germany (FRG) for the personal injury or death of a U.S. citizen occurring in the predecessor states of the FRG or in any territories or areas occupied, annexed, or otherwise controlled by those states and caused by an act of genocide committed against that citizen by such predecessor state or by any official or employee thereof while acting within the scope of his or her office or employment during World War II; and (2) immunity from attachment or execution relating to judgments of claims for which the foreign state is not immune by virtue of such provision.
+
+	</summary>
+</bill>

@@ -1,0 +1,58 @@
+<bill session="103" type="h" number="1765" updated="2010-04-19T03:47:07-04:00">
+	<state datetime="1993-04-21">REFERRED</state>
+	<status><introduced datetime="1993-04-21"/></status>
+
+	<introduced datetime="1993-04-21"/>
+	<titles>
+		<title type="short" as="introduced">Hospital Antitrust Fairness Act</title>
+		<title type="official" as="introduced">To exempt from the antitrust laws, mergers and service allocations entered into by certain hospitals in low population areas.</title>
+	</titles>
+	<sponsor id="409966"/>
+	<cosponsors>
+		<cosponsor id="400414" joined="1993-07-27"/>
+		<cosponsor id="400023" joined="1993-04-21"/>
+		<cosponsor id="400389" joined="1993-04-21"/>
+		<cosponsor id="300068" joined="1993-11-17"/>
+		<cosponsor id="410589" joined="1993-04-21"/>
+		<cosponsor id="400112" joined="1993-07-27"/>
+		<cosponsor id="300083" joined="1993-04-21"/>
+		<cosponsor id="406625" joined="1993-04-22"/>
+		<cosponsor id="400568" joined="1993-04-22"/>
+		<cosponsor id="300097" joined="1993-04-21"/>
+		<cosponsor id="400281" joined="1993-04-22"/>
+		<cosponsor id="400569" joined="1994-02-23"/>
+		<cosponsor id="403873" joined="1993-05-04"/>
+		<cosponsor id="406554" joined="1993-04-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-21"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-04-26"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1994-08-02"><committee name="House Committee on Judiciary"/><text>See H.R.3600.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3600" />
+	</relatedbills>
+	<subjects>
+		<term name="Antitrust law"/>
+		<term name="Corporate mergers"/>
+		<term name="Hospitals"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Public assistance programs"/>
+		<term name="Rural public health"/>
+		<term name="Sparsely populated areas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/21/1993--Introduced.
+Hospital Antitrust Fairness Act - Exempts from the antitrust laws combinations of, or contracts to allocate hospital services by, two or more hospitals if: (1) each such hospital is located outside of a city or in a city of less than 150,000 inhabitants; (2) in the most recently concluded calendar year, each such hospital received more than 40 percent of its gross revenue from payments made under Federal programs; and (3) there is in effect with respect to each such hospital a certificate issued by the Health Care Financing Administration (HCFA) specifying that HCFA has determined that Federal expenditures would be reduced, and consumer costs would not increase, if such hospitals merge or allocate the services specified in the request.
+
+	</summary>
+</bill>

@@ -1,0 +1,83 @@
+<bill session="103" type="hr" number="476" updated="2010-04-19T14:13:00-04:00">
+	<state datetime="1994-07-26T17:57:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-07-26T17:57:00-04:00" where="h" result="pass" how="roll" roll="354"/></status>
+
+	<introduced datetime="1994-07-12"/>
+	<titles>
+		<title type="official" as="introduced">Congratulating the people of Germany and the citizens of Berlin on the occasion of the withdrawal of United States troops from Berlin, and reaffirming United States-Berlin friendship.</title>
+	</titles>
+	<sponsor id="400023"/>
+	<cosponsors>
+		<cosponsor id="404503" joined="1994-07-22"/>
+		<cosponsor id="406873" joined="1994-07-19"/>
+		<cosponsor id="410147" joined="1994-07-19"/>
+		<cosponsor id="405775" joined="1994-07-19"/>
+		<cosponsor id="400380" joined="1994-07-19"/>
+		<cosponsor id="406768" joined="1994-07-22"/>
+		<cosponsor id="407351" joined="1994-07-19"/>
+		<cosponsor id="400084" joined="1994-07-19"/>
+		<cosponsor id="400143" joined="1994-07-22"/>
+		<cosponsor id="400536" joined="1994-07-19"/>
+		<cosponsor id="409633" joined="1994-07-22"/>
+		<cosponsor id="406554" joined="1994-07-22"/>
+		<cosponsor id="403864" joined="1994-07-22"/>
+		<cosponsor id="400435" joined="1994-07-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-12"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-07-12"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Requested from State.</text></action>
+		<action datetime="1994-07-18"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Received from State.</text></action>
+		<action datetime="1994-07-19"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-07-19"  state="REPORTED"><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-07-25T12:40:00-04:00"><text>Mr. Hamilton moved to suspend the rules and agree to the resolution.</text></action>
+		<action datetime="1994-07-25T12:41:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6242-6243"/></action>
+		<action datetime="1994-07-25T12:41:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-07-25T12:48:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1994-07-26T17:37:00-04:00"><text>Considered as unfinished business.</text></action>
+		<vote how="roll" type="vote" roll="354" datetime="1994-07-26T17:57:00-04:00" where="h" result="pass" suspension="1"  state="PASSED:SIMPLERES"><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 354).</text></vote>
+		<action datetime="1994-07-26T17:57:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="American economic assistance"/>
+		<term name="American military assistance"/>
+		<term name="Armed forces abroad"/>
+		<term name="Capital cities"/>
+		<term name="Cold War"/>
+		<term name="Collective security"/>
+		<term name="Collective security agreements"/>
+		<term name="Commemorations"/>
+		<term name="Congress"/>
+		<term name="Congressional tributes"/>
+		<term name="Cultural relations"/>
+		<term name="Defense burdensharing"/>
+		<term name="Defense economics"/>
+		<term name="Defense policy"/>
+		<term name="Democracy"/>
+		<term name="Europe"/>
+		<term name="Foreign aid"/>
+		<term name="Foreign policy"/>
+		<term name="France"/>
+		<term name="German reunification"/>
+		<term name="Germany"/>
+		<term name="Great Britain"/>
+		<term name="Humanities"/>
+		<term name="International affairs"/>
+		<term name="Military occupation"/>
+		<term name="NATO military forces"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/12/1994--Introduced.
+Congratulates: (1) the people of Germany on the unification of the nation and the city of Berlin; and (2) the U.S. armed forces, civilian administrators, and American people for five decades of sacrifice and support for Berlin. Recognizes and salutes the contribution of British and French allies in the defense of Berlin. Reaffirms the North Atlantic Treaty Organization obligations of the United States and America's continued support for a free, democratic, and united Germany. Welcomes the further enrichment of the relationship between the United States and Berlin based on fostering new traditions in economic and cultural links.
+
+	</summary>
+</bill>

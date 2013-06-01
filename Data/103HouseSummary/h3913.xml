@@ -1,0 +1,58 @@
+<bill session="103" type="h" number="3913" updated="2010-04-19T09:20:51-04:00">
+	<state datetime="1994-02-24">REFERRED</state>
+	<status><introduced datetime="1994-02-24"/></status>
+
+	<introduced datetime="1994-02-24"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XVI of the Social Security Act to terminate the eligibility of children under 16 years of age for supplemental security income benefits by reason of disability, and preserve the eligibility of such disabled children for medicaid benefits.</title>
+	</titles>
+	<sponsor id="400382"/>
+	<cosponsors>
+		<cosponsor id="400500" joined="1994-03-16"/>
+		<cosponsor id="400574" joined="1994-07-27"/>
+		<cosponsor id="400116" joined="1994-02-24"/>
+		<cosponsor id="400261" joined="1994-05-03"/>
+		<cosponsor id="403545" joined="1994-03-16"/>
+		<cosponsor id="400325" joined="1994-07-26"/>
+		<cosponsor id="408553" joined="1994-05-03"/>
+		<cosponsor id="409618" joined="1994-07-29"/>
+		<cosponsor id="400544" joined="1994-02-24"/>
+		<cosponsor id="407669" joined="1994-06-24"/>
+		<cosponsor id="406790" joined="1994-03-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-24"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-02-24"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-03-01"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+		<action datetime="1994-03-11"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Children"/>
+		<term name="Disabled"/>
+		<term name="Health policy"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Public assistance programs"/>
+		<term name="Social security eligibility"/>
+		<term name="Supplemental security income program"/>
+		<term name="Welfare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1994--Introduced.
+Amends title XVI (Supplemental Security Income) (SSI) of the Social Security Act (SSA) to terminate the eligibility of children under 16 for SSI by reason of disability. Amends SSA title XIX (Medicaid) to preserve the Medicaid eligibility of such disabled children who otherwise meet non-disability-related requirements for Medicaid eligibility.
+
+	</summary>
+</bill>

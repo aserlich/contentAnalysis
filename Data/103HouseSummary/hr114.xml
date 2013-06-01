@@ -1,0 +1,41 @@
+<bill session="103" type="hr" number="114" updated="2010-04-19T13:16:25-04:00">
+	<state datetime="1993-03-03">REFERRED</state>
+	<status><introduced datetime="1993-03-03"/></status>
+
+	<introduced datetime="1993-03-03"/>
+	<titles>
+		<title type="official" as="introduced">Requiring that the concurrent resolution on the budget for the fiscal year 1994 establish outlay caps over a 5-year period.</title>
+	</titles>
+	<sponsor id="409618"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-03"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-03-03"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-03-09"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Congressional budget"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Government spending reductions"/>
+		<term name="Legislative resolutions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/3/1993--Introduced.
+Requires the concurrent resolution on the budget for FY 1994 to establish outlay caps through FY 1998.
+
+	</summary>
+</bill>

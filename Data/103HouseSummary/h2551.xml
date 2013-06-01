@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="2551" updated="2010-04-19T05:49:20-04:00">
+	<state datetime="1993-06-29">REFERRED</state>
+	<status><introduced datetime="1993-06-29"/></status>
+
+	<introduced datetime="1993-06-29"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the award of the Southwest Asia service medal to any member of the Armed Forces who was assigned to duty outside the United States during the Persian Gulf War with a unit that actively engaged in combat operations during that war.</title>
+	</titles>
+	<sponsor id="407669"/>
+	<cosponsors>
+		<cosponsor id="409966" joined="1994-06-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-29"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-07-01"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-07-01"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Commemorations"/>
+		<term name="Military medals, decorations, etc."/>
+		<term name="Persian Gulf War"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/29/1993--Introduced.
+Directs the Secretary of Defense to extend eligibility for the Southwest Asia Service Medal to any member of the armed forces who was assigned to duty outside the United States with a unit that actively engaged in combat operations in the Persian Gulf War between January 16 and March 3, 1991.
+
+	</summary>
+</bill>

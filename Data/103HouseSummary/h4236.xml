@@ -1,0 +1,75 @@
+<bill session="103" type="h" number="4236" updated="2010-04-19T10:11:13-04:00">
+	<state datetime="1994-05-11">REPORTED</state>
+	<status><calendar datetime="1994-05-11" /></status>
+
+	<introduced datetime="1994-04-18"/>
+	<titles>
+		<title type="short" as="introduced">National Undersea Research Program Act of 1994</title>
+		<title type="short" as="reported to house">National Undersea Research Program Act of 1994</title>
+		<title type="official" as="introduced">To establish a National Undersea Research Program within the National Oceanic and Atmospheric Administration.</title>
+	</titles>
+	<sponsor id="400302"/>
+	<cosponsors>
+		<cosponsor id="400428" joined="1994-04-18"/>
+		<cosponsor id="400160" joined="1994-04-18"/>
+		<cosponsor id="400882" joined="1994-04-18"/>
+		<cosponsor id="400585" joined="1994-04-18"/>
+		<cosponsor id="411350" joined="1994-04-18"/>
+		<cosponsor id="406625" joined="1994-04-18"/>
+		<cosponsor id="404068" joined="1994-04-18"/>
+		<cosponsor id="409400" joined="1994-04-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-18"><text>Sponsor introductory remarks on measure. (CR E690)</text></action>
+		<action datetime="1994-04-18"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1994-04-19"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Commerce.</text></action>
+		<action datetime="1994-04-19"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Oceanography, Gulf of Mexico, and the Outer Continental Shelf.</text></action>
+		<action datetime="1994-04-19"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Oceanography, Gulf of Mexico, and the Outer Continental Shelf"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-04-19"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Oceanography, Gulf of Mexico, and the Outer Continental Shelf"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1994-05-04"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Unfavorable Executive Comment Received from Commerce.</text></action>
+		<action datetime="1994-05-11"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-05-11"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-07T18:20:00-04:00"><text>Reported (Amended) by the Committee on Merchant Marine and Fisheries. H. Rept. 103-850.</text></action>
+		<calendar number="468" datetime="1994-10-07T18:20:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 468.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Oceanography, Gulf of Mexico and the Outer Continental Shelf" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4008" />
+		<bill relation="unknown" session="103" type="h" number="4852" />
+	</relatedbills>
+	<subjects>
+		<term name="Science"/>
+		<term name="Administrative procedure"/>
+		<term name="Budgets"/>
+		<term name="Colleges"/>
+		<term name="Department of Commerce"/>
+		<term name="Education"/>
+		<term name="Executive departments"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to research"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Gulf of Mexico"/>
+		<term name="Higher education"/>
+		<term name="Lakes"/>
+		<term name="Marine parks and reserves"/>
+		<term name="Marine resources"/>
+		<term name="National Science Foundation"/>
+		<term name="Oceanographic research"/>
+		<term name="Research centers"/>
+		<term name="Research grants"/>
+		<term name="Science policy"/>
+		<term name="Water resources"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1994--Reported to House amended. National Undersea Research Program Act of 1994 - Directs the Under Secretary of Commerce for Oceans and Atmosphere to establish the National Undersea Research Program (the Program) to enhance scientific understanding of processes in the world's oceans and large lakes through programs conducted by the National Undersea Research Centers established under this Act. Establishes the Office of Undersea Research in the National Oceanic and Atmospheric Administration. Designates priority research areas. Directs the Under Secretary to establish the National Undersea Research Advisory Committee. Assigns undersea regions to extant Centers. Prescribes guidelines under which the Under Secretary may establish a new Center for any undersea region. Directs each Center director to annually: (1) solicit individual proposals from the scientific community for research advancing the Program's priority research areas; and (2) submit a proposed Center program to the Program Director. Instructs the Under Secretary to: (1) develop procedures for the joint review of research proposals; and (2) issue final rules establishing those procedures. Authorizes the Under Secretary to make grants and enter into contracts and cooperative agreements to fund Center programs. Exempts such grants and contracts from review by the Financial Assistance Review Board. Authorizes appropriations.
+
+	</summary>
+</bill>

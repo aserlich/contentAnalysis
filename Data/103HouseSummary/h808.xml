@@ -1,0 +1,62 @@
+<bill session="103" type="h" number="808" updated="2012-07-17T05:42:09-04:00">
+	<state datetime="1994-10-25">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-25" /></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of James B. Stanley.</title>
+	</titles>
+	<sponsor id="406082"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03" state="REFERRED"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-17"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+		<action datetime="1993-08-06T14:47:00-04:00"><text>Reported by the Committee on Judiciary. H. Rept. 103-221.</text></action>
+		<calendar datetime="1993-08-06T14:48:00-04:00"  state="REPORTED"><text>Placed on the Private Calendar, Calendar No. 4.</text></calendar>
+		<action datetime="1993-09-21T12:42:00-04:00"><text>Called up from the Private Calendar for consideration.</text></action>
+		<action datetime="1993-09-21T12:42:00-04:00"><text>Considered from the Private Calendar.</text></action>
+		<action datetime="1993-09-21T12:42:00-04:00"><text>ORDER OF LEGISLATIVE BUSINESS - Mr. Sensenbrenner objected to moving the bill to engrossment and third reading and demanded that the question be put. Subsequently, by voice vote, the Chair announced that the noes had prevailed, resulting in a demand by Mr. Boucher for a roll call on the question.</text></action>
+		<action datetime="1993-09-21T12:46:00-04:00"><text>Mr. Boucher moved to proceed to engrossment and third reading.</text></action>
+		<action datetime="1993-09-21T13:03:00-04:00"><text>On motion to proceed to engrossment and third reading Agreed to by the Yeas and Nays: 390 - 1 (Roll no. 436).</text></action>
+		<action datetime="1993-09-21T13:03:00-04:00"><text>The bill was engrossed and read for the third time by title. Subsequently, the Chair put the question on final passage.</text></action>
+		<action datetime="1993-09-21T13:04:00-04:00"><text>POSTPONE FINAL PASSAGE - The Yeas and Nays were demanded and ordered on the question of final passage of the bill. Pursuant to the provisions of clause 5 of rule I, the Chair postponed further proceedings until later in the day.</text></action>
+		<action datetime="1993-09-21T17:18:00-04:00"><text>Considered as unfinished business.</text></action>
+		<vote how="roll" type="vote" roll="438" datetime="1993-09-21T17:38:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed by the Yeas and Nays: 425 - 0, 1 Present (Roll no. 438).</text></vote>
+		<action datetime="1993-09-21T17:38:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-09-22"><text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1994-02-03"><committee name="House Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+		<action datetime="1994-09-22"><committee name="House Committee on Judiciary" subcommittee="Administrative Law and Governmental Relations"/><text>Subcommittee on Courts and Administrative Practice. Approved for full committee consideration without amendment favorably.</text></action>
+		<calendar datetime="1994-09-28" ><committee name="House Committee on Judiciary"/><text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-09-28"><text>Committee on Judiciary. Reported to Senate by Senator Biden without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="689" datetime="1994-09-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 689.</text></calendar>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-08" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text></vote>
+		<topresident datetime="1994-10-08" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-12"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-18" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-25" ><text>Signed by President.</text></signed>
+		<enacted number="103-8" type="private" datetime="1994-10-25"  state="ENACTED:SIGNED"><text>Became Private Law No: 103-8.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Reporting" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Claims"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named individual in full satisfaction of all claims against the United States for injuries resulting from the administration to such individual of lysergic acid diethylamide by U.S. Army personnel.
+
+	</summary>
+</bill>

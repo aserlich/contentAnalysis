@@ -1,0 +1,41 @@
+<bill session="103" type="s" number="633" updated="2012-07-17T05:47:25-04:00">
+	<state datetime="1993-03-23">REFERRED</state>
+	<status><introduced datetime="1993-03-23"/></status>
+
+	<introduced datetime="1993-03-23"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Foreign Trade Zones Act to clarify that crude oil consumed in refining operations is not subject to duty under the Harmonized Tariff Schedule of the United States.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="1993-03-23"/>
+		<cosponsor id="300012" joined="1993-05-20"/>
+		<cosponsor id="406084" joined="1993-03-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-23" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3520)</text></action>
+		<action datetime="1993-03-23" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1577" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Energy policy"/>
+		<term name="Free ports and zones"/>
+		<term name="Petroleum"/>
+		<term name="Petroleum refineries"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/23/1993--Introduced.
+Amends the Foreign Trade Zones Act to declare that crude oil and its derivatives admitted into a foreign trade zone and consumed in the refining process shall not be subject to duty under the Harmonized Tariff Schedule of the United States.
+
+	</summary>
+</bill>

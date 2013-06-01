@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="384" updated="2010-04-18T23:59:49-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Anti-Drug Abuse Act of 1988 to eliminate the discretion of the court in connection with the denial of certain Federal benefits upon conviction of certain drug offenses.</title>
+	</titles>
+	<sponsor id="410147"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="383" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Courts"/>
+		<term name="Drug abuse"/>
+		<term name="Federal aid programs"/>
+		<term name="Narcotic traffic"/>
+		<term name="Public assistance programs"/>
+		<term name="Sentences (Criminal procedure)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends the Anti-Drug Abuse Act of 1988 to remove discretion from the courts and thus make mandatory the denial of all Federal benefits for a fixed term after a conviction for distribution or possession of a controlled substance.
+
+	</summary>
+</bill>

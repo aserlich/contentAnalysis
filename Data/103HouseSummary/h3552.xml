@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="3552" updated="2010-04-19T08:24:31-04:00">
+	<state datetime="1993-11-19">REFERRED</state>
+	<status><introduced datetime="1993-11-19"/></status>
+
+	<introduced datetime="1993-11-19"/>
+	<titles>
+		<title type="official" as="introduced">Respecting market exclusivity for certain drugs.</title>
+	</titles>
+	<sponsor id="402763"/>
+	<cosponsors>
+		<cosponsor id="400604" joined="1993-11-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-19"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-11-20"><text>Sponsor introductory remarks on measure. (CR E2980)</text></action>
+		<action datetime="1993-12-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Drugs"/>
+		<term name="Business"/>
+		<term name="Drug industry"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Medicine"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/19/1993--Introduced.
+Amends the Federal Food, Drug, and Cosmetic Act to extend the market exclusivity for a drug which meets the requirements of this Act.
+
+	</summary>
+</bill>

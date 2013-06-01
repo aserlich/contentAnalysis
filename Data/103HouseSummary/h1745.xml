@@ -1,0 +1,40 @@
+<bill session="103" type="h" number="1745" updated="2010-04-19T03:44:01-04:00">
+	<state datetime="1993-04-20">REFERRED</state>
+	<status><introduced datetime="1993-04-20"/></status>
+
+	<introduced datetime="1993-04-20"/>
+	<titles>
+		<title type="official" as="introduced">To suspend until January 1, 1996, the duty on certain chemicals.</title>
+	</titles>
+	<sponsor id="400533"/>
+	<cosponsors>
+		<cosponsor id="411166" joined="1993-04-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-20"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-04-22"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Antibiotics"/>
+		<term name="Chemicals"/>
+		<term name="Drugs"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/20/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1995, the duty on: (1) (R)-a-amino-1,4-cyclohexadiene-1-acetic acid (also known as D-dihydrophenyl glycine), (2) (R)-a-amino-4-hydroxybenzeneacetic acid (also known as D(-)-4-hydroxyphenyl glycine); (3) (R)-a-amino benzeacetic acid (also know as D(-)-alphaphenyl glycine); (4) N,N'-bis(trimethylsilyl) urea (also known as Bis-triimethylsilurea); (5) penicillin V potassium; and (6) penicillin G potassium.
+
+	</summary>
+</bill>

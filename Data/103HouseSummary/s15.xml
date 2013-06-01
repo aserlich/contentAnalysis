@@ -1,0 +1,58 @@
+<bill session="103" type="s" number="15" updated="2012-07-17T05:58:25-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="short" as="introduced">Reinventing Government Act</title>
+		<title type="official" as="introduced">A bill to establish a Commission on Government Reform.</title>
+	</titles>
+	<sponsor id="400565"/>
+	<cosponsors>
+		<cosponsor id="400564" joined="1993-02-04"/>
+		<cosponsor id="300023" joined="1993-01-28"/>
+		<cosponsor id="300048" joined="1993-07-28"/>
+		<cosponsor id="406188" joined="1993-03-03"/>
+		<cosponsor id="401604" joined="1993-02-17"/>
+		<cosponsor id="300069" joined="1993-03-30"/>
+		<cosponsor id="300089" joined="1993-02-02"/>
+		<cosponsor id="402727" joined="1993-03-03"/>
+		<cosponsor id="300017" joined="1993-01-21"/>
+		<cosponsor id="300082" joined="1993-01-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S366-367)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<action datetime="1993-03-11"><committee name="Committee on Governmental Affairs"/><text>Committee on Governmental Affairs. Hearings held.</text></action>
+		<action datetime="1993-07-30"><text>Sponsor introductory remarks on measure. (CR S9934-9936)</text></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Productivity in government"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Congressional veto"/>
+		<term name="Cost control"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal employees"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="House rules and procedure"/>
+		<term name="Legislative resolutions"/>
+		<term name="Presidential commissions"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Waste in government spending"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Reinventing Government Act - Establishes an independent Commission on Government Reform to transmit to the President and the Congress findings and recommendations regarding reforms of the organization and operations of the executive branch that would improve governmental performance while minimizing costs. Sets forth procedures for consideration of Commission recommendations by the President and the Congress and their implementation by the President. Authorizes appropriations.
+
+	</summary>
+</bill>

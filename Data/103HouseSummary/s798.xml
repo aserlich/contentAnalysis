@@ -1,0 +1,75 @@
+<bill session="103" type="s" number="798" updated="2012-07-17T04:54:22-04:00">
+	<state datetime="1993-11-09">REPORTED</state>
+	<status><calendar datetime="1993-11-09" /></status>
+
+	<introduced datetime="1993-04-20"/>
+	<titles>
+		<title type="short" as="introduced">Arson Prevention Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend the Federal Fire Prevention and Control Act of 1974 to establish a program of grants to States for arson research, prevention, and control, and for other purposes.</title>
+	</titles>
+	<sponsor id="400557"/>
+	<cosponsors>
+		<cosponsor id="400559" joined="1993-04-20"/>
+		<cosponsor id="300043" joined="1993-11-22"/>
+		<cosponsor id="300086" joined="1993-11-22"/>
+		<cosponsor id="300008" joined="1993-09-24"/>
+		<cosponsor id="405212" joined="1993-07-30"/>
+		<cosponsor id="400565" joined="1993-06-29"/>
+		<cosponsor id="300073" joined="1993-10-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-20" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4686-4687)</text></action>
+		<action datetime="1993-04-20" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<calendar datetime="1993-11-09"  state="REPORTED"><committee name="Committee on Commerce"/><text>Committee on Commerce. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-11-22"><text>Committee on Commerce. Reported to Senate by Senator Hollings without amendment. With written report No. 103-204.</text></action>
+		<calendar under="General Orders" number="331" datetime="1993-11-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 331.</text></calendar>
+		<action datetime="1993-11-22"><text>Senate incorporated this measure in H.R. 1727 as an amendment.</text><reference label="consideration" ref="CR S16986"/></action>
+		<action datetime="1993-11-22"><text>Senate passed companion measure H.R. 1727 in lieu of this measure by Voice Vote.</text><reference label="consideration" ref="CR S16986"/></action>
+		<action datetime="1993-11-22"><text>Returned to the Calendar. Calendar No. 331.</text><reference label="consideration" ref="CR S16986"/></action>
+		<action datetime="1994-05-24"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S6295"/></action>
+		<action datetime="1994-05-24"><text>See also H.R. 1727.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1727" />
+		<bill relation="superseded" session="103" type="h" number="1727" />
+		<bill relation="unknown" session="103" type="h" number="1727" />
+	</relatedbills>
+	<subjects>
+		<term name="Fires"/>
+		<term name="Arson"/>
+		<term name="Counseling"/>
+		<term name="Crime prevention"/>
+		<term name="Criminal investigation"/>
+		<term name="Criminal justice information"/>
+		<term name="Criminal statistics"/>
+		<term name="Employee training"/>
+		<term name="Family violence"/>
+		<term name="Federal aid to law enforcement agencies"/>
+		<term name="Federal aid to research"/>
+		<term name="Fire departments"/>
+		<term name="Fire fighters"/>
+		<term name="Fire prevention"/>
+		<term name="Forest fires"/>
+		<term name="Fraud"/>
+		<term name="Government paperwork"/>
+		<term name="Grants-in-aid"/>
+		<term name="Juvenile delinquency"/>
+		<term name="Licenses"/>
+		<term name="Narcotic traffic"/>
+		<term name="Narcotics and crime"/>
+		<term name="Riot control"/>
+		<term name="Rural conditions"/>
+		<term name="Volunteer workers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/20/1993--Introduced.
+Arson Prevention Act of 1993 - Amends the Federal Fire Prevention and Control Act of 1974 to direct the Administrator of the United States Fire Administration, through the Office of Fire Prevention and Arson Control, to carry out a demonstration program to provide two-year grants to States for programs relating to arson research, prevention, and control. Sets forth State funding requirements and provides for additional renewal periods for such grants. Authorizes appropriations, including appropriations for the expansion of arson investigator training programs at the National Fire Academy and the Federal Law Enforcement Training Center or through regional delivery sites.
+
+	</summary>
+</bill>

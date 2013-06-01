@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="1666" updated="2012-07-17T04:43:24-04:00">
+	<state datetime="1993-11-17">REFERRED</state>
+	<status><introduced datetime="1993-11-17"/></status>
+
+	<introduced datetime="1993-11-17"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow a taxpayer to elect to deduct either State and local income taxes or State and local sales taxes.</title>
+	</titles>
+	<sponsor id="400559"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-11-17"/>
+		<cosponsor id="408898" joined="1993-11-17"/>
+		<cosponsor id="300054" joined="1993-11-17"/>
+		<cosponsor id="400562" joined="1993-11-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-17" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S15904-15905)</text></action>
+		<action datetime="1993-11-17" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Government operations and politics"/>
+		<term name="Local taxation"/>
+		<term name="Sales tax"/>
+		<term name="State taxation"/>
+		<term name="Tax deductions"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/17/1993--Introduced.
+Amends the Internal Revenue Code to allow taxpayers to elect to deduct either State and local income taxes or State and local general sales taxes.
+
+	</summary>
+</bill>

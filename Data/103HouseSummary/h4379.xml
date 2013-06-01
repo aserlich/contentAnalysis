@@ -1,0 +1,82 @@
+<bill session="103" type="h" number="4379" updated="2010-04-19T10:33:34-04:00">
+	<state datetime="1994-10-19">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-19" /></status>
+
+	<introduced datetime="1994-05-10"/>
+	<titles>
+		<title type="short" as="introduced">Farm Credit System Agricultural Export and Risk Management Act</title>
+		<title type="short" as="passed house">Farm Credit System Agricultural Export and Risk Management Act</title>
+		<title type="official" as="introduced">To amend the Farm Credit Act of 1971 to enhance the ability of the banks for cooperatives to finance agricultural exports, and for other purposes.</title>
+	</titles>
+	<sponsor id="403308"/>
+	<cosponsors>
+		<cosponsor id="410147" joined="1994-08-02"/>
+		<cosponsor id="400264" joined="1994-08-02"/>
+		<cosponsor id="400143" joined="1994-08-02"/>
+		<cosponsor id="411725" joined="1994-08-02"/>
+		<cosponsor id="400402" joined="1994-08-02"/>
+		<cosponsor id="300083" joined="1994-05-10"/>
+		<cosponsor id="408618" joined="1994-05-10"/>
+		<cosponsor id="300003" joined="1994-05-10"/>
+		<cosponsor id="400568" joined="1994-08-02"/>
+		<cosponsor id="400079" joined="1994-05-10"/>
+		<cosponsor id="300058" joined="1994-05-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-10"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-05-11"><text>Sponsor introductory remarks on measure. (CR E896-897)</text></action>
+		<action datetime="1994-05-16"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA, Farm Credit Admin.</text></action>
+		<action datetime="1994-05-16"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Environment, Credit and Rural Development.</text></action>
+		<action datetime="1994-05-16"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Foreign Agriculture and Hunger.</text></action>
+		<action datetime="1994-08-17"><committee name="House Committee on Agriculture"/><text>Executive Comment Received from Farm Credit Admin.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Agriculture"/><text>Subcommittee on Environment, Credit and Rural Development Discharged.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Agriculture"/><text>Subcommittee on Foreign Agriculture and Hunger Discharged.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Agriculture"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Agriculture"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-09-29T19:25:00-04:00"><text>Committee on Agriculture discharged.</text></action>
+		<action datetime="1994-09-29T19:25:00-04:00"><text>Mr. Johnson (SD) asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-09-29T19:26:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10323-10328"/></action>
+		<vote how="without objection" type="vote" datetime="1994-09-29T19:26:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-09-29T19:27:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-09-30"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-05" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S14235-14236"/></vote>
+		<topresident datetime="1994-10-05" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-06"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-11" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-19" ><text>Signed by President.</text></signed>
+		<enacted number="103-376" type="public" datetime="1994-10-19"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-376.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Discharged" />
+		<committee code="" name="House Agriculture" subcommittee="Environment, Credit and Rural Development" activity="Referral, Discharged" />
+		<committee code="" name="House Agriculture" subcommittee="Foreign Agriculture and Hunger" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural cooperatives"/>
+		<term name="Agricultural credit"/>
+		<term name="Agricultural economics"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Bank capital"/>
+		<term name="Bank loans"/>
+		<term name="Banks and banking"/>
+		<term name="Business"/>
+		<term name="Export credit"/>
+		<term name="Export finance"/>
+		<term name="Finance"/>
+		<term name="Foreign trade"/>
+		<term name="Foreign trade promotion"/>
+		<term name="Location of industries"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+		<amendment number="h901"/>
+	</amendments>
+	<summary>
+	9/29/1994--Passed House amended. Farm Credit System Agricultural Export and Risk Management Act - Amends the Farm Credit Act of 1971 to permit banks for cooperatives to participate in agricultural export financing arrangements with domestic or foreign businesses. Prohibits the financing of a U.S. facility's foreign relocation. Authorizes a Farm Credit Bank or direct lender association to participate in loans to similar but non-Farm Credit System entities for risk management purposes. Requires supervising Farm Credit Bank approval.
+
+	</summary>
+</bill>

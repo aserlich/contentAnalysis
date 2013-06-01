@@ -1,0 +1,59 @@
+<bill session="103" type="h" number="543" updated="2010-04-19T00:26:32-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">To remove the restrictions on the export of Alaskan North Slope oil.</title>
+	</titles>
+	<sponsor id="400401"/>
+	<cosponsors>
+		<cosponsor id="400113" joined="1993-01-21"/>
+		<cosponsor id="400506" joined="1994-02-08"/>
+		<cosponsor id="400261" joined="1994-02-23"/>
+		<cosponsor id="400567" joined="1993-01-21"/>
+		<cosponsor id="400112" joined="1993-01-21"/>
+		<cosponsor id="403545" joined="1993-04-07"/>
+		<cosponsor id="400144" joined="1993-01-21"/>
+		<cosponsor id="406343" joined="1994-02-03"/>
+		<cosponsor id="412001" joined="1993-01-21"/>
+		<cosponsor id="400083" joined="1994-02-09"/>
+		<cosponsor id="400601" joined="1994-02-23"/>
+		<cosponsor id="400440" joined="1993-02-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-01-21"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-01-21"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-02-04"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+		<action datetime="1993-02-11"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Economic Policy, Trade and Environment.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Energy and Power.</text></action>
+		<action datetime="1993-03-03"><text>Sponsor introductory remarks on measure. (CR E496-497)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Economic Policy, Trade, and Environment" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="HSIF-03" name="House Energy and Commerce" subcommittee="Energy and Power" activity="Referral" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Oversight and Investigations" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4369" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Alaska"/>
+		<term name="Energy policy"/>
+		<term name="Export controls"/>
+		<term name="Petroleum"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Amends the Export Administration Act of 1979 to repeal restrictions on the export of Alaskan North Slope oil. Provides that exports of such oil shall not be subject to restrictions contained in other specified Acts.
+
+	</summary>
+</bill>

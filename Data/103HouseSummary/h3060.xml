@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="3060" updated="2010-04-19T07:08:11-04:00">
+	<state datetime="1993-09-14">REFERRED</state>
+	<status><introduced datetime="1993-09-14"/></status>
+
+	<introduced datetime="1993-09-14"/>
+	<titles>
+		<title type="short" as="introduced">Electronic Funds Transfer Federal Salary Act</title>
+		<title type="official" as="introduced">To authorize the Secretary of the Treasury to issue regulations to require that the pay of Federal employees be paid by electronic funds transfer or any other method determined by the Secretary to be in the interest of economy or effectiveness, with sufficient safeguards over the control of, and accounting for, public funds.</title>
+	</titles>
+	<sponsor id="403190"/>
+	<cosponsors>
+		<cosponsor id="402890" joined="1994-08-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-14"><text>Sponsor introductory remarks on measure. (CR E2153)</text></action>
+		<action datetime="1993-09-14"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-09-16"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4130" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Administrative procedure"/>
+		<term name="Banks and banking"/>
+		<term name="Credit unions"/>
+		<term name="Department of the Treasury"/>
+		<term name="Electronic funds transfers"/>
+		<term name="Fees"/>
+		<term name="Government paperwork"/>
+		<term name="Salaries"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/14/1993--Introduced.
+Electronic Funds Transfer Federal Salary Act - Amends Federal law to authorize the Secretary of the Treasury to prescribe regulations requiring Federal employees to be paid via direct deposit or any other economical and effective method provided there are sufficient safeguards.
+
+	</summary>
+</bill>

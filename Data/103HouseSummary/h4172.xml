@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="4172" updated="2010-04-19T10:01:12-04:00">
+	<state datetime="1994-04-12">REFERRED</state>
+	<status><introduced datetime="1994-04-12"/></status>
+
+	<introduced datetime="1994-04-12"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Small Business Act to increase authorization levels for the small business development center program.</title>
+	</titles>
+	<sponsor id="407044"/>
+	<cosponsors>
+		<cosponsor id="400170" joined="1994-07-12"/>
+		<cosponsor id="400264" joined="1994-07-12"/>
+		<cosponsor id="400502" joined="1994-07-12"/>
+		<cosponsor id="400299" joined="1994-07-12"/>
+		<cosponsor id="400572" joined="1994-07-12"/>
+		<cosponsor id="410889" joined="1994-07-12"/>
+		<cosponsor id="300058" joined="1994-07-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-12"><text>Referred to the House Committee on Small Business.</text></action>
+		<action datetime="1994-04-26"><committee name="House Committee on Small Business"/><text>Referred to the Subcommittee on SBA Legislation and the General Economy.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSM" name="House Small Business" activity="Referral, In Committee" />
+		<committee code="" name="House Small Business" subcommittee="SBA Legislation and the General Economy" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Small business"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Grants-in-aid"/>
+		<term name="Industrial promotion"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/12/1994--Introduced.
+Amends the Small Business Act to increase, for each of FY 1994 through 1999, the authorization levels for the small business development center program.
+
+	</summary>
+</bill>

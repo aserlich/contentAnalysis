@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="2649" updated="2010-04-19T06:04:31-04:00">
+	<state datetime="1993-07-15">REFERRED</state>
+	<status><introduced datetime="1993-07-15"/></status>
+
+	<introduced datetime="1993-07-15"/>
+	<titles>
+		<title type="official" as="introduced">To authorize States and political subdivisions of States to control the movement of municipal solid waste generated within their jurisdictions.</title>
+	</titles>
+	<sponsor id="400599"/>
+	<cosponsors>
+		<cosponsor id="400332" joined="1993-11-22"/>
+		<cosponsor id="400612" joined="1993-07-15"/>
+		<cosponsor id="400585" joined="1994-05-19"/>
+		<cosponsor id="400316" joined="1993-07-15"/>
+		<cosponsor id="400008" joined="1994-02-23"/>
+		<cosponsor id="408618" joined="1993-07-15"/>
+		<cosponsor id="400178" joined="1993-11-22"/>
+		<cosponsor id="400299" joined="1993-07-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-15"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-08-02"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+		<action datetime="1993-11-05"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Compost"/>
+		<term name="Municipal ordinances"/>
+		<term name="Municipal services"/>
+		<term name="Recycling of waste products"/>
+		<term name="Refuse and refuse disposal"/>
+		<term name="State laws"/>
+		<term name="Waste disposal sites"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/15/1993--Introduced.
+Authorizes a State or political subdivision to require that municipal solid waste generated within its jurisdiction be processed, composted, disposed of, or otherwise managed at a facility designated for such purpose if the designated facility is in compliance with Federal and State environmental laws and regulations.
+
+	</summary>
+</bill>

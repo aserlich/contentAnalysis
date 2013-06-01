@@ -1,0 +1,55 @@
+<bill session="103" type="s" number="2115" updated="2012-07-17T05:30:05-04:00">
+	<state datetime="1994-05-13">REFERRED</state>
+	<status><introduced datetime="1994-05-13"/></status>
+
+	<introduced datetime="1994-05-13"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Federal Power Act to remove the jurisdiction of the Federal Energy Regulatory Commission to license projects on fresh waters in the State of Hawaii.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-13" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5736-5737)</text></action>
+		<action datetime="1994-05-13" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-05-16"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Water and Power.</text></action>
+		<action datetime="1994-05-18"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Federal Energy Regulatory Commission, and Office of Management and Budget.</text></action>
+		<action datetime="1994-06-14"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-06-17"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources received executive comment from Federal Energy Regulatory Commission.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee" />
+		<committee code="SSEG-3" name="Senate Energy and Natural Resources" subcommittee="Water and Power" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Energy"/>
+		<term name="Dams"/>
+		<term name="Department of Energy"/>
+		<term name="Energy policy"/>
+		<term name="Environmental protection"/>
+		<term name="Federal-state relations"/>
+		<term name="Freshwater resources conservation"/>
+		<term name="Government operations and politics"/>
+		<term name="Hawaii"/>
+		<term name="Hydroelectric power"/>
+		<term name="Independent regulatory commissions"/>
+		<term name="Infrastructure"/>
+		<term name="Licenses"/>
+		<term name="Navigation"/>
+		<term name="Reservoirs"/>
+		<term name="Transportation and public works"/>
+		<term name="Water resources development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/13/1994--Introduced.
+Amends the Federal Power Act to remove from the licensing jurisdiction of the Federal Energy Regulatory Commission hydroelectric power projects on fresh waters in the State of Hawaii.
+
+	</summary>
+</bill>

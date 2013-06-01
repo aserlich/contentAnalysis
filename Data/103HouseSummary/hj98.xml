@@ -1,0 +1,42 @@
+<bill session="103" type="hj" number="98" updated="2010-04-18T22:06:15-04:00">
+	<state datetime="1993-02-04">REFERRED</state>
+	<status><introduced datetime="1993-02-04"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the National Committee of American Airmen Rescued by General Mihailovich to establish a memorial in the District of Columbia or its environs.</title>
+	</titles>
+	<sponsor id="400085"/>
+	<cosponsors>
+		<cosponsor id="400003" joined="1993-02-04"/>
+		<cosponsor id="403545" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Accounts.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Libraries and Memorials.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Accounts" activity="Referral" />
+		<committee code="" name="House Administration" subcommittee="Libraries and Memorials" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Monuments and memorials"/>
+		<term name="Aircraft pilots"/>
+		<term name="District of Columbia"/>
+		<term name="World War II"/>
+		<term name="Yugoslavia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Authorizes the National Committee of American Airmen Rescued by General Mihailovich to establish a memorial in the District of Columbia or its environs in his honor.
+
+	</summary>
+</bill>

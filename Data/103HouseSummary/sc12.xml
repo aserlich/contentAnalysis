@@ -1,0 +1,58 @@
+<bill session="103" type="sc" number="12" updated="2010-04-19T21:12:56-04:00">
+	<state datetime="1993-03-04T13:33:00-05:00">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1993-03-04T13:33:00-05:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1993-03-02"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution to recognize the herioc sacrifice of the Special Agents of the Bureau of Alcohol, Tobacco and Firearms in Waco, Texas.</title>
+	</titles>
+	<sponsor id="403346"/>
+	<cosponsors>
+		<cosponsor id="406487" joined="1993-03-02"/>
+		<cosponsor id="300061" joined="1993-03-02"/>
+		<cosponsor id="300092" joined="1993-03-02"/>
+		<cosponsor id="300159" joined="1993-03-02"/>
+		<cosponsor id="300010" joined="1993-03-02"/>
+		<cosponsor id="402412" joined="1993-03-02"/>
+		<cosponsor id="400561" joined="1993-03-02"/>
+		<cosponsor id="406084" joined="1993-03-02"/>
+		<cosponsor id="403142" joined="1993-03-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-02"><text>Sponsor introductory remarks on measure. (CR S2188-2190)</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-03-02" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote.</text><reference label="consideration" ref="CR S2249"/></vote>
+		<action datetime="1993-03-03T12:26:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-03-03"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-03-03T13:20:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-03-04T13:10:00-05:00"><text>Mr. Hoyer asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1993-03-04T13:10:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H1028-1031"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-03-04T13:33:00-05:00" where="h" result="pass"  state="PASSED:CONCURRENTRES"><text>On agreeing to the resolution Agreed to without objection.</text></vote>
+		<action datetime="1993-03-04T13:33:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-03-04"><text>Message on House action received in Senate.</text></action>
+		<action datetime="1993-03-31"><text>Sponsor introductory remarks on measure. (CR S4061)</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hc" number="57" />
+		<bill relation="identical" session="103" type="hc" number="57" />
+		<bill relation="unknown" session="103" type="hc" number="57" />
+	</relatedbills>
+	<subjects>
+		<term name="Congressional tributes"/>
+		<term name="Commemorations"/>
+		<term name="Department of the Treasury"/>
+		<term name="Federal employees"/>
+		<term name="Law enforcement officers"/>
+		<term name="Texas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/2/1993--Introduced.
+Declares that the sacrifice and dedication of the agents of the Bureau of Alcohol, Tobacco and Firearms is a cornerstone of our system of justice and cause for both sorrow and pride.
+
+	</summary>
+</bill>

@@ -1,0 +1,76 @@
+<bill session="103" type="h" number="1109" updated="2012-07-17T05:34:46-04:00">
+	<state datetime="1993-03-16T14:32:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-03-16T14:32:00-05:00" where="h" result="pass" how="roll" roll="72"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="short" as="introduced">Merchant Seamen Reemployment Rights Act of 1993</title>
+		<title type="official" as="introduced">To amend the Merchant Marine Act, 1936 to establish reemployment rights for certain merchant seamen.</title>
+	</titles>
+	<sponsor id="400243"/>
+	<cosponsors>
+		<cosponsor id="410496" joined="1993-02-24"/>
+		<cosponsor id="400359" joined="1993-02-24"/>
+		<cosponsor id="400391" joined="1993-02-24"/>
+		<cosponsor id="400003" joined="1993-02-24"/>
+		<cosponsor id="400569" joined="1993-02-24"/>
+		<cosponsor id="300081" joined="1993-02-24"/>
+		<cosponsor id="400397" joined="1993-02-24"/>
+		<cosponsor id="400170" joined="1993-02-24"/>
+		<cosponsor id="404068" joined="1993-02-24"/>
+		<cosponsor id="400885" joined="1993-02-24"/>
+		<cosponsor id="300055" joined="1993-02-24"/>
+		<cosponsor id="407141" joined="1993-02-24"/>
+		<cosponsor id="400219" joined="1993-02-24"/>
+		<cosponsor id="400160" joined="1993-02-24"/>
+		<cosponsor id="409627" joined="1993-02-24"/>
+		<cosponsor id="400221" joined="1993-02-24"/>
+		<cosponsor id="400302" joined="1993-02-24"/>
+		<cosponsor id="400603" joined="1993-02-24"/>
+		<cosponsor id="400399" joined="1993-02-24"/>
+		<cosponsor id="400440" joined="1993-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E447)</text></action>
+		<action datetime="1993-02-24" state="REFERRED"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee On Merchant Marine.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-03-16T13:19:00-05:00"><text>Mr. Studds moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-03-16T13:20:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1249-1252"/></action>
+		<action datetime="1993-03-16T13:20:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-03-16T13:27:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1993-03-16T14:05:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1256-1257"/></action>
+		<vote how="roll" type="vote" roll="72" datetime="1993-03-16T14:32:00-05:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 72).</text></vote>
+		<action datetime="1993-03-16T14:32:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-03-18"><text>Received in the Senate and read twice and referred to the Committee on Commerce.</text></action>
+		<action datetime="1993-11-09" state="REFERRED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Text of Measure Incorporated Into H.R.3400.</text></action>
+		<action datetime="1994-05-24"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Text of Measure Incorporated Into H.R.4003.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Merchant Marine" activity="Referral, Markup, Reporting" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Marine transportation"/>
+		<term name="Armed forces reserves"/>
+		<term name="Employee rights"/>
+		<term name="Job security"/>
+		<term name="Merchant marine"/>
+		<term name="Merchant seamen"/>
+		<term name="Recruiting of employees"/>
+		<term name="Veterans' employment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Merchant Seamen Reemployment Rights Act of 1993 - Amends the Merchant Marine Act, 1936 to entitle a merchant mariner who serves during a war, armed conflict, national emergency, or mobilization need to the same reemployment rights as are guaranteed to a member of a Reserve component of the armed forces who is ordered to active duty.
+
+	</summary>
+</bill>

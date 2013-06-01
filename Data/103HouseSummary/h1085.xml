@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="1085" updated="2010-04-19T01:57:10-04:00">
+	<state datetime="1993-02-24">REFERRED</state>
+	<status><introduced datetime="1993-02-24"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="short" as="introduced">Federal Home Loan Bank Modernization Act of 1993</title>
+		<title type="official" as="introduced">To modernize and improve the Federal home loan bank system in order to enhance the availability of housing finance, and for other purposes.</title>
+	</titles>
+	<sponsor id="400012"/>
+	<cosponsors>
+		<cosponsor id="400596" joined="1993-03-18"/>
+		<cosponsor id="400023" joined="1993-03-18"/>
+		<cosponsor id="408109" joined="1993-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24"><text>Sponsor introductory remarks on measure. (CR E442)</text></action>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-03-03"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Housing and Community Development.</text></action>
+		<action datetime="1993-03-03"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Financial Institutions Supervision, Regulation and Deposit Insurance.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="HSBA-04" name="House Banking, Finance, and Urban Affairs" subcommittee="Housing and Community Development" activity="Referral" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="Financial Institutions Supervision, Regulation and Deposit Insurance" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Banks and banking"/>
+		<term name="Bank capital"/>
+		<term name="Bank loans"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Deposit insurance"/>
+		<term name="Federal home loan banks"/>
+		<term name="Government corporations"/>
+		<term name="Housing"/>
+		<term name="Interest"/>
+		<term name="Mortgage loans"/>
+		<term name="Resolution Funding Corporation"/>
+		<term name="Savings and loan associations"/>
+		<term name="Savings banks"/>
+		<term name="Stocks"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Federal Home Loan Bank Modernization Act of 1993 - Amends the Federal Home Loan Bank Act to permit the withdrawal of any member from membership in a Federal Home Loan Bank. (Currently Federal savings and loan associations are precluded from doing so.) Replaces the minimum share subscription formula for Federal Home Loan Bank membership with a requirement based upon a subscriber's total assets (currently, aggregate unpaid loan principal). Repeals: (1) the 30 percent lending cap limitation on advances to members that are non-qualified thrift lenders; (2) the proscription against the acquisition of new advances from a Federal Home Loan Bank by a savings association lacking qualified thrift lender status; and (3) the minimum residential mortgage loan requirement for qualified thrift lender membership in the Federal Home Loan Bank system. Reduces from ten years to five years the waiting period before which a withdrawn member may resume membership. Modifies the formula for annual contributions by Federal Home Loan Banks to capitalize the Resolution Funding Corporation. Authorizes the Federal Home Loan Bank Board to impose assessments to make up for any deficiency resulting from such modification. Directs the Federal Housing Finance Board to study and report to the Congress on: (1) the feasibility of creating a class of affiliate members of the Federal Home Loan Banks for institutions that make long term home mortgage loans; and (2) the desirability of applying requirements to such members that differ from those currently applicable in specified areas to Federal Home Loan Bank members.
+
+	</summary>
+</bill>

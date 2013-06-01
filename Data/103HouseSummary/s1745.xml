@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="1745" updated="2012-07-17T04:52:49-04:00">
+	<state datetime="1993-11-20">REFERRED</state>
+	<status><introduced datetime="1993-11-20"/></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend certain provisions of title 5, United States Code, relating to the treatment of Members of Congress for retirement purposes.</title>
+	</titles>
+	<sponsor id="400557"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-20" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S16754)</text></action>
+		<action datetime="1993-11-20" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3056" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Annuities"/>
+		<term name="Civil service pensions"/>
+		<term name="Congress"/>
+		<term name="Congressional employees"/>
+		<term name="Congressional salaries and pensions"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Government operations and politics"/>
+		<term name="Labor and employment"/>
+		<term name="Members of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+Amends the Civil Service Retirement System (CSRS) and the Federal Employees' Retirement System (FERS) to: (1) limit the maximum CSRS annuity payable to Members of Congress with respect to cost of living adjustments to the final pay of the Member with respect to whom the annuity is paid; and (2) make other changes in the computation of CSRS and FERS annuities payable to Members, including eliminating adjustments for previous service as a congressional employee.
+
+	</summary>
+</bill>

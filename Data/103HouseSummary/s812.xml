@@ -1,0 +1,48 @@
+<bill session="103" type="s" number="812" updated="2012-07-17T06:32:42-04:00">
+	<state datetime="1994-02-01">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-02-01" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-04-22"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the Federal Courthouse in Denver, Colorado, as the &quot;Byron White Federal Courthouse&quot;, and for other purposes.</title>
+	</titles>
+	<sponsor id="300017"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-22" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<action datetime="1993-05-06" state="REPORTED"><text>Sponsor introductory remarks on measure. (CR S5551-5552)</text></action>
+		<calendar datetime="1994-01-27" ><committee name="Committee on Environment and Public Works"/><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-01-28"><text>Committee on Environment and Public Works. Reported to Senate by Senator Baucus without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="350" datetime="1994-01-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 350.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-02-01" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S523"/></vote>
+		<action datetime="1994-02-03T10:01:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-02-03"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-02-03"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-02-17"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Public Buildings and Grounds.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Public Buildings and Grounds" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3693" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Colorado"/>
+		<term name="Commemorations"/>
+		<term name="Courthouses"/>
+		<term name="Names"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/22/1993--Introduced.
+South Carolina National Heritage Corridor Act of 1995 - Establishes: (1) the South Carolina National Heritage Corridor in the State of South Carolina; and (2) the South Carolina National Heritage Corridor Commission to assist Federal, State, and local authorities and the private sector in developing and implementing an integrated management action plan for the Corridor. Authorizes appropriations.
+
+	</summary>
+</bill>

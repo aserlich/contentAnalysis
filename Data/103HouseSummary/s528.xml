@@ -1,0 +1,71 @@
+<bill session="103" type="s" number="528" updated="2012-07-17T06:02:24-04:00">
+	<state datetime="1994-10-22">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-22" /></status>
+
+	<introduced datetime="1993-03-09"/>
+	<titles>
+		<title type="short" as="introduced">Lincoln County, Montana, Public Lands Transfer Act of 1993</title>
+		<title type="short" as="passed senate">Lincoln County, Montana, Lands Transfer Act of 1994</title>
+		<title type="short" as="enacted">Lincoln County, Montana, Lands Transfer Act of 1994</title>
+		<title type="official" as="introduced">A bill to provide for the transfer of certain U.S. Forest Service lands located in Lincoln County, Montana, to Lincoln County in the State of Montana.</title>
+	</titles>
+	<sponsor id="300015"/>
+	<cosponsors>
+		<cosponsor id="300005" joined="1993-03-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-09" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2547)</text></action>
+		<action datetime="1993-03-09" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-03-10"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1994-04-25"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of Agriculture, and Office of Management and Budget.</text></action>
+		<action datetime="1994-05-05"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed: S.Hrg. 103-748.</text></action>
+		<calendar datetime="1994-08-03"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-08-23"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment in the nature of a substitute. With written report No. 103-355.</text></action>
+		<calendar under="General Orders" number="597" datetime="1994-08-23" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 597.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-08-25" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text><reference label="consideration" ref="CR S12646"/></vote>
+		<action datetime="1994-09-12T12:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-09-12"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-09-12"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-08T00:03:00-04:00"><text>Committee on Natural Resources discharged.</text></action>
+		<action datetime="1994-10-08T00:03:00-04:00"><text>Mr. Vento asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-10-08T00:03:00-04:00"><text>Considered by unanimous consent. (consideration: CR 10/7/1994 H11425)</text></action>
+		<vote how="without objection" type="vote2" datetime="1994-10-08T00:03:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-10-08T00:03:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-10-08" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-10-18" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-22" ><text>Signed by President.</text></signed>
+		<enacted number="103-398" type="public" datetime="1994-10-22"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-398.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Airports"/>
+		<term name="Cemeteries and funerals"/>
+		<term name="Commerce"/>
+		<term name="Education"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Environmental protection"/>
+		<term name="Forest products"/>
+		<term name="Junior high schools"/>
+		<term name="Land transfers"/>
+		<term name="Landfills"/>
+		<term name="Mines and mineral resources"/>
+		<term name="Montana"/>
+		<term name="National forests"/>
+		<term name="Transportation and public works"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/25/1994--Passed Senate amended. Lincoln County, Montana, Lands Transfer Act of 1994 - Requires the Secretary of Agriculture to convey: (1) specified lands located within the boundaries of the Kootenai National Forest, Montana, to Lincoln County, Montana; and (2) the timber and mineral rights to specified lands at the new Libby Airport to such County. Requires such lands to revert to the United States if they cease to be used for public purposes unless the Secretary determines that the lands, or any portion thereof, have become contaminated with hazardous substances.
+
+	</summary>
+</bill>

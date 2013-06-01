@@ -1,0 +1,49 @@
+<bill session="103" type="s" number="1094" updated="2012-07-17T04:36:37-04:00">
+	<state datetime="1993-06-10">REFERRED</state>
+	<status><introduced datetime="1993-06-10"/></status>
+
+	<introduced datetime="1993-06-10"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend section 1710 of title 38, United States Code, to extend the period of eligibility of certain veterans for medical care for exposure to dioxin or ionizing radiation.</title>
+	</titles>
+	<sponsor id="300031"/>
+	<cosponsors>
+		<cosponsor id="400561" joined="1993-06-10"/>
+		<cosponsor id="403346" joined="1993-06-10"/>
+		<cosponsor id="300001" joined="1993-06-10"/>
+		<cosponsor id="407786" joined="1993-06-15"/>
+		<cosponsor id="300017" joined="1993-06-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-10" state="REFERRED"><text>Read twice and referred to the Committee on Veterans.</text></action>
+		<action datetime="1993-06-23"><committee name="Committee on Veterans"/><text>Committee on Veterans. Hearings held.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2375" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Agent Orange"/>
+		<term name="Atomic bomb"/>
+		<term name="Dioxins"/>
+		<term name="Health"/>
+		<term name="Herbicides"/>
+		<term name="Ionizing radiation"/>
+		<term name="Japan"/>
+		<term name="Nuclear weapons"/>
+		<term name="Veterans' medical care"/>
+		<term name="Vietnam veterans"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/10/1993--Introduced.
+Extends through December 31, 2003, the authority of the Secretary of Veterans Affairs to provide priority health care to veterans who were exposed to Agent Orange or ionizing radiation during military service.
+
+	</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="103" type="h" number="1387" updated="2010-04-19T02:47:18-04:00">
+	<state datetime="1993-03-17">REFERRED</state>
+	<status><introduced datetime="1993-03-17"/></status>
+
+	<introduced datetime="1993-03-17"/>
+	<titles>
+		<title type="official" as="introduced">To correct the classification of timing apparatus with opto-electronic display only.</title>
+	</titles>
+	<sponsor id="400365"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-17"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-22"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-04-07"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1993-08-11"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Ways and Means"/><text>See H.R.5110.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5110" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Clocks and watches"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/17/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to provide for the tariff treatment of time-recorders that are battery or AC powered with opto-electronic display only. Provides for retroactive application of this Act, upon request filed by a certain deadline, for liquidation or relinquishment of any entry or withdrawal on or after January 1, 1993, and before the effective date of this Act.
+
+	</summary>
+</bill>

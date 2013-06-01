@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="5088" updated="2010-04-19T12:24:45-04:00">
+	<state datetime="1994-09-23">REFERRED</state>
+	<status><introduced datetime="1994-09-23"/></status>
+
+	<introduced datetime="1994-09-23"/>
+	<titles>
+		<title type="official" as="introduced">To recognize and grant a Federal charter to the National Alliance for the Mentally Ill.</title>
+	</titles>
+	<sponsor id="400211"/>
+	<cosponsors>
+		<cosponsor id="401947" joined="1994-09-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-23"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-10-03"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal incorporation"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Mentally ill"/>
+		<term name="Politics and government"/>
+		<term name="Veterans"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/23/1994--Introduced.
+Grants a Federal charter to the National Alliance for the Mentally Ill.
+
+	</summary>
+</bill>

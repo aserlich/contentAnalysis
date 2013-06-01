@@ -1,0 +1,199 @@
+<bill session="103" type="s" number="1970" updated="2010-04-19T19:37:36-04:00">
+	<state datetime="1994-09-28T16:17:00-04:00">PASSED:BILL</state>
+	<status><vote2 datetime="1994-09-28T16:17:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1994-03-24"/>
+	<titles>
+		<title type="popular" as="">Agriculture Department Reorganization bill</title>
+		<title type="short" as="introduced">Department of Agriculture Reorganization Act of 1994</title>
+		<title type="short" as="passed house">Department of Agriculture Reorganization Act of 1994</title>
+		<title type="short" as="passed senate">Department of Agriculture Reorganization Act of 1994</title>
+		<title type="official" as="introduced">An original bill to authorize the Secretary of Agriculture to reorganize the Department of Agriculture, and for other purposes.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar datetime="1994-03-09"  state="REPORTED"><text>Committee on Agriculture ordered to be reported an original measure.</text></calendar>
+		<action datetime="1994-03-24"><text>Committee on Agriculture. Original measure reported to Senate by Senator Leahy. With written report No. 103-241.</text></action>
+		<calendar under="General Orders" number="395" datetime="1994-03-24" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 395.</text></calendar>
+		<action datetime="1994-04-13"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S4244-4247, S4251-4264"/></action>
+		<vote how="roll" type="vote" roll="91" datetime="1994-04-13" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with amendments by Yea-Nay Vote. 98-1. Record Vote No: 91.</text></vote>
+		<action datetime="1994-04-14T10:02:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-04-14"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-04-14T15:25:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-09-28T16:16:00-04:00"><text>Mr. de la Garza asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1994-09-28T16:16:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H9971-9986"/></action>
+		<action datetime="1994-09-28T16:16:00-04:00"><text>The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H.R. 3171. Agreed to without objection.</text></action>
+		<vote how="without objection" type="vote2" datetime="1994-09-28T16:17:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-09-28T16:17:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-09-28T16:17:00-04:00"><text>A similar measure H.R. 3171 was laid on the table without objection.</text></action>
+		<action datetime="1994-09-29"><text>Message on House action received in Senate and at the desk: House amendment to Senate bill.</text></action>
+		<action datetime="1994-10-04"><text>Sponsor introductory remarks on measure. (CR S13999)</text></action>
+		<action datetime="1994-10-04"><text>Sponsor introductory remarks on measure. (CR S14102-14104)</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Origin, Reporting, Markup" />
+	</committees>
+	<relatedbills>
+		<bill relation="supersedes" session="103" type="h" number="3171" />
+		<bill relation="unknown" session="103" type="h" number="3171" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Agricultural cooperatives"/>
+		<term name="Agricultural credit"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural education"/>
+		<term name="Agricultural extension work"/>
+		<term name="Agricultural insurance"/>
+		<term name="Agricultural policies"/>
+		<term name="Agricultural price supports"/>
+		<term name="Agricultural research"/>
+		<term name="Agricultural societies"/>
+		<term name="Agricultural statistics"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Aircraft pilots"/>
+		<term name="American agricultural assistance"/>
+		<term name="Animals"/>
+		<term name="Aviation safety"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Buy American"/>
+		<term name="Civil rights"/>
+		<term name="Collective bargaining in government"/>
+		<term name="Collective bargaining unit"/>
+		<term name="Colorado River development"/>
+		<term name="Community development"/>
+		<term name="Computers and government"/>
+		<term name="Congress"/>
+		<term name="Congressional investigations"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Congressional-executive relations"/>
+		<term name="Conservation of natural resources"/>
+		<term name="Consumer education"/>
+		<term name="Consumers"/>
+		<term name="Cost effectiveness"/>
+		<term name="Cropland conversion program"/>
+		<term name="Data banks"/>
+		<term name="Delegation of powers"/>
+		<term name="Department of Agriculture"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Disciplining of employees"/>
+		<term name="Discrimination"/>
+		<term name="Dismissal of employees"/>
+		<term name="District of Columbia"/>
+		<term name="Economic policy"/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Environmental protection"/>
+		<term name="Executive departments"/>
+		<term name="Executive reorganization"/>
+		<term name="Farmers"/>
+		<term name="Farms"/>
+		<term name="Federal Crop Insurance Corporation"/>
+		<term name="Federal budgets"/>
+		<term name="Federal employees"/>
+		<term name="Federal officials"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Feeds"/>
+		<term name="Finance"/>
+		<term name="Food"/>
+		<term name="Food additives"/>
+		<term name="Food relief"/>
+		<term name="Food safety"/>
+		<term name="Food stamps"/>
+		<term name="Foreign aid"/>
+		<term name="Foreign policy"/>
+		<term name="Foreign service"/>
+		<term name="Foreign trade"/>
+		<term name="Foreign trade promotion"/>
+		<term name="Forest management"/>
+		<term name="Government employees"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Government procurement"/>
+		<term name="Government service contracts"/>
+		<term name="Grain inspection"/>
+		<term name="Health education"/>
+		<term name="Health policy"/>
+		<term name="Higher education"/>
+		<term name="Housing"/>
+		<term name="Information services"/>
+		<term name="International relief"/>
+		<term name="Irrigation"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Labor"/>
+		<term name="Law"/>
+		<term name="Layoffs"/>
+		<term name="Limitation of actions"/>
+		<term name="Livestock"/>
+		<term name="Marketing of farm produce"/>
+		<term name="Meat inspection"/>
+		<term name="Meat packing industry"/>
+		<term name="Mediation"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Names"/>
+		<term name="National forests"/>
+		<term name="Natural resources"/>
+		<term name="Nutrition"/>
+		<term name="Nutrition policy"/>
+		<term name="Parties to actions"/>
+		<term name="Politics and government"/>
+		<term name="Poultry inspection"/>
+		<term name="Presidential appointments"/>
+		<term name="Presidents"/>
+		<term name="Public administration"/>
+		<term name="Public assistance programs"/>
+		<term name="Public contracts"/>
+		<term name="Public lands"/>
+		<term name="Racial discrimination"/>
+		<term name="Rating of employees"/>
+		<term name="Referendum"/>
+		<term name="Refuse and refuse disposal"/>
+		<term name="Regulatory impact statements"/>
+		<term name="Rental housing"/>
+		<term name="Risk assessment"/>
+		<term name="Rural affairs"/>
+		<term name="Rural economic development"/>
+		<term name="Rural electrification"/>
+		<term name="Rural housing"/>
+		<term name="Salaries"/>
+		<term name="Science policy"/>
+		<term name="Selenium"/>
+		<term name="Sex discrimination"/>
+		<term name="Socially handicapped"/>
+		<term name="Soil conservation"/>
+		<term name="Soil erosion"/>
+		<term name="Solid wastes"/>
+		<term name="State and local government"/>
+		<term name="Technology"/>
+		<term name="Telecommunication"/>
+		<term name="Telephone"/>
+		<term name="Trade"/>
+		<term name="Transportation"/>
+		<term name="Water conservation"/>
+		<term name="Water resources"/>
+		<term name="Water supply"/>
+		<term name="Watershed management"/>
+		<term name="Welfare"/>
+		<term name="Wetland conservation"/>
+		<term name="Women"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1630"/>
+		<amendment number="s1631"/>
+	</amendments>
+	<summary>
+	9/28/1994--Passed House amended. TABLE OF CONTENTS: Title I: General Reorganization Authorities Title II: Farm and Foreign Agricultural Services Title III: Rural Economic and Community Development Title IV: Food, Nutrition, and Consumer Services Title V: Natural Resources and Environment Title VI: Research, Education, and Economics Title VII: Food Safety Title VIII: National Appeals Division Title IX: Miscellaneous Provisions Department of Agriculture Reorganization Act of 1994 - Title I: General Reorganization Authorities - Transfers to the Secretary of Agriculture (Secretary) all functions of the Department of Agriculture (Department) not already vested in the Secretary, with specified exceptions. Grants the Secretary general delegation authority, with specified exceptions. (Sec. 102) Directs the Secretary to: (1) reduce the number of Department employees by at least 7500 by September 30, 1999; and (2) combine field offices where practicable. (Sec. 105) Establishes in the Department the positions of: (1) Director of External Affairs of the Department of Agriculture to assume the functions and duties of the Assistant Secretary of Agriculture for Congressional Relations and the Director of Public Affairs; and (2) Director for Administration of the Department of Agriculture to assume the functions and duties of the Assistant for Administration. Title II: Farm and Foreign Agricultural Services - Establishes in the Department the position of Under Secretary of Agriculture for Farm and Foreign Agriculture for International Affairs and Commodity Programs. (Sec. 202) Directs the Secretary to establish an Agricultural Service Agency which shall carry out programs of price and income support, crop insurance, and conservation. (Sec. 203) Amends the Soil Conservation and Domestic Allotment Act to revise State, county, and area committee provisions. Title III: Rural Economic and Community Development - Establishes in the Department the position of Under Secretary of Agriculture for Rural Economic and Community Development to succeed the Under Secretary of Agriculture for Small Community and Rural Development. Title IV: Food, Nutrition, and Consumer Services - Establishes in the Department the position of Under Secretary of Agriculture for Food, Nutrition, and Consumer Services to succeed the Assistant Secretary of Agriculture for Food and Consumer Services. Title V: Natural Resources and Environment - Establishes in the Department the position of Under Secretary of Agriculture for Natural Resources and Environment to succeed the Assistant Secretary of Agriculture for Natural Resources and Environment. Title VI: Research, Education, and Economics - Establishes in the Department the position of Under Secretary of Agriculture for Research, Education, and Economics. Directs the Secretary to establish within the Department a Cooperative State Research and Education Service. Title VII: Food Safety - Establishes within the Department the position of Under Secretary of Agriculture for Food Safety. Title VIII: National Appeals Division - Directs the Secretary to establish in the Department an independent National Appeals Division. Transfers to the Division all functions and pending appeals relating to: (1) the National Appeals Division established by the Agricultural Act of 1949; (2) the National Appeals Division established by the Consolidated Farm and Rural Development Act; (3) Federal Crop Insurance Corporation appeals; and (4) Soil Conservation Service appeals. (Sec. 812) Amends the Agricultural Credit Act of 1987 to expand issues covered by State mediation programs. Title IX: Miscellaneous Provisions - Sets forth bargaining unit voluntary agreement successorship provisions. Sec. 902) Directs the Secretary to establish in the Department an Office of Environmental Risk Assessment. (Sec. 903) Directs the Secretary to make necessary adjustments to ensure equitable treatment of socially disadvantaged farmers with respect to: (1) acreage bases and program payment yields; and (2) application of the Consolidated Farm and Rural Development Act. (Sec. 907) Expresses the sense of the Congress in favor of the purchase of American-made equipment and products in connection with this Act. (Sec. 908) Prohibits the Food and Drug Administration from implementing a specified final rule to alter the permitted amount of selenium in animal diets without specified prior findings.
+
+	</summary>
+</bill>

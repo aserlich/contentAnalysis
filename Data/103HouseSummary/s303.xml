@@ -1,0 +1,46 @@
+<bill session="103" type="s" number="303" updated="2012-07-17T04:19:13-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Environment and Public Works Fair Share Act of 1993</title>
+		<title type="official" as="introduced">A bill to provide for the utilization of the most current census data in certain laws related to the environment and public works.</title>
+	</titles>
+	<sponsor id="400562"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="1993-02-04"/>
+		<cosponsor id="300154" joined="1993-04-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1198-1199)</text></action>
+		<action datetime="1993-02-03" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="757" />
+	</relatedbills>
+	<subjects>
+		<term name="Public works"/>
+		<term name="Census"/>
+		<term name="Environmental protection"/>
+		<term name="Federal aid highway program"/>
+		<term name="Grants-in-aid"/>
+		<term name="Hunting"/>
+		<term name="Interstate highway system"/>
+		<term name="Population statistics"/>
+		<term name="Traffic accidents and safety"/>
+		<term name="Urban transportation"/>
+		<term name="Wildlife conservation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Environment and Public Works Fair Share Act of 1993 - Amends the Federal Aid to Wildlife Restoration Act to require the Federal formula used to allocate funds to States under such Act to use the population figures from the latest available estimates prepared by the Department of Commerce for each State (currently, from the latest decennial census). Requires the Federal formula used for grants to States for interstate highway systems, Federal-aid urban highways, and highway safety programs to include the population figures from the latest available estimates prepared by the Department of Commerce (currently, from the latest decennial census).
+
+	</summary>
+</bill>

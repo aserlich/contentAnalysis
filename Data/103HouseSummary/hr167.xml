@@ -1,0 +1,46 @@
+<bill session="103" type="hr" number="167" updated="2010-04-19T13:24:45-04:00">
+	<state datetime="1993-06-08T12:43:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-06-08T12:43:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-05-10"/>
+	<titles>
+		<title type="official" as="introduced">Adjusting the status of an existing position on the Capitol Police for duty with respect to the House of Representatives.</title>
+	</titles>
+	<sponsor id="407141"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-10"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-05-10"><committee name="House Committee on House Administration"/><text>Referred to Subcommittee on Personnel and Police Prior to Introduction (May 6, 93).</text></action>
+		<action datetime="1993-05-10"><committee name="House Committee on House Administration"/><text>Subcommittee Consideration and Mark-up Held; Forwarded to Full Committee by Voice Vote Prior to Introduction (May 6, 93).</text></action>
+		<action datetime="1993-05-20"><committee name="House Committee on House Administration"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-05-20"  state="REPORTED"><committee name="House Committee on House Administration"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-06-08T12:41:00-04:00"><text>Mr. Manton moved to suspend the rules and agree to the resolution.</text></action>
+		<action datetime="1993-06-08T12:41:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3322-3323"/></action>
+		<action datetime="1993-06-08T12:41:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-06-08T12:43:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1993-06-08T12:44:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, Markup" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Markup" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congressional agencies"/>
+		<term name="Police"/>
+		<term name="Police training"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/10/1993--Introduced.
+Establishes one additional position of lieutenant on the Capitol Police to serve as agency training representative for duty under the House of Representatives. Abolishes the former position of an officer or member serving as agency training representative established by H. Res. 320, 99th Congress.
+
+	</summary>
+</bill>

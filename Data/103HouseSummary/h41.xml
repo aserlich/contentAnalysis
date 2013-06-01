@@ -1,0 +1,121 @@
+<bill session="103" type="h" number="41" updated="2010-04-18T23:06:22-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Invest in America Act</title>
+		<title type="official" as="introduced">To authorize the President to seek the recoupment of defense expenditures abroad and to authorize the use of expenditures recouped for domestic investment projects.</title>
+	</titles>
+	<sponsor id="400585"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-01-14"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Housing and Community Development.</text></action>
+		<action datetime="1993-01-14"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Economic Growth and Credit Formation.</text></action>
+		<action datetime="1993-01-14"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Energy.</text></action>
+		<action datetime="1993-01-14"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Technology, Environment, and Aviation.</text></action>
+		<action datetime="1993-01-19"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1993-01-19"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+		<action datetime="1993-01-19"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Economic Development.</text></action>
+		<action datetime="1993-01-25"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Europe and the Middle East.</text></action>
+		<action datetime="1993-01-25"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Security, International Organizations and Human Rights.</text></action>
+		<action datetime="1993-01-26"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1993-02-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Energy and Power.</text></action>
+		<action datetime="1993-02-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1993-02-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+		<action datetime="1993-02-09"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Research and Technology.</text></action>
+		<action datetime="1993-02-09"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Readiness.</text></action>
+		<action datetime="1993-02-09"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Installations and Facilities.</text></action>
+		<action datetime="1993-02-11"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Research and Technology" activity="Referral" />
+		<committee code="HSAS-03" name="House Armed Services" subcommittee="Readiness" activity="Referral" />
+		<committee code="" name="House Armed Services" subcommittee="Military Installations and Facilities" activity="Referral" />
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="HSBA-04" name="House Banking, Finance, and Urban Affairs" subcommittee="Housing and Community Development" activity="Referral" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="Economic Growth and Credit Formation" activity="Referral" />
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Europe and the Middle East" activity="Referral" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Security, International Organizations, and Human Rights" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="HSIF-03" name="House Energy and Commerce" subcommittee="Energy and Power" activity="Referral" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Economic Development" activity="Referral" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Energy" activity="Referral" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Technology, Environment and Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Administrative procedure"/>
+		<term name="Alternative energy sources"/>
+		<term name="Armed forces abroad"/>
+		<term name="Block grants"/>
+		<term name="Conversion of industries"/>
+		<term name="Defense budgets"/>
+		<term name="Defense burdensharing"/>
+		<term name="Defense contracts"/>
+		<term name="Defense economics"/>
+		<term name="Defense industries"/>
+		<term name="Depressed areas"/>
+		<term name="Economic development"/>
+		<term name="Energy conservation"/>
+		<term name="Energy law and legislation"/>
+		<term name="Energy policy"/>
+		<term name="Energy research"/>
+		<term name="Environmental protection"/>
+		<term name="Europe"/>
+		<term name="Federal aid to community development"/>
+		<term name="Federal aid to transportation"/>
+		<term name="Foreign trade"/>
+		<term name="Foreign trade promotion"/>
+		<term name="Government spending reductions"/>
+		<term name="Government trust funds"/>
+		<term name="Grants-in-aid"/>
+		<term name="Highspeed trains"/>
+		<term name="Historic sites"/>
+		<term name="Magnetic levitation vehicles"/>
+		<term name="Manpower training programs"/>
+		<term name="Mass rapid transit"/>
+		<term name="Military agreements"/>
+		<term name="Military bases"/>
+		<term name="NATO countries"/>
+		<term name="Pollution control"/>
+		<term name="Reprogramming of appropriated funds"/>
+		<term name="Research and development"/>
+		<term name="Solar energy"/>
+		<term name="Unemployment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Invest in America Act - Encourages the President to enter into an agreement with each European member nation of the North Atlantic Treaty Organization (NATO) in which U.S. armed forces are stationed to provide for payment by such nation of at least one-half of the cost of maintaining U.S. troops there, including personnel compensation costs. Establishes in the Treasury the Invest in America Fund and requires deposits into the Fund in an amount equal to deposits received from NATO nations for the payment of such costs. Authorizes the appropriation of Fund amounts for various general purposes. Provides for the expedited consideration, in the granting of funds from such appropriations, to State, county, or local areas experiencing a high level of unemployment due to the realignment or closure of a military installation or facility or the cancellation or curtailment of a major defense contract.
+
+	</summary>
+</bill>

@@ -1,0 +1,58 @@
+<bill session="103" type="h" number="2709" updated="2010-04-19T06:13:47-04:00">
+	<state datetime="1993-07-22">REFERRED</state>
+	<status><introduced datetime="1993-07-22"/></status>
+
+	<introduced datetime="1993-07-22"/>
+	<titles>
+		<title type="short" as="introduced">Expedited Hazardous Site Cleanup Act of 1993</title>
+		<title type="official" as="introduced">To encourage owners and operators of contaminated sites to clean up those sites, and for other purposes.</title>
+	</titles>
+	<sponsor id="406482"/>
+	<cosponsors>
+		<cosponsor id="406420" joined="1993-10-27"/>
+		<cosponsor id="407817" joined="1993-10-27"/>
+		<cosponsor id="412001" joined="1993-10-27"/>
+		<cosponsor id="400109" joined="1993-10-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-22"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-07-22"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-07-26"><text>Sponsor introductory remarks on measure. (CR E1849)</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1993-08-13"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+		<action datetime="1994-07-27"><committee name="House Committee on Public Works + Transportation"/><text>See H.R.3800.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3800" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Administrative fees"/>
+		<term name="Administrative procedure"/>
+		<term name="Business records"/>
+		<term name="Commercial arbitration"/>
+		<term name="Environmental Protection Agency"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Government paperwork"/>
+		<term name="Hazardous substances"/>
+		<term name="Hazardous waste disposal"/>
+		<term name="Liability for toxic substances pollution damages"/>
+		<term name="Public contracts"/>
+		<term name="Surety and fidelity"/>
+		<term name="Waste disposal sites"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/22/1993--Introduced.
+Expedited Hazardous Site Cleanup Act of 1993 - Applies this Act to any facility listed on the National Priorities List under the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) and to any facility listed pursuant to State law as requiring remedial action for hazardous substances or any facility proposed for such list. Authorizes the Administrator of the Environmental Protection Agency to enter into cooperative agreements to authorize States to administer the owner-operator initiated response program under this Act. Sets forth State eligibility requirements. Authorizes owners or operators of contaminated facilities to submit a notification of intent to conduct a response to the Administrator and potentially responsible parties (PRPs) at the site. Sets forth requirements for owners or operators with respect to response programs, including: (1) payment of specified costs to constitute a set-off against future oversight costs incurred by the Administrator; (2) preparation of a schedule for facility investigation; (3) publication of notice of the proposed action; and (4) preparation of a response action plan. Sets forth response plan approval procedures. Authorizes the Administrator to require additional response actions at a facility under specified circumstances. Prescribes penalties for failures to comply with an approved response plan. Requires the Administrator, upon receipt of a certification of completion of a response action and at the request of the owner or operator, to enter into a covenant not to sue the owner or operator or any other PRP for civil liability under CERCLA or the Solid Waste Disposal Act. Reserves the Administrator's rights to assert all claims against any party to the covenant except for claims based on conditions requiring additional response actions under this Act. Directs the Administrator to remove a facility from the National Priorities List upon issuance of a covenant not to sue. Authorizes the Administrator to issue guidelines for situations in which it is not in the public interest for the Administrator to enter into a covenant not to sue.
+
+	</summary>
+</bill>

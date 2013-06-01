@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="3070" updated="2010-04-19T07:09:44-04:00">
+	<state datetime="1993-09-14">REFERRED</state>
+	<status><introduced datetime="1993-09-14"/></status>
+
+	<introduced datetime="1993-09-14"/>
+	<titles>
+		<title type="short" as="introduced">Rural Telemedicine Development Act of 1993</title>
+		<title type="official" as="introduced">To amend the Public Health Service Act to provide grants for the development of rural telemedicine, and for other purposes.</title>
+	</titles>
+	<sponsor id="406605"/>
+	<cosponsors>
+		<cosponsor id="400126" joined="1993-11-08"/>
+		<cosponsor id="400534" joined="1993-11-08"/>
+		<cosponsor id="401153" joined="1993-11-08"/>
+		<cosponsor id="400281" joined="1993-11-08"/>
+		<cosponsor id="400299" joined="1993-11-08"/>
+		<cosponsor id="400193" joined="1993-11-08"/>
+		<cosponsor id="400201" joined="1993-11-08"/>
+		<cosponsor id="406554" joined="1993-11-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-14"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-10-05"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+		<action datetime="1993-10-05"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1994-08-02"><text>Sponsor introductory remarks on measure. (CR H6605-6606)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Communication in medicine"/>
+		<term name="Computer networks"/>
+		<term name="Federal aid to health facilities"/>
+		<term name="Federal aid to hospitals"/>
+		<term name="Fiber optics"/>
+		<term name="Grants-in-aid"/>
+		<term name="Information networks"/>
+		<term name="Medicine"/>
+		<term name="Rural affairs"/>
+		<term name="Rural hospitals"/>
+		<term name="Rural public health"/>
+		<term name="Technology"/>
+		<term name="Telecommunication"/>
+		<term name="Telephone"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/14/1993--Introduced.
+Rural Telemedicine Development Act of 1993 - Amends the Public Health Service Act to direct the Secretary of Health and Human Services to award grants: (1) to hospitals, hospital networks, and other health care providers to encourage the initial development of rural telemedicine networks to use telecommunications technology in providing health services to rural areas; and (2) for linking such networks together using advanced telemedicine systems and for linking such networks to existing fiber optic telecommunications systems. Sets forth provisions regarding: (1) application requirements; (2) preferences in awarding grants; and (3) use of funds for initial development and advanced telemedicine grant programs. Authorizes appropriations.
+
+	</summary>
+</bill>

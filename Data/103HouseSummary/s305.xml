@@ -1,0 +1,52 @@
+<bill session="103" type="s" number="305" updated="2012-07-17T05:39:58-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Agriculture, Nutrition, and Forestry Fair Share Act of 1993</title>
+		<title type="official" as="introduced">A bill to utilize the most current Federal census data in the distribution of Federal funds for agriculture, nutrition, and forestry.</title>
+	</titles>
+	<sponsor id="400562"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="1993-02-04"/>
+		<cosponsor id="300154" joined="1993-04-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1198-1199)</text></action>
+		<action datetime="1993-02-03" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-03-15"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Agricultural Research.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Agricultural Research, Conservation, Forestry and General Legislation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Agricultural colleges"/>
+		<term name="Agricultural education"/>
+		<term name="Agricultural experiment stations"/>
+		<term name="Agricultural extension work"/>
+		<term name="Agricultural research"/>
+		<term name="Census"/>
+		<term name="Education"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Forests and forestry"/>
+		<term name="Health"/>
+		<term name="Health education"/>
+		<term name="Nutrition"/>
+		<term name="Nutrition policy"/>
+		<term name="Population statistics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Agriculture, Nutrition, and Forestry Fair Share Act of 1993 - Amends Federal law to base Federal funding for agricultural experiment stations on the latest Department of Commerce population figures rather than on decennial census figures. Makes similar changes to: (1) the Smith-Lever Act with respect to the Federal Extension Service; and (2) the National Agricultural Research, Extension, and Teaching Policy Act of 1977 with respect to agricultural research at 1890 land grant colleges (including Tuskegee Institute) and the nutrition education program.
+
+	</summary>
+</bill>

@@ -1,0 +1,67 @@
+<bill session="103" type="h" number="1412" updated="2010-04-19T02:51:26-04:00">
+	<state datetime="1993-03-18">REFERRED</state>
+	<status><introduced datetime="1993-03-18"/></status>
+
+	<introduced datetime="1993-03-18"/>
+	<titles>
+		<title type="short" as="introduced">Shellfish Safety Act of 1993</title>
+		<title type="official" as="introduced">To establish a National Shellfish Safety Program.</title>
+	</titles>
+	<sponsor id="411040"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-06-08"/>
+		<cosponsor id="300018" joined="1993-06-08"/>
+		<cosponsor id="400333" joined="1993-06-08"/>
+		<cosponsor id="410567" joined="1993-06-08"/>
+		<cosponsor id="406482" joined="1993-06-08"/>
+		<cosponsor id="411947" joined="1993-06-08"/>
+		<cosponsor id="407817" joined="1993-06-08"/>
+		<cosponsor id="400572" joined="1993-07-14"/>
+		<cosponsor id="400109" joined="1993-06-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-18"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-03-18"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1993-03-31"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Fisheries Management.</text></action>
+		<action datetime="1993-03-31"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from HHS.</text></action>
+		<action datetime="1993-06-23"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Fisheries Management"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Fisheries Management" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Food"/>
+		<term name="Administrative procedure"/>
+		<term name="Consumer protection"/>
+		<term name="Environmental protection"/>
+		<term name="Fish inspection"/>
+		<term name="Food adulteration and inspection"/>
+		<term name="Food contamination"/>
+		<term name="Food handling"/>
+		<term name="Food industry"/>
+		<term name="Foreign trade"/>
+		<term name="Government paperwork"/>
+		<term name="Imports"/>
+		<term name="Labeling"/>
+		<term name="Licenses"/>
+		<term name="Seafood"/>
+		<term name="Shellfish fisheries"/>
+		<term name="Standards"/>
+		<term name="Water quality"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/18/1993--Introduced.
+Shellfish Safety Act of 1993 - Mandates the establishment of a National Shellfish Safety Program, including the issuance of guidelines for: (1) shellfish growers, harvesters, and shippers and their vessels; (2) water quality of shellfish growing and harvesting areas; (3) monitoring the movement of domestic and imported shellfish in interstate commerce; and (4) monitoring and controlling biotoxins and contaminants. Provides for State programs, including monitoring, classifying, and closing growing and harvesting areas and certification of shippers. Authorizes a memorandum of understanding with any country with a program at least equivalent to the Program providing for specified matters, including requiring the country to certify shippers and make available a list of waters classified as meeting requirements at least equivalent to the Program. Deems adulterated, for purposes of the Federal Food, Drug, and Cosmetic Act, shellfish: (1) grown or harvested in a country without such a memorandum; (2) grown or harvested in a State without an approved program; (3) harvested from waters not classified as meeting the requirements of the program or otherwise deemed unsuitable for harvesting; or (4) shipped by an uncertified shipper. Directs the Secretary of Commerce to evaluate the potential for removing conditions and prohibitions on growing and harvesting areas. Authorizes cooperative agreements with States for restoration of such areas.
+
+	</summary>
+</bill>

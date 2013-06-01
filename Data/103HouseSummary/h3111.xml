@@ -1,0 +1,76 @@
+<bill session="103" type="h" number="3111" updated="2010-04-19T07:16:09-04:00">
+	<state datetime="1993-09-21">REFERRED</state>
+	<status><introduced datetime="1993-09-21"/></status>
+
+	<introduced datetime="1993-09-21"/>
+	<titles>
+		<title type="short" as="introduced">Environmental Risk Reduction Act of 1993</title>
+		<title type="official" as="introduced">To require the Administrator of the Environmental Protection Agency to seek advice concerning environmental risks, and for other purposes.</title>
+	</titles>
+	<sponsor id="412001"/>
+	<cosponsors>
+		<cosponsor id="409966" joined="1993-09-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-21"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-09-21"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-09-21"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-09-21"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-09-21"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-09-27"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Department Operations and Nutrition.</text></action>
+		<action datetime="1993-09-27"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1993-09-27"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from EPA.</text></action>
+		<action datetime="1993-09-28"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Technology, Environment and Aviation.</text></action>
+		<action datetime="1993-10-04"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Department Operations and Nutrition" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Technology, Environment and Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cost effectiveness"/>
+		<term name="Education"/>
+		<term name="Environmental Protection Agency"/>
+		<term name="Environmental assessment"/>
+		<term name="Environmental health"/>
+		<term name="Environmental law and legislation"/>
+		<term name="Environmental monitoring"/>
+		<term name="Environmental research"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Government paperwork"/>
+		<term name="Health education"/>
+		<term name="Higher education"/>
+		<term name="Medical care"/>
+		<term name="Medical research"/>
+		<term name="Nonprofit organizations"/>
+		<term name="Regulatory impact statements"/>
+		<term name="Research and development contracts"/>
+		<term name="Risk assessment"/>
+		<term name="Standards"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/21/1993--Introduced.
+Environmental Risk Reduction Act of 1993 - Directs the Administrator of the Environmental Protection Agency to use resources pursuant to environmental laws to reduce risks to human health and welfare and ecological resources through the assessment and ranking of relative risks and options for their management. Requires the Administrator to establish: (1) a Committee on Relative Risks to provide advice on ranking the relative risks of stressors to human health and welfare and ecological resources; (2) a Committee on Environmental Benefits to provide advice on estimating quantitative benefits of reducing risks and the costs of existing or proposed laws or regulations; and (3) a Committee on Communicating Risk to provide advice on communicating information on risks to the public. Authorizes appropriations. Directs the Administrator to: (1) protect human health and the environment by using careful risk assessments and evaluation of options for reducing risks; and (2) develop and revise, as necessary, guidelines to ensure consistency and technical quality in risk assessments by specifying minimum standards for risk assessment approaches. Requires the Administrator to conduct a core environmental risk assessment research program to insure that the risk assessment process is based on adequate environmental data and scientific understanding. Requires at least half of research conducted under this Act to be under agreements with universities or not-for-profit organizations. Authorizes appropriations. Establishes an Interagency Panel on Risk Assessment and Reduction for purposes of coordinating Federal research, data gathering, and implementation of environmental risk assessment and risk reduction activities. Directs the Administrator to report to the Congress on: (1) a prioritized list of the human health and welfare and ecological resource risks considered by the Committee on Relative Risks; (2) public awareness of the likelihood, seriousness, magnitude, and irreversibility of each risk; (3) alternative options for reducing risks and estimated costs and benefits to society; (4) the time required for reducing risks through each option; (5) evaluation of the uncertainty associated with aspects of the assessment process; and (6) research or data collection that would reduce such uncertainty. Provides for biennial updates of such report.
+
+	</summary>
+</bill>

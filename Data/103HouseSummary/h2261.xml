@@ -1,0 +1,84 @@
+<bill session="103" type="h" number="2261" updated="2010-04-19T05:04:26-04:00">
+	<state datetime="1993-05-25">REFERRED</state>
+	<status><introduced datetime="1993-05-25"/></status>
+
+	<introduced datetime="1993-05-25"/>
+	<titles>
+		<title type="official" as="introduced">To contain the rate of growth in health care costs and enhance the quality of health care by improving and making more efficient the provision of medical and health insurance information, and for other purposes.</title>
+	</titles>
+	<sponsor id="400401"/>
+	<cosponsors>
+		<cosponsor id="404723" joined="1993-05-25"/>
+		<cosponsor id="400261" joined="1993-05-25"/>
+		<cosponsor id="400205" joined="1993-05-25"/>
+		<cosponsor id="400318" joined="1993-06-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-25"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-05-25"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-05-25"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-05-25"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-06-02"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-06-11"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Hospitals and Health Care.</text></action>
+		<action datetime="1993-06-15"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+		<action datetime="1993-07-01"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1993-07-01"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Commerce, Consumer Protection, and Competitiveness" activity="Referral" />
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="HSVR-03" name="House Veterans' Affairs" subcommittee="Hospitals and Health Care" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Administrative procedure"/>
+		<term name="Ambulatory care"/>
+		<term name="Business records"/>
+		<term name="Communication in medicine"/>
+		<term name="Community health services"/>
+		<term name="Confidential communications"/>
+		<term name="Consumer education"/>
+		<term name="Data banks"/>
+		<term name="Data transmission systems"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Electronic data interchange"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal preemption"/>
+		<term name="Fees"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Government employees' health insurance"/>
+		<term name="Government paperwork"/>
+		<term name="Grants-in-aid"/>
+		<term name="Health insurance"/>
+		<term name="Hospitals"/>
+		<term name="Identification devices"/>
+		<term name="Information services"/>
+		<term name="Medicaid"/>
+		<term name="Medical economics"/>
+		<term name="Medical records"/>
+		<term name="Medicare"/>
+		<term name="Peer review organizations (Medicine)"/>
+		<term name="Public assistance programs"/>
+		<term name="Right of privacy"/>
+		<term name="Standards"/>
+		<term name="State laws"/>
+		<term name="Veterans' hospitals"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/25/1993--Introduced.
+TABLE OF CONTENTS: Title I: Standardization of Claims Processing Title II: Electronic Medical Data Standards Title III: Development and Distribution of Comparative Value Information Title IV: Additional Standards and Requirements; Research and Demonstrations Title I: Standardization of Claims Processing - Requires the Secretary of Health and Human Services to adopt standards relating to each of the following: (1) data elements for use in paper and electronic claims processing under health benefit plans, as well as for use in utilization review and management of care; (2) uniform claims forms; and (3) uniform electronic transmission of the data elements. Title II: Electronic Medical Data Standards - Requires the Secretary to promulgate standards for hospitals concerning electronic medical data, including: (1) a definition of a standard set of data elements for use by utilization and quality control peer review organizations; (2) a definition of the set of comprehensive data elements; (3) standards for an electronic patient care information system; (4) standards concerning the transmission of electronic medical data; and (5) standards relating to confidentiality of patient-specific information. Establishes an advisory commission to advise the Secretary concerning the standards. Authorizes appropriations. Title III: Development and Distribution of Comparative Value Information - Provides for the development and implementation in each State of a comparative health care value information program that covers the prices of health care services and health insurance plans. Authorizes appropriations. Title IV: Additional Standards and Requirements; Research and Demonstrations - Provides for: (1) magnetized identification cards under both Medicare and Medicaid; and (2) a Medicare and Medicaid data bank that provides information on health plan payors under Medicare and Medicaid. Authorizes appropriations. Preempts State quill pen laws. Requires the use of standard identification numbers by health benefit plans. Provides for the coordination of benefits when two or more health benefit plans are liable, if the Secretary determines there is a need for such coordination.
+
+	</summary>
+</bill>

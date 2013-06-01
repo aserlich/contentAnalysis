@@ -1,0 +1,55 @@
+<bill session="103" type="s" number="868" updated="2012-07-17T06:13:34-04:00">
+	<state datetime="1993-05-04">REFERRED</state>
+	<status><introduced datetime="1993-05-04"/></status>
+
+	<introduced datetime="1993-05-04"/>
+	<titles>
+		<title type="short" as="introduced">Firearm Victims Prevention Act</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to increase the tax on handguns and assault weapons, to increase the license application fee for gun dealers, and to use the proceeds from those increases to pay for medical care for gunshot victims.</title>
+	</titles>
+	<sponsor id="300076"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="1993-06-23"/>
+		<cosponsor id="300060" joined="1993-05-04"/>
+		<cosponsor id="407992" joined="1993-05-04"/>
+		<cosponsor id="407254" joined="1993-05-04"/>
+		<cosponsor id="409917" joined="1993-05-04"/>
+		<cosponsor id="401709" joined="1993-05-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5401-5402)</text></action>
+		<action datetime="1993-05-04" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+		<action datetime="1993-10-21"><text>Sponsor introductory remarks on measure. (CR S14212)</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2276" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Ammunition"/>
+		<term name="Assault weapons"/>
+		<term name="Excise tax"/>
+		<term name="Federal aid to health facilities"/>
+		<term name="Federal aid to hospitals"/>
+		<term name="Fees"/>
+		<term name="Firearms"/>
+		<term name="Firearms control"/>
+		<term name="Government trust funds"/>
+		<term name="Health"/>
+		<term name="Licenses"/>
+		<term name="Tax rates"/>
+		<term name="Trauma care"/>
+		<term name="Wounds"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/4/1993--Introduced.
+Firearm Victims Prevention Act - Amends the Internal Revenue Code to increase the excise tax on manufacturers of certain handguns, assault weapons, and ammunition. Imposes a retail excise tax on the sale, transfer, or other disposition of such weapons and ammunition. Establishes the Health Care Trust Fund to make grants to facilities providing medical care to gunshot victims. Amends the Federal criminal code to increase the license application fees for dealers in firearms. Appropriates to the Trust Fund certain revenue from the excise taxes and the increased fees.
+
+	</summary>
+</bill>

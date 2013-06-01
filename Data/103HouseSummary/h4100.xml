@@ -1,0 +1,71 @@
+<bill session="103" type="h" number="4100" updated="2010-04-19T09:50:09-04:00">
+	<state datetime="1994-03-21">REFERRED</state>
+	<status><introduced datetime="1994-03-21"/></status>
+
+	<introduced datetime="1994-03-21"/>
+	<titles>
+		<title type="official" as="introduced">To limit the Seawolf submarine program to two vessels and to limit the costs of procurement of those vessels.</title>
+	</titles>
+	<sponsor id="400604"/>
+	<cosponsors>
+		<cosponsor id="400414" joined="1994-04-26"/>
+		<cosponsor id="400126" joined="1994-04-19"/>
+		<cosponsor id="400149" joined="1994-04-12"/>
+		<cosponsor id="406431" joined="1994-05-02"/>
+		<cosponsor id="400885" joined="1994-04-21"/>
+		<cosponsor id="400332" joined="1994-04-12"/>
+		<cosponsor id="400306" joined="1994-06-21"/>
+		<cosponsor id="400567" joined="1994-05-05"/>
+		<cosponsor id="400216" joined="1994-05-03"/>
+		<cosponsor id="400316" joined="1994-05-12"/>
+		<cosponsor id="411350" joined="1994-05-02"/>
+		<cosponsor id="400308" joined="1994-04-25"/>
+		<cosponsor id="408618" joined="1994-04-12"/>
+		<cosponsor id="400436" joined="1994-05-09"/>
+		<cosponsor id="409650" joined="1994-04-19"/>
+		<cosponsor id="400140" joined="1994-04-12"/>
+		<cosponsor id="412001" joined="1994-05-02"/>
+		<cosponsor id="406082" joined="1994-04-12"/>
+		<cosponsor id="400378" joined="1994-05-09"/>
+		<cosponsor id="401310" joined="1994-05-10"/>
+		<cosponsor id="400193" joined="1994-04-21"/>
+		<cosponsor id="409633" joined="1994-06-29"/>
+		<cosponsor id="400182" joined="1994-04-19"/>
+		<cosponsor id="400425" joined="1994-04-12"/>
+		<cosponsor id="400100" joined="1994-04-12"/>
+		<cosponsor id="403776" joined="1994-05-09"/>
+		<cosponsor id="411997" joined="1994-04-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-21"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-03-24"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Acquisition.</text></action>
+		<action datetime="1994-03-24"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from Navy.</text></action>
+		<action datetime="1994-05-06"><committee name="House Committee on Armed Services"/><text>Unfavorable Executive Comment Received from Navy.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Acquisition" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Budgets"/>
+		<term name="Defense budgets"/>
+		<term name="Defense economics"/>
+		<term name="Government spending reductions"/>
+		<term name="Naval procurement"/>
+		<term name="Nuclear submarines"/>
+		<term name="Public contracts"/>
+		<term name="Weapons systems"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/21/1994--Introduced.
+Limits to no more than two vessels (designated SSN-21 and SSN-22) the number that may be constructed under the Seawolf attack submarine program. Limits the cost of procurement for such vessels.
+
+	</summary>
+</bill>

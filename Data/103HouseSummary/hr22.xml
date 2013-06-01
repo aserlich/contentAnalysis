@@ -1,0 +1,47 @@
+<bill session="103" type="hr" number="22" updated="2010-04-19T13:02:04-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">Prohibiting the use of appropriated funds for acquisition of voter registration lists for the House of Representatives.</title>
+	</titles>
+	<sponsor id="300083"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-05-19"/>
+		<cosponsor id="408839" joined="1993-05-19"/>
+		<cosponsor id="400015" joined="1993-05-19"/>
+		<cosponsor id="400036" joined="1993-05-19"/>
+		<cosponsor id="406863" joined="1993-05-19"/>
+		<cosponsor id="400370" joined="1993-05-19"/>
+		<cosponsor id="400140" joined="1993-05-19"/>
+		<cosponsor id="400568" joined="1993-05-19"/>
+		<cosponsor id="407669" joined="1993-06-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-01-06"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Accounts.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Accounts" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Appropriations"/>
+		<term name="Public contracts"/>
+		<term name="Public records"/>
+		<term name="Voter registration"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Prohibits appropriated funds from being used for acquisition of voter registration lists for the House of Representatives. Requires the Clerk of the House to: (1) terminate any contract or other agreement that violates this Act; and (2) dispose of any voter registration list acquired under such a contract or agreement.
+
+	</summary>
+</bill>

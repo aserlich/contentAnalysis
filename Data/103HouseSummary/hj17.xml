@@ -1,0 +1,43 @@
+<bill session="103" type="hj" number="17" updated="2010-04-18T21:53:36-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution relating to Federal budget procedures.</title>
+	</titles>
+	<sponsor id="403190"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1994-03-17"><committee name="House Committee on Judiciary"/><text>See H.J.Res.103.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hj" number="103" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Balanced budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Congressional budget"/>
+		<term name="Constitutional amendments"/>
+		<term name="Deficit financing"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="National income"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Constitutional Amendment - Requires the Congress, prior to each fiscal year, to adopt a statement in which total Federal outlays (except those for repayment of debt principal) do not exceed total receipts (except those derived from borrowing), unless a three-fifths vote of each House authorizes a specific excess. Limits the rate of increase in receipts in the statement to that of the increase in national income in the previous calendar year, unless a law is enacted solely to approve specific additional receipts. Authorizes a suspension of these provisions for any fiscal year in which the Congress has declared war.
+
+	</summary>
+</bill>

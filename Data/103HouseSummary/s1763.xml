@@ -1,0 +1,55 @@
+<bill session="103" type="s" number="1763" updated="2010-04-19T19:05:09-04:00">
+	<state datetime="1993-11-20">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-11-20" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="short" as="introduced">Liberty Ships Memorial Act of 1993</title>
+		<title type="official" as="introduced">A bill to authorize the Secretary of Transportation to convey vessels in the National Defense Reserve Fleet to certain nonprofit organizations.</title>
+	</titles>
+	<sponsor id="300073"/>
+	<cosponsors>
+		<cosponsor id="300011" joined="1993-11-20"/>
+		<cosponsor id="300043" joined="1993-11-20"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S16885"/></vote>
+		<action datetime="1993-11-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-21T14:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-21T14:16:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-11-22"><text>Sponsor introductory remarks on measure. (CR S16924)</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="58" />
+	</relatedbills>
+	<subjects>
+		<term name="Ships"/>
+		<term name="Anniversaries"/>
+		<term name="Commemorations"/>
+		<term name="Europe"/>
+		<term name="France"/>
+		<term name="Historic sites"/>
+		<term name="History"/>
+		<term name="Merchant marine"/>
+		<term name="Merchant seamen"/>
+		<term name="Merchant ships"/>
+		<term name="Monuments and memorials"/>
+		<term name="Nonprofit organizations"/>
+		<term name="Revolving funds"/>
+		<term name="Salvage"/>
+		<term name="Surplus government property"/>
+		<term name="Transportation"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+Liberty Ships Memorial Act of 1993 - Authorizes conveyance without consideration of two vessels in the National Defense Reserve Fleet to any nonprofit organization that operates a Liberty Ship or Victory Ship as a memorial to merchant mariners. Requires the organization to sell the vessel for scrap, use the proceeds to refurbish a Liberty Ship or Victory Ship to enable the ship to participate in activities concerning the 50th anniversary of the Normandy invasion, and return any unused proceeds to the United States for deposit in the Vessel Operations Revolving Fund.
+
+	</summary>
+</bill>

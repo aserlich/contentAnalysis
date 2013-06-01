@@ -1,0 +1,58 @@
+<bill session="103" type="s" number="1450" updated="2012-07-17T05:54:09-04:00">
+	<state datetime="1993-09-13">REFERRED</state>
+	<status><introduced datetime="1993-09-13"/></status>
+
+	<introduced datetime="1993-09-13"/>
+	<titles>
+		<title type="official" as="introduced">A bill respecting the relationship between the workers' compensation benefits and the benefits available under the Migrant and Seasonal Agricultural Worker Protection Act.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300016" joined="1993-10-26"/>
+		<cosponsor id="400562" joined="1993-09-13"/>
+		<cosponsor id="406084" joined="1994-04-11"/>
+		<cosponsor id="405212" joined="1993-10-13"/>
+		<cosponsor id="300015" joined="1993-09-13"/>
+		<cosponsor id="300049" joined="1993-10-26"/>
+		<cosponsor id="400559" joined="1993-09-13"/>
+		<cosponsor id="300029" joined="1993-10-13"/>
+		<cosponsor id="406256" joined="1993-09-13"/>
+		<cosponsor id="300057" joined="1993-09-13"/>
+		<cosponsor id="300012" joined="1994-05-02"/>
+		<cosponsor id="407254" joined="1994-06-07"/>
+		<cosponsor id="300023" joined="1994-05-02"/>
+		<cosponsor id="300046" joined="1993-09-13"/>
+		<cosponsor id="300048" joined="1993-10-13"/>
+		<cosponsor id="406188" joined="1993-10-26"/>
+		<cosponsor id="300069" joined="1994-06-07"/>
+		<cosponsor id="402727" joined="1993-11-09"/>
+		<cosponsor id="300155" joined="1993-10-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-13" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S11576)</text></action>
+		<action datetime="1993-09-13" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1999" />
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Actions and defenses"/>
+		<term name="Agricultural labor"/>
+		<term name="Migrant labor"/>
+		<term name="Seasonal labor"/>
+		<term name="State laws"/>
+		<term name="Workers' compensation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/13/1993--Introduced.
+Amends the Legislative Branch Appropriations Act, 1993 to make State workers' compensation laws the exclusive remedy for agricultural worker injuries under the Migrant and Seasonal Agricultural Worker Protection Act for all cases in which a final judgment has not been entered before October 6, 1992.
+
+	</summary>
+</bill>

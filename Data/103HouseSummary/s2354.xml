@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="2354" updated="2012-07-17T05:39:05-04:00">
+	<state datetime="1994-08-03">REFERRED</state>
+	<status><introduced datetime="1994-08-03"/></status>
+
+	<introduced datetime="1994-08-03"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the United States courthouse under construction in St. Louis, Missouri, as the &quot;Thomas F. Eagleton United States Courthouse&quot;, and for other purposes.</title>
+	</titles>
+	<sponsor id="403171"/>
+	<cosponsors>
+		<cosponsor id="300010" joined="1994-08-03"/>
+		<cosponsor id="408939" joined="1994-08-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-03" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4790" />
+		<bill relation="unknown" session="103" type="h" number="4790" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Commemorations"/>
+		<term name="Courthouses"/>
+		<term name="Missouri"/>
+		<term name="Names"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/3/1994--Introduced.
+Designates the United States courthouse under construction at 111 South Tenth Street in St. Louis, Missouri, as the Thomas F. Eagleton United States Courthouse.
+
+	</summary>
+</bill>

@@ -1,0 +1,63 @@
+<bill session="103" type="hr" number="369" updated="2010-04-19T13:56:26-04:00">
+	<state datetime="1994-03-22T17:46:00-05:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-03-22T17:46:00-05:00" where="h" result="pass" how="roll" roll="80"/></status>
+
+	<introduced datetime="1994-02-24"/>
+	<titles>
+		<title type="official" as="introduced">Providing amounts from the contingent fund of the House for the expenses of investigations and studies by certain committees of the House in the second session of the One Hundred Third Congress.</title>
+	</titles>
+	<sponsor id="400143"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-24"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1994-02-25"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Accounts.</text></action>
+		<action datetime="1994-03-08"><committee name="House Committee on House Administration" subcommittee="Accounts"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-03-08"><committee name="House Committee on House Administration" subcommittee="Accounts"/><text>Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 8 - 5.</text></action>
+		<action datetime="1994-03-09"><committee name="House Committee on House Administration"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-03-09"  state="REPORTED"><committee name="House Committee on House Administration"/><text>Ordered to be Reported (Amended) by the Yeas and Nays: 12 - 7.</text></calendar>
+		<action datetime="1994-03-15T13:18:00-05:00"><text>Reported (Amended) by the Committee on House Administration. H. Rept. 103-433.</text></action>
+		<calendar number="139" datetime="1994-03-15T13:19:00-05:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 139.</text></calendar>
+		<action datetime="1994-03-22T16:18:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H1814-1824"/></action>
+		<action datetime="1994-03-22T16:19:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on the resolution and the committee amendment in the nature of a substitute.</text></action>
+		<action datetime="1994-03-22T17:15:00-05:00"><text>Mr. Roberts moved to recommit with instructions to House Administration.</text></action>
+		<action datetime="1994-03-22T17:15:00-05:00"><text>The instructions contained in the Roberts motion seek to provide an allocation of 33% of all committee funds to the control of the Ranking Minority Member of each committee.</text></action>
+		<action datetime="1994-03-22T17:15:00-05:00"><text>The previous question on the motion to recommit with instructions was ordered without objection.</text></action>
+		<action datetime="1994-03-22T17:37:00-05:00"><text>On motion to recommit with instructions Failed by the Yeas and Nays: 172 - 251 (Roll no. 79).</text></action>
+		<vote how="roll" type="vote" roll="80" datetime="1994-03-22T17:46:00-05:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by recorded vote: 250 - 172 (Roll no. 80).</text></vote>
+		<action datetime="1994-03-22T17:46:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Administration" subcommittee="Accounts" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Budget deficits"/>
+		<term name="Budgets"/>
+		<term name="Computers and government"/>
+		<term name="Congress"/>
+		<term name="Congressional committee staffing"/>
+		<term name="Congressional committees (House)"/>
+		<term name="Congressional information resources"/>
+		<term name="Employee training"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Government consultants"/>
+		<term name="Government information"/>
+		<term name="Government spending reductions"/>
+		<term name="Job training"/>
+		<term name="Public contracts"/>
+		<term name="Technology"/>
+	</subjects>
+	<amendments>
+		<amendment number="h489"/>
+	</amendments>
+	<summary>
+	3/22/1994--Passed House amended. Makes available from the contingent fund of the House of Representatives certain amounts for investigations and studies by the following House committees in the second session of the 103d Congress: Agriculture; Armed Services; Banking, Finance and Urban Affairs; District of Columbia; Education and Labor; Energy and Commerce; Foreign Affairs; Government Operations; House Administration; Intelligence; Judiciary; Merchant Marine and Fisheries; Natural Resources; Post Office and Civil Service; Public Works and Transportation; Rules; Science, Space, and Technology; Small Business; Standards of Official Conduct; Veterans' Affairs; and Ways and Means. Limits the funds that may be used for procurement of consultant services and specialized training for professional staff. Directs the Committee on House Administration, through the House Information Systems, to develop, operate, and improve computer and information services for the House of Representatives. Authorizes the Committee to: (1) oversee any reimbursement for such services; (2) provide for professional development programs, office and personnel management consultation services, and publication of items for the House; and (3) adjust amounts for investigations and studies if necessary to comply with an order of the President under the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act) or to conform to any reduction in appropriations.
+
+	</summary>
+</bill>

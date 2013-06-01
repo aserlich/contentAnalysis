@@ -1,0 +1,47 @@
+<bill session="103" type="hc" number="41" updated="2010-04-18T21:07:02-04:00">
+	<state datetime="1993-03-23T13:21:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-03-23T13:21:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-02-17"/>
+	<titles>
+		<title type="official" as="introduced">Permitting the use of the rotunda of the Capitol for a ceremony to commemorate the days of remembrance of victims of the Holocaust.</title>
+	</titles>
+	<sponsor id="411947"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-17"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-02-18"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Libraries and Memorials.</text></action>
+		<action datetime="1993-03-23T13:19:00-05:00"><text>Mr. Frost moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action datetime="1993-03-23T13:20:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1543"/></action>
+		<action datetime="1993-03-23T13:20:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-03-23T13:21:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-03-23T13:21:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-03-23T13:21:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-03-23T13:22:00-05:00"><text>Laid on the table. See S. Con. Res. 13 for further action.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral" />
+		<committee code="" name="House Administration" subcommittee="Libraries and Memorials" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="sc" number="13" />
+		<bill relation="superseded" session="103" type="sc" number="13" />
+	</relatedbills>
+	<subjects>
+		<term name="Public buildings"/>
+		<term name="Capitol (Washington, D.C.)"/>
+		<term name="Commemorations"/>
+		<term name="Jewish holocaust (1939-1945)"/>
+		<term name="Special days"/>
+		<term name="Special weeks"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/23/1993--Passed House amended. Allows use of the rotunda of the Capitol on April 20, 1993, and April 6, 1994, for ceremonies to observe the days of remembrance of victims of the Holocaust.
+
+	</summary>
+</bill>

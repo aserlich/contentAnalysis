@@ -1,0 +1,75 @@
+<bill session="103" type="h" number="3734" updated="2010-04-19T08:52:50-04:00">
+	<state datetime="1994-01-26">REFERRED</state>
+	<status><introduced datetime="1994-01-26"/></status>
+
+	<introduced datetime="1994-01-26"/>
+	<titles>
+		<title type="popular" as="">Budget Reconciliation bill</title>
+		<title type="short" as="introduced">21st Century Community Learning Centers Act</title>
+		<title type="official" as="introduced">To expand the role of public schools to provide community services.</title>
+	</titles>
+	<sponsor id="404869"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-01-26"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1994-02-11"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+		<action datetime="1994-03-24"><committee name="House Committee on Education and Labor"/><text>See H.R.6.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="6" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Adult education"/>
+		<term name="Aged"/>
+		<term name="Budgets"/>
+		<term name="Children"/>
+		<term name="Community and school"/>
+		<term name="Culture"/>
+		<term name="Day care"/>
+		<term name="Disabled"/>
+		<term name="Dropouts"/>
+		<term name="Educational policy"/>
+		<term name="Educational technology"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Families"/>
+		<term name="Federal aid to education"/>
+		<term name="Federal aid to handicapped services"/>
+		<term name="Food"/>
+		<term name="Humanities"/>
+		<term name="Job training"/>
+		<term name="Libraries"/>
+		<term name="Literacy programs"/>
+		<term name="Manpower training programs"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Nutrition"/>
+		<term name="Parent and child"/>
+		<term name="Physical therapy"/>
+		<term name="Recreation"/>
+		<term name="Rural affairs"/>
+		<term name="Rural schools"/>
+		<term name="Social services"/>
+		<term name="Technical education"/>
+		<term name="Technology"/>
+		<term name="Telecommunication"/>
+		<term name="Urban affairs"/>
+		<term name="Urban education"/>
+		<term name="Vocational education"/>
+		<term name="Vocational guidance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1994--Introduced.
+21st Century Community Learning Centers Act - Directs the Secretary of Education to make grants to rural and inner city schools or consortia for projects that benefit the educational, health, social security, cultural, and recreational needs of rural or inner city communities. Authorizes appropriations.
+
+	</summary>
+</bill>

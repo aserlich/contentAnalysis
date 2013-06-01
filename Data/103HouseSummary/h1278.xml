@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="1278" updated="2010-04-19T02:29:49-04:00">
+	<state datetime="1993-03-10">REFERRED</state>
+	<status><introduced datetime="1993-03-10"/></status>
+
+	<introduced datetime="1993-03-10"/>
+	<titles>
+		<title type="short" as="introduced">Community Ambulance Support Act of 1993</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for coverage under part B of the medicare program of paramedic intercept services provided in support of public, volunteer, or non-profit providers of ambulance services.</title>
+	</titles>
+	<sponsor id="400103"/>
+	<cosponsors>
+		<cosponsor id="401494" joined="1993-05-19"/>
+		<cosponsor id="400023" joined="1993-05-19"/>
+		<cosponsor id="400380" joined="1993-04-07"/>
+		<cosponsor id="400333" joined="1993-04-07"/>
+		<cosponsor id="400170" joined="1993-04-07"/>
+		<cosponsor id="400306" joined="1993-04-07"/>
+		<cosponsor id="400409" joined="1993-04-07"/>
+		<cosponsor id="400585" joined="1993-04-07"/>
+		<cosponsor id="404097" joined="1993-05-19"/>
+		<cosponsor id="400251" joined="1993-04-07"/>
+		<cosponsor id="400366" joined="1993-04-07"/>
+		<cosponsor id="400281" joined="1993-05-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-10"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-03-10"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-12"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Ambulances"/>
+		<term name="Emergency medical services"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Paramedical personnel"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/10/1993--Introduced.
+Community Ambulance Support Act of 1993 - Amends title XVIII (Medicare) of the Social Security Act to provide for coverage of paramedic intercept services under Medicare part B (Supplementary Medical Insurance).
+
+	</summary>
+</bill>

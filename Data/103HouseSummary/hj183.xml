@@ -1,0 +1,38 @@
+<bill session="103" type="hj" number="183" updated="2010-04-18T22:19:54-04:00">
+	<state datetime="1993-04-22">REFERRED</state>
+	<status><introduced datetime="1993-04-22"/></status>
+
+	<introduced datetime="1993-04-22"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to allow an item veto of appropriation bills.</title>
+	</titles>
+	<sponsor id="405033"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-22"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-04-26"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Appropriations"/>
+		<term name="Constitutional amendments"/>
+		<term name="Item veto"/>
+		<term name="Presidential powers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/22/1993--Introduced.
+Constitutional Amendment - Grants the President line item veto authority with respect to bills making appropriations.
+
+	</summary>
+</bill>

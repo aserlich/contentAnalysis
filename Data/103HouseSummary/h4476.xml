@@ -1,0 +1,62 @@
+<bill session="103" type="h" number="4476" updated="2012-07-17T05:09:42-04:00">
+	<state datetime="1994-05-25">REPORTED</state>
+	<status><calendar datetime="1994-05-25" /></status>
+
+	<introduced datetime="1994-05-24"/>
+	<titles>
+		<title type="short" as="introduced">National Park System Reform Act of 1994</title>
+		<title type="short" as="passed house">National Park System Reform Act of 1994</title>
+		<title type="official" as="introduced">To provide for the development of a plan and a management review of the National Park System and to reform the process by which areas are considered for addition to the National Park System, and for other purposes.</title>
+	</titles>
+	<sponsor id="400174"/>
+	<cosponsors>
+		<cosponsor id="400552" joined="1994-05-24"/>
+		<cosponsor id="400612" joined="1994-05-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-24" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-05-24"><committee name="House Committee on Natural Resources"/><text>Late Referral to the Subcommittee on National Parks, Forests and Public Lands (Jul 11, 1994).</text></action>
+		<action datetime="1994-05-25"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-05-25"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-09-19T12:51:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 103-725.</text></action>
+		<calendar number="402" datetime="1994-09-19T12:51:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 402.</text></calendar>
+		<action datetime="1994-09-27T17:03:00-04:00"><text>Mr. Vento moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-09-27T17:04:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9873-9876"/></action>
+		<action datetime="1994-09-27T17:04:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-09-27T17:23:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed until Sept. 28.</text></action>
+		<action datetime="1994-09-27T17:23:00-04:00"><text>Pursuant to the provisions of clause 5 of rule 1, the Speaker postponed until Wednesday, September 28, 1994, a roll call vote on the motion to suspend the rules and pass the bill H.R. 4476.</text></action>
+		<action datetime="1994-09-28T13:39:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H9939-9940"/></action>
+		<action datetime="1994-09-28T13:57:00-04:00"><text>On motion to suspend the rules and pass the bill, as Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 444).</text></action>
+		<action datetime="1994-09-28T13:57:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-09-28"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1508" />
+		<bill relation="unknown" session="103" type="h" number="1508" />
+		<bill relation="unknown" session="103" type="h" number="3709" />
+	</relatedbills>
+	<subjects>
+		<term name="Parks"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Government operations and politics"/>
+		<term name="Land use"/>
+		<term name="National parks"/>
+		<term name="Planning"/>
+		<term name="Public lands and natural resources"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/28/1994--Passed House amended. TABLE OF CONTENTS: Title I: National Park System Plan Title II: New Area Establishment National Park System Reform Act of 1994 - Title I: National Park System Plan - Requires the Secretary of the Interior, acting through the Director of the National Park Service, to prepare and submit to specified congressional committees a National Park System Plan to guide the direction of the System into the next century. Directs the Secretary to review the existing System to determine whether there are more appropriate alternatives for managing specific units within the System and to develop a report containing a list of areas where National Park Service management should be modified or terminated. Establishes a National Park System Review Commission to make and report such determinations if the Secretary fails to transmit the report within a specified time period. Title II: New Area Establishment - Removes certain reporting requirements concerning additional areas for the National Park System. Directs the Secretary to submit an annual list of areas recommended for study for potential inclusion in the System to specified congressional committees. Bars the initiation of any study of the potential of an area for inclusion in the System after this Act's enactment, except by specific authorization by an Act of the Congress. Requires studies to be completed within three fiscal years of the enactment date of legislation providing for study. Directs the Secretary to submit an annual list of areas which have been studied previously which contain primarily cultural or historical resources and areas which contain primarily natural resources in numerical order of priority for addition to the System.
+
+	</summary>
+</bill>

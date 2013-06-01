@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="635" updated="2010-04-19T00:41:25-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 10, United States Code, to repeal the social security offset applicable to certain annuities for surviving spouses paid under the Survivor Benefit Plan for retired members of the Armed Forces to the extent that such offset is due to social security benefits based on the surviving spouse's own earnings or self-employment.</title>
+	</titles>
+	<sponsor id="410529"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1993-03-25"/>
+		<cosponsor id="400219" joined="1993-03-04"/>
+		<cosponsor id="400165" joined="1993-04-22"/>
+		<cosponsor id="400261" joined="1993-10-20"/>
+		<cosponsor id="400028" joined="1993-03-02"/>
+		<cosponsor id="400511" joined="1993-04-29"/>
+		<cosponsor id="404097" joined="1993-04-22"/>
+		<cosponsor id="400001" joined="1994-10-06"/>
+		<cosponsor id="400012" joined="1993-03-17"/>
+		<cosponsor id="409633" joined="1993-03-17"/>
+		<cosponsor id="400554" joined="1993-04-22"/>
+		<cosponsor id="411178" joined="1994-04-14"/>
+		<cosponsor id="401081" joined="1994-04-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Annuities"/>
+		<term name="Earnings"/>
+		<term name="Military pensions"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Survivors' benefits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Repeals the social security offset applicable to certain annuities paid to surviving spouses under the Survivor Benefit Plan (SBP) for retired members of the armed forces, to the extent that such offset is due to social security benefits which are based on the surviving spouse's own earnings or self-employment. Directs the Secretary of the military department concerned to recompute the existing annuities of certain individuals currently under the SBP or who have become eligible for such annuity by the date of enactment of this Act, in order to determine if such recomputation is more favorable due to changes made by this Act.
+
+	</summary>
+</bill>

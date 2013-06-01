@@ -1,0 +1,60 @@
+<bill session="103" type="hj" number="208" updated="2010-04-18T22:24:05-04:00">
+	<state datetime="1993-07-21T12:37:00-04:00">FAIL:ORIGINATING:HOUSE</state>
+	<status><vote datetime="1993-07-21T12:37:00-04:00" where="h" result="fail" how="roll" roll="347"/></status>
+
+	<introduced datetime="1993-06-08"/>
+	<titles>
+		<title type="official" as="introduced">Disapproving the extension of nondiscriminatory treatment (most-favored-nation treatment) to the products of the People's Republic of China.</title>
+	</titles>
+	<sponsor id="410147"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="1993-06-08"/>
+		<cosponsor id="400219" joined="1993-06-08"/>
+		<cosponsor id="400343" joined="1993-06-09"/>
+		<cosponsor id="400001" joined="1993-07-01"/>
+		<cosponsor id="407817" joined="1993-07-01"/>
+		<cosponsor id="400140" joined="1993-07-19"/>
+		<cosponsor id="400107" joined="1993-07-19"/>
+		<cosponsor id="400906" joined="1993-06-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-08"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-06-10"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-06-15"><committee name="House Committee on Ways and Means" subcommittee="Trade"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-06-15"><committee name="House Committee on Ways and Means" subcommittee="Trade"/><text>Forwarded by Subcommittee to Full Committee Unfavorably.</text></action>
+		<action datetime="1993-06-30"><committee name="House Committee on Ways and Means"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-06-30"  state="REPORTED"><committee name="House Committee on Ways and Means"/><text>Ordered to be Reported Adversely by the Yeas and Nays: 35 - 2.</text></calendar>
+		<action datetime="1993-07-01T14:34:00-04:00"><text>Reported adversely by the Committee on Ways and Means. H. Rept. 103-167.</text></action>
+		<calendar number="92" datetime="1993-07-01T14:35:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 92.</text></calendar>
+		<action datetime="1993-07-15T17:52:00-04:00"><text>Mr. McDermott asked unanimous consent that it be in order to consider the resolution in the House; that all points of order against the resolution and its consideration be waived; that the joint resolution be debated for one hour; that pursuant to sections 152 and 153 of the Trade Act of 1974, the previous question be considered as ordered without intervening motion; that the provisions of sections 152 and 153 of the Trade Act shall not apply to any other joint resolution of the 103rd Congress disapproving the extensionof most-favored nation treatment to the People's Republic of China recommended by the President.</text></action>
+		<action datetime="1993-07-21T10:51:00-04:00"><text>Discharged from Union Calendar.</text></action>
+		<action datetime="1993-07-21T10:52:00-04:00"><text>Considered unanimous consent agreement 7/15/93.</text><reference label="consideration" ref="CR H4867-4885"/></action>
+		<action datetime="1993-07-21T10:52:00-04:00"><text>Consideration initiated pursuant to prior agreement.</text></action>
+		<action datetime="1993-07-21T10:52:00-04:00"><text>Mr. Solomon asked unanimous consent that the time for general debate on the resolution be extended to not to exceed one hour and ten minutes. Agreed to without objection.</text></action>
+		<action datetime="1993-07-21T10:52:00-04:00"><text>DEBATE - Pursuant to the unanimous consent agreement of July 15, 1993, and the preceeding modification, the House proceeded with one hour and ten minutes of debate.</text></action>
+		<action datetime="1993-07-21T12:16:00-04:00"><text>The previous question was ordered pursuant to a previous order of the House.</text></action>
+		<vote how="roll" type="vote" roll="347" datetime="1993-07-21T12:37:00-04:00" where="h" result="fail"  state="FAIL:ORIGINATING:HOUSE"><text>On passage Failed by the Yeas and Nays: 105 - 318 (Roll no. 347).</text></vote>
+		<action datetime="1993-07-21T12:37:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1890" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="China"/>
+		<term name="Congressional veto"/>
+		<term name="Most favored nation principle"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/8/1993--Introduced.
+Disapproves the recommendation of the President to extend nondiscriminatory treatment (most-favored-nation treatment) to the products of China.
+
+	</summary>
+</bill>

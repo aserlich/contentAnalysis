@@ -1,0 +1,160 @@
+<bill session="103" type="h" number="5279" updated="2010-04-19T12:53:57-04:00">
+	<state datetime="1994-10-24">REFERRED</state>
+	<status><introduced datetime="1994-10-07"/></status>
+
+	<introduced datetime="1994-10-07"/>
+	<titles>
+		<title type="short" as="introduced">New Urban Agenda Act of 1994</title>
+		<title type="official" as="introduced">To promote a new urban agenda, and for other purposes.</title>
+	</titles>
+	<sponsor id="400370"/>
+	<cosponsors>
+		<cosponsor id="400542" joined="1994-10-07"/>
+		<cosponsor id="407817" joined="1994-10-07"/>
+		<cosponsor id="300085" joined="1994-10-07"/>
+		<cosponsor id="409219" joined="1994-10-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-07"><text>Referred jointly to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-10-07"><text>Referred jointly to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1994-10-07"><text>Referred jointly to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-10-07"><text>Referred jointly to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-10-07"><text>Referred jointly to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-10-07"><text>Referred jointly to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-10-07"><text>Referred jointly to the House Committee on Rules.</text></action>
+		<action datetime="1994-10-07"><text>Referred jointly to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-10-20"><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1994-10-20"><text>Referred to the Subcommittee on Public Buildings and Grounds.</text></action>
+		<action datetime="1994-10-21"><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1994-10-21"><text>Referred to the Subcommittee on Human Resources and Intergovernmental Relations.</text></action>
+		<action datetime="1994-10-24"><text>Referred to the Subcommittee on Military Installations and Facilities.</text></action>
+		<action datetime="1994-10-24"><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1994-11-08"><text>Referred to the Subcommittee on Housing and Community Development.</text></action>
+		<action datetime="1994-11-08"><text>Referred to the Subcommittee on Economic Growth and Credit Formation.</text></action>
+		<action datetime="1994-11-16"><text>Referred to the Subcommittee on Energy and Power.</text></action>
+		<action datetime="1994-11-16"><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Installations and Facilities" activity="Referral" />
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="HSBA-04" name="House Banking, Finance, and Urban Affairs" subcommittee="Housing and Community Development" activity="Referral" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="Economic Growth and Credit Formation" activity="Referral" />
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="" name="House Government Operations" subcommittee="Human Resources and Intergovernmental Relations" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="HSIF-03" name="House Energy and Commerce" subcommittee="Energy and Power" activity="Referral" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Public Buildings and Grounds" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Urban areas"/>
+		<term name="Accounting"/>
+		<term name="Air pollution"/>
+		<term name="American economic assistance"/>
+		<term name="American military assistance"/>
+		<term name="Arms sales"/>
+		<term name="Block grants"/>
+		<term name="Budgets"/>
+		<term name="Building construction"/>
+		<term name="Business"/>
+		<term name="Business losses"/>
+		<term name="Buy American"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Convention facilities"/>
+		<term name="Costs"/>
+		<term name="Defense economics"/>
+		<term name="Defense policy"/>
+		<term name="Depressed areas"/>
+		<term name="Economic impact statements"/>
+		<term name="Economic policy"/>
+		<term name="Electric power production"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Enterprise zones"/>
+		<term name="Environmental protection"/>
+		<term name="Federal aid to housing"/>
+		<term name="Federal employees"/>
+		<term name="Federal installations"/>
+		<term name="Federal-local relations"/>
+		<term name="Federal-state relations"/>
+		<term name="Finance"/>
+		<term name="Foreign aid"/>
+		<term name="Foreign trade"/>
+		<term name="Government employees"/>
+		<term name="Government information"/>
+		<term name="Government lending"/>
+		<term name="Government paperwork"/>
+		<term name="Government procurement"/>
+		<term name="Hazardous substances"/>
+		<term name="Hazardous waste disposal"/>
+		<term name="House rules and procedure"/>
+		<term name="Housing"/>
+		<term name="Income tax"/>
+		<term name="Industrial parks"/>
+		<term name="Infrastructure"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="Investment tax credit"/>
+		<term name="Labor"/>
+		<term name="Law"/>
+		<term name="Layoffs"/>
+		<term name="Legislation"/>
+		<term name="Legislative resolutions"/>
+		<term name="Liability for toxic substances pollution damages"/>
+		<term name="Low-income housing"/>
+		<term name="Manufacturing industries"/>
+		<term name="Military base closures"/>
+		<term name="Military bases"/>
+		<term name="Minimum tax"/>
+		<term name="Parking facilities"/>
+		<term name="Politics and government"/>
+		<term name="Public buildings"/>
+		<term name="Public contracts"/>
+		<term name="Public housing"/>
+		<term name="Real estate business"/>
+		<term name="Recycling of waste products"/>
+		<term name="Refuse as fuel"/>
+		<term name="Regulatory impact statements"/>
+		<term name="Regulatory reform"/>
+		<term name="Relocation of federal installations"/>
+		<term name="Rent subsidies"/>
+		<term name="Rental housing"/>
+		<term name="Residential rehabilitation"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Solid wastes"/>
+		<term name="Sports"/>
+		<term name="Sports facilities"/>
+		<term name="State and local government"/>
+		<term name="Tax-exempt securities"/>
+		<term name="Taxation"/>
+		<term name="Technological innovations"/>
+		<term name="Technology"/>
+		<term name="Trade"/>
+		<term name="Transportation"/>
+		<term name="Unemployment"/>
+		<term name="Urban affairs"/>
+		<term name="Urban economic development"/>
+		<term name="Water pollution"/>
+		<term name="Water resources"/>
+		<term name="Water treatment plants"/>
+		<term name="Weapons systems"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1994--Introduced.
+TABLE OF CONTENTS: Title I: Federal Commitment to Urban Economic Development Title II: Tax Incentives to Stimulate Urban Economic Development Title III: Community Regulatory Relief Title IV: Community-Based Housing Development Title V: Response to Urban Environmental Challengers Subtitle A: Environmental Cleanup Subtitle B: Environmental-Economic Recovery New Urban Agenda Act of 1994 - Title I: Federal Commitment to Urban Economic Development - Amends the Office of Federal Procurement Policy Act to require executive agencies to expend not less than 15 percent in a fiscal year for the purchase of goods from businesses located in empowerment zones, enterprise communities, or enterprise zones. Requires agencies, to the maximum extent practicable, to purchase recycled products from businesses located in such zones. (Sec. 102) Requires not less than 15 percent of foreign assistance provided in a fiscal year to be for the purchase of U.S. goods produced, manufactured, or assembled in such zones. (Sec. 103) Directs the Secretary of Commerce, in designating and providing financial assistance to Manufacturing Technology Outreach Centers, to give preference to centers located in such zones. (Sec. 104) Establishes a preference for the construction, improvement, or relocation of Federal facilities in distressed urban areas. Title II: Tax Incentives to Stimulate Urban Economic Development - Amends the Internal Revenue Code with respect to the offset for rental real estate activities under passive activity rules to increase the rehabilitation credit under such rules. (Sec. 202) Allows the rehabilitation investment credit to offset a portion of tentative minimum tax. (Sec. 203) Allows the issuance of tax-exempt facility bonds for sports facilities, convention or trade show facilities, freestanding parking facilities, air or water pollution control facilities, or industrial parks. Makes termination dates on such tax-exempt bonds inapplicable to bonds issued to finance manufacturing facilities. (Sec. 204) Increases the permitted amount of qualified small issue bonds for facilities to be used by related persons. (Sec. 205) Provides an exception to arbitrage interest rebate provisions if 100 percent of available construction proceeds are spent for governmental purposes within three years of the issuance of the tax-exempt bonds. Title III: Community Regulatory Relief - Provides that any requirement under a Federal statute or regulation which creates a Federal mandate shall apply to State or local government only if all funds necessary to pay the direct costs incurred by the government in conducting the activity are provided by the Federal Government for the fiscal year in which the direct cost is incurred. Requires the Director of the Congressional Budget Office to analyze the effects of each bill or resolution on each state and local government's compliance with a Federal mandate. Requires each measure reported or considered in either House of the Congress to be accompanied by such analyses. Requires reports by the Director to the President and the Congress estimating the direct costs of such compliance for each fiscal year in which a Federal mandate will be in effect. Title IV: Community-Based Housing Development - Amends the United States Housing Act of 1937 to increase section 8 rental subsidies. (Sec. 402) Directs the Secretary of Housing and Urban Development to report to the Comptroller General on the feasibility of consolidating existing public and low-income housing programs into a comprehensive block grant system of Federal aid. Requires the Comptroller General to report to the Congress with an analysis of such report and recommendations. (Sec. 403) Provides, when practicable, for the reconstruction of public housing dwelling units on the same property on which such units were demolished or disposed, and for the relocation of displaced tenants to such new units. Title V: Response to Urban Environmental Challenges - Subtitle A: Environmental Cleanup - Amends the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to exclude local governments that are owners or operators of facilities in distressed urban areas from liability under such Act. Requires the President to establish standards for the degree of cleanup of hazardous substances, pollutants, and contaminants released into the environment for facilities located in distressed urban areas. Subtitle B: Environmental-Economic Recovery - Authorizes the Secretary of Energy to make no more than three loans to units of local government for distressed urban areas for the establishment of facilities to dispose of, and obtain inexpensive electrical power and steam from, solid waste. Requires a report to the Congress on the results of financing such facilities.
+
+	</summary>
+</bill>

@@ -1,0 +1,75 @@
+<bill session="103" type="hc" number="169" updated="2010-04-18T21:27:16-04:00">
+	<state datetime="1993-11-16">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1993-11-16" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-10-20"/>
+	<titles>
+		<title type="official" as="introduced">To express the sense of the Congress that the United States should seek compliance by all countries with the conservation and management recommendations for Atlantic bluefin tuna adopted by the International Commission for the Conservation of Atlantic Tunas, and for other purposes.</title>
+	</titles>
+	<sponsor id="410496"/>
+	<cosponsors>
+		<cosponsor id="405775" joined="1993-10-27"/>
+		<cosponsor id="400885" joined="1993-10-27"/>
+		<cosponsor id="400359" joined="1993-10-20"/>
+		<cosponsor id="400308" joined="1993-10-20"/>
+		<cosponsor id="407141" joined="1993-10-20"/>
+		<cosponsor id="300091" joined="1993-10-20"/>
+		<cosponsor id="405524" joined="1993-10-27"/>
+		<cosponsor id="400440" joined="1993-10-20"/>
+		<cosponsor id="410887" joined="1993-10-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-20"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-10-20"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Fisheries Management.</text></action>
+		<action datetime="1993-10-20"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Fisheries Management"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-10-20"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Fisheries Management"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-21"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-11-02T12:18:00-05:00"><text>Reported by the Committee on Merchant Marine and Fisheries. H. Rept. 103-318.</text></action>
+		<calendar number="110" datetime="1993-11-02T12:18:00-05:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 110.</text></calendar>
+		<action datetime="1993-11-02T15:47:00-05:00"><text>Mr. Studds moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action datetime="1993-11-02T15:47:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8692-8694"/></action>
+		<action datetime="1993-11-02T15:48:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-02T15:52:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-02T15:52:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-02T15:52:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-11-03"><text>Received in the Senate.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-11-16" where="s" result="pass"  state="PASSED:CONCURRENTRES"><text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text><reference label="consideration" ref="CR S15805"/></vote>
+		<action datetime="1993-11-17"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Fisheries Management" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Fisheries"/>
+		<term name="Anadromous fishes"/>
+		<term name="Animals"/>
+		<term name="Atlantic Ocean"/>
+		<term name="Environmental protection"/>
+		<term name="Europe"/>
+		<term name="Fishery agreements"/>
+		<term name="Fishery products"/>
+		<term name="Food"/>
+		<term name="Foreign trade"/>
+		<term name="Import restrictions"/>
+		<term name="International affairs"/>
+		<term name="International agencies"/>
+		<term name="International fishery management"/>
+		<term name="Marine resources"/>
+		<term name="Mediterranean Sea"/>
+		<term name="North America"/>
+		<term name="Trade"/>
+		<term name="Tuna fisheries"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/2/1993--Passed House amended. Declares the sense of the Congress regarding: (1) conservation and management of highly migratory species, including Atlantic bluefin tuna, in the Atlantic Ocean and the Mediterranean Sea; (2) certain actions by the United States; (3) foreign compliance with measures adopted by the International Commission for the Conservation of Atlantic Tunas; (4) certification under the Fishermen's Protective Act of 1967; and (5) the hypotheses that stocks of highly migratory species in the Atlantic Ocean can be delineated by lines of latitude or longitude.
+
+	</summary>
+</bill>

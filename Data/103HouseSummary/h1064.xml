@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="1064" updated="2010-04-19T01:53:42-04:00">
+	<state datetime="1993-02-23">REFERRED</state>
+	<status><introduced datetime="1993-02-23"/></status>
+
+	<introduced datetime="1993-02-23"/>
+	<titles>
+		<title type="short" as="introduced">Common Sense Budget Act of 1993</title>
+		<title type="official" as="introduced">To require the Congress and the President to use the spending levels for the current fiscal year (without adjustment for inflation) in the preparation of the budget for each new fiscal year in order to clearly identify spending increases from one fiscal year to the next fiscal year.</title>
+	</titles>
+	<sponsor id="400388"/>
+	<cosponsors>
+		<cosponsor id="400085" joined="1993-02-23"/>
+		<cosponsor id="405377" joined="1993-02-23"/>
+		<cosponsor id="400083" joined="1993-02-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-10-21"><text>Sponsor introductory remarks on measure. (CR H8338)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="323" />
+		<bill relation="identical" session="103" type="h" number="323" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Congressional budget"/>
+		<term name="Congressional budget process"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Entitlements"/>
+		<term name="Federal budget process"/>
+		<term name="Federal receipts and expenditures"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1993--Introduced.
+Common Sense Budget Act of 1993 - Amends Federal law to require both the President and the Congress to draft a budget based on estimates of current fiscal year spending, proposing increases or decreases based on this level (rather than on an estimated baseline). Amends the Congressional Budget Act of 1974 to require the Congressional Budget Office to use such a current fiscal year baseline in its report to the congressional budget committees, projecting growth for entitlement and discretionary spending based on current fiscal year spending.
+
+	</summary>
+</bill>

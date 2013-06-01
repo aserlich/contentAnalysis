@@ -1,0 +1,43 @@
+<bill session="103" type="hr" number="458" updated="2010-04-19T14:10:13-04:00">
+	<state datetime="1994-06-22T11:00:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-06-22T11:00:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-06-21"/>
+	<titles>
+		<title type="official" as="introduced">Waiving certain points of order against the bill (H.R. 4602) making appropriations for the Department of the Interior and related agencies for the fiscal year ending September 30, 1995, and for other purposes.</title>
+	</titles>
+	<sponsor id="400155"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-21T16:41:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-554, by Mr. Gordon.</text></action>
+		<action datetime="1994-06-21T16:41:00-04:00"><text>Rule provides for consideration of H.R. 4602. All points of order against provisions of the bill for failure to comply with clause 2 or 6 of rule XXI are waived except on page 80, line 10 through line 19. Measure will be read by paragraph. Bill is open to amendments.</text></action>
+		<calendar datetime="1994-06-21T16:41:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 175.</text></calendar>
+		<action datetime="1994-06-22T10:41:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H4787-4789"/></action>
+		<action datetime="1994-06-22T10:41:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1994-06-22T11:00:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-06-22T11:00:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1994-06-22T11:00:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4602" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Appropriations"/>
+		<term name="Congress"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/21/1994--Introduced.
+Waives points of order against the consideration of H.R. 4602 (making appropriations for the Department of the Interior and related agencies for FY 1995).
+
+	</summary>
+</bill>

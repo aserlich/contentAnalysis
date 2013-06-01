@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="3105" updated="2010-04-19T07:15:15-04:00">
+	<state datetime="1993-09-21">REFERRED</state>
+	<status><introduced datetime="1993-09-21"/></status>
+
+	<introduced datetime="1993-09-21"/>
+	<titles>
+		<title type="official" as="introduced">To restructure the enforcement components of the Immigration and Naturalization Service.</title>
+	</titles>
+	<sponsor id="407817"/>
+	<cosponsors>
+		<cosponsor id="400219" joined="1993-09-23"/>
+		<cosponsor id="410147" joined="1993-09-23"/>
+		<cosponsor id="405775" joined="1993-10-19"/>
+		<cosponsor id="400113" joined="1994-03-02"/>
+		<cosponsor id="406768" joined="1993-10-19"/>
+		<cosponsor id="401547" joined="1994-04-20"/>
+		<cosponsor id="400104" joined="1994-03-02"/>
+		<cosponsor id="400191" joined="1993-09-21"/>
+		<cosponsor id="400370" joined="1994-01-25"/>
+		<cosponsor id="400581" joined="1994-04-20"/>
+		<cosponsor id="400143" joined="1994-01-25"/>
+		<cosponsor id="400359" joined="1994-03-02"/>
+		<cosponsor id="400144" joined="1993-09-21"/>
+		<cosponsor id="400070" joined="1994-03-11"/>
+		<cosponsor id="400243" joined="1994-05-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-21"><text>Sponsor introductory remarks on measure. (CR E2212)</text></action>
+		<action datetime="1993-09-21"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-09-24"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Department of Justice"/>
+		<term name="Deportation"/>
+		<term name="Executive reorganization"/>
+		<term name="Law enforcement"/>
+		<term name="Law enforcement officers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/21/1993--Introduced.
+Directs the Attorney General to reorganize the enforcement components of the Immigration and Naturalization Service.
+
+	</summary>
+</bill>

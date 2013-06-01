@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="2084" updated="2010-04-19T04:37:03-04:00">
+	<state datetime="1994-06-30T21:00:00-04:00">REPORTED</state>
+	<status><calendar datetime="1994-06-30T21:00:00-04:00" /></status>
+
+	<introduced datetime="1993-05-11"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Fanie Phily Mateo Angeles.</title>
+	</titles>
+	<sponsor id="400554"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-11"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-21"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+		<calendar datetime="1994-06-30T21:00:00-04:00"  state="REPORTED"><text>Placed on the Private Calendar, Calendar No. 10.</text></calendar>
+		<action datetime="1994-06-30T21:00:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-581.</text></action>
+		<action datetime="1994-07-19T12:05:00-04:00"><text>Called up from the Private Calendar for consideration.</text></action>
+		<action datetime="1994-07-19T12:05:00-04:00"><text>By request of Mr. Sensenbrenner the House passed over the measure without prejudice.</text></action>
+		<action datetime="1994-08-02"><text>Sponsor introductory remarks on measure. (CR H6558)</text></action>
+		<action datetime="1994-08-02T12:03:00-04:00"><text>Called up from the Private Calendar for consideration.</text></action>
+		<action datetime="1994-08-02T12:03:00-04:00"><text>By request of Mr. Sensenbrenner the House passed over the measure without prejudice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Reporting" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="116" />
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Immigration"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/11/1993--Introduced.
+Declares a named individual to have been lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act.
+
+	</summary>
+</bill>

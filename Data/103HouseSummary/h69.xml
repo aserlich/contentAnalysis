@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="69" updated="2010-04-18T23:10:43-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to provide reclassification of members of the Board of Veterans Appeals and to ensure pay equity between those members and administrative law judges.</title>
+	</titles>
+	<sponsor id="400028"/>
+	<cosponsors>
+		<cosponsor id="400380" joined="1993-11-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+		<action datetime="1994-04-28"><committee name="House Committee on Veterans' Affairs"/><text>Hearings Held by the Subcommittee on Pension, Compensation and Insurance.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral" />
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Administrative law judges"/>
+		<term name="Department of Veterans Affairs"/>
+		<term name="Federal officials"/>
+		<term name="Pay equity"/>
+		<term name="Salaries"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Reclassifies the pay and benefits for members of the Board of Veterans Appeals other than the Chairman and Vice Chairman to equal those payable to a Federal administrative law judge. Prohibits the reduction of basic pay of a member of the Board below the rate payable on the day before the effective date of this Act.
+
+	</summary>
+</bill>

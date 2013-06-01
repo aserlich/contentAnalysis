@@ -1,0 +1,39 @@
+<bill session="103" type="hc" number="204" updated="2010-04-18T21:32:49-04:00">
+	<state datetime="1994-02-08">REFERRED</state>
+	<status><introduced datetime="1994-02-08"/></status>
+
+	<introduced datetime="1994-02-08"/>
+	<titles>
+		<title type="official" as="introduced">To correct the enrollment of H.R. 3759.</title>
+	</titles>
+	<sponsor id="410147"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-08"><text>Referred to the House Committee on Appropriations.</text></action>
+		<action datetime="1994-02-08"><text>Referred to the House Committee on House Administration.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAP" name="House Appropriations" activity="Referral, In Committee" />
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Appropriations"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/8/1994--Introduced.
+Makes technical corrections in the enrollment of H.R. 3759 (making emergency supplemental appropriations for FY 1994).
+
+	</summary>
+</bill>

@@ -1,0 +1,90 @@
+<bill session="103" type="h" number="2431" updated="2010-04-19T05:30:40-04:00">
+	<state datetime="1993-10-06">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-10-06" /></status>
+
+	<introduced datetime="1993-06-16"/>
+	<titles>
+		<title type="official" as="introduced">To designate the Federal building in Jacksonville, Florida, as the &quot;Charles E. Bennett Federal Building&quot;.</title>
+	</titles>
+	<sponsor id="400048"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-08-06"/>
+		<cosponsor id="400509" joined="1993-09-09"/>
+		<cosponsor id="400273" joined="1993-08-06"/>
+		<cosponsor id="400155" joined="1993-08-06"/>
+		<cosponsor id="405775" joined="1993-08-06"/>
+		<cosponsor id="400510" joined="1993-08-06"/>
+		<cosponsor id="400170" joined="1993-09-09"/>
+		<cosponsor id="401014" joined="1993-08-06"/>
+		<cosponsor id="400344" joined="1993-08-06"/>
+		<cosponsor id="300038" joined="1993-08-06"/>
+		<cosponsor id="400003" joined="1993-08-06"/>
+		<cosponsor id="404996" joined="1993-08-06"/>
+		<cosponsor id="407838" joined="1993-08-06"/>
+		<cosponsor id="400143" joined="1993-08-06"/>
+		<cosponsor id="400511" joined="1993-08-06"/>
+		<cosponsor id="407772" joined="1993-06-16"/>
+		<cosponsor id="400205" joined="1993-08-06"/>
+		<cosponsor id="404520" joined="1993-08-06"/>
+		<cosponsor id="403190" joined="1993-08-06"/>
+		<cosponsor id="406082" joined="1993-09-09"/>
+		<cosponsor id="405524" joined="1993-08-06"/>
+		<cosponsor id="400595" joined="1993-08-06"/>
+		<cosponsor id="400326" joined="1993-08-06"/>
+		<cosponsor id="406554" joined="1993-09-09"/>
+		<cosponsor id="400611" joined="1993-06-16"/>
+		<cosponsor id="406790" joined="1993-09-09"/>
+		<cosponsor id="400369" joined="1993-09-09"/>
+		<cosponsor id="400435" joined="1993-08-06"/>
+		<cosponsor id="400537" joined="1993-08-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-16"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-06-18"><text>Sponsor introductory remarks on measure. (CR E1568)</text></action>
+		<action datetime="1993-06-28"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Public Buildings and Grounds.</text></action>
+		<action datetime="1993-07-01"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-08-04"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-08-04"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on Public Works + Transportation"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-08-05"  state="REPORTED"><committee name="House Committee on Public Works + Transportation"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-09-09T15:10:00-04:00"><text>Reported by the Committee on Public Works + Transportation. H. Rept. 103-227.</text></action>
+		<calendar number="80" datetime="1993-09-09T15:11:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 80.</text></calendar>
+		<action datetime="1993-09-13T12:14:00-04:00"><text>Mr. Traficant moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-09-13T12:15:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6599-6600"/></action>
+		<action datetime="1993-09-13T12:15:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-09-13T12:19:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-09-13T12:19:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<calendar under="General Orders" number="199" datetime="1993-09-14" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 199.</text></calendar>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-09-15" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate in lieu of S. 1302 without amendment by Voice Vote.</text><reference label="consideration" ref="CR S11943"/></vote>
+		<topresident datetime="1993-09-15" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-09-16"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-09-24" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-10-06" ><text>Signed by President.</text></signed>
+		<enacted number="103-96" type="public" datetime="1993-10-06"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-96.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Public Buildings and Grounds" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1302" />
+		<bill relation="unknown" session="103" type="s" number="1302" />
+		<bill relation="supersedes" session="103" type="s" number="1302" />
+		<bill relation="unknown" session="103" type="s" number="1302" />
+	</relatedbills>
+	<subjects>
+		<term name="Public buildings"/>
+		<term name="Commemorations"/>
+		<term name="Federal office buildings"/>
+		<term name="Florida"/>
+		<term name="Names"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/16/1993--Introduced.
+Designates the Federal building at 400 Bay Street, Jacksonville, Florida (or any building built to replace it), as the Charles E. Bennett Federal Building.
+
+	</summary>
+</bill>

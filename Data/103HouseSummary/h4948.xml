@@ -1,0 +1,59 @@
+<bill session="103" type="h" number="4948" updated="2012-07-17T04:10:22-04:00">
+	<state datetime="1994-10-04T20:10:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-04T20:10:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1994-08-12"/>
+	<titles>
+		<title type="official" as="introduced">To designate Building Number 137 of the Tuscaloosa Veterans' Medical Center in Tuscaloosa, Alabama, as the &quot;Claude Harris, Jr. Building&quot;.</title>
+	</titles>
+	<sponsor id="400010"/>
+	<cosponsors>
+		<cosponsor id="400084" joined="1994-08-12"/>
+		<cosponsor id="407838" joined="1994-08-12"/>
+		<cosponsor id="405855" joined="1994-08-12"/>
+		<cosponsor id="400502" joined="1994-08-12"/>
+		<cosponsor id="400500" joined="1994-08-12"/>
+		<cosponsor id="401417" joined="1994-08-12"/>
+		<cosponsor id="400127" joined="1994-08-12"/>
+		<cosponsor id="400504" joined="1994-10-03"/>
+		<cosponsor id="409442" joined="1994-08-12"/>
+		<cosponsor id="401854" joined="1994-08-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-12" state="REFERRED"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1994-10-03T21:18:00-04:00"><text>Reported by the Committee on Veterans' Affairs. H. Rept. 103-823.</text></action>
+		<calendar datetime="1994-10-03T21:19:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 238.</text></calendar>
+		<action datetime="1994-10-04T19:51:00-04:00"><text>Mr. Montgomery asked unanimous consent discharge the Union Calendar and consider.</text></action>
+		<action datetime="1994-10-04T19:51:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10742-10744"/></action>
+		<vote how="without objection" type="vote" datetime="1994-10-04T20:10:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-10-04T20:10:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-05"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-07"><text>Sponsor introductory remarks on measure. (CR E2165)</text></action>
+		<action datetime="1994-10-08"><text>Read twice and referred to the Committee on Veterans.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Reporting" />
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4949" />
+		<bill relation="identical" session="103" type="s" number="2397" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Alabama"/>
+		<term name="Armed forces and national security"/>
+		<term name="Commemorations"/>
+		<term name="Health"/>
+		<term name="Names"/>
+		<term name="Veterans' hospitals"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/12/1994--Introduced.
+Designates Building Number 137 of the Tuscaloosa Veterans' Medical Center in Tuscaloosa, Alabama, as the Claude Harris, Jr. Building.
+
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="2200" updated="2010-04-19T20:13:19-04:00">
+	<state datetime="1994-06-09">REPORTED</state>
+	<status><calendar datetime="1994-06-09" /></status>
+
+	<introduced datetime="1994-06-16"/>
+	<titles>
+		<title type="official" as="introduced">An original bill to authorize appropriations for the Federal Election Commission for fiscal year 1995.</title>
+	</titles>
+	<sponsor id="404219"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar datetime="1994-06-09"  state="REPORTED"><text>Committee on Rules ordered to be reported an original measure.</text></calendar>
+		<action datetime="1994-06-16"><text>Committee on Rules. Original measure reported to Senate by Senator Ford. With written report No. 103-285.</text></action>
+		<calendar under="General Orders" number="469" datetime="1994-06-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 469.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Origin, Reporting, Markup" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Elections"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Executive departments"/>
+		<term name="Federal Election Commission"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/16/1994--Introduced.
+Amends the Federal Election Campaign Act of 1971 to authorize appropriations for the Federal Election Commission.
+
+	</summary>
+</bill>

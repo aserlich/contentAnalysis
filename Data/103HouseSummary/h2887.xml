@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="2887" updated="2010-04-19T06:41:25-04:00">
+	<state datetime="1993-08-05">REFERRED</state>
+	<status><introduced datetime="1993-08-05"/></status>
+
+	<introduced datetime="1993-08-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Controlled Substances Act to provide authority for the transfer of forfeited property to State and local fire departments.</title>
+	</titles>
+	<sponsor id="400160"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-08-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-08-13"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+		<action datetime="1993-09-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Fire departments"/>
+		<term name="Forfeiture"/>
+		<term name="Narcotic traffic"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/1993--Introduced.
+Amends the Controlled Substances Act to provide authority for the transfer of forfeited property under such Act to State and local fire departments.
+
+	</summary>
+</bill>

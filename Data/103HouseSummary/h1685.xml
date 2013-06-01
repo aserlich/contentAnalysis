@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="1685" updated="2010-04-19T03:34:31-04:00">
+	<state datetime="1993-04-02">REFERRED</state>
+	<status><introduced datetime="1993-04-02"/></status>
+
+	<introduced datetime="1993-04-02"/>
+	<titles>
+		<title type="official" as="introduced">To establish in the Department of the Interior the Essex Heritage District Commission, and for other purposes.</title>
+	</titles>
+	<sponsor id="410887"/>
+	<cosponsors>
+		<cosponsor id="400140" joined="1994-02-11"/>
+		<cosponsor id="400269" joined="1993-04-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-02"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-11-10"><committee name="House Committee on Natural Resources"/><text>For Further Action See H.R.5044.</text></action>
+		<action datetime="1994-06-28"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5044" />
+	</relatedbills>
+	<subjects>
+		<term name="Historic sites"/>
+		<term name="Commemorations"/>
+		<term name="Conservation of natural resources"/>
+		<term name="Culture"/>
+		<term name="Department of the Interior"/>
+		<term name="Environmental protection"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Landscape protection"/>
+		<term name="Massachusetts"/>
+		<term name="Waterways"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/2/1993--Introduced.
+Amends the Internal Revenue Code to exclude any employer-provided housing from the gross income of employees of academic health centers. Defines an &quot;academic health center&quot; as an organization which: (1) is a tax-exempt charitable organization providing medical care, hospital care, medical education, or medical research; (2) receives payments under the Social Security Act for either direct or indirect costs of graduate medical education; and (3) has as one of its principal functions the providing and teaching of basic and clinical medical science and research with the organization's own faculty.
+
+	</summary>
+</bill>

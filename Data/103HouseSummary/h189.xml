@@ -1,0 +1,38 @@
+<bill session="103" type="h" number="189" updated="2010-04-18T23:29:23-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To include the Territory of American Samoa in the Supplemental Security Income Program.</title>
+	</titles>
+	<sponsor id="400128"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-12"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="American Samoa"/>
+		<term name="Public assistance programs"/>
+		<term name="Supplemental security income program"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends the Social Security Act to extend the benefits of the Supplemental Security Income Program under title XVI of such Act to American Samoa.
+
+	</summary>
+</bill>

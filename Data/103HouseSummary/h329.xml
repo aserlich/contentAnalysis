@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="329" updated="2010-04-18T23:51:06-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Rural Medical Emergencies Air Transport Act of 1993</title>
+		<title type="official" as="introduced">To amend the Public Health Service Act to provide grants to States for the creation or enhancement of systems for the air transport of rural victims of medical emergencies, and for other purposes.</title>
+	</titles>
+	<sponsor id="300083"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1762" />
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Aircraft"/>
+		<term name="Ambulances"/>
+		<term name="Emergency medical services"/>
+		<term name="Federal aid to health facilities"/>
+		<term name="Rural public health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Rural Medical Emergencies Air Transport Act of 1993 - Amends the Public Health Service Act to mandate grants to States for the creation or enhancement of air medical transport systems providing victims of rural medical emergencies with access to treatments. Authorizes appropriations.
+
+	</summary>
+</bill>

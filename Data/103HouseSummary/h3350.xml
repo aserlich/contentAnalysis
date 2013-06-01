@@ -1,0 +1,57 @@
+<bill session="103" type="h" number="3350" updated="2010-04-19T07:53:00-04:00">
+	<state datetime="1993-11-03T17:56:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-03T17:56:00-05:00" where="h" result="pass" how="roll" roll="540"/></status>
+
+	<introduced datetime="1993-10-26"/>
+	<titles>
+		<title type="official" as="introduced">To establish a program of residential substance abuse treatment within Federal prisons.</title>
+	</titles>
+	<sponsor id="401837"/>
+	<cosponsors>
+		<cosponsor id="405775" joined="1993-11-01"/>
+		<cosponsor id="300087" joined="1993-10-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-26"><text>Sponsor introductory remarks on measure. (CR E2532)</text></action>
+		<action datetime="1993-10-26"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-10-28"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-28"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<calendar number="171" datetime="1993-11-03T12:23:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 171.</text></calendar>
+		<action datetime="1993-11-03T12:23:00-05:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-320.</text></action>
+		<action datetime="1993-11-03T13:55:00-05:00"><text>Mr. Brooks moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-03T13:55:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8723-8728"/></action>
+		<action datetime="1993-11-03T13:56:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-11-03T14:40:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1993-11-03T17:46:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8751-8752"/></action>
+		<vote how="roll" type="vote" roll="540" datetime="1993-11-03T17:56:00-05:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 373 - 54 (Roll No. 540).</text></vote>
+		<action datetime="1993-11-03T17:56:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<calendar under="General Orders" number="269" datetime="1993-11-04" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 269.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Corrections"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Criminal justice"/>
+		<term name="Drug abuse"/>
+		<term name="Drug testing"/>
+		<term name="Parole"/>
+		<term name="Prisoners"/>
+		<term name="Rehabilitation of criminals"/>
+		<term name="Sentences (Criminal procedure)"/>
+		<term name="Treatment and rehabilitation of alcoholics"/>
+		<term name="Treatment and rehabilitation of narcotic addicts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/3/1993--Passed House amended. Amends the Federal criminal code to direct the Bureau of Prisons to provide residential substance abuse treatment for not less than 50 percent of eligible prisoners by the end of FY 1995, for not less than 75 percent by the end of FY 1996, and for all eligible prisoners by the end of 1997 and thereafter. Grants priority for such treatment based on an eligible prisoner's proximity to release date. Permits sentence reductions of up to a year for a prisoner's successful completion of a residential substance abuse treatment program. Requires the Bureau to transmit to specified congressional committees annual reports describing each substance abuse treatment program operated by the Bureau, how program eligibility is determined, and Bureau compliance with the requirements of this Act. Authorizes appropriations.
+
+	</summary>
+</bill>

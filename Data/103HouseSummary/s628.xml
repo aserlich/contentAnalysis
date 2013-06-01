@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="628" updated="2012-07-17T05:25:25-04:00">
+	<state datetime="1993-03-23">REFERRED</state>
+	<status><introduced datetime="1993-03-23"/></status>
+
+	<introduced datetime="1993-03-23"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for an additional permanent Federal district judge for the judicial district of Alaska.</title>
+	</titles>
+	<sponsor id="300094"/>
+	<cosponsors>
+		<cosponsor id="300150" joined="1993-03-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-23" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3479-3480)</text></action>
+		<action datetime="1993-03-23" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-04-20"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Law"/>
+		<term name="Alaska"/>
+		<term name="District courts"/>
+		<term name="Judges"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/23/1993--Introduced.
+Amends the Federal judicial code to provide for an additional permanent judge for the district of Alaska.
+
+	</summary>
+</bill>

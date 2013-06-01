@@ -1,0 +1,61 @@
+<bill session="103" type="h" number="5053" updated="2010-04-19T12:19:09-04:00">
+	<state datetime="1994-10-22">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-22" /></status>
+
+	<introduced datetime="1994-09-19"/>
+	<titles>
+		<title type="short" as="passed house">Water Bank Extension Act of 1994</title>
+		<title type="short" as="enacted">Water Bank Extension Act of 1994</title>
+		<title type="official" as="introduced">To expand eligibility for the wetlands reserve program to lands covered by expiring agreements under the Water Bank Act.</title>
+	</titles>
+	<sponsor id="400323"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-19"><text>Sponsor introductory remarks on measure. (CR E1875)</text></action>
+		<action datetime="1994-09-19"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-09-20"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Environment, Credit and Rural Development.</text></action>
+		<action datetime="1994-09-21"><committee name="House Committee on Agriculture" subcommittee="Environment, Credit and Rural Development"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-09-21"><committee name="House Committee on Agriculture" subcommittee="Environment, Credit and Rural Development"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1994-10-04"><committee name="House Committee on Agriculture"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-10-04"  state="REPORTED"><committee name="House Committee on Agriculture"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-04T20:14:00-04:00"><text>Committee on Agriculture discharged.</text></action>
+		<action datetime="1994-10-04T20:15:00-04:00"><text>Mr. de la Garza asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-10-04T20:15:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10746-10747"/></action>
+		<vote how="without objection" type="vote" datetime="1994-10-04T20:16:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-10-04T20:16:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-04T20:16:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1994-10-05"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-07" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S14672"/></vote>
+		<topresident datetime="1994-10-07" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-12"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-14" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-22" ><text>Signed by President.</text></signed>
+		<enacted number="103-393" type="public" datetime="1994-10-22"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-393.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Discharged" />
+		<committee code="" name="House Agriculture" subcommittee="Environment, Credit and Rural Development" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Agriculture"/>
+		<term name="Cropland conversion program"/>
+		<term name="Farm lands"/>
+		<term name="Marine resources"/>
+		<term name="Water resources"/>
+		<term name="Wetland conservation"/>
+		<term name="Wetland restoration"/>
+	</subjects>
+	<amendments>
+		<amendment number="h910"/>
+	</amendments>
+	<summary>
+	10/4/1994--Passed House amended. Water Bank Extension Act of 1994 - Extends for one year eligibility for the wetlands reserve program to lands covered by expiring agreements under the Water Bank Act. Places limits on the amount of such extension based upon certain wetlands reserve program obligations.
+
+	</summary>
+</bill>

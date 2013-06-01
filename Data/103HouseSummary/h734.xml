@@ -1,0 +1,74 @@
+<bill session="103" type="h" number="734" updated="2012-07-17T04:36:16-04:00">
+	<state datetime="1994-10-14">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-14" /></status>
+
+	<introduced datetime="1993-02-02"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Act entitled &quot;An Act to provide for the extension of certain Federal benefits, services, and assistance to the Pascua Yaqui Indians of Arizona, and for other purposes&quot;.</title>
+	</titles>
+	<sponsor id="400310"/>
+	<cosponsors>
+		<cosponsor id="403875" joined="1993-02-02"/>
+		<cosponsor id="400226" joined="1993-02-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-02" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E232)</text></action>
+		<action datetime="1993-02-02" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-02-18"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Native American Affairs.</text></action>
+		<action datetime="1993-04-23"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1993-04-30"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-06-18"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-06-18"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-07-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-07-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<calendar number="115" datetime="1993-08-02T12:06:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 115.</text></calendar>
+		<action datetime="1993-08-02T12:06:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 103-204.</text></action>
+		<action datetime="1993-08-02T15:59:00-04:00"><text>Mr. Richardson moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-08-02T15:59:00-04:00"><text>Considered under suspension of the rules.</text></action>
+		<action datetime="1993-08-02T15:59:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-08-02T16:07:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="consideration" ref="CR H5632-5633"/></vote>
+		<action datetime="1993-08-02T16:07:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-08-03"><text>Received in the Senate and read twice and referred to the Committee on Indian Affairs.</text></action>
+		<action datetime="1994-01-27"><committee name="House Committee on Natural Resources"/><text>Committee on Indian Affairs. Hearings held.</text></action>
+		<calendar datetime="1994-04-13" ><committee name="House Committee on Natural Resources"/><text>Committee on Indian Affairs. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action datetime="1994-08-16"><text>Committee on Indian Affairs. Reported to Senate by Senator Inouye with an amendment. With written report No. 103-338.</text></action>
+		<calendar under="General Orders" number="575" datetime="1994-08-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 575.</text></calendar>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-08-19" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text><reference label="consideration" ref="CR S12208-12209"/></vote>
+		<action datetime="1994-08-23"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-03T13:35:00-04:00"><text>Mr. Richardson moved that the House suspend the rules and agree to the Senate amendment.</text></action>
+		<action datetime="1994-10-03T13:36:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="pingpong" datetime="1994-10-03T13:44:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-03T13:44:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-10-03" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-10-06" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-14" ><text>Signed by President.</text></signed>
+		<enacted number="103-357" type="public" datetime="1994-10-14"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-357.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="" name="Senate Indian Affairs" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Arizona"/>
+		<term name="Economics and public finance"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Indian lands"/>
+		<term name="Indian water rights"/>
+		<term name="Minorities"/>
+		<term name="Water resources development"/>
+		<term name="Water supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/19/1994--Passed Senate amended. Extends: (1) Federal recognition to the Pasqua Yaqui Indians of Arizona (the Tribe) as an historic tribe; and (2) the enrollment deadline for all U.S. citizens of Yaqui blood who apply for enrollment in the Tribe within three years after enactment of this Act. Directs the Secretary of the Interior, with tribal participation, to study the adequacy of the Tribe's land, water, and funding resources. Authorizes appropriations.
+
+	</summary>
+</bill>

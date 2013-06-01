@@ -1,0 +1,66 @@
+<bill session="103" type="h" number="2604" updated="2012-07-17T04:37:59-04:00">
+	<state datetime="1993-09-21T18:44:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-09-21T18:44:00-04:00" where="h" result="pass" how="roll" roll="446"/></status>
+
+	<introduced datetime="1993-07-01"/>
+	<titles>
+		<title type="short" as="introduced">Brownsville Wetlands Policy Act of 1993</title>
+		<title type="official" as="introduced">To establish a Wetlands Center at the Port of Brownsville, Texas, and for other purposes.</title>
+	</titles>
+	<sponsor id="400302"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-01" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E1719-1720)</text></action>
+		<action datetime="1993-07-01" state="REFERRED"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-07-08"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1993-07-08"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1993-09-15"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-09-15"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-09-15"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Subcommittee on Environment and Natural Resources Discharged.</text></action>
+		<action datetime="1993-09-21T15:47:00-04:00"><text>Mr. Studds moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-09-21T15:47:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6812-6813"/></action>
+		<action datetime="1993-09-21T15:48:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-09-21T15:52:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Solomon objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1993-09-21T18:37:00-04:00"><text>Considered as unfinished business.</text></action>
+		<vote how="roll" type="vote" roll="446" datetime="1993-09-21T18:44:00-04:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 360 - 64 (Roll no. 446).</text></vote>
+		<action datetime="1993-09-21T18:44:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-09-22"><text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar datetime="1994-01-27" ><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee on Environment and Public Works. Provisions of measure incorporated into measure S. 476 ordered to be reported.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral, Discharged" />
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="476" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Colleges"/>
+		<term name="Ecological research"/>
+		<term name="Environmental education"/>
+		<term name="Estuarine area conservation"/>
+		<term name="Estuarine ecology"/>
+		<term name="Grants-in-aid"/>
+		<term name="Gulf of Mexico"/>
+		<term name="Harbors"/>
+		<term name="Leases"/>
+		<term name="Relocation of federal installations"/>
+		<term name="Research centers"/>
+		<term name="Research grants"/>
+		<term name="Texas"/>
+		<term name="Wetland conservation"/>
+		<term name="Wetlands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/1/1993--Introduced.
+Brownsville Wetlands Policy Act of 1993 - Authorizes the establishment, for using grants by the U.S. Fish and Wildlife Service, of the Brownsville Wetlands Policy Center at the Port of Brownsville, Texas. Requires that the Center be operated and maintained by the Port of Brownsville, with programs to be administered by the University of Texas at Brownsville, to protect, restore, and maintain the lagoon ecosystems of the western Gulf of Mexico region. Requires the Director of the U.S. Fish and Wildlife Service, subject to appropriations, to make grants to the Center and authorizes the Director to enter into a long-term lease with the Port for Center use of Port wetlands property. Requires the University to make in-kind contributions for the Center and the Port to make Port property available for Center use. Authorizes appropriations. Prohibits use of funds under this Act to relocate any administrative operations of the Service to the Center from Corpus Christi State University.
+
+	</summary>
+</bill>

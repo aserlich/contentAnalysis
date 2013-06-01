@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="5262" updated="2010-04-19T12:51:18-04:00">
+	<state datetime="1994-10-07">REFERRED</state>
+	<status><introduced datetime="1994-10-07"/></status>
+
+	<introduced datetime="1994-10-07"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Indian Gaming Regulatory Act to provide for community approval before Indian class III gaming operations may take effect.</title>
+	</titles>
+	<sponsor id="400127"/>
+	<cosponsors>
+		<cosponsor id="401854" joined="1994-10-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-07"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-11-21"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Native American Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1028" />
+	</relatedbills>
+	<subjects>
+		<term name="Indians"/>
+		<term name="Elections"/>
+		<term name="Gambling"/>
+		<term name="Local government"/>
+		<term name="Minorities"/>
+		<term name="Referendum"/>
+		<term name="Sports"/>
+		<term name="State and local government"/>
+		<term name="State government-Indian relations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1994--Introduced.
+Amends the Indian Gaming Regulatory Act to require community approval of Tribal-State class III gaming compacts.
+
+	</summary>
+</bill>

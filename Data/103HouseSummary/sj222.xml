@@ -1,0 +1,46 @@
+<bill session="103" type="sj" number="222" updated="2012-07-17T06:00:07-04:00">
+	<state datetime="1994-10-08">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-10-08" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-09-27"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution to designate October 19, 1994, as &quot;Mercy Otis Warren Day&quot;, and for other purposes.</title>
+	</titles>
+	<sponsor id="300064"/>
+	<cosponsors>
+		<cosponsor id="403346" joined="1994-10-07"/>
+		<cosponsor id="408420" joined="1994-10-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-27" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S13523)</text></action>
+		<action datetime="1994-09-27" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1994-10-08"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S14801"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-10-08" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment and with a preamble by Voice Vote.</text></vote>
+		<action datetime="1994-11-29"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-11-29T12:30:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-11-29"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Special days"/>
+		<term name="American Revolution"/>
+		<term name="Commemorations"/>
+		<term name="Historians"/>
+		<term name="History"/>
+		<term name="Women"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/27/1994--Introduced.
+Designates October 19, 1994, as Mercy Otis Warren Day.
+
+	</summary>
+</bill>

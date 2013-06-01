@@ -1,0 +1,44 @@
+<bill session="103" type="s" number="612" updated="2012-07-17T05:31:43-04:00">
+	<state datetime="1993-08-03">REPORTED</state>
+	<status><calendar datetime="1993-08-03" /></status>
+
+	<introduced datetime="1993-03-18"/>
+	<titles>
+		<title type="short" as="introduced">Telephone Privacy Act of 1993</title>
+		<title type="official" as="introduced">A bill to protect the privacy of telephone users by amending section 3121 of title 18, United States Code.</title>
+	</titles>
+	<sponsor id="300061"/>
+	<cosponsors>
+		<cosponsor id="401874" joined="1993-03-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-18" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3176-3178)</text></action>
+		<action datetime="1993-03-18" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<calendar datetime="1993-08-03"  state="REPORTED"><committee name="Committee on Judiciary"/><text>Committee on Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Directories"/>
+		<term name="Eavesdropping"/>
+		<term name="Electronic surveillance"/>
+		<term name="Emergency communication systems"/>
+		<term name="Government paperwork"/>
+		<term name="Identification devices"/>
+		<term name="Right of privacy"/>
+		<term name="Telephone"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/18/1993--Introduced.
+Telephone Privacy Act of 1993 - Amends the Federal criminal code (Code) to prohibit any person from installing or using a pen register or a trap and trace device without first obtaining a court order under appropriate Code provisions or under the Foreign Intelligence Surveillance Act of 1978. Provides exceptions to such prohibition, including in connection with the provision of caller identification service (caller ID). States that nothing in this Act affects the provision or use of caller ID or charge number information by a provider of electronic or wire communication service. Provides for civil actions and criminal penalties for violations of this Act's prohibition. States that this Act is not intended to endorse or facilitate the use of blocking of caller ID by originators of obscene or harassing telephone calls or to limit the enforcement of laws prohibiting such calls. Requires any Government entity to publish in the Federal Register and have printed in the appropriate phone directory notice of its use of caller ID. Provides a similar requirement for State and local governmental entities.
+
+	</summary>
+</bill>

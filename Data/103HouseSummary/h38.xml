@@ -1,0 +1,108 @@
+<bill session="103" type="h" number="38" updated="2012-07-17T05:06:02-04:00">
+	<state datetime="1993-10-12">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-10-12" /></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To establish the Jemez National Recreation Area in the State of New Mexico, and for other purposes.</title>
+	</titles>
+	<sponsor id="409205"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-01-26"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-02-09"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from USDA.</text></action>
+		<action datetime="1993-03-02"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-03-31"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-03-31"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-04-20T12:00:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-58.</text></action>
+		<calendar number="27" datetime="1993-04-20T12:01:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 27.</text></calendar>
+		<action datetime="1993-04-20T13:48:00-04:00"><text>Mr. Vento moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-04-20T13:49:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1920-1924"/></action>
+		<action datetime="1993-04-20T13:49:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-04-20T14:05:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed until April 21.</text></action>
+		<action datetime="1993-04-21T15:53:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1949-1950"/></action>
+		<vote how="roll" type="vote" roll="141" datetime="1993-04-21T16:12:00-04:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 363 - 57 (Roll No. 141).</text></vote>
+		<action datetime="1993-04-21T16:12:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-04-22"><text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-04-26"><committee name="House Committee on Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1993-06-16"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee on Public Lands, National Parks. Hearings held.</text></action>
+		<calendar datetime="1993-08-03" ><committee name="House Committee on Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1993-09-14"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments. With written report No. 103-139.</text></action>
+		<action datetime="1993-09-14"><text>Placed on Senate Legislative Calendar under General Orders. 196.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-09-22" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with amendments by Voice Vote.</text><reference label="consideration" ref="CR S12260-12262"/></vote>
+		<action datetime="1993-09-27"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-09-29T19:12:00-04:00"><text>Mr. Vento asked unanimous consent that the House agree to the Senate amendments.</text></action>
+		<vote how="without objection" type="pingpong" datetime="1993-09-29T19:13:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House agree to the Senate amendments Agreed to without objection.</text><reference label="consideration" ref="CR H7236"/></vote>
+		<action datetime="1993-09-29T19:13:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-09-29" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-10-01" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-10-12" ><text>Signed by President.</text></signed>
+		<enacted number="103-104" type="public" datetime="1993-10-12"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-104.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Recreation"/>
+		<term name="Archaeology"/>
+		<term name="Boundaries"/>
+		<term name="Claims"/>
+		<term name="Commemorations"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Conservation of natural resources"/>
+		<term name="Cultural property"/>
+		<term name="Electric power transmission"/>
+		<term name="Endangered species"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Environmental protection"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Fishery management"/>
+		<term name="Fishing"/>
+		<term name="Forest management"/>
+		<term name="Forest roads"/>
+		<term name="Government liability"/>
+		<term name="Grazing"/>
+		<term name="Historic sites"/>
+		<term name="Hunting"/>
+		<term name="Indian lands"/>
+		<term name="Land transfers"/>
+		<term name="Land use"/>
+		<term name="Lumber trade"/>
+		<term name="Mining claims"/>
+		<term name="Mining leases"/>
+		<term name="Minorities"/>
+		<term name="Mountains"/>
+		<term name="National forests"/>
+		<term name="National recreation areas"/>
+		<term name="Native Americans"/>
+		<term name="New Mexico"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Reclamation of land"/>
+		<term name="Religion"/>
+		<term name="Timber sales"/>
+		<term name="Trails"/>
+		<term name="Transportation and public works"/>
+		<term name="Transportation planning"/>
+		<term name="Wildlife conservation"/>
+		<term name="Wildlife management"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/22/1993--Passed Senate amended. Establishes the Jemez National Recreational Area in New Mexico. Directs the Secretary of Agriculture to develop a management plan for the Area. Requires the Secretary, in consultation with local tribal leaders, to: (1) protect religious and cultural sites in the Area; and (2) provide access to such sites by Indian peoples for traditional cultural and customary uses. Authorizes the Secretary to permit timber harvesting for commercial purposes as long as it is compatible with the Area's purposes. Requires preparation of a transportation plan to provide for the most efficient use of existing roads and trails, including a system for dispersed recreation which minimizes its impact on significant archaeological and religious sites. Provides for recreational facilities within the Area and a visitor center. Authorizes the Secretary to permit a utility corridor for high power electric transmission lines and scientific investigations. Allows the Secretary to designate zones where, and establish periods when, activities otherwise permitted in the recreation area will not be permitted for reasons of public safety, administration, fish and wildlife management, protection of archaeological or cultural resources, or public use. Prohibits the issuance of any mining location or claim patents after May 30, 1991, with respect to the Area. Permits any party deprived of property rights by such prohibition to file a compensation claim against the United States in the U.S. Claims Court. Withdraws lands within the Area from U.S. mining, mineral leasing, and related laws. Directs the Secretary to expedite a program to determine the validity of all unpatented mining claims within the Area. Authorizes the Secretary to: (1) use mineral materials from within the Area for public purposes; and (2) evaluate adjoining lands for possible inclusion in the Area. Directs the Secretary, in consultation with local tribal leaders and the National Park Service, to submit recommendations to the Congress with respect to future boundaries for the Area. Permits lands within the recreation area that are owned by the State of New Mexico or a political subdivision to be acquired only by donation or exchange. Authorizes appropriations.
+
+	</summary>
+</bill>

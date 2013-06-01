@@ -1,0 +1,100 @@
+<bill session="103" type="sc" number="30" updated="2010-04-19T21:15:43-04:00">
+	<state datetime="1993-08-06">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-08-06" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-06-10"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution congratulating the Anti-Defamation League on the celebration of its 80th anniversary.</title>
+	</titles>
+	<sponsor id="401874"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-06-17"/>
+		<cosponsor id="300056" joined="1993-06-17"/>
+		<cosponsor id="401709" joined="1993-06-29"/>
+		<cosponsor id="409917" joined="1993-06-10"/>
+		<cosponsor id="300053" joined="1993-07-15"/>
+		<cosponsor id="300065" joined="1993-06-17"/>
+		<cosponsor id="300005" joined="1993-07-15"/>
+		<cosponsor id="300070" joined="1993-07-15"/>
+		<cosponsor id="411818" joined="1993-06-10"/>
+		<cosponsor id="300059" joined="1993-06-10"/>
+		<cosponsor id="300082" joined="1993-07-13"/>
+		<cosponsor id="300011" joined="1993-08-06"/>
+		<cosponsor id="407663" joined="1993-07-15"/>
+		<cosponsor id="408597" joined="1993-06-29"/>
+		<cosponsor id="300042" joined="1993-07-20"/>
+		<cosponsor id="300052" joined="1993-06-29"/>
+		<cosponsor id="300060" joined="1993-08-06"/>
+		<cosponsor id="408252" joined="1993-07-29"/>
+		<cosponsor id="300066" joined="1993-06-10"/>
+		<cosponsor id="300086" joined="1993-06-10"/>
+		<cosponsor id="300073" joined="1993-07-15"/>
+		<cosponsor id="407786" joined="1993-06-30"/>
+		<cosponsor id="300092" joined="1993-06-29"/>
+		<cosponsor id="300057" joined="1993-08-06"/>
+		<cosponsor id="403346" joined="1993-06-17"/>
+		<cosponsor id="300034" joined="1993-06-29"/>
+		<cosponsor id="403962" joined="1993-07-15"/>
+		<cosponsor id="400563" joined="1993-06-10"/>
+		<cosponsor id="300037" joined="1993-06-29"/>
+		<cosponsor id="408420" joined="1993-07-15"/>
+		<cosponsor id="300023" joined="1993-06-17"/>
+		<cosponsor id="400557" joined="1993-09-07"/>
+		<cosponsor id="402675" joined="1993-07-15"/>
+		<cosponsor id="408898" joined="1993-06-29"/>
+		<cosponsor id="403171" joined="1993-07-15"/>
+		<cosponsor id="300010" joined="1993-06-10"/>
+		<cosponsor id="402727" joined="1993-08-06"/>
+		<cosponsor id="300048" joined="1993-06-10"/>
+		<cosponsor id="300067" joined="1993-06-10"/>
+		<cosponsor id="403515" joined="1993-06-10"/>
+		<cosponsor id="300076" joined="1993-08-06"/>
+		<cosponsor id="300150" joined="1993-08-06"/>
+		<cosponsor id="409225" joined="1993-07-27"/>
+		<cosponsor id="403142" joined="1993-06-10"/>
+		<cosponsor id="400566" joined="1993-06-29"/>
+		<cosponsor id="407992" joined="1993-08-06"/>
+		<cosponsor id="405310" joined="1993-06-29"/>
+		<cosponsor id="300043" joined="1993-06-29"/>
+		<cosponsor id="300154" joined="1993-08-06"/>
+		<cosponsor id="300026" joined="1993-06-29"/>
+		<cosponsor id="400562" joined="1993-08-06"/>
+		<cosponsor id="300031" joined="1993-06-10"/>
+		<cosponsor id="300084" joined="1993-06-10"/>
+		<cosponsor id="403669" joined="1993-08-06"/>
+		<cosponsor id="300046" joined="1993-06-29"/>
+		<cosponsor id="300064" joined="1993-08-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-10"><text>Sponsor introductory remarks on measure. (CR S7105)</text></action>
+		<action datetime="1993-06-10"><text>Referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-08-06"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S10833"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-08-06" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text></vote>
+		<action datetime="1993-09-08T12:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-09-08T14:01:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-09-08"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hc" number="109" />
+	</relatedbills>
+	<subjects>
+		<term name="Congressional tributes"/>
+		<term name="Anniversaries"/>
+		<term name="Associations, institutions, etc."/>
+		<term name="Civil rights"/>
+		<term name="Commemorations"/>
+		<term name="Human rights"/>
+		<term name="Jews"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/10/1993--Introduced.
+Congratulates the Anti-Defamation League as it celebrates its 80th anniversary in 1993 and commends it for effectively pursuing the goal of promoting greater tolerance among people throughout the world.
+
+	</summary>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="4829" updated="2010-04-19T11:44:19-04:00">
+	<state datetime="1994-07-26">REFERRED</state>
+	<status><introduced datetime="1994-07-26"/></status>
+
+	<introduced datetime="1994-07-26"/>
+	<titles>
+		<title type="short" as="introduced">Family Health Care Coverage Act</title>
+		<title type="official" as="introduced">To require equal coverage under a health plan for all children under the age of 27 of an individual who enrolls in the plan under a family class of enrollment.</title>
+	</titles>
+	<sponsor id="401081"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-26"><text>Sponsor introductory remarks on measure. (CR E1561-1562)</text></action>
+		<action datetime="1994-07-26"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1994-07-26"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-07-26"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-07-29"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness.</text></action>
+		<action datetime="1994-09-16"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Commerce, Consumer Protection, and Competitiveness" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Child health"/>
+		<term name="Children"/>
+		<term name="Families"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Health insurance"/>
+		<term name="Health policy"/>
+		<term name="Medicine"/>
+		<term name="Standards"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/26/1994--Introduced.
+Family Health Care Coverage Act - Requires health plans that provide a family class of enrollment to offer and provide equal coverage to any child of an eligible individual who is less than 27 years of age, has never been married, has no dependents, and has a parent-child relationship with such individual.
+
+	</summary>
+</bill>

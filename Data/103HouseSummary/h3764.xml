@@ -1,0 +1,40 @@
+<bill session="103" type="h" number="3764" updated="2010-04-19T08:57:29-04:00">
+	<state datetime="1994-02-02">REFERRED</state>
+	<status><introduced datetime="1994-02-02"/></status>
+
+	<introduced datetime="1994-02-02"/>
+	<titles>
+		<title type="official" as="introduced">To abolish the ex officio positions on the Federal Election Commission.</title>
+	</titles>
+	<sponsor id="406863"/>
+	<cosponsors>
+		<cosponsor id="400117" joined="1994-02-02"/>
+		<cosponsor id="400012" joined="1994-02-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-02"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1994-02-03"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Elections.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="HSHA-08" name="House Administration" subcommittee="Elections" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional officers"/>
+		<term name="Elections"/>
+		<term name="Executive departments"/>
+		<term name="Federal Election Commission"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1994--Introduced.
+Amends the Federal Election Campaign Act of 1971 to abolish the Federal Election Commission's ex officio positions (the Secretary of the Senate and the Clerk of the House of Representatives).
+
+	</summary>
+</bill>

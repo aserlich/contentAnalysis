@@ -1,0 +1,135 @@
+<bill session="103" type="h" number="2760" updated="2010-04-19T06:21:43-04:00">
+	<state datetime="1994-03-21T12:50:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-03-21T12:50:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-07-27"/>
+	<titles>
+		<title type="short" as="introduced">Marine Mammal Protection Act Amendments of 1993</title>
+		<title type="short" as="passed house">Marine Mammal Protection Act Amendments of 1994</title>
+		<title type="official" as="introduced">To authorize the Marine Mammal Protection Act for a period of 6 years, to establish a new regime to govern the incidental taking of marine mammals in the course of commercial fishing operations, and for other purposes.</title>
+	</titles>
+	<sponsor id="410496"/>
+	<cosponsors>
+		<cosponsor id="400359" joined="1993-07-27"/>
+		<cosponsor id="407141" joined="1993-07-27"/>
+		<cosponsor id="404068" joined="1993-07-27"/>
+		<cosponsor id="400440" joined="1993-07-27"/>
+		<cosponsor id="410887" joined="1993-09-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-27"><text>Sponsor introductory remarks on measure. (CR E1901)</text></action>
+		<action datetime="1993-07-27"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-08-03"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1993-08-03"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Commerce.</text></action>
+		<action datetime="1993-08-04"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-02-07"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Received from Commerce.</text></action>
+		<action datetime="1994-03-09"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-03-09"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-03-16"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-03-16"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-03-21T12:40:00-05:00"><text>Reported (Amended) by the Committee on Merchant Marine and Fisheries. H. Rept. 103-439.</text></action>
+		<calendar number="242" datetime="1994-03-21T12:40:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 242.</text></calendar>
+		<action datetime="1994-03-21T12:49:00-05:00"><text>Mr. Studds moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-03-21T12:49:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1592-1605"/></action>
+		<action datetime="1994-03-21T12:50:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-03-21T12:50:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-03-21T12:51:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-03-21T12:51:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<calendar under="General Orders" number="394" datetime="1994-03-23" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 394.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4122" />
+		<bill relation="unknown" session="103" type="s" number="1636" />
+	</relatedbills>
+	<subjects>
+		<term name="Animals"/>
+		<term name="Administrative fees"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Agriculture"/>
+		<term name="Alaska"/>
+		<term name="Aquaculture"/>
+		<term name="Authorization"/>
+		<term name="Bears"/>
+		<term name="Bering Sea"/>
+		<term name="Budgets"/>
+		<term name="California"/>
+		<term name="Canada"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cultural relations"/>
+		<term name="Department of Commerce"/>
+		<term name="Department of the Interior"/>
+		<term name="Ecological research"/>
+		<term name="Ecosystem management"/>
+		<term name="Endangered animals"/>
+		<term name="Environmental assessment"/>
+		<term name="Environmental monitoring"/>
+		<term name="Environmental protection"/>
+		<term name="Eskimos"/>
+		<term name="Executive departments"/>
+		<term name="Export controls"/>
+		<term name="Exports"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Fisheries"/>
+		<term name="Fishery management"/>
+		<term name="Fishing boats"/>
+		<term name="Foreign policy"/>
+		<term name="Foreign trade"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Government trust funds"/>
+		<term name="Greenland"/>
+		<term name="Gulf States"/>
+		<term name="Habitat conservation"/>
+		<term name="Handicraft"/>
+		<term name="Harbors"/>
+		<term name="Humanities"/>
+		<term name="Hunting"/>
+		<term name="Import restrictions"/>
+		<term name="Imports"/>
+		<term name="Indian hunting and fishing rights"/>
+		<term name="International affairs"/>
+		<term name="International environmental cooperation"/>
+		<term name="Ivory"/>
+		<term name="Licenses"/>
+		<term name="Maine"/>
+		<term name="Marine Mammal Commission"/>
+		<term name="Marine ecology"/>
+		<term name="Marine mammal protection"/>
+		<term name="Marine mammals"/>
+		<term name="Marine resources"/>
+		<term name="Middle Atlantic States"/>
+		<term name="Minorities"/>
+		<term name="Oregon"/>
+		<term name="Pacific States (U.S.)"/>
+		<term name="Photography"/>
+		<term name="Research"/>
+		<term name="Russia"/>
+		<term name="Russian Republic"/>
+		<term name="Salmon fisheries"/>
+		<term name="Science policy"/>
+		<term name="Sealing"/>
+		<term name="Seashore ecology"/>
+		<term name="Sports"/>
+		<term name="Trade"/>
+		<term name="Transportation"/>
+		<term name="Treaties"/>
+		<term name="Washington State"/>
+		<term name="Wildlife management"/>
+		<term name="Zoological research"/>
+		<term name="Zoos"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/21/1994--Passed House amended. Marine Mammal Protection Act Amendments of 1994 - Amends the Marine Mammal Protection Act of 1972 with respect to the moratorium and exceptions on the taking and importing of marine mammals to allow the issuance of permits for: (1) photography for educational or commercial purposes; or (2) importing polar bear parts taken in sport hunts in Canada. (Sec. 4) Directs the Secretary of Commerce to publish guidelines for use in safely deterring marine mammals from damaging private or public property, or endangering personal safety. Allows the issuance of non-commercial fishing operation permits within specific geographic regions for the incidental, but not intentional, taking by harassment of small numbers of marine mammals of a species or population stock, if it is found that: (1) such taking will have a negligible impact on such species or stock; and (2) will not have an unmitigable adverse impact on the availability of such species or stock. Allows the issuance of permits for commercial fishing operations for the incidental taking of small numbers of marine mammals listed as endangered species under the Endangered Species Act of 1973, if it is determined that: (1) such taking will have a negligible impact on the species or stock; (2) a program is in place which allows reliable estimates and monitoring of the level of the incidental take; and (3) a recovery plan has been developed or is in the process of being developed. Authorizes the Secretary to modify, suspend, or revoke such permits. Allows the import of marine mammal products under certain circumstances. Allows the taking of a mammal in self-defense or the defense of others. Requires such incidents to be reported to the Secretary within 48 hours. (Sec. 5) Requires the Secretary to provide opportunity for a public hearing before determining any species or stock to have been depleted because of authorized taking by certain Alaskan natives. (Sec. 6) Sets forth prohibitions and administrative procedures for issuing permits. (Sec. 7) Allows the use of monies in the Marine Mammal Unusual Mortality Event Fund for the care and maintenance of certain marine mammals seized under permits granted by this Act. (Sec. 8) Requires the Secretary to report to specified congressional committees on consultation with the Russian Federation on the development and implementation of enhanced cooperative research and management programs for the conservation of polar bears in Alaska and Russia. (Sec. 9) Establishes the immediate goal that the incidental kill or serious injury of marine mammals in the course of commercial fishing operations be reduced to insignificant levels approaching a zero mortality and serious injury rate within five years. Directs the Secretary to establish independent scientific review groups representing Alaska, the Pacific coast (including Hawaii), the Gulf of Mexico, and the Atlantic coast to review proposed actions and to advise the Secretary as appropriate. Requires the publication of updated stock assessments annually for stocks considered critical and every three years for all other marine mammal stocks. Describes regulations to accompany the general authorization for the incidental taking of marine mammals. Allows the charging of a fee for such authorization. Requires the establishment of take reduction teams to advise the Secretary on plans of reducing lethal incidental takes of marine mammals below the potential biological removal levels and on methods of reducing incidental lethal takes to insignificant levels approaching zero within five years. Requires that take reduction plans be prepared within six months after determination of critical status for any species or stock determined to be a strategic stock. Authorizes the Secretary to prescribe emergency regulations if incidental lethal takes from commercial fishing operations have an immediate and significant adverse impact on a stock or species, including placing observers on vessels. Directs the Secretary to establish a program to monitor incidental lethal takes during the course of commercial fishing operations which includes observers on certain vessels. Authorizes appropriations for FY 1994 through 1999. Authorizes the Secretary to enter into cooperative agreements with Alaska Native organizations to conserve marine mammals and provide comanagement of subsistence use by Alaska Natives. Authorizes appropriations for FY 1994 through 1999 for grants to assist such organizations. (Sec. 10) Establishes a Pinniped Interaction Task Force to advise the Secretary on management practices regarding seals and sea lions interacting in a dangerous or damaging manner with fishery stocks. Establishes within such Task Force a special committee to advise on management practices regarding seals interacting in a dangerous or damaging manner with aquaculture resources in the Gulf of Maine. Requires a report to specified congressional committees on alternatives to mitigate such interactions. Allows a State to petition the Secretary for the lethal removal of individually identifiable pinnipeds which are having a significant negative impact on the decline or recovery of salmonid fishery stocks which have been listed as threatened species or endangered species under the Endangered Species Act of 1973 or which the Secretary finds are approaching endangered species or threatened species status. Directs the Secretary to enter into negotiations with the States of Washington, Oregon, and California to establish a cooperative agreement for the management of California sea lion and Pacific harbor seal populations in those States. Requires the development of a plan to: (1) reduce any significant negative impact that California sea lions and Pacific harbor seals are having on the recovery of fishery stocks; and (2) mitigate impacts of growing populations of California sea lions and Pacific harbor seals on the coastal ecosystems of such States. (Sec. 11) Directs the Secretary to convene a regional workshop for the Gulf of Maine to assess human-caused factors affecting the health and stability of that marine ecosystem, of which marine mammals are a part. (Sec. 12) Declares that nothing in this Act is intended to alter any treaties between the United States and Indian tribes. (Sec. 14) Authorizes appropriations for FY 1994 through 1999 for marine mammal protection. (Sec. 18) Authorizes appropriations for the Marine Mammal Commission for FY 1994 through 1999.
+
+	</summary>
+</bill>

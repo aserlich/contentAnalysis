@@ -1,0 +1,122 @@
+<bill session="103" type="h" number="4709" updated="2012-07-17T04:29:23-04:00">
+	<state datetime="1994-11-02">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-11-02" /></status>
+
+	<introduced datetime="1994-06-30"/>
+	<titles>
+		<title type="official" as="introduced">To make certain technical corrections, and for other purposes.</title>
+	</titles>
+	<sponsor id="409205"/>
+	<cosponsors>
+		<cosponsor id="300097" joined="1994-06-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-30" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E1388)</text></action>
+		<action datetime="1994-06-30" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-07-14"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1994-07-21"><committee name="House Committee on Natural Resources"/><text>Late Referral to the Subcommittee on Native American Affairs (Aug 30, 1994).</text></action>
+		<action datetime="1994-07-22"><text>Hearings Held by the Subcommittee on Native American Affairs Prior to Referral.</text></action>
+		<action datetime="1994-08-04"><text>Subcommittee Consideration and Mark-up Session Held and Forwarded to Full Committee by the Subcommittee on Native American Affairs Prior to Referral (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-08-10"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-08-10"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-08-16T13:00:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-704.</text></action>
+		<calendar number="386" datetime="1994-08-16T13:01:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 386.</text></calendar>
+		<action datetime="1994-08-16T13:57:00-04:00"><text>Mr. Richardson moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-08-16T13:57:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8449-8452"/></action>
+		<action datetime="1994-08-16T13:57:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-08-16T14:00:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-08-16T14:00:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-08-17"><text>Received in the Senate and read twice and referred to the Committee on Indian Affairs.</text></action>
+		<calendar datetime="1994-10-04" ><committee name="House Committee on Natural Resources"/><text>Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-10-04"><text>Committee on Indian Affairs. Reported to Senate by Senator Inouye with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="711" datetime="1994-10-04" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 711.</text></calendar>
+		<action datetime="1994-10-04"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S14107-14110"/></action>
+		<action datetime="1994-10-04"><text>Amendment SP 2613 proposed by Senator Ford for Senator Inouye.</text></action>
+		<action datetime="1994-10-04"><text>Amendment SP 2614 proposed by Senator Ford for Senator Inouye.</text></action>
+		<action datetime="1994-10-04"><text>Amendment SP 2613 agreed to in Senate by Voice Vote.</text></action>
+		<action datetime="1994-10-04"><text>Amendment SP 2614 agreed to in Senate by Voice Vote.</text></action>
+		<action datetime="1994-10-04"><text>The committee substitute as amended agreed to by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-04" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1994-10-05"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-07T02:16:00-04:00"><text>Mr. Richardson asked unanimous consent that the House agree to the Senate amendment.</text></action>
+		<vote how="without objection" type="pingpong" datetime="1994-10-07T02:16:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House agree to the Senate amendment Agreed to without objection.</text><reference label="consideration" ref="CR H11140"/></vote>
+		<action datetime="1994-10-07T02:16:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-10-07" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-10-24" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-11-02" ><text>Signed by President.</text></signed>
+		<enacted number="103-435" type="public" datetime="1994-11-02"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-435.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Hearings, Markup" />
+		<committee code="" name="Senate Indian Affairs" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="564" />
+		<bill relation="unknown" session="103" type="h" number="2768" />
+		<bill relation="unknown" session="103" type="h" number="4119" />
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Agriculture and food"/>
+		<term name="Arizona"/>
+		<term name="California"/>
+		<term name="Commerce"/>
+		<term name="Construction costs"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Education of Indians"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Farm lands"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Gambling"/>
+		<term name="Government contractors"/>
+		<term name="Government operations and politics"/>
+		<term name="Government trust funds"/>
+		<term name="Health"/>
+		<term name="High schools"/>
+		<term name="Indian claims"/>
+		<term name="Indian economic development"/>
+		<term name="Indian lands"/>
+		<term name="Indian law enforcement"/>
+		<term name="Indian medical care"/>
+		<term name="Indian water rights"/>
+		<term name="Indiana"/>
+		<term name="Irrigation"/>
+		<term name="Jurisdiction"/>
+		<term name="Land transfers"/>
+		<term name="Law"/>
+		<term name="Leases"/>
+		<term name="Medicare"/>
+		<term name="Michigan"/>
+		<term name="Mining claims"/>
+		<term name="Minorities"/>
+		<term name="Minority business enterprises"/>
+		<term name="Montana"/>
+		<term name="North Dakota"/>
+		<term name="Nurses"/>
+		<term name="Nursing"/>
+		<term name="Oklahoma"/>
+		<term name="Oregon"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Reprogramming of appropriated funds"/>
+		<term name="School districts"/>
+		<term name="Social welfare"/>
+		<term name="Texas"/>
+		<term name="Trusts and trustees"/>
+		<term name="Washington State"/>
+		<term name="Water resources development"/>
+		<term name="Wyoming"/>
+	</subjects>
+	<amendments>
+		<amendment number="s2613"/>
+		<amendment number="s2614"/>
+	</amendments>
+	<summary>
+	10/4/1994--Passed Senate amended. Grants the Indian Pueblo Federal Development Corporation authority to lease Indian lands for up to 50 years. (Sec. 2) Amends Federal law to make certain land corrections and claims settlements with respect to the Grand Ronde Reservation in Oregon. (Sec. 3) Amends Federal law to direct the Secretary of the Interior to accept specified lands in trust for the Confederated Tribe of Siletz Indians in Oregon. (Sec. 4) Ratifies a specified land transfer by the Ysleta Del Sur Pueblo. (Sec. 5) Amends Federal law to provide a 99-year lease for the Viejas Indian Reservation. (Sec. 6) Makes Wind River Indian Irrigation Project funds available on a nonreimbursable basis. (Sec. 7) Authorizes the Secretary to reimburse the Gila River Indian Community for certain construction costs. (Sec. 8) Amends the Indian Law Technical Amendments of 1987 to: (1) recognize the Frank's Landing Indian Community in Washington State as a self-governing dependent Indian community (but not a federally recognized Indian tribe); and (2) prohibit such Community from engaging in class III gaming under the Indian Gaming Regulatory Act of 1988. (Sec. 9) Provides for the reconveyance of certain excess lands by the tSac and Fox Nation of Oklahoma to the original Indian grantors or their heirs. (Sec. 10) Amends Federal law with respect to the Devils Lake Sioux Tribe. (Sec. 11) Directs the Secretary to transfer certain land held in trust for the Northern Cheyenne Tribe to Lame Deer High School District No. 6, Rosebud County, Montana, for the purpose of building a public high school. Retains mineral rights for the Tribe. (Sec. 12) Amends the American Indian Agriculture Resources Management Act to provide that the Secretary shall approve tribally-owned agricultural land leases at rates determined by the tribal governing body. (Sec. 13) Amends the San Carlos Apache Tribe Water Rights Settlement Act of 1992 to make the Act effective December 31, 1995 (rather than December 31, 1994). (Sec. 14) Amends the Buy Indian Act to make participants in the Mentor-Protege Program eligible to qualify as a business under such Act. (Sec. 15) Authorizes the Secretary to acquire land or other rights for the Arapaho or Shoshone Tribe of the Wind River Reservation. (Sec. 16) Amends the Indian Health Care Improvement Act to: (1) give priority for Indian health personnel advanced training to applicants employed by the Indian Health Service, tribes, or tribal organizations; and (2) include Masters' degrees in the nursing residency program. (Sec. 17) Redesignates the Confederated Tribes and Bands of the Yakima Indian Nation as the Confederated Tribes and Bands of the Yakama Indian Nation. (Similar provision previously enacted in PL 103-434.) (Sec. 18) Authorizes the Secretary of the Interior to reprogram judgment funds from specified Indian Claims Commission final awards. (Sec. 19) Exempts certain Department of the Interior Indian fund activities from the Federal Advisory Committee Act. (Sec. 20) Amends Federal law with respect to membership rolls of the Pokagon Band of Potawatomi Indians. (Sec. 21) Amends the Little Traverse Bay Bands of Odawa and the Little River Band of Ottawa Indians Act with respect to tribal membership rolls. (Sec. 22) Amends the Indian Self-Determination Act to provide for tribal and Federal advisory committees to ensure tribal participation in such Act's implementation. (Sec. 23) Amends the Crow Boundary Settlement Act of 1994 with respect to investment of certain amounts in the Crow Tribal Trust.
+
+	</summary>
+</bill>

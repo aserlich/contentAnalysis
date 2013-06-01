@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="3755" updated="2010-04-19T08:56:06-04:00">
+	<state datetime="1994-02-01">REFERRED</state>
+	<status><introduced datetime="1994-02-01"/></status>
+
+	<introduced datetime="1994-02-01"/>
+	<titles>
+		<title type="short" as="introduced">Transportation Emergency Relief Act of 1994</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide that all highway fuel tax revenues shall be deposited into the Highway Trust Fund and that for a temporary period the increased deposits will be used for the transportation needs of areas affected by disasters, and for other purposes.</title>
+	</titles>
+	<sponsor id="401081"/>
+	<cosponsors>
+		<cosponsor id="400036" joined="1994-02-01" withdrawn="1994-05-25"/>
+		<cosponsor id="400574" joined="1994-02-03"/>
+		<cosponsor id="403545" joined="1994-02-01"/>
+		<cosponsor id="400144" joined="1994-02-03"/>
+		<cosponsor id="404097" joined="1994-02-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-01"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-02-01"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-02-14"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Transportation"/>
+		<term name="Bridges"/>
+		<term name="Budgets"/>
+		<term name="Disaster relief"/>
+		<term name="Earthquakes"/>
+		<term name="Emergency management"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Federal aid highway program"/>
+		<term name="Federal aid to transportation"/>
+		<term name="Gasoline tax"/>
+		<term name="Government trust funds"/>
+		<term name="Highway engineering"/>
+		<term name="Taxation"/>
+		<term name="Transportation engineering"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/1/1994--Introduced.
+Transportation Emergency Relief Act of 1994 - Amends the Internal Revenue Code to increase the Highway Trust Fund financing rate. Transfers such increased amounts to an emergency fund to meet the transportation needs of disaster areas. Increases authorized expenditures for a single disaster.
+
+	</summary>
+</bill>

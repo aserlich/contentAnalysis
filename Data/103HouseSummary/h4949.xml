@@ -1,0 +1,58 @@
+<bill session="103" type="h" number="4949" updated="2010-04-19T12:03:05-04:00">
+	<state datetime="1994-08-12">REFERRED</state>
+	<status><introduced datetime="1994-08-12"/></status>
+
+	<introduced datetime="1994-08-12"/>
+	<titles>
+		<title type="short" as="introduced">Administrative Procedure Reform Act of 1994</title>
+		<title type="official" as="introduced">To amend title 5, United Sates Code, to reform Federal administrative procedures and improve the regulatory process.</title>
+	</titles>
+	<sponsor id="400584"/>
+	<cosponsors>
+		<cosponsor id="410147" joined="1994-10-06"/>
+		<cosponsor id="404083" joined="1994-09-12"/>
+		<cosponsor id="400596" joined="1994-10-07"/>
+		<cosponsor id="400104" joined="1994-08-12"/>
+		<cosponsor id="400116" joined="1994-10-07"/>
+		<cosponsor id="404869" joined="1994-09-12"/>
+		<cosponsor id="400329" joined="1994-09-12"/>
+		<cosponsor id="404401" joined="1994-08-12"/>
+		<cosponsor id="412001" joined="1994-09-12"/>
+		<cosponsor id="300097" joined="1994-10-06"/>
+		<cosponsor id="400269" joined="1994-08-12"/>
+		<cosponsor id="401134" joined="1994-09-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-12"><text>Sponsor introductory remarks on measure. (CR E1716)</text></action>
+		<action datetime="1994-08-12"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-08-18"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4948" />
+		<bill relation="identical" session="103" type="s" number="2397" />
+	</relatedbills>
+	<subjects>
+		<term name="Administrative procedure"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Executive departments"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Government publicity"/>
+		<term name="Office of Management and Budget"/>
+		<term name="Politics and government"/>
+		<term name="Regulatory impact statements"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/12/1994--Introduced.
+Administrative Procedure Reform Act of 1994 - Amends Federal law to require a Federal agency head to publish in the Federal Register a notice of intent to engage in major rulemaking which contains a Regulatory Impact Analysis. Requires a final Regulatory Impact Analysis for any final proposal for a major rule. Specifies the contents of such an Analysis, as well as hearing and comment period requirements. Defines major rule as any proposed regulatory action: (1) which affects more than 100 persons; or (2) compliance with which will require the expenditure of over $1 million by any person which is not a Federal agency. Prohibits an agency from adopting a major rule unless its final Regulatory Impact Analysis is approved by the Director of the Office of Management and Budget. Sets forth a standard of clarity for major rules. Directs the Administrator of the Office of Information and Regulatory Affairs to report to the Congress an analysis of the rulemaking procedures of Federal agencies and their impact on the regulated public and regulatory process.
+
+	</summary>
+</bill>

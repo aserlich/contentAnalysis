@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="256" updated="2010-04-18T23:39:40-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Bank Efficiency Act</title>
+		<title type="official" as="introduced">To amend the Bank Holding Company Act of 1956.</title>
+	</titles>
+	<sponsor id="408109"/>
+	<cosponsors>
+		<cosponsor id="411065" joined="1993-03-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-02-01"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Financial Institutions Supervision, Regulation and Deposit Insurance.</text></action>
+		<action datetime="1993-06-22"><committee name="House Committee on Banking, Finance + Urban Affrs" subcommittee="Financial Institutions Supervision, Regulation and Deposit Insurance"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-07-29"><committee name="House Committee on Banking, Finance + Urban Affrs" subcommittee="Financial Institutions Supervision, Regulation and Deposit Insurance"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="Financial Institutions Supervision, Regulation and Deposit Insurance" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Banks and banking"/>
+		<term name="Bank directors"/>
+		<term name="Bank holding companies"/>
+		<term name="Bank mergers"/>
+		<term name="Branch banking"/>
+		<term name="Interstate banking"/>
+		<term name="State laws"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Bank Efficiency Act - Amends the Bank Holding Company Act of 1956 to permit a bank holding company having subsidiary banks located in more than one State to combine its banks into a single bank by means of merger, consolidation, or other transaction. Prescribes operating guidelines for such bank combinations. Amends the National Bank Act to conform the qualifications of bank directors with the provisions of this Act.
+
+	</summary>
+</bill>

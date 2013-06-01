@@ -1,0 +1,49 @@
+<bill session="103" type="hj" number="77" updated="2010-04-18T22:02:48-04:00">
+	<state datetime="1993-01-27">REFERRED</state>
+	<status><introduced datetime="1993-01-27"/></status>
+
+	<introduced datetime="1993-01-27"/>
+	<titles>
+		<title type="popular" as="">Term Limits bill</title>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to limit the terms of office for Representatives and Senators in Congress.</title>
+	</titles>
+	<sponsor id="400583"/>
+	<cosponsors>
+		<cosponsor id="400156" joined="1993-01-27"/>
+		<cosponsor id="407124" joined="1993-03-15"/>
+		<cosponsor id="400127" joined="1993-01-27"/>
+		<cosponsor id="400574" joined="1993-01-27"/>
+		<cosponsor id="400106" joined="1993-07-21"/>
+		<cosponsor id="400017" joined="1993-01-27"/>
+		<cosponsor id="406343" joined="1993-01-27"/>
+		<cosponsor id="400382" joined="1993-01-27"/>
+		<cosponsor id="400269" joined="1993-03-15"/>
+		<cosponsor id="400649" joined="1993-03-15"/>
+		<cosponsor id="405033" joined="1993-03-31"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-27"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+		<action datetime="1993-07-01"><text>Sponsor introductory remarks on measure. (CR H4478)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="sj" number="33" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional terms of office"/>
+		<term name="Constitutional amendments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/1993--Introduced.
+Constitutional Amendment - Prohibits a person from serving more than four consecutive terms as a Representative or more than two consecutive terms as a Senator (excluding any term served before adoption of this Amendment).
+
+	</summary>
+</bill>

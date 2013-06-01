@@ -1,0 +1,94 @@
+<bill session="103" type="h" number="2927" updated="2010-04-19T06:47:38-04:00">
+	<state datetime="1994-08-12T14:13:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-08-12T14:13:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="short" as="introduced">Plant Variety Protection Act Amendments of 1993</title>
+		<title type="short" as="passed house">Plant Variety Protection Act Amendments of 1994</title>
+		<title type="official" as="introduced">To amend the Plant Variety Protection Act to make such Act consistent with the International Convention for the Protection of New Varieties of Plants of March 19, 1991, to which the United States is a signatory, and for other purposes.</title>
+	</titles>
+	<sponsor id="403308"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-09-15"/>
+		<cosponsor id="400509" joined="1994-03-18"/>
+		<cosponsor id="400298" joined="1993-10-06"/>
+		<cosponsor id="400414" joined="1993-10-06"/>
+		<cosponsor id="408839" joined="1993-11-03"/>
+		<cosponsor id="400210" joined="1994-02-02"/>
+		<cosponsor id="400023" joined="1994-02-02"/>
+		<cosponsor id="400129" joined="1994-02-02"/>
+		<cosponsor id="300038" joined="1994-02-02"/>
+		<cosponsor id="404723" joined="1994-02-02"/>
+		<cosponsor id="401033" joined="1993-10-14"/>
+		<cosponsor id="400365" joined="1993-11-19"/>
+		<cosponsor id="400581" joined="1993-11-19"/>
+		<cosponsor id="400112" joined="1994-03-16"/>
+		<cosponsor id="410567" joined="1994-02-02"/>
+		<cosponsor id="400402" joined="1993-10-14"/>
+		<cosponsor id="300083" joined="1993-08-06"/>
+		<cosponsor id="406799" joined="1993-10-06"/>
+		<cosponsor id="401153" joined="1994-03-16"/>
+		<cosponsor id="400378" joined="1993-11-03"/>
+		<cosponsor id="400572" joined="1993-08-06"/>
+		<cosponsor id="411178" joined="1994-05-26"/>
+		<cosponsor id="400182" joined="1993-10-14"/>
+		<cosponsor id="400150" joined="1993-11-03"/>
+		<cosponsor id="401081" joined="1993-10-06"/>
+		<cosponsor id="406790" joined="1993-11-19"/>
+		<cosponsor id="300058" joined="1993-10-06"/>
+		<cosponsor id="405507" joined="1994-05-12"/>
+		<cosponsor id="400075" joined="1994-02-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-08-24"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Department Operations and Nutrition.</text></action>
+		<action datetime="1993-08-24"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA.</text></action>
+		<action datetime="1994-05-24"><committee name="House Committee on Agriculture" subcommittee="Department Operations and Nutrition"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-07-27"><committee name="House Committee on Agriculture" subcommittee="Department Operations and Nutrition"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-07-27"><committee name="House Committee on Agriculture" subcommittee="Department Operations and Nutrition"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-08-03"><committee name="House Committee on Agriculture"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-08-03"  state="REPORTED"><committee name="House Committee on Agriculture"/><text>Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 8.</text></calendar>
+		<action datetime="1994-08-12T14:06:00-04:00"><text>Reported (Amended) by the Committee on Agriculture. H. Rept. 103-699.</text></action>
+		<calendar number="381" datetime="1994-08-12T14:07:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 381.</text></calendar>
+		<action datetime="1994-08-12T14:11:00-04:00"><text>Mr. de la Garza asked unanimous consent discharge the Committee of the Whole House on the State of the Union and consider.</text></action>
+		<action datetime="1994-08-12T14:12:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H8026-8031"/></action>
+		<vote how="without objection" type="vote" datetime="1994-08-12T14:13:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-08-12T14:13:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-08-12T14:16:00-04:00"><text>Laid on the table. See S. 1406 for further action.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Agriculture" subcommittee="Department Operations and Nutrition" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1406" />
+		<bill relation="superseded" session="103" type="s" number="1406" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Consumers"/>
+		<term name="Damages"/>
+		<term name="Deceptive advertising"/>
+		<term name="Farmers"/>
+		<term name="Grazing"/>
+		<term name="Intellectual property"/>
+		<term name="Labeling"/>
+		<term name="Law"/>
+		<term name="Names"/>
+		<term name="Plant breeding"/>
+		<term name="Plant germplasm resources"/>
+		<term name="Plant protection"/>
+		<term name="Potatoes"/>
+		<term name="Seeds"/>
+		<term name="Sexism"/>
+		<term name="Women"/>
+	</subjects>
+	<amendments>
+		<amendment number="h845"/>
+	</amendments>
+	<summary>
+	8/12/1994--Passed House amended. Plant Variety Protection Act Amendments of 1994 - Amends the Plant Variety Protection Act to revise definitions and establish rules of construction concerning: (1) the sale and disposition of harvesting material, varieties, and hybrid seeds; (2) the filing of applications for the protection or entering of a variety in an official register; and (3) the basis of determining the distinctness of a variety or whether a variety is publicly known. (Sec. 3) Entitles breeders of sexually reproduced or tuber propagated plant varieties (other than fungi or bacteria) (currently, other than fungi, bacteria, or first generation hybrids) who have reproduced a variety to plant variety protection if the variety is new, distinct, uniform, and stable. Provides that if two or more applicants for plant variety protection submit applications on the same filing date for indistinguishable varieties that fulfill the conditions for protection established by this Act, the applicant who first complies with this Act's requirements shall be entitled to protection to the exclusion of any other applicant. Issues a single protection certificate jointly to two or more applicants who comply with requirements on the same date for varieties that are indistinguishable. (Sec. 5) Grants an applicant two years (with appropriate additional time if rejected) to file necessary information under a foreign filing right of priority. (Sec. 7) Lengthens the term of plant variety protection from 18 to 20 years from the date of issuance of the protection certificate (25 years for trees or vines). (Sec. 8) Repeals priority contest and related adverse final judgment provisions. (Sec. 9) Adds the following activities to the list of actions which constitute infringement of an owner's right to plant variety protection if performed without an owner's authorization: (1) conditioning the variety for purposes of propagation; and (2) stocking the variety for any existing purpose which constitutes infringement. Permits owners to authorize the use of a variety subject to their own limitations. Provides that it shall not be an infringement of an owner's rights to perform any act: (1) concerning propagating material of a protected variety that has been marketed in the United States unless the act involves further propagation of the variety or involves an export into a country that does not protect such varieties of the plant genus or species (unless the export is for final consumption); or (2) done privately and for noncommercial purposes. (Sec. 10) Removes a provision that declares that it is not an infringement for a person whose primary farming occupation is the growing of crops for sale other than reproductive purposes to sell saved seed for reproductive purposes. (Sec. 12) Requires the use of a variety name in connection with a sale or advertising, except for certain turf and forage grass seeds (unless otherwise required by State law). (Sec. 13) Eliminates specified gender-based references.
+
+	</summary>
+</bill>

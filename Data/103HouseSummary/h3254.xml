@@ -1,0 +1,133 @@
+<bill session="103" type="h" number="3254" updated="2012-07-17T04:07:53-04:00">
+	<state datetime="1994-05-04T17:28:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-05-04T17:28:00-04:00" where="h" result="pass" how="roll" roll="153"/></status>
+
+	<introduced datetime="1993-10-12"/>
+	<titles>
+		<title type="short" as="introduced">National Science Foundation Authorization Act of 1993</title>
+		<title type="short" as="passed house">National Science Foundation Authorization Act of 1994</title>
+		<title type="official" as="introduced">To authorize appropriations for the National Science Foundation, and for other purposes.</title>
+	</titles>
+	<sponsor id="400043"/>
+	<cosponsors>
+		<cosponsor id="400572" joined="1993-10-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-12" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E2397-3298)</text></action>
+		<action datetime="1993-10-12" state="REFERRED"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<calendar datetime="1994-03-23"  state="REPORTED"><committee name="House Committee on Science, Space and Technology"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1994-03-23"><committee name="House Committee on Science, Space and Technology"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-04-13T18:21:00-04:00"><text>Reported (Amended) by the Committee on Science, Space and Technology. H. Rept. 103-475.</text></action>
+		<calendar number="266" datetime="1994-04-13T18:21:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 266.</text></calendar>
+		<action datetime="1994-04-28T13:19:00-04:00"><text>Rules Committee Resolution H. Res. 414 Reported to House. Rule provides for consideration of H.R. 3254 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Science, Space, and Technology now printed in the bill. Measure will be read by title. Bill is open to amendments.</text></action>
+		<action datetime="1994-05-03T13:46:00-04:00"><text>Rule H. Res. 414 passed House.</text></action>
+		<action datetime="1994-05-03T13:46:00-04:00"><text>Considered under the provisions of rule H. Res. 414.</text><reference label="consideration" ref="CR H2969-2972"/></action>
+		<action datetime="1994-05-03T13:46:00-04:00"><text>Rule provides for consideration of H.R. 3254 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Science, Space, and Technology now printed in the bill. Measure will be read by title. Bill is open to amendments.</text></action>
+		<action datetime="1994-05-03T13:47:00-04:00"><text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 414 and Rule XXIII.</text></action>
+		<action datetime="1994-05-03T13:47:00-04:00"><text>The Speaker designated the Honorable James L. Oberstar to act as Chairman of the Committee.</text></action>
+		<action datetime="1994-05-03T13:47:00-04:00"><text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate.</text></action>
+		<action datetime="1994-05-03T14:10:00-04:00"><text>Committee of the Whole House on the state of the Union rises leaving H.R. 3254 as unfinished business.</text></action>
+		<action datetime="1994-05-04T15:10:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3022-3036"/></action>
+		<action datetime="1994-05-04T15:10:00-04:00"><text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text></action>
+		<action datetime="1994-05-04T16:46:00-04:00"><text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3254.</text></action>
+		<action datetime="1994-05-04T17:09:00-04:00"><text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text></action>
+		<vote how="roll" type="vote" roll="153" datetime="1994-05-04T17:28:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed by recorded vote: 396 - 22 (Roll no. 153).</text></vote>
+		<action datetime="1994-05-04T17:28:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-05-04T17:28:00-04:00"><text>The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 3254.</text></action>
+		<action datetime="1994-05-05"><text>Received in the Senate and read twice and referred to the Committee on Labor and Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Markup, Reporting" />
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="103" type="hr" number="414" />
+		<bill relation="unknown" session="103" type="s" number="2344" />
+		<bill relation="unknown" session="103" type="s" number="2344" />
+	</relatedbills>
+	<subjects>
+		<term name="Science, technology, communications"/>
+		<term name="Affirmative action programs"/>
+		<term name="Armed forces and national security"/>
+		<term name="Auditing"/>
+		<term name="Authorization"/>
+		<term name="Building construction"/>
+		<term name="Buy American"/>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Colleges"/>
+		<term name="Commerce"/>
+		<term name="Competition"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cost accounting"/>
+		<term name="Curricula"/>
+		<term name="Debt agreements"/>
+		<term name="Debt relief"/>
+		<term name="Disabled"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Educational facilities"/>
+		<term name="Educational policy"/>
+		<term name="Educational statistics"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Elementary education"/>
+		<term name="Engineering"/>
+		<term name="Engineers"/>
+		<term name="Environmental education"/>
+		<term name="Environmental engineering"/>
+		<term name="Environmental protection"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Federal aid to research"/>
+		<term name="Federal employees"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Foundations"/>
+		<term name="Government and business"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Government procurement"/>
+		<term name="Government service contracts"/>
+		<term name="Higher education"/>
+		<term name="Intellectual property"/>
+		<term name="Interest"/>
+		<term name="International affairs"/>
+		<term name="International competitiveness"/>
+		<term name="International cooperation in science"/>
+		<term name="Maintenance and repair"/>
+		<term name="Mathematics"/>
+		<term name="Minorities"/>
+		<term name="Minority education"/>
+		<term name="Money"/>
+		<term name="National Science Foundation"/>
+		<term name="Overhead costs"/>
+		<term name="Paraprofessional school personnel"/>
+		<term name="Patents"/>
+		<term name="Promotions"/>
+		<term name="Recruiting and enlistment"/>
+		<term name="Reprogramming of appropriated funds"/>
+		<term name="Research and development"/>
+		<term name="Research centers"/>
+		<term name="Research grants"/>
+		<term name="Salaries"/>
+		<term name="Scientific education"/>
+		<term name="Scientific exchanges"/>
+		<term name="Secondary education"/>
+		<term name="Small business"/>
+		<term name="Strategic planning"/>
+		<term name="Teacher education"/>
+		<term name="Teachers' tenure"/>
+		<term name="Women"/>
+		<term name="Women scientists"/>
+		<term name="Women's education"/>
+	</subjects>
+	<amendments>
+		<amendment number="h530"/>
+		<amendment number="h531"/>
+		<amendment number="h532"/>
+	</amendments>
+	<summary>
+	5/4/1994--Passed House amended. TABLE OF CONTENTS: Title I: National Science Foundation Authorization Title II: General Provisions Title III: Academic Research Facilities Modernization Title IV: International Scientific Cooperation Title V: Undergraduate Education National Science Foundation Authorization Act of 1994 - Title I: National Science Foundation Authorization - Authorizes appropriations to the National Science Foundation (NSF) for FY 1995 and FY 1996. Prohibits the expenditure of FY 1996 funds for the Critical Technologies Institute. Title II: General Provisions - Amends the National Science Foundation Act of 1950 to direct the NSF to include in its annual report to the President a strategic plan defining its goals, criteria, and procedures. (Sec. 202) Requires the NSF Director (Director) to submit to the Congress an annual upgrade and maintenance plan for national research facilities. (Sec. 203) Amends the Academic Research Facilities Modernization Act of 1988 to require the NSF Director, when making awards for academic facilities maintenance, to exclude from consideration after FY 1995 certain institutions or consortia which received Federal maintenance funds for projects that were not subjected to a competitive, merit-based award process. (Sec. 204) Prohibits a science-technology center from being disqualified from competition for funding support under NSF informal science education programs on the basis of: (1) geographic location; (2) size of population served; or (3) date on which it commences operations. (Sec. 205) Amends the Science and Engineering Equal Opportunities Act to include within its target population women, minorities, persons with disabilities, and other underrepresented groups. (Sec. 207) Amends the National Science Foundation Act of 1950 and the National Science Foundation Authorization Act of 1988 to modify certain administrative procedures. Amends the National Science Foundation Authorization Act, 1977 to repeal its mandate for an Office of Small Business Research and Development. (Sec. 209) Requires the Director to establish a program to develop school curriculum materials that promote the relationship of environmental and economic and technical activities. (Sec. 211) Prohibits the awarding of funds to any grantee who reported FY 1994 Federal research grant outlays in excess of $10 million unless such grantee agrees to reimburse NSF from prior unobligated research amounts for any increased indirect expenses. (Sec. 212) Requires grants and contracts to be made on a competitive basis. (Sec. 213) Prohibits grant or contract awards to educational institutions which prevent military recruiting. (Sec. 214) Expresses the sense of the Congress that entities receiving assistance under this Act should purchase only American-made equipment and products. Title III: Academic Research Facilities Modernization - Instructs the Director of the Office of Science and Technology Policy to develop a multiagency Federal program plan to provide financial support to institutions of higher education to modernize obsolete science and engineering research facilities. Title IV: International Scientific Cooperation - Authorizes the Director to: (1) make grants to domestic organizations for &quot;debt-for-science&quot; exchanges; and (2) facilitate and participate in the establishment of binational and multinational endowed science foundations. Requires the NSF Director to submit to the Congress a strategic plan for NSF international scientific cooperation activities. Title V: Undergraduate Education - Requires each educational institution receiving a FY 1995 research grant to provide NSF with specified information on its undergraduate mathematics, science, and engineering activities.
+
+	</summary>
+</bill>

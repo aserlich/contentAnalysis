@@ -1,0 +1,40 @@
+<bill session="103" type="h" number="2270" updated="2010-04-19T05:05:51-04:00">
+	<state datetime="1993-05-26">REFERRED</state>
+	<status><introduced datetime="1993-05-26"/></status>
+
+	<introduced datetime="1993-05-26"/>
+	<titles>
+		<title type="official" as="introduced">To improve the quality of education in the District of Columbia by allowing choice for parents of elementary and secondary school students.</title>
+	</titles>
+	<sponsor id="400104"/>
+	<cosponsors>
+		<cosponsor id="400370" joined="1994-09-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-26"><text>Referred to the House Committee on District of Columbia.</text></action>
+		<action datetime="1993-07-26"><committee name="House Committee on District of Columbia"/><text>Referred to the Subcommittee on Judiciary and Education.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSDT" name="House District of Columbia" activity="Referral, In Committee" />
+		<committee code="" name="House District of Columbia" subcommittee="Judiciary and Education" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="District of Columbia"/>
+		<term name="Educational vouchers"/>
+		<term name="Elementary education"/>
+		<term name="Parent-school relationships"/>
+		<term name="Secondary education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/26/1993--Introduced.
+Makes a parent or legal guardian of an elementary or secondary school student who lives in the District of Columbia eligible to receive a voucher that equals the cost of the average per student expenditure for the most recent school year to be used for an accredited elementary or secondary school. Requires an eligible parent or legal guardian who wishes to receive such voucher to submit an application each year for each child to the designated District of Columbia office.
+
+	</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="3422" updated="2010-04-19T08:04:17-04:00">
+	<state datetime="1993-11-02">REFERRED</state>
+	<status><introduced datetime="1993-11-02"/></status>
+
+	<introduced datetime="1993-11-02"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the Secretary of the Navy to transfer, without regard to the required waiting period, an obsolete naval vessel to the United States Naval Shipbuilding Museum, Quincy, Massachusetts, upon making certain determinations.</title>
+	</titles>
+	<sponsor id="410496"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-02"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-11-08"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Acquisition.</text></action>
+		<action datetime="1993-11-08"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Acquisition" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1593" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Cruisers"/>
+		<term name="Defense policy"/>
+		<term name="Environmental protection"/>
+		<term name="Humanities"/>
+		<term name="Massachusetts"/>
+		<term name="Museums"/>
+		<term name="Shipbuilding"/>
+		<term name="Surplus government property"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/2/1993--Introduced.
+Authorizes the Secretary of the Navy to transfer to the U.S. Navy Shipbuilding Museum in Quincy, Massachusetts, the obsolete heavy cruiser U.S.S. Salem, notwithstanding a required waiting period for such transfers.
+
+	</summary>
+</bill>

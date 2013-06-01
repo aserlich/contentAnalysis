@@ -1,0 +1,161 @@
+<bill session="103" type="h" number="4206" updated="2010-04-19T10:06:35-04:00">
+	<state datetime="1994-04-13">REFERRED</state>
+	<status><introduced datetime="1994-04-13"/></status>
+
+	<introduced datetime="1994-04-13"/>
+	<titles>
+		<title type="short" as="introduced">GATT Fair Trade Enforcement Act of 1994</title>
+		<title type="official" as="introduced">To provide for the implementation of the Uruguay Round of the General Agreement on Tariffs and Trade concerning specific code section, and for other purposes.</title>
+	</titles>
+	<sponsor id="400334"/>
+	<cosponsors>
+		<cosponsor id="402763" joined="1994-06-10"/>
+		<cosponsor id="408839" joined="1994-06-10"/>
+		<cosponsor id="400160" joined="1994-06-10"/>
+		<cosponsor id="400542" joined="1994-06-10"/>
+		<cosponsor id="404083" joined="1994-06-10"/>
+		<cosponsor id="408052" joined="1994-06-10"/>
+		<cosponsor id="300030" joined="1994-06-10"/>
+		<cosponsor id="409570" joined="1994-06-10"/>
+		<cosponsor id="401383" joined="1994-06-10"/>
+		<cosponsor id="400417" joined="1994-06-10"/>
+		<cosponsor id="400329" joined="1994-06-10"/>
+		<cosponsor id="407772" joined="1994-04-13"/>
+		<cosponsor id="407400" joined="1994-06-10"/>
+		<cosponsor id="400050" joined="1994-06-10"/>
+		<cosponsor id="407141" joined="1994-06-10"/>
+		<cosponsor id="400591" joined="1994-06-10"/>
+		<cosponsor id="406605" joined="1994-06-10"/>
+		<cosponsor id="400281" joined="1994-06-10"/>
+		<cosponsor id="400211" joined="1994-06-10"/>
+		<cosponsor id="400299" joined="1994-06-10"/>
+		<cosponsor id="400390" joined="1994-06-10"/>
+		<cosponsor id="400906" joined="1994-06-10"/>
+		<cosponsor id="400286" joined="1994-06-10"/>
+		<cosponsor id="409219" joined="1994-06-10"/>
+		<cosponsor id="410407" joined="1994-06-10"/>
+		<cosponsor id="400611" joined="1994-06-10"/>
+		<cosponsor id="400537" joined="1994-06-10"/>
+		<cosponsor id="402762" joined="1994-06-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-13"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-04-13"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-04-13"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1994-04-13"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-04-27"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Europe and the Middle East.</text></action>
+		<action datetime="1994-06-24"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Ways and Means"/><text>See H.R.5110.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Europe and the Middle East" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5110" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Accounting"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="American economic assistance"/>
+		<term name="American technical assistance"/>
+		<term name="Antidumping"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Commercial blacklisting"/>
+		<term name="Confidential communications"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Copyright infringement"/>
+		<term name="Countervailing duties"/>
+		<term name="Customs administration"/>
+		<term name="Department of the Treasury"/>
+		<term name="Developing countries"/>
+		<term name="Diplomacy"/>
+		<term name="Dumping"/>
+		<term name="Employee benefit plans"/>
+		<term name="Executive departments"/>
+		<term name="Executive orders"/>
+		<term name="Expedited congressional procedure"/>
+		<term name="Export controls"/>
+		<term name="Export subsidies"/>
+		<term name="Exports"/>
+		<term name="Finance"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Foreign aid"/>
+		<term name="Foreign exchange"/>
+		<term name="Foreign policy"/>
+		<term name="Foreign service"/>
+		<term name="Forfeiture"/>
+		<term name="Free trade"/>
+		<term name="Government and business"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Government trust funds"/>
+		<term name="Governmental investigations"/>
+		<term name="Import quotas"/>
+		<term name="Imports"/>
+		<term name="Injunctions"/>
+		<term name="Intellectual property"/>
+		<term name="International Trade Commission"/>
+		<term name="International affairs"/>
+		<term name="International agencies"/>
+		<term name="International cooperation"/>
+		<term name="International finance"/>
+		<term name="Iron and steel industry"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Labor"/>
+		<term name="Labor unions"/>
+		<term name="Law"/>
+		<term name="Manufacturing industries"/>
+		<term name="Money"/>
+		<term name="Multilateral development banks"/>
+		<term name="Nontariff trade barriers"/>
+		<term name="Parties to actions"/>
+		<term name="Patent agreements"/>
+		<term name="Patents"/>
+		<term name="Pension funds"/>
+		<term name="Pensions"/>
+		<term name="Presidents"/>
+		<term name="Prices"/>
+		<term name="Profit"/>
+		<term name="Property insurance"/>
+		<term name="Reciprocity"/>
+		<term name="Research and development"/>
+		<term name="Restrictive trade practices"/>
+		<term name="Science policy"/>
+		<term name="Semiconductor industry"/>
+		<term name="Semiconductors"/>
+		<term name="Steel"/>
+		<term name="Subsidies"/>
+		<term name="Tariff"/>
+		<term name="Tariff preferences"/>
+		<term name="Technological innovations"/>
+		<term name="Technology"/>
+		<term name="Telecommunication"/>
+		<term name="Trade"/>
+		<term name="Trade adjustment assistance"/>
+		<term name="Trade agreements"/>
+		<term name="Trade negotiations"/>
+		<term name="Trade regulation"/>
+		<term name="Trademark agreements"/>
+		<term name="Trademarks"/>
+		<term name="Tying devices (Antitrust law)"/>
+		<term name="Valuation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/13/1994--Introduced.
+TABLE OF CONTENTS: Title I: Countervailing and Antidumping Duty Amendments Title II: Intellectual Property Amendments Title III: Market Opening Measures GATT Fair Trade Enforcement Act of 1994 - Title I: Countervailing and Antidumping Duty Amendments - Amends the Tariff Act of 1930 to require every importer of record making an entry of merchandise to declare: (1) whether such merchandise is subject to any antidumping or countervailing duty order; and (2) whether the importer disclosed to the manufacturer of such merchandise in the country of exportation that its destination is the United States. (Sec. 101) Requires such importer with respect to merchandise subject to an antidumping duty order to disclose to the manufacturer that such merchandise has been purchased for exportation to the United States, unless at the time of purchase, the importer did not: (1) intend to export the merchandise to the United States; (2) import it for a period of at least six months from the date of purchase; and (3) regularly engage in a pattern of importation of such merchandise. Subjects importers who fail to make such disclosures to Federal prosecution. (Sec. 102) Sets forth an alternative method for determining the exporter's sales price. (Sec. 103) Directs the International Trade Commission (ITC), with respect to the award of compensation, to forward to the Commissioner of the United States Customs Service within 60 days of the issuance of an antidumping or countervailing duty order a list of petitioners and companies that support the petition with respect to the dollar value of their shipments during the last year covered by the original ITC investigation. Requires the Secretary of the Treasury (Secretary) to establish a special compensation account composed of all antidumping or countervailing duties, including interest, that are collected under a antidumping or countervailing duty order. (Sec. 104) Declares that diversionary input dumping occurs when: (1) a manufacturer incorporates into merchandise under investigation a component which is the subject of an antidumping duty order, a finding issued under the Antidumping Act, 1921, or an international agreement or agreement to eliminate the injurious effect of imports that is entered into after an affirmative preliminary determination with respect to antidumping; and (2) such manufacturer under investigation purchased such component at a price which is less than the foreign market value. Requires the administering authority to commence an antidumping investigation whenever it has reasonable grounds to believe that: (1) diversionary input dumping is occurring; (2) it has a significant effect on the cost of producing the merchandise under investigation; and (3) subsequent to the imposition of an antidumping duty order or entry into force of an agreement relating to the components in question, U.S.-bound shipments of the merchandise under investigation have increased. Provides for extension of the period of time for preliminary determinations of diversionary input dumping by the administering authority. (Sec. 105) Requires the administering authority to decide that a competitive benefit has been bestowed when the price for the input product is lower than the price that the manufacturer of merchandise which is the subject of a countervailing duty proceeding would otherwise pay for the product in obtaining it from an unsubsidized seller (currently any seller) in an arms-length transaction. Sets forth specified factors to be considered in the determination of such price. (Sec. 106) Revises the method by which the administering authority determines the foreign market value of dumped merchandise with respect to their sale at less than the cost of production in their home market. (Sec. 107) Requires the administering authority, when determining whether imported parts or components are circumventing an antidumping or countervailing duty order or finding, and whether to include such parts or components in such order or finding, to consider, among other things, the value and sources of supply parts or components historically used in completion or assembly of the merchandise subject to such order. Authorizes the administering authority to include within the scope of such order or finding imported parts or components used in the completion or assembly of certain merchandise sold in the United States and subject to such order or finding, provided: (1) such merchandise is completed or assembled in the United States or a foreign country from parts or components supplied by the exporter or producer with respect to which such order or finding applies, from suppliers that have historically supplied the parts or components to that exporter or producer, or from any party in the exporting country supplying parts or components on behalf of such exporter or producer; (2) the difference between the value of such imported parts and components and the total value of all parts or components used in the assembly or completion operation, excluding packing, is significant; and (3) consideration of specified factors established a pattern of circumvention of such order or finding. (Sec. 108) Declares that if an antidumping duty petition alleges its petitioning members of the domestic industry account for 25 percent or more of the total production of the like product produced by it, the administering authority shall not be required to further investigate the standing of such petitioners unless a written objection to initiation is filed by a member of the domestic industry. (Sec. 109) Revises, for purposes of determining the foreign market value of imported merchandise, the method for calculating its constructed value. (Sec. 110) Revises provisions regarding the: (1) administrative review, and period of time for review, of quantitative import restriction agreements and antidumping duty or countervailing duty orders or findings; (2) revocation of such orders or findings; and (3) termination of suspended antidumping duty or countervailing duty investigations. (Sec. 111) Revises provisions regarding: (1) foreign market value determinations with respect to imported merchandise to include the effects of fluctuations in currency exchange rates; (2) sampling and averaging in determining the U.S. price or foreign market value of imported merchandise; (3) market viability as it relates to foreign market value determinations; (4) negligible imports as they affect material injury determinations; (5) captive production as it relates to defining the domestic industry; and (6) adjustments to the calculation of the exporter's sales price of merchandise. Title II: Intellectual Property Amendments - Amends the Omnibus Trade and Competitiveness Act of 1988 to revise and specify new U.S. objectives with respect to the international protection of intellectual property rights. (Sec. 202) Prohibits the President from negotiating any new free trade agreement with a foreign country, unless such country: (1) has substantially implemented the Uruguay Round Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS); and (2) expresses willingness to negotiate an agreement with the United States to provide intellectual property protection equivalent to that set forth in the Model Intellectual Property Agreement. Requires the President to amend existing free trade agreements to provide greater protection of such rights. Prohibits fast track procedures from applying to any implementing legislation of a free trade agreement if the above-mentioned requirements are not met. (Sec. 203) Amends the Trade Act of 1974 to require the United States Trade Representative (USTR), among other things, to identify those foreign countries that deny non-discriminatory market access opportunities for U.S. persons, including access related to any exploitation or enjoyment of commercial benefits from exercising rights in protected works, fixations, or products embodying protected works. Sets forth additional factors the USTR must take into account in identifying a priority foreign country. Revises provisions regarding a foreign country's denial of: (1) adequate protection of intellectual property rights; and (2) fair market access. Specifies when a foreign country denies non-discriminatory market access opportunities for U.S. persons in respect of establishing business operations or any use, benefit, or exploitation of protected works, fixations, or products embodying protected rights. (Sec. 204) Amends the Tariff Act of 1930 to make it unlawful for an owner, distributor, or consignee to sell articles, including semiconductor chip products, in the United States that: (1) infringe a valid U.S. patent or copyright; (2) are made or mined by means of a process covered by a valid U.S. patent; (3) infringe a valid U.S. trademark; and (4) infringe a mask work. Requires the Secretary of Commerce to investigate any violations committed under this Act. Sets forth civil penalties. (Sec. 205) Amends the Trade Act of 1974 to prohibit the President, one year after the effective date of the Uruguay Round Agreement establishing the World Trade Organization, from designating any country a beneficiary developing country if it has not implemented the TRIPS. Authorizes the President to designate: (1) a least developed country a beneficiary developing country for four additional years; and (2) a non-least developed country certified to the Congress to be making significant progress toward implementation of TRIPS a beneficiary developing country for one additional year. (Sec. 206) Requires the USTR to: (1) maintain a Model Intellectual Property Agreement that embodies provisions for intellectual property protection that strengthen the standards contained in TRIPS and the North American Free Trade Agreement (NAFTA); and (2) review periodically the Model Intellectual Property Agreement to ensure it reflects new developments in intellectual property protection and new technologies. (Sec. 207) Requires the Secretary of State to instruct all heads of U.S. diplomatic missions abroad to include intellectual property protection as a priority objective of the mission. (Sec. 208) Requires the USTR to develop a procedure to ensure the exchange of information between interested U.S. private sector representatives and the USTR in preparation for international intellectual property-related dispute settlement proceedings to which the United States is a party. (Sec. 209) Authorizes the President to undertake specified actions with respect to developing countries to encourage them to improve their protection of intellectual property. (Sec. 210) Urges the USTR to negotiate with foreign countries the implementation of the border enforcement provisions against the importation of infringing goods enumerated in TRIPS, and if warranted, require those countries that chronically violate intellectual property rights to establish an export control monitoring system. Title III: Market Opening Measures - Amends the Trade Act of 1974 to authorize the President to impose civil penalties on foreign or domestic persons that engage in restrictive business practices, including price-fixing, bid-rigging, joint restraint of output, market allocation, boycotts, tying arrangements, or similar activities, when such practices foreclose U.S. exports or burden or restrict U.S. foreign commerce. Authorizes the President to negotiate settlement agreements with parties or governments which result in the elimination of: (1) the practice under investigation; or (2) the restriction on U.S. exports or the burden or restriction on U.S. commerce. Provides for the imposition of civil penalties. (Sec. 302) Authorizes the President to take trade action with respect to any area pertinent to relations with a foreign country that is that target of such action, including but not limited to, trade in any goods or services. Declares unreasonable any act, policy, or practice which denies fair and equitable provision of adequate and effective protection of intellectual property rights, notwithstanding that the foreign country may have implemented TRIPS or any other bilateral, regional, or multilateral agreement with respect to intellectual property protection. Requires the USTR to initiate an investigation whenever a petition alleges that: (1) a foreign country fails to provide adequate and effective protection of intellectual property rights; and (2) acts, policies, or practices of the country either deny benefits to the United States under a trade agreement, or burden or restrict U.S. commerce. (Sec. 303) Expresses the sense of the Congress that every effort be taken to conclude the Multilateral Steel Agreement (MSA) before implementation of the Uruguay Round of the General Agreement on Tariffs and Trade (GATT). Declares that a principal U.S. negotiating objective in the MSA shall be to obtain rules ensuring the elimination of all injurious subsidies. Requires, prior to implementation of GATT, that U.S. negotiators consider the potential impact the elimination of tariffs on specialty steel products would have on the specialty steel industry absent a successful conclusion of the MSA.
+
+	</summary>
+</bill>

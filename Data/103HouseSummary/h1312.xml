@@ -1,0 +1,72 @@
+<bill session="103" type="h" number="1312" updated="2010-04-19T02:35:24-04:00">
+	<state datetime="1993-03-11">REFERRED</state>
+	<status><introduced datetime="1993-03-11"/></status>
+
+	<introduced datetime="1993-03-11"/>
+	<titles>
+		<title type="short" as="introduced">Local Exchange Infrastructure Modernization Act of 1993</title>
+		<title type="official" as="introduced">To recognize the unique status of local exchange carriers in providing the public switched network infrastructure and to ensure the broad availability of advanced public switched network infrastructure.</title>
+	</titles>
+	<sponsor id="400043"/>
+	<cosponsors>
+		<cosponsor id="400571" joined="1993-03-11"/>
+		<cosponsor id="405775" joined="1993-03-11"/>
+		<cosponsor id="400165" joined="1993-03-11"/>
+		<cosponsor id="400307" joined="1993-03-11"/>
+		<cosponsor id="400018" joined="1993-03-11"/>
+		<cosponsor id="409205" joined="1993-03-11"/>
+		<cosponsor id="409578" joined="1993-04-02"/>
+		<cosponsor id="300151" joined="1993-03-11"/>
+		<cosponsor id="407558" joined="1993-05-19"/>
+		<cosponsor id="404869" joined="1993-05-19"/>
+		<cosponsor id="400316" joined="1993-05-27"/>
+		<cosponsor id="400386" joined="1993-03-11"/>
+		<cosponsor id="406729" joined="1993-03-11"/>
+		<cosponsor id="300014" joined="1993-04-02"/>
+		<cosponsor id="410084" joined="1993-07-15"/>
+		<cosponsor id="404068" joined="1993-03-11"/>
+		<cosponsor id="402152" joined="1993-04-01"/>
+		<cosponsor id="403403" joined="1993-04-29"/>
+		<cosponsor id="400610" joined="1993-07-13"/>
+		<cosponsor id="409966" joined="1993-03-11"/>
+		<cosponsor id="403873" joined="1993-07-15"/>
+		<cosponsor id="400150" joined="1993-03-11"/>
+		<cosponsor id="400236" joined="1993-04-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-11"><text>Sponsor introductory remarks on measure. (CR E617)</text></action>
+		<action datetime="1993-03-11"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-03-11"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-03-24"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+		<action datetime="1994-06-28"><committee name="House Committee on Energy and Commerce"/><text>For Further Action See H.R.3636.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3636" />
+	</relatedbills>
+	<subjects>
+		<term name="Communications"/>
+		<term name="Administrative procedure"/>
+		<term name="Antitrust law"/>
+		<term name="Federal Communications Commission"/>
+		<term name="Information networks"/>
+		<term name="Information services"/>
+		<term name="Telecommunication"/>
+		<term name="Telephone"/>
+		<term name="Telephone rates"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/1993--Introduced.
+Local Exchange Infrastructure Modernization Act of 1993 - Amends the Communications Act of 1934 to require the Federal Communications Commission (FCC) to exercise its authority to: (1) preserve and enhance universal telephone service at reasonable rates; (2) achieve universal availability of advanced network capabilities and information services; (3) assure a seamless nationwide distribution network through joint network planning, coordination, and service arrangements between and among local exchange carriers (LECs); (4) maintain high standards of quality for advanced network services; and (5) assure adequate communication for the public health, safety, defense, education, national security, and emergency preparedness. Defines &quot;local exchange carrier&quot; as a carrier that: (1) is required to provide upon request, under tariff or subject to other government oversight (by the FCC or a State commission), interstate and intrastate access services and telephone exchange service; (2) is, or was, a participant in one or more interstate pools established by the FCC, or would have been required to participate in one or more such pools had the carrier been engaged in interstate and intrastate access and telephone exchange service while such participation was mandatory; (3) is subject to the requirements imposed by the FCC or a State commission related to the provision of equal access; and (4) conforms with the provisions of the North American Numbering Plan applicable to the assignment of numbering resources for telephone exchange service, as defined by the Plan's Administrator. Requires the FCC to prescribe regulations that require: (1) joint coordinated network planning, design, and cooperative implementation among all LECs in the provision of public switched network infrastructure and services; (2) development of standards for interconnection between the LEC public switched network and others by appropriate standard-setting bodies; and (3) a LEC to share public switched network infrastructure and functionality with requesting LECs which serve a geographic area for which they lack economies of scale or scope for the particular required network functionality.
+
+	</summary>
+</bill>

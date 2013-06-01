@@ -1,0 +1,57 @@
+<bill session="103" type="s" number="1762" updated="2010-04-19T19:04:59-04:00">
+	<state datetime="1993-11-20">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-11-20" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="short" as="introduced">Dietary Supplement Regulation Moratorium Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend the Nutrition Labeling and Education Act of 1990 to impose a moratorium with respect to the issuance of regulations on dietary supplements.</title>
+	</titles>
+	<sponsor id="300052"/>
+	<cosponsors>
+		<cosponsor id="300059" joined="1993-11-20"/>
+		<cosponsor id="406188" joined="1993-11-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-20"><text>Sponsor introductory remarks on measure. (CR S16816-16828)</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S16868-16869"/></vote>
+		<action datetime="1993-11-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-21T14:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-21"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-11-23"><text>Sponsor introductory remarks on measure. (CR S17049)</text></action>
+		<action datetime="1993-12-20"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1994-10-07"><committee name="House Committee on Energy and Commerce"/><text>See S.784.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="784" />
+	</relatedbills>
+	<subjects>
+		<term name="Food"/>
+		<term name="Actions and defenses"/>
+		<term name="Administrative procedure"/>
+		<term name="Consumer education"/>
+		<term name="Consumers"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Dietary supplements"/>
+		<term name="Executive departments"/>
+		<term name="Herbs"/>
+		<term name="Injunctions"/>
+		<term name="Labeling"/>
+		<term name="Law"/>
+		<term name="Parties to actions"/>
+		<term name="Standards"/>
+		<term name="Vitamins"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+Dietary Supplement Regulation Moratorium Act of 1993 - Prohibits the Secretary of Health and Human Services from implementing the Nutrition Labeling and Education Act of 1990 or any amendment made by such Act earlier than April 15, 1994, with respect to dietary supplements of vitamins, minerals, herbs, amino acids, or other similar nutritional substances. Prohibits the Secretary from issuing any final regulations applicable to such substances before that date. Specifies that any such proposed regulations shall not be considered to be final regulations until that date. Makes the effective date for provisions dealing with State enforcement with respect to such substances April 30, 1994.
+
+	</summary>
+</bill>

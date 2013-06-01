@@ -1,0 +1,60 @@
+<bill session="103" type="s" number="318" updated="2012-07-17T05:54:33-04:00">
+	<state datetime="1994-03-02">REPORTED</state>
+	<status><calendar datetime="1994-03-02" /></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Outer Continental Shelf Deep Water Royalty Relief Act</title>
+		<title type="short" as="reported to senate">Outer Continental Shelf Deep Water Royalty Relief Act</title>
+		<title type="official" as="introduced">A bill to provide for the energy security of the Nation through encouraging the production of domestic oil and gas resources in deep water on the Outer Continental Shelf in the Gulf of Mexico, and for other purposes.</title>
+	</titles>
+	<sponsor id="406084"/>
+	<cosponsors>
+		<cosponsor id="406487" joined="1993-02-04"/>
+		<cosponsor id="300012" joined="1993-02-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1398-1399)</text></action>
+		<action datetime="1993-02-04" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-03-02"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1993-09-14"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Hearings held.</text></action>
+		<calendar datetime="1994-03-02"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1994-04-11"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments. With written report No. 103-248.</text></action>
+		<calendar under="General Orders" number="402" datetime="1994-04-11" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 402.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1282" />
+	</relatedbills>
+	<subjects>
+		<term name="Energy"/>
+		<term name="Administrative procedure"/>
+		<term name="Alaska"/>
+		<term name="Capital investments"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Continental shelf"/>
+		<term name="Department of the Interior"/>
+		<term name="Energy policy"/>
+		<term name="Finance and financial sector"/>
+		<term name="Gas in submerged lands"/>
+		<term name="Government operations and politics"/>
+		<term name="Gulf of Mexico"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Oil and gas leases"/>
+		<term name="Oil and gas royalties"/>
+		<term name="Petroleum in submerged lands"/>
+		<term name="Prospecting"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Submarine oil well drilling"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/11/1994--Reported to Senate amended. Outer Continental Shelf Deep Water Royalty Relief Act - Amends the Outer Continental Shelf Lands Act to authorize the Secretary of the Interior to reduce or suspend any royalty or net profit share set forth in a lease in order to promote development and new production and to encourage production of marginal or uneconomic resources. Declares that with respect to leases in certain Planning Areas of the Gulf of Mexico, and certain leases in the Alaska frontier, royalty payment shall not be due on new production until the capital costs directly related to production have been recovered out of new production proceeds. Prescribes procedures under which the Secretary shall determine whether such relief from royalty payments shall apply. Prohibits the Secretary from implementing a tract nomination system for oil and gas leasing in the Central and Western Planning Areas of the Gulf of Mexico. Requires the Secretary to use the existing area-wide leasing system instead. Directs the Secretary to review and report to certain congressional committees on Federal regulations which create disincentives to oil and gas production on Federal lands.
+
+	</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="1983" updated="2010-04-19T04:21:24-04:00">
+	<state datetime="1993-05-05">REFERRED</state>
+	<status><introduced datetime="1993-05-05"/></status>
+
+	<introduced datetime="1993-05-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XIX of the Social Security Act to clarify the availability of medicaid payment for childhood vaccine replacement programs.</title>
+	</titles>
+	<sponsor id="402152"/>
+	<cosponsors>
+		<cosponsor id="400122" joined="1994-01-25"/>
+		<cosponsor id="400333" joined="1993-05-06"/>
+		<cosponsor id="400170" joined="1993-05-05"/>
+		<cosponsor id="400524" joined="1993-05-06"/>
+		<cosponsor id="400178" joined="1993-05-05"/>
+		<cosponsor id="400595" joined="1993-05-06"/>
+		<cosponsor id="400425" joined="1993-05-05"/>
+		<cosponsor id="400516" joined="1993-05-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-06-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Child health"/>
+		<term name="Drug industry"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Public assistance programs"/>
+		<term name="Vaccination"/>
+		<term name="Vaccines"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/5/1993--Introduced.
+Amends title XIX (Medicaid) with respect to the availability of Medicaid payment for childhood vaccine replacement programs.
+
+	</summary>
+</bill>

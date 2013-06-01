@@ -1,0 +1,97 @@
+<bill session="103" type="h" number="1137" updated="2012-07-17T06:15:40-04:00">
+	<state datetime="1993-11-15T16:31:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-15T16:31:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="short" as="introduced">Old Faithful Protection Act of 1993</title>
+		<title type="short" as="passed house">Old Faithful Protection Act of 1993</title>
+		<title type="short" as="reported to senate">Lost Creek Land Exchange Act of 1994</title>
+		<title type="short" as="reported to senate">Old Faithful Protection Act of 1994</title>
+		<title type="official" as="introduced">To amend the Geothermal Steam Act of 1970 (30 U.S.C. 1001-1027), and for other purposes.</title>
+	</titles>
+	<sponsor id="411677"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E440)</text></action>
+		<action datetime="1993-02-24" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Energy and Mineral Resources.</text></action>
+		<action datetime="1993-04-22"><committee name="House Committee on Natural Resources" subcommittee="Energy and Mineral Resources"/><text>Joint Hearings Held by the Subcommittee on Energy and Mineral Resources and by the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action datetime="1993-06-10"><committee name="House Committee on Natural Resources" subcommittee="Energy and Mineral Resources"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-06-10"><committee name="House Committee on Natural Resources" subcommittee="Energy and Mineral Resources"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-11-10"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-11-10"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-11-15T13:35:00-05:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-364.</text></action>
+		<calendar number="198" datetime="1993-11-15T13:35:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 198.</text></calendar>
+		<action datetime="1993-11-15T16:22:00-05:00"><text>Mr. Lehman moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-15T16:23:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9623-9627"/></action>
+		<action datetime="1993-11-15T16:23:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-15T16:31:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-15T16:32:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-16"><text>Received in the Senate.</text></action>
+		<action datetime="1993-11-17"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-03-01"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-03-16"><committee name="Committee on Energy and Natural Resources" subcommittee="Energy and Mineral Resources"/><text>Subcommittee on Mineral Resources Development. Hearings held.</text></action>
+		<action datetime="1994-03-16"><committee name="Committee on Energy and Natural Resources" subcommittee="Energy and Mineral Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held.</text></action>
+		<calendar datetime="1994-09-21" ><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-09-28"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment in the nature of a substitute and an amendment to the title. Without written report.</text></action>
+		<calendar under="General Orders" number="675" datetime="1994-09-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 675.</text></calendar>
+		<action datetime="1994-11-30"><text>By Senator Johnston from Committee on Energy and Natural Resources filed written report. Report No. 103-431. Minority views filed.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-06" name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Energy and Natural Resources" subcommittee="Mineral Resources Development and Production" activity="Hearings" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Parks"/>
+		<term name="Churches"/>
+		<term name="Citizen lawsuits"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Conservation of natural resources"/>
+		<term name="Energy"/>
+		<term name="Energy development"/>
+		<term name="Energy policy"/>
+		<term name="Environmental assessment"/>
+		<term name="Environmental protection"/>
+		<term name="Environmental research"/>
+		<term name="Geothermal power plants"/>
+		<term name="Geothermal resources"/>
+		<term name="Government operations and politics"/>
+		<term name="Groundwater"/>
+		<term name="Idaho"/>
+		<term name="Interstate compacts"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Land transfers"/>
+		<term name="Law"/>
+		<term name="Licenses"/>
+		<term name="Montana"/>
+		<term name="National forests"/>
+		<term name="National parks"/>
+		<term name="Prospecting"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Religion"/>
+		<term name="Science, technology, communications"/>
+		<term name="Water pollution control"/>
+		<term name="Water resources development"/>
+		<term name="Water rights"/>
+		<term name="Wilderness areas"/>
+		<term name="Wyoming"/>
+	</subjects>
+	<amendments>
+		<amendment number="s2600"/>
+	</amendments>
+	<summary>
+	9/28/1994--Reported to Senate amended. TABLE OF CONTENTS: Title I: Old Faithful Protection Act Title II: Lost Creek Land Exchange Title I: Old Faithful Protection Act - Old Faithful Protection Act of 1994 - Declares that any use, production, exploration, or development of any new or existing geothermal well within the boundary of the Yellowstone Protection Area risks adverse effects upon the thermal features of Yellowstone National Park. Prohibits the Secretary of the Interior from issuing any geothermal lease for lands within the boundary of the Area. Places a moratorium upon the use, production, development or exploration of any wells within the Area. Directs the Secretary to take the steps necessary to protect the Park's thermal systems and features. Directs the National Park Service to research, inventory, and report to the Congress at least every five years on the current and potential effects of hydrothermal or geothermal development upon protected systems and features. Mandates the exclusive use of nonintrusive methodologies. Prescribes guidelines under which the State of Montana, is encouraged to implement federally approved State management programs for regulated resources outside Yellowstone National Park. Requires a permit issued by a State agency implementing a federally approved State program before undertaking activities related to regulated resources on non-Federal lands within the Area. Prescribes approval guidelines for management programs implemented by the State of Montana. Declares that the water rights compact entered into by the United States and the State of Montana on January 31, 1994, shall be considered an approved State program for regulation of groundwater resources within Yellowstone Protection Area. Provides for judicial review of administrative procedures relating to this Act. Authorizes appropriations. Prescribes guidelines for the Secretary of Agriculture to acquire by exchange certain lands and interests in lands owned by the Church Universal and Triumphant located in the Yellowstone Controlled Groundwater Area and Corwin Springs Known Geothermal Resource Area of the Gallatin National Forest. Title II: Lost Creek Land Exhange - Lost Creek Land Exchange Act of 1994 - Prescribes guidelines for the Secretary of Agriculture to acquire by exchange certain lands and interests in lands owned by the Brand S Corporation (the Corporation) located in the Lost Creek area of the Deerlodge National Forest and within the Gallatin National Forest.
+
+	</summary>
+</bill>

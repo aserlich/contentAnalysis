@@ -1,0 +1,57 @@
+<bill session="103" type="h" number="752" updated="2010-04-19T01:01:06-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Energy Extension Fair Share Act of 1993</title>
+		<title type="official" as="introduced">To provide for the utilization of the latest available census data related to energy and natural resources.</title>
+	</titles>
+	<sponsor id="401014"/>
+	<cosponsors>
+		<cosponsor id="400596" joined="1993-02-17"/>
+		<cosponsor id="400156" joined="1993-02-03"/>
+		<cosponsor id="400170" joined="1993-02-03"/>
+		<cosponsor id="405855" joined="1993-02-03"/>
+		<cosponsor id="400344" joined="1993-02-23"/>
+		<cosponsor id="400388" joined="1993-02-17"/>
+		<cosponsor id="400574" joined="1993-02-23"/>
+		<cosponsor id="400106" joined="1993-02-03"/>
+		<cosponsor id="400511" joined="1993-02-03"/>
+		<cosponsor id="400048" joined="1993-02-03"/>
+		<cosponsor id="404520" joined="1993-02-03"/>
+		<cosponsor id="406082" joined="1993-02-03"/>
+		<cosponsor id="400107" joined="1993-02-17"/>
+		<cosponsor id="406790" joined="1993-02-17"/>
+		<cosponsor id="400369" joined="1993-02-03"/>
+		<cosponsor id="400583" joined="1993-02-17"/>
+		<cosponsor id="408661" joined="1993-02-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-03-01"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Energy and Power.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="HSIF-03" name="House Energy and Commerce" subcommittee="Energy and Power" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="302" />
+	</relatedbills>
+	<subjects>
+		<term name="Energy law and legislation"/>
+		<term name="Census"/>
+		<term name="Energy conservation"/>
+		<term name="Energy policy"/>
+		<term name="Grants-in-aid"/>
+		<term name="Population statistics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Energy Extension Fair Share Act of 1993 - Amends the National Energy Extension Service Act to provide for the use of population figures provided by the latest available estimates prepared by the Department of Commerce (currently, provided by the most recent decennial census) for the calculation of the apportionment of State energy extension service funds.
+
+	</summary>
+</bill>

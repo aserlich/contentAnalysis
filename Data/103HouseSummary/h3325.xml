@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="3325" updated="2010-04-19T07:49:12-04:00">
+	<state datetime="1993-10-20">REFERRED</state>
+	<status><introduced datetime="1993-10-20"/></status>
+
+	<introduced datetime="1993-10-20"/>
+	<titles>
+		<title type="popular" as="">Early Out bill</title>
+		<title type="short" as="introduced">Federal Retirement Reform Act</title>
+		<title type="official" as="introduced">To amend certain provisions of title 5, United States Code, relating to the age and service requirements for entitlement to an immediate annuity under the Civil Service Retirement System or the Federal Employees' Retirement System, and for other purposes.</title>
+	</titles>
+	<sponsor id="400370"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="1993-10-20" withdrawn="1994-02-10"/>
+		<cosponsor id="400381" joined="1993-10-20"/>
+		<cosponsor id="400015" joined="1993-10-20"/>
+		<cosponsor id="400036" joined="1993-10-20"/>
+		<cosponsor id="400882" joined="1993-10-20"/>
+		<cosponsor id="400226" joined="1993-10-20"/>
+		<cosponsor id="400140" joined="1993-10-20" withdrawn="1993-11-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-20"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-10-26"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Air traffic controllers"/>
+		<term name="Annuities"/>
+		<term name="Civil service pensions"/>
+		<term name="Civil service retirement"/>
+		<term name="Congress"/>
+		<term name="Congressional salaries and pensions"/>
+		<term name="Criminal justice"/>
+		<term name="Early retirement"/>
+		<term name="Fire fighters"/>
+		<term name="Government employees"/>
+		<term name="Law enforcement officers"/>
+		<term name="Mandatory retirement"/>
+		<term name="Police"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/20/1993--Introduced.
+Federal Retirement Reform Act - Revises age and service requirements for entitlement to an immediate annuity under the Civil Service and Federal Employees' Retirement Systems; eliminates such requirements specific to Members of Congress; and makes other changes in service requirements with regard to immediate annuity entitlement and mandatory separation with respect to fire fighters, law enforcement officers, and air traffic controllers.
+
+	</summary>
+</bill>

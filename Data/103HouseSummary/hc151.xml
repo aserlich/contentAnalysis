@@ -1,0 +1,130 @@
+<bill session="103" type="hc" number="151" updated="2012-07-17T04:49:39-04:00">
+	<state datetime="1994-07-25T13:05:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-07-25T13:05:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-09-23"/>
+	<titles>
+		<title type="official" as="introduced">Concerning the movement toward democracy in the Federal Republic of Nigeria.</title>
+	</titles>
+	<sponsor id="400312"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1993-09-23"/>
+		<cosponsor id="406466" joined="1993-09-23"/>
+		<cosponsor id="400532" joined="1993-09-23"/>
+		<cosponsor id="400409" joined="1993-09-23"/>
+		<cosponsor id="400240" joined="1993-09-23"/>
+		<cosponsor id="406277" joined="1993-09-23"/>
+		<cosponsor id="404213" joined="1993-09-23"/>
+		<cosponsor id="400438" joined="1993-09-23"/>
+		<cosponsor id="400513" joined="1993-09-23"/>
+		<cosponsor id="404220" joined="1993-09-23"/>
+		<cosponsor id="400543" joined="1993-09-23"/>
+		<cosponsor id="402763" joined="1993-09-23"/>
+		<cosponsor id="400183" joined="1993-09-23"/>
+		<cosponsor id="401494" joined="1993-09-23"/>
+		<cosponsor id="400580" joined="1993-09-23"/>
+		<cosponsor id="400238" joined="1993-09-23"/>
+		<cosponsor id="403364" joined="1993-09-23"/>
+		<cosponsor id="400256" joined="1993-09-23"/>
+		<cosponsor id="405775" joined="1993-09-23"/>
+		<cosponsor id="410407" joined="1993-09-23"/>
+		<cosponsor id="405258" joined="1993-09-23"/>
+		<cosponsor id="400262" joined="1993-09-23"/>
+		<cosponsor id="402626" joined="1993-09-23"/>
+		<cosponsor id="400048" joined="1993-09-23"/>
+		<cosponsor id="400350" joined="1993-09-23"/>
+		<cosponsor id="409154" joined="1993-09-23"/>
+		<cosponsor id="400291" joined="1993-09-23"/>
+		<cosponsor id="400201" joined="1993-09-23"/>
+		<cosponsor id="400030" joined="1993-09-23"/>
+		<cosponsor id="300087" joined="1993-09-23"/>
+		<cosponsor id="401774" joined="1993-09-23"/>
+		<cosponsor id="400223" joined="1993-09-23"/>
+		<cosponsor id="400333" joined="1993-09-23"/>
+		<cosponsor id="404139" joined="1993-09-23"/>
+		<cosponsor id="400364" joined="1993-09-23"/>
+		<cosponsor id="400314" joined="1993-09-23"/>
+		<cosponsor id="407399" joined="1993-09-23"/>
+		<cosponsor id="411488" joined="1993-09-23"/>
+		<cosponsor id="400520" joined="1993-09-23"/>
+		<cosponsor id="410974" joined="1993-09-23"/>
+		<cosponsor id="400554" joined="1993-09-23"/>
+		<cosponsor id="407672" joined="1993-09-23"/>
+		<cosponsor id="400170" joined="1993-09-23"/>
+		<cosponsor id="400001" joined="1993-09-23"/>
+		<cosponsor id="400502" joined="1993-09-23"/>
+		<cosponsor id="411166" joined="1993-09-23"/>
+		<cosponsor id="400306" joined="1993-09-23"/>
+		<cosponsor id="400103" joined="1993-09-23"/>
+		<cosponsor id="408556" joined="1993-09-23"/>
+		<cosponsor id="404067" joined="1993-09-23"/>
+		<cosponsor id="400160" joined="1993-09-23"/>
+		<cosponsor id="400402" joined="1993-09-23"/>
+		<cosponsor id="400283" joined="1993-09-23"/>
+		<cosponsor id="400204" joined="1993-09-23"/>
+		<cosponsor id="408661" joined="1993-09-23"/>
+		<cosponsor id="400080" joined="1993-09-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-23" state="REFERRED"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-09-23" state="REPORTED"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-10-01"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-10-05" state="REFERRED"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Africa.</text></action>
+		<action datetime="1993-11-16"><committee name="House Committee on Foreign Affairs" subcommittee="Africa"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-11-16"><committee name="House Committee on Foreign Affairs" subcommittee="Africa"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1994-01-24"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Requested from State.</text></action>
+		<action datetime="1994-04-21"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Received from State.</text></action>
+		<action datetime="1994-07-19"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-07-19"  state="REPORTED"><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-07-25T12:58:00-04:00"><text>Mr. Payne (NJ) moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action datetime="1994-07-25T12:58:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6173-6174"/></action>
+		<action datetime="1994-07-25T12:59:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-07-25T13:05:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-07-25T13:06:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-07-26"><text>Received in the Senate and read twice and referred to the Committee on Foreign Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Africa" activity="Referral, Markup, Reporting" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Africa (Sub-Saharan)"/>
+		<term name="American economic assistance"/>
+		<term name="American military assistance"/>
+		<term name="American technical assistance"/>
+		<term name="Arrest"/>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Democracy"/>
+		<term name="Detention of persons"/>
+		<term name="Dissenters"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Freedom of speech"/>
+		<term name="Freedom of the press"/>
+		<term name="Government operations and politics"/>
+		<term name="Human rights"/>
+		<term name="International agencies"/>
+		<term name="Military regimes"/>
+		<term name="Multilateral development banks"/>
+		<term name="Nigeria"/>
+		<term name="Political prisoners"/>
+		<term name="Recognition (International law)"/>
+		<term name="Sanctions (International law)"/>
+		<term name="Travel"/>
+		<term name="United Nations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/25/1994--Passed House amended. Supports the Nigerian people in their commitment to unity and democracy and in their insistence on the return to full civilian and democratic rule. Endorses the steps taken by President Clinton to demonstrate U.S. opposition to the annulment of the June 1993 election and encourages additional measures to encourage the restoration of democratic and civilian rule in Nigeria. Condemns the recent arrests by the Nigerian military of political leaders and democracy advocates and restrictions on freedom of expression. Urges General Abacha and the provisional ruling council in Nigeria to: (1) restore freedom of the press, respect human rights, and restore the independence and authority of the judiciary; (2) release political leaders and human rights activists who have been arrested or detained; (3) set up a rapid timetable for the restoration of civilian and democratic rule; and (4) positively respond to U.S. and international efforts to encourage the restoration of democracy.
+
+	</summary>
+</bill>

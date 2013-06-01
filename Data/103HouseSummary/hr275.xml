@@ -1,0 +1,44 @@
+<bill session="103" type="hr" number="275" updated="2010-04-19T13:41:55-04:00">
+	<state datetime="1993-10-19T14:42:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-10-19T14:42:00-04:00" where="h" result="pass" how="roll" roll="512"/></status>
+
+	<introduced datetime="1993-10-13"/>
+	<titles>
+		<title type="official" as="introduced">Waiving points of order against the conference report to accompany the bill (H.R. 2491) making appropriations for the Departments of Veterans Affairs and Housing and Urban Development, and for sundry independent agencies, boards, commissions, corporations, and offices for the fiscal year ending September 30, 1994, and for other purposes.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-13T19:06:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-289, by Ms. Slaughter.</text></action>
+		<action datetime="1993-10-13T19:06:00-04:00"><text>Rule provides for consideration of the conference report to H.R. 2491. All points of order against the conference report are waived. The conference report, amendments in disagreement, and motions printed in the joint explanatory statement of the committee of conference to dispose of amendments in disagreement shall be considered as read. It shall be in order for Mr. Stokes of Ohio or a designee to move that the House recede from its disagrement to the amendment of the Senate numbered 113 and concur therein with the amendment printed in section 2 of H. Res. 275.</text></action>
+		<calendar datetime="1993-10-13T19:06:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 100.</text></calendar>
+		<action datetime="1993-10-19T11:35:00-04:00"><text>Considered as privileged matter.</text></action>
+		<action datetime="1993-10-19T11:36:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-10-19T12:01:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<action datetime="1993-10-19T12:01:00-04:00"><text>At the conclusion of debate, the Chair put the question on the motion on the resolution and announced that the Ayes had prevailed. Mr. Dreier objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1993-10-19T14:22:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8104-8107, H8126"/></action>
+		<vote how="roll" type="vote" roll="512" datetime="1993-10-19T14:42:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by recorded vote: 273 - 151 (Roll no. 512).</text></vote>
+		<action datetime="1993-10-19T14:42:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2491" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Appropriations"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/13/1993--Introduced.
+Waives points of order against the consideration of the conference report on H.R. 2491 (FY 1994 appropriations for the Departments of Veterans Affairs and Housing and Urban Development and certain independent agencies and entities).
+
+	</summary>
+</bill>

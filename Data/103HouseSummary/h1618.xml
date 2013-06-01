@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="1618" updated="2010-04-19T03:24:08-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to permit direct payment under the medicare program for services of registered nurses as assistants at surgery.</title>
+	</titles>
+	<sponsor id="402763"/>
+	<cosponsors>
+		<cosponsor id="400170" joined="1994-02-01"/>
+		<cosponsor id="400226" joined="1993-09-09"/>
+		<cosponsor id="400572" joined="1994-04-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-04-08"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-04-26"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Nurses"/>
+		<term name="Nursing"/>
+		<term name="Physicians' assistants"/>
+		<term name="Surgery"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to cover, on an assigned basis, the services of registered nurses as assistants at surgery under Medicare part B (Supplementary Medical Insurance). Directs the Secretary of Health and Human Services to recommend to the Congress adjustments in part B payments so that they approximate the costs of the services of physician assistants and registered nurses as assistants at surgery.
+
+	</summary>
+</bill>

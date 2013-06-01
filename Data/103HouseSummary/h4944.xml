@@ -1,0 +1,100 @@
+<bill session="103" type="h" number="4944" updated="2010-04-19T12:02:16-04:00">
+	<state datetime="1994-10-03T20:08:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-03T20:08:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-08-11"/>
+	<titles>
+		<title type="short" as="introduced">Water Desalination Act of 1994</title>
+		<title type="short" as="passed house">Water Desalination Act of 1994</title>
+		<title type="official" as="introduced">To authorize the Secretary of the Interior to conduct studies regarding the desalination of water and water reuse, and for other purposes.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+		<cosponsor id="403314" joined="1994-09-19"/>
+		<cosponsor id="409205" joined="1994-08-17"/>
+		<cosponsor id="403545" joined="1994-08-17"/>
+		<cosponsor id="400144" joined="1994-08-11"/>
+		<cosponsor id="406343" joined="1994-08-26"/>
+		<cosponsor id="404978" joined="1994-08-11"/>
+		<cosponsor id="406729" joined="1994-10-03"/>
+		<cosponsor id="401446" joined="1994-08-11"/>
+		<cosponsor id="400314" joined="1994-08-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-11"><text>Sponsor introductory remarks on measure. (CR E1711)</text></action>
+		<action datetime="1994-08-11"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-08-11"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1994-08-15"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Science.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on Natural Resources"/><text>Late Referral to the Subcommittee on Oversight and Investigations (Nov 21, 94).</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T20:04:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-821, Part I.</text></action>
+		<action datetime="1994-10-03T20:05:00-04:00"><text>Mr. Miller (CA) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-03T20:05:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10628-10630"/></action>
+		<action datetime="1994-10-03T20:05:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-10-03T20:08:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-03T20:08:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<calendar under="General Orders" number="713" datetime="1994-10-04" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 713.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral" />
+		<committee code="HSSY-14" name="House Science, Space and Technology" subcommittee="Science" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="617" />
+		<bill relation="unknown" session="103" type="s" number="617" />
+	</relatedbills>
+	<subjects>
+		<term name="Water"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="California"/>
+		<term name="Conferences"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Droughts"/>
+		<term name="Economic policy"/>
+		<term name="Economic surveys"/>
+		<term name="Emergency management"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Environmental protection"/>
+		<term name="Environmental research"/>
+		<term name="Federal aid to research"/>
+		<term name="Federal aid to water pollution control"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Government lending"/>
+		<term name="Groundwater"/>
+		<term name="Hydroelectric power"/>
+		<term name="International affairs"/>
+		<term name="International cooperation"/>
+		<term name="Marketing"/>
+		<term name="Public contracts"/>
+		<term name="Research grants"/>
+		<term name="Saline water conversion"/>
+		<term name="Science policy"/>
+		<term name="Sewage treatment plants"/>
+		<term name="Solid wastes"/>
+		<term name="Technological innovations"/>
+		<term name="Technology"/>
+		<term name="Waste disposal in the ocean"/>
+		<term name="Waste water treatment"/>
+		<term name="Water conservation"/>
+		<term name="Water districts"/>
+		<term name="Water pollution"/>
+		<term name="Water quality"/>
+		<term name="Water resources"/>
+		<term name="Water resources development"/>
+		<term name="Water supply"/>
+		<term name="Water treatment plants"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Passed House amended. Water Desalination Act of 1994 - Authorizes the Secretary of the Interior to award grants and enter into contracts to conduct, encourage, and assist in the financing of research to develop processes for converting saline or contaminated water into water suitable for beneficial uses. Directs the Secretary to recommend desalination projects to the Congress and to conduct a demonstration and development program for water desalination and related activities. Directs the Secretary to plan and host a desalination conference for the United States and other nations that use or conduct desalination research. Limits Federal funding for projects to 50 percent of the total cost. Authorizes appropriations for FY 1996 through 1999. Amends the Reclamation States Emergency Drought Relief Act of 1991 to authorize the Secretary to make a loan to the Madera-Chowchilla Power Authority to assist in the repayment of financial obligations associated with hydroelectric facilities adversely affected by drought conditions. Amends the Reclamation Projects Authorization and Adjustment Act of 1992 to authorize the Secretary to participate with the Orange County, California, Water District in the planning, design, and construction of specified water reclamation projects. Limits to 25 percent the Secretary's share of project costs. Authorizes appropriations.
+
+	</summary>
+</bill>

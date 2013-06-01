@@ -1,0 +1,44 @@
+<bill session="103" type="s" number="1570" updated="2012-07-17T06:00:19-04:00">
+	<state datetime="1993-10-20">REFERRED</state>
+	<status><introduced datetime="1993-10-20"/></status>
+
+	<introduced datetime="1993-10-20"/>
+	<titles>
+		<title type="short" as="introduced">Domestic Violence Firearm Prevention Act</title>
+		<title type="official" as="introduced">A bill to amend title 18, United States Code, to prevent persons who have committed domestic abuse from obtaining a firearm.</title>
+	</titles>
+	<sponsor id="400566"/>
+	<cosponsors>
+		<cosponsor id="300064" joined="1994-09-23"/>
+		<cosponsor id="409917" joined="1994-07-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-20" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S14011-14012)</text></action>
+		<action datetime="1993-10-20" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1994-06-23"><text>Sponsor introductory remarks on measure. (CR S7481)</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3301" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Ammunition"/>
+		<term name="Families"/>
+		<term name="Family violence"/>
+		<term name="Firearms"/>
+		<term name="Firearms control"/>
+		<term name="Wife abuse"/>
+		<term name="Women"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/20/1993--Introduced.
+Domestic Violence Firearm Prevention Act - Amends the Federal criminal code to prohibit the sale or other disposal of firearms or ammunition to, or the receipt of firearms or ammunition by, persons convicted of offenses involving domestic abuse.
+
+	</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="3066" updated="2010-04-19T07:09:08-04:00">
+	<state datetime="1993-09-14">REFERRED</state>
+	<status><introduced datetime="1993-09-14"/></status>
+
+	<introduced datetime="1993-09-14"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 10, United States Code, to provide congressional consent for the employment of retired members of the Armed Forces of the United States by governments of newly democratic nations.</title>
+	</titles>
+	<sponsor id="300062"/>
+	<cosponsors>
+		<cosponsor id="410147" joined="1993-09-28"/>
+		<cosponsor id="300038" joined="1993-09-14"/>
+		<cosponsor id="400140" joined="1993-09-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-14"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-09-17"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-09-17"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Americans employed in foreign countries"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Defense policy"/>
+		<term name="Democracy"/>
+		<term name="Military pay"/>
+		<term name="Military pensions"/>
+		<term name="Retired military personnel"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/14/1993--Introduced.
+Provides congressional consent to the employment of retired U.S. military personnel in the armed forces of newly democratic nations, without any loss in military retired pay and other applicable benefits.
+
+	</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="103" type="h" number="1212" updated="2010-04-19T02:19:09-04:00">
+	<state datetime="1993-03-03">REFERRED</state>
+	<status><introduced datetime="1993-03-03"/></status>
+
+	<introduced datetime="1993-03-03"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the 80 percent limitation on the amount of business meal and entertainment expenses which are deductible.</title>
+	</titles>
+	<sponsor id="411178"/>
+	<cosponsors>
+		<cosponsor id="411725" joined="1993-10-28"/>
+		<cosponsor id="400516" joined="1993-10-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-03"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Food"/>
+		<term name="Recreation"/>
+		<term name="Tax deductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/3/1993--Introduced.
+Amends the Internal Revenue Code to repeal the 80 percent limitation on the amount of business meal and entertainment expenses which are tax deductible.
+
+	</summary>
+</bill>

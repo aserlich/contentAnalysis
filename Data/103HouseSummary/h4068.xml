@@ -1,0 +1,65 @@
+<bill session="103" type="h" number="4068" updated="2010-04-19T09:45:08-04:00">
+	<state datetime="1994-03-17">REFERRED</state>
+	<status><introduced datetime="1994-03-17"/></status>
+
+	<introduced datetime="1994-03-17"/>
+	<titles>
+		<title type="short" as="introduced">California Forest Ecosystems Health Act</title>
+		<title type="official" as="introduced">To improve the health and productivity of National Forest System lands in the State of California and to demonstrate the use of ecosystem management as a practical management program on such lands.</title>
+	</titles>
+	<sponsor id="406729"/>
+	<cosponsors>
+		<cosponsor id="400113" joined="1994-07-26"/>
+		<cosponsor id="404013" joined="1994-07-26"/>
+		<cosponsor id="400176" joined="1994-06-24"/>
+		<cosponsor id="400112" joined="1994-06-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-17"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-03-17"><committee name="House Committee on Agriculture"/><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-03-23"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+		<action datetime="1994-04-27"><committee name="House Committee on Natural Resources" subcommittee="Specialty Crops and Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1994-05-25"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Executive Comment Requested from USDA.</text></action>
+		<action datetime="1994-10-06"><committee name="House Committee on Agriculture" subcommittee="Specialty Crops and Natural Resources"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral, Hearings" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Forests and forestry"/>
+		<term name="Animals"/>
+		<term name="Budgets"/>
+		<term name="California"/>
+		<term name="Disasters"/>
+		<term name="Ecological research"/>
+		<term name="Ecosystem management"/>
+		<term name="Emergency management"/>
+		<term name="Environmental monitoring"/>
+		<term name="Environmental protection"/>
+		<term name="Federal budgets"/>
+		<term name="Forest conservation"/>
+		<term name="Forest ecology"/>
+		<term name="Forest fires"/>
+		<term name="Forest management"/>
+		<term name="Habitat conservation"/>
+		<term name="Licenses"/>
+		<term name="National forests"/>
+		<term name="Natural resources"/>
+		<term name="Planning"/>
+		<term name="Public lands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/17/1994--Introduced.
+California Forest Ecosystems Health Act - Directs the Secretary of Agriculture to develop and implement ecosystem management plans for National Forest System lands in California.
+
+	</summary>
+</bill>

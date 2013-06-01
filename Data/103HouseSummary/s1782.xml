@@ -1,0 +1,72 @@
+<bill session="103" type="s" number="1782" updated="2012-07-17T06:06:48-04:00">
+	<state datetime="1994-08-25">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-08-25" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-11-23"/>
+	<titles>
+		<title type="short" as="introduced">Electronic Freedom of Information Improvement Act of 1993</title>
+		<title type="short" as="passed senate">Electronic Freedom of Information Improvement Act of 1994</title>
+		<title type="official" as="introduced">A bill to amend title 5, United States Code, to provide for public access to information in an electronic format, to amend the Freedom of Information Act, and for other purposes.</title>
+		<title type="official" as="amended by senate">An Act to amend section 552, of title 5, United States Code (commonly known as the Freedom of Information Act), to provide for public access to information in an electronic format, and for other purposes.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="401874" joined="1993-11-23"/>
+		<cosponsor id="300060" joined="1994-04-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-23" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S17056-17058)</text></action>
+		<action datetime="1993-11-23" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1994-02-03"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Technology and the Law.</text></action>
+		<calendar datetime="1994-08-11"  state="REPORTED"><committee name="Committee on Judiciary"/><text>Committee on Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-08-22"><text>Committee on Judiciary. Reported to Senate by Senator Biden with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="594" datetime="1994-08-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 594.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-08-25" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text><reference label="consideration" ref="CR S12646-12647"/></vote>
+		<action datetime="1994-09-12T12:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-09-12"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-09-12"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-09-14"><text>By Senator Biden from Committee on Judiciary filed written report. Report No. 103-365.</text></action>
+		<action datetime="1994-09-15"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Information, Justice, Transportation and Agriculture.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Judiciary" subcommittee="Technology and the Law" activity="Referral" />
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Information, Justice, Transportation, and Agriculture" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4917" />
+	</relatedbills>
+	<subjects>
+		<term name="Information services"/>
+		<term name="Administrative fees"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Computers and government"/>
+		<term name="Congress"/>
+		<term name="Congressional investigations"/>
+		<term name="Data banks"/>
+		<term name="Due process of law"/>
+		<term name="Economics and public finance"/>
+		<term name="Electronic data processing"/>
+		<term name="Electronic publishing"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Freedom of information"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Government publicity"/>
+		<term name="Law"/>
+		<term name="Legal fees"/>
+		<term name="Public records"/>
+		<term name="Science, technology, communications"/>
+		<term name="User charges"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/25/1994--Passed Senate amended. Electronic Freedom of Information Improvement Act of 1994 - Amends the Freedom of Information Act (FOIA) to: (1) direct agencies to publish by computer telecommunications, or other electronic means if such communications are not available, all information required to be published in the Federal Register; (2) include among such required information a list of all statutes authorizing the agency to withhold information under such Act; (3) require reasonable efforts by the agency to provide records in an electronic format even when such records are not usually maintained in such format; (4) credit to agencies which have been found to be responsive to FOIA requests a percentage of the fees collected from such requests to offset compliance costs, at an agency's request; (5) provide for Government payment of the requester's out-of-pocket expenses in any case in which the agency has failed to comply with the FOIA request within prescribed time limits; (6) require an agency which violates such time limits to demonstrate that delay was warranted; (7) preclude treatment of routine agency backlogs as unusual circumstances warranting extension of time limits; (8) require denial notifications to specify the total number of denied records and pages considered in responding to the FOIA request; (9) mandate an agency first-in, first-out (FIFO) processing policy to determine the order in which requests are processed, allowing separate processing tracks for simple and complex requests; (10) mandate agency regulations governing FOIA requests for expedited access; (11) require deletions to be indicated on the released portion of the record where they were made; and (12) define &quot;record&quot; to include electronic information and &quot;search&quot; to include an automated examination to locate records.
+
+	</summary>
+</bill>

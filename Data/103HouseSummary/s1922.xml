@@ -1,0 +1,35 @@
+<bill session="103" type="s" number="1922" updated="2012-07-17T04:48:27-04:00">
+	<state datetime="1994-03-10">REFERRED</state>
+	<status><introduced datetime="1994-03-10"/></status>
+
+	<introduced datetime="1994-03-10"/>
+	<titles>
+		<title type="official" as="introduced">A bill to suspend temporarily the duty on ACM.</title>
+	</titles>
+	<sponsor id="409225"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-10" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4020" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Chemicals"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/10/1994--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1998, the duty on 3-(acetoxy)-3-cyanoproply)methyl-phophinicaid, 2- methylproply ester (also known as ACM).
+
+	</summary>
+</bill>

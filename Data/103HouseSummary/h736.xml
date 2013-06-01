@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="736" updated="2010-04-19T00:58:22-04:00">
+	<state datetime="1993-02-02">REFERRED</state>
+	<status><introduced datetime="1993-02-02"/></status>
+
+	<introduced datetime="1993-02-02"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to exclude from gross income the qualified military benefits received by retired military personnel serving as administrators or instructors in the Junior Reserve Officers' Training Corps.</title>
+	</titles>
+	<sponsor id="400331"/>
+	<cosponsors>
+		<cosponsor id="410147" joined="1993-02-02"/>
+		<cosponsor id="410529" joined="1993-02-24"/>
+		<cosponsor id="400397" joined="1993-05-20"/>
+		<cosponsor id="404634" joined="1993-02-24"/>
+		<cosponsor id="408109" joined="1993-03-16"/>
+		<cosponsor id="404587" joined="1993-02-02"/>
+		<cosponsor id="400603" joined="1993-02-02"/>
+		<cosponsor id="400261" joined="1993-03-16"/>
+		<cosponsor id="407838" joined="1993-02-02"/>
+		<cosponsor id="400055" joined="1993-02-24"/>
+		<cosponsor id="403545" joined="1993-02-24"/>
+		<cosponsor id="404097" joined="1993-04-22"/>
+		<cosponsor id="411065" joined="1993-04-22"/>
+		<cosponsor id="404520" joined="1993-02-24"/>
+		<cosponsor id="408476" joined="1993-02-02"/>
+		<cosponsor id="409633" joined="1993-02-02"/>
+		<cosponsor id="406790" joined="1993-02-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-02"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Select Revenue Measures.</text></action>
+		<action datetime="1993-06-17"><committee name="House Committee on Ways and Means" subcommittee="Select Revenue Measures"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-05" name="House Ways and Means" subcommittee="Select Revenue Measures" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Armed forces reserves"/>
+		<term name="Military pay"/>
+		<term name="Military training"/>
+		<term name="Retired military personnel"/>
+		<term name="Retirement income"/>
+		<term name="Tax exclusion"/>
+		<term name="Teachers"/>
+		<term name="Veterans' employment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1993--Introduced.
+Amends the Internal Revenue Code to exclude from gross income the qualified military benefits of retired military personnel employed as administrators or instructors in the Junior Reserve Officers' Training Corps.
+
+	</summary>
+</bill>

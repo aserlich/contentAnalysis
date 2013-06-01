@@ -1,0 +1,57 @@
+<bill session="103" type="hc" number="33" updated="2010-04-18T21:05:43-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress that any health insurance reform bill that is enacted should require that family and temporary medical leave be incorporated as a basic or elective option for plan participants under certain circumstances.</title>
+	</titles>
+	<sponsor id="400211"/>
+	<cosponsors>
+		<cosponsor id="401494" joined="1993-03-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03"><text>Sponsor introductory remarks on measure. (CR E255)</text></action>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-02-03"><text>Referred jointly to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-09"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Adoption"/>
+		<term name="Childbirth"/>
+		<term name="Foster home care"/>
+		<term name="Health insurance"/>
+		<term name="Leave of absence"/>
+		<term name="Legislation"/>
+		<term name="Maternity leave"/>
+		<term name="Parental leave"/>
+		<term name="Sick leave"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Declares that it is the sense of the Congress that any Act to address the health insurance needs of the American people should require that paid or unpaid leave be incorporated as a basic or elective option for specified events.
+
+	</summary>
+</bill>

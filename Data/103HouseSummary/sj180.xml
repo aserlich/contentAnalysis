@@ -1,0 +1,49 @@
+<bill session="103" type="sj" number="180" updated="2010-04-19T21:51:39-04:00">
+	<state datetime="1994-04-14">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-04-14" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-04-14"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution to provide for the appointment of an executive secretary for the United States Capitol Preservation Commission, and for other purposes.</title>
+	</titles>
+	<sponsor id="300016"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1994-04-14" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S4357"/></vote>
+		<action datetime="1994-04-14T17:29:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-04-14"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-04-14T17:53:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-10-07"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-12-06"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal officials"/>
+		<term name="Capitol (Washington, D.C.)"/>
+		<term name="Commemorations"/>
+		<term name="Congress"/>
+		<term name="District of Columbia"/>
+		<term name="Executive departments"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Government employees"/>
+		<term name="Historic sites"/>
+		<term name="History"/>
+		<term name="Public buildings"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/14/1994--Introduced.
+Amends the Arizona-Idaho Conservation Act of 1988 to authorize the co-chairmen of the United States Capitol Preservation Commission to jointly appoint an executive secretary of the Commission.
+
+	</summary>
+</bill>

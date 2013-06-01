@@ -1,0 +1,37 @@
+<bill session="103" type="hj" number="31" updated="2010-04-18T21:55:46-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to limit the terms of office for Members of Congress.</title>
+	</titles>
+	<sponsor id="405033"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional terms of office"/>
+		<term name="Constitutional amendments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Constitutional Amendment - Prohibits a Member of the House of Representatives from serving more than four full terms in the House and a Senator from serving more than two full terms in the Senate (excluding any part of a partial term to which the person may have been elected or appointed).
+
+	</summary>
+</bill>

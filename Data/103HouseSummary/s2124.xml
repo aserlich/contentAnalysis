@@ -1,0 +1,51 @@
+<bill session="103" type="s" number="2124" updated="2012-07-17T05:23:51-04:00">
+	<state datetime="1994-09-21">REPORTED</state>
+	<status><calendar datetime="1994-09-21" /></status>
+
+	<introduced datetime="1994-05-17"/>
+	<titles>
+		<title type="short" as="introduced">Mancos Project Private Power Development Authorization Act of 1994</title>
+		<title type="official" as="introduced">A bill to provide development of power at the Mancos Project and for other purposes.</title>
+	</titles>
+	<sponsor id="300017"/>
+	<cosponsors>
+		<cosponsor id="401874" joined="1994-05-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-17" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5838-5843)</text></action>
+		<action datetime="1994-05-17" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-05-18"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Water and Power.</text></action>
+		<action datetime="1994-06-14"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-06-28"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Water and Power. Hearings held. Hearings printed: S.Hrg. 103-844.</text></action>
+		<calendar datetime="1994-09-21"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-09-26"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 103-379.</text></action>
+		<calendar under="General Orders" number="633" datetime="1994-09-26" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 633.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-3" name="Senate Energy and Natural Resources" subcommittee="Water and Power" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4523" />
+	</relatedbills>
+	<subjects>
+		<term name="Energy"/>
+		<term name="Colorado"/>
+		<term name="Energy policy"/>
+		<term name="Government operations and politics"/>
+		<term name="Hydroelectric power"/>
+		<term name="Infrastructure"/>
+		<term name="Leases"/>
+		<term name="Reservoirs"/>
+		<term name="Water districts"/>
+		<term name="Water resources development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/17/1994--Introduced.
+Mancos Project Private Power Development Authorization Act of 1994 - Authorizes the Secretary of Energy to enter into a lease of power privileges at the Mancos Project, Colorado, with the Mancos Water Conservancy District for a maximum period of 40 years. States that: (1) moneys derived from such lease shall be covered into a certain reclamation fund; and (2) the Mancos Water Conservancy District may receive revenues from the sale of the power generated at the project.
+
+	</summary>
+</bill>

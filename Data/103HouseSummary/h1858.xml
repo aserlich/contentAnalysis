@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="1858" updated="2010-04-19T04:01:51-04:00">
+	<state datetime="1993-04-26">REFERRED</state>
+	<status><introduced datetime="1993-04-26"/></status>
+
+	<introduced datetime="1993-04-26"/>
+	<titles>
+		<title type="official" as="introduced">To terminate new water projects of the Bureau of Reclamation, and for other purposes.</title>
+	</titles>
+	<sponsor id="400649"/>
+	<cosponsors>
+		<cosponsor id="408553" joined="1994-02-02"/>
+		<cosponsor id="412001" joined="1993-11-18"/>
+		<cosponsor id="411997" joined="1993-11-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-26"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-06-02"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Oversight and Investigations" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2039" />
+		<bill relation="unknown" session="103" type="h" number="2039" />
+	</relatedbills>
+	<subjects>
+		<term name="Water"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cost effectiveness"/>
+		<term name="Federal budgets"/>
+		<term name="Federal-local relations"/>
+		<term name="Government service contracts"/>
+		<term name="Government spending reductions"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="Irrigation"/>
+		<term name="Reclamation of land"/>
+		<term name="User charges"/>
+		<term name="Water districts"/>
+		<term name="Water rates"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/26/1993--Introduced.
+Prohibits the Secretary of the Interior from designing, constructing, or acquiring interests in land for any unit of a reclamation project for which funds have not been previously appropriated and obligated. Authorizes the Secretary to suspend design and construction activities of a project the continuance of which would result in a net loss to the United States. Directs the Secretary to: (1) transfer the operation, maintenance, and replacement of reclamation projects to the water districts which benefit from them; (2) contract for the management of any reclamation project not so transferred; and (3) study and report to the Congress on the true value of water provided from water reclamation projects.
+
+	</summary>
+</bill>

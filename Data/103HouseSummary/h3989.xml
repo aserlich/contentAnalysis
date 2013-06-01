@@ -1,0 +1,90 @@
+<bill session="103" type="h" number="3989" updated="2010-04-19T09:32:40-04:00">
+	<state datetime="1994-03-09">REFERRED</state>
+	<status><introduced datetime="1994-03-09"/></status>
+
+	<introduced datetime="1994-03-09"/>
+	<titles>
+		<title type="official" as="introduced">To reduce domestic and defense discretionary spending.</title>
+	</titles>
+	<sponsor id="400370"/>
+	<cosponsors>
+		<cosponsor id="400140" joined="1994-03-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-09"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-03-09"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-03-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-03-09"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1994-03-14"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Acquisition.</text></action>
+		<action datetime="1994-03-14"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Research and Technology.</text></action>
+		<action datetime="1994-03-14"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1994-03-29"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Energy.</text></action>
+		<action datetime="1994-03-29"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Space.</text></action>
+		<action datetime="1994-04-26"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Energy and Power.</text></action>
+		<action datetime="1994-04-27"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Energy and Mineral Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Acquisition" activity="Referral" />
+		<committee code="" name="House Armed Services" subcommittee="Research and Technology" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="HSIF-03" name="House Energy and Commerce" subcommittee="Energy and Power" activity="Referral" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-06" name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Referral" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Energy" activity="Referral" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Space" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Antimissile missiles"/>
+		<term name="Appropriations"/>
+		<term name="Armed forces abroad"/>
+		<term name="Authorization"/>
+		<term name="Ballistic missile defenses"/>
+		<term name="Breeder reactors"/>
+		<term name="Budgets"/>
+		<term name="Defense budgets"/>
+		<term name="Defense burdensharing"/>
+		<term name="Defense economics"/>
+		<term name="Defense policy"/>
+		<term name="Department of Defense"/>
+		<term name="Department of Energy"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Energy research"/>
+		<term name="Environmental protection"/>
+		<term name="Europe"/>
+		<term name="Executive departments"/>
+		<term name="Executive impoundment of appropriated funds"/>
+		<term name="Federal aid to research"/>
+		<term name="Foreign policy"/>
+		<term name="Government spending reductions"/>
+		<term name="Hazardous substances"/>
+		<term name="International finance"/>
+		<term name="Military bases"/>
+		<term name="Military posture"/>
+		<term name="Military research"/>
+		<term name="NATO countries"/>
+		<term name="NATO military forces"/>
+		<term name="National Aeronautics and Space Administration"/>
+		<term name="Radioactive wastes"/>
+		<term name="Research and development"/>
+		<term name="Science policy"/>
+		<term name="Solid wastes"/>
+		<term name="Space activities"/>
+		<term name="Space stations"/>
+		<term name="Weapons systems"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/9/1994--Introduced.
+Cancels the Space Station program of the National Aeronautics and Space Administration (NASA). Authorizes appropriations to the NASA Director for termination costs and authorizes FY 1994 through 1998 appropriations to carry out NASA responsibilities. Rescinds funds authorized for the Space Station program under prior law. Rescinds funds authorized in the Department of Defense Appropriations Act, 1994 for the Ballistic Missile Defense program. Reduces for each of FY 1995 through 1998 the total amount authorized to the Department of Defense for such program. Directs the Secretary of Energy to terminate the Department of Energy's advanced liquid metal reactor program. Rescinds FY 1994 and prior year funds for such program. Changes the effective date of the requirement for a reduction to 100,000 in the number of U.S. military personnel stationed in Europe from October 1, 1995, to October 1, 1994. Requires certain further end strength reductions in personnel assigned to European member nations of NATO, providing a reduction formula and annual reduction goals based on allied contributions toward nonpersonnel costs for U.S. military installations in such nations. Allows an end strength of at least 25,000 U.S. personnel to be maintained in such nations.
+
+	</summary>
+</bill>

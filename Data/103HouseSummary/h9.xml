@@ -1,0 +1,63 @@
+<bill session="103" type="h" number="9" updated="2010-04-18T23:01:17-04:00">
+	<state datetime="1994-07-22">REPORTED</state>
+	<status><calendar datetime="1994-07-22" /></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Insurance Competitive Pricing Act of 1993</title>
+		<title type="short" as="reported to house">Insurance Competitive Pricing Act of 1994</title>
+		<title type="official" as="introduced">To modify the antitrust exemption applicable to the business of insurance.</title>
+	</titles>
+	<sponsor id="401837"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-04-21"/>
+		<cosponsor id="403364" joined="1994-09-26"/>
+		<cosponsor id="406082" joined="1993-07-30"/>
+		<cosponsor id="403776" joined="1993-01-06"/>
+		<cosponsor id="402762" joined="1993-04-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1993-07-29"><committee name="House Committee on Judiciary" subcommittee="Economic and Commercial Law"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-07-19"><committee name="House Committee on Judiciary" subcommittee="Economic and Commercial Law"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-07-19"><committee name="House Committee on Judiciary" subcommittee="Economic and Commercial Law"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1994-07-22"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-07-22"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1994-10-07T20:58:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-853.</text></action>
+		<calendar number="470" datetime="1994-10-07T20:59:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 470.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Antitrust law"/>
+		<term name="Building laws"/>
+		<term name="Business"/>
+		<term name="Conferences"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Finance"/>
+		<term name="Insurance agents"/>
+		<term name="Insurance companies"/>
+		<term name="Labor"/>
+		<term name="Monopolies"/>
+		<term name="Price fixing"/>
+		<term name="Restrictive trade practices"/>
+		<term name="Risk assessment"/>
+		<term name="Trade"/>
+		<term name="Trade associations"/>
+		<term name="Workers' compensation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1994--Reported to House amended. Insurance Competitive Pricing Act of 1994 - Amends the McCarran-Ferguson Act to eliminate the antitrust exemption applicable to the business of insurance, except with respect to specified activities including conduct involving: (1) historical loss data; (2) loss development; (3) standard policy forms; (4) insurance manuals; (5) public necessity market mechanisms; (6) historical underwriting capacity risk pools; (7) building inspections; (8) worker's compensation experience rating; (9) trending (i.e., the projection of developed losses to estimate current and future risks of loss) during a three-year transition period; (10) educational activities of a national or affiliated State trade association whose members are insurance agents; and (11) independent reports by an agent to a local trade association. Specifies that, subsequent to the transition period, the independent purchase of a trend factor by a person engaged in the business of insurance from a person not engaged in providing insurance (and not affiliated with a person engaged in providing insurance) shall be presumed not to violate the antitrust laws. Preserves current law regarding applicability of the non-antitrust aspects of the Federal Trade Commission Act to the business of insurance. Directs the Attorney General to: (1) publish in the Federal Register, and make available to the public, historical underwriting capacity risk pool notifications; (2) issue letters in response to requests for a business review letter regarding the application of the antitrust laws to specified activities of an underwriting capacity risk pool of which a person engaged in the business of insurance is, or intends to become, a member; (3) conduct a study to determine the effect of this Act on such business; and (4) report to specified congressional leaders summarizing the results of the study.
+
+	</summary>
+</bill>

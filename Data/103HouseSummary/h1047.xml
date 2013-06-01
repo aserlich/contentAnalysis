@@ -1,0 +1,69 @@
+<bill session="103" type="h" number="1047" updated="2010-04-19T01:51:06-04:00">
+	<state datetime="1993-02-23">REFERRED</state>
+	<status><introduced datetime="1993-02-23"/></status>
+
+	<introduced datetime="1993-02-23"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to include, as a home health service, nutritional counseling provided by or under the supervision of a registered dietitian.</title>
+	</titles>
+	<sponsor id="402152"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1993-11-15"/>
+		<cosponsor id="400553" joined="1993-11-15"/>
+		<cosponsor id="400210" joined="1993-11-15"/>
+		<cosponsor id="400160" joined="1993-11-15"/>
+		<cosponsor id="400126" joined="1993-03-30"/>
+		<cosponsor id="404083" joined="1993-11-15"/>
+		<cosponsor id="406431" joined="1993-11-15"/>
+		<cosponsor id="400380" joined="1994-01-25"/>
+		<cosponsor id="400885" joined="1993-11-15"/>
+		<cosponsor id="400348" joined="1993-11-15"/>
+		<cosponsor id="402890" joined="1993-11-15"/>
+		<cosponsor id="400370" joined="1993-11-15"/>
+		<cosponsor id="400143" joined="1993-05-03"/>
+		<cosponsor id="400548" joined="1993-11-15"/>
+		<cosponsor id="400416" joined="1993-11-08"/>
+		<cosponsor id="404978" joined="1993-11-15"/>
+		<cosponsor id="402626" joined="1993-03-30"/>
+		<cosponsor id="400572" joined="1993-11-08"/>
+		<cosponsor id="400357" joined="1993-11-15"/>
+		<cosponsor id="400283" joined="1993-11-15"/>
+		<cosponsor id="400301" joined="1994-01-25"/>
+		<cosponsor id="400163" joined="1993-03-30"/>
+		<cosponsor id="400314" joined="1993-11-15"/>
+		<cosponsor id="410565" joined="1993-11-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-03-04"><text>Sponsor introductory remarks on measure. (CR H1015)</text></action>
+		<action datetime="1993-03-09"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Counseling"/>
+		<term name="Health education"/>
+		<term name="Home care services"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Nutrition and the aged"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1993--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to include, as a home health service, nutritional counseling provided by or under the supervision of a registered dietitian.
+
+	</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="2939" updated="2010-04-19T06:49:31-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 23, United States Code, to establish a minimum blood alcohol concentration level for individuals who are less than 21 years of age.</title>
+	</titles>
+	<sponsor id="404139"/>
+	<cosponsors>
+		<cosponsor id="400364" joined="1994-02-09"/>
+		<cosponsor id="400409" joined="1993-10-13"/>
+		<cosponsor id="400262" joined="1993-10-13"/>
+		<cosponsor id="404375" joined="1993-11-16"/>
+		<cosponsor id="400416" joined="1993-10-19"/>
+		<cosponsor id="400204" joined="1994-03-17"/>
+		<cosponsor id="400438" joined="1993-10-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-08-19"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Roads and highways"/>
+		<term name="Alcohol and youth"/>
+		<term name="Drunk driving"/>
+		<term name="Federal aid highway program"/>
+		<term name="Standards"/>
+		<term name="State laws"/>
+		<term name="Traffic accidents and safety"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Directs the Secretary of Transportation to withhold a portion of Federal highway funds to any State that does not have in effect a law which prohibits a person under age 21 with a blood alcohol concentration level of 0.02 percent or greater from driving a motor vehicle.
+
+	</summary>
+</bill>

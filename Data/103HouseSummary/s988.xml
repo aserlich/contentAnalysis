@@ -1,0 +1,45 @@
+<bill session="103" type="s" number="988" updated="2012-07-17T04:38:18-04:00">
+	<state datetime="1993-05-19">REFERRED</state>
+	<status><introduced datetime="1993-05-19"/></status>
+
+	<introduced datetime="1993-05-19"/>
+	<titles>
+		<title type="short" as="introduced">Energy Efficiency and Conservation Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to clarify that conservation expenditures by electric and gas utilities are deductible for the year in which paid or incurred.</title>
+	</titles>
+	<sponsor id="300031"/>
+	<cosponsors>
+		<cosponsor id="400559" joined="1993-05-19"/>
+		<cosponsor id="300076" joined="1993-06-07"/>
+		<cosponsor id="402412" joined="1993-05-19"/>
+		<cosponsor id="409225" joined="1993-06-16"/>
+		<cosponsor id="300067" joined="1993-07-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-19" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6134-6135)</text></action>
+		<action datetime="1993-05-19" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="784" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Corporation taxes"/>
+		<term name="Electric utilities"/>
+		<term name="Energy conservation"/>
+		<term name="Energy policy"/>
+		<term name="Gas companies"/>
+		<term name="Tax deductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/19/1993--Introduced.
+Energy Efficiency and Conservation Act of 1993 - Amends the Internal Revenue Code to allow a deduction for energy conservation expenditures by an electric or gas utility during a taxable year in connection with its trade or business, as long as the rates for the sale of such electricity or natural gas have been approved by the appropriate governing body.
+
+	</summary>
+</bill>

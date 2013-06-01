@@ -1,0 +1,73 @@
+<bill session="103" type="s" number="1066" updated="2012-07-17T04:22:23-04:00">
+	<state datetime="1994-09-21">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-09-21" /></status>
+
+	<introduced datetime="1993-05-28"/>
+	<titles>
+		<title type="official" as="introduced">A bill to restore Federal services to the Pokagon Band of Potawatomi Indians.</title>
+	</titles>
+	<sponsor id="409225"/>
+	<cosponsors>
+		<cosponsor id="300066" joined="1993-05-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-28" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6857-6858)</text></action>
+		<action datetime="1993-05-28" state="REFERRED"><text>Read twice and referred to the Committee on Indian Affairs.</text></action>
+		<action datetime="1994-02-10"><committee name="Committee on Indian Affairs"/><text>Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 103-543.</text></action>
+		<calendar datetime="1994-04-13"  state="REPORTED"><committee name="Committee on Indian Affairs"/><text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-05-23"><text>Committee on Indian Affairs. Reported to Senate by Senator Inouye without amendment. With written report No. 103-266.</text></action>
+		<calendar under="General Orders" number="434" datetime="1994-05-23" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 434.</text></calendar>
+		<action datetime="1994-06-10"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S6779"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-06-10" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1994-06-14"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-06-14T10:31:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-06-14"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-06-15"><committee name="House Committee on Natural Resources"/><text>Late Referral to the Subcommittee on Native American Affairs (Aug 30, 94).</text></action>
+		<action datetime="1994-06-29"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-06-29" ><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-07-25T11:00:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 103-620.</text></action>
+		<calendar number="339" datetime="1994-07-25T11:01:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 339.</text></calendar>
+		<action datetime="1994-08-01T19:12:00-04:00"><text>Rules Committee Resolution H. Res. 502 Reported to House. Rule provides for consideration of S. 1066 with 1 hour of general debate. Previous question shall be considered as ordered except motion to recommit. Measure will be read by section. Bill is open to amendments.</text></action>
+		<action datetime="1994-08-03T12:55:00-04:00"><text>Rule H. Res. 502 passed House.</text></action>
+		<action datetime="1994-08-03T14:16:00-04:00"><text>Considered under the provisions of rule H. Res. 502.</text><reference label="consideration" ref="CR H6721-6732"/></action>
+		<action datetime="1994-08-03T14:16:00-04:00"><text>Rule provides for consideration of S. 1066 with 1 hour of general debate. Previous question shall be considered as ordered except motion to recommit. Measure will be read by section. Bill is open to amendments.</text></action>
+		<action datetime="1994-08-03T14:16:00-04:00"><text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 502 and Rule XXIII.</text></action>
+		<action datetime="1994-08-03T14:16:00-04:00"><text>The Speaker designated the Honorable Robert Menendez to act as Chairman of the Committee.</text></action>
+		<action datetime="1994-08-03T14:17:00-04:00"><text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate.</text></action>
+		<action datetime="1994-08-03T14:58:00-04:00"><text>The House rose from the Committee of the Whole House on the state of the Union to report S. 1066.</text></action>
+		<action datetime="1994-08-03T14:58:00-04:00"><text>The previous question was ordered pursuant to the rule.</text></action>
+		<vote how="roll" type="vote2" roll="373" datetime="1994-08-03T15:26:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed by the Yeas and Nays: 248 - 174 (Roll no. 373).</text></vote>
+		<action datetime="1994-08-03T15:26:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-08-03" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-09-14" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-09-21" ><text>Signed by President.</text></signed>
+		<enacted number="103-323" type="public" datetime="1994-09-21"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-323.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="" name="Senate Indian Affairs" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="103" type="hr" number="502" />
+		<bill relation="unknown" session="103" type="h" number="878" />
+		<bill relation="unknown" session="103" type="h" number="878" />
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Constitutions"/>
+		<term name="Economics and public finance"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Indian lands"/>
+		<term name="Indiana"/>
+		<term name="Michigan"/>
+		<term name="Minorities"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1777"/>
+	</amendments>
+	<summary>
+	6/10/1994--Passed Senate amended. Affirms Federal recognition of, and makes eligible for Federal services, the Pokagon Band of Potawatomi Indians. States that the Band's service area shall consist of specified counties in Michigan and Indiana.
+
+	</summary>
+</bill>

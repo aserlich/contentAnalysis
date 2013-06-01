@@ -1,0 +1,52 @@
+<bill session="103" type="s" number="1407" updated="2012-07-17T04:27:17-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">A bill to direct the Secretary of the Army to conduct a study to assess the adequacy of current flood control measures on the Upper Mississippi River and its tributaries, and for other purposes.</title>
+	</titles>
+	<sponsor id="407992"/>
+	<cosponsors>
+		<cosponsor id="300061" joined="1993-08-06"/>
+		<cosponsor id="300048" joined="1993-08-06"/>
+		<cosponsor id="300010" joined="1993-08-06"/>
+		<cosponsor id="403171" joined="1993-08-06"/>
+		<cosponsor id="409917" joined="1993-08-06"/>
+		<cosponsor id="300051" joined="1993-08-06"/>
+		<cosponsor id="300042" joined="1993-08-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S10872-10873)</text></action>
+		<action datetime="1993-08-06" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2931" />
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Construction costs"/>
+		<term name="Environmental assessment"/>
+		<term name="Environmental protection"/>
+		<term name="Flood control"/>
+		<term name="Flood damage prevention"/>
+		<term name="Hazardous wastes"/>
+		<term name="Industrial pollution"/>
+		<term name="Petrochemicals"/>
+		<term name="Waste disposal sites"/>
+		<term name="Wetland conservation"/>
+		<term name="Wetlands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Directs the Secretary of the Army to study and report to the Congress on the adequacy of current flood control measures on the Upper Mississippi River and its tributaries.
+
+	</summary>
+</bill>

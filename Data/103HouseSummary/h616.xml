@@ -1,0 +1,62 @@
+<bill session="103" type="h" number="616" updated="2010-04-19T00:38:27-04:00">
+	<state datetime="1993-08-11">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-08-11" /></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Securities Exchange Act of 1934 to permit members of national securities exchanges to effect certain transactions with respect to accounts for which such members exercise investment discretion.</title>
+	</titles>
+	<sponsor id="400253"/>
+	<cosponsors>
+		<cosponsor id="407899" joined="1993-03-23"/>
+		<cosponsor id="404068" joined="1993-01-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Sponsor introductory remarks on measure. (CR E158)</text></action>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+		<action datetime="1993-03-30"><committee name="House Committee on Energy and Commerce" subcommittee="Telecommunications and Finance"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-04-01"><committee name="House Committee on Energy and Commerce" subcommittee="Telecommunications and Finance"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-04-01"><committee name="House Committee on Energy and Commerce" subcommittee="Telecommunications and Finance"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1993-04-20"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-04-20"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-04-29T15:58:00-04:00"><text>Reported by the Committee on Energy and Commerce. H. Rept. 103-76.</text></action>
+		<calendar number="34" datetime="1993-04-29T15:58:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 34.</text></calendar>
+		<action datetime="1993-05-04T13:42:00-04:00"><text>Mr. Markey moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-05-04T13:42:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2220-2221"/></action>
+		<action datetime="1993-05-04T13:42:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-05-04T13:47:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-05-04T13:47:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-05-05"><text>Received in the Senate.</text></action>
+		<calendar under="General Orders" number="63" datetime="1993-05-06" calendar="Senate Legislative" ><text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 63.</text></calendar>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-07-29" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S9866"/></vote>
+		<topresident datetime="1993-07-29" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-07-30"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-08-03" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-08-11" ><text>Signed by President.</text></signed>
+		<enacted number="103-68" type="public" datetime="1993-08-11"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-68.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Securities"/>
+		<term name="Brokers"/>
+		<term name="Information disclosure (Securities law)"/>
+		<term name="Investment advisers"/>
+		<term name="Securities regulation"/>
+		<term name="Stock exchanges"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Amends the Securities Exchange Act of 1934 to cite conditions under which it shall not be unlawful for members of exchanges and associated persons to effect a transaction for an account with respect to which they exercise investment discretion. Permits transactions for such a managed account (without the involvement of an independent floor broker) if the member or associated person: (1) has obtained express authorization from the person or persons authorized to transact business for the account before engaging in the practice of effecting such transactions; (2) furnishes the persons authorized to transact business for the account with a statement at least annually disclosing the aggregate compensation received by the exchange member in effecting such transactions; and (3) complies with any rules the Securities and Exchange Commission has prescribed with respect to such requirements.
+
+	</summary>
+</bill>

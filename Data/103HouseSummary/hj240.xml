@@ -1,0 +1,51 @@
+<bill session="103" type="hj" number="240" updated="2010-04-18T22:29:15-04:00">
+	<state datetime="1993-07-27">REFERRED</state>
+	<status><introduced datetime="1993-07-27"/></status>
+
+	<introduced datetime="1993-07-27"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the placement of a memorial cairn in Arlington National Cemetery, Arlington, Virginia, to honor the 270 victims of the terrorist bombing of Pan Am Flight 103.</title>
+	</titles>
+	<sponsor id="406277"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="1993-07-27"/>
+		<cosponsor id="400126" joined="1993-07-27"/>
+		<cosponsor id="400268" joined="1993-08-03"/>
+		<cosponsor id="300087" joined="1993-07-27"/>
+		<cosponsor id="409570" joined="1993-07-27"/>
+		<cosponsor id="400178" joined="1993-11-09"/>
+		<cosponsor id="400163" joined="1993-07-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-27"><text>Sponsor introductory remarks on measure. (CR E1900)</text></action>
+		<action datetime="1993-07-27"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-08-06"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Housing and Memorial Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Veterans' Affairs" subcommittee="Housing and Memorial Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="sj" number="129" />
+	</relatedbills>
+	<subjects>
+		<term name="Monuments and memorials"/>
+		<term name="Bombings"/>
+		<term name="Commemorations"/>
+		<term name="Commercial aircraft"/>
+		<term name="Gifts"/>
+		<term name="Military cemeteries and funerals"/>
+		<term name="Scotland"/>
+		<term name="Terrorism"/>
+		<term name="Victims of terrorism"/>
+		<term name="Virginia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/27/1993--Introduced.
+Requests the President to place in Arlington National Cemetery in Arlington, Virginia, a memorial cairn honoring the victims of the terrorist bombing of Pan Am Flight 103 on December 21, 1988, over Lockerbie, Scotland.
+
+	</summary>
+</bill>

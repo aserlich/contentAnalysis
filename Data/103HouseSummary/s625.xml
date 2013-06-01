@@ -1,0 +1,42 @@
+<bill session="103" type="s" number="625" updated="2012-07-17T05:37:41-04:00">
+	<state datetime="1993-03-22">REFERRED</state>
+	<status><introduced datetime="1993-03-22"/></status>
+
+	<introduced datetime="1993-03-22"/>
+	<titles>
+		<title type="official" as="introduced">A bill to require the Secretary of Agriculture to use certain unexpended disaster assistance funds, to the extent necessary, to provide emergency crop loss assistance for certain losses, and for other purposes.</title>
+	</titles>
+	<sponsor id="300071"/>
+	<cosponsors>
+		<cosponsor id="300069" joined="1993-04-01"/>
+		<cosponsor id="400558" joined="1993-03-22"/>
+		<cosponsor id="300023" joined="1993-03-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-22" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3363)</text></action>
+		<action datetime="1993-03-22" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-04-12"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Agricultural Production.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Agricultural Production and Stabilization of Prices" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Agricultural credit"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural insurance"/>
+		<term name="Disaster relief"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/22/1993--Introduced.
+Requires the Secretary of Agriculture to use certain unexpended disaster assistance funds for emergency crop loss assistance to producers who suffered weather-related losses during January through March 1993.
+
+	</summary>
+</bill>

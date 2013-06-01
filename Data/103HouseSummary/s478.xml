@@ -1,0 +1,48 @@
+<bill session="103" type="s" number="478" updated="2012-07-17T04:17:23-04:00">
+	<state datetime="1993-09-21">REPORTED</state>
+	<status><calendar datetime="1993-09-21" /></status>
+
+	<introduced datetime="1993-03-02"/>
+	<titles>
+		<title type="short" as="introduced">Small Business Capital Enhancement Act of 1993</title>
+		<title type="official" as="introduced">A bill to establish the Small Business Capital Enhancement Program to enhance the availability of financing for small business concerns.</title>
+	</titles>
+	<sponsor id="409225"/>
+	<cosponsors>
+		<cosponsor id="300007" joined="1993-09-15"/>
+		<cosponsor id="300034" joined="1993-03-02"/>
+		<cosponsor id="300067" joined="1993-03-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-02" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2226-2227)</text></action>
+		<action datetime="1993-03-02" state="REFERRED"><text>Read twice and referred to the Committee on Banking.</text></action>
+		<action datetime="1993-03-04"><committee name="Committee on Banking"/><text>Subcommittee on Securities. Hearings held.</text></action>
+		<action datetime="1993-09-09"><text>Committee on Banking. Hearings held. Hearings printed: S.Hrg. 103-294.</text></action>
+		<calendar datetime="1993-09-21"  state="REPORTED"><text>Committee on Banking. Provisions of measure incorporated into measure S. 1275 ordered to be reported.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Hearings, In Committee" />
+		<committee code="SSBK-4" name="Senate Banking, Housing, and Urban Affairs" subcommittee="Securities" activity="Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1275" />
+	</relatedbills>
+	<subjects>
+		<term name="Small business"/>
+		<term name="Bank capital"/>
+		<term name="Bank loans"/>
+		<term name="Bank reserves"/>
+		<term name="Business insurance"/>
+		<term name="Business losses"/>
+		<term name="Capital investments"/>
+		<term name="Finance and financial sector"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/2/1993--Introduced.
+Small Business Capital Enhancement Act of 1993 - Establishes the Small Business Capital Enhancement Program to enhance the availability of financing for small business concerns. Authorizes any State to apply to the Secretary of Housing and Urban Development for approval as a participating State eligible for reimbursement. Sets forth application approval criteria. Provides that a non-participating State that has its own capital access program providing portfolio insurance for business loans (based on a separate loss reserve fund for each financial institution) may apply to be approved as a participating State. Specifies that: (1) if a State is approved, each financial institution with a particular agreement in effect with the State shall immediately be considered a participating financial institution; (2) reimbursements may be made in connection with all contributions to the reserve funds by the State with respect to lending that occurs after the Secretary approves the State; (3) if an amended participation agreement is required to secure participation approval, contributions subject to reimbursement shall include only those contributions made to a reserve fund with respect to loans enrolled after an amended participation agreement becomes effective; and (4) a State with an existing program that is approved may continue to implement the program utilizing the reserve funds accumulated under the State program. Prohibits the Secretary from approving a State until at least $50 million has been appropriated for reimbursements. Requires an approved State that wishes to amend its form of participation agreement and continue as a participating State to submit such amendment for review by the Secretary. Provides that any such amendment shall become effective only after approval. Establishes requirements with respect to the terms of participation agreements. Sets forth reporting requirements. Provides for reimbursement by the Secretary of participating States, based on specified formulas. Requires a participating State that withdraws funds from a reserve fund pursuant to terms of the participation agreement to reimburse the Secretary according to a specified formula. Authorizes appropriations.
+
+	</summary>
+</bill>

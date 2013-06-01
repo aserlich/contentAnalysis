@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="3036" updated="2010-04-19T07:04:29-04:00">
+	<state datetime="1993-09-09">REFERRED</state>
+	<status><introduced datetime="1993-09-09"/></status>
+
+	<introduced datetime="1993-09-09"/>
+	<titles>
+		<title type="short" as="introduced">Three-Time Loser Act of 1993</title>
+		<title type="official" as="introduced">To mandate life imprisonment without release for drug traffickers or violent criminals convicted for a third offense.</title>
+	</titles>
+	<sponsor id="400144"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-09"><text>Sponsor introductory remarks on measure. (CR H6580-6581)</text></action>
+		<action datetime="1993-09-09"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-09-09"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-09-13"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+		<action datetime="1993-10-05"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1994-03-11"><committee name="House Committee on Judiciary"/><text>For Further Action See H.R.3981.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3981" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Drug abuse"/>
+		<term name="Narcotic traffic"/>
+		<term name="Recidivists"/>
+		<term name="Sentences (Criminal procedure)"/>
+		<term name="Violence"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/9/1993--Introduced.
+Three-Time Loser Act of 1993 - Mandates life imprisonment without release for a third conviction for a felony drug offense, crime of violence, or any combination thereof. (Current law provides such penalty for a third conviction for a felony drug offense.)
+
+	</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="103" type="s" number="2094" updated="2012-07-17T05:05:03-04:00">
+	<state datetime="1994-09-23">REPORTED</state>
+	<status><calendar datetime="1994-09-23" /></status>
+
+	<introduced datetime="1994-05-10"/>
+	<titles>
+		<title type="official" as="introduced">A bill to make permanent the authority of the Secretary of Veterans Affairs to approve basic educational assistance for flight training.</title>
+	</titles>
+	<sponsor id="300031"/>
+	<cosponsors>
+		<cosponsor id="404219" joined="1994-05-10"/>
+		<cosponsor id="406188" joined="1994-05-18"/>
+		<cosponsor id="300001" joined="1994-09-20"/>
+		<cosponsor id="409917" joined="1994-05-10"/>
+		<cosponsor id="411818" joined="1994-09-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-10" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5452-5453)</text></action>
+		<action datetime="1994-05-10" state="REFERRED"><text>Read twice and referred to the Committee on Veterans.</text></action>
+		<action datetime="1994-09-14"><committee name="Committee on Veterans"/><text>Committee on Veterans. Hearings held.</text></action>
+		<calendar datetime="1994-09-23"  state="REPORTED"><committee name="Committee on Veterans"/><text>Committee on Veterans. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action datetime="1994-09-27"><text>Committee on Veterans. Reported to Senate by Senator Rockefeller with an amendment and an amendment to the title. With written report No. 103-384.</text></action>
+		<calendar under="General Orders" number="638" datetime="1994-09-27" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 638.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Armed forces reserves"/>
+		<term name="Education"/>
+		<term name="Flight training"/>
+		<term name="Higher education"/>
+		<term name="Labor and employment"/>
+		<term name="Manpower training programs"/>
+		<term name="Military personnel"/>
+		<term name="Occupational retraining"/>
+		<term name="Transportation and public works"/>
+		<term name="Veterans' education"/>
+		<term name="Veterans' employment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/27/1994--Reported to Senate amended. Repeals a Federal provision which terminates the authority of the Secretary of Veterans Affairs to approve the use of veterans' basic educational assistance for a course of flight training that commences on or after October 1, 1994. Amends the Service Members Occupational Conversion and Training Act of 1992 to eliminate the 18-month limit on the period of training permitted to assist eligible persons in obtaining employment through participation in programs of significant training for employment in stable and permanent positions. Allows assistance to be paid to an employer on behalf of an eligible person under two or more job training programs as long as the aggregate amount received on such person's behalf is not in excess of the per-person limit.
+
+	</summary>
+</bill>

@@ -1,0 +1,63 @@
+<bill session="103" type="s" number="2005" updated="2012-07-17T05:59:54-04:00">
+	<state datetime="1994-05-06">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-05-06" /></status>
+
+	<introduced datetime="1994-03-25"/>
+	<titles>
+		<title type="official" as="introduced">A bill to make certain technical corrections, and for other purposes.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="408939" joined="1994-03-25"/>
+		<cosponsor id="300070" joined="1994-03-25"/>
+		<cosponsor id="300023" joined="1994-03-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-25" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1994-03-25"><text>Senate Committee on Agriculture discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S3934"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-03-25" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text></vote>
+		<action datetime="1994-04-12T12:03:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-04-12"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-04-12"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-04-15"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on General Farm Commodities.</text></action>
+		<action datetime="1994-04-15"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Livestock.</text></action>
+		<action datetime="1994-04-21T15:37:00-04:00"><text>Committee on Agriculture discharged.</text></action>
+		<action datetime="1994-04-21T15:37:00-04:00"><text>Mr. de la Garza asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-04-21T15:37:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H2615"/></action>
+		<vote how="without objection" type="vote2" datetime="1994-04-21T15:38:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-04-21T15:38:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-04-21" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-04-29" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-05-06" ><text>Signed by President.</text></signed>
+		<enacted number="103-247" type="public" datetime="1994-05-06"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-247.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged" />
+		<committee code="HSAG" name="House Agriculture" activity="Referral, Discharged" />
+		<committee code="" name="House Agriculture" subcommittee="General Farm Commodities" activity="Referral" />
+		<committee code="HSAG-03" name="House Agriculture" subcommittee="Livestock" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural price supports"/>
+		<term name="Barley"/>
+		<term name="Cotton"/>
+		<term name="Disaster relief"/>
+		<term name="Emergency management"/>
+		<term name="Feed grain program"/>
+		<term name="Milk"/>
+		<term name="Rice"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/25/1994--Introduced.
+Amends the Agricultural Act of 1949 to: (1) provide deficiency payments for specified rice and upland cotton crops without regard to certain minimum planting requirements; (2) amend the deficiency payment rate calculation for barley; and (3) amend the excess purchase dairy price reduction calculation.
+
+	</summary>
+</bill>

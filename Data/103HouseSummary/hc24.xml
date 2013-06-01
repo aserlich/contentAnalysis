@@ -1,0 +1,130 @@
+<bill session="103" type="hc" number="24" updated="2010-04-18T21:04:15-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="official" as="introduced">Concerning the crisis in the former Yugoslavia.</title>
+	</titles>
+	<sponsor id="400283"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-07-29"/>
+		<cosponsor id="400428" joined="1993-02-24"/>
+		<cosponsor id="400219" joined="1993-02-02"/>
+		<cosponsor id="410147" joined="1993-04-27"/>
+		<cosponsor id="409154" joined="1993-02-04"/>
+		<cosponsor id="400579" joined="1993-02-24"/>
+		<cosponsor id="400210" joined="1993-02-04"/>
+		<cosponsor id="400064" joined="1993-02-24"/>
+		<cosponsor id="401494" joined="1993-02-04"/>
+		<cosponsor id="406431" joined="1993-04-27"/>
+		<cosponsor id="407320" joined="1993-02-24"/>
+		<cosponsor id="400122" joined="1993-02-24"/>
+		<cosponsor id="406768" joined="1993-03-10"/>
+		<cosponsor id="400295" joined="1993-02-04"/>
+		<cosponsor id="407351" joined="1993-02-04"/>
+		<cosponsor id="411040" joined="1993-04-27"/>
+		<cosponsor id="400348" joined="1993-02-24"/>
+		<cosponsor id="400268" joined="1993-02-04"/>
+		<cosponsor id="400323" joined="1993-04-27"/>
+		<cosponsor id="400003" joined="1993-02-24"/>
+		<cosponsor id="400527" joined="1993-02-02"/>
+		<cosponsor id="409205" joined="1993-02-02"/>
+		<cosponsor id="400084" joined="1993-03-10"/>
+		<cosponsor id="400409" joined="1993-07-29"/>
+		<cosponsor id="400365" joined="1993-02-02"/>
+		<cosponsor id="400524" joined="1993-02-24"/>
+		<cosponsor id="406284" joined="1993-02-02"/>
+		<cosponsor id="400216" joined="1993-03-10"/>
+		<cosponsor id="400112" joined="1993-02-04"/>
+		<cosponsor id="400106" joined="1993-03-10"/>
+		<cosponsor id="400143" joined="1993-02-24"/>
+		<cosponsor id="411725" joined="1993-02-04"/>
+		<cosponsor id="400511" joined="1993-02-24"/>
+		<cosponsor id="400331" joined="1993-03-10"/>
+		<cosponsor id="411350" joined="1993-03-10"/>
+		<cosponsor id="409829" joined="1993-04-27"/>
+		<cosponsor id="406625" joined="1993-07-29"/>
+		<cosponsor id="400050" joined="1993-02-04"/>
+		<cosponsor id="400436" joined="1993-02-24"/>
+		<cosponsor id="400140" joined="1993-07-29"/>
+		<cosponsor id="407141" joined="1993-02-24"/>
+		<cosponsor id="400251" joined="1993-02-24"/>
+		<cosponsor id="400178" joined="1993-02-24"/>
+		<cosponsor id="300085" joined="1993-03-10"/>
+		<cosponsor id="401310" joined="1993-02-04"/>
+		<cosponsor id="400591" joined="1993-04-27"/>
+		<cosponsor id="400366" joined="1993-03-10"/>
+		<cosponsor id="400021" joined="1993-05-11"/>
+		<cosponsor id="400536" joined="1993-07-29"/>
+		<cosponsor id="404602" joined="1993-02-04"/>
+		<cosponsor id="402152" joined="1993-02-04"/>
+		<cosponsor id="400595" joined="1993-03-10"/>
+		<cosponsor id="409633" joined="1993-07-29"/>
+		<cosponsor id="400043" joined="1993-02-02"/>
+		<cosponsor id="400310" joined="1993-03-10"/>
+		<cosponsor id="410889" joined="1993-04-27"/>
+		<cosponsor id="400240" joined="1993-02-04"/>
+		<cosponsor id="400438" joined="1993-02-24"/>
+		<cosponsor id="400238" joined="1993-02-04"/>
+		<cosponsor id="400025" joined="1993-02-24"/>
+		<cosponsor id="400301" joined="1993-04-27"/>
+		<cosponsor id="300096" joined="1993-03-10"/>
+		<cosponsor id="400163" joined="1993-02-24"/>
+		<cosponsor id="409052" joined="1993-07-29"/>
+		<cosponsor id="408661" joined="1993-02-04"/>
+		<cosponsor id="400243" joined="1993-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1993-02-11"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Europe and the Middle East.</text></action>
+		<action datetime="1993-02-11"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Security, International Organizations and Human Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Europe and the Middle East" activity="Referral" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Security, International Organizations, and Human Rights" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Air warfare"/>
+		<term name="Armistices"/>
+		<term name="Arms sales"/>
+		<term name="Bosnia and Herzegovina"/>
+		<term name="Civil war"/>
+		<term name="Concentration camps"/>
+		<term name="EEC countries"/>
+		<term name="Embargo"/>
+		<term name="Foreign trade"/>
+		<term name="Human rights"/>
+		<term name="International agencies"/>
+		<term name="International relief"/>
+		<term name="Military aircraft"/>
+		<term name="Military intervention"/>
+		<term name="Peace negotiations"/>
+		<term name="Prisoners of war"/>
+		<term name="Refugee policy"/>
+		<term name="Refugees"/>
+		<term name="Serbia"/>
+		<term name="Treaties"/>
+		<term name="United Nations"/>
+		<term name="War crime trials"/>
+		<term name="War crimes"/>
+		<term name="Yugoslavia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Expresses the sense of the Congress that: (1) hostilities, war crimes, and human rights violations in Bosnia-Herzegovina (Bosnia) should cease immediately; (2) in the event of continued Serbian attacks on Bosnian civilians, the United States and the European Community (EC) should persuade the United Nations (UN) Security Council to lift the arms embargo against Bosnian Muslims; (3) the UN should promptly authorize the enforcement of the &quot;no-fly&quot; zone over Bosnia; (4) the U.S. Government and EC members should propose and support decisive international efforts to achieve a prompt cessation of hostilities and alleviate the suffering of the Bosnian civilian population; (5) UN Security Council Resolution 770 (authorizing the use of all measures necessary to deliver humanitarian relief whenever it is needed to Bosnia) should be fully implemented; (6) the conclusions of the London Conference, including agreements between the parties of the conflict to collaborate in delivery of humanitarian relief in Bosnia, should be fully implemented; (7) the U.S. Government should implement the emergency provisions of the Refugee Act of 1980 to admit Bosnian refugees to the United States while encouraging EC members to initiate reciprocal action; (8) the UN and relevant international relief organizations should be given unrestricted access to all prisoners of war in the former Republic of Yugoslavia to monitor human rights conditions in the camps; and (9) the U.S. Government should support and encourage the formation and development of an international war crimes commission.
+
+	</summary>
+</bill>

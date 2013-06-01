@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="1235" updated="2012-07-17T05:50:35-04:00">
+	<state datetime="1993-07-15">REFERRED</state>
+	<status><introduced datetime="1993-07-15"/></status>
+
+	<introduced datetime="1993-07-15"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for the treatment of Indian tribal governments under section 403(b) of the Internal Revenue Code of 1986.</title>
+	</titles>
+	<sponsor id="300071"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="1993-07-15"/>
+		<cosponsor id="401604" joined="1993-07-15"/>
+		<cosponsor id="300005" joined="1993-07-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-15" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8825)</text></action>
+		<action datetime="1993-07-15" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Annuities"/>
+		<term name="Employee benefit plans"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Government operations and politics"/>
+		<term name="Native Americans"/>
+		<term name="Pension funds"/>
+		<term name="Tax-exempt organizations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/15/1993--Introduced.
+Treats Indian tribal governments and instrumentalities as employers with regard to any pension contract (under section 403(b) of the Internal Revenue Code) purchased in a plan year beginning before January 1, 1993.
+
+	</summary>
+</bill>

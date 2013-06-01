@@ -1,0 +1,91 @@
+<bill session="103" type="s" number="216" updated="2012-07-17T05:27:45-04:00">
+	<state datetime="1993-05-27">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-05-27" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="short" as="introduced">World University Games Commemorative Coin Act of 1993</title>
+		<title type="official" as="introduced">A bill to provide for the minting of coins to commemorate the World University Games.</title>
+	</titles>
+	<sponsor id="403142"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-04-05"/>
+		<cosponsor id="300016" joined="1993-05-11"/>
+		<cosponsor id="300150" joined="1993-05-04"/>
+		<cosponsor id="300056" joined="1993-04-21"/>
+		<cosponsor id="409580" joined="1993-05-04"/>
+		<cosponsor id="400557" joined="1993-04-05"/>
+		<cosponsor id="401709" joined="1993-03-30"/>
+		<cosponsor id="300007" joined="1993-05-04"/>
+		<cosponsor id="401874" joined="1993-05-24"/>
+		<cosponsor id="300089" joined="1993-03-29"/>
+		<cosponsor id="409225" joined="1993-05-04"/>
+		<cosponsor id="406256" joined="1993-02-25"/>
+		<cosponsor id="400564" joined="1993-04-29"/>
+		<cosponsor id="300012" joined="1993-05-05"/>
+		<cosponsor id="300154" joined="1993-03-29"/>
+		<cosponsor id="300048" joined="1993-05-04"/>
+		<cosponsor id="300069" joined="1993-05-11"/>
+		<cosponsor id="300001" joined="1993-04-01"/>
+		<cosponsor id="400563" joined="1993-01-26"/>
+		<cosponsor id="300155" joined="1993-04-19"/>
+		<cosponsor id="409923" joined="1993-04-01"/>
+		<cosponsor id="402675" joined="1993-04-01"/>
+		<cosponsor id="400562" joined="1993-04-01"/>
+		<cosponsor id="408420" joined="1993-05-06"/>
+		<cosponsor id="300092" joined="1993-04-21"/>
+		<cosponsor id="403968" joined="1993-03-29"/>
+		<cosponsor id="403515" joined="1993-03-29"/>
+		<cosponsor id="300017" joined="1993-04-01"/>
+		<cosponsor id="403346" joined="1993-05-04"/>
+		<cosponsor id="402412" joined="1993-04-21"/>
+		<cosponsor id="300099" joined="1993-03-16"/>
+		<cosponsor id="402004" joined="1993-04-05"/>
+		<cosponsor id="408597" joined="1993-05-05"/>
+		<cosponsor id="300034" joined="1993-04-21"/>
+		<cosponsor id="300070" joined="1993-03-29"/>
+		<cosponsor id="403171" joined="1993-04-01"/>
+		<cosponsor id="400565" joined="1993-04-29"/>
+		<cosponsor id="300010" joined="1993-05-04"/>
+		<cosponsor id="405310" joined="1993-04-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S732-733)</text></action>
+		<action datetime="1993-01-26" state="REFERRED"><text>Read twice and referred to the Committee on Banking.</text></action>
+		<calendar datetime="1993-05-27"  state="REPORTED"><committee name="Committee on Banking"/><text>Committee on Banking. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-05-27"><text>Committee on Banking. Reported to Senate by Senator Riegle without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="77" datetime="1993-05-27" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 77.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-05-27" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S6734-6735"/></vote>
+		<action datetime="1993-06-08T12:04:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-06-08"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-06-08"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-06-15"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Consumer Credit and Insurance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="Consumer Credit and Insurance" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="982" />
+	</relatedbills>
+	<subjects>
+		<term name="Money"/>
+		<term name="Athletics"/>
+		<term name="Coins and coinage"/>
+		<term name="College sports"/>
+		<term name="Commemorations"/>
+		<term name="Gold"/>
+		<term name="New York State"/>
+		<term name="Silver"/>
+		<term name="Sports facilities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+World University Games Commemorative Coin Act of 1993 - Authorizes the minting and issuance of five-dollar gold coins and one-dollar silver coins to commemorate American participation in the World University Games. Requires that all surcharges from the sale of such coins be paid to the Greater Buffalo Athletic Corporation to support amateur athletic programs, erect facilities for the use of such athletes, and to underwrite the cost of sponsoring the World University Games.
+
+	</summary>
+</bill>

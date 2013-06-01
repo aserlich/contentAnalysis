@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="2187" updated="2010-04-19T04:52:59-04:00">
+	<state datetime="1993-05-19">REFERRED</state>
+	<status><introduced datetime="1993-05-19"/></status>
+
+	<introduced datetime="1993-05-19"/>
+	<titles>
+		<title type="short" as="introduced">Helium Act Amendments of 1993</title>
+		<title type="official" as="introduced">To amend the Helium Act to cancel the accrued and unpaid interest on all notes issued for the purchase of helium and the net capital and retained earnings debt and interest related to the helium production fund, and for other purposes.</title>
+	</titles>
+	<sponsor id="409578"/>
+	<cosponsors>
+		<cosponsor id="400079" joined="1993-07-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-19"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-06-15"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Energy and Mineral Resources.</text></action>
+		<action datetime="1993-06-25"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from DOE.</text></action>
+		<action datetime="1994-07-19"><committee name="House Committee on Natural Resources"/><text>For Further Action See H.R.3967.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-06" name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1552" />
+		<bill relation="unknown" session="103" type="h" number="3967" />
+	</relatedbills>
+	<subjects>
+		<term name="Energy law and legislation"/>
+		<term name="Energy policy"/>
+		<term name="Gas storage"/>
+		<term name="Government securities"/>
+		<term name="Government trust funds"/>
+		<term name="Helium"/>
+		<term name="Interest"/>
+		<term name="Interest rates"/>
+		<term name="Medical care"/>
+		<term name="Natural gas"/>
+		<term name="Public contracts"/>
+		<term name="Strategic materials"/>
+		<term name="Surplus government property"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/19/1993--Introduced.
+Helium Act Amendments of 1993 - Amends the Helium Act to: (1) delete a provision limiting the authority of the Secretary of the Interior to contract for the acquisition and storage of helium and helium-bearing natural gas; (2) delete a provision guaranteeing that the Secretary receive the lowest purchase price for helium from private plants; (3) replace the Atomic Energy Commission with the Department of Energy and the National Aeronautics and Space Administration as purchasers from the Secretary of the major Federal requirements of helium; (4) delete provisions concerning helium sale interest rate determinations and prices of helium sold for medical purposes; and (5) direct the Secretary of the Treasury to cancel certain accrued and unpaid interest, and certain principal, of the helium production fund incurred prior to the date of enactment of this Act.
+
+	</summary>
+</bill>

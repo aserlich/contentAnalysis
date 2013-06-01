@@ -1,0 +1,65 @@
+<bill session="103" type="s" number="252" updated="2012-07-17T06:28:02-04:00">
+	<state datetime="1993-04-12">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-04-12" /></status>
+
+	<introduced datetime="1993-01-28"/>
+	<titles>
+		<title type="short" as="introduced">Idaho Land Exchange Act of 1993</title>
+		<title type="short" as="enacted">Idaho Land Exchange Act of 1993</title>
+		<title type="official" as="introduced">A bill to provide for certain land exchanges in the State of Idaho, and for other purposes.</title>
+	</titles>
+	<sponsor id="300029"/>
+	<cosponsors>
+		<cosponsor id="406256" joined="1993-01-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-28" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S892-893)</text></action>
+		<action datetime="1993-01-28" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-01-29"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1993-03-02"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of Agriculture, and Office of Management and Budget.</text></action>
+		<calendar datetime="1993-03-03"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-03-11"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 103-12.</text></action>
+		<calendar under="General Orders" number="26" datetime="1993-03-11" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 26.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-03-17" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S3038"/></vote>
+		<action datetime="1993-03-18T11:27:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-03-18"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-03-18T19:14:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-03-29T16:06:00-05:00"><text>Mr. Vento moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-03-29T16:07:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1654-1655"/></action>
+		<action datetime="1993-03-29T16:07:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-03-29T16:14:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed until March 30.</text></action>
+		<action datetime="1993-03-30T13:27:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1697"/></action>
+		<vote how="roll" type="vote2" roll="116" datetime="1993-03-30T13:36:00-05:00" where="h" result="pass" suspension="1"  state="PASSED:BILL"><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays (2/3 required): 417 - 0 (Roll No. 116).</text></vote>
+		<action datetime="1993-03-30T13:36:00-05:00"><text>Mr. Vento moved to reconsider the vote by which the bill was passed.</text></action>
+		<action datetime="1993-03-30T13:37:00-05:00"><text>Mr. Frost moved to table the motion to reconsider the vote.</text></action>
+		<action datetime="1993-03-30T13:39:00-05:00"><text>On motion to table the motion to reconsider the vote Agreed to by Division vote: 220 - 150.</text></action>
+		<topresident datetime="1993-03-30" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-04-01" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-04-12" ><text>Signed by President.</text></signed>
+		<enacted number="103-17" type="public" datetime="1993-04-12"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-17.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="235" />
+		<bill relation="unknown" session="103" type="h" number="235" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Colleges"/>
+		<term name="Idaho"/>
+		<term name="Land transfers"/>
+		<term name="National forests"/>
+		<term name="Real estate appraisal"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/1993--Introduced.
+Idaho Land Exchange Act of 1993 - Adjusts the boundaries of the Targhee National Forest in Idaho. Directs the Secretary of Agriculture to convey to Idaho, acting through the Regents of its University, the Clark Fork Ranger Station within the Kaniksu National Forest in exchange for Idaho conveying to the Secretary the Clark Fork Land Exchange. Provides that if the lands exchanged between the United States and Idaho are not of equal value, the values shall be equalized in accordance with provisions of the Federal Land Policy and Management Act of 1976, except that the value of the improvements made by the University on the Clark Fork Ranger Station under the Granger-Thye permit shall be excluded from consideration in such valuation. Adjusts the boundaries of the Kaniksu National Forest to include the lands conveyed by Idaho.
+
+	</summary>
+</bill>

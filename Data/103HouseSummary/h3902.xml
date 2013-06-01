@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="3902" updated="2010-04-19T09:19:07-04:00">
+	<state datetime="1994-02-24">REFERRED</state>
+	<status><introduced datetime="1994-02-24"/></status>
+
+	<introduced datetime="1994-02-24"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Clean Air Act to require the designation of certain areas as rural transport areas for purposes of nonattainment requirements, and for other purposes.</title>
+	</titles>
+	<sponsor id="400182"/>
+	<cosponsors>
+		<cosponsor id="400414" joined="1994-04-18"/>
+		<cosponsor id="400058" joined="1994-04-18"/>
+		<cosponsor id="400225" joined="1994-04-18"/>
+		<cosponsor id="400119" joined="1994-02-24"/>
+		<cosponsor id="400526" joined="1994-04-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-24"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-03-04"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Air pollution"/>
+		<term name="Air pollution control"/>
+		<term name="Air quality"/>
+		<term name="Fluorocarbons"/>
+		<term name="Hazardous substances"/>
+		<term name="Nitrogen oxides"/>
+		<term name="Ozone"/>
+		<term name="Rural affairs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1994--Introduced.
+Amends the Clean Air Act to treat an ozone nonattainment area as a rural transport area if sources of volatile organic compounds (and, where relevant, nitrogen oxide) emissions within an area do not result in more than 35 percent of the ozone concentrations measured in the area or in other areas. (Rural transport areas must meet requirements applicable to marginal nonattainment areas.)
+
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="103" type="h" number="1975" updated="2010-04-19T04:20:08-04:00">
+	<state datetime="1993-05-04">REFERRED</state>
+	<status><introduced datetime="1993-05-04"/></status>
+
+	<introduced datetime="1993-05-04"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Afsar Khanom Tajbakhsh.</title>
+	</titles>
+	<sponsor id="404602"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-04"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-07"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Immigration"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/4/1993--Introduced.
+Authorizes the granting of a visa and admission to the United States for permanent residence pursuant to the Immigration and Nationality Act to a named individual.
+
+	</summary>
+</bill>

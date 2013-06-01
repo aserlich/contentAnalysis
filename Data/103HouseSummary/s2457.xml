@@ -1,0 +1,47 @@
+<bill session="103" type="s" number="2457" updated="2012-07-17T04:47:23-04:00">
+	<state datetime="1994-10-04">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-10-04" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-09-23"/>
+	<titles>
+		<title type="official" as="introduced">A bill for the relief of Benchmark Rail Group, Inc.</title>
+	</titles>
+	<sponsor id="403171"/>
+	<cosponsors>
+		<cosponsor id="300010" joined="1994-09-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-23" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1994-09-26"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="Committee on Judiciary"/><text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-09-28"><text>Committee on Judiciary. Reported to Senate by Senator Biden without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="685" datetime="1994-09-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 685.</text></calendar>
+		<action datetime="1994-10-04"><text>Sponsor introductory remarks on measure. (CR S14075-14077)</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-10-04" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text></vote>
+		<action datetime="1994-10-05"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-05T11:20:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-10-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-10-11"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Claims"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/23/1994--Introduced.
+Directs the Director of the Federal Emergency Management Agency to compensate a named corporation for the emergency work and services performed by them after the Northridge earthquake.
+
+	</summary>
+</bill>

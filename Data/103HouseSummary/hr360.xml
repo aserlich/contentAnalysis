@@ -1,0 +1,78 @@
+<bill session="103" type="hr" number="360" updated="2010-04-19T13:55:02-04:00">
+	<state datetime="1994-02-10">REFERRED</state>
+	<status><introduced datetime="1994-02-10"/></status>
+
+	<introduced datetime="1994-02-10"/>
+	<titles>
+		<title type="official" as="introduced">Entitled, &quot;Resolution of inquiry&quot;.</title>
+	</titles>
+	<sponsor id="407669"/>
+	<cosponsors>
+		<cosponsor id="400078" joined="1994-02-10"/>
+		<cosponsor id="405758" joined="1994-02-10"/>
+		<cosponsor id="400225" joined="1994-02-10"/>
+		<cosponsor id="400206" joined="1994-02-10"/>
+		<cosponsor id="406343" joined="1994-02-10"/>
+		<cosponsor id="400325" joined="1994-02-10"/>
+		<cosponsor id="400265" joined="1994-02-10"/>
+		<cosponsor id="400079" joined="1994-02-10"/>
+		<cosponsor id="400012" joined="1994-02-10"/>
+		<cosponsor id="410887" joined="1994-02-10"/>
+		<cosponsor id="407044" joined="1994-02-10"/>
+		<cosponsor id="300096" joined="1994-02-10"/>
+		<cosponsor id="411997" joined="1994-02-10"/>
+		<cosponsor id="400252" joined="1994-02-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-10"><text>Referred to the House Committee on Small Business.</text></action>
+		<action datetime="1994-02-10"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-02-10"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-02-18"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Civil Service.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSM" name="House Small Business" activity="Referral, In Committee" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Civil Service" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Business"/>
+		<term name="Business records"/>
+		<term name="Congress"/>
+		<term name="Congressional investigations"/>
+		<term name="Congressional-Presidential relations"/>
+		<term name="Criminal justice"/>
+		<term name="Executive Office of the President"/>
+		<term name="Executive departments"/>
+		<term name="Executive privilege"/>
+		<term name="Federal employees"/>
+		<term name="Federal officials"/>
+		<term name="Government employees"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Lobbying"/>
+		<term name="Misconduct in office"/>
+		<term name="National security"/>
+		<term name="Personnel records"/>
+		<term name="Politics and government"/>
+		<term name="Presidents"/>
+		<term name="Public corruption"/>
+		<term name="Searches and seizures"/>
+		<term name="Security clearances"/>
+		<term name="Small Business Administration"/>
+		<term name="Small business"/>
+		<term name="Suicide"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/1994--Introduced.
+Requests the President to provide to the House of Representatives specified information concerning: (1) any communications between the White House and the Small Business Administration regarding Capital Management Services, Inc., or a Mr. David Hale; (2) a claim of executive privilege that blocked the search of Mr. Vincent Foster's offices on or after July 20, 1993; (3) the job title, duties, and national security assignments of Mr. Foster; (4) the reasons for Mr. Foster having in his office any of the President's personnel or business records not related to Mr. Foster's official duties; (5) the person in charge of Mr. Foster's office at the time White House officials were informed of his death; (6) the individuals who entered Mr. Foster's office within 48 hours after his death; and (7) any records removed from Mr. Foster's office.
+
+	</summary>
+</bill>

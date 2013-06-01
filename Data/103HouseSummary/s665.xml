@@ -1,0 +1,42 @@
+<bill session="103" type="s" number="665" updated="2012-07-17T05:35:58-04:00">
+	<state datetime="1993-03-26">REFERRED</state>
+	<status><introduced datetime="1993-03-26"/></status>
+
+	<introduced datetime="1993-03-26"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for special immigrant status for certain aliens working as journalists in Hong Kong.</title>
+	</titles>
+	<sponsor id="400562"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-26" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3867-3868)</text></action>
+		<action datetime="1993-03-26" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-04-29"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Immigration and Refugee Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Immigration and Refugee Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1265" />
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Aliens"/>
+		<term name="China"/>
+		<term name="Families"/>
+		<term name="Hong Kong"/>
+		<term name="Reporters and reporting"/>
+		<term name="Visas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/26/1993--Introduced.
+Provides special immigrant status for certain nationals of Hong Kong or China working as journalists in Hong Kong.
+
+	</summary>
+</bill>

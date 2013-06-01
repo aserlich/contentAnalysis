@@ -1,0 +1,40 @@
+<bill session="103" type="s" number="2551" updated="2010-04-19T21:08:19-04:00">
+	<state datetime="1994-10-07">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-10-07" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-10-07"/>
+	<titles>
+		<title type="official" as="introduced">A bill to prohibit the duplication of benefits.</title>
+	</titles>
+	<sponsor id="405310"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1994-10-07" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S14681"/></vote>
+		<action datetime="1994-11-29"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-11-29T20:23:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-11-29"><text>Referred to the House Committee on Agriculture.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural economics"/>
+		<term name="Disaster relief"/>
+		<term name="Emergency management"/>
+		<term name="Farm production quotas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1994--Introduced.
+Amends the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Act, 1995 to limit certain disaster payments available to peanut producers.
+
+	</summary>
+</bill>

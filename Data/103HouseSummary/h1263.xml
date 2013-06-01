@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="1263" updated="2010-04-19T02:27:23-04:00">
+	<state datetime="1993-03-09">REFERRED</state>
+	<status><introduced datetime="1993-03-09"/></status>
+
+	<introduced datetime="1993-03-09"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to direct the Secretary of Health and Human Services to determine whether individuals entitled to benefits under the medicare program meet the requirements for status as qualified medicare beneficiaries under the medicaid program, and for other purposes.</title>
+	</titles>
+	<sponsor id="407351"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-09"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-03-09"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-11"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Public assistance programs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/9/1993--Introduced.
+Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to direct the Secretary of Health and Human Services to determine whether individuals entitled to benefits under Medicare part A (Hospital Insurance) qualify for Medicaid payment of their Medicare out-of-pocket expenses.
+
+	</summary>
+</bill>

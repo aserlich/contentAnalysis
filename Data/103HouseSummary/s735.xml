@@ -1,0 +1,46 @@
+<bill session="103" type="s" number="735" updated="2012-07-17T06:05:39-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="short" as="introduced">Bovine Growth Hormone Milk Labeling Act</title>
+		<title type="official" as="introduced">A bill to amend the Federal Food, Drug, and Cosmetic Act with respect to the labeling of milk and milk products, and for other purposes.</title>
+	</titles>
+	<sponsor id="300042"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4323-4326)</text></action>
+		<action datetime="1993-04-01" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-04-12"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Agricultural Research.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Agricultural Research, Conservation, Forestry and General Legislation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1906" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Administrative procedure"/>
+		<term name="Business records"/>
+		<term name="Cattle"/>
+		<term name="Department of Agriculture"/>
+		<term name="Hormones"/>
+		<term name="Labeling"/>
+		<term name="Milk"/>
+		<term name="Recombinant DNA"/>
+		<term name="Veterinary medicine"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Bovine Growth Hormone Milk Labeling Act - Amends the Federal Food, Drug, and Cosmetic Act to require that all milk and milk products labels indicate whether or not the product is derived from cows injected with bovine growth hormone. Sets forth related bovine growth hormone recordkeeping requirements.
+
+	</summary>
+</bill>

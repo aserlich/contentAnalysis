@@ -1,0 +1,69 @@
+<bill session="103" type="s" number="472" updated="2012-07-17T04:05:07-04:00">
+	<state datetime="1994-06-16">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-06-16" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-03-02"/>
+	<titles>
+		<title type="short" as="introduced">Land Management Agency Housing Improvement Act of 1993</title>
+		<title type="short" as="reported to senate">Land Management Agency Housing Improvement Act of 1994</title>
+		<title type="short" as="passed senate">Land Management Agency Housing Improvement Act of 1994</title>
+		<title type="official" as="introduced">A bill to improve the administration and management of public lands, National Forests, units of the National Park System, and related areas by improving the availability of adequate, appropriate, affordable, and cost effective housing for employees needed to effectively manage the public lands.</title>
+	</titles>
+	<sponsor id="411271"/>
+	<cosponsors>
+		<cosponsor id="300150" joined="1993-03-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-02" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2212-2214)</text></action>
+		<action datetime="1993-03-02" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-03-03"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1993-03-09"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of Agriculture, Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1993-05-13"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, Department of Agriculture, and Office of Management and Budget.</text></action>
+		<action datetime="1993-11-08"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Departments of Agriculture, Interior and Office of Management and Budget.</text></action>
+		<action datetime="1993-11-08"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of Agriculture, Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1993-11-18"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed: S.Hrg. 103-539.</text></action>
+		<calendar datetime="1994-05-11"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1994-05-25"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments. With written report No. 103-271.</text></action>
+		<calendar under="General Orders" number="442" datetime="1994-05-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 442.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-06-16" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with amendments by Voice Vote.</text><reference label="consideration" ref="CR S7087-7088"/></vote>
+		<action datetime="1994-06-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-06-21T12:07:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-06-21"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-08-30"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Census"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Department of Agriculture"/>
+		<term name="Department of the Interior"/>
+		<term name="Federal employees"/>
+		<term name="Government operations and politics"/>
+		<term name="Housing and community development"/>
+		<term name="Labor and employment"/>
+		<term name="Maintenance and repair"/>
+		<term name="National forests"/>
+		<term name="Rent"/>
+		<term name="Rental housing"/>
+		<term name="Residential rehabilitation"/>
+		<term name="Surveys"/>
+		<term name="Transfer of employees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/16/1994--Passed Senate amended. Land Management Agency Housing Improvement Act of 1994 - Authorizes the Secretaries of the Interior and of Agriculture to make employee housing available on or off public lands and to rent or lease housing to employees at a reasonable value. Directs the Secretaries to conduct a survey of the availability of quarters at field units at least every five years. Authorizes the Secretaries to provide suitable quarters under this Act if such survey indicates that government owned or suitable privately owned quarters are not available to the personnel assigned to a specific duty station. Authorizes the Secretaries to: (1) determine that secondary quarters for employees who are permanently duty stationed at remote locations and are regularly required to relocate for temporary periods are necessary for the effective administration of an area; and (2) make such secondary quarters available to employees either on or off public lands. Requires the Secretaries to survey all existing government owned employee housing facilities under the jurisdiction of the Departments of the Interior and of Agriculture to assess physical condition and suitability. Directs the Secretaries to develop an agency-wide priority listing, by structure, identifying those units in greatest need of repair, rehabilitation, replacement, or initial construction and to transmit such survey and listing to specified congressional committees. Specifies that: (1) unless otherwise provided by law, expenditure of any funds appropriated for construction, repair, or rehabilitation shall follow the priority listing established by each agency; and (2) funding available from other sources for employee housing repair may be distributed as determined by the Secretaries. Authorizes appropriations.
+
+	</summary>
+</bill>

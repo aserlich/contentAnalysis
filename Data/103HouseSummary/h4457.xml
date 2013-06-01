@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="4457" updated="2010-04-19T10:45:50-04:00">
+	<state datetime="1994-05-19">REFERRED</state>
+	<status><introduced datetime="1994-05-19"/></status>
+
+	<introduced datetime="1994-05-19"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Balanced Budget and Emergency Deficit Control Act of 1985 to provide special look-back treatment for emergency appropriations, and for other purposes.</title>
+	</titles>
+	<sponsor id="400206"/>
+	<cosponsors>
+		<cosponsor id="400428" joined="1994-08-03"/>
+		<cosponsor id="400567" joined="1994-08-03"/>
+		<cosponsor id="400055" joined="1994-08-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-19"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-05-19"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1994-05-24"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Appropriations"/>
+		<term name="Budget deficits"/>
+		<term name="Budgets"/>
+		<term name="Government spending reductions"/>
+		<term name="Off-budget expenditures"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/19/1994--Introduced.
+Amends the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act) to repeal the rule for emergency appropriations. Requires, when emergency appropriations are enacted for a fiscal year in progress, a reduction in discretionary spending limits in the following fiscal year.
+
+	</summary>
+</bill>

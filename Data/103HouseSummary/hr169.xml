@@ -1,0 +1,38 @@
+<bill session="103" type="hr" number="169" updated="2010-04-19T13:25:04-04:00">
+	<state datetime="1993-05-11">REFERRED</state>
+	<status><introduced datetime="1993-05-11"/></status>
+
+	<introduced datetime="1993-05-11"/>
+	<titles>
+		<title type="official" as="introduced">Designating the week beginning November 14, 1993, and the week beginning November 13, 1994, each as &quot;Geography Awareness Week&quot;.</title>
+	</titles>
+	<sponsor id="400216"/>
+	<cosponsors>
+		<cosponsor id="400586" joined="1993-05-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-11"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-11-10"><committee name="House Committee on Post Office and Civil Service"/><text>See S.J.Res.131.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="197" />
+		<bill relation="identical" session="103" type="sj" number="131" />
+		<bill relation="unknown" session="103" type="sj" number="131" />
+	</relatedbills>
+	<subjects>
+		<term name="Special weeks"/>
+		<term name="Commemorations"/>
+		<term name="Geography"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/11/1993--Introduced.
+Designates the weeks beginning November 14, 1993, and November 13, 1994, as Geography Awareness Week.
+
+	</summary>
+</bill>

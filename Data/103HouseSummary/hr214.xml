@@ -1,0 +1,42 @@
+<bill session="103" type="hr" number="214" updated="2010-04-19T13:32:16-04:00">
+	<state datetime="1993-07-14T11:08:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-07-14T11:08:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-06-29"/>
+	<titles>
+		<title type="official" as="introduced">Waiving certain points of order against the bill (H.R. 2520) making appropriations for the Department of the Interior and related agencies for the fiscal year ending September 30, 1994, and for other purposes.</title>
+	</titles>
+	<sponsor id="400155"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-29T22:54:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-163, by Mr. Gordon.</text></action>
+		<action datetime="1993-06-29T22:54:00-04:00"><text>Rule provides for consideration of H.R. 2520. Waiving all points of order against consideration of the bill. During consideration of the bill all points of order against provisions specified in the text of this resolution for failure to comply with clause 2 or 6 of rule XXI shall be waived. Where points of order are waived against a part of a paragraph, a point of order against the balance of the paragraph may apply only to the balance of the paragraph and not against the entire paragraph.</text></action>
+		<calendar datetime="1993-06-29T22:54:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 62.</text></calendar>
+		<action datetime="1993-07-14T10:49:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H4583-4585"/></action>
+		<action datetime="1993-07-14T10:50:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-07-14T11:08:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-07-14T11:08:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1993-07-14T11:09:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2520" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Appropriations"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/29/1993--Introduced.
+Waives points of order against the consideration of H.R. 2520 (FY 1994 appropriations for the Department of the Interior and related agencies).
+
+	</summary>
+</bill>

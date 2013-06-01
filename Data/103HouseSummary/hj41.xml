@@ -1,0 +1,43 @@
+<bill session="103" type="hj" number="41" updated="2010-04-18T21:57:19-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="popular" as="">Term Limits bill</title>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to provide for a four-year term for Members of the House of Representatives.</title>
+	</titles>
+	<sponsor id="409966"/>
+	<cosponsors>
+		<cosponsor id="404869" joined="1993-04-21"/>
+		<cosponsor id="405313" joined="1993-04-21"/>
+		<cosponsor id="408618" joined="1993-04-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congressional candidates"/>
+		<term name="Congressional elections (Senate)"/>
+		<term name="Congressional terms of office"/>
+		<term name="Constitutional amendments"/>
+		<term name="Members of Congress (House)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Constitutional Amendment - Establishes a four-year term of office for Members of the House of Representatives to coincide with the President's term of office. Requires any Representative who officially declares the candidacy for election to the Senate to resign his or her seat at the time of the declaration.
+
+	</summary>
+</bill>

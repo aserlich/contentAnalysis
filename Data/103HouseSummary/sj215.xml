@@ -1,0 +1,55 @@
+<bill session="103" type="sj" number="215" updated="2012-07-17T04:56:20-04:00">
+	<state datetime="1994-08-19">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-08-19" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-08-05"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution designating September 5, 1994, Labor Day, as &quot;Try American Day&quot;.</title>
+	</titles>
+	<sponsor id="403515"/>
+	<cosponsors>
+		<cosponsor id="300150" joined="1994-08-13"/>
+		<cosponsor id="403346" joined="1994-08-13"/>
+		<cosponsor id="300043" joined="1994-08-13"/>
+		<cosponsor id="300036" joined="1994-08-13"/>
+		<cosponsor id="403142" joined="1994-08-13"/>
+		<cosponsor id="300092" joined="1994-08-13"/>
+		<cosponsor id="401874" joined="1994-08-13"/>
+		<cosponsor id="405310" joined="1994-08-13"/>
+		<cosponsor id="300073" joined="1994-08-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-05" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S10888-10889)</text></action>
+		<action datetime="1994-08-05" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1994-08-19"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S12207"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-08-19" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment and with a preamble by Voice Vote.</text></vote>
+		<action datetime="1994-08-23"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-08-23T10:02:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-08-23"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="392" />
+	</relatedbills>
+	<subjects>
+		<term name="Special days"/>
+		<term name="Buy American"/>
+		<term name="Commemorations"/>
+		<term name="Commerce"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Labor Day"/>
+		<term name="Labor and employment"/>
+		<term name="Quality of products"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/1994--Introduced.
+Designates September 5, 1994, Labor Day, as Try American Day.
+
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="2635" updated="2010-04-19T06:02:19-04:00">
+	<state datetime="1993-07-14">REFERRED</state>
+	<status><introduced datetime="1993-07-14"/></status>
+
+	<introduced datetime="1993-07-14"/>
+	<titles>
+		<title type="short" as="introduced">Fair Competition Act of 1993</title>
+		<title type="official" as="introduced">To amend title 31, United States Code, to provide increased contracting opportunities for private firms by encouraging agencies of the Federal Government to enter into contracts for commercial activities performed for State and local government, and for other purposes.</title>
+	</titles>
+	<sponsor id="300097"/>
+	<cosponsors>
+		<cosponsor id="400036" joined="1993-07-14"/>
+		<cosponsor id="409633" joined="1993-07-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-14"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-07-16"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public contracts"/>
+		<term name="Federal-local relations"/>
+		<term name="Federal-state relations"/>
+		<term name="Government and business"/>
+		<term name="Government service contracts"/>
+		<term name="Privatization"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/14/1993--Introduced.
+Fair Competition Act of 1993 - Amends Federal law to prohibit an executive agency from providing commercial activities to a State or local government unless a public notification and search of potential private sector providers by the agency determines that an activity is of such a unique nature that no private sector provider can perform such services.
+
+	</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="2091" updated="2010-04-19T04:38:06-04:00">
+	<state datetime="1993-05-12">REFERRED</state>
+	<status><introduced datetime="1993-05-12"/></status>
+
+	<introduced datetime="1993-05-12"/>
+	<titles>
+		<title type="short" as="introduced">Independent Sales Representatives Bankruptcy Reform Act of 1993</title>
+		<title type="official" as="introduced">To amend section 507(a)(3) of title 11 of the United States Code to give priority to certain claims of persons that are independent sales representatives.</title>
+	</titles>
+	<sponsor id="400116"/>
+	<cosponsors>
+		<cosponsor id="400553" joined="1994-02-23"/>
+		<cosponsor id="400010" joined="1993-10-21"/>
+		<cosponsor id="400057" joined="1993-09-21"/>
+		<cosponsor id="400223" joined="1993-06-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-12"><text>Sponsor introductory remarks on measure. (CR E1225)</text></action>
+		<action datetime="1993-05-12"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-14"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1272" />
+	</relatedbills>
+	<subjects>
+		<term name="Bankruptcy"/>
+		<term name="Claims"/>
+		<term name="Debtor and creditor"/>
+		<term name="Sales personnel"/>
+		<term name="Self-employed"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/12/1993--Introduced.
+Independent Sales Representatives Bankruptcy Reform Act of 1993 - Amends Federal bankruptcy law to include the claims and expenses of an independent sales representative among those entitled to statutory priority status.
+
+	</summary>
+</bill>

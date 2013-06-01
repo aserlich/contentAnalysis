@@ -1,0 +1,103 @@
+<bill session="103" type="h" number="1520" updated="2010-04-19T03:08:34-04:00">
+	<state datetime="1994-10-19">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-19" /></status>
+
+	<introduced datetime="1993-03-30"/>
+	<titles>
+		<title type="short" as="introduced">Petroleum Marketing Practices Act Amendments of 1993</title>
+		<title type="short" as="passed house">Petroleum Marketing Practices Act Amendments of 1994</title>
+		<title type="short" as="enacted">Petroleum Marketing Practices Act Amendments of 1994</title>
+		<title type="official" as="introduced">To amend the Petroleum Marketing Practices Act.</title>
+	</titles>
+	<sponsor id="300100"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="1993-03-30"/>
+		<cosponsor id="402763" joined="1993-03-30"/>
+		<cosponsor id="400149" joined="1993-05-24"/>
+		<cosponsor id="400064" joined="1993-05-27"/>
+		<cosponsor id="400295" joined="1993-06-10"/>
+		<cosponsor id="400397" joined="1993-05-18"/>
+		<cosponsor id="410496" joined="1993-03-30"/>
+		<cosponsor id="400307" joined="1993-03-30"/>
+		<cosponsor id="400003" joined="1993-03-30"/>
+		<cosponsor id="409442" joined="1993-03-30"/>
+		<cosponsor id="400543" joined="1993-04-07"/>
+		<cosponsor id="410589" joined="1993-03-31"/>
+		<cosponsor id="400524" joined="1993-05-18"/>
+		<cosponsor id="401383" joined="1993-05-27"/>
+		<cosponsor id="410567" joined="1993-03-30"/>
+		<cosponsor id="400316" joined="1993-05-18"/>
+		<cosponsor id="406482" joined="1993-03-30"/>
+		<cosponsor id="406729" joined="1993-03-30"/>
+		<cosponsor id="400308" joined="1993-03-30"/>
+		<cosponsor id="407153" joined="1993-04-07"/>
+		<cosponsor id="407672" joined="1993-06-10"/>
+		<cosponsor id="400590" joined="1993-03-30"/>
+		<cosponsor id="400110" joined="1993-03-30"/>
+		<cosponsor id="407141" joined="1993-03-30"/>
+		<cosponsor id="300085" joined="1993-05-18"/>
+		<cosponsor id="404068" joined="1993-03-30"/>
+		<cosponsor id="400299" joined="1993-05-18"/>
+		<cosponsor id="400081" joined="1993-05-18"/>
+		<cosponsor id="409793" joined="1993-03-30"/>
+		<cosponsor id="400189" joined="1993-06-10"/>
+		<cosponsor id="400043" joined="1993-04-07"/>
+		<cosponsor id="400438" joined="1993-05-25"/>
+		<cosponsor id="400150" joined="1993-03-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-30"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-04-26"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Energy and Power.</text></action>
+		<action datetime="1993-05-19"><committee name="House Committee on Energy and Commerce" subcommittee="Energy and Power"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-05-19"><committee name="House Committee on Energy and Commerce" subcommittee="Energy and Power"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-05-19"><committee name="House Committee on Energy and Commerce" subcommittee="Energy and Power"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1993-05-25"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-06-08"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-06-08"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-09-22T17:08:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 103-737.</text></action>
+		<calendar number="407" datetime="1994-09-22T17:08:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 407.</text></calendar>
+		<action datetime="1994-10-03T16:05:00-04:00"><text>Mr. Sharp moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-03T16:05:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10575-10576"/></action>
+		<action datetime="1994-10-03T16:05:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-03T16:11:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1994-10-04T18:44:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10735"/></action>
+		<vote how="roll" type="vote" roll="476" datetime="1994-10-04T18:54:00-04:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 413 - 0 (Roll No. 476).</text></vote>
+		<action datetime="1994-10-04T18:54:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-05" where="s" result="pass"  state="PASSED:BILL"><text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S14236"/></vote>
+		<topresident datetime="1994-10-05" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-06"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-11" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-19" ><text>Signed by President.</text></signed>
+		<enacted number="103-371" type="public" datetime="1994-10-19"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-371.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="HSIF-03" name="House Energy and Commerce" subcommittee="Energy and Power" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="338" />
+	</relatedbills>
+	<subjects>
+		<term name="Petroleum"/>
+		<term name="Business"/>
+		<term name="Contracts"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Federal preemption"/>
+		<term name="Franchises (Retail trade)"/>
+		<term name="Gasoline"/>
+		<term name="Leases"/>
+		<term name="Municipal ordinances"/>
+		<term name="Petroleum industry"/>
+		<term name="Service stations"/>
+		<term name="State and local government"/>
+		<term name="State laws"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/4/1994--Passed House amended. Petroleum Marketing Practices Act Amendments of 1994 - Amends the Petroleum Marketing Practices Act to allow as grounds for nonrenewal of a franchise relationship the failure of the parties to agree to changes to the franchise provisions if such failure is not the result of the franchisor's insistence for the purpose of converting the leased marketing premises to operation by the franchisor's employees or agents (that is, turning the franchise into a company-owned station). Requires a franchisor that does not wish to exercise its underlying lease options to lease or purchase the marketing premises to offer to assign them to the franchisee as a prerequisite to termination or nonrenewal of the franchise relationship. Bars a franchisor from requiring, as a condition of the franchise relationship, that the franchisee waive or release its rights under Federal or State law. Declares invalid and unenforceable any franchise provision which specifies that franchise interpretation or enforcement shall be governed by the law of any State other than the one in which the franchisee has its principal place of business. Prohibits a State or any political subdivision from implementing any law or regulation which requires payment for a franchisee's goodwill upon either termination or nonrenewal of a franchise. Permits State law to specify the terms and conditions under which a franchise or franchise relationship may be transferred to a franchisee's designated successor upon the franchisee's death. Amends the definition of &quot;failure&quot; to provide that it does not include any failure based on a provision of the franchise which is illegal or unenforceable under State law.
+
+	</summary>
+</bill>

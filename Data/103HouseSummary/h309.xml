@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="309" updated="2010-04-18T23:47:49-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend titles XVIII and XIX of the Social Security Act to provide for inclusion of the services of registered professional nurses under the medicare and medicaid programs.</title>
+	</titles>
+	<sponsor id="408976"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-15"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-02-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Nursing"/>
+		<term name="Public assistance programs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends titles XVIII (Medicare) and XIX (Medicaid) of the Social Security Act to include medical care, or other remedial care as defined by State law, furnished by registered professional nurses among the services to be provided under the Medicare and Medicaid programs.
+
+	</summary>
+</bill>

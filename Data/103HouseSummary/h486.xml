@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="486" updated="2010-04-19T00:16:51-04:00">
+	<state datetime="1993-12-14">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-14" /></status>
+
+	<introduced datetime="1993-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To provide for the addition of the Truman Farm Home to the Harry S. Truman National Historic Site in the State of Missouri.</title>
+	</titles>
+	<sponsor id="411488"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-02-04"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-03-16"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-03-25"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-03-31"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-03-31"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 17.</text></calendar>
+		<action datetime="1993-11-20T17:53:00-05:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-399.</text></action>
+		<calendar number="223" datetime="1993-11-20T17:54:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 223.</text></calendar>
+		<action datetime="1993-11-23T01:12:00-05:00"><text>Mr. Vento asked unanimous consent to discharge the Committee of the Whole House on the state of the Union and consider.</text></action>
+		<action datetime="1993-11-23T01:15:00-05:00"><text>Considered by unanimous consent. (consideration: CR 11/22/93 H10918-10921)</text></action>
+		<vote how="without objection" type="vote" datetime="1993-11-23T01:15:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-11-23T01:16:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-23"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-11-24" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S17225"/></vote>
+		<topresident datetime="1993-11-24" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-11-26"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-12-08" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-14" ><text>Signed by President.</text></signed>
+		<enacted number="103-184" type="public" datetime="1993-12-14"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-184.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Historic sites"/>
+		<term name="Commemorations"/>
+		<term name="Farms"/>
+		<term name="History"/>
+		<term name="Land transfers"/>
+		<term name="Missouri"/>
+		<term name="Presidents"/>
+		<term name="Public lands"/>
+		<term name="Real estate development"/>
+		<term name="State and local government"/>
+	</subjects>
+	<amendments>
+		<amendment number="h419"/>
+	</amendments>
+	<summary>
+	11/23/1993--Passed House amended. Authorizes the Secretary of the Interior to acquire the Truman Farm Home in Grandview, Jackson County, Missouri, to add to the Harry S. Truman National Historic Site. Directs the Secretary to provide appropriate political subdivisions of Missouri with technical and planning assistance for the development and implementation of plans, programs, regulations, or other means for minimizing the adverse effects on the Truman Farm House of the development and use of adjacent lands.
+
+	</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="103" type="s" number="1192" updated="2012-07-17T04:20:45-04:00">
+	<state datetime="1993-08-03">REPORTED</state>
+	<status><calendar datetime="1993-08-03" /></status>
+
+	<introduced datetime="1993-07-01"/>
+	<titles>
+		<title type="short" as="introduced">Soldotna Airport Improvement Act of 1993</title>
+		<title type="short" as="reported to senate">Soldotna Airport Improvement Act of 1993</title>
+		<title type="official" as="introduced">A bill to authorize the Secretary of Transportation to release restrictions on the use of certain property conveyed to the city of Soldotna, Alaska, for airport purposes.</title>
+	</titles>
+	<sponsor id="300094"/>
+	<cosponsors>
+		<cosponsor id="300150" joined="1993-07-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-01" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8461)</text></action>
+		<action datetime="1993-07-01" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<calendar datetime="1993-08-03"  state="REPORTED"><committee name="Committee on Commerce"/><text>Committee on Commerce. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action datetime="1993-08-24"><text>Committee on Commerce. Reported to Senate by Senator Hollings under the authority of the order of Aug 2, 93 with an amendment. With written report No. 103-131.</text></action>
+		<calendar under="General Orders" number="188" datetime="1993-08-24" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 188.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Airports"/>
+		<term name="Alaska"/>
+		<term name="Land transfers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/24/1993--Reported to Senate amended. Soldotna Airport Improvement Act of 1993 - Prescribes conditions under which the Secretary of Transportation may grant releases from the terms of a specified deed of conveyance under which the United States conveyed certain property to the city of Soldotna, Alaska, for airport purposes.
+
+	</summary>
+</bill>

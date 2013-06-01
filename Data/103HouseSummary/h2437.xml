@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="2437" updated="2010-04-19T05:31:36-04:00">
+	<state datetime="1993-06-16">REFERRED</state>
+	<status><introduced datetime="1993-06-16"/></status>
+
+	<introduced datetime="1993-06-16"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 5, United States Code, to allow Federal employees to take parental leave for purposes of participating in or attending certain education-related activities.</title>
+	</titles>
+	<sponsor id="409650"/>
+	<cosponsors>
+		<cosponsor id="411488" joined="1994-05-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-16"><text>Sponsor introductory remarks on measure. (CR E1523)</text></action>
+		<action datetime="1993-06-16"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-06-18"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Education"/>
+		<term name="Elementary education"/>
+		<term name="Parent-school relationships"/>
+		<term name="Parental leave"/>
+		<term name="Secondary education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/16/1993--Introduced.
+Allows full- or part-time executive agency employees with at least one year of executive agency service to take off one day each calendar year without loss of pay, leave, or creditable service in order to participate in school activities of their children.
+
+	</summary>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="1997" updated="2010-04-19T04:23:35-04:00">
+	<state datetime="1993-05-05">REFERRED</state>
+	<status><introduced datetime="1993-05-05"/></status>
+
+	<introduced datetime="1993-05-05"/>
+	<titles>
+		<title type="short" as="introduced">American Timber Supply and Manufacturing Incentives Act</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide incentives for domestic timber production and manufacturing, and to deny the benefits of certain export subsidies in the case of exports of unprocessed timber.</title>
+	</titles>
+	<sponsor id="400100"/>
+	<cosponsors>
+		<cosponsor id="400180" joined="1993-06-14"/>
+		<cosponsor id="411725" joined="1993-06-14"/>
+		<cosponsor id="400316" joined="1993-06-14"/>
+		<cosponsor id="300085" joined="1993-06-14"/>
+		<cosponsor id="406605" joined="1994-09-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Select Revenue Measures.</text></action>
+		<action datetime="1993-06-17"><committee name="House Committee on Ways and Means" subcommittee="Select Revenue Measures"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-05" name="House Ways and Means" subcommittee="Select Revenue Measures" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Accounting"/>
+		<term name="Business losses"/>
+		<term name="Capital gains tax"/>
+		<term name="Corporation taxes"/>
+		<term name="Export subsidies"/>
+		<term name="Exports"/>
+		<term name="Foreign corporations"/>
+		<term name="Foreign trade"/>
+		<term name="Lumber trade"/>
+		<term name="Tax deductions"/>
+		<term name="Tax deferral"/>
+		<term name="Tax exclusion"/>
+		<term name="Taxation of foreign income"/>
+		<term name="Timber sales"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/5/1993--Introduced.
+American Timber Supply and Manufacturing Incentives Act - Amends the Internal Revenue Code to provide taxpayers a deduction from gross income for qualified timber gain as an investment incentive. Allows such deduction in computing adjusted gross income. Provides for applying passive loss limitations to timber activities. Provides that export property eligible for certain tax incentives does not include any unprocessed softwood timber for purposes of: (1) taxation of foreign sales corporations (FSCs); and (2) taxation of domestic international sales corporations (DISCs). Requires any income from the sale of such unprocessed timber which was cut from an area in the United States to be sourced in the United States. Excludes such income from rules under which: (1) gains, profits, and income involving inventory property purchased in the United States but sold or exchanged elsewhere may be sourced foreign; and (2) income derived from the manufacture of products in the United States and their sale elsewhere may be treated as having a divided source. Repeals the deferral from income of the controlled foreign corporation from sales or milling (outside the United States) of unprocessed softwood timber to the extent that any controlled foreign corporation is owned by ten percent or more U.S. shareholders.
+
+	</summary>
+</bill>

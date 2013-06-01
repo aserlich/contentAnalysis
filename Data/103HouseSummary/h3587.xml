@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="3587" updated="2010-04-19T08:29:54-04:00">
+	<state datetime="1993-11-20">REFERRED</state>
+	<status><introduced datetime="1993-11-20"/></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="short" as="introduced">Syndex Fairness Act of 1993</title>
+		<title type="official" as="introduced">To require the Federal Communications Commission to amend the program exclusivity and nonduplication rules relating to cable television system blackouts to permit carriage of network programming from broadcasts within the same State.</title>
+	</titles>
+	<sponsor id="400113"/>
+	<cosponsors>
+		<cosponsor id="400023" joined="1994-01-25"/>
+		<cosponsor id="404869" joined="1993-11-20"/>
+		<cosponsor id="402454" joined="1993-11-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-20"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-12-20"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Communications"/>
+		<term name="Administrative procedure"/>
+		<term name="Cable television"/>
+		<term name="Executive departments"/>
+		<term name="Federal Communications Commission"/>
+		<term name="Independent regulatory commissions"/>
+		<term name="Rural affairs"/>
+		<term name="Sparsely populated areas"/>
+		<term name="Telecommunication"/>
+		<term name="Television broadcasting"/>
+		<term name="Television programs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+Syndex Fairness Act of 1993 - Requires the Federal Communications Commission to revise the regulations relating to nonduplication protection and syndicated exclusivity to permit the customers of cable television systems in towns, cities, or communities with populations of less than 50,000 to receive network programs for each network from affiliated television stations in the customers' States.
+
+	</summary>
+</bill>

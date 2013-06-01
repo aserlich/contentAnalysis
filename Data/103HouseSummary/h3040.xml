@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="3040" updated="2010-04-19T07:05:07-04:00">
+	<state datetime="1993-09-09">REFERRED</state>
+	<status><introduced datetime="1993-09-09"/></status>
+
+	<introduced datetime="1993-09-09"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 5, United States Code, to provide civil service retirement credit to a Federal employee for any period of service performed with the American Red Cross abroad during a period of war.</title>
+	</titles>
+	<sponsor id="405939"/>
+	<cosponsors>
+		<cosponsor id="400055" joined="1994-03-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-09"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-09-13"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Americans employed in foreign countries"/>
+		<term name="Charities"/>
+		<term name="Civil service retirement"/>
+		<term name="International relief"/>
+		<term name="Nongovernmental organizations"/>
+		<term name="War"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/9/1993--Introduced.
+Provides civil service retirement credit to a Federal employee who leaves his or her position to serve with the American Red Cross abroad during a period of war if such employee subsequently returns to Federal employment.
+
+	</summary>
+</bill>

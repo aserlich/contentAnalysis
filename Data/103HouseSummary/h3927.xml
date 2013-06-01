@@ -1,0 +1,66 @@
+<bill session="103" type="h" number="3927" updated="2010-04-19T09:23:04-04:00">
+	<state datetime="1994-03-01">REFERRED</state>
+	<status><introduced datetime="1994-03-01"/></status>
+
+	<introduced datetime="1994-03-01"/>
+	<titles>
+		<title type="short" as="introduced">Information Classification Act of 1994</title>
+		<title type="official" as="introduced">To provide for a uniform system for classifying and declassifying information, and for other purposes.</title>
+	</titles>
+	<sponsor id="404602"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1994-06-14"/>
+		<cosponsor id="409954" joined="1994-03-01"/>
+		<cosponsor id="401446" joined="1994-03-01"/>
+		<cosponsor id="406625" joined="1994-03-02"/>
+		<cosponsor id="400314" joined="1994-03-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-01"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-03-01"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-03-01"><text>Referred to the House Committee on Intelligence (Permanent).</text></action>
+		<action datetime="1994-03-01"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1994-03-04"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Information, Justice, Transportation and Agriculture.</text></action>
+		<action datetime="1994-03-21"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Acquisition.</text></action>
+		<action datetime="1994-03-21"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Acquisition" activity="Referral" />
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Information, Justice, Transportation, and Agriculture" activity="Referral" />
+		<committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, In Committee" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="National security"/>
+		<term name="Administrative procedure"/>
+		<term name="Classified defense information"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Defense policy"/>
+		<term name="Executive departments"/>
+		<term name="Executive reorganization"/>
+		<term name="Expedited congressional procedure"/>
+		<term name="General Services Administration"/>
+		<term name="Government information"/>
+		<term name="Intelligence activities"/>
+		<term name="Legislative resolutions"/>
+		<term name="Official secrets"/>
+		<term name="Presidential appointments"/>
+		<term name="Presidents"/>
+		<term name="Security classification (Government documents)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/1/1994--Introduced.
+Information Classification Act of 1994 - Amends the National Security Act of 1994 to add provisions relating to the classification and declassification of information. Allows information to be classified under such Act only if the public interest in knowing such information is outweighed by national security damage which could be expected to result from the release of such information. Provides that if there is reasonable doubt about the need to classify information, it shall not be classified. Specifies information that may be classified (military, diplomatic, or intelligence information, or research or technology critical to the national defense) and purposes for which information shall not be classified (to conceal violations of law, inefficiency, or error, prevent embarassment, restrain competition, or control access to information not clearly related to national security). Provides: (1) classification levels (exceptionally grave damage, serious damage); (2) classification authority only for the President and his designees; and (3) classification duration (ten years for the highest classification, six for the next level, with authorized extensions). Establishes the Information Security Oversight Office. Requires such Office to periodically review the classification of information under such Act. Directs the President to develop and submit to the Congress for approval a proposal for implementing this Act. Requires congressional approval by joint resolution.
+
+	</summary>
+</bill>

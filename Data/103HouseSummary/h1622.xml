@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="1622" updated="2010-04-19T03:24:45-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="official" as="introduced">To terminate annual direct grant assistance to the Commonwealth of the Northern Mariana Islands.</title>
+	</titles>
+	<sponsor id="400144"/>
+	<cosponsors>
+		<cosponsor id="400113" joined="1993-07-20"/>
+		<cosponsor id="400359" joined="1994-08-08"/>
+		<cosponsor id="400057" joined="1994-08-01"/>
+		<cosponsor id="400594" joined="1994-01-26"/>
+		<cosponsor id="400083" joined="1993-09-22"/>
+		<cosponsor id="402152" joined="1994-07-22"/>
+		<cosponsor id="400569" joined="1993-11-22"/>
+		<cosponsor id="411997" joined="1993-11-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee On Insular and International Affairs.</text></action>
+		<action datetime="1993-11-10"><committee name="House Committee on Natural Resources"/><text>Provisions Included in H.R.3400.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Insular and International Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Territories (U.S.)"/>
+		<term name="Grants-in-aid"/>
+		<term name="Northern Mariana Islands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Terminates Federal direct grant assistance to the Commonwealth of the Northern Mariana Islands under the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America.
+
+	</summary>
+</bill>

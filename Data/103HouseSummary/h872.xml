@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="872" updated="2010-04-19T01:21:33-04:00">
+	<state datetime="1993-02-04">REFERRED</state>
+	<status><introduced datetime="1993-02-04"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Pesticide Food Safety Act of 1993</title>
+		<title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to revise the authority under that Act to regulate pesticide chemical residues in food.</title>
+	</titles>
+	<sponsor id="400425"/>
+	<cosponsors>
+		<cosponsor id="400370" joined="1993-06-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04"><text>Sponsor introductory remarks on measure. (CR E295)</text></action>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="331" />
+	</relatedbills>
+	<subjects>
+		<term name="Food"/>
+		<term name="Administrative fees"/>
+		<term name="Administrative procedure"/>
+		<term name="Carcinogens"/>
+		<term name="Environmental Protection Agency"/>
+		<term name="Environmental protection"/>
+		<term name="Food additives"/>
+		<term name="Food adulteration and inspection"/>
+		<term name="Food safety"/>
+		<term name="Pesticide residues in food"/>
+		<term name="Potable water"/>
+		<term name="Risk assessment"/>
+		<term name="Standards"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Pesticide Food Safety Act of 1993 - Amends the Federal Food, Drug, and Cosmetic Act to exclude pesticide chemicals from the definition of &quot;food additive.&quot; Modifies the circumstances in which the presence of a pesticide chemical residue renders a food adulterated. Replaces provisions relating to tolerance for pesticide chemicals in or on raw agricultural commodities with provisions relating to tolerances and exemptions for pesticide chemical residues. Deems a pesticide chemical residue unsafe, unless it is within an established tolerances or an exemption is in effect. Authorizes the Administrator of the Environmental Protection Agency to establish a separate tolerance for a pesticide chemical residue with respect to food at the time the food is harvested, purchased at retail, and processed. Allows a tolerance only if the risk to human health from dietary exposure to the residue is negligible. Sets forth criteria for determining whether the risk is negligible. Requires, in determining dietary exposure, consideration of all other sources (including drinking water) of dietary exposure occurring over a lifetime. Sets forth a special exposure rule allowing, in certain circumstances, calculation of exposure to a food based on reliable data that provide the Administrator with a valid statistical basis to identify the percentage of the food in which the residue actually occurs. Requires, if a tolerance or exemption is revoked and the residue will unavoidably persist in the environment and contaminate food, that a new tolerance be established at the lowest level that permits only the unavoidable levels to remain in the food. Allows: (1) establishment, modification, or revocation of a tolerance or establishment or revocation of an exemption from a tolerance in response to a petition or on the initiative of the Administrator; and (2) an exemption if the residue is not a human or animal carcinogen and otherwise presents no risk to human health from dietary exposure. Conditions establishment and continuation of a tolerance or exemption on the existence of a practical method of residue detection that can be performed by the Secretary of Health and Human Services on a routine basis as part of surveillance and compliance sampling for residues. Allows any person to petition the Administrator for the establishment, modification, or revocation of a tolerance or exemption. Directs the Secretary to conduct surveillance and compliance sampling of food for pesticide chemical residues. Requires the Administrator to: (1) evaluate each existing tolerance or exemption; and (2) determine, for each method of detecting and measuring levels of residues, whether the method meets certain requirements of this Act. Mandates fees sufficient to provide, equip, and maintain adequate service with regard to the review of existing tolerances and exemptions and the review of methods of detecting and measuring levels of residues.
+
+	</summary>
+</bill>

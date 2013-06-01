@@ -1,0 +1,65 @@
+<bill session="103" type="h" number="4042" updated="2010-04-19T09:41:01-04:00">
+	<state datetime="1994-03-16">REFERRED</state>
+	<status><introduced datetime="1994-03-16"/></status>
+
+	<introduced datetime="1994-03-16"/>
+	<titles>
+		<title type="official" as="introduced">To require a report on the timeliness of processing applications for naturalization.</title>
+	</titles>
+	<sponsor id="400129"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1994-05-17"/>
+		<cosponsor id="400133" joined="1994-03-16"/>
+		<cosponsor id="404013" joined="1994-03-16"/>
+		<cosponsor id="400143" joined="1994-05-17"/>
+		<cosponsor id="400231" joined="1994-06-21"/>
+		<cosponsor id="400387" joined="1994-04-19"/>
+		<cosponsor id="407772" joined="1994-05-17"/>
+		<cosponsor id="403364" joined="1994-03-16"/>
+		<cosponsor id="400347" joined="1994-03-16"/>
+		<cosponsor id="400416" joined="1994-04-20"/>
+		<cosponsor id="401310" joined="1994-03-16"/>
+		<cosponsor id="400021" joined="1994-03-16"/>
+		<cosponsor id="400572" joined="1994-04-14"/>
+		<cosponsor id="409627" joined="1994-03-16"/>
+		<cosponsor id="400310" joined="1994-03-16"/>
+		<cosponsor id="410889" joined="1994-03-16"/>
+		<cosponsor id="400025" joined="1994-03-16"/>
+		<cosponsor id="400163" joined="1994-07-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-16"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-03-22"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Administrative fees"/>
+		<term name="Administrative procedure"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Department of Justice"/>
+		<term name="Executive departments"/>
+		<term name="Federal employees"/>
+		<term name="Government employees"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Law"/>
+		<term name="Naturalization"/>
+		<term name="Productivity in government"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/16/1994--Introduced.
+Directs the Commissioner of Immigration and Naturalization to report on the timeliness of processing naturalization applications.
+
+	</summary>
+</bill>

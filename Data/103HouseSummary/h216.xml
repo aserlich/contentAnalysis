@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="216" updated="2010-04-18T23:33:33-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to permit the next of kin of a deceased veteran to designate the style of flag to be furnished at the burial of such veteran.</title>
+	</titles>
+	<sponsor id="405939"/>
+	<cosponsors>
+		<cosponsor id="400584" joined="1994-02-23"/>
+		<cosponsor id="400329" joined="1993-09-30"/>
+		<cosponsor id="400520" joined="1993-08-06"/>
+		<cosponsor id="407153" joined="1994-07-13"/>
+		<cosponsor id="400083" joined="1994-08-05"/>
+		<cosponsor id="400265" joined="1994-01-25"/>
+		<cosponsor id="400107" joined="1993-11-09"/>
+		<cosponsor id="409633" joined="1993-11-18"/>
+		<cosponsor id="411997" joined="1993-11-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-01-25"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Housing and Memorial Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Veterans' Affairs" subcommittee="Housing and Memorial Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Flags"/>
+		<term name="Military cemeteries and funerals"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Permits the next of kin of a deceased veteran to designate the style of flag, draped or mounted, to be furnished at the burial of such veteran.
+
+	</summary>
+</bill>

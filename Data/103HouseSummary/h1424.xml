@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="1424" updated="2010-04-19T02:53:23-04:00">
+	<state datetime="1993-03-18">REFERRED</state>
+	<status><introduced datetime="1993-03-18"/></status>
+
+	<introduced datetime="1993-03-18"/>
+	<titles>
+		<title type="short" as="introduced">Social Security Disability Waiting Period Elimination Act of 1993</title>
+		<title type="official" as="introduced">To amend titles II and XVIII of the Social Security Act to eliminate the 5-month waiting period required in order for an individual to be eligible for benefits based on disability or for the disability freeze and to eliminate the 24-month waiting period for disabled individuals to become eligible for medicare benefits.</title>
+	</titles>
+	<sponsor id="400140"/>
+	<cosponsors>
+		<cosponsor id="411725" joined="1993-10-15"/>
+		<cosponsor id="400100" joined="1993-03-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-18"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-03-18"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-24"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+		<action datetime="1993-03-24"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Social security eligibility"/>
+		<term name="Widowers"/>
+		<term name="Widows"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/18/1993--Introduced.
+Social Security Disability Waiting Period Elimination Act of 1993 - Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to eliminate the five-month waiting period which is a prerequisite of eligibility for widow's or widower's insurance benefits on the basis of a disability and for disability insurance benefits. Eliminates the 24-month waiting period required before individuals may become eligible for hospital insurance benefits under part A (Hospital Insurance) of title XVIII (Medicare) of the Act on the basis of their entitlement to disability benefits under title II of the Act.
+
+	</summary>
+</bill>

@@ -1,0 +1,126 @@
+<bill session="103" type="h" number="109" updated="2010-04-18T23:17:01-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Department of the Environment Act of 1993</title>
+		<title type="short" as="introduced">Department of the Environment Act</title>
+		<title type="official" as="introduced">To establish the Department of the Environment, provide for a Bureau of Environmental Statistics and a Presidential Commission on Improving Environmental Protection, and for other purposes.</title>
+	</titles>
+	<sponsor id="400035"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="1993-02-03"/>
+		<cosponsor id="400428" joined="1993-01-27"/>
+		<cosponsor id="400210" joined="1993-02-16"/>
+		<cosponsor id="400126" joined="1993-03-16"/>
+		<cosponsor id="404083" joined="1993-02-17"/>
+		<cosponsor id="401494" joined="1993-03-02"/>
+		<cosponsor id="405775" joined="1993-03-02"/>
+		<cosponsor id="406431" joined="1993-03-16"/>
+		<cosponsor id="400122" joined="1993-07-28"/>
+		<cosponsor id="400156" joined="1993-02-03"/>
+		<cosponsor id="400333" joined="1993-04-29"/>
+		<cosponsor id="400295" joined="1993-02-16"/>
+		<cosponsor id="400885" joined="1993-05-25"/>
+		<cosponsor id="408109" joined="1993-01-27"/>
+		<cosponsor id="401014" joined="1993-02-17"/>
+		<cosponsor id="400332" joined="1993-01-27"/>
+		<cosponsor id="402750" joined="1993-03-16"/>
+		<cosponsor id="400003" joined="1993-01-27"/>
+		<cosponsor id="409570" joined="1993-02-16"/>
+		<cosponsor id="400370" joined="1993-01-05"/>
+		<cosponsor id="400585" joined="1993-03-16"/>
+		<cosponsor id="400524" joined="1993-02-16"/>
+		<cosponsor id="400143" joined="1993-03-02"/>
+		<cosponsor id="400312" joined="1993-02-16"/>
+		<cosponsor id="400359" joined="1993-04-29"/>
+		<cosponsor id="404375" joined="1993-02-16"/>
+		<cosponsor id="403364" joined="1993-02-16"/>
+		<cosponsor id="404097" joined="1993-03-16"/>
+		<cosponsor id="404978" joined="1993-04-21"/>
+		<cosponsor id="400308" joined="1993-02-16"/>
+		<cosponsor id="411065" joined="1993-03-02"/>
+		<cosponsor id="407817" joined="1993-02-17"/>
+		<cosponsor id="400594" joined="1993-03-09"/>
+		<cosponsor id="400436" joined="1993-02-17"/>
+		<cosponsor id="300156" joined="1993-03-09"/>
+		<cosponsor id="400251" joined="1993-02-17"/>
+		<cosponsor id="400614" joined="1993-04-21"/>
+		<cosponsor id="400178" joined="1993-02-16"/>
+		<cosponsor id="400378" joined="1993-03-02"/>
+		<cosponsor id="300091" joined="1993-02-17"/>
+		<cosponsor id="401947" joined="1993-02-17"/>
+		<cosponsor id="400536" joined="1993-02-03"/>
+		<cosponsor id="405524" joined="1993-01-05"/>
+		<cosponsor id="402152" joined="1993-03-02"/>
+		<cosponsor id="400357" joined="1993-02-17"/>
+		<cosponsor id="400438" joined="1993-04-21"/>
+		<cosponsor id="400150" joined="1993-01-27"/>
+		<cosponsor id="407044" joined="1993-01-05"/>
+		<cosponsor id="400301" joined="1993-02-16"/>
+		<cosponsor id="407669" joined="1993-02-03"/>
+		<cosponsor id="409052" joined="1993-02-16"/>
+		<cosponsor id="406554" joined="1993-02-03"/>
+		<cosponsor id="406790" joined="1993-02-03"/>
+		<cosponsor id="400223" joined="1993-02-17"/>
+		<cosponsor id="400537" joined="1993-02-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-01-19"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Economic Policy, Trade and Environment.</text></action>
+		<action datetime="1993-01-19"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Security, International Organizations and Human Rights.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Government Operations"/><text>For Further Action See H.R.3425.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Economic Policy, Trade, and Environment" activity="Referral" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Security, International Organizations, and Human Rights" activity="Referral" />
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="824" />
+		<bill relation="unknown" session="103" type="h" number="3425" />
+		<bill relation="identical" session="103" type="s" number="171" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Administrative procedure"/>
+		<term name="Air pollution measurement"/>
+		<term name="Alternative energy sources"/>
+		<term name="American technical assistance"/>
+		<term name="Carbon dioxide"/>
+		<term name="Climate"/>
+		<term name="Conferences"/>
+		<term name="Conflict of interests"/>
+		<term name="Eminent domain"/>
+		<term name="Energy conservation"/>
+		<term name="Energy policy"/>
+		<term name="Environmental Protection Agency"/>
+		<term name="Environmental research"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Government paperwork"/>
+		<term name="Grants-in-aid"/>
+		<term name="Greenhouse effect"/>
+		<term name="International agencies"/>
+		<term name="International environmental cooperation"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Presidential commissions"/>
+		<term name="Public contracts"/>
+		<term name="Real property"/>
+		<term name="Statistical services"/>
+		<term name="Treaties"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+TABLE OF CONTENTS: Title I: Elevation of the Environmental Protection Agency to Cabinet Level Title II: Environmental Role of the United States in International Organizations to Which it Belongs Title III: Establishment of the Commission on Improving Environmental Protection Title IV: Effective Date Department of the Environment Act of 1993- Title I: Elevation of the Environmental Protection Agency to Cabinet Level - Department of the Environment Act - Redesignates the Environmental Protection Agency (EPA) as the Department of the Environment. Encourages the Secretary of the Environment to: (1) assist the Secretary of State in participating in international environmental protection agreements and organizations; (2) conduct research on and develop responses to international environmental problems; and (3) provide assistance to foreign countries and international bodies to improve the environment. Establishes a Bureau of Environmental Statistics and an Advisory Council on Environmental Statistics. Authorizes appropriations. Authorizes grants to, and contracts with, State and local governments to assist in data collection. Directs the Secretary to enter into an agreement with the National Academy of Sciences for a report on the adequacy of the Department's data collection procedures and capabilities. Authorizes appropriations. Sets forth conflict-of-interest disclosure requirements for persons entering into arrangements for services with the Secretary. Requires public notice when the award of a contract may result in a conflict of interests. Title II: Environmental Role of the United States in International Organizations to Which It Belongs - Urges the Secretary of State to convene international conferences to encourage the exchange of information on energy efficiency and environmentally acceptable renewable energy sources. Requires the President to encourage the establishment of an international office to monitor annual generation of carbon dioxide and trace gases on a country-by-country basis. Title III: Establishment of the Commission on Improving Environmental Protection - Establishes the Commission on Improving Environmental Protection to make recommendations on the implementation of Federal environmental laws to protect human health and the environment. Authorizes appropriations. Title IV: Effective Date - Sets forth the effective date.
+
+	</summary>
+</bill>

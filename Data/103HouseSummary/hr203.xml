@@ -1,0 +1,42 @@
+<bill session="103" type="hr" number="203" updated="2010-04-19T13:30:31-04:00">
+	<state datetime="1993-06-23T17:10:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-06-23T17:10:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-06-22"/>
+	<titles>
+		<title type="official" as="introduced">Waiving certain points of order against the bill (H.R. 2445) making appropriations for energy and water development for the fiscal year ending September 30, 1994, and for other purposes.</title>
+	</titles>
+	<sponsor id="400143"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-22T17:09:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-147, by Mr. Frost.</text></action>
+		<action datetime="1993-06-22T17:09:00-04:00"><text>Rule provides for consideration of H.R. 2445. Waiving cetain points of order against the bill. No amendment affecting the subject of the Super Collider shall be in order, except as part of general reduction of amounts provided in the bill, the exception of one amendment offered by Rep Slattery of Kansas. Said amendment shall be debateabl for one hour equally divided, and not subject to further amendmetn or division in the House or in the Committee of the Whole</text></action>
+		<calendar datetime="1993-06-22T17:09:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 56.</text></calendar>
+		<action datetime="1993-06-23T16:14:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H3973-3980"/></action>
+		<action datetime="1993-06-23T16:14:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-06-23T17:09:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-06-23T17:10:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1993-06-23T17:10:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2445" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="House rules and procedure"/>
+		<term name="Public works"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/22/1993--Introduced.
+Waives points of order against the consideration of H.R. 2445 (energy and water development appropriations).
+
+	</summary>
+</bill>

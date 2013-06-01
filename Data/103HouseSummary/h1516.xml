@@ -1,0 +1,37 @@
+<bill session="103" type="h" number="1516" updated="2010-04-19T03:07:56-04:00">
+	<state datetime="1993-03-29">REFERRED</state>
+	<status><introduced datetime="1993-03-29"/></status>
+
+	<introduced datetime="1993-03-29"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Earl B. Chappell, Jr.</title>
+	</titles>
+	<sponsor id="400603"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-29"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-04-01"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Claims"/>
+		<term name="Federal employees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/29/1993--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named individual in full satisfaction of any claim against the United States for interest on the amount erroneously deducted from backpay awarded to such individual.
+
+	</summary>
+</bill>

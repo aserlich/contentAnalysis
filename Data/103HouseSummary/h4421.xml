@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="4421" updated="2010-04-19T10:40:12-04:00">
+	<state datetime="1994-05-12">REFERRED</state>
+	<status><introduced datetime="1994-05-12"/></status>
+
+	<introduced datetime="1994-05-12"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide that tax-exempt interest shall not be taken into account in determining the amount of social security benefits included in gross income.</title>
+	</titles>
+	<sponsor id="410147"/>
+	<cosponsors>
+		<cosponsor id="406768" joined="1994-05-12"/>
+		<cosponsor id="400176" joined="1994-07-13"/>
+		<cosponsor id="400365" joined="1994-05-12"/>
+		<cosponsor id="400144" joined="1994-07-29"/>
+		<cosponsor id="300062" joined="1994-05-12"/>
+		<cosponsor id="400504" joined="1994-05-12"/>
+		<cosponsor id="300014" joined="1994-05-12"/>
+		<cosponsor id="400012" joined="1994-05-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-12"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-05-16"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Finance"/>
+		<term name="Interest"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Pensions"/>
+		<term name="Railroad retirement plans"/>
+		<term name="Social security"/>
+		<term name="Tax exclusion"/>
+		<term name="Tax-exempt securities"/>
+		<term name="Taxation"/>
+		<term name="Transportation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/12/1994--Introduced.
+Amends the Internal Revenue Code to repeal the requirement that tax-exempt interest be taken into account when determining the amount of social security and railroad retirement benefits that is subject to tax.
+
+	</summary>
+</bill>

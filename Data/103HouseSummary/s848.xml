@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="848" updated="2012-07-17T04:07:09-04:00">
+	<state datetime="1993-04-29">REFERRED</state>
+	<status><introduced datetime="1993-04-29"/></status>
+
+	<introduced datetime="1993-04-29"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Agricultural Act of 1949 to modify the authority for haying and grazing on wheat and feed grain reduced acreage, and for other purposes.</title>
+	</titles>
+	<sponsor id="300048"/>
+	<cosponsors>
+		<cosponsor id="403669" joined="1993-04-29"/>
+		<cosponsor id="401874" joined="1993-11-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-29" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5218)</text></action>
+		<action datetime="1993-04-29" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-07-01"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Agricultural Research.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Agricultural Research, Conservation, Forestry and General Legislation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural price supports"/>
+		<term name="Feed grain program"/>
+		<term name="Grazing"/>
+		<term name="Leases"/>
+		<term name="Wheat"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/29/1993--Introduced.
+Amends the Agricultural Act of 1949 to modify the authority for haying and grazing on wheat and feed grain reduced acreage, including a provision under which producers can elect to lease such acreage back for specified fees.
+
+	</summary>
+</bill>

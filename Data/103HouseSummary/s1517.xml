@@ -1,0 +1,72 @@
+<bill session="103" type="s" number="1517" updated="2012-07-17T05:11:42-04:00">
+	<state datetime="1993-11-09">REPORTED</state>
+	<status><calendar datetime="1993-11-09" /></status>
+
+	<introduced datetime="1993-10-05"/>
+	<titles>
+		<title type="short" as="introduced">Marine Biotechnology Investment Act of 1993</title>
+		<title type="short" as="reported to senate">Marine Biotechnology Investment Act of 1993</title>
+		<title type="official" as="introduced">A bill to establish a marine biotechnology program within the National Sea Grant College Program, and for other purposes.</title>
+	</titles>
+	<sponsor id="300053"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-10-05"/>
+		<cosponsor id="300150" joined="1993-11-10"/>
+		<cosponsor id="408597" joined="1993-10-05"/>
+		<cosponsor id="300060" joined="1993-10-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-05" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S13091-13092)</text></action>
+		<action datetime="1993-10-05" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<calendar datetime="1993-11-09"  state="REPORTED"><committee name="Committee on Commerce"/><text>Committee on Commerce. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<calendar under="General Orders" number="346" datetime="1993-12-09" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 346.</text></calendar>
+		<action datetime="1993-12-09"><text>Committee on Commerce. Reported to Senate by Senator Hollings under the authority of the order of Nov 17, 93 with an amendment in the nature of a substitute. With written report No. 103-219.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1916" />
+		<bill relation="unknown" session="103" type="h" number="4852" />
+	</relatedbills>
+	<subjects>
+		<term name="Science, technology, communications"/>
+		<term name="Agriculture and food"/>
+		<term name="Biological research"/>
+		<term name="Biotechnology"/>
+		<term name="Coastal zone"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Environmental assessment"/>
+		<term name="Environmental protection"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Federal aid to research"/>
+		<term name="Fish culture"/>
+		<term name="Genetic engineering"/>
+		<term name="Genetic research"/>
+		<term name="Government operations and politics"/>
+		<term name="Higher education"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Marine biology"/>
+		<term name="Marine pollution"/>
+		<term name="Marine resources conservation"/>
+		<term name="National Sea Grant Program"/>
+		<term name="Pacific Ocean"/>
+		<term name="Research and development"/>
+		<term name="Research grants"/>
+		<term name="Risk assessment"/>
+		<term name="Salmon fisheries"/>
+		<term name="Seafood"/>
+		<term name="Technology transfer"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/9/1993--Reported to Senate amended. Marine Biotechnology Investment Act of 1993 - Requires the Director of the Office of Science and Technology Policy to develop a National Marine Biotechnology Strategy for the establishment and implementation of a comprehensive research and development effort to assist the Nation in understanding and using marine biotechnology. Requires the submission of the Strategy to the President and Congress within one year after the date of enactment of this Act and a revised Strategy at least once every three years thereafter. Directs the Secretary of Commerce to maintain, within the National Oceanic and Atmospheric Administration, a balanced program of marine biotechnology activities. Prohibits the Secretary from conducting: (1) activities that may involve the release of organisms, unless such activities have been reviewed and approved under other applicable Federal law or are found to pose no significant environmental risk (and in the case of an intentional release of organisms, the Secretary may make such a finding only after providing notice and an opportunity for public comment); and (2) research or awarding a grant for marine biotechnology applications intended to promote or enhance farming, ranching, or other forms of captive cultivation (other than hatchery enhancement of wild stocks) of any species of Pacific salmon. Amends the National Sea Grant College Program Act to establish a program to further research, development, education, and technology transfer in marine biotechnology. Provides for the establishment of a Marine Biotechnology Review Panel. Authorizes appropriations.
+
+	</summary>
+</bill>

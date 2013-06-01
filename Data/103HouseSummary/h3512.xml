@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="3512" updated="2012-07-17T04:15:05-04:00">
+	<state datetime="1993-11-20T14:47:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-20T14:47:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-11-16"/>
+	<titles>
+		<title type="short" as="introduced">National Environmental Policy Act Administrative Reorganization Amendments of 1993</title>
+		<title type="official" as="introduced">To abolish the Council on Environmental Quality and to provide for the transfer of the duties and functions of the Council.</title>
+	</titles>
+	<sponsor id="410496"/>
+	<cosponsors>
+		<cosponsor id="400110" joined="1993-11-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-16" state="REFERRED"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-11-17"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1993-11-18"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-11-18"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-11-18"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Subcommittee on Environment and Natural Resources Discharged.</text></action>
+		<action datetime="1993-11-20T14:46:00-05:00"><text>Mr. Studds moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-11-20T14:46:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10382-10384"/></action>
+		<action datetime="1993-11-20T14:46:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-20T14:47:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-20T14:47:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-20"><text>Received in the Senate.</text></action>
+		<action datetime="1993-11-23"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral, Discharged" />
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3484" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Administrative procedure"/>
+		<term name="Authorization"/>
+		<term name="Economics and public finance"/>
+		<term name="Environmental assessment"/>
+		<term name="Executive Office of the President"/>
+		<term name="Executive reorganization"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Mediation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/16/1993--Introduced.
+National Environmental Policy Act Administrative Reorganization Amendments of 1993 - Amends the National Environmental Policy Act of 1969 (the Act) to replace provisions regarding the Council on Environmental Quality with those establishing an Office of National Environmental Policy (NEPA) Compliance in the Executive Office of the President. Requires the Office to be headed by a Director appointed by the President. Requires the Director to: (1) promulgate regulations governing the implementation of the Act by all Federal agencies; (2) mediate interagency disputes; and (3) monitor Federal agency implementation of the Act and regulations. Amends the Environmental Quality Improvement Act of 1970 to remove provisions regarding the Office of Environmental Quality. Authorizes appropriations for the Office of NEPA Compliance. Transfers certain duties of the Council, including making an annual report on the state of the environment, to the Secretary of the Environment. Authorizes appropriations. Terminates the Council and the Office of Environmental Quality and transfers functions to the Office of NEPA Compliance. Makes existing Council funds available for the Director.
+
+	</summary>
+</bill>

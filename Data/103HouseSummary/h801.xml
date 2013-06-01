@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="801" updated="2010-04-19T01:09:30-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit the export of satellites intended for launch from launch vehicles owned by China.</title>
+	</titles>
+	<sponsor id="410147"/>
+	<cosponsors>
+		<cosponsor id="400536" joined="1993-03-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Economic Policy, Trade and Environment.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Asia and the Pacific.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Security, International Organizations and Human Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Economic Policy, Trade, and Environment" activity="Referral" />
+		<committee code="HSFA-05" name="House Foreign Affairs" subcommittee="Asia and the Pacific" activity="Referral" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Security, International Organizations, and Human Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Artificial satellites"/>
+		<term name="China"/>
+		<term name="Export controls"/>
+		<term name="Launch vehicles"/>
+		<term name="Licenses"/>
+		<term name="Space policy"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Prohibits the issuance of a license under the Arms Export Control Act for the export of satellites intended for launch from a launch vehicle owned by China.
+
+	</summary>
+</bill>

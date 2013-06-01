@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="3563" updated="2010-04-19T08:26:13-04:00">
+	<state datetime="1993-11-19">REFERRED</state>
+	<status><introduced datetime="1993-11-19"/></status>
+
+	<introduced datetime="1993-11-19"/>
+	<titles>
+		<title type="short" as="introduced">U.S. Ship Safety and Competitiveness Act of 1993</title>
+		<title type="official" as="introduced">To provide for an exemption for certain United States flag ships from radio operator and equipment requirements.</title>
+	</titles>
+	<sponsor id="400221"/>
+	<cosponsors>
+		<cosponsor id="400091" joined="1994-02-10"/>
+		<cosponsor id="400583" joined="1994-02-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-19"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-11-20"><text>Sponsor introductory remarks on measure. (CR E2963)</text></action>
+		<action datetime="1993-12-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Ships"/>
+		<term name="Communications"/>
+		<term name="Emergency communication systems"/>
+		<term name="Marine safety"/>
+		<term name="Merchant seamen"/>
+		<term name="Radio"/>
+		<term name="Radio stations"/>
+		<term name="Standards"/>
+		<term name="Telecommunication"/>
+		<term name="Transportation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/19/1993--Introduced.
+U.S. Ship Safety and Competitiveness Act of 1993 - Amends the Communications Act of 1934 to exempt a U.S. ship operating in accordance with the Global Maritime Distress and Safety System provisions of the Safety Convention from radio operator and equipment requirements.
+
+	</summary>
+</bill>

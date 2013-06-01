@@ -1,0 +1,42 @@
+<bill session="103" type="hc" number="157" updated="2010-04-18T21:25:24-04:00">
+	<state datetime="1993-09-30">REFERRED</state>
+	<status><introduced datetime="1993-09-30"/></status>
+
+	<introduced datetime="1993-09-30"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress commemorating the heroism and lifetime achievements of the late General James H. &quot;Jimmy&quot; Doolittle, who died on September 27, 1993.</title>
+	</titles>
+	<sponsor id="400206"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-30"><text>Sponsor introductory remarks on measure. (CR E2328)</text></action>
+		<action datetime="1993-09-30"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-10-06"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Census, Statistics and Postal Personnel.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Census, Statistics and Postal Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="sc" number="46" />
+	</relatedbills>
+	<subjects>
+		<term name="Congressional tributes"/>
+		<term name="Air force personnel"/>
+		<term name="Aircraft pilots"/>
+		<term name="Commemorations"/>
+		<term name="Commercial aviation"/>
+		<term name="Military aviation"/>
+		<term name="Officer personnel"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/1993--Introduced.
+Expresses the thanks of the Nation in memory of General James H. &quot;Jimmy&quot; Doolittle, hero, aviation pioneer, scientist, and patriot, for his lifetime of service.
+
+	</summary>
+</bill>

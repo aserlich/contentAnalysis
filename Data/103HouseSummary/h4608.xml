@@ -1,0 +1,65 @@
+<bill session="103" type="h" number="4608" updated="2010-04-19T11:09:57-04:00">
+	<state datetime="1994-09-29">REPORTED</state>
+	<status><calendar datetime="1994-09-29" /></status>
+
+	<introduced datetime="1994-06-21"/>
+	<titles>
+		<title type="short" as="introduced">Patent and Trademark Office Authorization Act of 1994</title>
+		<title type="short" as="reported to house">Patent and Trademark Office Authorization Act of 1994</title>
+		<title type="official" as="introduced">To authorize appropriations for the Patent and Trademark Office in the Department of Commerce for fiscal year 1995, and for other purposes.</title>
+	</titles>
+	<sponsor id="405775"/>
+	<cosponsors>
+		<cosponsor id="407899" joined="1994-06-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-21"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-06-22"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+		<action datetime="1994-06-23"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-08-04"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-08-04"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1994-09-29"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-29"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1994-10-03T13:01:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-777.</text></action>
+		<calendar number="425" datetime="1994-10-03T13:02:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 425.</text></calendar>
+		<action datetime="1994-10-03T13:03:00-04:00"><text>Mr. Hughes moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-03T13:04:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10465-10466"/></action>
+		<action datetime="1994-10-03T13:04:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-03T13:15:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Rohrabacher objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1994-10-03T18:11:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10610-10611"/></action>
+		<action datetime="1994-10-03T18:53:00-04:00"><text>On motion to suspend the rules and pass the bill, as Failed by recorded vote (2/3 required): 146 - 251 (Roll no. 458).</text></action>
+		<action datetime="1994-10-03T18:53:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Patents"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Department of Commerce"/>
+		<term name="Executive compensation"/>
+		<term name="Executive departments"/>
+		<term name="Federal employees"/>
+		<term name="Federal officials"/>
+		<term name="Government employees"/>
+		<term name="Intellectual property"/>
+		<term name="Labor"/>
+		<term name="Layoffs"/>
+		<term name="Recruiting of employees"/>
+		<term name="Salaries"/>
+		<term name="Trademarks"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Reported to House amended. Patent and Trademark Office Authorization Act of 1994 - Authorizes appropriations to the U.S. Patent and Trademark Office for FY 1995. Prohibits a reduction in the number of full-time equivalent employees in the Office during the five-year period beginning on October 1, 1994, unless: (1) a law is enacted that specifically requires reductions in personnel or positions in such Office; or (2) the Commissioner of Patents and Trademarks determines that such reduction is in the best interests of the Office and the public. Exempts the Office, during such five-year period, from any law imposing a restriction on hiring by the executive agencies or reductions in force by executive agencies to achieve reductions in the Federal work force. Changes the status of the Commissioner from an Assistant Secretary of Commerce to an Under Secretary of Commerce (thereby allowing the Commissioner to be compensated at the same rate as Under Secretaries of Commerce).
+
+	</summary>
+</bill>

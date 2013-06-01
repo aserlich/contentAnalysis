@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="4374" updated="2010-04-19T10:32:48-04:00">
+	<state datetime="1994-05-10">REFERRED</state>
+	<status><introduced datetime="1994-05-10"/></status>
+
+	<introduced datetime="1994-05-10"/>
+	<titles>
+		<title type="short" as="introduced">Social Security Access to Information Act of 1994</title>
+		<title type="official" as="introduced">To amend the Social Security Act to improve the information made available in social security account statements and to provide for annual distribution of such statements to beneficiaries.</title>
+	</titles>
+	<sponsor id="408618"/>
+	<cosponsors>
+		<cosponsor id="400553" joined="1994-05-10"/>
+		<cosponsor id="400584" joined="1994-05-25"/>
+		<cosponsor id="401014" joined="1994-05-25"/>
+		<cosponsor id="300068" joined="1994-05-10"/>
+		<cosponsor id="407558" joined="1994-05-10"/>
+		<cosponsor id="400548" joined="1994-05-25"/>
+		<cosponsor id="407153" joined="1994-05-10"/>
+		<cosponsor id="406920" joined="1994-05-10"/>
+		<cosponsor id="400269" joined="1994-05-10"/>
+		<cosponsor id="400286" joined="1994-05-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-10"><text>Sponsor introductory remarks on measure. (CR E881)</text></action>
+		<action datetime="1994-05-10"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-05-24"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4521" />
+		<bill relation="identical" session="103" type="h" number="4521" />
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Old age, survivors and disability insurance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/10/1994--Introduced.
+Social Security Access to Information Act of 1994 - Amends title XI (General Provisions and Peer Review) of the Social Security Act to require annual social security account statements to: (1) express wages, contributions, and benefits in terms of actual dollars and in terms of current dollars; and (2) contain the total amount of benefits paid to date to the eligible individual as well as the total paid to date to all beneficiaries on the basis of the individual's wages and self-employment income, expressed in terms of actual dollars and in terms of current dollars. Requires the Secretary to provide such annual statements to all eligible individuals who have attained age 60, regardless of whether they are receiving old age, survivors and disability insurance benefits.
+
+	</summary>
+</bill>

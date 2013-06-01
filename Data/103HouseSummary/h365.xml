@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="365" updated="2010-04-18T23:56:46-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Small Business Preservation and Protection Act of 1993</title>
+		<title type="official" as="introduced">To amend the Small Business Act to assist and protect small businesses and to protect small businesses against unreasonable use of economic power by major meatpacking companies, and for other purposes.</title>
+	</titles>
+	<sponsor id="410076"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Small Business.</text></action>
+		<action datetime="1993-01-15"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Environment, Credit and Rural Development.</text></action>
+		<action datetime="1993-01-15"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Livestock.</text></action>
+		<action datetime="1993-02-01"><committee name="House Committee on Small Business"/><text>Referred to the Subcommittee on SBA Legislation and the General Economy.</text></action>
+		<action datetime="1993-02-12"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA, SBA.</text></action>
+		<action datetime="1993-06-16"><committee name="House Committee on Agriculture"/><text>Executive Comment Received from SBA.</text></action>
+		<action datetime="1994-06-08"><committee name="House Committee on Agriculture"/><text>Unfavorable Executive Comment Received from SBA.</text></action>
+		<action datetime="1994-06-12"><committee name="House Committee on Agriculture"/><text>Unfavorable Executive Comment Received from USDA.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Environment, Credit and Rural Development" activity="Referral" />
+		<committee code="HSAG-03" name="House Agriculture" subcommittee="Livestock" activity="Referral" />
+		<committee code="HSSM" name="House Small Business" activity="Referral, In Committee" />
+		<committee code="" name="House Small Business" subcommittee="SBA Legislation and the General Economy" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Small business"/>
+		<term name="Actions and defenses"/>
+		<term name="Damages"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Futures trading"/>
+		<term name="Marketing of farm produce"/>
+		<term name="Meat packing industry"/>
+		<term name="Price discrimination"/>
+		<term name="Restrictive trade practices"/>
+		<term name="Retail trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Small Business Preservation and Protection Act of 1993 - Prohibits any packer with more than a five percent share of the national slaughter in three classifications from owning or operating any retail meat outlet. Prohibits any packer's total annual slaughter for any classification from exceeding 25 percent of the larger of the last two annual national slaughter totals. Prohibits any packer from discriminating in price between different purchasers of meat food products in any marketing area or selling below costs for the purpose of impairing the marketing ability of small business meatpacking concerns. Prohibits certain packers which are required to file reports under the Packers and Stockyards Act from engaging in livestock futures contracts. Vests authority to enforce such prohibitions in the Administrator of the Small Business Administration. Establishes fines for violations and permits small business meatpacking concerns which are injured to sue in district court for treble damages.
+
+	</summary>
+</bill>

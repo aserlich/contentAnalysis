@@ -1,0 +1,47 @@
+<bill session="103" type="sj" number="76" updated="2012-07-17T04:47:20-04:00">
+	<state datetime="1993-04-02">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-04-02" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-03-31"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution concerning the dedication of the United States Holocaust Memorial Museum.</title>
+	</titles>
+	<sponsor id="300064"/>
+	<cosponsors>
+		<cosponsor id="300150" joined="1993-03-31"/>
+		<cosponsor id="300052" joined="1993-04-01"/>
+		<cosponsor id="408597" joined="1993-03-31"/>
+		<cosponsor id="407663" joined="1993-03-31"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-31" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-04-02"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S4399"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-04-02" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment and with a preamble by Voice Vote.</text></vote>
+		<action datetime="1993-04-07T14:04:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-04-07T14:41:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-04-07"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="156" />
+		<bill relation="unknown" session="103" type="hj" number="156" />
+		<bill relation="unknown" session="103" type="hj" number="156" />
+	</relatedbills>
+	<subjects>
+		<term name="Congressional tributes"/>
+		<term name="Commemorations"/>
+		<term name="District of Columbia"/>
+		<term name="Jewish holocaust (1939-1945)"/>
+		<term name="Museums"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/31/1993--Introduced.
+Commemorates the opening and recognizes the historic importance of the United States Holocaust Memorial Museum.
+
+	</summary>
+</bill>

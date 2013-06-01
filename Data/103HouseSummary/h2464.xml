@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="2464" updated="2010-04-19T05:35:48-04:00">
+	<state datetime="1993-06-18">REFERRED</state>
+	<status><introduced datetime="1993-06-18"/></status>
+
+	<introduced datetime="1993-06-18"/>
+	<titles>
+		<title type="short" as="introduced">Municipal Securities Reform Act of 1993</title>
+		<title type="official" as="introduced">To repeal the exemption from disclosure requirements for municipal securities and to promote full and adequate disclosure of political contributions related to the underwriting of municipal securities by banks and securities firms.</title>
+	</titles>
+	<sponsor id="400236"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="1993-08-06"/>
+		<cosponsor id="406431" joined="1993-08-06"/>
+		<cosponsor id="400170" joined="1993-08-06"/>
+		<cosponsor id="404634" joined="1993-06-18"/>
+		<cosponsor id="400205" joined="1993-08-06"/>
+		<cosponsor id="409650" joined="1994-02-08"/>
+		<cosponsor id="410889" joined="1993-11-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-18"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-06-18"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-07-01"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Financial Institutions Supervision, Regulation and Deposit Insurance.</text></action>
+		<action datetime="1993-07-01"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="Financial Institutions Supervision, Regulation and Deposit Insurance" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Securities"/>
+		<term name="Banks and banking"/>
+		<term name="Brokers"/>
+		<term name="Campaign funds"/>
+		<term name="Government paperwork"/>
+		<term name="Information disclosure (Securities law)"/>
+		<term name="Securities industry"/>
+		<term name="Tax-exempt securities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/18/1993--Introduced.
+Municipal Securities Reform Act of 1993 - Amends the Securities Exchange Act of 1934 and the Federal Deposit Insurance Act to direct the Securities and Exchange Commission and the appropriate Federal banking agencies, respectively, to require persons and insured depository institutions (or affiliates) acting as underwriters, bond counsel, brokers, or dealers for the issuance of new municipal securities to file a disclosure of political contributions with the relevant regulatory agency before the sale of such securities.
+
+	</summary>
+</bill>

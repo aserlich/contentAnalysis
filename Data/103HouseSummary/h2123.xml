@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="2123" updated="2010-04-19T04:43:02-04:00">
+	<state datetime="1993-05-13">REFERRED</state>
+	<status><introduced datetime="1993-05-13"/></status>
+
+	<introduced datetime="1993-05-13"/>
+	<titles>
+		<title type="official" as="introduced">To suspend temporarily the duty on N,N-dimethyl-N'- (3-((methylamino) carboyl)oxy)phenyl) methani midamide monohydrochloride.</title>
+	</titles>
+	<sponsor id="400182"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-13"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-17"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-05-19"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1993-09-27"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="509" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Chemicals"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/13/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1994, the duty on n,n-dimethyl-n'(3-((methylamino)-carbonyl)oxy)-phenyl)-methanimidamide monohydrochloride.
+
+	</summary>
+</bill>

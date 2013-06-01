@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="2584" updated="2010-04-19T05:54:31-04:00">
+	<state datetime="1993-07-01">REFERRED</state>
+	<status><introduced datetime="1993-07-01"/></status>
+
+	<introduced datetime="1993-07-01"/>
+	<titles>
+		<title type="short" as="introduced">Multiemployer Retirees Medical Equity Benefits Act of 1993</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide equity in medical benefits for retirees in multiemployer plans.</title>
+	</titles>
+	<sponsor id="404190"/>
+	<cosponsors>
+		<cosponsor id="400542" joined="1993-07-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-01"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-07-01"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-07-27"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor"/>
+		<term name="Employee health benefits"/>
+		<term name="Income tax"/>
+		<term name="Medical care"/>
+		<term name="Pension funds"/>
+		<term name="Retiree health benefits"/>
+		<term name="Tax-deferred compensation plans"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/1/1993--Introduced.
+Multiemployer Retirees Medical Equity Benefits Act of 1993 - Amends the Internal Revenue Code and the Employee Retirement Income Security Act of 1974 to provide for the use of multiemployer plan contributions for retiree health benefits.
+
+	</summary>
+</bill>

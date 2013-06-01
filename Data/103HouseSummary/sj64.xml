@@ -1,0 +1,36 @@
+<bill session="103" type="sj" number="64" updated="2012-07-17T05:06:14-04:00">
+	<state datetime="1993-03-11">REFERRED</state>
+	<status><introduced datetime="1993-03-11"/></status>
+
+	<introduced datetime="1993-03-11"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution to designate June 5, 1993, as &quot;National Trails Day&quot;.</title>
+	</titles>
+	<sponsor id="401874"/>
+	<cosponsors>
+		<cosponsor id="300066" joined="1993-05-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-11" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="186" />
+		<bill relation="identical" session="103" type="sj" number="71" />
+	</relatedbills>
+	<subjects>
+		<term name="Special days"/>
+		<term name="Commemorations"/>
+		<term name="Trails"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/1993--Introduced.
+Designates June 5, 1993, as National Trails Day.
+
+	</summary>
+</bill>

@@ -1,0 +1,127 @@
+<bill session="103" type="h" number="886" updated="2010-04-19T01:23:50-04:00">
+	<state datetime="1993-02-16">REFERRED</state>
+	<status><introduced datetime="1993-02-16"/></status>
+
+	<introduced datetime="1993-02-16"/>
+	<titles>
+		<title type="short" as="introduced">Mandate and Community Assistance Reform Act</title>
+		<title type="short" as="introduced">Community Assistance Improvement Act of 1992</title>
+		<title type="official" as="introduced">To provide mandate relief assistance to State and local governments, and for other purposes.</title>
+	</titles>
+	<sponsor id="402657"/>
+	<cosponsors>
+		<cosponsor id="400273" joined="1993-02-16"/>
+		<cosponsor id="400420" joined="1993-11-23"/>
+		<cosponsor id="400327" joined="1993-02-24"/>
+		<cosponsor id="400428" joined="1993-11-04"/>
+		<cosponsor id="400078" joined="1993-09-28"/>
+		<cosponsor id="404503" joined="1993-06-30"/>
+		<cosponsor id="410147" joined="1993-11-23"/>
+		<cosponsor id="400414" joined="1993-02-24"/>
+		<cosponsor id="400099" joined="1993-10-26"/>
+		<cosponsor id="410529" joined="1993-03-24"/>
+		<cosponsor id="407320" joined="1993-02-16"/>
+		<cosponsor id="400180" joined="1993-02-16"/>
+		<cosponsor id="300030" joined="1993-04-19"/>
+		<cosponsor id="406768" joined="1993-03-24"/>
+		<cosponsor id="400333" joined="1993-02-16"/>
+		<cosponsor id="400036" joined="1993-03-10"/>
+		<cosponsor id="400388" joined="1993-11-04"/>
+		<cosponsor id="400506" joined="1993-02-16"/>
+		<cosponsor id="407899" joined="1993-02-24"/>
+		<cosponsor id="400534" joined="1993-03-24"/>
+		<cosponsor id="400401" joined="1993-07-15"/>
+		<cosponsor id="400028" joined="1993-06-18"/>
+		<cosponsor id="400226" joined="1993-07-15"/>
+		<cosponsor id="400264" joined="1993-02-16"/>
+		<cosponsor id="400370" joined="1993-02-16"/>
+		<cosponsor id="400192" joined="1993-07-28"/>
+		<cosponsor id="400581" joined="1993-10-26"/>
+		<cosponsor id="400055" joined="1993-11-23"/>
+		<cosponsor id="408364" joined="1993-07-15"/>
+		<cosponsor id="400030" joined="1993-06-10"/>
+		<cosponsor id="404869" joined="1993-02-16"/>
+		<cosponsor id="400037" joined="1993-07-15"/>
+		<cosponsor id="400225" joined="1993-06-30"/>
+		<cosponsor id="400144" joined="1993-03-10"/>
+		<cosponsor id="400017" joined="1993-02-16"/>
+		<cosponsor id="408092" joined="1993-03-16"/>
+		<cosponsor id="404097" joined="1993-03-16"/>
+		<cosponsor id="400325" joined="1993-09-21"/>
+		<cosponsor id="407400" joined="1993-10-26"/>
+		<cosponsor id="300062" joined="1993-03-10"/>
+		<cosponsor id="400035" joined="1993-02-24"/>
+		<cosponsor id="401153" joined="1993-04-28"/>
+		<cosponsor id="400594" joined="1993-03-24"/>
+		<cosponsor id="400070" joined="1993-10-26"/>
+		<cosponsor id="412001" joined="1993-02-16"/>
+		<cosponsor id="400340" joined="1994-03-03"/>
+		<cosponsor id="400083" joined="1993-09-28"/>
+		<cosponsor id="400076" joined="1993-03-10"/>
+		<cosponsor id="400586" joined="1993-03-16"/>
+		<cosponsor id="300097" joined="1993-02-16"/>
+		<cosponsor id="405560" joined="1993-04-19"/>
+		<cosponsor id="400544" joined="1993-10-07"/>
+		<cosponsor id="400601" joined="1993-06-30"/>
+		<cosponsor id="400221" joined="1993-10-07"/>
+		<cosponsor id="400012" joined="1993-04-19"/>
+		<cosponsor id="409633" joined="1993-02-16"/>
+		<cosponsor id="400283" joined="1993-03-10"/>
+		<cosponsor id="400150" joined="1993-07-15"/>
+		<cosponsor id="404009" joined="1993-03-16"/>
+		<cosponsor id="411997" joined="1993-02-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-16"><text>Sponsor introductory remarks on measure. (CR E333)</text></action>
+		<action datetime="1993-02-16"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-02-16"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Human Resources and Intergovernmental Relations.</text></action>
+		<action datetime="1994-05-18"><committee name="House Committee on Government Operations" subcommittee="Human Resources and Intergovernmental Relations"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Government Operations"/><text>See H.R.4771.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Human Resources and Intergovernmental Relations" activity="Referral, Hearings" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="140" />
+		<bill relation="unknown" session="103" type="h" number="4771" />
+	</relatedbills>
+	<subjects>
+		<term name="Intergovernmental relations"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Congressional budget process"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Congressional veto"/>
+		<term name="Cost accounting"/>
+		<term name="Economic impact statements"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid programs"/>
+		<term name="Federal-local relations"/>
+		<term name="Federal-state relations"/>
+		<term name="Government paperwork"/>
+		<term name="Government regulation"/>
+		<term name="Grants-in-aid"/>
+		<term name="House rules and procedure"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Legislation"/>
+		<term name="Legislative resolutions"/>
+		<term name="Presidential appointments"/>
+		<term name="Presidential commissions"/>
+		<term name="Public assistance programs"/>
+		<term name="Regulatory impact statements"/>
+		<term name="Senate rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/16/1993--Introduced.
+TABLE OF CONTENTS: Title I: Termination or Suspension of Unfunded Federal Mandates; Consolidation and Simplification of Planning and Reporting Requirements Title II: Commission on Unfunded Federal Mandates Title III: Integrated Federal Assistance Title IV: Estimation of Legislative Impact on State and Local Governments Title V: Regulatory Flexibility Analysis Mandate and Community Assistance Reform Act - Title I: Termination or Suspension of Unfunded Federal Mandates; Consolidation and Simplification of Planning and Reporting Requirements - Requires termination or suspension of an unfunded Federal mandate, or the consolidation or simplification of an associated planning or reporting requirement, upon a recommendation to the Congress to that effect by the Commission on Unfunded Federal Mandates (established by this Act). Provides that all such recommendations shall take effect automatically unless the Congress enacts a joint resolution disapproving such recommendations within 60 days of their submittal. Sets forth guidelines for congressional consideration of the Commission's recommendations. Title II: Commission on Unfunded Federal Mandates - Establishes the Commission on Unfunded Federal Mandates to: (1) investigate and review the role of unfunded Federal mandates in relations among local, State, and Federal governments; and (2) study and make recommendations to the Congress regarding the termination or suspension of unfunded Federal mandates. Authorizes appropriations. Title III: Integrated Federal Assistance - Community Assistance Improvement Act of 1992 - Provide for payments to local governments of amounts available under a covered Federal assistance program for use in accordance with an integrated assistance plan approved by the Interagency Review Council (establish by this Act). Provides that eligibility for benefits under a covered Federal assistance program included in an approved integrated assistance plan shall be only in accordance with the plan. Details the process for applying for approval of an integrated assistance plan. Specifies application and plan contents. Requires a local government applying for approval of an integrated assistance plan to establish a Community Advisory Committee. Requires the Committee to advise a local government in the development and implementation of its integrated assistance plan. Establishes the Interagency Review Council for the purposes described above. Title IV: Estimation of Legislative Impact on State and Local Governments - Amends the Congressional Budget Act of 1974 to: (1) strike language stating that cost estimates are required only if submitted in a timely manner; (2) require that a cost estimate accompany the conference report of legislation; and (3) require budget reconciliation instructions to direct committees to include in any reconciliation legislation carrying them out a Congressional Budget Office estimate of the total cost of their provision. Title V: Regulatory Flexibility Analysis - Amends the Regulatory Flexibility Act to modify provisions respecting judicial review of agency rules.
+
+	</summary>
+</bill>

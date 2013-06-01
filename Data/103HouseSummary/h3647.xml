@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="3647" updated="2010-04-19T08:39:18-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="official" as="introduced">To provide for the acquisition of certain lands formerly occupied by the Franklin D. Roosevelt family, and for other purposes.</title>
+	</titles>
+	<sponsor id="400178"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-01-21"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1994-01-31"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1998" />
+	</relatedbills>
+	<subjects>
+		<term name="Historic sites"/>
+		<term name="Commemorations"/>
+		<term name="Easements"/>
+		<term name="History"/>
+		<term name="Land transfers"/>
+		<term name="New York State"/>
+		<term name="Presidential families"/>
+		<term name="Presidents"/>
+		<term name="Public lands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Authorizes the Secretary of the Interior to acquire specified lands and interests (including development rights and easements) in the properties located at Hyde Park, New York, that were owned by Franklin D. Roosevelt or his family at the time of death, to be added to and administered as part of the Franklin Delano Roosevelt National Historic Site or the Eleanor Roosevelt National Historic Site, as appropriate.
+
+	</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="2014" updated="2010-04-19T04:26:17-04:00">
+	<state datetime="1993-05-06">REFERRED</state>
+	<status><introduced datetime="1993-05-06"/></status>
+
+	<introduced datetime="1993-05-06"/>
+	<titles>
+		<title type="short" as="introduced">Value Engineering Better Transportation Act of 1993</title>
+		<title type="official" as="introduced">To amend title 23, United States Code, and the Federal Transit Act to provide an increased Federal share for projects which have a cost of $2,000,000 or more and to which value engineering is applied and results in a certain minimum project cost savings.</title>
+	</titles>
+	<sponsor id="402152"/>
+	<cosponsors>
+		<cosponsor id="400155" joined="1993-11-22"/>
+		<cosponsor id="400532" joined="1993-10-12"/>
+		<cosponsor id="404083" joined="1993-05-06"/>
+		<cosponsor id="406431" joined="1993-11-22"/>
+		<cosponsor id="400609" joined="1993-10-12"/>
+		<cosponsor id="400008" joined="1993-10-12"/>
+		<cosponsor id="400520" joined="1994-07-29"/>
+		<cosponsor id="412001" joined="1993-11-19"/>
+		<cosponsor id="403190" joined="1993-11-22"/>
+		<cosponsor id="409618" joined="1993-11-22"/>
+		<cosponsor id="400569" joined="1993-11-22"/>
+		<cosponsor id="400043" joined="1993-05-06"/>
+		<cosponsor id="400283" joined="1993-05-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-06"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-05-20"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+		<action datetime="1994-05-11"><committee name="House Committee on Public Works + Transportation"/><text>For Further Action See H.R.4385.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4385" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation"/>
+		<term name="Federal aid highway program"/>
+		<term name="Federal aid to transportation"/>
+		<term name="Mass rapid transit"/>
+		<term name="Transportation engineering"/>
+		<term name="Value engineering"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/6/1993--Introduced.
+Value Engineering Better Transportation Act of 1993 - Amends Federal transportation law and the Federal Transit Act to increase by five percent increments (up to 100 percent) the Federal share for transportation projects costing over $2 million for which &quot;value engineering&quot; results in certain minimum project cost savings. Prohibits the use of Federal funds for &quot;value engineering&quot; training. Defines &quot;value engineering&quot; as the process of review and analysis of a project during its design phase by a multidisciplined team of persons not originally involved in the project in order to provide suggestions for reducing total project costs and providing better quality.
+
+	</summary>
+</bill>

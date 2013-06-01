@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="1389" updated="2010-04-19T02:47:42-04:00">
+	<state datetime="1993-03-17">REFERRED</state>
+	<status><introduced datetime="1993-03-17"/></status>
+
+	<introduced datetime="1993-03-17"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XVI of the Social Security Act to make a State ineligible for medicaid reimbursement payments under title XIX of such Act, unless the State maintains the level at which the State supplements Federal supplemental security income benefits or passes along increases in such benefits.</title>
+	</titles>
+	<sponsor id="400387"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-04-02"/>
+		<cosponsor id="400126" joined="1993-03-17"/>
+		<cosponsor id="400122" joined="1993-06-17"/>
+		<cosponsor id="400170" joined="1993-03-29"/>
+		<cosponsor id="400409" joined="1993-03-17"/>
+		<cosponsor id="400511" joined="1993-03-17"/>
+		<cosponsor id="407772" joined="1993-03-17"/>
+		<cosponsor id="400347" joined="1993-05-17"/>
+		<cosponsor id="400366" joined="1993-07-20"/>
+		<cosponsor id="400201" joined="1993-03-17"/>
+		<cosponsor id="400278" joined="1993-03-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-17"><text>Sponsor introductory remarks on measure. (CR E678)</text></action>
+		<action datetime="1993-03-17"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-03-17"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-22"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Public assistance programs"/>
+		<term name="Social security eligibility"/>
+		<term name="Supplemental security income program"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/17/1993--Introduced.
+Amends title XVI (Supplemental Security Income) (SSI) of the Social Security Act to revise the Medicaid reimbursement eligibility rules for States which supplement Federal SSI benefits to require such States to maintain their own levels of supplemental payments or pass along any benefit increases.
+
+	</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="1486" updated="2010-04-19T03:03:09-04:00">
+	<state datetime="1993-03-25">REFERRED</state>
+	<status><introduced datetime="1993-03-25"/></status>
+
+	<introduced datetime="1993-03-25"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Housing Act of 1949 to decrease the number of loans made under section 502 of such Act and increase the regular payments made by borrowers under such loans.</title>
+	</titles>
+	<sponsor id="400649"/>
+	<cosponsors>
+		<cosponsor id="412001" joined="1993-11-18"/>
+		<cosponsor id="400169" joined="1993-06-18"/>
+		<cosponsor id="411997" joined="1993-11-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-25"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-04-01"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Housing and Community Development.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="HSBA-04" name="House Banking, Finance, and Urban Affairs" subcommittee="Housing and Community Development" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2038" />
+	</relatedbills>
+	<subjects>
+		<term name="Housing"/>
+		<term name="Farms"/>
+		<term name="Government lending"/>
+		<term name="Mortgage loans"/>
+		<term name="Rural housing"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/25/1993--Introduced.
+Amends the Housing Act of 1949 to establish annual loan authority limits and minimum payments for specified rural housing loans.
+
+	</summary>
+</bill>

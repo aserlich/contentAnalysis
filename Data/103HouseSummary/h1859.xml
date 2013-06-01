@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="1859" updated="2010-04-19T04:02:00-04:00">
+	<state datetime="1993-04-26">REFERRED</state>
+	<status><introduced datetime="1993-04-26"/></status>
+
+	<introduced datetime="1993-04-26"/>
+	<titles>
+		<title type="short" as="introduced">Superconducting Super Collider Immediate Termination Act of 1993</title>
+		<title type="official" as="introduced">To provide for the immediate termination of the Superconducting Super Collider project.</title>
+	</titles>
+	<sponsor id="400649"/>
+	<cosponsors>
+		<cosponsor id="400414" joined="1993-11-10"/>
+		<cosponsor id="402890" joined="1994-07-27"/>
+		<cosponsor id="407153" joined="1994-07-19"/>
+		<cosponsor id="402152" joined="1994-06-30"/>
+		<cosponsor id="411488" joined="1994-02-02"/>
+		<cosponsor id="411997" joined="1993-11-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-26"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-04-28"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Science.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="HSSY-14" name="House Science, Space and Technology" subcommittee="Science" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Energy law and legislation"/>
+		<term name="Energy policy"/>
+		<term name="Energy research"/>
+		<term name="Federal budgets"/>
+		<term name="Government spending reductions"/>
+		<term name="Nuclear energy research facilities"/>
+		<term name="Nuclear research"/>
+		<term name="Research and development"/>
+		<term name="Superconductivity"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/26/1993--Introduced.
+Superconducting Super Collider Immediate Termination Act of 1993 - Prohibits the use or obligation of Federal funds for the Superconducting Super Collider Project, except as necessary for Project termination.
+
+	</summary>
+</bill>

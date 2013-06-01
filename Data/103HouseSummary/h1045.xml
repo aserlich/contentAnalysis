@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="1045" updated="2010-04-19T01:50:47-04:00">
+	<state datetime="1993-02-23">REFERRED</state>
+	<status><introduced datetime="1993-02-23"/></status>
+
+	<introduced datetime="1993-02-23"/>
+	<titles>
+		<title type="official" as="introduced">To amend title II of the Social Security Act to provide in certain cases for an exchange of credits between the old-age, survivors, and disability insurance system and the civil service retirement system so as to enable individuals who have coverage under both systems to obtain maximum benefits based on their combined service.</title>
+	</titles>
+	<sponsor id="402152"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Civil service pensions"/>
+		<term name="Federal employees"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Retirement income"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1993--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to allow, under specified circumstances, persons who have acquired retirement credits under both the civil service system and the OASDI system to exchange such credits between the two systems in order to obtain benefits based on combined service.
+
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="3262" updated="2010-04-19T07:39:27-04:00">
+	<state datetime="1993-10-12">REFERRED</state>
+	<status><introduced datetime="1993-10-12"/></status>
+
+	<introduced datetime="1993-10-12"/>
+	<titles>
+		<title type="official" as="introduced">To impose an additional duty on imported goods and to provide that amounts equal to the revenues delivered therefrom be available for the national health care purposes.</title>
+	</titles>
+	<sponsor id="400611"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-12"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-10-12"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-10-15"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-10-26"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Government trust funds"/>
+		<term name="Medical care"/>
+		<term name="National health insurance"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/12/1993--Introduced.
+Imposes an additional duty of four percent ad valorem on imported goods. Establishes within the Treasury the National Health Care Trust Fund consisting of the duties imposed under this Act.
+
+	</summary>
+</bill>

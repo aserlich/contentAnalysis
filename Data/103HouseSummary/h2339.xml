@@ -1,0 +1,127 @@
+<bill session="103" type="h" number="2339" updated="2010-04-19T05:16:36-04:00">
+	<state datetime="1994-03-09">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-03-09" /></status>
+
+	<introduced datetime="1993-06-08"/>
+	<titles>
+		<title type="popular" as="">Authorization bill FY94, Disabled Individuals</title>
+		<title type="popular" as="">Disabled Individuals FY94 Authorization bill</title>
+		<title type="short" as="passed senate">Technology-Related Assistance Act Amendments of 1993</title>
+		<title type="short" as="enacted">Technology-Related Assistance for Individuals with Disabilities Act Amendments of 1994</title>
+		<title type="official" as="introduced">To amend the Technology-Related Assistance for Individuals with Disabilities Act of 1988 to authorize appropriations for each of the fiscal years 1994 through 1998.</title>
+	</titles>
+	<sponsor id="400306"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-08"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-06-10"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Select Education and Civil Rights.</text></action>
+		<action datetime="1993-06-10"><committee name="House Committee on Education and Labor" subcommittee="Select Education and Civil Rights"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-06-10"><committee name="House Committee on Education and Labor"/><text>Executive Comment Requested from Education.</text></action>
+		<action datetime="1993-06-10"><committee name="House Committee on Education and Labor"/><text>Executive Comment Received from Education.</text></action>
+		<action datetime="1993-06-30"><committee name="House Committee on Education and Labor" subcommittee="Select Education and Civil Rights"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-06-30"><committee name="House Committee on Education and Labor" subcommittee="Select Education and Civil Rights"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-07-28"><committee name="House Committee on Education and Labor"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-07-28"  state="REPORTED"><committee name="House Committee on Education and Labor"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1993-08-02T14:00:00-04:00"><text>Reported (Amended) by the Committee on Education and Labor. H. Rept. 103-208.</text></action>
+		<calendar number="119" datetime="1993-08-02T14:01:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 119.</text></calendar>
+		<action datetime="1993-08-02T14:32:00-04:00"><text>Mr. Owens moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-08-02T14:32:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5590-5599"/></action>
+		<action datetime="1993-08-02T14:32:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-08-02T14:40:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="consideration" ref="CR H5590"/></vote>
+		<action datetime="1993-08-02T14:40:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-08-02T14:40:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<calendar under="General Orders" number="181" datetime="1993-08-04" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 181.</text></calendar>
+		<action datetime="1993-08-05"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S10623"/></action>
+		<action datetime="1993-08-05"><text>Senate struck all after the Enacting Clause and substituted the language of S. 1283 amended.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-08-05" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-08-06"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-02-08T15:02:00-05:00"><text>House agreed to Senate amendment with amendment pursuant to H. Res. 351.</text><reference label="consideration" ref="CR H302"/></action>
+		<action datetime="1994-02-10"><text>Message on House action received in Senate and at desk: House amendment to Senate amendment.</text></action>
+		<action datetime="1994-02-11"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-02-11"><text>Senate agreed to the House amendment to the Senate amendment by Voice Vote.</text><reference label="consideration" ref="CR S1506-1520"/></action>
+		<topresident datetime="1994-02-11" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-02-25" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-03-09" ><text>Signed by President.</text></signed>
+		<enacted number="103-218" type="public" datetime="1994-03-09"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-218.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, Markup, Reporting" />
+		<committee code="HSED-04" name="House Education and Labor" subcommittee="Select Education and Civil Rights" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hr" number="351" />
+		<bill relation="unknown" session="103" type="hr" number="351" />
+		<bill relation="unknown" session="103" type="s" number="1283" />
+		<bill relation="unknown" session="103" type="s" number="1283" />
+		<bill relation="unknown" session="103" type="s" number="1283" />
+	</relatedbills>
+	<subjects>
+		<term name="Disabled"/>
+		<term name="Accounting"/>
+		<term name="Authorization"/>
+		<term name="Black colleges"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Claims"/>
+		<term name="Computer networks"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Consumer education"/>
+		<term name="Consumer protection"/>
+		<term name="Consumers"/>
+		<term name="Cost effectiveness"/>
+		<term name="Data banks"/>
+		<term name="Department of Education"/>
+		<term name="Education"/>
+		<term name="Educational facilities"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Employee training"/>
+		<term name="Employment of the handicapped"/>
+		<term name="Federal aid to handicapped services"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Government information"/>
+		<term name="Government lending"/>
+		<term name="Government liability"/>
+		<term name="Government paperwork"/>
+		<term name="Government procurement"/>
+		<term name="Higher education"/>
+		<term name="Information networks"/>
+		<term name="Information services"/>
+		<term name="Job training"/>
+		<term name="Labor"/>
+		<term name="Laboratories"/>
+		<term name="Law"/>
+		<term name="Legal services"/>
+		<term name="Mentally handicapped"/>
+		<term name="Minorities"/>
+		<term name="Minority employment"/>
+		<term name="Palau Islands"/>
+		<term name="Physically handicapped"/>
+		<term name="Preschool education"/>
+		<term name="Product development"/>
+		<term name="Rehabilitation of the mentally handicapped"/>
+		<term name="Rehabilitation of the physically handicapped"/>
+		<term name="Research and development"/>
+		<term name="Revolving funds"/>
+		<term name="Rural affairs"/>
+		<term name="Rural affairs legislation"/>
+		<term name="Scholarships"/>
+		<term name="Science policy"/>
+		<term name="Standards"/>
+		<term name="State and local government"/>
+		<term name="State laws"/>
+		<term name="Technological innovations"/>
+		<term name="Technology"/>
+		<term name="Technology transfer"/>
+		<term name="Trust Territory of the Pacific Islands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/8/1994--House agreed to Senate amendment with amendment. TABLE OF CONTENTS: Title I: Grants to States Title II: Programs of National Significance Title III: Alternative Financing Mechanisms Title IV: Amendments to Other Acts Title V: Effective Date Technology-Related Assistance for Individuals with Disabilities Act Amendments of 1994 - Title I: Grants to States - Amends the Technology-Related Assistance for Individuals with Disabilities Act of 1988 (Act) to authorize States to use grants for the following system assistive technology change and advocacy activities: (1) model systems and alternative State-financed systems; (2) interagency coordination; (3) outreach; (4) State payment of expenses; (5) State needs assessment; (6) public awareness programs; (7) training and technical assistance; (8) program data compilation and evaluation; (9) public access to technology-related information; (10) interstate activities; (11) public-private initiatives; and (12) advocacy and other services. (Sec. 102) Amends development grant provisions to: (1) repeal first and second year grant limits; and (2) require the designation of a State lead agency. (Sec. 103) Amends extension grant provisions to authorize a second extension grant of up to five years. (Sec. 104) Requires State progress reports to document development and implementation of consumer-responsive statewide technology-related assistance. (Sec. 105) Revises onsite inspection requirements. Requires the Governor of a State subject to a corrective action plan to appoint a monitoring panel. Terminates funding for failure to appoint such panel. Authorizes a panel to recommend redesignation of a State lead agency. Provides for the change of an entity providing required protection and advocacy services for the disabled upon a determination of failure to provide such services. Establishes an October 1, 1995, deadline for the Interagency Disability Coordinating Council to respond to a specified study. (Sec. 106) Authorizes appropriations through FY 1996, with reservations for specified information and technical assistance and onsite visits. Title II: Programs of National Significance - Amends the Act to require the Secretary of Education in FY 1995 to develop a national classification system for assistive technology devices and services. Reserves specified funds for such system. (Sec. 202) Directs the Secretary to make grants and enter into contracts for technology training and demonstration projects, including grants to prepare students for technology careers and to historically black colleges. Directs the Secretary to enter into agreements for: (1) technology transfer; and (2) device and equipment redistribution. Authorizes the Secretary to make grants for: (1) business opportunities for disabled individuals in assistive technology or service enterprises; and (2) research and design of products of universal design. Authorizes appropriations through FY 1998. Title III: Alternative Financing Mechanisms - Amends the Act to direct the Secretary to provide grants to States to pay for the 50 percent Federal share of the cost of establishing alternative financing mechanisms (such as loans, loan insurance, revolving funds, or partnerships) to enable disabled individuals to obtain assistive technology. Limits a grant to $500,000 (unless otherwise increased). Directs the Secretary to provide States with technical assistance. Authorizes appropriations through FY 1998. Title IV: Amendments of Other Acts - Amends the Individuals with Disabilities Education Act and the Rehabilitation Act of 1973 to authorize personnel training grants to be used for assistive technology and services training. (Sec. 403) Amends the Head Start Act to suspend certain proceedings with respect to facility purchases. Title V: Effective Date - Makes the provisions of this Act effective upon enactment, with specified exceptions.
+
+	</summary>
+</bill>

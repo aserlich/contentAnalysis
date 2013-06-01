@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="173" updated="2010-04-18T23:26:56-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To eliminate the Medicare peer review system.</title>
+	</titles>
+	<sponsor id="400116"/>
+	<cosponsors>
+		<cosponsor id="400174" joined="1993-04-01" withdrawn="1994-10-05"/>
+		<cosponsor id="400398" joined="1993-04-01"/>
+		<cosponsor id="400420" joined="1993-05-24"/>
+		<cosponsor id="400155" joined="1993-11-22"/>
+		<cosponsor id="400113" joined="1993-11-17"/>
+		<cosponsor id="300030" joined="1993-04-02"/>
+		<cosponsor id="400104" joined="1994-03-03"/>
+		<cosponsor id="400127" joined="1993-04-19"/>
+		<cosponsor id="406863" joined="1994-02-24"/>
+		<cosponsor id="400370" joined="1994-06-14"/>
+		<cosponsor id="400359" joined="1994-08-01"/>
+		<cosponsor id="400551" joined="1993-09-08"/>
+		<cosponsor id="400169" joined="1993-05-27"/>
+		<cosponsor id="400340" joined="1993-06-16"/>
+		<cosponsor id="400083" joined="1994-08-01"/>
+		<cosponsor id="400569" joined="1993-05-20"/>
+		<cosponsor id="400012" joined="1994-03-08"/>
+		<cosponsor id="300096" joined="1994-02-24"/>
+		<cosponsor id="403864" joined="1993-06-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-12"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Peer review organizations (Medicine)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends title XI of the Social Security Act to repeal part B (Medicare Peer Review).
+
+	</summary>
+</bill>

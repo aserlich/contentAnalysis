@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="243" updated="2012-07-17T05:50:49-04:00">
+	<state datetime="1993-01-27">REFERRED</state>
+	<status><introduced datetime="1993-01-27"/></status>
+
+	<introduced datetime="1993-01-27"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to extend the provision relating to medicare-dependent, small rural hospitals, and for other purposes.</title>
+	</titles>
+	<sponsor id="408939"/>
+	<cosponsors>
+		<cosponsor id="300012" joined="1993-03-05"/>
+		<cosponsor id="401604" joined="1993-01-27"/>
+		<cosponsor id="300084" joined="1993-01-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-27" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S828)</text></action>
+		<action datetime="1993-01-27" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Health"/>
+		<term name="Medicare"/>
+		<term name="Rural hospitals"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/1993--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to revise Medicare-dependent, small rural hospital provisions. Permits such hospitals to decline reclassification as urban.
+
+	</summary>
+</bill>

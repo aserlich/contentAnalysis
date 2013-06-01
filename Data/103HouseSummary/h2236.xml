@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="2236" updated="2010-04-19T05:00:34-04:00">
+	<state datetime="1993-05-20">REFERRED</state>
+	<status><introduced datetime="1993-05-20"/></status>
+
+	<introduced datetime="1993-05-20"/>
+	<titles>
+		<title type="official" as="introduced">To extend Federal restrictions on the export of unprocessed timber to timber harvested in the State of Texas.</title>
+	</titles>
+	<sponsor id="411725"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-20"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-05-20"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-05-24"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Foreign Agriculture and Hunger.</text></action>
+		<action datetime="1993-05-24"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+		<action datetime="1993-05-26"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Economic Policy, Trade and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Foreign Agriculture and Hunger" activity="Referral" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral" />
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Economic Policy, Trade, and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Forests and forestry"/>
+		<term name="Environmental protection"/>
+		<term name="Export controls"/>
+		<term name="Foreign trade"/>
+		<term name="Forest conservation"/>
+		<term name="Lumber trade"/>
+		<term name="Public lands"/>
+		<term name="Texas"/>
+		<term name="Timber sales"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/1993--Introduced.
+Amends the Forest Resources Conservation and Shortage Relief Act of 1990 to extend certain unprocessed timber export restrictions to the entire State of Texas.
+
+	</summary>
+</bill>

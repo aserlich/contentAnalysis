@@ -1,0 +1,75 @@
+<bill session="103" type="h" number="4776" updated="2012-07-17T04:12:13-04:00">
+	<state datetime="1994-08-01T12:16:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-08-01T12:16:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-07-18"/>
+	<titles>
+		<title type="short" as="introduced">Veterans' Employment Act of 1994</title>
+		<title type="official" as="introduced">To amend title 38, United States Code, to improve veterans' employment programs, and for other purposes.</title>
+	</titles>
+	<sponsor id="407838"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1994-07-26"/>
+		<cosponsor id="408476" joined="1994-07-26"/>
+		<cosponsor id="400504" joined="1994-07-18"/>
+		<cosponsor id="400389" joined="1994-07-26"/>
+		<cosponsor id="300151" joined="1994-07-18"/>
+		<cosponsor id="405313" joined="1994-07-26"/>
+		<cosponsor id="400030" joined="1994-07-21"/>
+		<cosponsor id="408556" joined="1994-07-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-18" state="REFERRED"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1994-07-18"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Education, Training and Employment.</text></action>
+		<action datetime="1994-07-19"><committee name="House Committee on Veterans' Affairs" subcommittee="Education, Training and Employment"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-07-19"><committee name="House Committee on Veterans' Affairs" subcommittee="Education, Training and Employment"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1994-07-21"><committee name="House Committee on Veterans' Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-07-21"  state="REPORTED"><committee name="House Committee on Veterans' Affairs"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1994-07-28T18:17:00-04:00"><text>Reported by the Committee on Veterans' Affairs. H. Rept. 103-630.</text></action>
+		<calendar number="343" datetime="1994-07-28T18:18:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 343.</text></calendar>
+		<action datetime="1994-08-01T12:11:00-04:00"><text>Mr. Montgomery moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-08-01T12:12:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6502-6503"/></action>
+		<action datetime="1994-08-01T12:12:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-08-01T12:16:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1994-08-01T12:16:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-08-02"><text>Received in the Senate and read twice and referred to the Committee on Veterans.</text></action>
+		<action datetime="1994-09-14"><committee name="House Committee on Veterans' Affairs"/><text>Committee on Veterans. Hearings held.</text></action>
+		<action datetime="1994-10-07" state="REPORTED"><committee name="House Committee on Veterans' Affairs"/><text>See H.R.5244.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Veterans' Affairs" subcommittee="Education, Training and Employment" activity="Referral, Markup, Reporting" />
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5244" />
+		<bill relation="unknown" session="103" type="h" number="5244" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Department of Labor"/>
+		<term name="Department of Veterans Affairs"/>
+		<term name="Disabled"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal employees"/>
+		<term name="Federal officials"/>
+		<term name="Government contractors"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Government procurement"/>
+		<term name="Labor and employment"/>
+		<term name="Labor statistics"/>
+		<term name="Manpower training programs"/>
+		<term name="Unemployment"/>
+		<term name="Veterans' employment"/>
+		<term name="Women veterans"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/18/1994--Introduced.
+Veterans' Employment Act of 1994 - Establishes within the Department of Labor a Deputy Assistant Secretary of Labor for Veterans' Employment and Training. Requires such Deputy Assistant to be a veteran. Requires the pay rates for disabled veterans' outreach specialists to be comparable to those paid other professionals in State government. Adds veterans who served on active duty after the Vietnam era and certain other veterans to a study by the Secretary of Veterans Affairs concerning unemployment among veterans. Adds to a veterans' employment emphasis under Federal contracts of $10,000 or more for the procurement of personal property and non-personal services veterans who served on active duty during a war in a campaign or expedition for which a campaign badge has been authorized. Requires veterans employed under the preference to be included in certain contractor reporting requirements. Disregards amounts received by eligible veterans under the all-volunteer force basic educational assistance program and the educational assistance program for enlisted members of the Selected and Ready Reserves in determining eligibility of veterans under Federal employment and training programs.
+
+	</summary>
+</bill>

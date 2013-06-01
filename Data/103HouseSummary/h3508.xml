@@ -1,0 +1,72 @@
+<bill session="103" type="h" number="3508" updated="2010-04-19T08:17:40-04:00">
+	<state datetime="1994-08-16T14:07:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-08-16T14:07:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-11-15"/>
+	<titles>
+		<title type="short" as="introduced">Tribal Self-Governance Act of 1993</title>
+		<title type="short" as="passed house">Tribal Self-Governance Act of 1994</title>
+		<title type="official" as="introduced">To provide for tribal self-governance, and for other purposes.</title>
+	</titles>
+	<sponsor id="409205"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="1994-04-13"/>
+		<cosponsor id="400612" joined="1994-04-26"/>
+		<cosponsor id="400354" joined="1994-03-15"/>
+		<cosponsor id="400299" joined="1994-03-08"/>
+		<cosponsor id="400391" joined="1994-02-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-15"><text>Sponsor introductory remarks on measure. (CR E2881-2882)</text></action>
+		<action datetime="1993-11-15"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-01-21"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Native American Affairs.</text></action>
+		<action datetime="1994-02-10"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1994-02-25"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-04-26"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-04-26"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-05-25"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-05-25"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-07-22"><committee name="House Committee on Natural Resources"/><text>Executive Comment Received from Interior.</text></action>
+		<action datetime="1994-08-03T13:07:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-653.</text></action>
+		<calendar number="353" datetime="1994-08-03T13:07:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 353.</text></calendar>
+		<action datetime="1994-08-16T14:01:00-04:00"><text>Mr. Richardson moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-08-16T14:01:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8452-8455"/></action>
+		<action datetime="1994-08-16T14:01:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-08-16T14:07:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-08-16T14:07:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-08-17"><text>Received in the Senate.</text></action>
+		<calendar under="General Orders" number="607" datetime="1994-09-13" calendar="Senate Legislative" ><text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 607.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4842" />
+		<bill relation="unknown" session="103" type="s" number="1618" />
+		<bill relation="unknown" session="103" type="s" number="1618" />
+		<bill relation="unknown" session="103" type="s" number="1618" />
+	</relatedbills>
+	<subjects>
+		<term name="Indians"/>
+		<term name="Administrative procedure"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cost effectiveness"/>
+		<term name="Department of the Interior"/>
+		<term name="Executive departments"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal budgets"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Minorities"/>
+		<term name="Trusts and trustees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/16/1994--Passed House amended. Tribal Self-Governance Act of 1994 - Amends the Indian Self-Determination and Education Assistance Act to establish within the Department of the Interior a program of Tribal Self-Governance. Authorizes up to 20 additional tribal participants each year. Directs the Secretary of the Interior to enter into annual funding agreements with the governing body of each participating tribe. Authorizes appropriations.
+
+	</summary>
+</bill>

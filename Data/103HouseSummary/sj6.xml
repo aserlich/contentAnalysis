@@ -1,0 +1,48 @@
+<bill session="103" type="sj" number="6" updated="2012-07-17T04:36:31-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="popular" as="">Balanced Budget Amendment</title>
+		<title type="official" as="introduced">A joint resolution to provide for a Balanced Budget Constitutional Amendment.</title>
+	</titles>
+	<sponsor id="300159"/>
+	<cosponsors>
+		<cosponsor id="403515" joined="1993-01-21"/>
+		<cosponsor id="400562" joined="1993-04-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-02-04"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Constitution.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Constitution" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Economics and public finance"/>
+		<term name="Balanced budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Congressional budget"/>
+		<term name="Congressional voting"/>
+		<term name="Constitutional amendments"/>
+		<term name="Deficit financing"/>
+		<term name="Federal budgets"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Legislation"/>
+		<term name="National income"/>
+		<term name="Public debt"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Constitutional Amendment - Requires the Congress prior to each fiscal year to adopt a statement in which total Federal outlays do not exceed total receipts, unless a three-fifths vote of both Houses authorizes a specific excess. Prohibits such total receipts from increasing by a rate greater than the rate of increase in national income in the second prior fiscal year, unless a three-fifths majority of each House of Congress has passed a bill directed solely to approving specific additional receipts and such bill has become law. Directs the President prior to each fiscal year to submit to the Congress a proposed statement of balanced receipts and outlays. Makes the public debt amount on the first day of the second fiscal year after ratification of this amendment a permanent limit on such debt, unless a three-fifths majority of both Houses of Congress have passed a bill approving such increase and the bill has become law.
+
+	</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="77" updated="2010-04-18T23:11:56-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to require as a condition of participation under the medicare program that hospitals provide parents of newborn children with information and recommendations on childhood immunizations.</title>
+	</titles>
+	<sponsor id="405507"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Sponsor introductory remarks on measure. (CR E52)</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-08"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Child health"/>
+		<term name="Health education"/>
+		<term name="Hospitals"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Rural hospitals"/>
+		<term name="Rural public health"/>
+		<term name="Vaccination"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to require as a condition of participation under the Medicare program that hospitals provide mothers of newborn children with information and recommendations on childhood immunizations.
+
+	</summary>
+</bill>

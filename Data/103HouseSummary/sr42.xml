@@ -1,0 +1,37 @@
+<bill session="103" type="sr" number="42" updated="2010-04-19T22:06:01-04:00">
+	<state datetime="1993-01-28">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-01-28" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-01-28"/>
+	<titles>
+		<title type="official" as="introduced">An original resolution providing for members on the part of the Senate of the Joint Committee on Printing and the Joint Committee of Congress on the Library.</title>
+	</titles>
+	<sponsor id="404219"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar datetime="1993-01-28"  state="REPORTED"><text>Committee on Rules ordered to be reported an original measure.</text></calendar>
+		<action datetime="1993-01-28"><text>Committee on Rules. Original measure reported to Senate by Senator Ford. Without written report.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-01-28" where="s" result="pass"  state="PASSED:SIMPLERES"><text>Resolution agreed to in Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S960"/></vote>
+	</actions>
+	<committees>
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Origin, Reporting, Markup" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Senate"/>
+		<term name="Congressional joint committees"/>
+		<term name="Members of Congress (Senate)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/1993--Introduced.
+Elects named Senators as members of the Joint Committee on Printing and the Joint Committee of Congress on the Library.
+
+	</summary>
+</bill>

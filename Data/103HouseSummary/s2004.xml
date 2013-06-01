@@ -1,0 +1,70 @@
+<bill session="103" type="s" number="2004" updated="2010-04-19T19:42:51-04:00">
+	<state datetime="1994-04-28">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-04-28" /></status>
+
+	<introduced datetime="1994-03-25"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend until July 1, 1998, the exemption from ineligibility based on a high default rate for certain institutions of higher education.</title>
+	</titles>
+	<sponsor id="402004"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="1994-03-25"/>
+		<cosponsor id="409917" joined="1994-03-25"/>
+		<cosponsor id="300009" joined="1994-03-25"/>
+		<cosponsor id="411818" joined="1994-03-25"/>
+		<cosponsor id="300059" joined="1994-03-25"/>
+		<cosponsor id="407663" joined="1994-03-25"/>
+		<cosponsor id="408597" joined="1994-03-25"/>
+		<cosponsor id="300066" joined="1994-03-25"/>
+		<cosponsor id="300073" joined="1994-03-25"/>
+		<cosponsor id="300023" joined="1994-03-25"/>
+		<cosponsor id="409580" joined="1994-03-25"/>
+		<cosponsor id="406084" joined="1994-03-25"/>
+		<cosponsor id="407992" joined="1994-03-25"/>
+		<cosponsor id="300069" joined="1994-03-25"/>
+		<cosponsor id="300157" joined="1994-03-25"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1994-03-25" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S3933"/></vote>
+		<action datetime="1994-04-12T12:03:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-04-12T12:04:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-04-12"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-04-12T13:52:00-04:00"><text>Mr. Ford (MI) moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-04-12T13:53:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2192-2196"/></action>
+		<action datetime="1994-04-12T13:53:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-04-12T13:54:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed until April 13.</text></action>
+		<action datetime="1994-04-13T16:11:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2232"/></action>
+		<vote how="roll" type="vote2" roll="102" datetime="1994-04-13T16:19:00-04:00" where="h" result="pass" suspension="1"  state="PASSED:BILL"><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 283 - 136 (Roll no. 102).</text><reference label="consideration" ref="CR H2232-2233"/></vote>
+		<action datetime="1994-04-13T16:19:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-04-13" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-04-19" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-04-28" ><text>Signed by President.</text></signed>
+		<enacted number="103-235" type="public" datetime="1994-04-28"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-235.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Black colleges"/>
+		<term name="Budgets"/>
+		<term name="Collection of accounts"/>
+		<term name="Community colleges"/>
+		<term name="Education of Indians"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Higher education"/>
+		<term name="Minorities"/>
+		<term name="Student loan funds"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/25/1994--Introduced.
+Amends the Higher Education Act of 1965 to extend the student loan default cohort rate exemption for historically Black colleges, tribally controlled community colleges, and Navajo community colleges.
+
+	</summary>
+</bill>

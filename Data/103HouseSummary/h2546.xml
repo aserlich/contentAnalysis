@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="2546" updated="2010-04-19T05:48:34-04:00">
+	<state datetime="1993-06-28">REFERRED</state>
+	<status><introduced datetime="1993-06-28"/></status>
+
+	<introduced datetime="1993-06-28"/>
+	<titles>
+		<title type="short" as="introduced">Good Neighbor Environmental Assistance Act of 1993</title>
+		<title type="official" as="introduced">To authorize appropriations for the provision of financial assistance to protect public health, the environment, and water quality along the United States-Mexico border.</title>
+	</titles>
+	<sponsor id="403308"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-28"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-07-12"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1994-03-03"><committee name="House Committee on Public Works + Transportation"/><text>See H.R.3948.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3948" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="American economic assistance"/>
+		<term name="Arizona"/>
+		<term name="Boundaries"/>
+		<term name="California"/>
+		<term name="Federal aid to water pollution control"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="International environmental cooperation"/>
+		<term name="Mexico"/>
+		<term name="Municipal services"/>
+		<term name="New Mexico"/>
+		<term name="Sewage treatment plants"/>
+		<term name="Texas"/>
+		<term name="Transboundary pollution"/>
+		<term name="Waste water treatment"/>
+		<term name="Water pollution control"/>
+		<term name="Water treatment plants"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/28/1993--Introduced.
+Good Neighbor Environmental Assistance Act of 1993 - Authorizes the Administrator of the Environmental Protection Agency to provide financial assistance for the construction of projects in border States (Arizona, California, New Mexico, and Texas) consisting of: (1) wastewater treatment works to protect residents and surrounding areas from pollution; and (2) treatment works to provide primary or more advanced treatment of municipal sewage and industrial waste. Permits the Administrator to make grants for construction of treatment works in Mexico only if treatment works in Mexico are not sufficient to protect border State residents from water pollution originating in Mexico. Authorizes appropriations.
+
+	</summary>
+</bill>

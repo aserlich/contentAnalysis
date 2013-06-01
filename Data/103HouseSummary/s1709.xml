@@ -1,0 +1,38 @@
+<bill session="103" type="s" number="1709" updated="2012-07-17T05:39:33-04:00">
+	<state datetime="1993-11-19">REFERRED</state>
+	<status><introduced datetime="1993-11-19"/></status>
+
+	<introduced datetime="1993-11-19"/>
+	<titles>
+		<title type="official" as="introduced">A bill to suspend temporarily the duty on mounted closed circuit television lenses.</title>
+	</titles>
+	<sponsor id="411818"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-19" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S16456-16457)</text></action>
+		<action datetime="1993-11-19" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1074" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Cameras"/>
+		<term name="Closed-circuit television"/>
+		<term name="Lenses"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/19/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1996, the duty on mounted closed circuit television lenses.
+
+	</summary>
+</bill>

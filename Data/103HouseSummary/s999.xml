@@ -1,0 +1,37 @@
+<bill session="103" type="s" number="999" updated="2012-07-17T05:08:44-04:00">
+	<state datetime="1993-05-20">REFERRED</state>
+	<status><introduced datetime="1993-05-20"/></status>
+
+	<introduced datetime="1993-05-20"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Foreign Trade Zones Act to allow foreign trade zones to be established where a regional commission involving more than 1 State will coordinate zone activities.</title>
+	</titles>
+	<sponsor id="402412"/>
+	<cosponsors>
+		<cosponsor id="300034" joined="1993-06-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-20" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6272-6273)</text></action>
+		<action datetime="1993-05-20" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2222" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Free ports and zones"/>
+		<term name="Regional economic development"/>
+		<term name="Regional planning"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/1993--Introduced.
+Amends the Foreign Trade Zones Act to authorize a regional commission to establish a foreign-trade zone in two or more States if certain requirements are met.
+
+	</summary>
+</bill>

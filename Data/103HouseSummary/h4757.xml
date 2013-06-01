@@ -1,0 +1,76 @@
+<bill session="103" type="h" number="4757" updated="2010-04-19T11:33:10-04:00">
+	<state datetime="1994-11-02">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-11-02" /></status>
+
+	<introduced datetime="1994-07-14"/>
+	<titles>
+		<title type="short" as="introduced">Confederated Tribes of the Colville Reservation Grand Coulee Dam Settlement Act</title>
+		<title type="short" as="passed house">Confederated Tribes of the Colville Reservation Grand Coulee Dam Settlement Act</title>
+		<title type="short" as="enacted">Confederated Tribes of the Colville Reservation Grand Coulee Dam Settlement Act</title>
+		<title type="official" as="introduced">To provide for the settlement of the claims of the Confederated Tribes of the Colville Reservation concerning their contribution to the production of hydropower by the Grand Coulee Dam, and for other purposes.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1994-07-14"/>
+		<cosponsor id="400117" joined="1994-07-14"/>
+		<cosponsor id="400193" joined="1994-07-14"/>
+		<cosponsor id="400109" joined="1994-07-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-14"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-07-15"><committee name="House Committee on Natural Resources"/><text>Late Referral to the Subcommittee on Oversight and Investigations (Nov 30, 94).</text></action>
+		<action datetime="1994-08-02"><text>Hearings Held by the Subcommittee on Oversight and Investigations Prior to Referral.</text></action>
+		<action datetime="1994-08-05"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-08-05"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-08-08T15:12:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 103-685.</text></action>
+		<calendar number="374" datetime="1994-08-08T15:12:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 374.</text></calendar>
+		<action datetime="1994-10-03T20:01:00-04:00"><text>Mr. Miller (CA) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-03T20:01:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10626-10628"/></action>
+		<action datetime="1994-10-03T20:01:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-10-03T20:04:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-03T20:05:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-04"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-07" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S14676"/></vote>
+		<topresident datetime="1994-10-07" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-12"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-24" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-11-02" ><text>Signed by President.</text></signed>
+		<enacted number="103-436" type="public" datetime="1994-11-02"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-436.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Oversight and Investigations" activity="Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="2259" />
+		<bill relation="unknown" session="103" type="s" number="2259" />
+	</relatedbills>
+	<subjects>
+		<term name="Indians"/>
+		<term name="Budgets"/>
+		<term name="Columbia River development"/>
+		<term name="Dams"/>
+		<term name="Electric power production"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Finance"/>
+		<term name="Forfeiture"/>
+		<term name="Government trust funds"/>
+		<term name="Hydroelectric power"/>
+		<term name="Indian claims"/>
+		<term name="Indian lands"/>
+		<term name="Infrastructure"/>
+		<term name="Interest"/>
+		<term name="Liens"/>
+		<term name="Minorities"/>
+		<term name="Washington State"/>
+		<term name="Water resources"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Passed House amended. Confederated Tribes of the Colville Reservation Grand Coulee Dam Settlement Act - Provides for the settlement of claims by the Confederated Tribes of the Colville Reservation against the United States with regard to compensation for electric power generated by the Grand Coulee Dam.
+
+	</summary>
+</bill>

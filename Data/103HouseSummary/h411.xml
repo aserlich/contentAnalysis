@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="411" updated="2010-04-19T00:04:17-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit a State from imposing an income tax on the pension income of individuals who are not residents or domiciliaries of that State.</title>
+	</titles>
+	<sponsor id="400504"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="1993-02-23"/>
+		<cosponsor id="411677" joined="1993-09-08"/>
+		<cosponsor id="400113" joined="1993-04-01"/>
+		<cosponsor id="400104" joined="1993-03-03"/>
+		<cosponsor id="400165" joined="1994-06-13"/>
+		<cosponsor id="400055" joined="1993-02-23"/>
+		<cosponsor id="400010" joined="1994-01-25"/>
+		<cosponsor id="400331" joined="1994-04-12"/>
+		<cosponsor id="406799" joined="1993-04-01"/>
+		<cosponsor id="400115" joined="1993-09-08"/>
+		<cosponsor id="400169" joined="1993-04-27"/>
+		<cosponsor id="400614" joined="1993-02-17"/>
+		<cosponsor id="400601" joined="1994-09-12"/>
+		<cosponsor id="408476" joined="1993-09-29"/>
+		<cosponsor id="400221" joined="1993-10-20"/>
+		<cosponsor id="400012" joined="1993-10-20"/>
+		<cosponsor id="403864" joined="1994-03-03"/>
+		<cosponsor id="400252" joined="1994-05-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Pensions"/>
+		<term name="Residence requirements"/>
+		<term name="Retirement income"/>
+		<term name="State taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends Federal law to prohibit any State from imposing an income tax on the pension income of any individual who is not a resident or domiciliary of that State.
+
+	</summary>
+</bill>

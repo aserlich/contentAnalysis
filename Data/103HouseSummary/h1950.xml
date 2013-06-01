@@ -1,0 +1,162 @@
+<bill session="103" type="h" number="1950" updated="2010-04-19T04:16:12-04:00">
+	<state datetime="1993-04-29">REFERRED</state>
+	<status><introduced datetime="1993-04-29"/></status>
+
+	<introduced datetime="1993-04-29"/>
+	<titles>
+		<title type="short" as="introduced">Family and Economic Recovery Act</title>
+		<title type="short" as="introduced">Educational Choice Programs Act</title>
+		<title type="official" as="introduced">To provide assistance to families, enhance economic growth and opportunity and advance education reform.</title>
+	</titles>
+	<sponsor id="400435"/>
+	<cosponsors>
+		<cosponsor id="400398" joined="1993-05-19"/>
+		<cosponsor id="400219" joined="1993-05-19"/>
+		<cosponsor id="410147" joined="1993-11-22"/>
+		<cosponsor id="400015" joined="1993-11-22"/>
+		<cosponsor id="400197" joined="1993-07-01"/>
+		<cosponsor id="300055" joined="1993-07-01"/>
+		<cosponsor id="400113" joined="1993-06-17"/>
+		<cosponsor id="400180" joined="1993-11-22"/>
+		<cosponsor id="300030" joined="1993-05-19"/>
+		<cosponsor id="406768" joined="1993-04-29"/>
+		<cosponsor id="400322" joined="1993-06-17"/>
+		<cosponsor id="400348" joined="1993-09-15"/>
+		<cosponsor id="404587" joined="1993-06-17"/>
+		<cosponsor id="400161" joined="1993-06-17"/>
+		<cosponsor id="400191" joined="1993-06-17"/>
+		<cosponsor id="400176" joined="1993-11-22"/>
+		<cosponsor id="400116" joined="1993-06-17"/>
+		<cosponsor id="400365" joined="1993-07-01"/>
+		<cosponsor id="400192" joined="1993-05-19"/>
+		<cosponsor id="300151" joined="1993-05-19"/>
+		<cosponsor id="400055" joined="1993-06-17"/>
+		<cosponsor id="403545" joined="1993-05-19"/>
+		<cosponsor id="400010" joined="1993-09-15"/>
+		<cosponsor id="400329" joined="1993-09-15"/>
+		<cosponsor id="400144" joined="1993-06-17"/>
+		<cosponsor id="400017" joined="1993-05-19"/>
+		<cosponsor id="400551" joined="1993-04-29"/>
+		<cosponsor id="406799" joined="1993-05-19"/>
+		<cosponsor id="408553" joined="1993-05-19"/>
+		<cosponsor id="400070" joined="1993-09-15"/>
+		<cosponsor id="300003" joined="1993-04-29"/>
+		<cosponsor id="400083" joined="1993-09-15"/>
+		<cosponsor id="400601" joined="1993-06-17"/>
+		<cosponsor id="400221" joined="1993-04-29"/>
+		<cosponsor id="401081" joined="1993-06-17"/>
+		<cosponsor id="409052" joined="1993-09-15"/>
+		<cosponsor id="400243" joined="1993-06-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-29"><text>Sponsor introductory remarks on measure. (CR H2164-2169)</text></action>
+		<action datetime="1993-04-29"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-04-29"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-04-29"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-18"><text>Sponsor introductory remarks on measure. (CR H2500-2501)</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+		<action datetime="1993-06-24"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Adoption"/>
+		<term name="Business and social problems"/>
+		<term name="Capital gains tax"/>
+		<term name="Children"/>
+		<term name="Church schools"/>
+		<term name="College costs"/>
+		<term name="Corporation taxes"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Depressed areas"/>
+		<term name="Disaster relief"/>
+		<term name="Education"/>
+		<term name="Educational accountability"/>
+		<term name="Educational finance"/>
+		<term name="Educational vouchers"/>
+		<term name="Elementary education"/>
+		<term name="Employee benefit plans"/>
+		<term name="Employee health benefits"/>
+		<term name="Employment tax credits"/>
+		<term name="Enterprise zones"/>
+		<term name="Family policy"/>
+		<term name="Federal aid to education"/>
+		<term name="Federal aid to private schools"/>
+		<term name="Federal preemption"/>
+		<term name="Flexible work hours"/>
+		<term name="Florida"/>
+		<term name="Foreign trade"/>
+		<term name="Free ports and zones"/>
+		<term name="Government and business"/>
+		<term name="Government paperwork"/>
+		<term name="Government regulation"/>
+		<term name="Grants-in-aid"/>
+		<term name="Guam"/>
+		<term name="Hawaii"/>
+		<term name="Health insurance"/>
+		<term name="Higher education"/>
+		<term name="Home ownership"/>
+		<term name="Hours of labor"/>
+		<term name="Housing"/>
+		<term name="Housing finance"/>
+		<term name="Hurricanes"/>
+		<term name="Income"/>
+		<term name="Indexing (Economic policy)"/>
+		<term name="Indian economic development"/>
+		<term name="Individual retirement accounts"/>
+		<term name="Insurance premiums"/>
+		<term name="Losses"/>
+		<term name="Louisiana"/>
+		<term name="Medical care"/>
+		<term name="Medical economics"/>
+		<term name="Minimum tax"/>
+		<term name="Parental leave"/>
+		<term name="Part-time employment"/>
+		<term name="Private schools"/>
+		<term name="Regulatory impact statements"/>
+		<term name="Rural economic development"/>
+		<term name="Savings accounts"/>
+		<term name="Scholarships"/>
+		<term name="Secondary education"/>
+		<term name="Self-employed"/>
+		<term name="Small business"/>
+		<term name="State laws"/>
+		<term name="Stocks"/>
+		<term name="Storms"/>
+		<term name="Student aid"/>
+		<term name="Tax credits"/>
+		<term name="Tax deductions"/>
+		<term name="Tax exclusion"/>
+		<term name="Tax exemption"/>
+		<term name="Tax rates"/>
+		<term name="Tax refunds"/>
+		<term name="Tax-deferred compensation plans"/>
+		<term name="Telecommuting"/>
+		<term name="Trusts and trustees"/>
+		<term name="Unemployed"/>
+		<term name="Unemployment"/>
+		<term name="Urban economic development"/>
+		<term name="Vocational education"/>
+		<term name="Wages"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/29/1993--Introduced.
+TABLE OF CONTENTS: Title I: Tax Relief for Families Title II: Family Savings Incentives Subtitle A: Increase in Income Limitations for Deductible IRA Contributions; Increase in IRA Contribution Limits; Penalty-Free Withdrawals for Home Ownership, Education, and Medical Expenses Subtitle B: Exclusion for Employer-Provided Educational Assistance to Include Educational Assistance for Spouse and Dependents of Employee Title III: Medical Care Savings Accounts; Health Care Cost Controls; Deduction for Health Insurance Costs of Self-Employed Individuals Title IV: Educational Choice Programs Title V: Grants to Encourage Employers to Adopt Flexible Work and Family Policies Title VI: Reducing the Cost of Capital by Reducing Capital Gains Tax Rates, Indexing the Basis of Certain Assets, and Excluding Gain from Sales of Principal Residences Title VII: Enterprise Zones Subtitle A: Designation of Enterprise Zones Subtitle B: Federal Income Tax Incentives Subtitle C: Regulatory Flexibility Subtitle D: Establishment of Foreign-Trade Zones in Enterprise Zones Family and Economic Recovery Act - Title I: Tax Relief for Families - Amends the Internal Revenue Code to allow taxpayers a credit for each child who has not attained the age of 19. Allows a credit for qualified adoption expenses. Disallows the use of such credits together with other credits or deductions. Title II: Family Savings Incentives - Subtitle A: Increase in Income Limitations for Deductible IRA Contributions; Increase in IRA Contribution Limits; Penalty-Free Withdrawals for Home Ownership, Education, and Medical Expenses - Increases the income limitations on retirement savings deductions and provides a cost-of-living adjustment after 1994 for such limitations. Provides a cost-of-living adjustment for deductible retirement amounts after 1993. Allows distributions from certain retirement plans without penalty to purchase first homes, pay higher education expenses and financially devastating medical expenses, and assist certain unemployed individuals. Treats certain disaster victims as first-time homebuyers. Subtitle B: Exclusion for Employer-Provided Educational Assistance to Include Educational Assistance for Spouse and Dependents of Employee - Excludes from gross income employer-provided educational assistance to spouses and dependents of employees. Makes such exclusion permanent. Title III: Medical Care Savings Accounts; Health Care Cost Controls; Deduction for Health Insurance Costs of Self-Employed Individuals - Excludes from gross income medical care savings benefits. Describes such benefits as a health plan which provides that all or part of the premium differential realized by instituting a qualified higher deductible health plan is credited to participating employees to pay for medical care for a plan year. Requires amounts remaining at the end of such plan year to be deposited into a tax exempt medical care savings account (subject to rules similar to those for retirement plans) for use by the participant for medical expenses. Increases the deduction for health insurance costs of self-employed individuals to 100 percent (50 percent for 1995 and 1996) and makes such deduction permanent. Preempts State laws: (1) requiring the offering of health plans providing certain services; and (2) prohibiting employer groups from purchasing health insurance. Title IV: Educational Choice Programs - Educational Choice Programs Act - Authorizes appropriations for FY 1993 through 2000 for grants and scholarship awards to parents of elementary or secondary school children that may be redeemed at a variety of public and private schools, including religious schools. Sets forth administrative details for such program. Title V: Grants to Encourage Employers to Adopt Flexible Work and Family Policies - Authorizes appropriations for FY 1993 to provide start-up grants to businesses to explore, initiate, or expand flexible work policies in an effort to ease work and family demands on employees. Includes as examples flexitime, part-time, job sharing, telecommuting, flexiplace, or compressed work weeks. Title VI: Reducing the Cost of Capital by Reducing Capital Gains Tax Rates, Indexing the Basis of Certain Assets, and Excluding Gain from Sales of Principal Residences - Reduces the individual and corporate capital gains rate from 34 percent to 15 percent. Reduces such tax to 7.5 percent for low- and middle-income taxpayers. Provides for the phaseout of personal exemptions and the overall limitation on itemized deductions to take into account adjusted gross income which has been reduced by net capital gain. Requires indexing, based on the gross national product deflator, of the adjusted basis of certain assets (corporate stock and tangible property that is a capital asset of property used in a trade or business) that have been held for more than one year at the time of sale or other transfer, solely for the purpose of determining gain or loss. Provides for indexing the limitation of capital losses of noncorporate taxpayers. Excludes from gross income the sale or exchange of property that has been owned and used by the taxpayer as the taxpayer's principal residence. Terminates provisions relating to the rollover of gain on the sale of a principal residence. Title VII: Enterprise Zones - Subtitle A: Designation of Enterprise Zones - Authorizes the Secretary of Housing and Urban Development to designate enterprise zones for purposes of providing tax and regulatory relief and improving local services. Limits choices to areas nominated by States and local governments. Limits the total number of areas that may be designated, and the time period of the designation. Authorizes the Secretary to designate a zone only if the area meets certain locational, demographic, unemployment, and poverty criteria. Requires nominating local governments, as a condition of the Secretary's designation, to agree in writing to follow a course of action that may include reducing tax rates, improving local services, simplifying or streamlining regulation of business, and providing job training to area residents. Describes areas to which the Secretary must give preference in selecting areas for designation. Requires the Secretary to report to the Congress every two years on the effects of such enterprise zones' designation in accomplishing the purposes of this Act. Subtitle B: Federal Income Tax Incentives - Allows a nonrefundable income tax credit to enterprise zone employees for five percent of any qualified wages earned as do not exceed a specified amount. Phases out such credit as total wages increase over $20,000. Provides for the nonrecognition of capital gain on the sale of enterprise zone property. Allows a taxpayer a deduction on the aggregate amount paid for the purchase of enterprise stock on its original issue by a qualified issuer. Requires any gain from the disposition of the stock to be treated as ordinary income. Excludes enterprise zone capital gains from income computation of alternative minimum taxes. Subtitle C: Regulatory Flexibility - Amends Federal law to revise the definition of &quot;small entity&quot; for purposes of the analysis of regulatory functions to include qualified business, government, and nonprofit enterprises operating within enterprise zones. Authorizes Federal agencies, upon request by a designating government, to waive or modify rules and regulations pertaining to the implementation of projects or activities within an enterprise zone. Requires agencies to approve the request if the resulting benefits of job creation, community development, or economical revitalization outweigh the public interest in retaining the rule unchanged. Disallows waiver or modification of a rule that would directly violate a statutory requirement or present a danger to the public health and safety. Subtitle D: Establishment of Foreign-Trade Zones in Enterprise Zones - Requires the Foreign-Trade Zone Board to consider on a priority basis, and to expedite the processing of, applications for the establishment of foreign-trade zones within enterprise zones. Requires the Secretary of the Treasury to give priority to, and expedite applications for, the establishment of ports of entry necessary to establish such zones.
+
+	</summary>
+</bill>

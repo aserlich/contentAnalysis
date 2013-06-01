@@ -1,0 +1,51 @@
+<bill session="103" type="hj" number="283" updated="2010-04-18T22:36:11-04:00">
+	<state datetime="1993-10-29">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-10-29" /></status>
+
+	<introduced datetime="1993-10-27"/>
+	<titles>
+		<title type="official" as="introduced">Making further continuing appropriations for the fiscal year 1994, and for other purposes.</title>
+	</titles>
+	<sponsor id="408103"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-27"><text>Referred to the House Committee on Appropriations.</text></action>
+		<action datetime="1993-10-27T17:02:00-04:00"><text>Rules Committee Resolution H. Res. 287 Reported to House. Rule provides for consideration of H.J. Res. 283 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Providing for the consideration of the joint resolution in the House.</text></action>
+		<action datetime="1993-10-28"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-10-28T12:19:00-04:00"><text>Rule H. Res. 287 passed House.</text></action>
+		<action datetime="1993-10-28T12:19:00-04:00"><text>Considered under the provisions of rule H. Res. 287.</text><reference label="consideration" ref="CR H8606-8609"/></action>
+		<action datetime="1993-10-28T12:19:00-04:00"><text>Rule provides for consideration of H.J. Res. 283 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Providing for the consideration of the joint resolution in the House.</text></action>
+		<action datetime="1993-10-28T12:20:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 287, the House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-10-28T12:36:00-04:00"><text>The previous question was ordered pursuant to the rule.</text></action>
+		<vote how="roll" type="vote" roll="536" datetime="1993-10-28T12:55:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed by the Yeas and Nays: 256 - 157 (Roll no. 536).</text></vote>
+		<action datetime="1993-10-28T12:55:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-10-28" where="s" result="pass"  state="PASSED:BILL"><text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S14625"/></vote>
+		<topresident datetime="1993-10-28" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-10-28" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-10-29" ><text>Signed by President.</text></signed>
+		<enacted number="103-128" type="public" datetime="1993-10-29"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-128.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSAP" name="House Appropriations" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="103" type="hr" number="287" />
+	</relatedbills>
+	<subjects>
+		<term name="Appropriations"/>
+		<term name="Budgets"/>
+		<term name="Continuing resolutions"/>
+		<term name="Defense budgets"/>
+		<term name="Executive departments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/27/1993--Introduced.
+Extends the law making further continuing appropriations for FY 1994.
+
+	</summary>
+</bill>

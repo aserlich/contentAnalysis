@@ -1,0 +1,56 @@
+<bill session="103" type="s" number="537" updated="2012-07-17T06:16:49-04:00">
+	<state datetime="1994-08-01">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-08-01" /></status>
+
+	<introduced datetime="1993-03-09"/>
+	<titles>
+		<title type="official" as="introduced">A bill for the relief of Tania Gil Compton.</title>
+	</titles>
+	<sponsor id="300150"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-09" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2554)</text></action>
+		<action datetime="1993-03-09" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-04-20"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Immigration and Refugee Affairs.</text></action>
+		<calendar datetime="1993-09-30"  state="REPORTED"><committee name="Committee on Judiciary"/><text>Committee on Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1993-09-30"><text>Committee on Judiciary. Reported to Senate by Senator Biden with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="216" datetime="1993-09-30" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 216.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-10-13" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-10-15T10:09:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-10-15"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-10-15"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-10-19"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1994-06-30T19:00:00-04:00"><text>Reported by the Committee on Judiciary. H. Rept. 103-576.</text></action>
+		<calendar number="5" datetime="1994-06-30T20:01:00-04:00" calendar="Private" ><text>Placed on the Private Calendar, Calendar No. 5.</text></calendar>
+		<action datetime="1994-07-19T12:04:00-04:00"><text>Considered from the Private Calendar.</text></action>
+		<vote how="without objection" type="vote2" datetime="1994-07-19T12:04:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-07-19T12:04:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-07-19" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-07-21" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-08-01" ><text>Signed by President.</text></signed>
+		<enacted number="103-4" type="private" datetime="1994-08-01"  state="ENACTED:SIGNED"><text>Became Private Law No: 103-4.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Judiciary" subcommittee="Immigration and Refugee Affairs" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Reporting" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Immigration"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/9/1993--Introduced.
+Classifies a named individual as a child for immediate relative status purposes under the Immigration and Nationality Act.
+
+	</summary>
+</bill>

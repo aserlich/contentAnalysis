@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="5163" updated="2010-04-19T12:36:03-04:00">
+	<state datetime="1994-10-04">REFERRED</state>
+	<status><introduced datetime="1994-10-04"/></status>
+
+	<introduced datetime="1994-10-04"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Trade Act of 1974 to apply fast track procedures to an implementing bill submitted by the President to the 104th Congress with respect to the Uruguay Round trade agreements.</title>
+	</titles>
+	<sponsor id="400115"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-04"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1994-10-04"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-10-12"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Congress"/>
+		<term name="Expedited congressional procedure"/>
+		<term name="International affairs"/>
+		<term name="Legislation"/>
+		<term name="Trade"/>
+		<term name="Trade agreements"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/4/1994--Introduced.
+Amends the Trade Act of 1974 to apply fast track procedures to any implementing bill submitted by the President during the 104th Congress with respect to Uruguay Round trade agreements entered into under the General Agreement on Tariffs and Trade (GATT).
+
+	</summary>
+</bill>

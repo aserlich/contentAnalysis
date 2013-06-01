@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="2472" updated="2010-04-19T05:37:06-04:00">
+	<state datetime="1993-06-18">REFERRED</state>
+	<status><introduced datetime="1993-06-18"/></status>
+
+	<introduced datetime="1993-06-18"/>
+	<titles>
+		<title type="short" as="introduced">Information Dissemination and Research Accountability Act</title>
+		<title type="official" as="introduced">To promote the dissemination of biomedical information through modern methods of science and technology and to prevent the duplication of experiments on live animals, and for other purposes.</title>
+	</titles>
+	<sponsor id="300156"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-06-18"/>
+		<cosponsor id="400003" joined="1993-06-18"/>
+		<cosponsor id="400409" joined="1993-06-18"/>
+		<cosponsor id="400370" joined="1993-06-18"/>
+		<cosponsor id="403364" joined="1993-06-18"/>
+		<cosponsor id="400586" joined="1994-07-20"/>
+		<cosponsor id="400536" joined="1993-06-18"/>
+		<cosponsor id="400100" joined="1993-08-03"/>
+		<cosponsor id="400243" joined="1993-06-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-18"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-07-16"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Libraries"/>
+		<term name="Biological research"/>
+		<term name="Communication in medicine"/>
+		<term name="Data banks"/>
+		<term name="Data transmission systems"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Executive reorganization"/>
+		<term name="Information services"/>
+		<term name="Information storage and retrieval systems"/>
+		<term name="Laboratory animals"/>
+		<term name="Medical libraries"/>
+		<term name="Medical research"/>
+		<term name="Protection of animals"/>
+		<term name="Research and development contracts"/>
+		<term name="Research management"/>
+		<term name="Standards"/>
+		<term name="Technological innovations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/18/1993--Introduced.
+Information Dissemination and Research Accountability Act - Establishes in the National Library of Medicine a National Center for Research Accountability to assist in eliminating duplication of effort in Federal research proposals involving live animals. Requires referral of all such proposals to the Center for approval prior to funding. Provides for the modernization of biomedical information storage and dissemination by the National Library of Medicine.
+
+	</summary>
+</bill>

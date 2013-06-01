@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="2979" updated="2010-04-19T06:55:43-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">To delay the effective date of the proposed amendments to rule 11 of the Federal Rules of Civil Procedure.</title>
+	</titles>
+	<sponsor id="407899"/>
+	<cosponsors>
+		<cosponsor id="400596" joined="1993-08-06"/>
+		<cosponsor id="400365" joined="1993-08-06"/>
+		<cosponsor id="404097" joined="1993-08-06"/>
+		<cosponsor id="400076" joined="1993-08-06"/>
+		<cosponsor id="409633" joined="1993-08-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-08-13"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Courts"/>
+		<term name="Civil procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Delays the effective date of proposed amendments to rule 11 of the Federal Rules of Civil Procedure until December 1, 1994.
+
+	</summary>
+</bill>

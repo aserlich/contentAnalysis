@@ -1,0 +1,62 @@
+<bill session="103" type="h" number="3019" updated="2010-04-19T07:01:50-04:00">
+	<state datetime="1993-09-30">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-09-30" /></status>
+
+	<introduced datetime="1993-09-08"/>
+	<titles>
+		<title type="short" as="introduced">Performance Management and Recognition System Termination Act</title>
+		<title type="short" as="enacted">Performance Management and Recognition System Termination Act</title>
+		<title type="official" as="introduced">To amend title 5, United States Code, to provide for a temporary extension and the orderly termination of the performance management and recognition system, and for other purposes.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+		<cosponsor id="400524" joined="1993-09-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-08"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-09-09"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+		<action datetime="1993-09-09"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-09-09"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-09-14"><committee name="House Committee on Post Office and Civil Service"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-09-14"  state="REPORTED"><committee name="House Committee on Post Office and Civil Service"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1993-09-21T14:54:00-04:00"><text>Reported by the Committee on Post Office and Civil Service. H. Rept. 103-247.</text></action>
+		<calendar number="138" datetime="1993-09-21T14:55:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 138.</text></calendar>
+		<action datetime="1993-09-21T15:03:00-04:00"><text>Ms. Norton moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-09-21T15:03:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6804-6805"/></action>
+		<action datetime="1993-09-21T15:03:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-09-21T15:07:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Burton objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<vote how="roll" type="vote" roll="439" datetime="1993-09-21T17:47:00-04:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 426 - 1 (Roll no. 439).</text></vote>
+		<action datetime="1993-09-21T17:47:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-09-22" where="s" result="pass"  state="PASSED:BILL"><text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S12263"/></vote>
+		<topresident datetime="1993-09-22" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-09-23"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-09-24" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-09-30" ><text>Signed by President.</text></signed>
+		<enacted number="103-89" type="public" datetime="1993-09-30"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-89.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Awards, medals, prizes"/>
+		<term name="Civil service system"/>
+		<term name="Disciplining of employees"/>
+		<term name="Dismissal of employees"/>
+		<term name="Personnel management"/>
+		<term name="Rating of employees"/>
+		<term name="Salaries"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/8/1993--Introduced.
+Performance Management and Recognition System Termination Act - Amends Federal law to: (1) postpone by one month the termination of the performance management and recognition system; and (2) provide for the treatment of the employees covered by the system as of its termination date.
+
+	</summary>
+</bill>

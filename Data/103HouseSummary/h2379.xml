@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="2379" updated="2010-04-19T05:22:34-04:00">
+	<state datetime="1993-06-10">REFERRED</state>
+	<status><introduced datetime="1993-06-10"/></status>
+
+	<introduced datetime="1993-06-10"/>
+	<titles>
+		<title type="short" as="introduced">California Desert and Employment Preservation Act of 1993</title>
+		<title type="official" as="introduced">To designate certain lands in the State of California as wilderness, and for other purposes.</title>
+	</titles>
+	<sponsor id="400239"/>
+	<cosponsors>
+		<cosponsor id="407320" joined="1993-06-10"/>
+		<cosponsor id="400091" joined="1993-07-27"/>
+		<cosponsor id="400191" joined="1993-06-10"/>
+		<cosponsor id="407899" joined="1993-09-21"/>
+		<cosponsor id="400401" joined="1993-06-10"/>
+		<cosponsor id="400057" joined="1993-07-27"/>
+		<cosponsor id="400601" joined="1993-07-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-10"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-07-06"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1994-05-04"><committee name="House Committee on Natural Resources"/><text>For Further Action See H.R.518.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="518" />
+		<bill relation="unknown" session="103" type="h" number="518" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands"/>
+		<term name="California"/>
+		<term name="Commemorations"/>
+		<term name="Culture"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Indian lands"/>
+		<term name="Military aviation"/>
+		<term name="Military training"/>
+		<term name="National monuments"/>
+		<term name="National parks"/>
+		<term name="Religious liberty"/>
+		<term name="Water rights"/>
+		<term name="Wilderness areas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/10/1993--Introduced.
+California Desert and Employment Preservation Act of 1993 - Designates as additions to the National Wilderness Preservation System certain public lands located in California within the Bakersfield District, the Susanville District, the Ukiah District, the California Desert District, the Yuma, Arizona, District, and the Carson City, Nevada, District of the Bureau of Land Management (BLM). Incorporates certain public lands in the California Desert District into the Death Valley National Monument and the Joshua Tree National Monument and makes such lands part of the National Park System. Requires the Secretary of the Interior to prepare plans to manage designated wilderness areas. Withdraws such areas from exploitation under the public lands laws. Provides for the continuation of demilitarization activities and the overflight of military aircraft in such areas. Directs the Secretary to assure access to such areas for traditional Indian cultural and religious purposes. Permits the Secretary, upon the request of an Indian tribe or religious community, to temporarily close an area to protect the privacy of religious or cultural activities. States that lands administered by the BLM in California that have not been designated as wilderness areas have been adequately studied for wilderness designation and releases them from certain requirements. Authorizes appropriations.
+
+	</summary>
+</bill>

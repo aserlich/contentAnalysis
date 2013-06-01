@@ -1,0 +1,50 @@
+<bill session="103" type="s" number="1070" updated="2012-07-17T04:56:47-04:00">
+	<state datetime="1993-11-24">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-11-24" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-05-28"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide that certain politically appointed Federal officers may not receive cash awards for a certain period during a Presidential election year, to prohibit cash awards to Executive Schedule officers, and for other purposes.</title>
+	</titles>
+	<sponsor id="300066"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-05-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-28" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6865-6866)</text></action>
+		<action datetime="1993-05-28" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<calendar datetime="1993-11-18"  state="REPORTED"><committee name="Committee on Governmental Affairs"/><text>Committee on Governmental Affairs. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action datetime="1993-11-19"><text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn with an amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="314" datetime="1993-11-19" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 314.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-24" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text><reference label="consideration" ref="CR S17225-17226"/></vote>
+		<action datetime="1994-02-01T12:01:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-02-01"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-02-01"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-02-04"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+		<action datetime="1994-10-07"><text>Sponsor introductory remarks on measure. (CR S14953-14955)</text></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal officials"/>
+		<term name="Awards, medals, prizes"/>
+		<term name="Commemorations"/>
+		<term name="Executive compensation"/>
+		<term name="Government operations and politics"/>
+		<term name="Presidential appointments"/>
+		<term name="Presidential elections"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/24/1993--Passed Senate amended. Amends Federal civil service law to prohibit senior politically appointed officers from receiving incentive awards during a presidential election period (the period beginning on June 1 in the calendar year in which the popular election occurs and ending on January 20 following the date of the election). Defines a &quot;senior politically appointed officer&quot; as any officer who serves in: (1) a Senior Executive Service position and is not a career appointee; or (2) one of certain confidential or policy-determining positions. Bars cash awards to Executive Schedule officers.
+
+	</summary>
+</bill>

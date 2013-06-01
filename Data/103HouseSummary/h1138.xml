@@ -1,0 +1,106 @@
+<bill session="103" type="h" number="1138" updated="2010-04-19T02:05:53-04:00">
+	<state datetime="1993-02-24">REFERRED</state>
+	<status><introduced datetime="1993-02-24"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="short" as="introduced">Comprehensive Budget Process Reform Act of 1993</title>
+		<title type="official" as="introduced">To restructure the Federal budget process.</title>
+	</titles>
+	<sponsor id="408364"/>
+	<cosponsors>
+		<cosponsor id="408839" joined="1993-02-24"/>
+		<cosponsor id="400505" joined="1993-02-24"/>
+		<cosponsor id="400596" joined="1993-02-24"/>
+		<cosponsor id="401014" joined="1993-02-24"/>
+		<cosponsor id="400389" joined="1993-02-24"/>
+		<cosponsor id="400316" joined="1993-02-24"/>
+		<cosponsor id="409829" joined="1993-02-24"/>
+		<cosponsor id="408618" joined="1993-03-01"/>
+		<cosponsor id="400649" joined="1993-02-24"/>
+		<cosponsor id="400599" joined="1993-04-19"/>
+		<cosponsor id="411997" joined="1993-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24"><text>Sponsor introductory remarks on measure. (CR H869-870)</text></action>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-03-05"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-03-08"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Economic Development.</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Government Operations"/><text>See H.R.1578.</text></action>
+		<action datetime="1993-05-26"><committee name="House Committee on Public Works + Transportation" subcommittee="Economic Development"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-06-16"><committee name="House Committee on Public Works + Transportation" subcommittee="Economic Development"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Economic Development" activity="Referral, Hearings" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1578" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Administrative procedure"/>
+		<term name="Airports"/>
+		<term name="Appropriations"/>
+		<term name="Authorization"/>
+		<term name="Balanced budgets"/>
+		<term name="Bridges"/>
+		<term name="Budget deficits"/>
+		<term name="Building leases"/>
+		<term name="Capital budgets"/>
+		<term name="Capital investments"/>
+		<term name="Congressional budget process"/>
+		<term name="Congressional committees"/>
+		<term name="Congressional publications"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Congressional-executive relations"/>
+		<term name="Cost effectiveness"/>
+		<term name="Executive impoundment of appropriated funds"/>
+		<term name="Expedited congressional procedure"/>
+		<term name="Federal aid highway program"/>
+		<term name="Federal aid to transportation"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Federal budget process"/>
+		<term name="Federal office buildings"/>
+		<term name="Government paperwork"/>
+		<term name="Government procurement"/>
+		<term name="Government regulation"/>
+		<term name="Government spending reductions"/>
+		<term name="House rules and procedure"/>
+		<term name="Income tax"/>
+		<term name="Interest"/>
+		<term name="Item veto"/>
+		<term name="Leases"/>
+		<term name="Legislation"/>
+		<term name="Legislative resolutions"/>
+		<term name="Limitation of debate"/>
+		<term name="Mass rapid transit"/>
+		<term name="Office of Management and Budget"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Planning-programming-budgeting"/>
+		<term name="Presidential messages"/>
+		<term name="Productivity in government"/>
+		<term name="Public buildings"/>
+		<term name="Public debt"/>
+		<term name="Public works"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Sunset legislation"/>
+		<term name="Tax expenditures"/>
+		<term name="Taxation"/>
+		<term name="Waste water treatment"/>
+		<term name="Water treatment plants"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Amends the Internal Revenue Code to reduce the harbor maintenance rate of tax for 1996 through 1998. Provides further reductions after 1998, but only if the balance in the Harbor Maintenance Trust Fund exceeds $100 million.
+
+	</summary>
+</bill>

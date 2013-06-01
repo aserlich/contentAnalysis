@@ -1,0 +1,41 @@
+<bill session="103" type="hj" number="56" updated="2010-04-18T21:59:38-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States providing that, except in cases of national emergency, expenditures of the United States Government in any fiscal year shall not exceed its revenues for that fiscal year.</title>
+	</titles>
+	<sponsor id="408109"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1994-03-17"><committee name="House Committee on Judiciary"/><text>See H.J.Res.103.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hj" number="103" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Balanced budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Constitutional amendments"/>
+		<term name="Deficit financing"/>
+		<term name="Federal receipts and expenditures"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Constitutional Amendment - Prohibits fiscal year Federal expenditures from exceeding revenues, except during any national emergency declared by a three-fifths vote of the Congress.
+
+	</summary>
+</bill>

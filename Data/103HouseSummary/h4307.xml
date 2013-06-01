@@ -1,0 +1,105 @@
+<bill session="103" type="h" number="4307" updated="2010-04-19T10:22:22-04:00">
+	<state datetime="1994-10-06">PASS_BACK:SENATE</state>
+	<status><vote2 datetime="1994-10-06" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-04-28"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 35, United States Code, with respect to applications for process patents.</title>
+	</titles>
+	<sponsor id="405775"/>
+	<cosponsors>
+		<cosponsor id="400596" joined="1994-05-26"/>
+		<cosponsor id="407899" joined="1994-04-28"/>
+		<cosponsor id="400365" joined="1994-04-28"/>
+		<cosponsor id="404097" joined="1994-04-28"/>
+		<cosponsor id="400140" joined="1994-04-28"/>
+		<cosponsor id="400076" joined="1994-04-28"/>
+		<cosponsor id="400043" joined="1994-04-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-28"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-05-03"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+		<action datetime="1994-05-05"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-06-16"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-06-16"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-06-29"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-06-29"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1994-09-20T15:16:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-728.</text></action>
+		<calendar number="405" datetime="1994-09-20T15:16:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 405.</text></calendar>
+		<action datetime="1994-09-20T16:43:00-04:00"><text>Mr. Hughes moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-09-20T16:43:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9281-9285"/></action>
+		<action datetime="1994-09-20T16:43:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-09-20T17:00:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-09-20T17:00:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-09-20T17:00:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1994-09-21"><text>Received in the Senate, read twice.</text></action>
+		<action datetime="1994-10-06"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S14433-14434"/></action>
+		<action datetime="1994-10-06"><text>Amendment SP 2636 proposed by Senator Ford for Senator DeConcini.</text></action>
+		<action datetime="1994-10-06"><text>Amendment SP 2637 proposed by Senator Ford for Senator Hatch to Amendment SP 2636.</text></action>
+		<action datetime="1994-10-06"><text>Amendment SP 2636 agreed to in Senate by Voice Vote.</text></action>
+		<action datetime="1994-10-06"><text>Amendment SP 2637 agreed to in Senate by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-06" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with amendments by Voice Vote.</text></vote>
+		<action datetime="1994-10-07"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="760" />
+	</relatedbills>
+	<subjects>
+		<term name="Patents"/>
+		<term name="Actions and defenses"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Agriculture"/>
+		<term name="Biotechnology"/>
+		<term name="Claims"/>
+		<term name="Computer software"/>
+		<term name="Computers and government"/>
+		<term name="Congress"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Copyright"/>
+		<term name="Copyright infringement"/>
+		<term name="Damages"/>
+		<term name="Data banks"/>
+		<term name="Department of Commerce"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Executive departments"/>
+		<term name="Geothermal resources"/>
+		<term name="Government information"/>
+		<term name="Government liability"/>
+		<term name="Government paperwork"/>
+		<term name="Humanities"/>
+		<term name="Information services"/>
+		<term name="Intellectual property"/>
+		<term name="Inventions"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Jurisdiction"/>
+		<term name="Law"/>
+		<term name="Legal fees"/>
+		<term name="Libraries"/>
+		<term name="Library of Congress"/>
+		<term name="Licenses"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Phonorecords"/>
+		<term name="Politics and government"/>
+		<term name="Private legislation"/>
+		<term name="Public meetings of administrative bodies"/>
+		<term name="Public records"/>
+		<term name="Science policy"/>
+		<term name="Technology"/>
+	</subjects>
+	<amendments>
+		<amendment number="s2636"/>
+		<amendment number="s2637"/>
+	</amendments>
+	<summary>
+	10/6/1994--Passed Senate amended. Provides that, upon timely election by the applicant for patent to proceed, a &quot;biotechnological process&quot; using or resulting in a composition of matter that is novel and nonobvious shall be considered nonobvious if: (1) claims to the process and the composition of matter are contained in either the same application for patent or in separate applications having the same effective date; and (2) the composition of matter and the process at the time it was invented were owned by the same person or subject to an obligation of assignment to the same person. Specifies that a patent issued on such a process shall: (1) contain the claims to the composition of matter used in or made by that process; or (2) if such composition of matter is claimed in another patent, be set to expire on the same date as such other patent. Provides that, if a claim to a composition of matter is held invalid and that claim was the basis of a determination of nonobviousness under this title, the process shall no longer be considered nonobvious solely on the basis of provisions of this title. Confers jurisdiction upon the U.S. Court of Federal Claims to hear, determine, and render conclusions sufficient to inform the Congress of the amount, if any, legally or equitably due upon the claims of Inslaw, Inc., and William and Nancy Hamilton against the United States, arising out of the furnishing of computer software and services to the U.S. Department of Justice. Sets guidelines for the submission of a report to the Congress on that subject. Waives sovereign immunity for purposes of such report.
+
+	</summary>
+</bill>

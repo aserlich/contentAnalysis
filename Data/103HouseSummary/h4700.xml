@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="4700" updated="2010-04-19T11:24:19-04:00">
+	<state datetime="1994-06-30">REFERRED</state>
+	<status><introduced datetime="1994-06-30"/></status>
+
+	<introduced datetime="1994-06-30"/>
+	<titles>
+		<title type="short" as="introduced">Pioneer Preference Reform Act of 1994</title>
+		<title type="official" as="introduced">To amend the Communications Act of 1934 to prohibit unjust enrichment in the award of licenses by means of pioneer preferences.</title>
+	</titles>
+	<sponsor id="400110"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="1994-06-30"/>
+		<cosponsor id="407899" joined="1994-06-30"/>
+		<cosponsor id="400354" joined="1994-06-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-30"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-07-22"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Communications"/>
+		<term name="Administrative procedure"/>
+		<term name="Executive departments"/>
+		<term name="Federal Communications Commission"/>
+		<term name="Fees"/>
+		<term name="Independent regulatory commissions"/>
+		<term name="Licenses"/>
+		<term name="Radio frequency allocation"/>
+		<term name="Technological innovations"/>
+		<term name="Technology"/>
+		<term name="Telecommunication"/>
+		<term name="Telecommunication industry"/>
+		<term name="Television frequency allocation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/30/1994--Introduced.
+Pioneer Preference Reform Act of 1994 - Amends the Communications Act of 1934 to require the Federal Communications Commission (FCC) to: (1) prevent unjust enrichment of any person who makes significant contributions to the development of a new telecommunications service or technology; and (2) recover for the public a portion of the value of the public spectrum resource made available to such person. Terminates the FCC's authority to provide preferential treatment in licensing procedures (by precluding the filing of mutually exclusive applications) to such persons on September 30, 1998. Directs the FCC to prescribe regulations specifying the procedures and criteria by which the FCC will evaluate applications for preferential treatment in licensing processes for such persons.
+
+	</summary>
+</bill>

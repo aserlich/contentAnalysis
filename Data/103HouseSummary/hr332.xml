@@ -1,0 +1,38 @@
+<bill session="103" type="hr" number="332" updated="2010-04-19T13:50:48-04:00">
+	<state datetime="1994-01-26">REFERRED</state>
+	<status><introduced datetime="1994-01-26"/></status>
+
+	<introduced datetime="1994-01-26"/>
+	<titles>
+		<title type="official" as="introduced">Providing amounts from the contingent fund of the House for expenses of investigations and studies by the Committee on Standards of Official Conduct in the second session of the One Hundred Third Congress.</title>
+	</titles>
+	<sponsor id="400262"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-01-26"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1994-02-03"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Accounts.</text></action>
+		<action datetime="1994-02-22"><committee name="House Committee on House Administration" subcommittee="Accounts"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Accounts" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congress"/>
+		<term name="Congressional committees (House)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1994--Introduced.
+Provides amounts for expenses of investigations and studies by the House Committee on Standards of Official Conduct in the second session of the 103d Congress.
+
+	</summary>
+</bill>

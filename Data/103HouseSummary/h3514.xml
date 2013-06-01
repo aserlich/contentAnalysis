@@ -1,0 +1,64 @@
+<bill session="103" type="h" number="3514" updated="2010-04-19T08:18:37-04:00">
+	<state datetime="1993-12-17">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-17" /></status>
+
+	<introduced datetime="1993-11-16"/>
+	<titles>
+		<title type="official" as="introduced">To clarify the regulatory oversight exercised by the Rural Electrification Administration with respect to certain electric borrowers.</title>
+	</titles>
+	<sponsor id="403308"/>
+	<cosponsors>
+		<cosponsor id="300083" joined="1993-11-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-16"><text>Sponsor introductory remarks on measure. (CR E2904)</text></action>
+		<action datetime="1993-11-16"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-11-17"><committee name="House Committee on Agriculture"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-11-17"  state="REPORTED"><committee name="House Committee on Agriculture"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1993-11-19T17:13:00-05:00"><text>Reported by the Committee on Agriculture. H. Rept. 103-381.</text></action>
+		<calendar number="209" datetime="1993-11-19T17:13:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 209.</text></calendar>
+		<action datetime="1993-11-19T17:17:00-05:00"><text>Mr. de la Garza asked unanimous consent to discharge the Committee of the Whole House on the state of the Union and consider.</text></action>
+		<action datetime="1993-11-19T17:17:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10258-10259"/></action>
+		<vote how="without objection" type="vote" datetime="1993-11-19T17:22:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-11-19T17:22:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-19"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-11-22" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S16983"/></vote>
+		<topresident datetime="1993-11-22" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-11-26"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-12-08" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-17" ><text>Signed by President.</text></signed>
+		<enacted number="103-201" type="public" datetime="1993-12-17"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-201.</text></enacted>
+		<action datetime="1994-01-26"><committee name="House Committee on Agriculture"/><text>Favorable Executive Comment Received from USDA.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Administrative procedure"/>
+		<term name="Agricultural economics"/>
+		<term name="Debtor and creditor"/>
+		<term name="Department of Agriculture"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Executive departments"/>
+		<term name="Federally-assisted loans"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Government lending"/>
+		<term name="Liens"/>
+		<term name="Rural affairs"/>
+		<term name="Rural electrification"/>
+		<term name="Surety and fidelity"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/16/1993--Introduced.
+Amends the Rural Electrification Act of 1936 to direct the Administrator of the Rural Electrification Administration (REA), guided by private lending practices, to issue regulations for specified borrowers that minimize administrative requirements and restrictions. Provides for REA subordination or sharing of related liens.
+
+	</summary>
+</bill>

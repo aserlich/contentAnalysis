@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="2101" updated="2010-04-19T04:39:38-04:00">
+	<state datetime="1993-05-12">REFERRED</state>
+	<status><introduced datetime="1993-05-12"/></status>
+
+	<introduced datetime="1993-05-12"/>
+	<titles>
+		<title type="official" as="introduced">To temporarily suspend the duty on certain piston engines entered on or before December 31, 1998.</title>
+	</titles>
+	<sponsor id="400240"/>
+	<cosponsors>
+		<cosponsor id="400316" joined="1993-06-29"/>
+		<cosponsor id="403190" joined="1993-06-29"/>
+		<cosponsor id="406024" joined="1993-07-21"/>
+		<cosponsor id="400513" joined="1993-06-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-12"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-17"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-05-19"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1993-10-07"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="All terrain vehicles"/>
+		<term name="Engines"/>
+		<term name="Motor vehicles"/>
+		<term name="Snowmobiles"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/12/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1998, the duty on certain piston engines.
+
+	</summary>
+</bill>

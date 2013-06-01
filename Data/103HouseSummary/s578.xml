@@ -1,0 +1,114 @@
+<bill session="103" type="s" number="578" updated="2012-07-17T04:25:20-04:00">
+	<state datetime="1993-05-06">REPORTED</state>
+	<status><calendar datetime="1993-05-06" /></status>
+
+	<introduced datetime="1993-03-11"/>
+	<titles>
+		<title type="popular" as="">Religious Freedom Restoration Act</title>
+		<title type="short" as="introduced">Religious Freedom Restoration Act of 1993</title>
+		<title type="official" as="introduced">A bill to protect the free exercise of religion.</title>
+	</titles>
+	<sponsor id="300059"/>
+	<cosponsors>
+		<cosponsor id="300150" joined="1993-09-10"/>
+		<cosponsor id="300052" joined="1993-03-11"/>
+		<cosponsor id="300056" joined="1993-03-18"/>
+		<cosponsor id="409580" joined="1993-03-18"/>
+		<cosponsor id="300060" joined="1993-03-11"/>
+		<cosponsor id="300043" joined="1993-03-11"/>
+		<cosponsor id="405212" joined="1993-03-11"/>
+		<cosponsor id="401709" joined="1993-03-11"/>
+		<cosponsor id="300007" joined="1993-03-11"/>
+		<cosponsor id="401874" joined="1993-03-18"/>
+		<cosponsor id="409225" joined="1993-03-11"/>
+		<cosponsor id="300082" joined="1993-03-11"/>
+		<cosponsor id="406256" joined="1993-03-22"/>
+		<cosponsor id="300011" joined="1993-03-15"/>
+		<cosponsor id="300066" joined="1993-03-11"/>
+		<cosponsor id="300012" joined="1993-06-22"/>
+		<cosponsor id="300086" joined="1993-03-15"/>
+		<cosponsor id="408939" joined="1993-03-30"/>
+		<cosponsor id="300001" joined="1993-05-20"/>
+		<cosponsor id="400563" joined="1993-03-11"/>
+		<cosponsor id="300073" joined="1993-03-11"/>
+		<cosponsor id="300065" joined="1993-10-19"/>
+		<cosponsor id="407663" joined="1993-03-11"/>
+		<cosponsor id="402675" joined="1993-06-10"/>
+		<cosponsor id="400562" joined="1993-07-15"/>
+		<cosponsor id="300067" joined="1993-03-11"/>
+		<cosponsor id="300037" joined="1993-06-29"/>
+		<cosponsor id="408420" joined="1993-03-11"/>
+		<cosponsor id="300049" joined="1993-06-07"/>
+		<cosponsor id="300061" joined="1993-03-11"/>
+		<cosponsor id="300092" joined="1993-03-11"/>
+		<cosponsor id="300072" joined="1993-05-05"/>
+		<cosponsor id="300031" joined="1993-03-11"/>
+		<cosponsor id="300079" joined="1993-06-07"/>
+		<cosponsor id="403515" joined="1993-09-20"/>
+		<cosponsor id="300017" joined="1993-03-11"/>
+		<cosponsor id="300084" joined="1993-07-14"/>
+		<cosponsor id="300051" joined="1993-03-11"/>
+		<cosponsor id="300057" joined="1993-03-11"/>
+		<cosponsor id="403669" joined="1993-05-18"/>
+		<cosponsor id="403346" joined="1993-03-15"/>
+		<cosponsor id="402412" joined="1993-10-07"/>
+		<cosponsor id="408597" joined="1993-03-11"/>
+		<cosponsor id="402004" joined="1993-03-11"/>
+		<cosponsor id="300070" joined="1993-06-22"/>
+		<cosponsor id="300034" joined="1993-05-05"/>
+		<cosponsor id="403171" joined="1993-03-11"/>
+		<cosponsor id="300046" joined="1993-03-11"/>
+		<cosponsor id="411818" joined="1993-03-11"/>
+		<cosponsor id="400561" joined="1993-05-04"/>
+		<cosponsor id="300010" joined="1993-03-11"/>
+		<cosponsor id="403962" joined="1993-03-11"/>
+		<cosponsor id="404598" joined="1993-05-28"/>
+		<cosponsor id="406188" joined="1993-03-11"/>
+		<cosponsor id="300076" joined="1993-03-11"/>
+		<cosponsor id="400566" joined="1993-03-11"/>
+		<cosponsor id="402727" joined="1993-03-22"/>
+		<cosponsor id="407992" joined="1993-03-11"/>
+		<cosponsor id="300064" joined="1993-03-11"/>
+		<cosponsor id="300042" joined="1993-03-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-11" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2822-2824)</text></action>
+		<action datetime="1993-03-11" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<calendar datetime="1993-05-06"  state="REPORTED"><committee name="Committee on Judiciary"/><text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-07-27"><text>Committee on Judiciary. Reported to Senate by Senator Biden without amendment. With written report No. 103-111. Additional views filed.</text></action>
+		<calendar under="General Orders" number="163" datetime="1993-07-27" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 163.</text></calendar>
+		<action datetime="1993-10-26"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S14350-14368"/></action>
+		<action datetime="1993-10-27"><text>Considered by Senate.</text><reference label="consideration" ref="CR S14461-14470"/></action>
+		<action datetime="1993-10-27"><text>Senate incorporated this measure in H.R. 1308 as an amendment.</text></action>
+		<action datetime="1993-10-27"><text>Senate passed companion measure H.R. 1308 in lieu of this measure by Yea-Nay Vote. 97-3. Record Vote No: 331.</text></action>
+		<action datetime="1993-10-27"><text>Indefinitely postponed by Senate by Unanimous Consent.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1308" />
+		<bill relation="superseded" session="103" type="h" number="1308" />
+		<bill relation="unknown" session="103" type="h" number="1308" />
+	</relatedbills>
+	<subjects>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Actions and defenses"/>
+		<term name="Administrative remedies"/>
+		<term name="Government spending"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Law"/>
+		<term name="Legal fees"/>
+		<term name="Religion"/>
+		<term name="Religious liberty"/>
+		<term name="RELIGIOUS FREEDOM RESTORATION ACT"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1082"/>
+		<amendment number="s1083"/>
+	</amendments>
+	<summary>
+	10/27/1993--Indefinitely postponed in Senate. Religious Freedom Restoration Act of 1993 - Prohibits any agency, department, or official of the United States or any State (the government) from substantially burdening a person's exercise of religion even if the burden results from a rule of general applicability, except that the government may burden a person's exercise of religion only if it demonstrates that application of the burden to the person: (1) furthers a compelling governmental interest; and (2) is the least restrictive means of furthering that compelling governmental interest. Sets forth provisions pertaining to judicial relief, attorney's fees, and applicability. Declares that: (1) nothing in this Act shall be construed to interpret the clause of the First Amendment to the Constitution prohibiting the establishment of religion; (2) the granting of government funding, benefits, or exemptions, to the extent permissible under that clause, shall not constitute a violation of this Act; and (3) as used in this Act, &quot;granting&quot; does not include the denial of government funding, benefits, or exemptions.
+
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="103" type="sc" number="23" updated="2010-04-19T21:14:38-04:00">
+	<state datetime="1993-04-07T14:02:00-04:00">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1993-04-07T14:02:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1993-04-07"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution providing for a conditional recess or adjournment of the Senate on Wednesday April 7, 1993 until Monday, April 19, 1993, and a conditional adjournment of the House on Wednesday April 7, or Thursday April 8, 1993, until Monday April 19, 1993.</title>
+	</titles>
+	<sponsor id="407786"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-04-07" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text><reference label="consideration" ref="CR S4553"/></vote>
+		<action datetime="1993-04-07T14:00:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-04-07T14:02:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H1888"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-04-07T14:02:00-04:00" where="h" result="pass"  state="PASSED:CONCURRENTRES"><text>On agreeing to the resolution Agreed to without objection.</text></vote>
+		<action datetime="1993-04-07T14:02:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-04-07"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional sessions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/7/1993--Introduced.
+Provides for a recess or adjournment of the Senate and an adjournment of the House of Representatives from April 7 until April 19, 1993.
+
+	</summary>
+</bill>

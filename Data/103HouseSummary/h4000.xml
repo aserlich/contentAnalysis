@@ -1,0 +1,81 @@
+<bill session="103" type="h" number="4000" updated="2010-04-19T09:34:25-04:00">
+	<state datetime="1994-03-10">REFERRED</state>
+	<status><introduced datetime="1994-03-10"/></status>
+
+	<introduced datetime="1994-03-10"/>
+	<titles>
+		<title type="short" as="introduced">Spending Reduction Enforcement Act of 1994</title>
+		<title type="official" as="introduced">To provide a fair, nonpolitical process that will achieve $65,000,000,000 in budget outlay reductions each fiscal year until a balanced budget is reached.</title>
+	</titles>
+	<sponsor id="400510"/>
+	<cosponsors>
+		<cosponsor id="408839" joined="1994-09-19"/>
+		<cosponsor id="400156" joined="1994-05-03"/>
+		<cosponsor id="400113" joined="1994-08-11"/>
+		<cosponsor id="300030" joined="1994-08-01"/>
+		<cosponsor id="400154" joined="1994-08-18"/>
+		<cosponsor id="400344" joined="1994-08-01"/>
+		<cosponsor id="400388" joined="1994-03-10"/>
+		<cosponsor id="400176" joined="1994-08-11"/>
+		<cosponsor id="400370" joined="1994-08-01"/>
+		<cosponsor id="400581" joined="1994-05-03"/>
+		<cosponsor id="400325" joined="1994-07-14"/>
+		<cosponsor id="408553" joined="1994-07-14"/>
+		<cosponsor id="400057" joined="1994-08-01"/>
+		<cosponsor id="400590" joined="1994-03-10"/>
+		<cosponsor id="407817" joined="1994-07-14"/>
+		<cosponsor id="412001" joined="1994-08-01"/>
+		<cosponsor id="300014" joined="1994-08-01"/>
+		<cosponsor id="300003" joined="1994-08-01"/>
+		<cosponsor id="409618" joined="1994-08-01"/>
+		<cosponsor id="403875" joined="1994-08-18"/>
+		<cosponsor id="400012" joined="1994-07-14"/>
+		<cosponsor id="407044" joined="1994-08-01"/>
+		<cosponsor id="407669" joined="1994-08-11"/>
+		<cosponsor id="409052" joined="1994-08-01"/>
+		<cosponsor id="406790" joined="1994-08-01"/>
+		<cosponsor id="405033" joined="1994-08-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-10"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-03-10"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1994-03-15"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2953" />
+		<bill relation="unknown" session="103" type="s" number="1676" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Balanced budgets"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Congressional investigations"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Executive departments"/>
+		<term name="Expedited congressional procedure"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal budget process"/>
+		<term name="Government spending reductions"/>
+		<term name="House rules and procedure"/>
+		<term name="Legislative resolutions"/>
+		<term name="Presidential appointments"/>
+		<term name="Presidents"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Subsidies"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/10/1994--Introduced.
+Spending Reduction Enforcement Act of 1994 - Establishes the Spending Reduction Commission to propose cost savings and changes in law to achieve at least $65 billion of budget outlay reductions for the budget year and each outyear until a balanced budget is reached. Sets forth the procedure for implementation of the Commission's recommendations by the Office of Management and Budget, the President, and the Congress. Makes any budget outlay reductions permanent. Sets forth sequestration procedures if the full amount of required savings is not achieved by the end of a session of Congress.
+
+	</summary>
+</bill>

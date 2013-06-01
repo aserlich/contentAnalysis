@@ -1,0 +1,72 @@
+<bill session="103" type="h" number="1331" updated="2010-04-19T02:38:29-04:00">
+	<state datetime="1993-03-11">REFERRED</state>
+	<status><introduced datetime="1993-03-11"/></status>
+
+	<introduced datetime="1993-03-11"/>
+	<titles>
+		<title type="short" as="introduced">Chemical Control Amendments Act of 1993</title>
+		<title type="official" as="introduced">To amend the Comprehensive Drug Abuse Prevention and Control Act of 1970 to control the diversion of certain chemicals used in the illicit production of controlled substances, to provide greater flexibility in the regulatory controls placed on the legitimate commerce in those chemicals, and for other purposes.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="400365" joined="1993-03-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-11"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-03-11"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="440" />
+	</relatedbills>
+	<subjects>
+		<term name="Drugs"/>
+		<term name="Amphetamines"/>
+		<term name="Bankruptcy"/>
+		<term name="Brokers"/>
+		<term name="Chemical industries"/>
+		<term name="Chemicals"/>
+		<term name="Criminal justice information"/>
+		<term name="Data banks"/>
+		<term name="Drug abuse"/>
+		<term name="Drug industry"/>
+		<term name="Drug law enforcement"/>
+		<term name="Environmental protection"/>
+		<term name="Export controls"/>
+		<term name="Exports"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Foreign trade"/>
+		<term name="Forfeiture"/>
+		<term name="Fraud"/>
+		<term name="Government paperwork"/>
+		<term name="Hazardous waste disposal"/>
+		<term name="Import restrictions"/>
+		<term name="Imports"/>
+		<term name="LSD (Drug)"/>
+		<term name="Liability for environmental damages"/>
+		<term name="Liability for toxic substances pollution damages"/>
+		<term name="Licenses"/>
+		<term name="Medical care"/>
+		<term name="Medical personnel"/>
+		<term name="Narcotic traffic"/>
+		<term name="Physicians"/>
+		<term name="Searches and seizures"/>
+		<term name="Sentencing guidelines"/>
+		<term name="Smuggling"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/1993--Introduced.
+Chemical Control Amendments Act of 1993 - Amends the Comprehensive Drug Abuse Prevention and Control Act of 1970 to: (1) replace references to &quot;listed precursor chemicals&quot; with &quot;list I chemicals&quot; and &quot;listed essential chemicals&quot; with &quot;list II chemicals&quot;; and (2) revise the definitions of &quot;regulated person&quot; (to include individuals who act as brokers or traders for international transactions involving a listed chemical, tableting machine, or encapsulating machine) and &quot;regulated transaction&quot; (to include international transactions involving shipment of a threshold amount of a listed chemical and to exclude specified transactions). Removes the exemption for products in which ephedrine is the only active medicinal ingredient in therapeutic amounts. Permits the Attorney General to remove the exemption for other drugs containing listed chemicals if it is determined that they are being diverted for use in the illicit production of a controlled substance, with exceptions. Provides registration requirements for list I chemicals, including the authority to revoke or deny based on public interest grounds, immediate suspension in cases of imminent danger to the public health or safety, and criminal penalties for distribution, importation, or exportation without the required registration. Authorizes the Attorney General to reduce controls on the importation of specified chemicals by modifying or eliminating the advance notice requirement. Adds specific criminal penalties for: (1) attempting to evade reporting requirements by falsely claiming that a shipment is destined for a country for which a waiver has been established; and (2) smuggling of listed chemicals. Makes it a felony for a person who possesses a listed chemical with intent that it be used in the illegal manufacture of a controlled substance to manage the listed chemical or waste from the manufacture of a controlled substance other than as required under the Solid Waste Disposal Act. Specifies that a person who violates such prohibition shall be assessed costs of the initial cleanup and disposal of the listed chemical and contaminated property, as well as the cost of restoring property damaged by exposure to such chemical. Subjects listed chemicals to the same forfeiture provisions which apply to controlled substances. Amends the Health Care Quality Improvement Act of 1986 to require the Secretary of Health and Human Services to make available to the Attorney General information in the national practitioner data bank.
+
+	</summary>
+</bill>

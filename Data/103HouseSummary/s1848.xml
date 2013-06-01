@@ -1,0 +1,48 @@
+<bill session="103" type="s" number="1848" updated="2012-07-17T04:51:05-04:00">
+	<state datetime="1994-08-11">REPORTED</state>
+	<status><calendar datetime="1994-08-11" /></status>
+
+	<introduced datetime="1994-02-10"/>
+	<titles>
+		<title type="short" as="introduced">Automobile and Minivan Bumper Improvement Act of 1994</title>
+		<title type="short" as="reported to senate">Automobile and Minivan Bumper Improvement Act of 1994</title>
+		<title type="official" as="introduced">A bill to provide for disclosure of the bumper impact capability of certain passenger motor vehicles and to require a 5-mile-per-hour bumper standard for such vehicles.</title>
+	</titles>
+	<sponsor id="403171"/>
+	<cosponsors>
+		<cosponsor id="400559" joined="1994-02-23"/>
+		<cosponsor id="400557" joined="1994-02-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-10" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1474-1475)</text></action>
+		<action datetime="1994-02-10" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<calendar datetime="1994-08-11"  state="REPORTED"><committee name="Committee on Commerce"/><text>Committee on Commerce. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1994-08-22"><text>Committee on Commerce. Reported to Senate by Senator Hollings with amendments. With written report No. 103-353.</text></action>
+		<calendar under="General Orders" number="595" datetime="1994-08-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 595.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Motor vehicles"/>
+		<term name="Administrative procedure"/>
+		<term name="Automobile industry"/>
+		<term name="Automobile safety standards"/>
+		<term name="Commerce"/>
+		<term name="Consumer education"/>
+		<term name="Department of Transportation"/>
+		<term name="Government operations and politics"/>
+		<term name="Labeling"/>
+		<term name="Transportation and public works"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/22/1994--Reported to Senate amended. Automobile and Minivan Bumper Improvement Act of 1994 - Amends the Motor Vehicle Information and Cost Savings Act to direct the Secretary of Transportation to promulgate a regulation establishing bumper system labeling requirements for passenger motor vehicles constructed without special features for occasional off-road operation. Requires such labeling to disclose the impact speed at which the manufacturer represents that the vehicle meets the applicable damage criteria under the bumper standard specified in the Code of Federal Regulations. Directs the Secretary to amend such bumper standard to make it identical with the standard in effect on January 1, 1982, but applicable only to such vehicles manufactured after September 1, 1995. Permits the Secretary to require a standard more stringent than the one in effect on January 1, 1982.
+
+	</summary>
+</bill>

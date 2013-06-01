@@ -1,0 +1,44 @@
+<bill session="103" type="s" number="1958" updated="2012-07-17T05:31:54-04:00">
+	<state datetime="1994-04-14">REPORTED</state>
+	<status><calendar datetime="1994-04-14" /></status>
+
+	<introduced datetime="1994-03-22"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title 38, United States Code, to exclude certain payments received under the Alaska Native Claims Settlement Act from the determination of annual income for purposes of eligibility for veterans pension.</title>
+	</titles>
+	<sponsor id="300150"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1994-03-22"/>
+		<cosponsor id="300001" joined="1994-03-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-22" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3456-3457)</text></action>
+		<action datetime="1994-03-22" state="REFERRED"><text>Read twice and referred to the Committee on Veterans.</text></action>
+		<calendar datetime="1994-04-14"  state="REPORTED"><committee name="Committee on Veterans"/><text>Committee on Veterans. Provisions of measure incorporated into measure S. 1626 ordered to be reported.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1626" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Alaska"/>
+		<term name="Income"/>
+		<term name="Indian claims"/>
+		<term name="Indian lands"/>
+		<term name="Labor and employment"/>
+		<term name="Minorities"/>
+		<term name="Native Americans"/>
+		<term name="Veterans' pensions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/22/1994--Introduced.
+Excludes payments of cash, stock, land, or other interests received from a Native Corporation under the Alaska Native Claims Settlement Act from annual income for purposes of the determination of eligibility for veterans' pensions.
+
+	</summary>
+</bill>

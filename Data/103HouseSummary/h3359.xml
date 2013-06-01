@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="3359" updated="2010-04-19T07:54:23-04:00">
+	<state datetime="1993-10-26">REFERRED</state>
+	<status><introduced datetime="1993-10-26"/></status>
+
+	<introduced datetime="1993-10-26"/>
+	<titles>
+		<title type="short" as="introduced">Federal Deposit Insurance Reform Act</title>
+		<title type="official" as="introduced">To amend the Federal Deposit Insurance Act to establish a lifetime limit of $100,000 on the amount of deposit insurance any person may obtain.</title>
+	</titles>
+	<sponsor id="405560"/>
+	<cosponsors>
+		<cosponsor id="400085" joined="1993-11-18"/>
+		<cosponsor id="400551" joined="1993-11-22"/>
+		<cosponsor id="400178" joined="1994-03-07"/>
+		<cosponsor id="403403" joined="1993-10-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-26"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-11-15"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Financial Institutions Supervision, Regulation and Deposit Insurance.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="Financial Institutions Supervision, Regulation and Deposit Insurance" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Banks and banking"/>
+		<term name="Bank deposits"/>
+		<term name="Credit unions"/>
+		<term name="Deposit insurance"/>
+		<term name="Finance"/>
+		<term name="Savings and loan associations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/26/1993--Introduced.
+Federal Deposit Insurance Reform Act - Amends the Federal Deposit Insurance Act and the Federal Credit Union Act to mandate a lifetime maximum amount of insurance of $100,000 on insured deposits.
+
+	</summary>
+</bill>

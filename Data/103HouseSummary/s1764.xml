@@ -1,0 +1,57 @@
+<bill session="103" type="s" number="1764" updated="2010-04-19T19:05:18-04:00">
+	<state datetime="1993-12-14">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-14" /></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for the extension of certain authority for the Marshal of the Supreme Court and the Supreme Court Police.</title>
+	</titles>
+	<sponsor id="300008"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S16893"/></vote>
+		<action datetime="1993-11-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-21T14:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-21"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-11-23T01:54:00-05:00"><text>Committee on Public Works + Transportation discharged.</text></action>
+		<action datetime="1993-11-23"><text>Rereferred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-11-23T01:54:00-05:00"><text>Committee on Judiciary discharged.</text></action>
+		<action datetime="1993-11-23T01:54:00-05:00"><text>Mr. Brooks asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1993-11-23T01:54:00-05:00"><text>Considered by unanimous consent. (consideration: 11/22/93 CR H10973-10974)</text></action>
+		<vote how="without objection" type="vote2" datetime="1993-11-23T01:54:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-11-23T01:54:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-11-23" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-12-08" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-14" ><text>Signed by President.</text></signed>
+		<enacted number="103-193" type="public" datetime="1993-12-14"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-193.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Discharged" />
+		<committee code="HSJU" name="House Judiciary" activity="Re-referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Courts"/>
+		<term name="Criminal justice"/>
+		<term name="Federal employees"/>
+		<term name="Government employees"/>
+		<term name="Judicial officers"/>
+		<term name="Law"/>
+		<term name="Police"/>
+		<term name="Protection of officials"/>
+		<term name="Supreme Court"/>
+		<term name="Supreme Court justices"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+Extends to December 29, 1996, the authority for the Marshal of the Supreme Court and the Supreme Court Police to protect, in any part of the United States, the Chief Justice of the United States and any Associate Justice, official guest, officer, or employee of the Supreme Court while such person is engaged in official duties.
+
+	</summary>
+</bill>

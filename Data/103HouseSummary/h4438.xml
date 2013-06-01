@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="4438" updated="2010-04-19T10:42:53-04:00">
+	<state datetime="1994-05-17">REFERRED</state>
+	<status><introduced datetime="1994-05-17"/></status>
+
+	<introduced datetime="1994-05-17"/>
+	<titles>
+		<title type="official" as="introduced">To provide for funding for Federal employee pay adjustments and comparability payments through reductions in agency spending on service contracts for fiscal year 1995.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-17"><text>Referred to the House Committee on Appropriations.</text></action>
+		<action datetime="1994-05-17"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-05-17"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-05-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1994-05-23"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAP" name="House Appropriations" activity="Referral, In Committee" />
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4486" />
+		<bill relation="unknown" session="103" type="h" number="4487" />
+		<bill relation="unknown" session="103" type="h" number="4488" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Budgets"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Government employees"/>
+		<term name="Government service contracts"/>
+		<term name="Pay equity"/>
+		<term name="Public contracts"/>
+		<term name="Reprogramming of appropriated funds"/>
+		<term name="Salaries"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/17/1994--Introduced.
+Reduces by a specified amount total FY 1995 appropriations to all Federal departments, agencies, and instrumentalities for entering into service contracts with private entities. Increases by the same amount the total FY 1995 appropriations for Federal employee pay schedule adjustments and locality-based comparability payments. Directs the Director of the Office of Management and Budget to allocate such reductions and increases among the appropriate accounts. Requires Federal agency certification of compliance with this Act.
+
+	</summary>
+</bill>

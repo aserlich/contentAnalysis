@@ -1,0 +1,79 @@
+<bill session="103" type="hc" number="113" updated="2010-04-18T21:18:30-04:00">
+	<state datetime="1993-10-12T13:23:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-10-12T13:23:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-06-22"/>
+	<titles>
+		<title type="official" as="introduced">Relating to the Asia Pacific Economic Cooperation organization.</title>
+	</titles>
+	<sponsor id="400262"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-07-13"/>
+		<cosponsor id="400128" joined="1993-07-26"/>
+		<cosponsor id="400023" joined="1993-06-24"/>
+		<cosponsor id="400170" joined="1993-07-26"/>
+		<cosponsor id="408556" joined="1993-07-13"/>
+		<cosponsor id="406482" joined="1993-06-24"/>
+		<cosponsor id="400536" joined="1993-07-26"/>
+		<cosponsor id="400109" joined="1993-06-24"/>
+		<cosponsor id="400204" joined="1993-07-13"/>
+		<cosponsor id="400310" joined="1993-07-26"/>
+		<cosponsor id="400516" joined="1993-06-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-22"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-06-22"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-06-24"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-07-01"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Economic Policy, Trade and Environment.</text></action>
+		<action datetime="1993-07-01"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Asia and the Pacific.</text></action>
+		<action datetime="1993-07-09"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Requested from State.</text></action>
+		<action datetime="1993-08-27"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Received from State.</text></action>
+		<action datetime="1993-09-08"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-09-08"  state="REPORTED"><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-09-30"><committee name="House Committee on Ways and Means" subcommittee="Trade"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Ways and Means" subcommittee="Trade"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-10-06"><committee name="House Committee on Ways and Means"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-06" ><committee name="House Committee on Ways and Means"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-10-07T20:50:00-04:00"><text>Reported by the Committee on Ways and Means. H. Rept. 103-280, Part I.</text></action>
+		<action datetime="1993-10-12T13:03:00-04:00"><text>Mr. Rostenkowski moved to suspend the rules and agree to the resolution.</text></action>
+		<action datetime="1993-10-12T13:04:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7683-7687"/></action>
+		<action datetime="1993-10-12T13:04:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-10-12T13:23:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1993-10-12T13:23:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<calendar under="General Orders" number="229" datetime="1993-10-13" calendar="Senate Legislative" ><text>Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 229.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Economic Policy, Trade, and Environment" activity="Referral" />
+		<committee code="HSFA-05" name="House Foreign Affairs" subcommittee="Asia and the Pacific" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="sc" number="29" />
+		<bill relation="unknown" session="103" type="sc" number="29" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="American investments"/>
+		<term name="Asia"/>
+		<term name="Conferences"/>
+		<term name="East-West trade"/>
+		<term name="Foreign investments"/>
+		<term name="Foreign trade"/>
+		<term name="Foreign trade policy"/>
+		<term name="International agencies"/>
+		<term name="International economic relations"/>
+		<term name="Nontariff trade barriers"/>
+		<term name="Pacific area"/>
+		<term name="Standards"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/22/1993--Introduced.
+Encourages U.S. leadership in the Asia Pacific Economic Cooperation organization. Calls on the President, the Secretary of State, and other representatives of the U.S. Government to take the opportunity presented by the scheduled chairing and hosting by the United States of the ministerial meeting of the organization in Seattle, Washington, on November 17 through 19, 1993, to reaffirm the U.S. commitment to make it an effective regional economic organization that reduces barriers to increased intra-regional trade through the harmonization of standards, trade, and investment policies.
+
+	</summary>
+</bill>

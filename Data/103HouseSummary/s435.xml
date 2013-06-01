@@ -1,0 +1,37 @@
+<bill session="103" type="s" number="435" updated="2012-07-17T05:10:42-04:00">
+	<state datetime="1993-02-24">REFERRED</state>
+	<status><introduced datetime="1993-02-24"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="popular" as="">Elimination of COLA for Members of Congress</title>
+		<title type="official" as="introduced">A bill to reduce the rate of pay for each Member of Congress to the rate which was in effect before the cost of living adjustment in calendar year 1993.</title>
+	</titles>
+	<sponsor id="403346"/>
+	<cosponsors>
+		<cosponsor id="300064" joined="1993-11-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2039)</text></action>
+		<action datetime="1993-02-24" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional salaries and pensions"/>
+		<term name="Cost of living adjustments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Reduces the salary of Members of Congress to that which was in effect before the 1993 cost-of-living adjustment.
+
+	</summary>
+</bill>

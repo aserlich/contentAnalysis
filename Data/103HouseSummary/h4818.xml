@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="4818" updated="2010-04-19T11:42:35-04:00">
+	<state datetime="1994-07-22">REFERRED</state>
+	<status><introduced datetime="1994-07-22"/></status>
+
+	<introduced datetime="1994-07-22"/>
+	<titles>
+		<title type="official" as="introduced">To revise the Land Remote Sensing Policy Act of 1992.</title>
+	</titles>
+	<sponsor id="411247"/>
+	<cosponsors>
+		<cosponsor id="400572" joined="1994-07-22"/>
+		<cosponsor id="401081" joined="1994-07-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-22"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1994-07-26"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Space.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Space" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Space sciences"/>
+		<term name="Administrative fees"/>
+		<term name="Administrative procedure"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Defense policy"/>
+		<term name="Department of Commerce"/>
+		<term name="Department of Defense"/>
+		<term name="Department of State"/>
+		<term name="Earth resources satellites"/>
+		<term name="Environmental protection"/>
+		<term name="Executive departments"/>
+		<term name="Executive reorganization"/>
+		<term name="Foreign policy"/>
+		<term name="International affairs"/>
+		<term name="International obligations"/>
+		<term name="Law"/>
+		<term name="Licenses"/>
+		<term name="National security"/>
+		<term name="Office of Science and Technology Policy"/>
+		<term name="Remote sensing"/>
+		<term name="Science policy"/>
+		<term name="Space activities"/>
+		<term name="Space policy"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/22/1994--Introduced.
+Amends the Land Remote Sensing Policy Act of 1992 with respect to management and licensing of commercial remote sensing satellites.
+
+	</summary>
+</bill>

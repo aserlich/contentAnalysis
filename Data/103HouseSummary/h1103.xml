@@ -1,0 +1,79 @@
+<bill session="103" type="h" number="1103" updated="2010-04-19T02:00:07-04:00">
+	<state datetime="1994-08-16T12:27:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-08-16T12:27:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="short" as="passed house">Satellite Home Viewer Act of 1994</title>
+		<title type="official" as="introduced">To amend title 17, United States Code, with respect to secondary transmissions of superstations and network stations for private home viewing, and with respect to cable systems.</title>
+	</titles>
+	<sponsor id="405775"/>
+	<cosponsors>
+		<cosponsor id="411677" joined="1994-06-21"/>
+		<cosponsor id="407899" joined="1993-02-24"/>
+		<cosponsor id="408556" joined="1994-05-26"/>
+		<cosponsor id="400312" joined="1994-05-24"/>
+		<cosponsor id="400316" joined="1993-07-01"/>
+		<cosponsor id="400386" joined="1993-07-27"/>
+		<cosponsor id="400614" joined="1994-06-08"/>
+		<cosponsor id="400299" joined="1993-08-02"/>
+		<cosponsor id="402454" joined="1993-07-01"/>
+		<cosponsor id="400391" joined="1994-01-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24"><text>Sponsor introductory remarks on measure. (CR E452)</text></action>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-03-08"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+		<action datetime="1993-03-17"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1994-06-29"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-06-29"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1994-08-16T12:05:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-703.</text></action>
+		<calendar number="385" datetime="1994-08-16T12:06:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 385.</text></calendar>
+		<action datetime="1994-08-16T12:13:00-04:00"><text>Mr. Brooks moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-08-16T12:13:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8418-8421"/></action>
+		<action datetime="1994-08-16T12:13:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-08-16T12:27:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-08-16T12:27:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-08-16T12:27:00-04:00"><text>Laid on the table. See S. 1485 for further action.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="superseded" session="103" type="s" number="1485" />
+	</relatedbills>
+	<subjects>
+		<term name="Copyright"/>
+		<term name="Actions and defenses"/>
+		<term name="Business"/>
+		<term name="Cable television"/>
+		<term name="Canada"/>
+		<term name="Commercial arbitration"/>
+		<term name="Communication satellites"/>
+		<term name="Competition"/>
+		<term name="Copyright royalties"/>
+		<term name="Evidence (Law)"/>
+		<term name="Intellectual property"/>
+		<term name="Latin America"/>
+		<term name="Law"/>
+		<term name="Licenses"/>
+		<term name="Mexico"/>
+		<term name="Microwaves"/>
+		<term name="Space activities"/>
+		<term name="Telecommunication"/>
+		<term name="Television broadcasting"/>
+		<term name="Television relay systems"/>
+		<term name="Television stations"/>
+		<term name="Valuation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/16/1994--Passed House amended. Satellite Home Viewer Act of 1994 - Amends copyright law with respect to satellite carrier compulsory licenses to require the subscriber information list submitted by a satellite carrier that makes secondary transmissions of a primary transmission by a network station to include the names of the subscribers. (Sec. 2) Provides that in any action relating to the violation of territorial restrictions on statutory license for network stations the satellite carrier shall have the burden of proving that its secondary transmission is for private home viewing to an unserved household. Revises: (1) the formula used by the satellite carrier to compute the royalty fee to be deposited semiannually with the Register of Copyrights to increase the fees for secondary transmissions subject to statutory licensing; and (2) dates and procedures regarding the adjustment of such royalty fee. Requires a copyright royalty arbitration panel, in determining such fees, to establish a rate for the secondary transmission of network stations and superstations that reflects the fair market value of such transmissions. Directs the panel to base its decision upon economic, competitive, and programming information presented by the parties and to take into account the competitive environment in which such programming is distributed. Provides that, upon a challenge by a network station regarding whether a subscriber is an unserved household, a satellite carrier shall terminate service to the household and notify the network station of such termination or conduct a measurement of the signal intensity of the subscribers's household to determine whether the household is unserved and, if so, terminate service. Requires the challenging station to reimburse a carrier for any signal intensity measurement that indicates the household is an unserved household. Revises the definition of a &quot;network station&quot; for purposes of cable and satellite carrier compulsory license provisions to be: (1) a television broadcast station owned or operated by, or affiliated with, one or more of the U.S. television networks which offer an interconnected program service on a regular basis for 15 or more hours per week to at least 25 of its affiliated television licensees in ten or more States; or (2) any noncommercial educational station. Revises the definition of: (1) &quot;satellite carrier&quot; to specify that such a carrier operates in the Fixed Satellite Service or the Direct Broadcast Satellite Service; (2) &quot;cable system&quot; to include a facility that makes secondary transmissions of broadcast signals by microwave cables; and (3) &quot;local service area of a primary transmitter&quot; (in the case of a television broadcast station) to comprise either the area of which such station is entitled to insist upon its signal being retransmitted by a cable system pursuant to the rules, regulations, and authorizations of the Federal Communications Commission in effect on April 15, 1976, such station's television market (as in effect on September 18, 1993), or any subsequent modifications to such television market. (Sec. 4) Terminates the provisions of section 2 of this Act on December 31, 1999.
+
+	</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="103" type="s" number="236" updated="2012-07-17T05:53:17-04:00">
+	<state datetime="1993-01-27">REFERRED</state>
+	<status><introduced datetime="1993-01-27"/></status>
+
+	<introduced datetime="1993-01-27"/>
+	<titles>
+		<title type="official" as="introduced">A bill to increase Federal payments to units of general local government for entitlement lands, and for other purposes.</title>
+	</titles>
+	<sponsor id="300071"/>
+	<cosponsors>
+		<cosponsor id="408898" joined="1993-10-19"/>
+		<cosponsor id="300052" joined="1993-02-18"/>
+		<cosponsor id="403346" joined="1993-02-02"/>
+		<cosponsor id="409923" joined="1993-02-24"/>
+		<cosponsor id="402675" joined="1993-02-24"/>
+		<cosponsor id="300015" joined="1993-03-02"/>
+		<cosponsor id="408420" joined="1993-02-04" withdrawn="1993-06-15"/>
+		<cosponsor id="300157" joined="1993-02-04"/>
+		<cosponsor id="300007" joined="1993-02-03"/>
+		<cosponsor id="300010" joined="1993-02-24"/>
+		<cosponsor id="401874" joined="1993-02-16"/>
+		<cosponsor id="300089" joined="1993-02-16"/>
+		<cosponsor id="300072" joined="1993-02-16"/>
+		<cosponsor id="300026" joined="1993-05-13"/>
+		<cosponsor id="300005" joined="1993-02-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-27" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S822)</text></action>
+		<action datetime="1993-01-27" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-01-28"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1993-03-09"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of Agriculture, Department of the Interior, and Office of Management and Budget.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Indexing (Economic policy)"/>
+		<term name="Land transfers"/>
+		<term name="Payments in lieu of taxes"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/1993--Introduced.
+Amends Federal law to: (1) increase Federal payments to local governments for entitlement lands; (2) require the Secretary of the Interior to adjust such payments for inflation; and (3) exempt from such payments any lands conveyed to the United States in exchange for Federal lands.
+
+	</summary>
+</bill>

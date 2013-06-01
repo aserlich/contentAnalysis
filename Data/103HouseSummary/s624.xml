@@ -1,0 +1,37 @@
+<bill session="103" type="s" number="624" updated="2012-07-17T04:51:59-04:00">
+	<state datetime="1993-03-22">REFERRED</state>
+	<status><introduced datetime="1993-03-22"/></status>
+
+	<introduced datetime="1993-03-22"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend until January 1, 1999, the existing suspension of duty on certain unimproved wools.</title>
+	</titles>
+	<sponsor id="403669"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-22" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3363)</text></action>
+		<action datetime="1993-03-22" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1147" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Tariff"/>
+		<term name="Wool"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/22/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1998, the duty on certain unimproved wools.
+
+	</summary>
+</bill>

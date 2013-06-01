@@ -1,0 +1,60 @@
+<bill session="103" type="sj" number="120" updated="2012-07-17T04:39:16-04:00">
+	<state datetime="1993-08-04">REFERRED</state>
+	<status><introduced datetime="1993-08-04"/></status>
+
+	<introduced datetime="1993-08-04"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution prohibiting the imposition of retroactive taxes on the American people.</title>
+	</titles>
+	<sponsor id="400558"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="1993-08-04"/>
+		<cosponsor id="402675" joined="1993-08-06"/>
+		<cosponsor id="300015" joined="1993-08-06"/>
+		<cosponsor id="300049" joined="1993-08-04"/>
+		<cosponsor id="300007" joined="1993-08-04"/>
+		<cosponsor id="401874" joined="1993-08-06"/>
+		<cosponsor id="403968" joined="1993-08-04"/>
+		<cosponsor id="300089" joined="1993-08-06"/>
+		<cosponsor id="300029" joined="1993-08-04"/>
+		<cosponsor id="406256" joined="1993-08-04"/>
+		<cosponsor id="411271" joined="1993-08-04"/>
+		<cosponsor id="300099" joined="1993-08-06"/>
+		<cosponsor id="400565" joined="1993-08-06"/>
+		<cosponsor id="300154" joined="1993-08-04"/>
+		<cosponsor id="300157" joined="1993-08-04"/>
+		<cosponsor id="300010" joined="1993-09-08"/>
+		<cosponsor id="300069" joined="1993-08-04"/>
+		<cosponsor id="300054" joined="1993-08-04"/>
+		<cosponsor id="300155" joined="1993-08-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S10438)</text></action>
+		<action datetime="1993-08-04" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-08-16"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Constitution.</text></action>
+		<action datetime="1994-08-04"><committee name="Committee on Judiciary"/><text>Subcommittee on Constitution. Hearings held.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Constitution" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Constitutional amendments"/>
+		<term name="Income tax"/>
+		<term name="Internal revenue law"/>
+		<term name="Legislation"/>
+		<term name="Tax rates"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/4/1993--Introduced.
+Constitutional Amendment - Prohibits the imposition of retroactive taxes.
+
+	</summary>
+</bill>

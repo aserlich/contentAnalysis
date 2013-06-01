@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="1361" updated="2010-04-19T02:43:14-04:00">
+	<state datetime="1993-03-16">REFERRED</state>
+	<status><introduced datetime="1993-03-16"/></status>
+
+	<introduced datetime="1993-03-16"/>
+	<titles>
+		<title type="official" as="introduced">To expand the Fort Necessity National Battlefield, and for other purposes.</title>
+	</titles>
+	<sponsor id="400286"/>
+	<cosponsors>
+		<cosponsor id="408052" joined="1993-03-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-16"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-04-13"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="523" />
+	</relatedbills>
+	<subjects>
+		<term name="Historic sites"/>
+		<term name="Archaeology"/>
+		<term name="Commemorations"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Land transfers"/>
+		<term name="Military history"/>
+		<term name="National parks"/>
+		<term name="Pennsylvania"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/16/1993--Introduced.
+Expands the boundaries of Fort Necessity National Battlefield, Pennsylvania, to include the Boundary Expansion, Jumonville Glen Unit, Fort Necessity National Battlefield. Authorizes the Secretary of the Interior to modify the boundaries of the Jumonville Glen Unit (the Unit) to exclude lands (not to exceed two acres) on which principal structures are located that are actively used by the owner as of July 1, 1991. Directs the Secretary, acting through the Director of the National Park Service, to investigate and report to specified congressional committees on archaeological sites in the vicinity of the Unit in order to locate and identify Dunbar's Camp. Authorizes the Secretary to further modify the boundaries of such Unit (to include additional lands within the battlefield, but not to exceed 30 acres), if necessary to preserve and interpret historic resources associated with the Camp.
+
+	</summary>
+</bill>

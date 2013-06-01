@@ -1,0 +1,38 @@
+<bill session="103" type="s" number="1323" updated="2012-07-17T04:47:51-04:00">
+	<state datetime="1993-07-30">REFERRED</state>
+	<status><introduced datetime="1993-07-30"/></status>
+
+	<introduced datetime="1993-07-30"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend the suspension of duty on certain diamond tool and drill blanks, and for other purposes.</title>
+	</titles>
+	<sponsor id="404598"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-30" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S9982-9983)</text></action>
+		<action datetime="1993-07-30" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3858" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Diamonds"/>
+		<term name="Machinery"/>
+		<term name="Tariff"/>
+		<term name="Tools"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/30/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to extend, through December 31, 1995, the suspension of duty on certain diamond tool and drill blanks.
+
+	</summary>
+</bill>

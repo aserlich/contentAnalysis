@@ -1,0 +1,64 @@
+<bill session="103" type="h" number="4330" updated="2010-04-19T10:25:59-04:00">
+	<state datetime="1994-05-03">REFERRED</state>
+	<status><introduced datetime="1994-05-03"/></status>
+
+	<introduced datetime="1994-05-03"/>
+	<titles>
+		<title type="short" as="introduced">South Carolina National Heritage Corridor Act of 1994</title>
+		<title type="official" as="introduced">To establish the South Carolina National Heritage Corridor, and for other purposes.</title>
+	</titles>
+	<sponsor id="403403"/>
+	<cosponsors>
+		<cosponsor id="400386" joined="1994-05-03"/>
+		<cosponsor id="400610" joined="1994-05-03"/>
+		<cosponsor id="409052" joined="1994-05-03"/>
+		<cosponsor id="400075" joined="1994-05-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-03"><text>Sponsor introductory remarks on measure. (CR E830-831)</text></action>
+		<action datetime="1994-05-03"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-07-11"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1994-10-05"><committee name="House Committee on Natural Resources"/><text>For Further Action See H.R.5044.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5044" />
+		<bill relation="identical" session="103" type="s" number="2037" />
+	</relatedbills>
+	<subjects>
+		<term name="Historic sites"/>
+		<term name="Commemorations"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Conservation of natural resources"/>
+		<term name="Culture"/>
+		<term name="Economic development"/>
+		<term name="Economic policy"/>
+		<term name="Environmental protection"/>
+		<term name="Executive departments"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Forest management"/>
+		<term name="History"/>
+		<term name="Humanities"/>
+		<term name="Land transfers"/>
+		<term name="Land use"/>
+		<term name="Natural areas"/>
+		<term name="Natural resources"/>
+		<term name="Outdoor recreation"/>
+		<term name="Public lands"/>
+		<term name="Regional planning"/>
+		<term name="South Carolina"/>
+		<term name="Water resources"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/3/1994--Introduced.
+South Carolina National Heritage Corridor Act of 1994 - Establishes: (1) the South Carolina National Heritage Corridor in the State of South Carolina; and (2) the South Carolina National Heritage Corridor Commission to assist Federal, State, and local authorities and the private sector in developing and implementing an integrated management action plan for the Corridor. Authorizes appropriations.
+
+	</summary>
+</bill>

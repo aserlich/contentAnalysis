@@ -1,0 +1,47 @@
+<bill session="103" type="hr" number="478" updated="2010-04-19T14:13:19-04:00">
+	<state datetime="1994-07-14">REFERRED</state>
+	<status><introduced datetime="1994-07-14"/></status>
+
+	<introduced datetime="1994-07-14"/>
+	<titles>
+		<title type="official" as="introduced">To recognize Mennonite Mutual Aid.</title>
+	</titles>
+	<sponsor id="400050"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-14"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-07-14"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-08-01"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Commerce, Consumer Protection, and Competitiveness" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Civil liberties"/>
+		<term name="Congress"/>
+		<term name="Health care reform"/>
+		<term name="Health insurance"/>
+		<term name="Health policy"/>
+		<term name="Legislation"/>
+		<term name="Mennonites"/>
+		<term name="National health insurance"/>
+		<term name="Religion"/>
+		<term name="Religious liberty"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/14/1994--Introduced.
+Resolves that, in any national health insurance reform legislation that provides for universal coverage, there be a provision that permits Mennonites to continue receiving coverage through Mennonite Mutual Aid.
+
+	</summary>
+</bill>

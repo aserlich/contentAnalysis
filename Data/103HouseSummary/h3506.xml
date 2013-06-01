@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="3506" updated="2010-04-19T08:17:22-04:00">
+	<state datetime="1993-11-15">REFERRED</state>
+	<status><introduced datetime="1993-11-15"/></status>
+
+	<introduced datetime="1993-11-15"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 with respect to interest on amounts recoverable under that Act.</title>
+	</titles>
+	<sponsor id="402152"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-15"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-11-15"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-11-29"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1993-12-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Hazardous substances"/>
+		<term name="Hazardous waste disposal"/>
+		<term name="Interest"/>
+		<term name="Interest rates"/>
+		<term name="Liability for toxic substances pollution damages"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/15/1993--Introduced.
+Amends the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to require interest on amounts recoverable under actions regarding liability for hazardous substance releases to accrue from the later of: (1) the date notice of potential liability is provided by the President (currently, the date payment of a specified amount is demanded in writing); or (2) the date of the expenditure concerned. Requires the rate of interest on the unpaid balance of recoverable amounts to be the same as specified for interest on investments of the Hazardous Substance Superfund, plus three percentage points (currently, the rate of interest is that specified for interest on investments of the Superfund).
+
+	</summary>
+</bill>

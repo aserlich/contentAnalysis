@@ -1,0 +1,54 @@
+<bill session="103" type="s" number="1078" updated="2012-07-17T05:11:20-04:00">
+	<state datetime="1993-08-05">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-08-05" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-06-07"/>
+	<titles>
+		<title type="short" as="introduced">Jena Band of Choctaw Indians of Louisiana Confirmation Act</title>
+		<title type="official" as="introduced">A bill to confirm the Federal relationship with the Jena Band of Choctaw Indians of Louisiana.</title>
+	</titles>
+	<sponsor id="406084"/>
+	<cosponsors>
+		<cosponsor id="300012" joined="1993-06-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-07" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6911-6912)</text></action>
+		<action datetime="1993-06-07" state="REFERRED"><text>Read twice and referred to the Committee on Indian Affairs.</text></action>
+		<calendar datetime="1993-06-16"  state="REPORTED"><committee name="Committee on Indian Affairs"/><text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-07-29"><text>Committee on Indian Affairs. Reported to Senate by Senator Inouye without amendment. With written report No. 103-116.</text></action>
+		<calendar under="General Orders" number="168" datetime="1993-07-29" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 168.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-08-05" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S10619-10620"/></vote>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-08-06T14:10:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-08-06"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-09-16"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Native American Affairs.</text></action>
+		<action datetime="1993-11-08"><committee name="House Committee on Natural Resources"/><text>For Further Action See H.R.2366.</text></action>
+	</actions>
+	<committees>
+		<committee code="" name="Senate Indian Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2366" />
+		<bill relation="unknown" session="103" type="h" number="2366" />
+		<bill relation="unknown" session="103" type="h" number="2366" />
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Constitutions"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Indian economic development"/>
+		<term name="Indian lands"/>
+		<term name="Louisiana"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/7/1993--Introduced.
+Jena Band of Choctaw Indians of Louisiana Confirmation Act - Confirms and extends Federal recognition and associated services and benefits to the Jena Band of Choctaw of Louisiana. Directs that the Tribe be governed by an Interim Council until the Secretary of the Interior, upon the written request of the Council, conducts an election to adopt a constitution for the Tribe, and for the election of tribal officials. Directs the Secretary of the Interior to negotiate an economic development plan with the Tribe.
+
+	</summary>
+</bill>

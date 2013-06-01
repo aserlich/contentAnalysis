@@ -1,0 +1,41 @@
+<bill session="103" type="s" number="2273" updated="2012-07-17T05:34:31-04:00">
+	<state datetime="1994-07-01">INTRODUCED</state>
+	<status><introduced datetime="1994-07-01"/></status>
+
+	<introduced datetime="1994-07-01"/>
+	<titles>
+		<title type="official" as="introduced">A bill to reduce Government spending by $100,000,000,000 each fiscal year until a balanced Federal budget is achieved.</title>
+	</titles>
+	<sponsor id="300053"/>
+	<cosponsors>
+		<cosponsor id="300069" joined="1994-08-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-01" state="INTRODUCED"><text>Read twice and referred jointly to the Committees on Budget; Governmental Affairs pursuant to the order of August 4, 1977, with instructions that if one Committee reports, the other Committee have thirty days to report or be discharged.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBU" name="Senate Budget" activity="Referral, In Committee" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Balanced budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Economics and public finance"/>
+		<term name="Federal budget process"/>
+		<term name="Government spending reductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/1/1994--Introduced.
+Requires the Congress, beginning with FY 1995, to reduce Government spending by $100 billion each fiscal year until a balanced budget is achieved. Makes such reductions permanent. Sets forth sequestration procedures if such savings are not achieved.
+
+	</summary>
+</bill>

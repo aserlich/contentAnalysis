@@ -1,0 +1,41 @@
+<bill session="103" type="hc" number="62" updated="2010-04-18T21:10:22-04:00">
+	<state datetime="1993-03-11">REFERRED</state>
+	<status><introduced datetime="1993-03-11"/></status>
+
+	<introduced datetime="1993-03-11"/>
+	<titles>
+		<title type="official" as="introduced">Encouraging employee achievement awards.</title>
+	</titles>
+	<sponsor id="400586"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-11"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor"/>
+		<term name="Awards, medals, prizes"/>
+		<term name="Income tax"/>
+		<term name="Labor productivity"/>
+		<term name="Quality of products"/>
+		<term name="Tax incentives"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/1993--Introduced.
+Declares that: (1) businesses should offer monetary employee achievement awards to employees who offer ideas to improve efficiency, productivity, competitiveness, and quality; and (2) the Congress should encourage such awards by enacting significant tax incentives for employees to contribute to business productivity and quality and for businesses to reward such contributions.
+
+	</summary>
+</bill>

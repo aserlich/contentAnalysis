@@ -1,0 +1,43 @@
+<bill session="103" type="hc" number="194" updated="2010-04-18T21:31:09-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress that any comprehensive health care reform legislation that is enacted should require a Senator or Representative in, or Delegate or Resident Commissioner to, the Congress to wait for a period equal to a national average waiting period before receiving a health care service.</title>
+	</titles>
+	<sponsor id="300096"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-01-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Health care reform"/>
+		<term name="Health insurance"/>
+		<term name="Health policy"/>
+		<term name="Legislation"/>
+		<term name="Medical care"/>
+		<term name="Members of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Declares that any comprehensive health care reform legislation that is enacted should require: (1) a national board to calculate the average period of time that an individual in the United States must wait to receive each health care service; and (2) a Member of Congress to wait the same period before receiving such service.
+
+	</summary>
+</bill>

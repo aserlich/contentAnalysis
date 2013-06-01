@@ -1,0 +1,53 @@
+<bill session="103" type="hj" number="321" updated="2010-04-18T22:42:23-04:00">
+	<state datetime="1994-02-09">REFERRED</state>
+	<status><introduced datetime="1994-02-09"/></status>
+
+	<introduced datetime="1994-02-09"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States allowing an item veto in appropriations bills and an item veto of contract authority or taxation changes in any other bill.</title>
+	</titles>
+	<sponsor id="412001"/>
+	<cosponsors>
+		<cosponsor id="410147" joined="1994-02-24"/>
+		<cosponsor id="400126" joined="1994-02-23"/>
+		<cosponsor id="400348" joined="1994-06-21"/>
+		<cosponsor id="401547" joined="1994-02-23"/>
+		<cosponsor id="400552" joined="1994-02-23"/>
+		<cosponsor id="400318" joined="1994-02-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-09"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-02-15"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public finance"/>
+		<term name="Appropriations"/>
+		<term name="Budgets"/>
+		<term name="Constitution"/>
+		<term name="Constitutional amendments"/>
+		<term name="Government procurement"/>
+		<term name="Income tax"/>
+		<term name="Item veto"/>
+		<term name="Presidential powers"/>
+		<term name="Presidents"/>
+		<term name="Public contracts"/>
+		<term name="Tax incidence"/>
+		<term name="Tax rates"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/9/1994--Introduced.
+Constitutional Amendment - Grants the President item veto authority with respect to legislation concerning appropriations, contract authority, or tax changes.
+
+	</summary>
+</bill>

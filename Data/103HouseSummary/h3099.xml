@@ -1,0 +1,61 @@
+<bill session="103" type="h" number="3099" updated="2010-04-19T07:14:15-04:00">
+	<state datetime="1993-09-21">REFERRED</state>
+	<status><introduced datetime="1993-09-21"/></status>
+
+	<introduced datetime="1993-09-21"/>
+	<titles>
+		<title type="short" as="introduced">Federal Workforce Reduction and Realignment Commission Act</title>
+		<title type="official" as="introduced">To establish the Federal Workforce Reduction and Realignment Commission.</title>
+	</titles>
+	<sponsor id="400191"/>
+	<cosponsors>
+		<cosponsor id="400298" joined="1993-09-21"/>
+		<cosponsor id="400596" joined="1993-11-10"/>
+		<cosponsor id="400113" joined="1993-09-21"/>
+		<cosponsor id="400267" joined="1993-09-21"/>
+		<cosponsor id="400091" joined="1993-09-21"/>
+		<cosponsor id="400332" joined="1993-09-21"/>
+		<cosponsor id="400161" joined="1993-09-21"/>
+		<cosponsor id="404723" joined="1993-11-10"/>
+		<cosponsor id="400307" joined="1993-09-21"/>
+		<cosponsor id="300151" joined="1993-09-21"/>
+		<cosponsor id="411247" joined="1993-09-21"/>
+		<cosponsor id="400055" joined="1993-09-21"/>
+		<cosponsor id="400359" joined="1993-09-21"/>
+		<cosponsor id="400225" joined="1993-09-21"/>
+		<cosponsor id="400206" joined="1993-09-21"/>
+		<cosponsor id="409618" joined="1993-09-21"/>
+		<cosponsor id="400150" joined="1993-09-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-21"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-09-21"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-09-23"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Civil Service.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Civil Service" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="House rules and procedure"/>
+		<term name="Layoffs"/>
+		<term name="Legislative resolutions"/>
+		<term name="Presidential commissions"/>
+		<term name="Productivity in government"/>
+		<term name="Senate rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/21/1993--Introduced.
+Federal Workforce Reduction and Realignment Commission Act - Establishes an independent Federal Workforce Reduction and Realignment Commission to develop and submit to the President and the Congress recommendations for reducing the number of Federal employees nationwide in non-defense-related agencies by 250,000.
+
+	</summary>
+</bill>

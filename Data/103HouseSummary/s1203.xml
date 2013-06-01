@@ -1,0 +1,68 @@
+<bill session="103" type="s" number="1203" updated="2012-07-17T04:24:17-04:00">
+	<state datetime="1994-10-08">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-10-08" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-07-01"/>
+	<titles>
+		<title type="short" as="introduced">Center for Rare Disease Research Act of 1993</title>
+		<title type="short" as="passed senate">Office for Rare Disease Research Act of 1994</title>
+		<title type="official" as="introduced">A bill to establish a Center for Rare Disease Research in the National Institutes of Health, and for other purposes.</title>
+	</titles>
+	<sponsor id="405212"/>
+	<cosponsors>
+		<cosponsor id="403346" joined="1993-11-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-01" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8489-8491)</text></action>
+		<action datetime="1993-07-01" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<calendar datetime="1994-09-14"  state="REPORTED"><committee name="Committee on Labor and Human Resources"/><text>Committee on Labor and Human Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-10-05"><text>Committee on Labor and Human Resources. Reported to Senate by Senator Kennedy with an amendment in the nature of a substitute. With written report No. 103-399.</text></action>
+		<calendar under="General Orders" number="714" datetime="1994-10-05" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 714.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-10-08" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote. (consideration: CR 10/7/94 S14807-14808)</text></vote>
+		<action datetime="1994-11-29"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-11-29T12:30:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-11-29"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-12-14"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3577" />
+		<bill relation="unknown" session="103" type="h" number="5173" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Data banks"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Diseases"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Employee training"/>
+		<term name="Epidemiology"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to medical education"/>
+		<term name="Federal aid to medical research"/>
+		<term name="Government operations and politics"/>
+		<term name="Health surveys"/>
+		<term name="Higher education"/>
+		<term name="Labor and employment"/>
+		<term name="Medical education"/>
+		<term name="Medical research"/>
+		<term name="Research centers"/>
+		<term name="Science, technology, communications"/>
+		<term name="Strategic planning"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/8/1994--Passed Senate amended. Office for Rare Disease Research Act of 1994 - Amends the Public Health Service Act to establish within the Office of the Director of the National Institutes of Health (NIH) an Office for Rare Disease Research (the Office) to promote and coordinate the conduct of research on rare diseases through a strategic research plan and to establish and manage a rare disease research clinical database. Directs the Secretary of Health and Human Services to establish an advisory council to provide advice to the Director of the Office concerning carrying out the strategic research plan and other duties under this Act. Requires such Director to: (1) develop a comprehensive plan for the conduct and support of research on rare diseases; (2) coordinate and disseminate information among the institutes and the public on rare diseases; (3) support research training and encourage the participation of a diversity of individuals in the conduct of rare diseases research; (4) identify projects or research on rare diseases that should be conducted or supported by NIH; (5) develop and maintain a central database on current government sponsored clinical research projects for rare diseases; (6) determine the need for registries of research subjects and epidemiological studies of rare disease populations; and (7) prepare biennial reports on the activities carried out or to be carried out by the Office and submit such reports to the Secretary and the Congress.
+
+	</summary>
+</bill>

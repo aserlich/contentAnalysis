@@ -1,0 +1,43 @@
+<bill session="103" type="hr" number="357" updated="2010-04-19T13:54:34-04:00">
+	<state datetime="1994-02-10T15:13:00-05:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-02-10T15:13:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-02-09"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 3345) to amend title 5, United States Code, to eliminate certain restrictions on employee training; to provide temporary authority to agencies relating to voluntary separation incentive payments, and for other purposes.</title>
+	</titles>
+	<sponsor id="400600"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-09T19:24:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-422, by Mr. Moakley.</text></action>
+		<action datetime="1994-02-09T19:25:00-05:00"><text>Rule provides for consideration of H.R. 3345 with 1 hour of general debate. Previous question shall be considered as ordered except motion to recommit. Providing for the consideration of the bill in the Committee of the Whole. All points of order against consideration of the bill shall be waived. Specified amendments are in order. It shall be in order to consider the amendment in the nature of a substitute printed in part 1 of the report accompanying this resolution, and the amendment shall be considered as read. No amendment to the amendment in the nature of a substitute shall be in order except the amendment printed in part 2 of the report accompanying this resolution, to be offered in the manner specified. Said amendment shall not be subject to further amendment or a demand for division. All points of order against the amendments shall be waived.</text></action>
+		<calendar datetime="1994-02-09T19:25:00-05:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 135.</text></calendar>
+		<action datetime="1994-02-10T15:01:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H442-445"/></action>
+		<action datetime="1994-02-10T15:02:00-05:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1994-02-10T15:12:00-05:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-02-10T15:13:00-05:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1994-02-10T15:14:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3345" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congress"/>
+		<term name="Federal employees"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/9/1994--Introduced.
+Sets forth the rule for the consideration of H.R. 3345 (Federal Workforce Restructuring Act of 1994).
+
+	</summary>
+</bill>

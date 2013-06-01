@@ -1,0 +1,74 @@
+<bill session="103" type="hc" number="302" updated="2010-04-18T21:48:16-04:00">
+	<state datetime="1994-10-05T18:44:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-05T18:44:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-09-30"/>
+	<titles>
+		<title type="official" as="introduced">Urging the President to promote political stability in Tajikistan through efforts to encourage political resolution of the conflict and respect for human rights and through the provision of humanitarian assistance and, subject to certain conditions, economic assistance.</title>
+	</titles>
+	<sponsor id="400008"/>
+	<cosponsors>
+		<cosponsor id="300087" joined="1994-10-03"/>
+		<cosponsor id="400536" joined="1994-09-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-30"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-10-03"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-10-03"  state="REPORTED"><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-10-04T22:24:00-04:00"><text>Mr. Andrews (NJ) moved to suspend the rules and agree to the resolution.</text></action>
+		<action datetime="1994-10-04T22:25:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10828-10830"/></action>
+		<action datetime="1994-10-04T22:26:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Walker objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed until Oct. 5. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1994-10-05T18:44:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10921"/></action>
+		<vote how="by voice vote" type="vote" datetime="1994-10-05T18:44:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-05T18:44:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-06"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Referred to the Committee on Foreign Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup" />
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="American economic assistance"/>
+		<term name="Central Asia"/>
+		<term name="Charities"/>
+		<term name="Civil war"/>
+		<term name="Defense policy"/>
+		<term name="Democracy"/>
+		<term name="Dissenters"/>
+		<term name="Elections"/>
+		<term name="Foreign aid"/>
+		<term name="Foreign policy"/>
+		<term name="Human rights"/>
+		<term name="International affairs"/>
+		<term name="International military forces"/>
+		<term name="International relief"/>
+		<term name="Missing persons"/>
+		<term name="Murder"/>
+		<term name="Nongovernmental organizations"/>
+		<term name="Opposition (Political science)"/>
+		<term name="Peace negotiations"/>
+		<term name="Pluralism (Social sciences)"/>
+		<term name="Political parties"/>
+		<term name="Political persecution"/>
+		<term name="Political prisoners"/>
+		<term name="Politics and government"/>
+		<term name="Refugee policy"/>
+		<term name="Refugees"/>
+		<term name="Repatriation"/>
+		<term name="Tajikistan"/>
+		<term name="United Nations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/1994--Introduced.
+Expresses concerns that nomination, registration, and voting procedures are inadequate to ensure that elections in Tajikistan will be free and fair. Calls for any peacekeeping activities in Tajikistan to be conducted in full conformity with United Nations and international peacekeeping norms and practices. Calls upon the President to: (1) support existing efforts at national reconciliation in Tajikistan; (2) seek to obtain full respect by the Government of Tajikistan for basic freedoms and internationally recognized human rights; (3) maintain support for humanitarian assistance to the people of Tajikistan; (4) urge the international community to make similar commitments; (5) seek to ensure that a substantial portion of assistance provided to Tajikistan is channeled through nongovernmental organizations; and (6) seek to ensure that economic assistance is provided directly to such Government only if it is making significant progress in protecting and facilitating the activities of human rights groups, promoting democratic development, participating in and otherwise facilitating conflict resolution efforts, terminating interference in the nonviolent activities of the political opposition, allowing the International Committee of the Red Cross to visit prisoners in accordance with its mandate, participating in and otherwise facilitating the compilation of a list of all those who have been extrajudicially executed or have disappeared, and facilitating the protection and reintegration of returnees.
+
+	</summary>
+</bill>

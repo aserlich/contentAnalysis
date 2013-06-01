@@ -1,0 +1,42 @@
+<bill session="103" type="hr" number="173" updated="2010-04-19T13:25:42-04:00">
+	<state datetime="1993-05-20T11:15:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-05-20T11:15:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-05-18"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the consideration of the joint resolution (S.J. Res. 45) authorizing the use of United States Armed Forces in Somalia.</title>
+	</titles>
+	<sponsor id="411488"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-18T14:26:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-97, by Mr. Wheat.</text></action>
+		<action datetime="1993-05-18T14:26:00-04:00"><text>Rule provides for consideration of S.J. Res. 45 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. It shall be in order to consider as an original text for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Foreign Affairs now printed in the joint resolution. Measure will be considered read. Specified amendments are in order.</text></action>
+		<calendar datetime="1993-05-18T14:28:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 42.</text></calendar>
+		<action datetime="1993-05-20T10:50:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H2608-2611"/></action>
+		<action datetime="1993-05-20T10:50:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-05-20T11:15:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-05-20T11:15:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1993-05-20T11:16:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="sj" number="45" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Foreign relations"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/18/1993--Introduced.
+Sets forth the rule for the consideration of S.J. Res. 45 (authorizing the use of U.S. armed forces in Somalia).
+
+	</summary>
+</bill>

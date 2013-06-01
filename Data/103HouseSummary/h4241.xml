@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="4241" updated="2010-04-19T10:12:00-04:00">
+	<state datetime="1994-04-18">REFERRED</state>
+	<status><introduced datetime="1994-04-18"/></status>
+
+	<introduced datetime="1994-04-18"/>
+	<titles>
+		<title type="short" as="introduced">Insurance Form Simplification Act</title>
+		<title type="official" as="introduced">To amend title 5, United States Code, to require the use of standardized claim forms under the health benefits program for Federal employees, and to amend title 10, United States Code, to require the use of such forms in the Civilian Health and Medical Program of the Uniformed Services.</title>
+	</titles>
+	<sponsor id="409650"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-18"><text>Sponsor introductory remarks on measure. (CR E691)</text></action>
+		<action datetime="1994-04-18"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-04-18"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-04-20"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1994-04-20"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1994-04-20"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+		<action datetime="1994-04-20"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-04-20"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Defense policy"/>
+		<term name="Federal employees"/>
+		<term name="Government employees"/>
+		<term name="Government employees' health insurance"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Health insurance"/>
+		<term name="Health policy"/>
+		<term name="Medicine"/>
+		<term name="Military dependents"/>
+		<term name="Military medicine"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/18/1994--Introduced.
+Insurance Form Simplification Act - Amends Federal law to require standardized claim forms under the Federal employees' health benefits program and the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS).
+
+	</summary>
+</bill>

@@ -1,0 +1,63 @@
+<bill session="103" type="h" number="611" updated="2010-04-19T00:37:38-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="short" as="introduced">Federal Travel Disclosure Act of 1993</title>
+		<title type="official" as="introduced">To provide for greater disclosure of and accountability for Federal Government travel.</title>
+	</titles>
+	<sponsor id="400210"/>
+	<cosponsors>
+		<cosponsor id="400183" joined="1993-02-17"/>
+		<cosponsor id="401014" joined="1993-05-26"/>
+		<cosponsor id="400370" joined="1993-01-26"/>
+		<cosponsor id="408553" joined="1993-05-26"/>
+		<cosponsor id="400076" joined="1993-04-07"/>
+		<cosponsor id="300058" joined="1993-09-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-01-26"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Accounts.</text></action>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Accounts" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Buy American"/>
+		<term name="Common carriers"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Congressional travel"/>
+		<term name="Cost control"/>
+		<term name="Executive departments"/>
+		<term name="Federal officials"/>
+		<term name="Fees"/>
+		<term name="Foreign trade"/>
+		<term name="Freedom of information"/>
+		<term name="Government paperwork"/>
+		<term name="Public records"/>
+		<term name="Record votes"/>
+		<term name="Travel costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Federal Travel Disclosure Act of 1993 - Prohibits: (1) the obligation or expenditure of Federal funds for Government travel other than from amounts specifically appropriated by law for such purpose; and (2) any Federal entity from expending funds for the travel expenses of any individual employed by another Federal entity without being reimbursed by the individual or the travel account of the individual's employer. Directs the head of each executive department to designate a travel supervisor. Specifies the travel supervisors for the legislative and judicial branches. Requires all Government travel to be: (1) approved in advance by the appropriate travel supervisor; (2) accomplished by the most economical means conveniently possible; and (3) accomplished by U.S. commercial carrier wherever possible. Requires all legislative branch foreign travel, with specified exceptions, to be approved in advance by recorded vote of the committee (in the case of travel by a committee member or committee staff) or by the appropriate travel supervisor. Requires each travel supervisor to establish written guidelines for Government travel and to submit quarterly reports with respect to such travel to the Administrator of General Services (for executive branch or independent agency travel), the Clerk of the House of Representatives or the Secretary of the Senate (for legislative branch travel), and the Director of the Administrative Office of the U.S. Courts (for judicial branch travel).
+
+	</summary>
+</bill>

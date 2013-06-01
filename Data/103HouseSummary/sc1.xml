@@ -1,0 +1,42 @@
+<bill session="103" type="sc" number="1" updated="2010-04-19T21:11:13-04:00">
+	<state datetime="1993-01-05T17:51:00-05:00">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1993-01-05T17:51:00-05:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution to provide for the counting on January 6, 1993, of the electoral votes for President and Vice President of the United States.</title>
+	</titles>
+	<sponsor id="407786"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-01-05" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text><reference label="consideration" ref="CR S8"/></vote>
+		<action datetime="1993-01-05T15:20:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-01-05T17:49:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H54"/></action>
+		<action datetime="1993-01-05T17:51:00-05:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="without objection" type="vote2" datetime="1993-01-05T17:51:00-05:00" where="h" result="pass"  state="PASSED:CONCURRENTRES"><text>On agreeing to the resolution Agreed to without objection.</text></vote>
+		<action datetime="1993-01-05T17:51:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional sessions"/>
+		<term name="Electoral college"/>
+		<term name="Presidential elections"/>
+		<term name="Vice Presidents"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Provides for the counting of electoral votes for the President and Vice President on January 6, 1993.
+
+	</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="2634" updated="2010-04-19T06:02:10-04:00">
+	<state datetime="1993-07-14">REFERRED</state>
+	<status><introduced datetime="1993-07-14"/></status>
+
+	<introduced datetime="1993-07-14"/>
+	<titles>
+		<title type="official" as="introduced">To encourage the use of remote sensing to promote better agricultural management in the United States.</title>
+	</titles>
+	<sponsor id="400382"/>
+	<cosponsors>
+		<cosponsor id="400572" joined="1993-07-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-14"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-07-14"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-07-15"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Department Operations and Nutrition.</text></action>
+		<action datetime="1993-07-15"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA.</text></action>
+		<action datetime="1993-07-15"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Space.</text></action>
+		<action datetime="1993-07-20"><text>Sponsor introductory remarks on measure. (CR H4784)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Department Operations and Nutrition" activity="Referral" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Space" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural innovations"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Information services"/>
+		<term name="Radar"/>
+		<term name="Remote sensing"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/14/1993--Introduced.
+Provides for the increased use of remote sensing for agricultural and resource management.
+
+	</summary>
+</bill>

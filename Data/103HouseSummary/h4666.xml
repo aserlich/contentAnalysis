@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="4666" updated="2010-04-19T11:19:00-04:00">
+	<state datetime="1994-06-28">REFERRED</state>
+	<status><introduced datetime="1994-06-28"/></status>
+
+	<introduced datetime="1994-06-28"/>
+	<titles>
+		<title type="short" as="introduced">American Shipbuilding Jobs Preservation Act</title>
+		<title type="official" as="introduced">To amend title 46, United States Code, to prohibit overhaul, repair, and maintenance of Coast Guard vessels in foreign shipyards.</title>
+	</titles>
+	<sponsor id="400885"/>
+	<cosponsors>
+		<cosponsor id="400299" joined="1994-07-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-28"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1994-06-29"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Coast Guard and Navigation.</text></action>
+		<action datetime="1994-06-29"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from DOT.</text></action>
+		<action datetime="1994-06-29"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Text of Measure Incorporated into H.R.4422.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Coast Guard and Navigation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Ships"/>
+		<term name="Buy American"/>
+		<term name="Coast guard"/>
+		<term name="Defense policy"/>
+		<term name="Foreign trade"/>
+		<term name="Maintenance and repair"/>
+		<term name="Shipbuilding"/>
+		<term name="Trade"/>
+		<term name="Transportation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/28/1994--Introduced.
+American Shipbuilding Jobs Preservation Act - Amends Federal law to prohibit Coast Guard vessels from being overhauled, repaired (except for emergency repairs), or maintained in a foreign shipyard.
+
+	</summary>
+</bill>

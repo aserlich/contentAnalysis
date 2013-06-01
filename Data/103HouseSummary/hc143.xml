@@ -1,0 +1,54 @@
+<bill session="103" type="hc" number="143" updated="2010-04-18T21:23:12-04:00">
+	<state datetime="1993-09-14T15:37:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-09-14T15:37:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-09-14"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress concerning the historic opportunity for peace in the Middle East.</title>
+	</titles>
+	<sponsor id="404996"/>
+	<cosponsors>
+		<cosponsor id="400536" joined="1993-09-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-14"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-09-14T15:29:00-04:00"><text>Mr. Hamilton moved to suspend the rules and agree to the resolution.</text></action>
+		<action datetime="1993-09-14T15:29:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6731-6733"/></action>
+		<action datetime="1993-09-14T15:29:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-09-14T15:37:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1993-09-14T15:38:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-09-14"><text>Received in the Senate.</text></action>
+		<action datetime="1993-10-20"><text>Referred to the Committee on Foreign Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral" />
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="sc" number="43" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Arab-Israeli conflict"/>
+		<term name="Clinton Administration"/>
+		<term name="Commemorations"/>
+		<term name="Congressional tributes"/>
+		<term name="Israel"/>
+		<term name="Middle East"/>
+		<term name="Palestinians"/>
+		<term name="Peace"/>
+		<term name="Peace negotiations"/>
+		<term name="Peace treaties"/>
+		<term name="Recognition (International law)"/>
+		<term name="Terrorism"/>
+		<term name="Violence"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/14/1993--Introduced.
+Supports the agreement between Israel and the Palestine Liberation Organization. Endorses continuing U.S. engagement in, and support for, the peace process.
+
+	</summary>
+</bill>

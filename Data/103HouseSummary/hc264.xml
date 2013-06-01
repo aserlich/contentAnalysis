@@ -1,0 +1,56 @@
+<bill session="103" type="hc" number="264" updated="2010-04-18T21:42:18-04:00">
+	<state datetime="1994-06-30">REFERRED</state>
+	<status><introduced datetime="1994-06-30"/></status>
+
+	<introduced datetime="1994-06-30"/>
+	<titles>
+		<title type="official" as="introduced">Establishing a congressional commission for the purpose of assessing the humanitarian, political, and diplomatic conditions in Haiti and reporting to the Congress on the appropriate policy options available to the United States with respect to Haiti.</title>
+	</titles>
+	<sponsor id="400380"/>
+	<cosponsors>
+		<cosponsor id="410147" joined="1994-07-19"/>
+		<cosponsor id="400015" joined="1994-07-19"/>
+		<cosponsor id="400596" joined="1994-07-19"/>
+		<cosponsor id="400156" joined="1994-06-30"/>
+		<cosponsor id="400538" joined="1994-06-30"/>
+		<cosponsor id="404587" joined="1994-08-18"/>
+		<cosponsor id="406863" joined="1994-06-30"/>
+		<cosponsor id="400192" joined="1994-06-30"/>
+		<cosponsor id="400117" joined="1994-09-22"/>
+		<cosponsor id="400533" joined="1994-07-19"/>
+		<cosponsor id="300156" joined="1994-06-30"/>
+		<cosponsor id="400586" joined="1994-08-18"/>
+		<cosponsor id="400536" joined="1994-06-30"/>
+		<cosponsor id="403864" joined="1994-06-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-30"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-07-12"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Western Hemisphere Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="HSFA-07" name="House Foreign Affairs" subcommittee="Western Hemisphere Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Congress"/>
+		<term name="Congress and foreign policy"/>
+		<term name="Congressional committees"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Diplomacy"/>
+		<term name="Foreign policy"/>
+		<term name="Haiti"/>
+		<term name="Latin America"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/30/1994--Introduced.
+Establishes a congressional commission to assess the humanitarian, political, and diplomatic conditions in Haiti and to report to the Congress on policy options with respect to Haiti.
+
+	</summary>
+</bill>

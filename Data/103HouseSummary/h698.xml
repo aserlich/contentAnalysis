@@ -1,0 +1,87 @@
+<bill session="103" type="h" number="698" updated="2012-07-17T05:30:24-04:00">
+	<state datetime="1993-12-02">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-02" /></status>
+
+	<introduced datetime="1993-01-27"/>
+	<titles>
+		<title type="short" as="introduced">Lechuguilla Cave Protection Act of 1993</title>
+		<title type="short" as="passed house">Lechuguilla Cave Protection Act of 1993</title>
+		<title type="short" as="passed senate">Lechuguilla Cave Protection Act of 1993</title>
+		<title type="short" as="enacted">Lechuguilla Cave Protection Act of 1993</title>
+		<title type="official" as="introduced">To protect Lechuguilla Cave and other resources and values in and adjacent to Carlsbad Caverns National Park.</title>
+	</titles>
+	<sponsor id="400612"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-27" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E182-183)</text></action>
+		<action datetime="1993-01-27" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-02-18"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-03-02"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-05-05"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-05-05"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-05-11T12:53:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-86.</text></action>
+		<calendar number="41" datetime="1993-05-11T12:54:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 41.</text></calendar>
+		<action datetime="1993-05-11T14:18:00-04:00"><text>Mr. Vento moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-05-11T14:18:00-04:00"><text>Considered under suspension of the rules.</text></action>
+		<action datetime="1993-05-11T14:18:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-05-11T14:29:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-05-11T14:29:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-05-13"><text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-05-14"><committee name="House Committee on Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1993-06-16"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee on Public Lands, National Parks. Hearings held.</text></action>
+		<calendar datetime="1993-10-27" ><committee name="House Committee on Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1993-11-17"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="291" datetime="1993-11-17" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 291.</text></calendar>
+		<action datetime="1993-11-19"><text>The committee substitute agreed to by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-11-19" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-11-20"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-21T22:05:00-05:00"><text>Mr. Vento asked unanimous consent that the House agree to the Senate amendment.</text></action>
+		<vote how="without objection" type="pingpong" datetime="1993-11-21T22:06:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House agree to the Senate amendment Agreed to without objection.</text></vote>
+		<action datetime="1993-11-21T22:07:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-11-21" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-11-23" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-02" ><text>Signed by President.</text></signed>
+		<enacted number="103-169" type="public" datetime="1993-12-02"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-169.</text></enacted>
+		<action datetime="1993-12-09"><text>By Senator Johnston from Committee on Energy and Natural Resources filed written report under the authority of the order of Nov 17, 93. Report No. 103-213.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Environmental assessment"/>
+		<term name="Environmental protection"/>
+		<term name="Geology"/>
+		<term name="Geothermal resources"/>
+		<term name="Land transfers"/>
+		<term name="Land use"/>
+		<term name="Mines and mineral resources"/>
+		<term name="Mining leases"/>
+		<term name="National parks"/>
+		<term name="Natural areas"/>
+		<term name="New Mexico"/>
+		<term name="Oil well drilling"/>
+		<term name="Prospecting"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/19/1993--Passed Senate amended. Lechuguilla Cave Protection Act of 1993 - Withdraws all Federal lands within the boundaries of the Lechuguilla Cave Protection Area, New Mexico, from all forms of entry, appropriation, or disposal under the public land laws, from location, entry, and patent under U.S. mining laws, and from disposition under all mineral and geothermal leasing laws. Prohibits the Secretary of the Interior from permitting any new drilling within the Protection Area until the earlier of the effective date of the Record of Decision for the Dark Canyon Environmental Impact Statement or 12 months after enactment of this Act. Authorizes the Secretary to cancel any Federal mineral or geothermal lease in the Protection Area or to enter into negotiations with the holder of the lease to determine appropriate compensation, for the complete or partial termination of such lease. Authorizes the Secretary to limit or prohibit access to or across Federal lands or prohibit the removal of any mineral, geological, or cave resources from such lands in order to protect Lechuguilla Cave or Federal lands within the Protection Area. Provides that access to private lands within the Protection Area shall not be affected by this Act. Authorizes appropriations.
+
+	</summary>
+</bill>

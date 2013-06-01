@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="3245" updated="2010-04-19T07:36:49-04:00">
+	<state datetime="1993-10-07">REFERRED</state>
+	<status><introduced datetime="1993-10-07"/></status>
+
+	<introduced datetime="1993-10-07"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to increase the tax on firearms.</title>
+	</titles>
+	<sponsor id="409154"/>
+	<cosponsors>
+		<cosponsor id="400289" joined="1994-03-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-07"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-10-07"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-10-26"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Ammunition"/>
+		<term name="Budgets"/>
+		<term name="Costs"/>
+		<term name="Criminal justice"/>
+		<term name="Excise tax"/>
+		<term name="Federal aid to hospitals"/>
+		<term name="Firearms"/>
+		<term name="Firearms control"/>
+		<term name="Government trust funds"/>
+		<term name="Hospital care"/>
+		<term name="Medical care"/>
+		<term name="Medically uninsured"/>
+		<term name="Medicine"/>
+		<term name="Tax rates"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1993--Introduced.
+Amends the Internal Revenue Code to increase the excise tax on pistols, revolvers, and other firearms. Establishes the Hospital Gunshot Cost Relief Trust Fund to assist urban hospitals in defraying costs incurred in providing medical care to gunshot victims who are not covered under any health plan. Transfers the net revenues from the excise tax to such Fund.
+
+	</summary>
+</bill>

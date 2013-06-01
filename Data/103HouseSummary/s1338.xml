@@ -1,0 +1,159 @@
+<bill session="103" type="s" number="1338" updated="2010-04-19T17:59:11-04:00">
+	<state datetime="1993-09-14">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-09-14" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="1993-08-02"/>
+	<titles>
+		<title type="popular" as="">Authorization bill FY94, Military Construction</title>
+		<title type="popular" as="">Military Construction FY94 Authorization bill</title>
+		<title type="short" as="introduced">Military Construction Authorization Act Fiscal Year 1994</title>
+		<title type="short" as="introduced">Base Closure Communities Act of 1993</title>
+		<title type="short" as="passed senate">Military Construction Authorization Act for Fiscal Year 1994</title>
+		<title type="short" as="passed senate">Base Closure Communities Act of 1993</title>
+		<title type="official" as="introduced">An original bill to authorize appropriations for fiscal year 1994 for military construction, and for other purposes.</title>
+	</titles>
+	<sponsor id="408252"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar datetime="1993-07-23"  state="REPORTED"><text>Committee on Armed Services ordered to be reported an original measure.</text></calendar>
+		<action datetime="1993-08-02"><text>Committee on Armed Services. Original measure reported to Senate by Senator Nunn. Without written report.</text></action>
+		<calendar under="General Orders" number="174" datetime="1993-08-02" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 174.</text></calendar>
+		<action datetime="1993-09-14"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S11628"/></action>
+		<action datetime="1993-09-14"><text>Senate struck all after the Enacting Clause and substituted the language of S. 1298 amended. (Division B only).</text></action>
+		<vote how="by Unanimous Consent" type="vote" datetime="1993-09-14" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action datetime="1993-09-21T12:36:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-09-21T14:51:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-09-21"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAS" name="Senate Armed Services" activity="Origin, Reporting, Markup" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2401" />
+		<bill relation="unknown" session="103" type="s" number="1298" />
+		<bill relation="unknown" session="103" type="s" number="1298" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Air bases"/>
+		<term name="Airports"/>
+		<term name="Alternative energy sources"/>
+		<term name="Animals"/>
+		<term name="Arizona"/>
+		<term name="Armed forces abroad"/>
+		<term name="Armed forces reserves"/>
+		<term name="Army posts"/>
+		<term name="Authorization"/>
+		<term name="Banks and banking"/>
+		<term name="Bombs"/>
+		<term name="Budgets"/>
+		<term name="California"/>
+		<term name="Cogeneration of electric power and heat"/>
+		<term name="Community development"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Construction costs"/>
+		<term name="Conversion of industries"/>
+		<term name="Credit unions"/>
+		<term name="Defense budgets"/>
+		<term name="Defense contracts"/>
+		<term name="Defense economics"/>
+		<term name="Defense policy"/>
+		<term name="Department of Defense"/>
+		<term name="Dislocated workers"/>
+		<term name="Easements"/>
+		<term name="Economic development"/>
+		<term name="Economic impact statements"/>
+		<term name="Economic policy"/>
+		<term name="Education"/>
+		<term name="Electric power distribution"/>
+		<term name="Electricity"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Energy"/>
+		<term name="Energy conservation"/>
+		<term name="Energy efficiency"/>
+		<term name="Energy policy"/>
+		<term name="Environmental assessment"/>
+		<term name="Environmental protection"/>
+		<term name="Executive departments"/>
+		<term name="Federal aid to housing"/>
+		<term name="Federal-local relations"/>
+		<term name="Finance"/>
+		<term name="Florida"/>
+		<term name="Gas companies"/>
+		<term name="Georgia"/>
+		<term name="Government liability"/>
+		<term name="Government service contracts"/>
+		<term name="Government spending reductions"/>
+		<term name="Hawaii"/>
+		<term name="Hazardous substances"/>
+		<term name="Hazardous waste disposal"/>
+		<term name="Housing"/>
+		<term name="Illinois"/>
+		<term name="Impacted area programs"/>
+		<term name="International affairs"/>
+		<term name="Job hunting"/>
+		<term name="Job training"/>
+		<term name="Labor"/>
+		<term name="Land transfers"/>
+		<term name="Land use"/>
+		<term name="Leases"/>
+		<term name="Liability for toxic substances pollution damages"/>
+		<term name="Maintenance and repair"/>
+		<term name="Manpower training programs"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Military and naval supplies"/>
+		<term name="Military base closures"/>
+		<term name="Military bases"/>
+		<term name="Military construction operations"/>
+		<term name="Military dependents"/>
+		<term name="Military housing"/>
+		<term name="Military medicine"/>
+		<term name="Military research"/>
+		<term name="Montana"/>
+		<term name="Municipal services"/>
+		<term name="NATO military forces"/>
+		<term name="National Guard"/>
+		<term name="Natural gas"/>
+		<term name="Naval bases"/>
+		<term name="Naval mine warfare"/>
+		<term name="New Jersey"/>
+		<term name="New York State"/>
+		<term name="Occupational retraining"/>
+		<term name="Ohio"/>
+		<term name="Public contracts"/>
+		<term name="Public lands"/>
+		<term name="Radar"/>
+		<term name="Railroads"/>
+		<term name="Relocation of federal installations"/>
+		<term name="Rent"/>
+		<term name="Rental housing"/>
+		<term name="Research centers"/>
+		<term name="Reservoirs"/>
+		<term name="Right-of-way"/>
+		<term name="River regulation"/>
+		<term name="Solid wastes"/>
+		<term name="South Carolina"/>
+		<term name="State and local government"/>
+		<term name="Texas"/>
+		<term name="Transportation"/>
+		<term name="Vaccines"/>
+		<term name="Virginia"/>
+		<term name="Waste water treatment"/>
+		<term name="Water pollution"/>
+		<term name="Water resources"/>
+		<term name="Water supply"/>
+		<term name="Water treatment plants"/>
+		<term name="Wildlife refuges"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/14/1993--Passed Senate amended. Title XXI (sic): Army Title XXII: Navy Title XXIII: Air Force Title XXIV: Defense Agencies Title XXV: North Atlantic Treaty Organization Infrastructure Title XXVI: Guard and Reserve Forces Facilities Title XXVII: Expiration of Authorizations Title XXVIII: General Provisions Subtitle A: Military Construction Program and Military Family Housing Changes Subtitle B: Defense Base Closure and Realignment Subtitle C: Land Transactions Subtitle D: Other Matters Title XXIX: Base Closure Assistance Military Construction Authorization Act for Fiscal Year 1994 - Title XXI (sic): Army - Authorizes the Secretary of the Army to acquire real property and carry out military construction projects in specified amounts at specified installations and locations. Authorizes the Secretary to construct or acquire military family housing units, to carry out architectural planning and design activities, and to improve existing military family housing units in specified amounts. Authorizes appropriations to the Army for fiscal years after 1993 for military construction, land acquisition, and military family housing functions of the Army. Limits the total cost of construction projects authorized in this title. Terminates the authority to carry out certain prior year Army construction projects. Title XXII: Navy - Provides, with respect to the Navy, authorizations and terminations paralleling those provided for the Army under title XXI. Title XXIII: Air Force - Provides, with respect to the Air Force, authorizations and terminations paralleling those provided for the Army under title XXI. Provides for the relocation of certain Air Force construction projects. Title XXIV: Defense Agencies - Authorizes the Secretary of Defense to acquire real property and carry out military construction projects in specified amounts at specified installations and locations. Authorizes the Secretary to carry out certain energy conservation projects. Authorizes appropriations to DOD for fiscal years after 1993 for military construction, land acquisition, and military family housing functions of DOD. Limits the total cost of construction projects authorized in this title. Terminates the authority to carry out certain FY 1992 military construction projects. Title XXV: North Atlantic Treaty Organization Infrastructure - Authorizes the Secretary of Defense to make contributions to the NATO Infrastructure Program and authorizes appropriations for fiscal years after 1993 for such contributions. Title XXVI: Guard and Reserve Forces Facilities - Authorizes appropriations for fiscal years after 1993 for the Guard and Reserve forces for acquisition, architectural planning and design activities, and construction of facilities. Reduces the amount authorized to be appropriated for certain prior year Reserve military construction projects. Title XXVII: Expiration of Authorizations - Terminates all authorizations contained in titles XXI through XXVI of this Act on October 1, 1996, or the date of enactment of an Act authorizing funds for military construction for FY 1997, whichever is later. Extends certain prior year military construction projects. Title XXVIII: General Provisions - Subtitle A: Military Construction Program and Military Family Housing Changes - Revises certain lease requirements with respect to the military family housing rental program. (Sec. 2802) Authorizes the use of proceeds from the sale of electricity from generation facilities for certain military construction projects. Defines certain energy conservation measures to be adopted under a DOD energy performance plan. Provides the authority to acquire certain existing facilities in lieu of carrying out military construction projects authorized by law. Extends through FY 1995 the authority to lease real property for special operations activities. Subtitle B: Defense Base Closure and Realignment - Requires certain additional information in a report on the activities of the Defense Base Closure Account 1990 as required under the Defense Base Closure and Realignment Act of 1990. Requires base closure selection criteria to include the direct costs of such closures and realignments to other Federal departments and agencies. Provides a limitation on the expenditure of funds from the above Account for military construction in support of the transfer of functions. (Sec. 2814) Directs the Secretary of the Navy to evaluate, and report to the defense committees on, proposals for the purchase or lease of certain buildings located in Arlington, Virginia. Requires information concerning the residual value of overseas installations being closed to be included in certain annual reports required under the National Defense Authorization Act for Fiscal Year 1993. (Sec. 2816) Requires the Secretary to include certain justifications to accompany recommendations for the closure or realignment of a military installation not recommended for closure or realignment by a base closure and realignment commission. (Sec. 2817) Authorizes the Secretary to employ civilian DOD employees whose positions would be terminated by a military base closure or realignment to carry out environmental restoration activities at such installations. Requires the Secretary to report to the defense committees concerning closure or realignment costs for each such installation. (Sec. 2819) Amends the Defense Base Closure and Realignment Act of 1990 to require certain consultation with local governments and reuse authorities with respect to military installations to be closed or realigned. Subtitle C: Land Transactions - Authorizes the Secretary of the Navy to convey to: (1) Washington Gas Company, Virginia, the natural gas distribution system at Fort Belvoir, Virginia; (2) American Water Company, Virginia, the water distribution system at Fort Lee, Virginia; (3) Blackstone, Virginia, the waste water treatment facility at Fort Pickett, Virginia; (4) New Windsor, New York, the water distribution system and reservoir at the Stewart Army Subpost, New York; and (5) Jersey Central Power and Light Company, New Jersey, the electricity distribution system at Fort Dix, New Jersey. Authorizes the Secretary of the Navy to: (1) lease to Tri-City Municipal Water District, California, certain real property at Camp Pendleton Marine Corps Base, California; and (2) convey to Broward County, Florida, a portion of the Fort Lauderdale-Hollywood International Airport, Florida. Amends the Military Construction Authorization Act for Fiscal Year 1993 to modify provisions concerning the termination of lease and sale of facilities at the Naval Reserve Center, Atlanta, Georgia. Authorizes the Secretary of the Air Force to: (1) convey to Conrad, Montana, the radar bomb scoring site in Conrad; and (2) provide financial assistance to Maricopa County, Arizona, for the improvement of the Dysart Channel at Luke Air Force Base, Arizona. (Sec. 2841) Directs the Secretary of the Army to transfer the Harry Diamond Army Research Laboratory in Woodbridge, Virginia, to the Department of the Interior for incorporation into a national wildlife refuge. (Sec. 2842) Authorizes the Secretary of the Navy to convey to the Division of Public Railways, South Carolina Department of Commerce, a portion of the North Charleston Naval Weapons Station, Charleston, South Carolina. (Sec. 2843) Directs the Secretary of Defense to: (1) make available surplus military equipment to communities adversely affected by the closure of a military installation; (2) determine whether a parcel of land at Fort Missoula, Montana, is excess to the needs of the Army; and (3) review, and report on, a proposed transfer of lands involving Fort Sheridan, Illinois, and Arlington County, Virginia. Subtitle D: Other Matters - Directs the Secretary of the Navy to submit to the defense committees an environmental impact statement with respect to construction and operation of the Mine Warfare Center of Excellence at Ingleside, Texas. (Sec. 2852) Prohibits the use of this Act's funds for architectural planning and design activities in connection with the DOD vaccine production facility. (Sec. 2853) Authorizes the Secretary of the Army to make a grant to the Fairfax County School Board, Virginia, for the construction of a public elementary school there. (Sec. 2854) Amends the Federal Credit Union Act to provide for the allotment of space for credit unions in Federal buildings. (Sec. 2855) Directs the Secretary of the Air Force to study and report on the effects of Air Force activities at the Duck Valley Reservation. (Sec. 2856) Directs the Administrator of General Services to convey at fair market value to adjacent landowners certain real property located at missile sites when available for purchase. Title XXIX: Base Closure Assistance - Base Closure Communities Act of 1993 - Amends the Defense Base Closure and Realignment Act of 1990 to: (1) direct the Secretary to identify items of personal property on an installation to be closed that are to be included in a reutilization and redevelopment plan for such installation; and (2) authorize the Secretary to transfer real property and facilities at military installations to be closed or realigned to the redevelopment authority of a community located near the installation, or the State in which the installation is located. Provides authority for the lease of certain property at closed installations. Requires the Secretary to ensure the expedited determination of the transferability of excess property at installations to be closed. Makes available for assisting the homeless certain property and services at such installations. Requires the Secretary to designate a transition coordinator at each military installation to be closed. Provides for the coordination of DOD activities with activities of other Federal departments and agencies with respect to such closures. Directs the Secretary to establish a community response board in the area of each such closure, with specified responsibilities relating to the reutilization or redevelopment of the area of such installation. (Sec. 2912) Authorizes the Secretary to make grants to area redevelopment authorities for the conversion and redevelopment of former military installation property. Directs the Secretary of Defense to identify uncontaminated property (no hazardous substances) at installations to be closed. Directs the Secretary to conduct seminars on the reuse or redevelopment of former defense property and the provision of employment assistance to members of the local community adversely affected by its closure. Requires the Secretary to ensure compliance with certain environmental requirements relating to such closures. Amends the Defense Authorization Amendments and Base Closure and Realignment Act to authorize the Secretary to contract with local governments for the provision of police, fire protection, and other community services by such governments at military installations to be closed. Provides identical authority under the Defense Base Closure and Realignment Act of 1990.
+
+	</summary>
+</bill>

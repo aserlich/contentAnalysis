@@ -1,0 +1,36 @@
+<bill session="103" type="s" number="454" updated="2012-07-17T05:47:14-04:00">
+	<state datetime="1993-02-25">REFERRED</state>
+	<status><introduced datetime="1993-02-25"/></status>
+
+	<introduced datetime="1993-02-25"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend the suspension of duty on three-dimensional cameras.</title>
+	</titles>
+	<sponsor id="400557"/>
+	<cosponsors>
+		<cosponsor id="300082" joined="1993-02-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-25" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2125)</text></action>
+		<action datetime="1993-02-25" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="939" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Cameras"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/25/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to extend, through December 31, 1996, the suspension of duty on three-dimensional cameras.
+
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="4465" updated="2010-04-19T10:47:06-04:00">
+	<state datetime="1994-05-20">REFERRED</state>
+	<status><introduced datetime="1994-05-20"/></status>
+
+	<introduced datetime="1994-05-20"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to clarify the employment status of certain fishermen, and for other purposes.</title>
+	</titles>
+	<sponsor id="400140"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-20"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-05-24"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Cost control"/>
+		<term name="Fishing boats"/>
+		<term name="Labor"/>
+		<term name="Marine resources"/>
+		<term name="Self-employed"/>
+		<term name="Social security"/>
+		<term name="Social security taxes"/>
+		<term name="Tax returns"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/1994--Introduced.
+Amends the Internal Revenue Code and title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to revise the employment tax treatment of certain crew members on fishing vessels with a crew of ten or fewer individuals. Requires certain persons engaged in the trade or business of purchasing fish for resale to file information returns with respect to such purchases.
+
+	</summary>
+</bill>

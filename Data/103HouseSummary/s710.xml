@@ -1,0 +1,35 @@
+<bill session="103" type="s" number="710" updated="2012-07-17T05:25:09-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="official" as="introduced">A bill to suspend temporarily the duty on certain chemicals.</title>
+	</titles>
+	<sponsor id="406084"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1653" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Chemicals"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1997, the duty on: (1) 6-chloro-2-amino toluene; (2) 6-chloro-ortho-toluidine; (3) 3-chloro-2-methyl aniline benzenamine; and (4) 3-chloro-2-methyl.
+
+	</summary>
+</bill>

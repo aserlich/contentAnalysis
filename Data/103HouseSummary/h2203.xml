@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="2203" updated="2012-07-17T04:23:57-04:00">
+	<state datetime="1993-06-21T12:15:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-06-21T12:15:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-05-20"/>
+	<titles>
+		<title type="popular" as="">AIDS Control bill</title>
+		<title type="short" as="introduced">Sexually Transmitted Diseases Amendments of 1993</title>
+		<title type="official" as="introduced">To amend the Public Health Service Act to extend the program of grants regarding the prevention and control of sexually transmitted diseases.</title>
+	</titles>
+	<sponsor id="400425"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1993-05-25"/>
+		<cosponsor id="400414" joined="1993-05-26"/>
+		<cosponsor id="404296" joined="1993-05-25"/>
+		<cosponsor id="400409" joined="1993-05-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-20" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-06-08"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-06-08"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-06-15T16:21:00-04:00"><text>Reported by the Committee on Energy and Commerce. H. Rept. 103-131.</text></action>
+		<calendar number="71" datetime="1993-06-15T16:22:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 71.</text></calendar>
+		<action datetime="1993-06-21T12:11:00-04:00"><text>Mr. Waxman moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-06-21T12:11:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3840-3841"/></action>
+		<action datetime="1993-06-21T12:11:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-06-21T12:15:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-06-21T12:15:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-06-22"><text>Received in the Senate and read twice and referred to the Committee on Labor and Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1318" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Authorization"/>
+		<term name="Grants-in-aid"/>
+		<term name="Human fertility"/>
+		<term name="Preventive medicine"/>
+		<term name="Sexually transmitted diseases"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/1993--Introduced.
+Sexually Transmitted Diseases Amendments of 1993 - Amends the Public Health Service Act to authorize appropriations through FY 1998 for programs for: (1) the prevention and control of sexually transmitted diseases; and (2) the prevention of infertility arising as a result of such diseases.
+
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="1154" updated="2010-04-19T02:08:30-04:00">
+	<state datetime="1993-03-01">REFERRED</state>
+	<status><introduced datetime="1993-03-01"/></status>
+
+	<introduced datetime="1993-03-01"/>
+	<titles>
+		<title type="official" as="introduced">To permit States to establish programs using unemployment funds to assist unemployed individuals in becoming self-employed.</title>
+	</titles>
+	<sponsor id="300100"/>
+	<cosponsors>
+		<cosponsor id="411040" joined="1993-06-10"/>
+		<cosponsor id="400885" joined="1993-08-06"/>
+		<cosponsor id="400538" joined="1993-05-25"/>
+		<cosponsor id="300091" joined="1993-07-13"/>
+		<cosponsor id="409219" joined="1993-07-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-01"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Unemployment insurance"/>
+		<term name="Entrepreneurs"/>
+		<term name="Self-employed"/>
+		<term name="Unemployed"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/1/1993--Introduced.
+Authorizes the Secretary of Labor to permit States to establish and operate self-employment programs that use State unemployment funds to assist unemployed individuals (who are otherwise entitled to State unemployment compensation) in becoming self-employed.
+
+	</summary>
+</bill>

@@ -1,0 +1,86 @@
+<bill session="103" type="s" number="1233" updated="2012-07-17T06:23:26-04:00">
+	<state datetime="1994-10-14">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-14" /></status>
+
+	<introduced datetime="1993-07-15"/>
+	<titles>
+		<title type="short" as="introduced">Arizona Wilderness Land Title Resolution Act of 1993</title>
+		<title type="short" as="reported to senate">Arizona Wilderness Land Title Resolution Act of 1994</title>
+		<title type="short" as="passed senate">Arizona Wilderness Land Title Resolution Act of 1994</title>
+		<title type="short" as="enacted">Arizona Wilderness Land Title Resolution Act of 1994</title>
+		<title type="official" as="introduced">A bill to resolve the status of certain lands in Arizona that are subject to a claim as a grant of public lands for railroad purposes, and for other purposes.</title>
+	</titles>
+	<sponsor id="403346"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-15" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8823-8825)</text></action>
+		<action datetime="1993-07-15" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-07-16"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1993-09-09"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of Agriculture, Department of the Interior, Department of Justice, Department of the Treasury, and Office of Management and Budget.</text></action>
+		<action datetime="1994-02-15"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-03-03"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed: S.Hrg. 103-594.</text></action>
+		<calendar datetime="1994-05-18"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1994-05-25"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments. With written report No. 103-274.</text></action>
+		<calendar under="General Orders" number="445" datetime="1994-05-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 445.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-06-24" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with amendments by Voice Vote.</text><reference label="consideration" ref="CR S7658"/></vote>
+		<action datetime="1994-06-27"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-06-27T13:50:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-06-27T19:47:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-07-27"><text>Referred jointly to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-07-27"><text>Referred jointly to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-07-28"><committee name="Committee on Energy and Natural Resources"/><text>Late Referral to the Subcommittee on National Parks, Forests and Public Lands (Nov 30, 94).</text></action>
+		<action datetime="1994-07-29"><committee name="Committee on Energy and Natural Resources"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+		<action datetime="1994-09-27"><committee name="Committee on Energy and Natural Resources" subcommittee="Administrative Law and Governmental Relations"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-09-27"><committee name="Committee on Energy and Natural Resources" subcommittee="Administrative Law and Governmental Relations"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1994-09-28"><committee name="Committee on Energy and Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28" ><committee name="Committee on Energy and Natural Resources"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-09-29"><committee name="Committee on Energy and Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-29" ><committee name="Committee on Energy and Natural Resources"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1994-10-03T13:10:00-04:00"><text>Reported by the Committee on Judiciary. H. Rept. 103-773, Part I.</text></action>
+		<action datetime="1994-10-03T13:11:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 103-773, Part II.</text></action>
+		<calendar number="421" datetime="1994-10-03T13:11:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 421.</text></calendar>
+		<action datetime="1994-10-03T13:21:00-04:00"><text>Mr. Brooks moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-10-03T13:21:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10470-10471"/></action>
+		<action datetime="1994-10-03T13:21:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-03T13:23:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Rohrabacher objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1994-10-03T18:56:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10611"/></action>
+		<vote how="roll" type="vote2" roll="459" datetime="1994-10-03T19:04:00-04:00" where="h" result="pass" suspension="1"  state="PASSED:BILL"><text>On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 381 - 15 (Roll no. 459).</text></vote>
+		<action datetime="1994-10-03T19:04:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-10-03" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-10-06" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-14" ><text>Signed by President.</text></signed>
+		<enacted number="103-365" type="public" datetime="1994-10-14"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-365.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral, Markup, Reporting" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Arizona"/>
+		<term name="Claims"/>
+		<term name="Government liability"/>
+		<term name="Land transfers"/>
+		<term name="Law"/>
+		<term name="National forests"/>
+		<term name="Railroad land grants"/>
+		<term name="Right-of-way"/>
+		<term name="Transportation and public works"/>
+		<term name="Wilderness areas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/24/1994--Passed Senate amended. Arizona Wilderness Land Title Resolution Act of 1994 - Requires the Secretary of the Treasury to pay a specified sum, without interest, to Perrin Properties, Inc., upon being notified by the Attorney General that the appellants in Santa Fe Pacific Railroad Company et al. v. Secretary of the Interior have executed all documents necessary to: (1) dismiss with prejudice all litigation involving the title to certain lands in the Prescott National Forest, Arizona; and (2) release and quitclaim to the United States all right, title, and interest of the appellants and of Perrin Properties, Inc., in and to such lands. Requires the lands to be managed in accordance with the laws, rules, and regulations pertaining to the National Forest System and in accordance with the Wilderness Act if the lands lie within the boundaries of a wilderness area.
+
+	</summary>
+</bill>

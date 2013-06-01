@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="2035" updated="2010-04-19T04:29:31-04:00">
+	<state datetime="1993-05-06">REFERRED</state>
+	<status><introduced datetime="1993-05-06"/></status>
+
+	<introduced datetime="1993-05-06"/>
+	<titles>
+		<title type="official" as="introduced">To terminate the Department of Defense independent research and development program and to replace that program with a grant program to be used for support of basic research.</title>
+	</titles>
+	<sponsor id="300085"/>
+	<cosponsors>
+		<cosponsor id="400370" joined="1994-06-15"/>
+		<cosponsor id="400216" joined="1994-02-02"/>
+		<cosponsor id="412001" joined="1993-11-20"/>
+		<cosponsor id="400251" joined="1993-11-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-06"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-05-11"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Research and Technology.</text></action>
+		<action datetime="1993-05-11"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Research and Technology" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Federal aid to research"/>
+		<term name="Government and business"/>
+		<term name="Military research"/>
+		<term name="Research and development"/>
+		<term name="Research grants"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/6/1993--Introduced.
+Terminates the independent research and development program of the Department of Defense. Directs the Secretary of Defense to establish a program to provide grants to businesses, universities, and other appropriate entities for the support of basic research. Authorizes appropriations.
+
+	</summary>
+</bill>

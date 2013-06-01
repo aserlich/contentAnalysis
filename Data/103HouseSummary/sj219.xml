@@ -1,0 +1,82 @@
+<bill session="103" type="sj" number="219" updated="2012-07-17T06:22:10-04:00">
+	<state datetime="1994-10-08">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-10-08" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-08-24"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution to commend the United States rice industry, and for other purposes.</title>
+		<title type="official" as="amended by senate">A joint resolution to commend United States rice producers and millers, and for other purposes.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="300043" joined="1994-10-05"/>
+		<cosponsor id="400557" joined="1994-10-05"/>
+		<cosponsor id="406084" joined="1994-08-24"/>
+		<cosponsor id="300082" joined="1994-10-04"/>
+		<cosponsor id="300011" joined="1994-10-04"/>
+		<cosponsor id="300012" joined="1994-08-24"/>
+		<cosponsor id="300036" joined="1994-10-05"/>
+		<cosponsor id="408939" joined="1994-08-24"/>
+		<cosponsor id="300154" joined="1994-09-22"/>
+		<cosponsor id="300048" joined="1994-09-29"/>
+		<cosponsor id="300069" joined="1994-09-28"/>
+		<cosponsor id="300001" joined="1994-10-06"/>
+		<cosponsor id="300026" joined="1994-10-04"/>
+		<cosponsor id="300031" joined="1994-08-24"/>
+		<cosponsor id="300072" joined="1994-09-21"/>
+		<cosponsor id="300029" joined="1994-10-04"/>
+		<cosponsor id="403515" joined="1994-10-04"/>
+		<cosponsor id="300057" joined="1994-09-28"/>
+		<cosponsor id="403669" joined="1994-09-21"/>
+		<cosponsor id="300159" joined="1994-08-24"/>
+		<cosponsor id="402004" joined="1994-08-24"/>
+		<cosponsor id="300070" joined="1994-08-24"/>
+		<cosponsor id="407254" joined="1994-10-04"/>
+		<cosponsor id="300023" joined="1994-08-24"/>
+		<cosponsor id="411818" joined="1994-10-04"/>
+		<cosponsor id="300157" joined="1994-10-06"/>
+		<cosponsor id="400561" joined="1994-09-13"/>
+		<cosponsor id="403962" joined="1994-10-04"/>
+		<cosponsor id="300010" joined="1994-09-28"/>
+		<cosponsor id="406188" joined="1994-10-03"/>
+		<cosponsor id="401604" joined="1994-09-28"/>
+		<cosponsor id="300054" joined="1994-09-21"/>
+		<cosponsor id="400558" joined="1994-09-22"/>
+		<cosponsor id="405310" joined="1994-09-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-24" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1994-10-08"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S14801"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-10-08" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment and an amendment to the Title and with a preamble by Voice Vote.</text></vote>
+		<action datetime="1994-11-29"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-11-29T12:30:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-11-29"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-11-30"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on General Farm Commodities.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="General Farm Commodities" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="405" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Commemorations"/>
+		<term name="Congress"/>
+		<term name="Congressional tributes"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Rice"/>
+		<term name="Trade associations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/24/1994--Introduced.
+Commends the U.S. rice industry for its decision to establish an industry organization. Recognizes the success such decision will have in promoting the interests of the rice industry and the rice-consuming public.
+
+	</summary>
+</bill>

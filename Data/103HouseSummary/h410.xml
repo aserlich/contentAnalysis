@@ -1,0 +1,74 @@
+<bill session="103" type="h" number="410" updated="2010-04-19T00:04:06-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Intergovernmental Mandate Relief Act of 1993</title>
+		<title type="official" as="introduced">To reduce the growing costs imposed on State and local governments by unfunded Federal mandates.</title>
+	</titles>
+	<sponsor id="400504"/>
+	<cosponsors>
+		<cosponsor id="402657" joined="1993-03-17"/>
+		<cosponsor id="410147" joined="1993-02-16"/>
+		<cosponsor id="400242" joined="1993-03-17"/>
+		<cosponsor id="400500" joined="1993-02-16"/>
+		<cosponsor id="400584" joined="1993-03-10"/>
+		<cosponsor id="404587" joined="1993-02-24"/>
+		<cosponsor id="400104" joined="1993-03-17"/>
+		<cosponsor id="400028" joined="1993-01-26"/>
+		<cosponsor id="400192" joined="1993-01-26"/>
+		<cosponsor id="400037" joined="1993-03-03"/>
+		<cosponsor id="400017" joined="1993-02-17"/>
+		<cosponsor id="400551" joined="1993-02-16"/>
+		<cosponsor id="412001" joined="1993-02-17"/>
+		<cosponsor id="405560" joined="1993-03-29"/>
+		<cosponsor id="404068" joined="1993-04-27"/>
+		<cosponsor id="408476" joined="1993-02-16"/>
+		<cosponsor id="400221" joined="1993-06-10"/>
+		<cosponsor id="400012" joined="1993-02-16"/>
+		<cosponsor id="410887" joined="1993-09-14"/>
+		<cosponsor id="405033" joined="1993-03-29"/>
+		<cosponsor id="400252" joined="1993-06-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Human Resources and Intergovernmental Relations.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Government Operations"/><text>See H.R.4771.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Human Resources and Intergovernmental Relations" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="140" />
+		<bill relation="unknown" session="103" type="h" number="4771" />
+	</relatedbills>
+	<subjects>
+		<term name="Intergovernmental relations"/>
+		<term name="Congressional oversight"/>
+		<term name="Costs"/>
+		<term name="Economic impact statements"/>
+		<term name="Federal-local relations"/>
+		<term name="Federal-state relations"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="Legislation"/>
+		<term name="Legislative resolutions"/>
+		<term name="Regulatory impact statements"/>
+		<term name="Regulatory reform"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Intergovernmental Mandate Relief Act of 1993 - Prohibits a Federal agency or court from requiring compliance in any fiscal year by State or local governments with any intergovernmental regulation unless provisions of law have been enacted which compensate such governments for additional direct costs incurred by such compliance. Declares that the compensation requirement may be waived by the enactment of a joint resolution of the Congress. Requires the Director of the Congressional Budget Office (CBO) to estimate such additional direct costs and include such estimates in annual reports to the President and the Congress. Requires congressional committees to propose amendments to significant laws for which regulations will be promulgated containing provisions to compensate State and local governments for additional direct costs of complying with any intergovernmental regulation which takes effect on or after enactment of this Act. Establishes procedures for Federal agencies to reimburse State governments for additional direct costs and for State governments to reimburse local governments for such costs. Amends the Congressional Budget Act of 1974 to require CBO to prepare cost estimates for bills or resolutions which are likely to cost State and local governments $100 million (currently, $200 million) or more annually.
+
+	</summary>
+</bill>

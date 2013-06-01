@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="3042" updated="2010-04-19T07:05:26-04:00">
+	<state datetime="1993-09-09">REFERRED</state>
+	<status><introduced datetime="1993-09-09"/></status>
+
+	<introduced datetime="1993-09-09"/>
+	<titles>
+		<title type="short" as="introduced">Federal Construction Equity Act of 1993</title>
+		<title type="official" as="introduced">To prohibit discrimination in contracting with potential contractors and subcontractors in federally funded construction projects on the basis of certain labor relations policies of the potential contractors and subcontractors.</title>
+	</titles>
+	<sponsor id="408553"/>
+	<cosponsors>
+		<cosponsor id="400015" joined="1993-09-09"/>
+		<cosponsor id="400332" joined="1993-09-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-09"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-09-10"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public contracts"/>
+		<term name="Building construction"/>
+		<term name="Collective bargaining agreements"/>
+		<term name="Construction industries"/>
+		<term name="Government contractors"/>
+		<term name="Government procurement"/>
+		<term name="Public buildings"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/9/1993--Introduced.
+Federal Construction Equity Act of 1993 - Amends the Office of Federal Procurement Policy Act to prohibit the denial of Federal construction contracts on the basis of the potential contractor's policy on collective bargaining.
+
+	</summary>
+</bill>

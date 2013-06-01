@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="1101" updated="2010-04-19T01:59:46-04:00">
+	<state datetime="1993-02-24">REFERRED</state>
+	<status><introduced datetime="1993-02-24"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit the award of costs (including attorney's fees) against a judicial officer for acts or omissions occurring in a judicial capacity.</title>
+	</titles>
+	<sponsor id="405775"/>
+	<cosponsors>
+		<cosponsor id="407899" joined="1993-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-03-01"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Courts"/>
+		<term name="Actions and defenses"/>
+		<term name="Administrative responsibility"/>
+		<term name="Judges"/>
+		<term name="Judicial officers"/>
+		<term name="Legal fees"/>
+		<term name="Privileges and immunities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Prohibits the award of costs, including attorney's fees, against a judge or judicial officer who would be immune from actions for damages arising out of the same act or omission about which the complaint is made in an action or proceeding.
+
+	</summary>
+</bill>

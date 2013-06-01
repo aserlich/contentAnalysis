@@ -1,0 +1,65 @@
+<bill session="103" type="h" number="1050" updated="2010-04-19T01:51:37-04:00">
+	<state datetime="1993-02-23">REFERRED</state>
+	<status><introduced datetime="1993-02-23"/></status>
+
+	<introduced datetime="1993-02-23"/>
+	<titles>
+		<title type="short" as="introduced">Federal Budget Structure Act of 1993</title>
+		<title type="official" as="introduced">To improve budgetary information by requiring that the unified budget presented by the President contain an operating budget and a capital budget, distinguish between Federal funds and trust funds, and for other purposes.</title>
+	</titles>
+	<sponsor id="402657"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="1993-03-11"/>
+		<cosponsor id="401547" joined="1993-03-11"/>
+		<cosponsor id="400161" joined="1993-03-11"/>
+		<cosponsor id="400506" joined="1993-02-23"/>
+		<cosponsor id="400188" joined="1993-03-11"/>
+		<cosponsor id="400169" joined="1993-02-23"/>
+		<cosponsor id="400614" joined="1993-02-23"/>
+		<cosponsor id="300097" joined="1993-02-23"/>
+		<cosponsor id="407044" joined="1993-02-23"/>
+		<cosponsor id="411997" joined="1993-02-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-23"><text>Sponsor introductory remarks on measure. (CR E413-414)</text></action>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-03-08"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Economic Development.</text></action>
+		<action datetime="1993-05-26"><committee name="House Committee on Public Works + Transportation" subcommittee="Economic Development"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-06-16"><committee name="House Committee on Public Works + Transportation" subcommittee="Economic Development"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Economic Development" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="484" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Airports"/>
+		<term name="Bridges"/>
+		<term name="Capital budgets"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Federal aid highway program"/>
+		<term name="Federal aid to transportation"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Government trust funds"/>
+		<term name="Mass rapid transit"/>
+		<term name="Public buildings"/>
+		<term name="Roads and highways"/>
+		<term name="Waste water treatment"/>
+		<term name="Water resources development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1993--Introduced.
+Federal Budget Structure Act of 1993 - Amends Federal law to require that the budget the President submits to the Congress be a unified budget comprising an operating budget and a capital budget, each presented separately for total funds, Federal funds, and trust funds. Restricts the capital budget to the major activities, projects, and programs supporting the acquisition, construction, alteration, and rehabilitation of capital assets. Includes all other items in the operating budget. Requires the following reports to specified congressional committees on capital activities and operating activities associated with: (1) roadways and bridges, airports and airway facilities, and mass transportation systems; (2) waste water treatment and related facilities; (3) water resource projects; and (4) public buildings.
+
+	</summary>
+</bill>

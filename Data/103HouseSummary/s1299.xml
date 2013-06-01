@@ -1,0 +1,184 @@
+<bill session="103" type="s" number="1299" updated="2012-07-17T05:41:32-04:00">
+	<state datetime="1994-04-11">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-04-11" /></status>
+
+	<introduced datetime="1993-07-28"/>
+	<titles>
+		<title type="short" as="introduced">Housing and Community Development Act of 1993</title>
+		<title type="short" as="passed house">Multifamily Housing Property Disposition Reform Act of 1994</title>
+		<title type="short" as="passed senate">Housing and Community Development Act of 1993</title>
+		<title type="short" as="passed senate">Community Partnerships Against Crime Act of 1993</title>
+		<title type="short" as="enacted">Multifamily Housing Property Disposition Reform Act of 1994</title>
+		<title type="official" as="introduced">A bill to reform requirements for the disposition of multifamily property owned by the Secretary of Housing and Urban Development, enhance program flexibility, authorize a program to combat crime, and for other purposes.</title>
+	</titles>
+	<sponsor id="409225"/>
+	<cosponsors>
+		<cosponsor id="300086" joined="1993-07-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-28" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S9698, S9706-9719)</text></action>
+		<action datetime="1993-07-28" state="REFERRED"><text>Read twice and referred to the Committee on Banking.</text></action>
+		<action datetime="1993-07-28"><committee name="Committee on Banking"/><text>Committee on Banking. Hearings held.</text></action>
+		<calendar datetime="1993-10-19"  state="REPORTED"><committee name="Committee on Banking"/><text>Committee on Banking. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1993-11-09"><text>Committee on Banking. Reported to Senate by Senator Riegle with an amendment in the nature of a substitute. With written report No. 103-174. Additional views filed.</text></action>
+		<calendar under="General Orders" number="275" datetime="1993-11-09" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 275.</text></calendar>
+		<action datetime="1993-11-19"><text>Measure laid before Senate. (consideration: CR 11/18/93 S6190-16208)</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-19" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text></vote>
+		<action datetime="1993-11-20T10:00:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-20T11:58:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-11-20"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-03-22T18:06:00-05:00"><text>Mr. Gonzalez asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1994-03-22T18:07:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H1825-1839"/></action>
+		<action datetime="1994-03-22T18:07:00-05:00"><text>The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H.R. 4067. Agreed to without objection.</text></action>
+		<vote how="without objection" type="vote2" datetime="1994-03-22T18:07:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-03-22T18:07:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-03-22T18:07:00-05:00"><text>The title of the measure was amended to that of similar measure H.R. 4067. Agreed to without objection.</text></action>
+		<action datetime="1994-03-22T18:07:00-05:00"><text>A similar measure H.R. 4067 was laid on the table without objection.</text></action>
+		<action datetime="1994-03-24"><text>Message on House action received in Senate and at desk: House amendments to Senate bill.</text></action>
+		<action datetime="1994-03-25"><text>Senate agreed to the House amendments by Voice Vote.</text><reference label="consideration" ref="CR S3949"/></action>
+		<topresident datetime="1994-03-25" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-03-30" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-04-11" ><text>Signed by President.</text></signed>
+		<enacted number="103-233" type="public" datetime="1994-04-11"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-233.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="supersedes" session="103" type="h" number="4067" />
+	</relatedbills>
+	<subjects>
+		<term name="Housing and community development"/>
+		<term name="Accounting"/>
+		<term name="Administrative fees"/>
+		<term name="Administrative procedure"/>
+		<term name="Affordable housing"/>
+		<term name="Apartment houses"/>
+		<term name="Arizona"/>
+		<term name="Auditing"/>
+		<term name="Authorization"/>
+		<term name="Bank failures"/>
+		<term name="Block grants"/>
+		<term name="Boundaries"/>
+		<term name="California"/>
+		<term name="Citizen participation in crime prevention"/>
+		<term name="Coins and coinage"/>
+		<term name="Commemorations"/>
+		<term name="Community policing"/>
+		<term name="Congress"/>
+		<term name="Congressional investigations"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cooperative housing"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Crime prevention"/>
+		<term name="Department of Housing and Urban Development"/>
+		<term name="Disaster relief"/>
+		<term name="Drug abuse"/>
+		<term name="Drug law enforcement"/>
+		<term name="Earnings"/>
+		<term name="Economic development"/>
+		<term name="Economics and public finance"/>
+		<term name="Electric utility rates"/>
+		<term name="Emergency management"/>
+		<term name="Employee training"/>
+		<term name="Energy"/>
+		<term name="Energy assistance for the poor"/>
+		<term name="Energy policy"/>
+		<term name="Environmental assessment"/>
+		<term name="Environmental monitoring"/>
+		<term name="Environmental protection"/>
+		<term name="Families"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal aid to community development"/>
+		<term name="Federal aid to housing"/>
+		<term name="Federal aid to law enforcement agencies"/>
+		<term name="Federal aid to youth services"/>
+		<term name="Federal preemption"/>
+		<term name="Federal-local relations"/>
+		<term name="Federal-state relations"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Finance and financial sector"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Fire prevention"/>
+		<term name="Foreclosure"/>
+		<term name="Fraud"/>
+		<term name="Gold"/>
+		<term name="Government contractors"/>
+		<term name="Government lending"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Government trust funds"/>
+		<term name="Health"/>
+		<term name="Home ownership"/>
+		<term name="Home repair and improvement"/>
+		<term name="Homeless"/>
+		<term name="Hospitals"/>
+		<term name="Housing authorities"/>
+		<term name="Housing finance"/>
+		<term name="Housing management"/>
+		<term name="Housing statistics"/>
+		<term name="Housing subsidies"/>
+		<term name="Income"/>
+		<term name="Indemnity"/>
+		<term name="Indian housing"/>
+		<term name="Information services"/>
+		<term name="Intellectual property"/>
+		<term name="Interest rates"/>
+		<term name="Labor and employment"/>
+		<term name="Latin America"/>
+		<term name="Lead poisoning"/>
+		<term name="Louisiana"/>
+		<term name="Low-income housing"/>
+		<term name="Maintenance and repair"/>
+		<term name="Manpower training programs"/>
+		<term name="Mexico"/>
+		<term name="Michigan"/>
+		<term name="Minorities"/>
+		<term name="Mortgage guaranty insurance"/>
+		<term name="Mortgage loans"/>
+		<term name="Narcotic traffic"/>
+		<term name="National monuments"/>
+		<term name="New Mexico"/>
+		<term name="Nursing homes"/>
+		<term name="Paints and varnishes"/>
+		<term name="Partnerships"/>
+		<term name="Planning"/>
+		<term name="Poor"/>
+		<term name="Public assistance programs"/>
+		<term name="Public debt"/>
+		<term name="Public housing"/>
+		<term name="Public service employment"/>
+		<term name="Public utility rates"/>
+		<term name="Rent"/>
+		<term name="Rent subsidies"/>
+		<term name="Rental housing"/>
+		<term name="Residential energy conservation"/>
+		<term name="Residential rehabilitation"/>
+		<term name="Revolving funds"/>
+		<term name="Risk assessment"/>
+		<term name="Rural housing"/>
+		<term name="Savings and loan associations"/>
+		<term name="Secondary mortgage market"/>
+		<term name="Sewage disposal"/>
+		<term name="Sewage treatment plants"/>
+		<term name="Silver"/>
+		<term name="Single family housing"/>
+		<term name="Social welfare"/>
+		<term name="South Dakota"/>
+		<term name="Texas"/>
+		<term name="Urban affairs"/>
+		<term name="Urban economic development"/>
+		<term name="Volunteer workers"/>
+		<term name="Waste water treatment"/>
+		<term name="Water resources development"/>
+		<term name="Water supply"/>
+		<term name="Water treatment plants"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1215"/>
+	</amendments>
+	<summary>
+	3/22/1994--Passed House amended. TABLE OF CONTENTS: Title I: Multifamily Property Disposition Reform Title II: Other Program Reforms Subtitle A: Home Investment Partnerships Program Subtitle B: HOPE Homeownership Program Subtitle C: Community Development Block Grants Title III: Technical Amendments Multifamily Housing Property Disposition Reform Act of 1994 - Title I: Multifamily Property Disposition Reform - Amends the Housing and Community Development Amendments of 1978 to revise provisions regarding the management and disposition of Department of Housing and Urban Development (HUD) - held multifamily properties and mortgages. (Sec. 101) Authorizes the Secretary of HUD (Secretary) to dispose of a HUD project on a competitive or other basis to a purchaser determined by the Secretary to be capable of its management. Provides for the payment of project-based assistance under section 8 of the United States Housing Act of 1937 for subsidized or formerly subsidized projects receiving mortgage-related or rental assistance. Authorizes the Secretary to make alternative assistance available (such as use and rent restrictions or section 8 assistance only to very low-income persons) for certain unsubsidized projects under specified circumstances. Requires the Secretary, with respect to unsubsidized projects, to provide project-based or tenant-based rental programs prior to purchase. Authorizes the Secretary to enter into an annual contribution contract with a public housing agency to provide section 8 assistance on behalf of all low-income families in a purchased project if sufficient affordable housing is locally available. Authorizes alternative disposition assistance, including: (1) discounted sales price; (2) use and rent restrictions; (3) up-front grants; (4) tenant-based assistance; (5) rebuilding assistance; or (6) alternative uses and uses under other housing programs. Provides protections for unassisted very low-income tenants. Provides for 15-year rental assistance contracts, with shorter contracts permitted under specified conditions. Grants a right of first purchase refusal to local and State entities. Authorizes the sale of mortgages covering unsubsidized projects. Authorizes the Secretary to provide: (1) short-term loans to facilitate the sale of multifamily housing projects to nonprofit organizations or public agencies, subject to specified conditions; and (2) tenant-based assistance to very low-income families that do not otherwise qualify for project-based rental assistance. (Sec. 102) Amends the Housing and Community Development Act of 1987 to eliminate the State agency multifamily property disposition demonstration program. (Sec. 103) Amends the Housing and Community Development Act of 1992 with respect to the comprehensive needs assessment which owners of covered multifamily housing properties, including those for the elderly, must submit to the Secretary. Requires preparation of the assessment by an entity that has not identity of interest with the owner. Revises the schedule for submission of all such assessments by the end of FY 1997. Requires the Secretary to allow 30 days for completion or revision of incomplete or inadequate assessments. Authorizes the Secretary to allocate, non-competitively, operating assistance, capital improvement assistance, and loan management assistance on the basis of such assessments. Amends the Housing and Community Development Amendments of 1978 with respect to the flexible subsidy program to repeal mandatory: (1) utility cost considerations in rental approvals; and (2) minimum owner contributions to capital improvements, and related requirements. Revises the selection criteria for capital improvement assistance. Directs the Secretary, as soon as practicable, to implement a streamlined refinancing program to prevent the default of Federal Housing Administration (FHA)-insured mortgages covering multifamily housing projects. Requires the Comptroller General to report to specified congressional committees: (1) on the adequacy of loan loss reserves in the General Insurance and Special Risk Insurance Funds, presenting recommendations for the Secretary to prevent such losses; and (2) on the roles and performance of the nursing home, hospital, and retirement service center insurance programs as they relate to the General Insurance Fund. Amends the National Housing Act to require the Secretary to undertake annual reviews of the actuarial soundness of each of the insurance programs constituting the General and the Special Risk Insurance Funds. Authorizes the Secretary to permit the mortgagor of a multifamily housing project subject to an insured mortgage, in order to prevent its imminent default, to use the project for purposes not contemplated by or permitted under the regulatory agreement, if such uses meet certain criteria. Requires displaced tenant protection of alternate housing and rental assistance. (Sec. 104) Amends the Department of Housing and Urban Development Act to repeal the Secretary's: (1) mandate to reduce the interest rate on a mortgage held by the Secretary to a certain minimum rate if necessary to avoid foreclosure; and (2) authority to increase a reduced rate once the mortgagor's income or ability to pay interest has increased. (Sec. 105) Amends the National Housing Act to authorize appropriations for the General and the Special Risk Insurance Funds for FY 1994 and 1995. Title II: Other Program Reforms - Subtitle A: Home Investment Partnerships Program - Amends the Cranston-Gonzalez National Affordable Housing Act to make State agencies eligible to participate in the HOME investment partnerships program (program). (Sec. 203) Eliminates from the program the first-time homebuyer requirement. (Sec. 205) Eliminates from the program the separate (Comptroller General) audit requirement. (Sec. 207) Amends the Housing and Community Development Act of 1974 to permit the use of community development block grant (CDBG) funds for program expenses. (Sec. 208) Suspends program requirements (with exceptions) for certified disaster area use. Subtitle B: HOPE Homeownership Program - Reduces the HOPE single-family ownership program recipient matching requirement. Subtitle C: Community Development Block Grants - Amends the Housing and Community Development Act of 1974 to authorize the Secretary to make grants to enhance the security of guaranteed property acquisition loans or to improve project viability. Permits recaptured urban development action grant (UDAG) funds to be used for such grants. Amends the Housing and Community Development Act of 1974 to establish a UDAG retention program. (Sec. 233) Amends the Housing and Community Development Act to authorize the guarantee of section 108 loan-backed obligations. (Sec. 234) Suspends CDBE requirements (with exceptions) for certified disaster area use. Title III Technical Amendments - Amends the United States Housing Act of 1937 to state that adjustments to a public housing agency's operating subsidy shall reflect actual changes in rental income collections resulting from anticipated fraud recoveries. (Sec. 305) Revises environmental review provisions for the lead-based paint hazard reduction program under the Housing and Community Development Act of 1992 and for assisted housing programs under title I of the United States Housing Act of 1937. Amends the United States Housing Act of 1937 to authorize the Secretary, in lieu of the environmental protection procedures otherwise applicable, to provide for the release of funds for projects or activities, upon the request of a public housing agency, if the State or local government assumes all of the responsibilities for environmental review, decisionmaking, and action under the National Environmental Policy Act of 1969 and related law which would otherwise apply to the Secretary. (Sec. 306) Amends the National Housing Act to revise specified multifamily mortgage limits. (Sec. 307) Amends the Housing and Community Development Act of 1992 to revise the: (1) multifamily housing risk sharing program; and (2) housing finance agency pilot program. (Sec. 308) Authorizes subsidy layering review by a housing credit agency certification of appropriate assistance limits.
+
+	</summary>
+</bill>

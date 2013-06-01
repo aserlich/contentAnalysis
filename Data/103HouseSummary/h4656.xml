@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="4656" updated="2010-04-19T11:17:26-04:00">
+	<state datetime="1994-06-27">REFERRED</state>
+	<status><introduced datetime="1994-06-27"/></status>
+
+	<introduced datetime="1994-06-27"/>
+	<titles>
+		<title type="official" as="introduced">To make the provisions of title IV of the Trade Act of 1974 applicable to Cambodia.</title>
+	</titles>
+	<sponsor id="300085"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-27"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-07-01"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2103" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Cambodia"/>
+		<term name="East Asia"/>
+		<term name="Emigration"/>
+		<term name="Human rights"/>
+		<term name="International affairs"/>
+		<term name="Most favored nation principle"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/27/1994--Introduced.
+Declares that the human rights and emigration provisions of the Trade Act of 1974 shall apply to Cambodia for purposes of determining its eligibility to receive nondiscriminatory treatment (most-favored-nation) status.
+
+	</summary>
+</bill>

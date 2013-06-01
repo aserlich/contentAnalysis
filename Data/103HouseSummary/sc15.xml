@@ -1,0 +1,47 @@
+<bill session="103" type="sc" number="15" updated="2010-04-19T21:13:24-04:00">
+	<state datetime="1993-03-10">REFERRED</state>
+	<status><introduced datetime="1993-03-10"/></status>
+
+	<introduced datetime="1993-03-10"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress regarding the emphasis that the Defense Base Closure and Realignment Commission should place on the economic impact of the closure of military installations for closure during the 1993 base closure.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300053" joined="1993-03-10"/>
+		<cosponsor id="300011" joined="1993-03-10"/>
+		<cosponsor id="300052" joined="1993-03-31"/>
+		<cosponsor id="300034" joined="1993-03-10"/>
+		<cosponsor id="300017" joined="1993-03-10"/>
+		<cosponsor id="300067" joined="1993-03-10"/>
+		<cosponsor id="300157" joined="1993-03-10"/>
+		<cosponsor id="300064" joined="1993-03-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-10"><text>Sponsor introductory remarks on measure. (CR S2678)</text></action>
+		<action datetime="1993-03-10"><text>Referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hc" number="60" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Defense budgets"/>
+		<term name="Economic impact statements"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Government spending reductions"/>
+		<term name="Military bases"/>
+		<term name="Relocation of federal installations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/10/1993--Introduced.
+Calls for the Defense Base Closure and Realignment Commission, when making recommendations to the President during 1993 for the closure of military installations, to give greater emphasis to the economic impact of such closures on the affected communities.
+
+	</summary>
+</bill>

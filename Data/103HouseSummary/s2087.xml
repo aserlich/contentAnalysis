@@ -1,0 +1,63 @@
+<bill session="103" type="s" number="2087" updated="2012-07-17T04:36:39-04:00">
+	<state datetime="1994-05-26">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-05-26" /></status>
+
+	<introduced datetime="1994-05-06"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend the time period for compliance with the Nutrition Labeling and Education Act of 1990 for certain food products packaged prior to August 18, 1994.</title>
+		<title type="official" as="amended by senate">An Act to extend the time period for compliance with the Nutrition Labeling and Education Act of 1990 for certain food products packaged prior to August 8, 1994.</title>
+	</titles>
+	<sponsor id="402004"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="1994-05-17"/>
+		<cosponsor id="300012" joined="1994-05-17"/>
+		<cosponsor id="409923" joined="1994-05-17"/>
+		<cosponsor id="408939" joined="1994-05-17"/>
+		<cosponsor id="403171" joined="1994-05-17"/>
+		<cosponsor id="411818" joined="1994-05-17"/>
+		<cosponsor id="300154" joined="1994-05-17"/>
+		<cosponsor id="300010" joined="1994-05-17"/>
+		<cosponsor id="300008" joined="1994-05-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-06" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5370)</text></action>
+		<action datetime="1994-05-06" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<action datetime="1994-05-17"><text>Senate Committee on Labor and Human Resources discharged by Unanimous Consent.</text></action>
+		<action datetime="1994-05-17"><text>Measure laid before Senate by unanimous consent.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-05-17" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text><reference label="consideration" ref="CR S5852-5853"/></vote>
+		<action datetime="1994-05-18"><text>The title was amended by Unanimous Consent.</text></action>
+		<action datetime="1994-05-19T14:15:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-05-19"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-05-19T17:37:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H3735"/></action>
+		<action datetime="1994-05-19T17:37:00-04:00"><text>Mr. Waxman asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<vote how="without objection" type="vote2" datetime="1994-05-19T17:38:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-05-19T17:38:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-05-19" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-05-20" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-05-26" ><text>Signed by President.</text></signed>
+		<enacted number="103-261" type="public" datetime="1994-05-26"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-261.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Beverages"/>
+		<term name="Commerce"/>
+		<term name="Consumer education"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Labeling"/>
+		<term name="Milk"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1719"/>
+	</amendments>
+	<summary>
+	5/17/1994--Passed Senate amended. Extends (from May 8, 1994) to August 8, 1994, the effective date of certain nutrition labeling requirements of the Federal Food, Drug, and Cosmetic Act and the Nutrition Labeling and Education Act of 1990. Applies such extension to food products contained in a package for which the label was printed before May 8, 1994 (or before August 8, 1994, in the case of juice or milk food products if the person responsible for labeling exercised due diligence in obtaining labels which comply before such date), if, before June 15, 1994, the person introducing or delivering the food product for introduction into interstate commerce certifies to the Secretary of Health and Human Services that such requirements will be complied with after August 8, 1994.
+
+	</summary>
+</bill>

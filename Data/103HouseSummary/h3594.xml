@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="3594" updated="2010-04-19T08:31:01-04:00">
+	<state datetime="1993-11-20">REFERRED</state>
+	<status><introduced datetime="1993-11-20"/></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit direct Federal financial benefits and unemployment benefits to illegal aliens.</title>
+	</titles>
+	<sponsor id="409570"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1994-04-13"/>
+		<cosponsor id="406768" joined="1994-04-13"/>
+		<cosponsor id="400057" joined="1994-08-01"/>
+		<cosponsor id="400343" joined="1994-04-13"/>
+		<cosponsor id="400083" joined="1994-08-01"/>
+		<cosponsor id="401417" joined="1994-04-13"/>
+		<cosponsor id="400221" joined="1994-07-13"/>
+		<cosponsor id="400286" joined="1994-04-13"/>
+		<cosponsor id="300058" joined="1994-04-13"/>
+		<cosponsor id="411997" joined="1994-06-24"/>
+		<cosponsor id="400243" joined="1994-04-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-20"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-11-20"><committee name="House Committee on Judiciary"/><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-11-30"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1993-11-30"><committee name="House Committee on Ways and Means" subcommittee="International Law, Immigration, and Refugees"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+		<action datetime="1994-05-11"><committee name="House Committee on Judiciary" subcommittee="International Law, Immigration, and Refugees"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral, Hearings" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Alien labor"/>
+		<term name="Aliens"/>
+		<term name="Federal aid programs"/>
+		<term name="Government paperwork"/>
+		<term name="Illegal aliens"/>
+		<term name="Labor"/>
+		<term name="Public assistance programs"/>
+		<term name="Social security"/>
+		<term name="Unemployment insurance"/>
+		<term name="Welfare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+Prohibits the payment of: (1) direct Federal financial or social insurance benefits to illegal aliens; or (2) unemployment benefits to aliens without employment authorization. Requires the head of each Federal agency which provides such benefits to: (1) use immigration status verification systems; and (2) notify the Immigration and Naturalization Service regarding applications for such benefits by illegal aliens.
+
+	</summary>
+</bill>

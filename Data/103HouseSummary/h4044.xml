@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="4044" updated="2010-04-19T09:41:20-04:00">
+	<state datetime="1994-03-16">REFERRED</state>
+	<status><introduced datetime="1994-03-16"/></status>
+
+	<introduced datetime="1994-03-16"/>
+	<titles>
+		<title type="official" as="introduced">To require the Secretary of Agriculture to issue regulations for the purchase and eradication of swine infected with or exposed to brucellosis.</title>
+	</titles>
+	<sponsor id="406554"/>
+	<cosponsors>
+		<cosponsor id="400532" joined="1994-03-16"/>
+		<cosponsor id="409400" joined="1994-03-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-16"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-03-18"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Livestock.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="HSAG-03" name="House Agriculture" subcommittee="Livestock" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1901" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Administrative procedure"/>
+		<term name="Animal diseases"/>
+		<term name="Animals"/>
+		<term name="Department of Agriculture"/>
+		<term name="Executive departments"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Swine"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/16/1994--Introduced.
+Requires the Secretary of Agriculture to issue regulations authorizing the purchase and eradication of swine injected with brucellosis.
+
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="2713" updated="2010-04-19T06:14:24-04:00">
+	<state datetime="1993-07-22">REFERRED</state>
+	<status><introduced datetime="1993-07-22"/></status>
+
+	<introduced datetime="1993-07-22"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to provide that former prisoners of war are eligible for reimbursement for emergency medical expenses on the same basis as veterans with total permanent service-connected disabilities.</title>
+	</titles>
+	<sponsor id="409442"/>
+	<cosponsors>
+		<cosponsor id="400030" joined="1993-08-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-22"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-07-23"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Hospitals and Health Care.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="HSVR-03" name="House Veterans' Affairs" subcommittee="Hospitals and Health Care" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Emergency medical services"/>
+		<term name="Ex-prisoners of war"/>
+		<term name="Medical care"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/22/1993--Introduced.
+Amends Federal veterans' benefits provisions to provide former prisoners of war reimbursement for emergency medical expenses on the same basis as such reimbursement is provided to veterans with total permanent service-connected disabilities.
+
+	</summary>
+</bill>

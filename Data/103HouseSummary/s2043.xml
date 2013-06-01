@@ -1,0 +1,38 @@
+<bill session="103" type="s" number="2043" updated="2012-07-17T04:18:21-04:00">
+	<state datetime="1994-08-11">REPORTED</state>
+	<status><calendar datetime="1994-08-11" /></status>
+
+	<introduced datetime="1994-04-25"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize the Secretary of Transportation to issue a certificate of documentation and coastwise trade endorsement for the vessel BAGGER.</title>
+	</titles>
+	<sponsor id="300056"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-25" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4782)</text></action>
+		<action datetime="1994-04-25" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<calendar datetime="1994-08-11"  state="REPORTED"><committee name="Committee on Commerce"/><text>Committee on Commerce. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-08-19"><text>Committee on Commerce. Reported to Senate by Senator Hollings without amendment. With written report No. 103-342.</text></action>
+		<calendar under="General Orders" number="584" datetime="1994-08-19" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 584.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Ships"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/25/1994--Introduced.
+Authorizes the Secretary of Transportation to issue a certificate of documentation and coastwise trade endorsement for a named vessel.
+
+	</summary>
+</bill>

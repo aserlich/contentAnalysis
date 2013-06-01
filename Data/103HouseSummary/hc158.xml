@@ -1,0 +1,40 @@
+<bill session="103" type="hc" number="158" updated="2010-04-18T21:25:33-04:00">
+	<state datetime="1993-10-14">REPORTED</state>
+	<status><calendar datetime="1993-10-14" /></status>
+
+	<introduced datetime="1993-10-05"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the International Rescue Committee, on the occasion of the 60th anniversary of the founding, for its great humanitarian endeavors.</title>
+	</titles>
+	<sponsor id="400231"/>
+	<cosponsors>
+		<cosponsor id="400536" joined="1993-10-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-05"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-10-14"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-14"  state="REPORTED"><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="sc" number="47" />
+	</relatedbills>
+	<subjects>
+		<term name="Congressional tributes"/>
+		<term name="Anniversaries"/>
+		<term name="Charities"/>
+		<term name="Commemorations"/>
+		<term name="International relief"/>
+		<term name="Refugees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/5/1993--Introduced.
+Recognizes the International Rescue Committee for its humanitarian endeavors on its 60th anniversary.
+
+	</summary>
+</bill>

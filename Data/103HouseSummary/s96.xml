@@ -1,0 +1,36 @@
+<bill session="103" type="s" number="96" updated="2012-07-17T04:03:20-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to clarify the employment status of certain fishermen.</title>
+	</titles>
+	<sponsor id="300059"/>
+	<cosponsors>
+		<cosponsor id="300060" joined="1993-01-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="528" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Fishing boats"/>
+		<term name="Self-employed"/>
+		<term name="Social security taxes"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Amends the Internal Revenue Code and title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to revise the employment tax treatment of certain crew members on fishing vessels with a crew of ten or fewer individuals.
+
+	</summary>
+</bill>

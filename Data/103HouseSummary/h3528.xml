@@ -1,0 +1,36 @@
+<bill session="103" type="h" number="3528" updated="2010-04-19T08:20:48-04:00">
+	<state datetime="1993-11-17">REFERRED</state>
+	<status><introduced datetime="1993-11-17"/></status>
+
+	<introduced datetime="1993-11-17"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Rauof A. Khalil.</title>
+	</titles>
+	<sponsor id="401547"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-17"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-12-08"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Immigration"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/17/1993--Introduced.
+Waives the two-year foreign residence requirement for a named individual and deems him eligible to apply for any benefit under the Immigration and Nationality Act for which he qualifies.
+
+	</summary>
+</bill>

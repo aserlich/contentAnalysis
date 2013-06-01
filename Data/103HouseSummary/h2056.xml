@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="2056" updated="2012-07-17T04:14:31-04:00">
+	<state datetime="1994-10-25">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-25" /></status>
+
+	<introduced datetime="1993-05-11"/>
+	<titles>
+		<title type="official" as="introduced">To designate the Federal building located at 600 Princess Anne Street in Fredericksburg, Virginia as the &quot;Samuel E. Perry Postal Building&quot;.</title>
+	</titles>
+	<sponsor id="400569"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-11" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E1203-1204)</text></action>
+		<action datetime="1993-05-11" state="REFERRED"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-08-04"><committee name="House Committee on Post Office and Civil Service"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-08-04"  state="REPORTED"><committee name="House Committee on Post Office and Civil Service"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-09-21T15:12:00-04:00"><text>Miss Collins (MI) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-09-21T15:12:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6806-6807"/></action>
+		<action datetime="1993-09-21T15:12:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-09-21T15:15:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Burton objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1993-09-21T17:55:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6829-6830"/></action>
+		<action datetime="1993-09-21T18:02:00-04:00"><text>On motion to suspend the rules and pass the bill, as Agreed to by recorded vote (2/3 required): 423 - 2 (Roll no. 441).</text></action>
+		<action datetime="1993-09-21T18:05:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-09-21T18:05:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-09-22"><text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<action datetime="1994-10-08"><text>Senate Committee on Governmental Affairs discharged by Unanimous Consent. (consideration: 10/7/94 CR S14801)</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-08" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text></vote>
+		<topresident datetime="1994-10-08" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-12"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-18" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-25" ><text>Signed by President.</text></signed>
+		<enacted number="103-410" type="public" datetime="1994-10-25"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-410.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Commemorations"/>
+		<term name="Names"/>
+		<term name="Postal facilities"/>
+		<term name="Virginia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/21/1993--Passed House amended. Designates the Post Office building located at 600 Princess Anne Street, Fredericksburg, Virginia, as the Samuel E. Perry Post Office Building.
+
+	</summary>
+</bill>

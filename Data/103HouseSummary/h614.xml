@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="614" updated="2010-04-19T00:38:07-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to clarify the treatment of certain amounts received by a cooperative telephone company indirectly from its members.</title>
+	</titles>
+	<sponsor id="406466"/>
+	<cosponsors>
+		<cosponsor id="404723" joined="1993-01-26"/>
+		<cosponsor id="409205" joined="1993-01-26"/>
+		<cosponsor id="406920" joined="1993-01-26"/>
+		<cosponsor id="409966" joined="1993-01-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-03"><committee name="House Committee on Ways and Means"/><text>For Further Action See H.R.778.</text></action>
+		<action datetime="1993-02-04"><text>Sponsor introductory remarks on measure. (CR E304)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="778" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Consumer cooperatives"/>
+		<term name="Tax-exempt organizations"/>
+		<term name="Telephone"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Amends the Internal Revenue Code with respect to the tax-exempt status of a cooperative telephone company to provide for the tax treatment of income received from a nonmember telephone company for services by the cooperative which are indirectly paid for by members of the cooperative. Includes billing and collection services for a nonmember telephone company under such treatment.
+
+	</summary>
+</bill>

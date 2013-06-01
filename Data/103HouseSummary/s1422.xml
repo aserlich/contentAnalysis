@@ -1,0 +1,55 @@
+<bill session="103" type="s" number="1422" updated="2012-07-17T05:35:14-04:00">
+	<state datetime="1994-09-30">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-09-30" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">A bill to confer jurisdiction on the United States Claims Court with respect to land claims of Pueblo of Isleta Indian Tribe.</title>
+		<title type="official" as="amended by senate">An act to confer jurisdiction on the United States Court of Federal Claims with respect to land claims of Pueblo of Isleta Indian Tribe.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+		<cosponsor id="300036" joined="1993-08-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S10900-10901)</text></action>
+		<action datetime="1993-08-06" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-08-16"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+		<action datetime="1994-09-22"><committee name="Committee on Judiciary"/><text>Subcommittee on Courts and Administrative Practice. Approved for full committee consideration with an amendment in the nature of a substitute favorably.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="Committee on Judiciary"/><text>Committee on Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-09-28"><text>Committee on Judiciary. Reported to Senate by Senator Biden with an amendment in the nature of a substitute and an amendment to the title. Without written report.</text></action>
+		<calendar under="General Orders" number="680" datetime="1994-09-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 680.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-09-30" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text><reference label="consideration" ref="CR S13833-13834"/></vote>
+		<action datetime="1994-10-03"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-03T12:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-10-03T16:30:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-10-07"><text>Referred to the House Committee on Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral, Markup, Reporting" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2489" />
+	</relatedbills>
+	<subjects>
+		<term name="Law"/>
+		<term name="Actions and defenses"/>
+		<term name="Compensation (Law)"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Indian claims"/>
+		<term name="Indian lands"/>
+		<term name="Interest"/>
+		<term name="Jurisdiction"/>
+		<term name="Minorities"/>
+		<term name="New Mexico"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/1994--Passed Senate amended. Confers jurisdiction upon the United States Court of Federal Claims with respect to certain land claims of the Pueblo of Isleta Indian Tribe of New Mexico. States that any award to another tribe with regard to such land claims shall not be a defense to any Pueblo of Isleta claim or award.
+
+	</summary>
+</bill>

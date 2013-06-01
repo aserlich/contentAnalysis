@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="1511" updated="2010-04-19T03:07:09-04:00">
+	<state datetime="1993-03-29">REFERRED</state>
+	<status><introduced datetime="1993-03-29"/></status>
+
+	<introduced datetime="1993-03-29"/>
+	<titles>
+		<title type="short" as="introduced">Agricultural Commodity Export Expansion Act of 1993</title>
+		<title type="official" as="introduced">To amend the Agriculture Trade Act of 1978 to promote and expand the export of agricultural commodities and products to foreign countries, and for other purposes.</title>
+	</titles>
+	<sponsor id="300083"/>
+	<cosponsors>
+		<cosponsor id="400023" joined="1993-03-29"/>
+		<cosponsor id="300003" joined="1993-03-29"/>
+		<cosponsor id="410084" joined="1993-03-29"/>
+		<cosponsor id="400568" joined="1993-03-29"/>
+		<cosponsor id="403864" joined="1993-03-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-29"><text>Referred jointly to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-03-29"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-03-31"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Foreign Agriculture and Hunger.</text></action>
+		<action datetime="1993-03-31"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Requested from USDA.</text></action>
+		<action datetime="1993-06-22"><text>Sponsor introductory remarks on measure. (CR H3865)</text></action>
+		<action datetime="1993-07-01T16:43:00-04:00"><text>Mr. Berman asked unanimous consent that the Committee on Foreign Affairs be discharged from further consideration of the bill and the bill be rereferred to the Committee on Agriculture. Agreed to without objection.</text></action>
+		<action datetime="1993-07-01T17:23:00-04:00"><text>Committee on Agriculture discharged.</text></action>
+		<action datetime="1993-07-01T17:23:00-04:00"><text>Committee on Foreign Affairs discharged.</text></action>
+		<action datetime="1993-07-01"><text>Rereferred to the House Committee on Agriculture.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, Re-referral, Discharged" />
+		<committee code="" name="House Agriculture" subcommittee="Foreign Agriculture and Hunger" activity="Referral" />
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural economics"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Export credit"/>
+		<term name="Foreign trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/29/1993--Introduced.
+Agricultural Commodity Export Expansion Act of 1993 - Amends the Agricultural Trade Act of 1978 to revise restrictions for the agricultural export direct credit and credit guarantee programs.
+
+	</summary>
+</bill>

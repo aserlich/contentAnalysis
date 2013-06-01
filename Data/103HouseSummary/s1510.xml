@@ -1,0 +1,44 @@
+<bill session="103" type="s" number="1510" updated="2012-07-17T04:10:24-04:00">
+	<state datetime="1993-11-03">REPORTED</state>
+	<status><calendar datetime="1993-11-03" /></status>
+
+	<introduced datetime="1993-09-30"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title 38, United States Code, to increase the amount of the loan guaranty for loans for the purchase or construction of homes.</title>
+	</titles>
+	<sponsor id="300084"/>
+	<cosponsors>
+		<cosponsor id="300001" joined="1993-09-30"/>
+		<cosponsor id="300064" joined="1993-11-19"/>
+		<cosponsor id="300017" joined="1993-09-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-30" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S12862)</text></action>
+		<action datetime="1993-09-30" state="REFERRED"><text>Read twice and referred to the Committee on Veterans.</text></action>
+		<calendar datetime="1993-11-03"  state="REPORTED"><committee name="Committee on Veterans"/><text>Committee on Veterans. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-11-04"><text>Committee on Veterans. Reported to Senate by Senator Rockefeller without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="261" datetime="1993-11-04" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 261.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="949" />
+		<bill relation="unknown" session="103" type="h" number="949" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Housing and community development"/>
+		<term name="Mortgage loans"/>
+		<term name="Veterans' loans"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/1993--Introduced.
+Increases from $46,000 to $50,750 the amount of the loan guaranty by the Department of Veterans Affairs for loans to qualifying veterans for the purchase or construction of homes.
+
+	</summary>
+</bill>

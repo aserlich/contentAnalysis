@@ -1,0 +1,52 @@
+<bill session="103" type="s" number="141" updated="2012-07-17T05:05:16-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to waive certain limitations on assistance for losses resulting from Hurricane Andrew, Typhoon Omar, or Hurricane Iniki, and for other purposes.</title>
+	</titles>
+	<sponsor id="300056"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-03-15"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Agricultural Production.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Agricultural Production and Stabilization of Prices" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="988" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural price supports"/>
+		<term name="Disaster loans"/>
+		<term name="Disaster relief"/>
+		<term name="Federal aid to housing"/>
+		<term name="Federal budgets"/>
+		<term name="Florida"/>
+		<term name="Government lending"/>
+		<term name="Guam"/>
+		<term name="Hawaii"/>
+		<term name="Housing and community development"/>
+		<term name="Hurricanes"/>
+		<term name="Louisiana"/>
+		<term name="Low-income housing"/>
+		<term name="Off-budget expenditures"/>
+		<term name="Rural housing"/>
+		<term name="Storms"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Waives specified limitations on assistance for losses incurred during the 1992 and subsequent crop years resulting from Hurricanes Andrew and Iniki or Typhoon Omar. Makes rural housing assistance applicable to low-income families and hazard mitigation applicable to Hawaii as a result of losses from such events.
+
+	</summary>
+</bill>

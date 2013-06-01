@@ -1,0 +1,58 @@
+<bill session="103" type="s" number="2215" updated="2012-07-17T04:50:55-04:00">
+	<state datetime="1994-06-20">REFERRED</state>
+	<status><introduced datetime="1994-06-20"/></status>
+
+	<introduced datetime="1994-06-20"/>
+	<titles>
+		<title type="short" as="introduced">Biomaterials Access Assurance Act of 1994</title>
+		<title type="official" as="introduced">A bill to establish rules governing product liability actions against raw materials and bulk component suppliers to medical device manufacturers, and for other purposes.</title>
+	</titles>
+	<sponsor id="300067"/>
+	<cosponsors>
+		<cosponsor id="300048" joined="1994-07-29"/>
+		<cosponsor id="403669" joined="1994-06-20"/>
+		<cosponsor id="300071" joined="1994-06-21"/>
+		<cosponsor id="300070" joined="1994-08-01"/>
+		<cosponsor id="402675" joined="1994-09-19"/>
+		<cosponsor id="401709" joined="1994-07-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-20" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S7153-7154)</text></action>
+		<action datetime="1994-06-20" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="5092" />
+	</relatedbills>
+	<subjects>
+		<term name="Commerce"/>
+		<term name="Actions and defenses"/>
+		<term name="Administrative procedure"/>
+		<term name="Artificial implants"/>
+		<term name="Biomedical engineering"/>
+		<term name="Biomedical materials"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Evidence (Law)"/>
+		<term name="Federal preemption"/>
+		<term name="Government operations and politics"/>
+		<term name="Health"/>
+		<term name="Law"/>
+		<term name="Manufacturing industries"/>
+		<term name="Materials"/>
+		<term name="Medical supplies"/>
+		<term name="Products liability"/>
+		<term name="Raw materials"/>
+		<term name="Science, technology, communications"/>
+		<term name="State laws"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/20/1994--Introduced.
+Biomaterials Access Assurance Act of 1994 - Declares that this Act applies to any civil action brought in either State or Federal court against a manufacturer, seller, or biomaterials supplier, or against a licensor of such suppliers for harm caused by an implant. Prescribes procedural guidelines and the burden of proof for actions against biomaterials suppliers for harm caused by an implant. Precludes such actions, except as provided under this Act, against a person who has neither registered with the Secretary of Health and Human Services nor included the implant on a list of devices filed pursuant to the Federal Food, Drug, and Cosmetic Act.
+
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="1115" updated="2010-04-19T02:02:08-04:00">
+	<state datetime="1993-02-24">REFERRED</state>
+	<status><introduced datetime="1993-02-24"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="official" as="introduced">To extend with respect to certain disasters the maximum period for which individuals are eligible for unemployment assistance under The Robert T. Stafford Disaster Relief and Emergency Assistance Act from 26 weeks to 52 weeks.</title>
+	</titles>
+	<sponsor id="400554"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="1993-02-24"/>
+		<cosponsor id="400106" joined="1993-02-24"/>
+		<cosponsor id="400511" joined="1993-02-24"/>
+		<cosponsor id="400001" joined="1993-02-24"/>
+		<cosponsor id="400107" joined="1993-02-24"/>
+		<cosponsor id="400201" joined="1993-02-24"/>
+		<cosponsor id="400516" joined="1993-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-03-08"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Unemployment insurance"/>
+		<term name="Disaster relief"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Doubles the maximum period (from 26 weeks to 52 weeks) for which individuals are eligible for unemployment assistance under the Robert T. Stafford Disaster Relief and Emergency Assistance Act, if they are unemployed as a result of a major disaster occurring after July 31, 1992, and on or before the enactment of this Act.
+
+	</summary>
+</bill>

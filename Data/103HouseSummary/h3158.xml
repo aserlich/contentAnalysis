@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="3158" updated="2010-04-19T07:23:28-04:00">
+	<state datetime="1993-09-28">REFERRED</state>
+	<status><introduced datetime="1993-09-28"/></status>
+
+	<introduced datetime="1993-09-28"/>
+	<titles>
+		<title type="short" as="introduced">Defense Competitiveness Act of 1993</title>
+		<title type="official" as="introduced">To amend the Export-Import Bank Act of 1945 to authorize the Bank to finance the export of certain defense articles and services to certain countries for a limited period, and to provide funds for the exercise of such authority by amending the Foreign Assistance Act of 1961 to repeal the international military education and training program.</title>
+	</titles>
+	<sponsor id="402152"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-11-08"/>
+		<cosponsor id="400143" joined="1993-11-08"/>
+		<cosponsor id="400178" joined="1993-11-17"/>
+		<cosponsor id="400211" joined="1993-10-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-28"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-09-28"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-10-12"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Economic Policy, Trade and Environment.</text></action>
+		<action datetime="1993-10-12"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Security, International Organizations and Human Rights.</text></action>
+		<action datetime="1993-10-18"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on International Development, Finance, Trade and Monetary Policy.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="International Development, Finance, Trade and Monetary Policy" activity="Referral" />
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Economic Policy, Trade, and Environment" activity="Referral" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Security, International Organizations, and Human Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="American military assistance"/>
+		<term name="Arms sales"/>
+		<term name="Australia"/>
+		<term name="Export finance"/>
+		<term name="Export-Import Bank of the United States"/>
+		<term name="Japan"/>
+		<term name="Military education"/>
+		<term name="Military training"/>
+		<term name="NATO countries"/>
+		<term name="New Zealand"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/28/1993--Introduced.
+Defense Competitiveness Act of 1993 - Amends the Export-Import Bank Act of 1945 to permit the Export-Import Bank, for a five-year period, to finance the sale of defense articles or services to a qualified country if a U.S. company and a foreign entity are competing for the sale. (Currently, the Bank is prohibited from financing such sales.) Defines a &quot;qualified country&quot; as Japan, any member of NATO (other than the United States), and any party to the security treaty (ANZUS Pact) between Australia, New Zealand, and the United States (other than the United States). Limits the amount of financing provided in any fiscal year. Repeals provisions of the Foreign Assistance Act of 1961 concerning the international military education and training program.
+
+	</summary>
+</bill>

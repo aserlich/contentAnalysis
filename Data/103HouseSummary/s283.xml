@@ -1,0 +1,41 @@
+<bill session="103" type="s" number="283" updated="2012-07-17T04:45:15-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend the period during which chapter 12 of title 11 of the United States Code remains in effect and for other purposes.</title>
+	</titles>
+	<sponsor id="300048"/>
+	<cosponsors>
+		<cosponsor id="300026" joined="1993-02-03"/>
+		<cosponsor id="405310" joined="1993-02-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1151-1152)</text></action>
+		<action datetime="1993-02-03" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-03-05"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="416" />
+	</relatedbills>
+	<subjects>
+		<term name="Bankruptcy"/>
+		<term name="Agricultural economics"/>
+		<term name="Debtor and creditor"/>
+		<term name="Family farms"/>
+		<term name="Farmers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Amends the Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986 to: (1) postpone from October 1, 1993, to October 1, 1998, repeal of provisions concerning the debt adjustment of a family farmer with regular annual income; and (2) modify the guidelines for court-authorized extension of the filing period for bankruptcy plans by a family farmer.
+
+	</summary>
+</bill>

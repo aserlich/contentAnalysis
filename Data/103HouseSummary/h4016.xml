@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="4016" updated="2010-04-19T09:36:54-04:00">
+	<state datetime="1994-03-11">REFERRED</state>
+	<status><introduced datetime="1994-03-11"/></status>
+
+	<introduced datetime="1994-03-11"/>
+	<titles>
+		<title type="official" as="introduced">To suspend temporarily the duty on octadecyl isocyanate.</title>
+	</titles>
+	<sponsor id="400085"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-11"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-03-15"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1994-04-05"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1994-08-05"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Ways and Means"/><text>For Further Action See H.R.5110.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5110" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Chemicals"/>
+		<term name="Tariff"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/1994--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1998, the duty on octadecyl isocyanate.
+
+	</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="103" type="s" number="1135" updated="2012-07-17T06:32:48-04:00">
+	<state datetime="1993-06-22">REFERRED</state>
+	<status><introduced datetime="1993-06-22"/></status>
+
+	<introduced datetime="1993-06-22"/>
+	<titles>
+		<title type="short" as="introduced">Food Stamp Quality Control System Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend the Food Stamp Act of 1977 to improve quality control, and for other purposes.</title>
+	</titles>
+	<sponsor id="300031"/>
+	<cosponsors>
+		<cosponsor id="400561" joined="1993-06-22"/>
+		<cosponsor id="405310" joined="1993-06-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-22" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S7611)</text></action>
+		<action datetime="1993-06-22" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-07-01"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Nutrition and Investigations.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Nutrition and Investigations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cost control"/>
+		<term name="Food stamps"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Public assistance programs"/>
+		<term name="Quality control"/>
+		<term name="Statistics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/22/1993--Introduced.
+Food Stamp Quality Control System Act of 1993 - Amends the Food Stamp Act of 1977 to revise the formula (and related provisions) for determining a State's liability for excessive food stamp payment errors. Directs the Secretary of Agriculture and the State food stamp agencies to conduct a joint study and report to the appropriate congressional committees on measurement error and uniformity in the food stamp program quality control error-rate estimation system.
+
+	</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="1307" updated="2010-04-19T02:34:32-04:00">
+	<state datetime="1993-03-11">REFERRED</state>
+	<status><introduced datetime="1993-03-11"/></status>
+
+	<introduced datetime="1993-03-11"/>
+	<titles>
+		<title type="short" as="introduced">Haitian Refugee Protection Act of 1993</title>
+		<title type="official" as="introduced">To prohibit the involuntary return to Haiti of Haitian refugees outside the United States.</title>
+	</titles>
+	<sponsor id="400536"/>
+	<cosponsors>
+		<cosponsor id="400333" joined="1993-03-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-11"><text>Sponsor introductory remarks on measure. (CR H1176)</text></action>
+		<action datetime="1993-03-11"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-03-11"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-03-15"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1993-03-19"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Operations.</text></action>
+		<action datetime="1993-03-19"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Western Hemisphere Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Operations" activity="Referral" />
+		<committee code="HSFA-07" name="House Foreign Affairs" subcommittee="Western Hemisphere Affairs" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Crime and criminals"/>
+		<term name="Haiti"/>
+		<term name="Haitians"/>
+		<term name="Human rights"/>
+		<term name="International affairs"/>
+		<term name="Latin America"/>
+		<term name="Political persecution"/>
+		<term name="Refugees"/>
+		<term name="Repatriation"/>
+		<term name="Territorial waters"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/1993--Introduced.
+Haitian Refugee Protection Act of 1993 - Prohibits the U.S. Government from returning or causing to be returned to Haiti any Haitian national outside U.S. territorial waters or inside Haitian territorial waters, unless the Government has first determined the individual would not be a refugee under U.S. law. Exempts from such provisions any individual who participated in persecutions or who has been convicted of an aggravated felony and constitutes a danger to the U.S. community.
+
+	</summary>
+</bill>

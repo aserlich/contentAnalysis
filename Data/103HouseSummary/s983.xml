@@ -1,0 +1,75 @@
+<bill session="103" type="s" number="983" updated="2012-07-17T05:55:25-04:00">
+	<state datetime="1993-11-17">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-11-17" /></status>
+
+	<introduced datetime="1993-05-19"/>
+	<titles>
+		<title type="short" as="introduced">El Camino Real Para Los Texas Study Act of 1993</title>
+		<title type="short" as="enacted">El Camino Real Para Los Texas Study Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend the National Trails System Act to direct the Secretary of the Interior to study the El Camino Real Para Los Texas for potential addition to the National Trails System, and for other purposes.</title>
+	</titles>
+	<sponsor id="406084"/>
+	<cosponsors>
+		<cosponsor id="406487" joined="1993-05-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-19" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6121-6122)</text></action>
+		<action datetime="1993-05-19" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-05-20"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1993-06-16"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings concluded. Hearings printed: S.Hrg. 103-221.</text></action>
+		<action datetime="1993-06-16"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held.</text></action>
+		<calendar datetime="1993-06-30"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-07-16"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 103-95.</text></action>
+		<calendar under="General Orders" number="140" datetime="1993-07-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 140.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-07-21" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S9182"/></vote>
+		<action datetime="1993-07-22T10:23:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-07-22"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-07-22"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-09-16"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1993-10-07"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-10-14"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-10-14"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-10-20"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-20" ><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-11-04T17:14:00-05:00"><text>Reported by the Committee on Natural Resources. H. Rept. 103-327.</text></action>
+		<calendar number="179" datetime="1993-11-04T17:14:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 179.</text></calendar>
+		<action datetime="1993-11-08T13:08:00-05:00"><text>Mr. Vento moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-11-08T13:08:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8897-8898"/></action>
+		<action datetime="1993-11-08T13:08:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote2" datetime="1993-11-08T13:11:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-08T13:11:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-11-08" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-11-10" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-11-17" ><text>Signed by President.</text></signed>
+		<enacted number="103-145" type="public" datetime="1993-11-17"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-145.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2160" />
+		<bill relation="unknown" session="103" type="h" number="2160" />
+	</relatedbills>
+	<subjects>
+		<term name="Recreation"/>
+		<term name="American technical assistance"/>
+		<term name="Historic sites"/>
+		<term name="Louisiana"/>
+		<term name="Mexico"/>
+		<term name="New Mexico"/>
+		<term name="Texas"/>
+		<term name="Trails"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/19/1993--Introduced.
+El Camino Real Para Los Texas Study Act of 1993 - Amends the National Trails System Act to direct the Secretary of the Interior to study the El Camino Real Para Los Texas for designation as a national scenic trail. Authorizes the Secretary of the Interior to work in cooperation with the Mexican government (including, but not limited to providing technical assistance) to determine the feasibility of establishing an international historic trail along the El Camino Real Para Los Texas. Authorizes appropriations.
+
+	</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="3779" updated="2010-04-19T08:59:48-04:00">
+	<state datetime="1994-02-02">REFERRED</state>
+	<status><introduced datetime="1994-02-02"/></status>
+
+	<introduced datetime="1994-02-02"/>
+	<titles>
+		<title type="short" as="introduced">End Purchase of House Calendars Act</title>
+		<title type="official" as="introduced">To end the purchase of House Calendars, and for other purposes.</title>
+	</titles>
+	<sponsor id="400649"/>
+	<cosponsors>
+		<cosponsor id="402890" joined="1994-07-27"/>
+		<cosponsor id="400574" joined="1994-08-01"/>
+		<cosponsor id="400083" joined="1994-08-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-02"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1994-02-11"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Appropriations"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Congressional mail"/>
+		<term name="Congressional publications"/>
+		<term name="Government information"/>
+		<term name="Government procurement"/>
+		<term name="Government spending reductions"/>
+		<term name="Legislative calendars"/>
+		<term name="Public contracts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1994--Introduced.
+End Purchase of House Calendars Act - Prohibits funds from being appropriated for the purchase or mailing of House calendars from the Capitol Historical Society or any other source or from being used in administering or distributing calendars for FY 1995 and any future fiscal year.
+
+	</summary>
+</bill>

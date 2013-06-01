@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="1046" updated="2010-04-19T01:50:57-04:00">
+	<state datetime="1993-02-23">REFERRED</state>
+	<status><introduced datetime="1993-02-23"/></status>
+
+	<introduced datetime="1993-02-23"/>
+	<titles>
+		<title type="official" as="introduced">To provide a private cause of action for the recovery of damages for economic loss caused by the dumping of foreign merchandise into United States markets, and for other purposes.</title>
+	</titles>
+	<sponsor id="402152"/>
+	<cosponsors>
+		<cosponsor id="400527" joined="1993-10-13"/>
+		<cosponsor id="400143" joined="1993-10-06"/>
+		<cosponsor id="411725" joined="1993-10-13"/>
+		<cosponsor id="400416" joined="1993-11-08"/>
+		<cosponsor id="400615" joined="1993-11-08"/>
+		<cosponsor id="400357" joined="1993-10-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-02-25"><text>Sponsor introductory remarks on measure. (CR H882)</text></action>
+		<action datetime="1993-07-14"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Actions and defenses"/>
+		<term name="Business losses"/>
+		<term name="Damages"/>
+		<term name="Dumping"/>
+		<term name="Economic impact statements"/>
+		<term name="Evidence (Law)"/>
+		<term name="Import relief"/>
+		<term name="Jurisdiction"/>
+		<term name="Legal fees"/>
+		<term name="Limitation of actions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1993--Introduced.
+Amends the Tariff Act of 1930 to create a private cause of action for economic loss to an eligible party by reason of the importation and sale of dumped merchandise (i.e., goods sold at less than foreign market value) against any manufacturer, exporter, or, if the importer is an affiliate or subsidiary of such manufacturer or exporter, importer of such merchandise. Sets forth provisions with respect to jurisdiction over foreign persons, service of process, presumptions of loss, and limitations on awards. Directs the court, in evaluating the economic loss sustained by the eligible party, to consider certain information submitted, including potential lost sales, worker layoffs, plant closures, and financial losses. Allows the court to consider an econometric analysis or other scientific study estimating the actual effects of the dumped merchandise on the eligible party. Specifies that the eligible party, upon a finding of liability on the part of the defendant, is entitled to recover actual damages for economic loss and costs, including reasonable attorney's fees. Sets forth further provisions with respect to the calculation of damages and the time allowed for bringing an action under this Act.
+
+	</summary>
+</bill>

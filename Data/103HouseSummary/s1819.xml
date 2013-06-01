@@ -1,0 +1,58 @@
+<bill session="103" type="s" number="1819" updated="2012-07-17T05:53:54-04:00">
+	<state datetime="1994-02-02">REFERRED</state>
+	<status><introduced datetime="1994-02-02"/></status>
+
+	<introduced datetime="1994-02-02"/>
+	<titles>
+		<title type="official" as="introduced">A bill to prohibit any Federal department or agency from requiring any State, or political subdivision thereof, to convert highway signs to metric units.</title>
+	</titles>
+	<sponsor id="406188"/>
+	<cosponsors>
+		<cosponsor id="300150" joined="1994-02-28"/>
+		<cosponsor id="300015" joined="1994-02-22"/>
+		<cosponsor id="300049" joined="1994-02-22"/>
+		<cosponsor id="300061" joined="1994-03-10"/>
+		<cosponsor id="403515" joined="1994-02-02"/>
+		<cosponsor id="406256" joined="1994-02-22"/>
+		<cosponsor id="408898" joined="1994-06-08"/>
+		<cosponsor id="300036" joined="1994-02-22"/>
+		<cosponsor id="411271" joined="1994-02-22"/>
+		<cosponsor id="300023" joined="1994-02-24"/>
+		<cosponsor id="403171" joined="1994-05-12"/>
+		<cosponsor id="300154" joined="1994-03-10"/>
+		<cosponsor id="300048" joined="1994-02-24"/>
+		<cosponsor id="300054" joined="1994-04-13"/>
+		<cosponsor id="405310" joined="1994-02-28"/>
+		<cosponsor id="300155" joined="1994-02-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-02" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S664)</text></action>
+		<action datetime="1994-02-02" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3766" />
+		<bill relation="unknown" session="103" type="h" number="3766" />
+		<bill relation="unknown" session="103" type="h" number="3781" />
+	</relatedbills>
+	<subjects>
+		<term name="Roads and highways"/>
+		<term name="Federal aid highway program"/>
+		<term name="Government operations and politics"/>
+		<term name="Interstate highway system"/>
+		<term name="Metric system"/>
+		<term name="Science, technology, communications"/>
+		<term name="Signs and signboards"/>
+		<term name="Transportation and public works"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1994--Introduced.
+Prohibits the Department of Transportation or any other Federal department, agency, or instrumentality from requiring any State or political subdivision thereof to convert highway signs to metric units.
+
+	</summary>
+</bill>

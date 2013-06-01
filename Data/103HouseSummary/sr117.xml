@@ -1,0 +1,43 @@
+<bill session="103" type="sr" number="117" updated="2010-04-19T22:17:36-04:00">
+	<state datetime="1993-06-15">REFERRED</state>
+	<status><introduced datetime="1993-06-15"/></status>
+
+	<introduced datetime="1993-06-15"/>
+	<titles>
+		<title type="official" as="introduced">A resolution to express the sense of the Senate that the Olympics in the year 2000 should not be held in Beijing or elsewhere in the People's Republic of China.</title>
+	</titles>
+	<sponsor id="403346"/>
+	<cosponsors>
+		<cosponsor id="401709" joined="1993-06-15"/>
+		<cosponsor id="403142" joined="1993-06-29"/>
+		<cosponsor id="300064" joined="1993-07-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-15"><text>Sponsor introductory remarks on measure. (CR S7275)</text></action>
+		<action datetime="1993-06-15"><text>Referred to the Committee on Commerce.</text></action>
+		<action datetime="1993-07-15"><committee name="Committee on Commerce"/><text>Committee on Commerce. Hearings held.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hr" number="188" />
+		<bill relation="identical" session="103" type="sr" number="124" />
+	</relatedbills>
+	<subjects>
+		<term name="Sports"/>
+		<term name="China"/>
+		<term name="Foreign relations"/>
+		<term name="Human rights"/>
+		<term name="International agencies"/>
+		<term name="Olympic games"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/15/1993--Introduced.
+Expresses opposition to holding the Olympic Summer Games in the year 2000 in the People's Republic of China. Urges the International Olympic Committee to find another, more suitable venue for the Games. Urges the U.S. Representative to the Committee to vote against holding the Games in China.
+
+	</summary>
+</bill>

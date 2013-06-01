@@ -1,0 +1,43 @@
+<bill session="103" type="hr" number="374" updated="2010-04-19T13:57:12-04:00">
+	<state datetime="1994-03-17T18:35:00-05:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-03-17T18:35:00-05:00" where="h" result="pass" how="roll" roll="67"/></status>
+
+	<introduced datetime="1994-03-02"/>
+	<titles>
+		<title type="official" as="introduced">To request a conference with the Senate on an amendment of the House to the bill (S. 636) to amend the Public Health Service Act to permit individuals to have freedom of access to certain medical clinics and facilities, and for other purposes.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-02T16:47:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-427, by Ms. Slaughter.</text></action>
+		<action datetime="1994-03-02T16:47:00-05:00"><text>Rule provides for consideration of S. 636. Upon the adoption of this resolution it shall be in order to take from the Speaker's table the bill S. 636 and to consider the bill in the House. All points of order against the bill and against its consideration are waived. It shall be in order to move to strike all after the enacting clause of the Senate bill and to insert in lieu thereof the provisions of H.R. 796 as passed by the House. If the motion is agreed to and S. 636, as amended, is passed by the House, it shall be in order to move that the House insist on its amendments to S. 636 and request a conference with the Senate thereon.</text></action>
+		<calendar datetime="1994-03-02T16:48:00-05:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 137.</text></calendar>
+		<action datetime="1994-03-17T16:53:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H1498-1507"/></action>
+		<action datetime="1994-03-17T16:57:00-05:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1994-03-17T18:27:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 248 - 168 (Roll no. 66).</text></action>
+		<vote how="roll" type="vote" roll="67" datetime="1994-03-17T18:35:00-05:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by recorded vote: 244 - 171 (Roll no. 67).</text></vote>
+		<action datetime="1994-03-17T18:36:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="636" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congress"/>
+		<term name="House rules and procedure"/>
+		<term name="Medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/2/1994--Introduced.
+Provides for taking from the Speaker's table S. 636 (amending the Public Health Service Act to permit individuals to have freedom of access to certain medical clinics and facilities), substituting the language of H.R. 796 as passed by the House, passing S. 636, and requesting a conference.
+
+	</summary>
+</bill>

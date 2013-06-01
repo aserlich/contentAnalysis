@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="1481" updated="2010-04-19T03:02:22-04:00">
+	<state datetime="1993-03-25">REFERRED</state>
+	<status><introduced datetime="1993-03-25"/></status>
+
+	<introduced datetime="1993-03-25"/>
+	<titles>
+		<title type="official" as="introduced">To deauthorize the Kissimmee River restoration project, Florida.</title>
+	</titles>
+	<sponsor id="400116"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-05-26"/>
+		<cosponsor id="400015" joined="1993-06-24"/>
+		<cosponsor id="400113" joined="1994-08-01"/>
+		<cosponsor id="400178" joined="1993-06-16"/>
+		<cosponsor id="400611" joined="1993-05-26"/>
+		<cosponsor id="405033" joined="1993-05-04"/>
+		<cosponsor id="404009" joined="1993-07-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-25"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-04-08"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Water"/>
+		<term name="Aquatic ecology"/>
+		<term name="Authorization"/>
+		<term name="Conservation of natural resources"/>
+		<term name="Environmental protection"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Florida"/>
+		<term name="Rivers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/25/1993--Introduced.
+Deauthorizes the Kissimmee River ecosystem restoration project as authorized under the Water Resources Development Act of 1992.
+
+	</summary>
+</bill>

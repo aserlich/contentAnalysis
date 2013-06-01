@@ -1,0 +1,49 @@
+<bill session="103" type="sc" number="47" updated="2010-04-19T21:18:22-04:00">
+	<state datetime="1993-10-18T12:41:00-04:00">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1993-10-18T12:41:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-10-05"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution to recognize the International Rescue Committee for its great humanitarian endeavors.</title>
+	</titles>
+	<sponsor id="408597"/>
+	<cosponsors>
+		<cosponsor id="400563" joined="1993-10-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-05"><text>Sponsor introductory remarks on measure. (CR S13095)</text></action>
+		<action datetime="1993-10-05"><text>Referred to the Committee on Foreign Relations.</text></action>
+		<action datetime="1993-10-15"><text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-10-15" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text><reference label="consideration" ref="CR S13524"/></vote>
+		<action datetime="1993-10-15T10:09:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-10-15"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-10-15T13:41:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-10-18T12:34:00-04:00"><text>Mr. Lantos moved to suspend the rules and agree to the resolution.</text></action>
+		<action datetime="1993-10-18T12:34:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8064-8080"/></action>
+		<action datetime="1993-10-18T12:34:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote2" datetime="1993-10-18T12:41:00-04:00" where="h" result="pass"  state="PASSED:CONCURRENTRES"><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1993-10-18T12:42:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hc" number="158" />
+	</relatedbills>
+	<subjects>
+		<term name="Congressional tributes"/>
+		<term name="Anniversaries"/>
+		<term name="Charities"/>
+		<term name="Commemorations"/>
+		<term name="International relief"/>
+		<term name="Refugees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/5/1993--Introduced.
+Recognizes the International Rescue Committee for its humanitarian endeavors on its 60th anniversary.
+
+	</summary>
+</bill>

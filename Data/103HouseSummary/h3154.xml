@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="3154" updated="2010-04-19T07:22:51-04:00">
+	<state datetime="1993-09-28">REFERRED</state>
+	<status><introduced datetime="1993-09-28"/></status>
+
+	<introduced datetime="1993-09-28"/>
+	<titles>
+		<title type="official" as="introduced">To require official inspection and testing of all grain imported into the United States.</title>
+	</titles>
+	<sponsor id="400316"/>
+	<cosponsors>
+		<cosponsor id="400323" joined="1993-09-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-28"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Foreign Agriculture and Hunger.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on General Farm Commodities.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Foreign Agriculture and Hunger" activity="Referral" />
+		<committee code="" name="House Agriculture" subcommittee="General Farm Commodities" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Fees"/>
+		<term name="Foreign trade"/>
+		<term name="Grain inspection"/>
+		<term name="Imports"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/28/1993--Introduced.
+Amends the United States Grain Standards Act to require that all grain imported into the United States be accompanied by a valid certification of grade and level of vomitoxin. Authorizes, upon request and on a fee basis, the weighing and inspection of uninspected grain.
+
+	</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="566" updated="2010-04-19T00:30:15-04:00">
+	<state datetime="1993-01-25">REFERRED</state>
+	<status><introduced datetime="1993-01-25"/></status>
+
+	<introduced datetime="1993-01-25"/>
+	<titles>
+		<title type="short" as="introduced">Enlisted Members Retirement Equity Act</title>
+		<title type="official" as="introduced">To amend title 10, United States Code, to provide that the crediting of years of service for purposes of computing the retired and retainer pay of enlisted members of the Armed Forces shall be made in the same manner as applies to officers.</title>
+	</titles>
+	<sponsor id="407838"/>
+	<cosponsors>
+		<cosponsor id="406863" joined="1994-07-29"/>
+		<cosponsor id="400569" joined="1994-04-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-25"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1993-10-01"><committee name="House Committee on Armed Services"/><text>Favorable Executive Comment Received from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Air force personnel"/>
+		<term name="Army personnel"/>
+		<term name="Enlisted personnel"/>
+		<term name="Military pensions"/>
+		<term name="Officer personnel"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/25/1993--Introduced.
+Enlisted Members Retirement Equity Act - Repeals Federal armed forces provisions which provide a different crediting system of the years of service of enlisted personnel as compared to officer personnel for purposes of the computation of retired and retainer pay. Provides that time required to be made up by an enlisted member of the Army or Air Force may not be counted in determining such years of service for retired or retainer pay purposes.
+
+	</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="4641" updated="2010-04-19T11:15:04-04:00">
+	<state datetime="1994-06-23">REFERRED</state>
+	<status><introduced datetime="1994-06-23"/></status>
+
+	<introduced datetime="1994-06-23"/>
+	<titles>
+		<title type="official" as="introduced">To restore the previous tariff treatment accorded to hand-cast string-drawn fishing nets.</title>
+	</titles>
+	<sponsor id="410529"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-23"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-06-27"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1994-07-19"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1994-09-23"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Equipment and supplies"/>
+		<term name="Fibers"/>
+		<term name="Fisheries"/>
+		<term name="Fishing"/>
+		<term name="Marine resources"/>
+		<term name="Sports"/>
+		<term name="Tariff"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/23/1994--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to reduce the duty on made up hand-cast string-drawn fishing nets.
+
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="2489" updated="2010-04-19T05:39:38-04:00">
+	<state datetime="1993-06-22">REFERRED</state>
+	<status><introduced datetime="1993-06-22"/></status>
+
+	<introduced datetime="1993-06-22"/>
+	<titles>
+		<title type="official" as="introduced">To confer jurisdiction on the United States Claims Court with respect to land claims of Pueblo of Isleta Indian Tribe.</title>
+	</titles>
+	<sponsor id="400534"/>
+	<cosponsors>
+		<cosponsor id="409633" joined="1993-06-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-22"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-06-25"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1422" />
+	</relatedbills>
+	<subjects>
+		<term name="Courts"/>
+		<term name="Actions and defenses"/>
+		<term name="Compensation (Law)"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Indian claims"/>
+		<term name="Indian lands"/>
+		<term name="Interest"/>
+		<term name="Jurisdiction"/>
+		<term name="New Mexico"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/22/1993--Introduced.
+Confers jurisdiction upon the United States Court of Federal Claims with respect to certain land claims of the Pueblo of Isleta Indian Tribe of New Mexico.
+
+	</summary>
+</bill>

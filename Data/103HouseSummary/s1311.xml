@@ -1,0 +1,47 @@
+<bill session="103" type="s" number="1311" updated="2010-04-19T17:55:01-04:00">
+	<state datetime="1993-08-03">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-08-03" /></status>
+
+	<introduced datetime="1993-07-29"/>
+	<titles>
+		<title type="official" as="introduced">A bill for the relief of Olga D. Zhondetskaya.</title>
+	</titles>
+	<sponsor id="402727"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-07-29" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text></vote>
+		<action datetime="1993-07-30T10:02:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-07-30"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-07-30T10:55:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-08-03T13:06:00-04:00"><text>Mr. Boucher asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1993-08-03T13:06:00-04:00"><text>Considered by unanimous consent.</text></action>
+		<vote how="without objection" type="vote2" datetime="1993-08-03T13:06:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-08-03T13:06:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-08-03T13:06:00-04:00"><text>A similar measure H.R. 2625 was laid on the table without objection.</text></action>
+		<topresident datetime="1993-08-03" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-08-03" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-08-03" ><text>Signed by President.</text></signed>
+		<enacted number="103-1" type="private" datetime="1993-08-03"  state="ENACTED:SIGNED"><text>Became Private Law No: 103-1.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2625" />
+		<bill relation="unknown" session="103" type="s" number="1174" />
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Immigration"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/29/1993--Introduced.
+Waives specified requirements under the Immigration and Nationality Act to allow a named individual, if otherwise qualified, to be eligible for naturalization.
+
+	</summary>
+</bill>

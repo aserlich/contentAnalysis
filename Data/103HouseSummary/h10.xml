@@ -1,0 +1,66 @@
+<bill session="103" type="h" number="10" updated="2010-04-18T23:01:26-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Sunset Act of 1993</title>
+		<title type="official" as="introduced">To require reauthorizations of budget authority for Government programs at least every ten years, to provide for review of Government programs at least every ten years, and for other purposes.</title>
+	</titles>
+	<sponsor id="407772"/>
+	<cosponsors>
+		<cosponsor id="400146" joined="1993-01-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1399" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Administrative procedure"/>
+		<term name="Appropriations"/>
+		<term name="Authorization"/>
+		<term name="Congressional Research Service"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional committees (House)"/>
+		<term name="Congressional committees (Senate)"/>
+		<term name="Congressional information resources"/>
+		<term name="Congressional investigations"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cost effectiveness"/>
+		<term name="Evaluation"/>
+		<term name="Executive departments"/>
+		<term name="Government paperwork"/>
+		<term name="Government regulation"/>
+		<term name="House rules and procedure"/>
+		<term name="Income tax"/>
+		<term name="Legislation"/>
+		<term name="Legislative amendments"/>
+		<term name="Legislative resolutions"/>
+		<term name="Management audit"/>
+		<term name="Planning-programming-budgeting"/>
+		<term name="Productivity in government"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Sunset legislation"/>
+		<term name="Tax expenditures"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+TABLE OF CONTENTS: Title I: Reauthorization of Government Programs Title II: Program Inventory Title III: Program reexamination Title IV: Tax Expenditures Title V: Miscellaneous Sunset Act of 1993 - Title I: Reauthorization of Government Programs - Requires each Government program to be reauthorized at least once during each sunset reauthorization cycle. (Sunset reauthorization cycle means the period of five Congresses beginning with the 104th Congress and with each sixth Congress following the 104th Congress.) Exempts from the requirements of this Act specified items, such as interest on Federal debts, health care services, general retirement and disability payments, certain civil rights litigation activities, and specified retirement pay and benefits. Title II: Program Inventory - Directs the Comptroller General and the Director of the Congressional Budget Office, in cooperation with the Director of the Congressional Research Service, to prepare an inventory of Federal programs to advise and assist the Congress in carrying out reauthorization and reexamination requirements and to link such reauthorization and review process with the budget process. Requires the Comptroller General to submit such program inventory to each House of Congress no later than January 1, 1994. Directs the congressional committees, the Congressional Budget Office, and the Congressional Research Service to review the program inventory and to suggest revisions. Requires that the program inventory be revised at the end of each session of the Congress and that such revisions be reported to each House. Title III: Program Reexamination - Requires each committee of the Senate and the House of Representatives to reexamine selected programs or groups of programs over which it has jurisdiction. Title IV: Tax Expenditures - Requires the Director of the Congressional Budget Office to prepare an inventory of tax expenditure provisions and to submit a report on such inventory to the Committee on Ways and Means of the House and the Senate Finance Committee by July 1, 1994. Directs the House Committee on Ways and Means and the Senate Committee on Finance to prepare a reauthorization schedule for all tax provisions similar to the schedule set out for Federal programs in title I of this Act. Title V: Miscellaneous - Sets forth miscellaneous provisions to carry out the purposes of this Act. Directs the President to submit to the Congress a Regulatory Duplication and Conflicts Report for all programs scheduled for reauthorization in the next Congress. Requires specified congressional committees to report on a review of the procedures established under this Act by December 31, 2000, and every five years thereafter. Authorizes appropriations through FY 2004.
+
+	</summary>
+</bill>

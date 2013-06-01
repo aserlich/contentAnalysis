@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="5164" updated="2012-07-17T05:05:01-04:00">
+	<state datetime="1994-10-07T19:43:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-07T19:43:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1994-10-04"/>
+	<titles>
+		<title type="short" as="introduced">OCC and OTS Health Benefits Continuation Act</title>
+		<title type="official" as="introduced">To provide for the enrollment of individuals enrolled in a health benefits plan administered by the Office of the Comptroller of the Currency or the Office of Thrift Supervision in the Federal Employees Health Benefits Program.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-04" state="REFERRED"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-10-06"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+		<action datetime="1994-10-07T19:43:00-04:00"><text>Committee on Post Office and Civil Service discharged.</text></action>
+		<action datetime="1994-10-07T19:43:00-04:00"><text>Ms. Norton asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-10-07T19:43:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H11383"/></action>
+		<vote how="without objection" type="vote" datetime="1994-10-07T19:43:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-10-07T19:44:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-07"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Department of the Treasury"/>
+		<term name="Economics and public finance"/>
+		<term name="Government employees' health insurance"/>
+		<term name="Government operations and politics"/>
+		<term name="Government trust funds"/>
+		<term name="Health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/4/1994--Introduced.
+OCC and OTS Health Benefits Continuation Act - Provides for enrollment in the Federal Employees Health Benefits Program of individuals (including family members, annuitants, former spouses, and certain unmarried dependent children) enrolled in a health benefits plan administered (before its termination on January 7, 1995) by the Office of the Comptroller of the Currency (OCC) or the Office of Thrift Supervision (OTS). Requires OCC and OTS to transfer to the Federal Employees Health Benefits Fund amounts determined by the Director of the Office of Personnel Management to be necessary to reimburse the fund for the cost of providing benefits not otherwise paid for by the covered individuals.
+
+	</summary>
+</bill>

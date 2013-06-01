@@ -1,0 +1,64 @@
+<bill session="103" type="h" number="1381" updated="2010-04-19T02:46:18-04:00">
+	<state datetime="1993-03-17">REFERRED</state>
+	<status><introduced datetime="1993-03-17"/></status>
+
+	<introduced datetime="1993-03-17"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 5, United States Code, to provide that civilian employees of the National Guard may not be required to wear military uniforms while performing civilian service.</title>
+	</titles>
+	<sponsor id="400126"/>
+	<cosponsors>
+		<cosponsor id="411677" joined="1993-03-17"/>
+		<cosponsor id="408052" joined="1993-09-27"/>
+		<cosponsor id="400122" joined="1993-03-17"/>
+		<cosponsor id="406768" joined="1993-03-17"/>
+		<cosponsor id="411040" joined="1993-04-29"/>
+		<cosponsor id="400885" joined="1993-03-17"/>
+		<cosponsor id="408109" joined="1993-03-17"/>
+		<cosponsor id="410496" joined="1993-03-17"/>
+		<cosponsor id="400527" joined="1993-03-17"/>
+		<cosponsor id="400354" joined="1994-09-23"/>
+		<cosponsor id="400316" joined="1993-03-17"/>
+		<cosponsor id="400001" joined="1993-03-17"/>
+		<cosponsor id="408618" joined="1993-03-17"/>
+		<cosponsor id="400560" joined="1993-03-17"/>
+		<cosponsor id="400140" joined="1993-03-17"/>
+		<cosponsor id="409618" joined="1993-03-17"/>
+		<cosponsor id="405524" joined="1993-03-17"/>
+		<cosponsor id="400601" joined="1993-03-17"/>
+		<cosponsor id="400357" joined="1993-03-17"/>
+		<cosponsor id="411178" joined="1993-05-18"/>
+		<cosponsor id="400163" joined="1993-03-17"/>
+		<cosponsor id="400425" joined="1993-03-17"/>
+		<cosponsor id="400243" joined="1993-03-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-17"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-03-17"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-03-19"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Civil Service.</text></action>
+		<action datetime="1993-03-23"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-03-23"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Civil Service" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Federal employees"/>
+		<term name="National Guard"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/17/1993--Introduced.
+Declares that civilian employees of the National Guard may not be required to wear military uniforms while performing civilian service.
+
+	</summary>
+</bill>

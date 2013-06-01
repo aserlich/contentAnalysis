@@ -1,0 +1,94 @@
+<bill session="103" type="sj" number="101" updated="2012-07-17T04:29:35-04:00">
+	<state datetime="1993-07-23">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-07-23" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-06-10"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution to designate the week of July 25 through July 31, 1993, as the &quot;National Week of Recognition and Remembrance for Those Who Served in the Korean War&quot;.</title>
+	</titles>
+	<sponsor id="300099"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-07-22"/>
+		<cosponsor id="300150" joined="1993-07-22"/>
+		<cosponsor id="300071" joined="1993-07-22"/>
+		<cosponsor id="300052" joined="1993-07-22"/>
+		<cosponsor id="300056" joined="1993-07-22"/>
+		<cosponsor id="300060" joined="1993-07-22"/>
+		<cosponsor id="300059" joined="1993-07-22"/>
+		<cosponsor id="400557" joined="1993-07-22"/>
+		<cosponsor id="406084" joined="1993-07-22"/>
+		<cosponsor id="408252" joined="1993-07-22"/>
+		<cosponsor id="401874" joined="1993-07-22"/>
+		<cosponsor id="300089" joined="1993-07-22"/>
+		<cosponsor id="409225" joined="1993-07-22"/>
+		<cosponsor id="300082" joined="1993-07-22"/>
+		<cosponsor id="406256" joined="1993-07-22"/>
+		<cosponsor id="409917" joined="1993-07-22"/>
+		<cosponsor id="400564" joined="1993-07-22"/>
+		<cosponsor id="300036" joined="1993-07-22"/>
+		<cosponsor id="300053" joined="1993-07-22"/>
+		<cosponsor id="300048" joined="1993-07-22"/>
+		<cosponsor id="300001" joined="1993-07-22"/>
+		<cosponsor id="300026" joined="1993-07-22"/>
+		<cosponsor id="300073" joined="1993-07-22"/>
+		<cosponsor id="407663" joined="1993-07-22"/>
+		<cosponsor id="409923" joined="1993-07-22"/>
+		<cosponsor id="403142" joined="1993-07-22"/>
+		<cosponsor id="402675" joined="1993-07-22"/>
+		<cosponsor id="407786" joined="1993-07-22"/>
+		<cosponsor id="300037" joined="1993-07-22"/>
+		<cosponsor id="400562" joined="1993-07-22"/>
+		<cosponsor id="300015" joined="1993-07-22"/>
+		<cosponsor id="300061" joined="1993-07-22"/>
+		<cosponsor id="300029" joined="1993-07-22"/>
+		<cosponsor id="403515" joined="1993-07-22"/>
+		<cosponsor id="300017" joined="1993-07-22"/>
+		<cosponsor id="300005" joined="1993-07-22"/>
+		<cosponsor id="300057" joined="1993-07-22"/>
+		<cosponsor id="408898" joined="1993-07-22"/>
+		<cosponsor id="403669" joined="1993-07-22"/>
+		<cosponsor id="403346" joined="1993-07-22"/>
+		<cosponsor id="402412" joined="1993-07-22"/>
+		<cosponsor id="408597" joined="1993-07-22"/>
+		<cosponsor id="300023" joined="1993-07-22"/>
+		<cosponsor id="300157" joined="1993-07-22"/>
+		<cosponsor id="300010" joined="1993-07-22"/>
+		<cosponsor id="404598" joined="1993-06-10"/>
+		<cosponsor id="401604" joined="1993-07-22"/>
+		<cosponsor id="400566" joined="1993-07-22"/>
+		<cosponsor id="402727" joined="1993-07-22"/>
+		<cosponsor id="407992" joined="1993-07-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-10" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S7104)</text></action>
+		<action datetime="1993-06-10" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-07-23"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S9366"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-07-23" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment and with a preamble by Voice Vote.</text></vote>
+		<action datetime="1993-07-26T12:04:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-07-26"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-07-26"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="204" />
+		<bill relation="unknown" session="103" type="hj" number="204" />
+	</relatedbills>
+	<subjects>
+		<term name="Special weeks"/>
+		<term name="Armed forces and national security"/>
+		<term name="Commemorations"/>
+		<term name="Flags"/>
+		<term name="Korean War, 1950-1953"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/10/1993--Introduced.
+Designates July 25 through 31, 1993, as National Week of Recognition and Remembrance for Those Who Served in the Korean War. Authorizes the President to urge U.S. departments and agencies, interested organizations, groups, and individuals to fly the American flag at half-staff on July 27, 1993, in honor of the Americans who died as a result of their service in Korea.
+
+	</summary>
+</bill>

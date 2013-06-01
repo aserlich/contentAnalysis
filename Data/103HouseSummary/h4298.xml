@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="4298" updated="2010-04-19T10:20:57-04:00">
+	<state datetime="1994-04-25">REFERRED</state>
+	<status><introduced datetime="1994-04-25"/></status>
+
+	<introduced datetime="1994-04-25"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Small Business Investment Act of 1958 to permit prepayment of debentures issued by State and local development companies.</title>
+	</titles>
+	<sponsor id="400537"/>
+	<cosponsors>
+		<cosponsor id="407306" joined="1994-07-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-25"><text>Referred to the House Committee on Small Business.</text></action>
+		<action datetime="1994-05-04"><committee name="House Committee on Small Business"/><text>Committee Hearings Held.</text></action>
+		<action datetime="1994-05-11"><committee name="House Committee on Small Business"/><text>Committee Hearings Held.</text></action>
+		<action datetime="1994-05-17"><committee name="House Committee on Small Business"/><text>Committee Hearings Held.</text></action>
+		<action datetime="1994-05-18"><committee name="House Committee on Small Business"/><text>Committee Hearings Held.</text></action>
+		<action datetime="1994-05-25"><committee name="House Committee on Small Business"/><text>Committee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSM" name="House Small Business" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2061" />
+	</relatedbills>
+	<subjects>
+		<term name="Small business"/>
+		<term name="Business"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Fees"/>
+		<term name="Finance"/>
+		<term name="Securities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/25/1994--Introduced.
+Amends the Small Business Investment Act of 1958 to permit a qualified State or local development company that issues a debenture purchased by the Federal Financing Bank and guaranteed by the Small Business Administration, at the election of the small business borrower whose loan secures such debenture and with the Administration's approval, to repay the debenture by payment to the Bank of the unpaid principal balance, accrued interest, and repurchase premium amount (as determined under this Act). Prohibits any fees or penalties from being imposed against the issuer, borrower, or the Administration as a condition of prepayment under this Act. Authorizes appropriations.
+
+	</summary>
+</bill>

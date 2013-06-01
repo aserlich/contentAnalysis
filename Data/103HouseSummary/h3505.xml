@@ -1,0 +1,65 @@
+<bill session="103" type="h" number="3505" updated="2010-04-19T08:17:12-04:00">
+	<state datetime="1993-11-21T16:14:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-21T16:14:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-11-10"/>
+	<titles>
+		<title type="short" as="introduced">Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1993</title>
+		<title type="short" as="passed house">Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1993</title>
+		<title type="official" as="introduced">To amend the Developmental Disabilities Assistance and Bill of Rights Act to modify certain provisions relating to programs for individuals with developmental disabilities, Federal assistance for priority area activities for individuals with developmental disabilities, protection and advocacy of individual rights, university affiliated programs, and projects of national significance, and for other purposes.</title>
+	</titles>
+	<sponsor id="400425"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-10"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-11-16"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-11-16"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-11-18T22:53:00-05:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 103-378.</text></action>
+		<calendar number="208" datetime="1993-11-18T22:54:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 208.</text></calendar>
+		<action datetime="1993-11-21T16:11:00-05:00"><text>Mr. Waxman moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-21T16:11:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10545-10547"/></action>
+		<action datetime="1993-11-21T16:11:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-21T16:14:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-21T16:14:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-21T16:16:00-05:00"><text>Laid on the table. See S. 1284 for further action.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="superseded" session="103" type="s" number="1284" />
+		<bill relation="unknown" session="103" type="s" number="1284" />
+	</relatedbills>
+	<subjects>
+		<term name="Disabled"/>
+		<term name="American Samoa"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Civil rights"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Education"/>
+		<term name="Executive departments"/>
+		<term name="Federal aid to handicapped services"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Higher education"/>
+		<term name="Northern Mariana Islands"/>
+		<term name="Planning"/>
+		<term name="Rehabilitation of the mentally handicapped"/>
+		<term name="Rehabilitation of the physically handicapped"/>
+		<term name="Scholarships"/>
+		<term name="State and local government"/>
+		<term name="State politics and government"/>
+		<term name="Trust Territory of the Pacific Islands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/21/1993--Passed House amended. Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1993 - Amends the Developmental Disabilities Assistance and Bill of Rights Act to revise the Act's statements of findings and purpose and to declare related policy. Requires: (1) advance public notice of any Federal programmatic and administrative review; (2) solicitation of public comment on State systems to protect and advocate the rights of persons with developmental disabilities; (3) inclusion of the comment findings in the onsite visit report; and (4) distribution of the review results. Removes from the definition of &quot;State,&quot; as it applies to university affiliated programs under the Act, references to the Northern Mariana Islands, American Samoa, and the Trust Territory of the Pacific Islands. Authorizes appropriations under the Act for priority area activities, protection and advocacy of the rights of individuals with developmental disabilities, university affiliated programs, and projects of national significance.
+
+	</summary>
+</bill>

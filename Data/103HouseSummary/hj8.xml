@@ -1,0 +1,47 @@
+<bill session="103" type="hj" number="8" updated="2010-04-18T21:52:10-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="popular" as="">Balanced Budget Amendment</title>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States requiring the submission of balanced Federal funds budgets by the President and action by the Congress to provide revenues to offset Federal funds deficits.</title>
+	</titles>
+	<sponsor id="400567"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1994-03-17"><committee name="House Committee on Judiciary"/><text>See H.J.Res.103.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hj" number="103" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Appropriations"/>
+		<term name="Balanced budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Constitutional amendments"/>
+		<term name="Deficit financing"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Income tax"/>
+		<term name="Legislation"/>
+		<term name="Tax rates"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Constitutional Amendment - Requires the President to submit a balanced budget to the Congress. Prohibits the Congress, whenever aggregate Federal expenditures (excluding those from trust funds) exceed aggregate Federal receipts (excluding those of trust funds) for any two-year period, from passing any measure appropriating money out of the Treasury general fund until a law has come into effect that will provide, within the following 12 months, additional revenue of not less than the amount of the difference. Suspends these requirements during war or other national emergency, upon the recommendation of the President and the approval of the Congress.
+
+	</summary>
+</bill>

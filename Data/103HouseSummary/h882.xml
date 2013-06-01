@@ -1,0 +1,112 @@
+<bill session="103" type="h" number="882" updated="2010-04-19T01:23:11-04:00">
+	<state datetime="1993-02-16">REFERRED</state>
+	<status><introduced datetime="1993-02-16"/></status>
+
+	<introduced datetime="1993-02-16"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide that charitable contributions of appreciated property will not be treated as an item of tax preference.</title>
+	</titles>
+	<sponsor id="400882"/>
+	<cosponsors>
+		<cosponsor id="408725" joined="1993-05-04"/>
+		<cosponsor id="405939" joined="1993-02-16"/>
+		<cosponsor id="406466" joined="1993-04-19"/>
+		<cosponsor id="400509" joined="1993-03-15"/>
+		<cosponsor id="400174" joined="1993-03-24"/>
+		<cosponsor id="400420" joined="1993-02-16"/>
+		<cosponsor id="400219" joined="1993-02-16"/>
+		<cosponsor id="410147" joined="1993-02-16"/>
+		<cosponsor id="400414" joined="1993-02-16"/>
+		<cosponsor id="411677" joined="1993-02-16"/>
+		<cosponsor id="400149" joined="1993-05-24"/>
+		<cosponsor id="400596" joined="1993-02-16"/>
+		<cosponsor id="410529" joined="1993-02-16"/>
+		<cosponsor id="400242" joined="1993-05-18"/>
+		<cosponsor id="405775" joined="1993-03-30"/>
+		<cosponsor id="400302" joined="1993-04-28"/>
+		<cosponsor id="400380" joined="1993-02-16"/>
+		<cosponsor id="400085" joined="1993-03-01"/>
+		<cosponsor id="400295" joined="1993-02-16"/>
+		<cosponsor id="400170" joined="1993-02-23"/>
+		<cosponsor id="408109" joined="1993-05-25"/>
+		<cosponsor id="401014" joined="1993-02-16"/>
+		<cosponsor id="401547" joined="1993-02-16"/>
+		<cosponsor id="404587" joined="1993-02-16"/>
+		<cosponsor id="410496" joined="1993-04-19"/>
+		<cosponsor id="400603" joined="1993-02-16"/>
+		<cosponsor id="300087" joined="1993-03-01"/>
+		<cosponsor id="402750" joined="1993-03-03"/>
+		<cosponsor id="400261" joined="1993-03-04"/>
+		<cosponsor id="400409" joined="1993-02-16"/>
+		<cosponsor id="400365" joined="1993-02-16"/>
+		<cosponsor id="400192" joined="1993-05-24"/>
+		<cosponsor id="400543" joined="1993-04-19"/>
+		<cosponsor id="400055" joined="1993-05-24"/>
+		<cosponsor id="406284" joined="1993-02-16"/>
+		<cosponsor id="400262" joined="1993-02-16"/>
+		<cosponsor id="400143" joined="1993-02-16"/>
+		<cosponsor id="411725" joined="1993-03-04"/>
+		<cosponsor id="400359" joined="1993-02-16"/>
+		<cosponsor id="410567" joined="1993-04-20"/>
+		<cosponsor id="400144" joined="1993-02-16"/>
+		<cosponsor id="400206" joined="1993-02-16"/>
+		<cosponsor id="404401" joined="1993-05-24"/>
+		<cosponsor id="400386" joined="1993-02-16"/>
+		<cosponsor id="407306" joined="1993-02-16"/>
+		<cosponsor id="300062" joined="1993-03-09"/>
+		<cosponsor id="406799" joined="1993-04-02"/>
+		<cosponsor id="400205" joined="1993-02-16"/>
+		<cosponsor id="400035" joined="1993-04-28"/>
+		<cosponsor id="409650" joined="1993-02-16"/>
+		<cosponsor id="412001" joined="1993-03-01"/>
+		<cosponsor id="400178" joined="1993-02-16"/>
+		<cosponsor id="400378" joined="1993-03-24"/>
+		<cosponsor id="300097" joined="1993-02-16"/>
+		<cosponsor id="400604" joined="1993-02-16"/>
+		<cosponsor id="404068" joined="1993-04-19"/>
+		<cosponsor id="405524" joined="1993-02-16"/>
+		<cosponsor id="400569" joined="1993-02-16"/>
+		<cosponsor id="400256" joined="1993-02-16"/>
+		<cosponsor id="408476" joined="1993-04-22"/>
+		<cosponsor id="400012" joined="1993-02-16"/>
+		<cosponsor id="400291" joined="1993-02-16"/>
+		<cosponsor id="400310" joined="1993-03-23"/>
+		<cosponsor id="410887" joined="1993-02-16"/>
+		<cosponsor id="400240" joined="1993-02-16"/>
+		<cosponsor id="400150" joined="1993-02-16"/>
+		<cosponsor id="407044" joined="1993-02-16"/>
+		<cosponsor id="406790" joined="1993-02-16"/>
+		<cosponsor id="400369" joined="1993-02-16"/>
+		<cosponsor id="403864" joined="1993-02-16"/>
+		<cosponsor id="400314" joined="1993-02-16"/>
+		<cosponsor id="400252" joined="1993-06-23"/>
+		<cosponsor id="405507" joined="1993-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-16"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="813" />
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Capital gains tax"/>
+		<term name="Charitable contributions"/>
+		<term name="Minimum tax"/>
+		<term name="Tax deductions"/>
+		<term name="Tax preferences"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/16/1993--Introduced.
+Amends the Internal Revenue Code to remove charitable contributions of appreciated capital gain property as an item of tax preference for purposes of the alternative minimum tax.
+
+	</summary>
+</bill>

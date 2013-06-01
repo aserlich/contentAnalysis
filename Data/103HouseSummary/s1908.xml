@@ -1,0 +1,101 @@
+<bill session="103" type="s" number="1908" updated="2012-07-17T06:15:57-04:00">
+	<state datetime="1994-08-19">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-08-19" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-03-08"/>
+	<titles>
+		<title type="short" as="reported to senate">Veterans' Claims Adjudication Improvement Act of 1994</title>
+		<title type="short" as="passed senate">Veterans' Claims Adjudication Improvement Act of 1994</title>
+		<title type="official" as="introduced">A bill to provide for a study of the processes and procedures of the Department of Veterans Affairs for the disposition of claims for veterans' benefits.</title>
+	</titles>
+	<sponsor id="300084"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="1994-05-02"/>
+		<cosponsor id="400564" joined="1994-09-19"/>
+		<cosponsor id="403346" joined="1994-03-08"/>
+		<cosponsor id="300046" joined="1994-03-08"/>
+		<cosponsor id="411818" joined="1994-07-01"/>
+		<cosponsor id="300031" joined="1994-03-08"/>
+		<cosponsor id="400566" joined="1994-03-17"/>
+		<cosponsor id="300001" joined="1994-03-08"/>
+		<cosponsor id="300029" joined="1994-06-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-08" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2502-2504, S2507-2508)</text></action>
+		<action datetime="1994-03-08" state="REFERRED"><text>Read twice and referred to the Committee on Veterans.</text></action>
+		<action datetime="1994-03-24"><committee name="Committee on Veterans"/><text>Committee on Veterans. Hearings held.</text></action>
+		<calendar datetime="1994-04-14"  state="REPORTED"><committee name="Committee on Veterans"/><text>Committee on Veterans. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-04-14"><committee name="Committee on Veterans"/><text>Committee on Veterans incorporated provisions of related measures S. 1905, S. 1906, S. 1907 in reported measure.</text></action>
+		<action datetime="1994-06-07"><text>Committee on Veterans. Reported to Senate by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 103-280.</text></action>
+		<calendar under="General Orders" number="452" datetime="1994-06-07" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 452.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-08-19" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text><reference label="consideration" ref="CR S12211-12215"/></vote>
+		<action datetime="1994-08-23"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-08-23T10:02:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-08-23"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1994-10-07"><committee name="House Committee on Veterans' Affairs"/><text>See H.R.5244.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5244" />
+		<bill relation="unknown" session="103" type="s" number="1905" />
+		<bill relation="unknown" session="103" type="s" number="1906" />
+		<bill relation="unknown" session="103" type="s" number="1907" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Atomic bomb"/>
+		<term name="Childbirth"/>
+		<term name="Claims"/>
+		<term name="Compensation (Law)"/>
+		<term name="Computers and government"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Department of Veterans Affairs"/>
+		<term name="Dioxins"/>
+		<term name="Disability evaluation"/>
+		<term name="Disabled"/>
+		<term name="Divorce"/>
+		<term name="East Asia"/>
+		<term name="Electronic data processing"/>
+		<term name="Environmental protection"/>
+		<term name="Families"/>
+		<term name="Federal employees"/>
+		<term name="Fraud"/>
+		<term name="Government liability"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Health"/>
+		<term name="Herbicides"/>
+		<term name="Income"/>
+		<term name="Ionizing radiation"/>
+		<term name="Japan"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Labor and employment"/>
+		<term name="Law"/>
+		<term name="Malpractice"/>
+		<term name="Marriage"/>
+		<term name="Medical records"/>
+		<term name="Nuclear weapons"/>
+		<term name="Physical examinations"/>
+		<term name="Radiobiology"/>
+		<term name="Science, technology, communications"/>
+		<term name="Veterans' benefits"/>
+		<term name="Veterans' disability compensation"/>
+		<term name="Veterans' organizations"/>
+		<term name="Veterans' pensions"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/19/1994--Passed Senate amended. TABLE OF CONTENTS: Title I: Study of Claims Adjudication Title II: Improvements to Claims Adjudication Title III: Miscellaneous Veterans' Claims Adjudication Improvement Act of 1994 - Title I: Study of Claims Adjudication - Directs the U.S. Administrative Conference to carry out a study of the Department of Veterans Affairs system for the disposition of claims for veterans' benefits, with a purpose of enhancing the efficiency of the process and expedient disposition of claims. Requires: (1) Conference consultation with non-Department entities such as veterans service organizations and other veteran representatives; and (2) cooperation by the Secretary of Veterans Affairs in providing information required for such study. Requires reports. Authorizes appropriations. Title II: Improvements to Claims Adjudication - Authorizes (current law requires) the Secretary of Veterans Affairs to receive annual income verification information before granting or continuing veterans' pension benefits. Directs the Secretary to accept from a claimant a photocopy of a document as proof of the existence of a marriage, the birth of a child, or the death of a family member. Authorizes a physician employed by the Veterans Health Administration to accept from a private physician of a claimant a medical examination report if such report contains sufficient clinical data to support the diagnosis or degress of a disability. Directs the Secretary to report to specified congressional committees on the status of an agreement with the Secretary of Defense for the immediate transfer from the Department of Defense of a member's medical records upon separation from active duty. Title III: Miscellaneous - Amends the Veterans' Dioxin and Radiation Exposure Compensation Standards Act to state that regulations required under such Act may not prohibit a veteran from establishing service connection for a disease or disability that the veteran claims to be a result of exposure to ionizing radiation during a period of military service. Directs the Secretary to take appropriate actions to determine whether the injury of any veteran as a result of medical treatment was the result of medical malpractice by the Department of Veterans Affairs and, if so, to provide appropriate compensation.
+
+	</summary>
+</bill>

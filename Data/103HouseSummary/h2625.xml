@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="2625" updated="2010-04-19T06:00:47-04:00">
+	<state datetime="1993-08-03T13:05:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-08-03T13:05:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1993-07-13"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Olga D. Zhondetskaya.</title>
+	</titles>
+	<sponsor id="400885"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-13"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-07-15"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1993-07-27T19:46:00-04:00"><text>Reported by the Committee on Judiciary. H. Rept. 103-192.</text></action>
+		<calendar datetime="1993-07-27T19:46:00-04:00"  state="REPORTED"><text>Placed on the Private Calendar, Calendar No. 3.</text></calendar>
+		<action datetime="1993-08-03"><text>Sponsor introductory remarks on measure. (CR H5668)</text></action>
+		<action datetime="1993-08-03T13:05:00-04:00"><text>Called up from the Private Calendar for consideration.</text></action>
+		<action datetime="1993-08-03T13:05:00-04:00"><text>Considered from the Private Calendar.</text></action>
+		<vote how="without objection" type="vote" datetime="1993-08-03T13:05:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-08-03T13:06:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-08-03T13:06:00-04:00"><text>Laid on the table. See S. 1311 for further action.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Reporting" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1174" />
+		<bill relation="unknown" session="103" type="s" number="1311" />
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Immigration"/>
+	</subjects>
+	<amendments>
+		<amendment number="h271"/>
+	</amendments>
+	<summary>
+	7/13/1993--Introduced.
+Provides for the naturalization of a named individual pursuant to the Immigration and Nationality Act.
+
+	</summary>
+</bill>

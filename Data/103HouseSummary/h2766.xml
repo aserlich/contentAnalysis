@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="2766" updated="2012-07-17T05:52:06-04:00">
+	<state datetime="1993-08-02T14:27:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-08-02T14:27:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-07-28"/>
+	<titles>
+		<title type="official" as="introduced">To amend the 7(a) Loan Program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400537"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-28" state="REFERRED"><text>Referred to the House Committee on Small Business.</text></action>
+		<action datetime="1993-07-29"><committee name="House Committee on Small Business"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-07-29"  state="REPORTED"><committee name="House Committee on Small Business"/><text>Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 4.</text></calendar>
+		<action datetime="1993-08-02T14:22:00-04:00"><text>Mr. Lafalce moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-08-02T14:22:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5582-5584"/></action>
+		<action datetime="1993-08-02T14:22:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-08-02T14:27:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-08-02T14:27:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-08-04"><text>Received in the Senate and read twice and referred to the Committee on Small Business.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSM" name="House Small Business" activity="Referral, Markup" />
+		<committee code="SSSB" name="Senate Small Business" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1274" />
+	</relatedbills>
+	<subjects>
+		<term name="Small business"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Fees"/>
+		<term name="Interest rates"/>
+		<term name="Minority business enterprises"/>
+		<term name="Women in business"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/2/1993--Passed House amended. Amends the Small Business Act to temporarily authorize the Small Business Administration (SBA) to collect a fee for loan guarantees sold into the secondary market. Requires all fees so collected to be used solely to reduce the subsidy on such guaranteed loans. Applies such fees to loans sold into secondary markets after August 31, 1993. Authorizes the SBA to temporarily reduce the guarantee percentage of loans exceeding $155,000 and having a maturity period of more than ten years. Directs the SBA to study, monitor, and evaluate the impact of amendments made by this Act on the ability of small businesses, and small businesses owned and controlled by minorities and women, to obtain financing and on the effectiveness, viability, and growth of the secondary loan market authorized under the Small Business Act. Requires a report. Repeals provisions of this Act concerning reduced loan guarantees on September 30, 1996.
+
+	</summary>
+</bill>

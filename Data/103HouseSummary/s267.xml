@@ -1,0 +1,46 @@
+<bill session="103" type="s" number="267" updated="2012-07-17T04:15:26-04:00">
+	<state datetime="1993-02-02">REFERRED</state>
+	<status><introduced datetime="1993-02-02"/></status>
+
+	<introduced datetime="1993-02-02"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Fair Labor Standards Act of 1938 to exempt garment and certain other related employees from minimum wage and maximum hour requirements, and for other purposes.</title>
+	</titles>
+	<sponsor id="300023"/>
+	<cosponsors>
+		<cosponsor id="401874" joined="1993-07-01"/>
+		<cosponsor id="300070" joined="1993-05-04"/>
+		<cosponsor id="400562" joined="1993-06-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-02" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1029)</text></action>
+		<action datetime="1993-02-02" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<action datetime="1993-02-04"><text>Senate Committee on Governmental Affairs discharged by Unanimous Consent.</text></action>
+		<action datetime="1993-02-04"><text>Referred to the Committee on Labor and Human Resources by unanimous consent.</text></action>
+		<action datetime="1993-03-09"><committee name="Committee on Labor and Human Resources by unanimous consent"/><text>Referred to Subcommittee on Labor.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Discharged" />
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee" />
+		<committee code="" name="Senate Labor and Human Resources" subcommittee="Labor" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Clothing workers"/>
+		<term name="Handicraft"/>
+		<term name="Home labor"/>
+		<term name="Hours of labor"/>
+		<term name="Minimum wages"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1993--Introduced.
+Amends the Fair Labor Standards Act of 1938 to exempt from its requirements certain employees involved in construction or assemblage of display model garments or craft items, if: (1) the work is voluntary; (2) patterns, fabric, and notions are provided at no cost to employees; (3) employees retain ownership of model garments after the display period; and (4) such garments are in fabrics, styles, and sizes determined by the employees as appropriate for their own use.
+
+	</summary>
+</bill>

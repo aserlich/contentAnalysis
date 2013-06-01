@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="1400" updated="2010-04-19T02:49:28-04:00">
+	<state datetime="1993-03-18">REFERRED</state>
+	<status><introduced datetime="1993-03-18"/></status>
+
+	<introduced datetime="1993-03-18"/>
+	<titles>
+		<title type="short" as="introduced">Campaign Advertising Act of 1993</title>
+		<title type="official" as="introduced">To amend section 315 of the Communications Act of 1934 with respect to the purchase of broadcasting time by candidates for public office.</title>
+	</titles>
+	<sponsor id="400110"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="1993-03-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-18"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Elections"/>
+		<term name="Election candidates"/>
+		<term name="Political advertising"/>
+		<term name="Primaries"/>
+		<term name="Radio in politics"/>
+		<term name="Telecommunication rates"/>
+		<term name="Television in politics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/18/1993--Introduced.
+Campaign Advertising Act of 1993 - Amends the Communications Act of 1934 to: (1) reduce the period during which the cost of broadcast media time for candidates may not exceed the lowest charge for the same time slot and amount of time; (2) limit the cost to qualified candidates of broadcasting time for pre-election political advertising to the lowest rate charged for any time in the same time slot; and (3) prohibit any broadcast licensee from preempting the use of any such time purchased by a qualified candidate.
+
+	</summary>
+</bill>

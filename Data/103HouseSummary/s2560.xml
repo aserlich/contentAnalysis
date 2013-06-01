@@ -1,0 +1,57 @@
+<bill session="103" type="s" number="2560" updated="2010-04-19T21:09:41-04:00">
+	<state datetime="1994-10-08">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-10-08" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-10-08"/>
+	<titles>
+		<title type="official" as="introduced">A bill to allow the collection and payment of funds following the completion of cooperative work involving the protection, management, and improvement of the National Forest System, and for other purposes.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="300029" joined="1994-10-08"/>
+		<cosponsor id="300070" joined="1994-10-08"/>
+		<cosponsor id="300031" joined="1994-10-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-08"><text>Sponsor introductory remarks on measure. (CR S15037-15038)</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-10-08" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S15022"/></vote>
+		<action datetime="1994-11-29"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-11-29T12:30:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-11-29"><text>Referred jointly to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-11-29"><text>Referred jointly to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-11-30"><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+		<action datetime="1994-12-06"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Forests and forestry"/>
+		<term name="Administrative procedure"/>
+		<term name="Budgets"/>
+		<term name="Department of Agriculture"/>
+		<term name="Environmental protection"/>
+		<term name="Executive departments"/>
+		<term name="Forest conservation"/>
+		<term name="Forest management"/>
+		<term name="Government trust funds"/>
+		<term name="Governmental investigations"/>
+		<term name="National forests"/>
+		<term name="Natural resources"/>
+		<term name="Public lands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/8/1994--Introduced.
+Amends Federal law with respect to nonprofit group donations to the National Forest System to permit the Forest Service to fund a project with appropriated moneys provided the nonprofit has a written Forest Service reimbursement agreement. Requires the Secretary of Agriculture to establish written rules for contribution acceptance.
+
+	</summary>
+</bill>

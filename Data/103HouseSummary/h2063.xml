@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="2063" updated="2012-07-17T05:11:54-04:00">
+	<state datetime="1994-03-21T13:01:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-03-21T13:01:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-05-11"/>
+	<titles>
+		<title type="short" as="introduced">National Coastal Resources Development Act of 1993</title>
+		<title type="official" as="introduced">To amend existing law relating to the National Coastal Resources Research and Development Institute.</title>
+	</titles>
+	<sponsor id="404375"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-11" state="REFERRED"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-05-17"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Oceanography, Gulf of Mexico, and the Outer Continental Shelf.</text></action>
+		<action datetime="1993-05-17"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Commerce.</text></action>
+		<action datetime="1994-03-10"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Oceanography, Gulf of Mexico, and the Outer Continental Shelf"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-03-10"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Oceanography, Gulf of Mexico, and the Outer Continental Shelf"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1994-03-16"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-03-16"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-03-21T12:59:00-05:00"><text>Mr. Studds moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-03-21T12:59:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1611-1612"/></action>
+		<action datetime="1994-03-21T12:59:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-03-21T13:01:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1994-03-21T13:01:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-03-23"><text>Sponsor introductory remarks on measure. (CR E525)</text></action>
+		<action datetime="1994-03-23"><text>Received in the Senate and read twice and referred to the Committee on Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Oceanography, Gulf of Mexico and the Outer Continental Shelf" activity="Referral, Markup, Reporting" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Coastal zone"/>
+		<term name="Community development"/>
+		<term name="Economic development"/>
+		<term name="Economic growth"/>
+		<term name="Economics and public finance"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Marine resources conservation"/>
+		<term name="Oregon"/>
+		<term name="Research centers"/>
+		<term name="Science, technology, communications"/>
+		<term name="Technology transfer"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/11/1993--Introduced.
+National Coastal Resources Development Act of 1993 - Amends Federal law to provide that the National Coastal Resources Research and Development Institute shall be administered by the Oregon State System of Higher Education instead of the Oregon State Marine Science Center. Restates the duties of such Institute so that its duties are now to promote the economic growth and prosperity of the United States by transferring research and technology into applications to improve the economic, environmental, and social well-being of the Nation's coastal communities and the competitiveness of coastal businesses. Revises membership on the Board of Governors of such Institute.
+
+	</summary>
+</bill>

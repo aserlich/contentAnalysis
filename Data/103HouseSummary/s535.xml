@@ -1,0 +1,55 @@
+<bill session="103" type="s" number="535" updated="2012-07-17T05:55:27-04:00">
+	<state datetime="1993-06-09">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-06-09" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-03-09"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize the Board of Regents of the Smithsonian Institution to plan and design an extension of the National Air and Space Museum at Washington Dulles International Airport, and for other purposes.</title>
+	</titles>
+	<sponsor id="300099"/>
+	<cosponsors>
+		<cosponsor id="400564" joined="1993-03-09"/>
+		<cosponsor id="404598" joined="1993-03-09"/>
+		<cosponsor id="409580" joined="1993-03-09"/>
+		<cosponsor id="403142" joined="1993-03-23"/>
+		<cosponsor id="400563" joined="1993-03-09"/>
+		<cosponsor id="300023" joined="1993-03-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-09" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2552-2553)</text></action>
+		<action datetime="1993-03-09" state="REFERRED"><text>Read twice and referred to the Committee on Rules.</text></action>
+		<calendar datetime="1993-03-18"  state="REPORTED"><committee name="Committee on Rules"/><text>Committee on Rules. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-03-22"><text>Committee on Rules. Reported to Senate by Senator Ford without amendment. With written report No. 103-28.</text></action>
+		<calendar under="General Orders" number="42" datetime="1993-03-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 42.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-06-09" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S7040-7041"/></vote>
+		<action datetime="1993-06-10T10:28:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-06-10"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-06-10"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-06-14"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Libraries and Memorials.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Markup, Reporting" />
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Libraries and Memorials" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="847" />
+	</relatedbills>
+	<subjects>
+		<term name="Arts, culture, religion"/>
+		<term name="Aircraft"/>
+		<term name="Airports"/>
+		<term name="Museums"/>
+		<term name="Smithsonian Institution"/>
+		<term name="Spacecraft"/>
+		<term name="Virginia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/9/1993--Introduced.
+Authorizes the Board of Regents of the Smithsonian Institution to plan and design an extension of the National Air and Space Museum at Washington Dulles International Airport. Authorizes appropriations.
+
+	</summary>
+</bill>

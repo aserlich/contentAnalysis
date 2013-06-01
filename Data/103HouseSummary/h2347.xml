@@ -1,0 +1,37 @@
+<bill session="103" type="h" number="2347" updated="2010-04-19T05:17:50-04:00">
+	<state datetime="1993-06-08">REFERRED</state>
+	<status><introduced datetime="1993-06-08"/></status>
+
+	<introduced datetime="1993-06-08"/>
+	<titles>
+		<title type="official" as="introduced">To authorize issuance of a certificate of documentation for employment in the coastwise trade of the United States for the vessel MYSTIQUE.</title>
+	</titles>
+	<sponsor id="401547"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-08"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-06-17"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee On Merchant Marine.</text></action>
+		<action datetime="1993-11-22"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Text of Measure Incorporated into H.R.2150.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Merchant Marine" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1313" />
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Ships"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/8/1993--Introduced.
+Authorizes the Secretary of the department in which the Coast Guard is operating to issue a certificate of documentation for a named vessel.
+
+	</summary>
+</bill>

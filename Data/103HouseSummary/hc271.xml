@@ -1,0 +1,53 @@
+<bill session="103" type="hc" number="271" updated="2010-04-18T21:43:25-04:00">
+	<state datetime="1994-07-25">REFERRED</state>
+	<status><introduced datetime="1994-07-25"/></status>
+
+	<introduced datetime="1994-07-25"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress regarding the termination of subsidies for the export of durum wheat from the United States.</title>
+	</titles>
+	<sponsor id="400008"/>
+	<cosponsors>
+		<cosponsor id="400183" joined="1994-08-01"/>
+		<cosponsor id="404296" joined="1994-08-01"/>
+		<cosponsor id="400269" joined="1994-07-25"/>
+		<cosponsor id="400544" joined="1994-08-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-25"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-07-26"><text>Sponsor introductory remarks on measure. (CR E1565-1566)</text></action>
+		<action datetime="1994-08-31"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on General Farm Commodities.</text></action>
+		<action datetime="1994-08-31"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Foreign Agriculture and Hunger.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="General Farm Commodities" activity="Referral" />
+		<committee code="" name="House Agriculture" subcommittee="Foreign Agriculture and Hunger" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural subsidies"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Export subsidies"/>
+		<term name="Food"/>
+		<term name="Foreign trade"/>
+		<term name="Import quotas"/>
+		<term name="Import restrictions"/>
+		<term name="Tariff"/>
+		<term name="Trade"/>
+		<term name="Wheat"/>
+		<term name="Wheat trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/25/1994--Introduced.
+Expresses the sense of the Congress that the Secretary of Agriculture should refuse to subsidize the export of durum wheat under the Export Enhancement Program or any other program in any calendar year: (1) succeeding a calendar year in which the domestic harvest of durum wheat is inadequate to meet the needs of U.S. pasta producers; and (2) in which there are trade restrictions in effect on the importation into the United States of such wheat, including quotas, ad valorem tariffs, or tariff rate quotas.
+
+	</summary>
+</bill>

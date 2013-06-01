@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="1139" updated="2010-04-19T02:06:03-04:00">
+	<state datetime="1993-02-25">REFERRED</state>
+	<status><introduced datetime="1993-02-25"/></status>
+
+	<introduced datetime="1993-02-25"/>
+	<titles>
+		<title type="official" as="introduced">To authorize and direct the Secretary of the Interior to convey certain lands in Cameron Parish, Louisiana, and for other purposes.</title>
+	</titles>
+	<sponsor id="405258"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-25"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-05-03"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1993-07-13"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-10-14"><committee name="House Committee on Natural Resources"/><text>For Further Action See S.433.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="433" />
+		<bill relation="unknown" session="103" type="s" number="433" />
+		<bill relation="unknown" session="103" type="s" number="433" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands"/>
+		<term name="Coast guard"/>
+		<term name="Harbors"/>
+		<term name="Land transfers"/>
+		<term name="Louisiana"/>
+		<term name="Port authorities"/>
+		<term name="Radio broadcasting"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/25/1993--Introduced.
+Directs the Secretary of the Interior to convey certain lands located in Cameron Parish, Louisiana, to the West Cameron Port Commission for use as a public port facility or for other public purposes, subject to reversion to the United States if such lands cease to be operated for such purposes, retention of property for the Coast Guard, retention of a U.S. permit for a tide gauge and height restrictions regarding a radio tower, and a reservation of minerals.
+
+	</summary>
+</bill>

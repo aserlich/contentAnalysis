@@ -1,0 +1,74 @@
+<bill session="103" type="h" number="2902" updated="2010-04-19T06:43:45-04:00">
+	<state datetime="1994-10-19">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-19" /></status>
+
+	<introduced datetime="1993-08-05"/>
+	<titles>
+		<title type="short" as="introduced">Federal Payment Formula Revision Act of 1993</title>
+		<title type="short" as="passed house">Federal Payment Reauthorization Act of 1994</title>
+		<title type="short" as="enacted">Federal Payment Reauthorization Act of 1994</title>
+		<title type="official" as="introduced">To amend the District of Columbia Self-Government and Governmental Reorganization Act to revise and make permanent the use of a formula based on adjusted District General Fund revenues as the basis for determining the amount of the annual Federal payment to the District of Columbia, and for other purposes.</title>
+	</titles>
+	<sponsor id="400387"/>
+	<cosponsors>
+		<cosponsor id="400295" joined="1993-08-05"/>
+		<cosponsor id="400262" joined="1993-08-05"/>
+		<cosponsor id="411488" joined="1993-08-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-05"><text>Sponsor introductory remarks on measure. (CR E2007)</text></action>
+		<action datetime="1993-08-05"><text>Referred to the House Committee on District of Columbia.</text></action>
+		<action datetime="1993-09-01"><committee name="House Committee on District of Columbia"/><text>Referred to the Subcommittee on Fiscal Affairs and Health.</text></action>
+		<action datetime="1994-07-14"><committee name="House Committee on District of Columbia"/><text>Subcommittee on Fiscal Affairs and Health Discharged.</text></action>
+		<action datetime="1994-07-14"><committee name="House Committee on District of Columbia"/><text>Committee Hearings Held.</text></action>
+		<action datetime="1994-09-26"><committee name="House Committee on District of Columbia"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-26"  state="REPORTED"><committee name="House Committee on District of Columbia"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-09-27T18:53:00-04:00"><text>Reported (Amended) by the Committee on District of Columbia. H. Rept. 103-754.</text></action>
+		<calendar number="414" datetime="1994-09-27T18:53:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 414.</text></calendar>
+		<action datetime="1994-10-03T12:15:00-04:00"><text>Mr. Stark asked unanimous consent to discharge the Committee of the Whole House on the State of the Union and consider.</text></action>
+		<action datetime="1994-10-03T12:15:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10449-10453"/></action>
+		<vote how="without objection" type="vote" datetime="1994-10-03T12:15:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-10-03T12:15:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-03T12:15:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1994-10-03"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-04" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S14079-14080"/></vote>
+		<topresident datetime="1994-10-04" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-05"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-11" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-19" ><text>Signed by President.</text></signed>
+		<enacted number="103-373" type="public" datetime="1994-10-19"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-373.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSDT" name="House District of Columbia" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="" name="House District of Columbia" subcommittee="Fiscal Affairs and Health" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Local government"/>
+		<term name="Auditing"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Congressional investigations"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="District of Columbia"/>
+		<term name="Federal-local relations"/>
+		<term name="Finance"/>
+		<term name="Government employees"/>
+		<term name="Municipal budgets"/>
+		<term name="Municipal finance"/>
+		<term name="Municipal officials and employees"/>
+		<term name="Planning-programming-budgeting"/>
+		<term name="State and local government"/>
+	</subjects>
+	<amendments>
+		<amendment number="h908"/>
+	</amendments>
+	<summary>
+	10/3/1994--Passed House amended. Federal Payment Reauthorization Act of 1994 - Amends the District of Columbia Self-Government and Governmental Reorganization Act to authorize $660 million to be appropriated as the Federal payment to the District of Columbia (DC) for FY 1996. Requires the Mayor, by March 1 of each year, to develop and submit to specified congressional committees and the Comptroller General: (1) a performance accountability plan for all departments, agencies, and programs of the DC government for the subsequent fiscal year, including a description of the activities that are subject to a court order and the requirements placed on such activities by such order; and (2) a performance accountability report on activities of DC government during the fiscal year ending the previous September 30. Directs the Comptroller General to review and evaluate each performance accountability report and submit comments to those congressional committees. Requires the Mayor, by March 1 of each year, to develop and submit to specified congressional committees and the Comptroller General: (1) a five-year financial plan for the DC government that describes steps the government will take to eliminate any differences between expenditures from, and revenues attributable to, each DC fund during the first five fiscal years beginning after submission of the plan; and (2) a report on the extent to which the DC government was in compliance during the preceding fiscal year with the applicable requirements of such plan (beginning with 1997). Directs the Comptroller General to review and evaluate the financial accountability compliance report and submit comments to such congressional committees. Requires the Mayor to submit quarterly financial reports on the financial and budgetary status of the DC government for the previous quarter.
+
+	</summary>
+</bill>

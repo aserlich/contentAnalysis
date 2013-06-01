@@ -1,0 +1,96 @@
+<bill session="103" type="h" number="3840" updated="2012-07-17T04:41:16-04:00">
+	<state datetime="1994-08-01">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-08-01" /></status>
+
+	<introduced datetime="1994-02-10"/>
+	<titles>
+		<title type="official" as="introduced">To designate the Federal building and United States courthouse located at 100 East Houston Street in Marshall, Texas, as the &quot;Sam B. Hall, Jr. Federal Building and United States Courthouse&quot;.</title>
+	</titles>
+	<sponsor id="402454"/>
+	<cosponsors>
+		<cosponsor id="400143" joined="1994-03-03"/>
+		<cosponsor id="411725" joined="1994-03-03"/>
+		<cosponsor id="408725" joined="1994-03-10"/>
+		<cosponsor id="409578" joined="1994-03-03"/>
+		<cosponsor id="407838" joined="1994-03-03"/>
+		<cosponsor id="400104" joined="1994-03-10"/>
+		<cosponsor id="400882" joined="1994-03-10"/>
+		<cosponsor id="400079" joined="1994-03-10"/>
+		<cosponsor id="403308" joined="1994-03-10"/>
+		<cosponsor id="400018" joined="1994-03-03"/>
+		<cosponsor id="400206" joined="1994-03-10"/>
+		<cosponsor id="400037" joined="1994-03-10"/>
+		<cosponsor id="401947" joined="1994-03-03"/>
+		<cosponsor id="402750" joined="1994-03-03"/>
+		<cosponsor id="400567" joined="1994-03-03"/>
+		<cosponsor id="404503" joined="1994-03-03"/>
+		<cosponsor id="410076" joined="1994-03-03"/>
+		<cosponsor id="404068" joined="1994-03-10"/>
+		<cosponsor id="400381" joined="1994-03-10"/>
+		<cosponsor id="401837" joined="1994-03-03"/>
+		<cosponsor id="406625" joined="1994-03-10"/>
+		<cosponsor id="411350" joined="1994-03-10"/>
+		<cosponsor id="404634" joined="1994-03-03"/>
+		<cosponsor id="400160" joined="1994-03-10"/>
+		<cosponsor id="410084" joined="1994-03-10"/>
+		<cosponsor id="400204" joined="1994-03-03"/>
+		<cosponsor id="400118" joined="1994-03-10"/>
+		<cosponsor id="400165" joined="1994-03-03"/>
+		<cosponsor id="400389" joined="1994-03-03"/>
+		<cosponsor id="400302" joined="1994-03-10"/>
+		<cosponsor id="410695" joined="1994-03-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-10" state="REFERRED"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-02-25"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Public Buildings and Grounds.</text></action>
+		<action datetime="1994-04-21"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-04-21"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-04-21"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1994-05-17"><committee name="House Committee on Public Works + Transportation"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-05-17"  state="REPORTED"><committee name="House Committee on Public Works + Transportation"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-05-19T15:50:00-04:00"><text>Reported by the Committee on Public Works + Transportation. H. Rept. 103-514.</text></action>
+		<calendar number="162" datetime="1994-05-19T15:51:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 162.</text></calendar>
+		<action datetime="1994-05-23T13:15:00-04:00"><text>Mr. Traficant moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-05-23T13:16:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3836-3838"/></action>
+		<action datetime="1994-05-23T13:16:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-05-23T13:29:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1994-05-23T13:29:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-05-25"><text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<action datetime="1994-06-21"><text>Senate Committee on Governmental Affairs discharged by Voice Vote.</text></action>
+		<action datetime="1994-06-21"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar datetime="1994-06-23" ><committee name="Committee on Environment and Public Works"/><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-06-23"><text>Committee on Environment and Public Works. Reported to Senate by Senator Baucus without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="494" datetime="1994-06-23" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 494.</text></calendar>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-07-15" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S9134"/></vote>
+		<topresident datetime="1994-07-15" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-07-19"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-07-21" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-08-01" ><text>Signed by President.</text></signed>
+		<enacted number="103-289" type="public" datetime="1994-08-01"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-289.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Public Buildings and Grounds" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Discharged" />
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2008" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Commemorations"/>
+		<term name="Courthouses"/>
+		<term name="Federal office buildings"/>
+		<term name="Names"/>
+		<term name="Texas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/1994--Introduced.
+Designates the Federal building located at 100 East Houston Street in Marshall, Texas, as the Sam B. Hall, Jr. Federal Building and United States Courthouse.
+
+	</summary>
+</bill>

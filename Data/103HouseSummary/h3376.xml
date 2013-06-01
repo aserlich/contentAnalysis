@@ -1,0 +1,86 @@
+<bill session="103" type="h" number="3376" updated="2010-04-19T07:57:03-04:00">
+	<state datetime="1993-11-02T12:30:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-02T12:30:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-10-27"/>
+	<titles>
+		<title type="short" as="introduced">Higher Education Technical Amendments of 1993</title>
+		<title type="short" as="passed house">Higher Education Technical Amendments of 1993</title>
+		<title type="official" as="introduced">To make certain technical and conforming amendments to the Higher Education Act of 1965.</title>
+	</titles>
+	<sponsor id="404220"/>
+	<cosponsors>
+		<cosponsor id="400364" joined="1993-10-27"/>
+		<cosponsor id="411677" joined="1993-10-27"/>
+		<cosponsor id="403314" joined="1993-10-27"/>
+		<cosponsor id="408052" joined="1993-10-27"/>
+		<cosponsor id="411040" joined="1993-10-27"/>
+		<cosponsor id="400091" joined="1993-10-27"/>
+		<cosponsor id="400216" joined="1993-10-27"/>
+		<cosponsor id="400312" joined="1993-10-27"/>
+		<cosponsor id="404869" joined="1993-10-27"/>
+		<cosponsor id="400539" joined="1993-10-27"/>
+		<cosponsor id="400008" joined="1993-10-27"/>
+		<cosponsor id="400586" joined="1993-10-27"/>
+		<cosponsor id="402626" joined="1993-10-27"/>
+		<cosponsor id="400615" joined="1993-10-27"/>
+		<cosponsor id="400595" joined="1993-10-27"/>
+		<cosponsor id="400318" joined="1993-10-27"/>
+		<cosponsor id="400516" joined="1993-10-27"/>
+		<cosponsor id="400278" joined="1993-10-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-27"><text>Sponsor introductory remarks on measure. (CR E2549-2552)</text></action>
+		<action datetime="1993-10-27"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-11-02T12:22:00-05:00"><text>Mr. Ford (MI) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-02T12:23:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8676-8684"/></action>
+		<action datetime="1993-11-02T12:23:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-02T12:30:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-02T12:32:00-05:00"><text>Laid on the table. See S. 1507 for further action.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="superseded" session="103" type="s" number="1507" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Accreditation (Education)"/>
+		<term name="Aliens"/>
+		<term name="Bank accounts"/>
+		<term name="Bankruptcy"/>
+		<term name="Collection of accounts"/>
+		<term name="College costs"/>
+		<term name="Colleges"/>
+		<term name="Consumer credit"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Divorcees"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Federal aid to medical education"/>
+		<term name="Federal aid to vocational education"/>
+		<term name="Fees"/>
+		<term name="Government employees"/>
+		<term name="Identification devices"/>
+		<term name="Income"/>
+		<term name="Interest"/>
+		<term name="Interest rates"/>
+		<term name="Medical care"/>
+		<term name="Medical residents"/>
+		<term name="Poor"/>
+		<term name="Scholarships"/>
+		<term name="Student aid"/>
+		<term name="Student employment"/>
+		<term name="Student loan funds"/>
+		<term name="Teacher education"/>
+		<term name="Territories (U.S.)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/2/1993--Passed House amended. Higher Education Technical Amendments of 1993 - Amends the Higher Education Act of 1965 to make certain technical corrections and conforming amendments.
+
+	</summary>
+</bill>

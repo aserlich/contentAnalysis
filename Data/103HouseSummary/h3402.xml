@@ -1,0 +1,64 @@
+<bill session="103" type="h" number="3402" updated="2012-07-17T05:08:26-04:00">
+	<state datetime="1993-11-20T14:48:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-20T14:48:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-10-28"/>
+	<titles>
+		<title type="short" as="introduced">Fountain Darter Captive Propagation Research Act of 1993</title>
+		<title type="short" as="passed house">Fountain Darter Captive Propagation Research Act of 1993</title>
+		<title type="official" as="introduced">To establish a fountain darter captive propagation research program.</title>
+	</titles>
+	<sponsor id="404068"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-28" state="REFERRED"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-11-01"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1993-11-01"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1993-11-18"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-11-18"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-11-18"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Subcommittee on Environment and Natural Resources Discharged.</text></action>
+		<action datetime="1993-11-20T14:47:00-05:00"><text>Mr. Studds moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-20T14:48:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10384-10385"/></action>
+		<action datetime="1993-11-20T14:48:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-20T14:48:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-20T14:48:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-20"><text>Received in the Senate.</text></action>
+		<action datetime="1993-11-23"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral, Discharged" />
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Animals"/>
+		<term name="Colleges"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Endangered animals"/>
+		<term name="Environmental research"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Federal aid to research"/>
+		<term name="Fish culture"/>
+		<term name="Fishery management"/>
+		<term name="Higher education"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Research centers"/>
+		<term name="Rivers"/>
+		<term name="Science, technology, communications"/>
+		<term name="Texas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Passed House amended. Fountain Darter Captive Propagation Research Act of 1993 - Directs the Secretary of the Interior to establish a fountain darter captive propagation research program: (1) to be operated in a manner that is consistent with the San Marcos Recovery Plan for San Marcos River endangered and threatened species; and (2) carry out specified activities at the San Marcos National Fish Hatchery and Technology Center and at Texas A&amp;M University. Authorizes appropriations.
+
+	</summary>
+</bill>

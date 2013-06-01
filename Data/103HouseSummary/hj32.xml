@@ -1,0 +1,47 @@
+<bill session="103" type="hj" number="32" updated="2010-04-18T21:55:55-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States permitting the President to grant a pardon to an individual only after such individual has been convicted.</title>
+	</titles>
+	<sponsor id="405939"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-01-26"/>
+		<cosponsor id="400126" joined="1993-02-03"/>
+		<cosponsor id="404013" joined="1993-01-26"/>
+		<cosponsor id="400143" joined="1993-01-26"/>
+		<cosponsor id="400387" joined="1993-01-26"/>
+		<cosponsor id="409650" joined="1993-01-26"/>
+		<cosponsor id="400178" joined="1993-02-23"/>
+		<cosponsor id="400554" joined="1993-01-26"/>
+		<cosponsor id="400357" joined="1993-01-26"/>
+		<cosponsor id="400204" joined="1993-01-26"/>
+		<cosponsor id="406554" joined="1993-02-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Criminal procedure"/>
+		<term name="Constitutional amendments"/>
+		<term name="Presidential pardons"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Constitutional Amendment - Empowers the President to grant a reprieve or a pardon for an offense only to an individual who has been convicted of such offense.
+
+	</summary>
+</bill>

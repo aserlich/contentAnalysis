@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="373" updated="2010-04-18T23:58:04-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="popular" as="">Luxury Tax on Boats (repeal it)</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the luxury tax on boats and to offset the revenue loss from that repeal by repealing certain changes in the percentage depletion provisions of such Code.</title>
+	</titles>
+	<sponsor id="300091"/>
+	<cosponsors>
+		<cosponsor id="401547" joined="1993-03-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Boats and boating"/>
+		<term name="Depletion allowances"/>
+		<term name="Energy policy"/>
+		<term name="Excise tax"/>
+		<term name="Income tax"/>
+		<term name="Oil well drilling"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends the Internal Revenue Code to repeal the luxury excise tax on boats. Repeals provisions of the Omnibus Budget Reconciliation Act of 1990 with respect to modifications of percentage depletion in the case of oil and gas wells.
+
+	</summary>
+</bill>

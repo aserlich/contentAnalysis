@@ -1,0 +1,154 @@
+<bill session="103" type="s" number="732" updated="2012-07-17T05:12:55-04:00">
+	<state datetime="1993-11-04">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-11-04" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="short" as="introduced">Comprehensive Child Immunization Act of 1993</title>
+		<title type="short" as="passed senate">Comprehensive Child Immunization Act of 1993</title>
+		<title type="official" as="introduced">A bill to provide for the immunization of all children in the United States against vaccine-preventable diseases, and for other purposes.</title>
+	</titles>
+	<sponsor id="300059"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="1993-11-04"/>
+		<cosponsor id="300056" joined="1993-10-07"/>
+		<cosponsor id="300043" joined="1993-11-04"/>
+		<cosponsor id="406084" joined="1993-10-06"/>
+		<cosponsor id="405212" joined="1993-10-26"/>
+		<cosponsor id="401709" joined="1993-11-02"/>
+		<cosponsor id="409225" joined="1993-04-01"/>
+		<cosponsor id="300011" joined="1993-10-29"/>
+		<cosponsor id="409917" joined="1993-04-01"/>
+		<cosponsor id="300066" joined="1993-10-29"/>
+		<cosponsor id="300086" joined="1993-10-20"/>
+		<cosponsor id="300053" joined="1993-11-01"/>
+		<cosponsor id="300001" joined="1993-11-03"/>
+		<cosponsor id="300073" joined="1993-04-01"/>
+		<cosponsor id="407663" joined="1993-04-01"/>
+		<cosponsor id="300037" joined="1993-04-27"/>
+		<cosponsor id="300067" joined="1993-10-14"/>
+		<cosponsor id="300049" joined="1993-10-07"/>
+		<cosponsor id="300061" joined="1993-10-29"/>
+		<cosponsor id="300017" joined="1993-06-17"/>
+		<cosponsor id="300051" joined="1993-05-25"/>
+		<cosponsor id="300057" joined="1993-05-26"/>
+		<cosponsor id="403669" joined="1993-10-06"/>
+		<cosponsor id="300009" joined="1993-04-28"/>
+		<cosponsor id="402412" joined="1993-10-06"/>
+		<cosponsor id="402004" joined="1993-10-28"/>
+		<cosponsor id="408597" joined="1993-04-02"/>
+		<cosponsor id="300034" joined="1993-05-25"/>
+		<cosponsor id="403171" joined="1993-11-03"/>
+		<cosponsor id="411818" joined="1993-05-25"/>
+		<cosponsor id="404598" joined="1993-11-03"/>
+		<cosponsor id="406188" joined="1993-05-26"/>
+		<cosponsor id="300076" joined="1993-11-01"/>
+		<cosponsor id="400566" joined="1993-04-01"/>
+		<cosponsor id="402727" joined="1993-11-03"/>
+		<cosponsor id="407992" joined="1993-11-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4316, S4319)</text></action>
+		<action datetime="1993-04-01" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<action datetime="1993-04-21"><committee name="Committee on Labor and Human Resources"/><text>Committee on Labor and Human Resources. Hearings held.</text></action>
+		<calendar datetime="1993-05-19"  state="REPORTED"><committee name="Committee on Labor and Human Resources"/><text>Committee on Labor and Human Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1993-09-28"><text>Committee on Labor and Human Resources. Reported to Senate by Senator Kennedy with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="214" datetime="1993-09-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 214.</text></calendar>
+		<action datetime="1993-11-04"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S15077-15084"/></action>
+		<action datetime="1993-11-04"><text>The committee substitute as amended agreed to by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-04" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-11-08T12:01:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-08"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-08T15:54:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-11-19"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-12-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Administrative fees"/>
+		<term name="Administrative procedure"/>
+		<term name="Agriculture and food"/>
+		<term name="Aid to dependent children"/>
+		<term name="Armed forces and national security"/>
+		<term name="Authorization"/>
+		<term name="Child health"/>
+		<term name="Child nutrition"/>
+		<term name="Childbirth"/>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Claims"/>
+		<term name="Clinics"/>
+		<term name="Commerce"/>
+		<term name="Community health services"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Consumer education"/>
+		<term name="Cost effectiveness"/>
+		<term name="Data banks"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Diphtheria"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Epidemiology"/>
+		<term name="Excise tax"/>
+		<term name="Families"/>
+		<term name="Federal aid to child health services"/>
+		<term name="Federal aid to health facilities"/>
+		<term name="Federal aid to housing"/>
+		<term name="Federal aid to medical education"/>
+		<term name="Federal aid to medical research"/>
+		<term name="Food stamps"/>
+		<term name="Government liability"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Government publications"/>
+		<term name="Government trust funds"/>
+		<term name="Health education"/>
+		<term name="Health planning"/>
+		<term name="Health surveys"/>
+		<term name="Higher education"/>
+		<term name="Homeless"/>
+		<term name="Housing and community development"/>
+		<term name="Information services"/>
+		<term name="Labor and employment"/>
+		<term name="Law"/>
+		<term name="Legal fees"/>
+		<term name="Limitation of actions"/>
+		<term name="Malpractice"/>
+		<term name="Measles"/>
+		<term name="Medicaid"/>
+		<term name="Medical malpractice insurance"/>
+		<term name="Medical records"/>
+		<term name="Medical statistics"/>
+		<term name="Migrant labor"/>
+		<term name="Military medicine"/>
+		<term name="Poliomyelitis"/>
+		<term name="Preventive medicine"/>
+		<term name="Public assistance programs"/>
+		<term name="Public housing"/>
+		<term name="Right of privacy"/>
+		<term name="Rubella"/>
+		<term name="Science, technology, communications"/>
+		<term name="Social welfare"/>
+		<term name="State laws"/>
+		<term name="Tax rates"/>
+		<term name="Taxation"/>
+		<term name="Vaccination"/>
+		<term name="Vaccines"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1106"/>
+	</amendments>
+	<summary>
+	11/4/1993--Passed Senate amended. Comprehensive Child Immunization Act of 1993 - Amends the Public Health Service Act to mandate establishment of a list of the vaccines that the Secretary of Health and Human Services recommends for administration to all children and a recommended administration schedule. Makes the list and schedule subordinate to State law. Mandates allotments to States. Provides for the establishment of State registries to monitor the immunization status of all children. Requires States to: (1) allow parents to opt out of the registry; and (2) monitor and enforce compliance with these provisions by health care providers. Authorizes appropriations. Establishes a national immunization surveillance program to assess the effects of these provisions, provide technical assistance to States, and receive aggregate epidemiologic data collected by States. Authorizes appropriations. Directs the Secretary of Health and Human Services to provide for the distribution, without charge, of pediatric vaccines purchased by the Secretary to health care providers who are: (1) members of a uniformed service; (2) U.S. officers or employees; (3) federally qualified health centers; (4) migrant or community health centers; (5) entities providing health services for the homeless or for residents of public housing; or (6) public or nonprofit entities receiving funds under provisions of the Social Security Act relating to special projects of regional and national significance. Prohibits a provider receiving the vaccine from imposing a charge for the vaccine but allows a charge for the actual costs of the administration of the vaccine. Mandates activities to improve Federal, State, and local vaccine delivery systems and immunization outreach and education efforts, including a National Immunization Public Awareness Campaign and incorporation of immunization status assessments and referral in the application process for various types of Federal assistance. Authorizes grants to States to develop, revise, and implement immunization improvement plans. Requires States to establish child immunization rate goals. Authorizes appropriations. Requires States to report annually to the Centers for Disease Control and Prevention with an estimate of the percentage of two-year-olds who have received specified immunizations, mandating: (1) grants to States that exceed certain percentages; and (2) reinvestment of specified grant percentages in immunization activities. Mandates: (1) a biennial report on the costs, efficiency, and effectiveness of procedures established to deliver vaccine to health care providers; and (2) a report by the National Academy of Sciences on the role of the National Vaccine Program established under this title in achieving progress toward the established immunization goals for the year 2000. (Sec. 3) Requires that the Vaccine Injury Table of the National Vaccine Injury Compensation Program include any vaccine on the list established under this subtitle. Allows a special master to award reasonable attorney's fees whether or not an election has been made to file a civil action regarding a vaccine injury compensation petition. Requires that compensation under the Program be used as determined by the special master to be in the best interests of the petitioner. (Current law requires that the compensation be used, with the consent of the petitioner, as determined by the special master to be in the best interests of the petitioner.) Sets time limits regarding applications for attorney's fees and costs. Authorizes appropriations for payment of compensation under the Program regarding vaccines administered before the effective date of the Program. Revises requirements regarding: (1) time limits on actions when the Table is revised; and (2) extensions of time limits for decisions. Mandates an annual report on amounts collected under provisions regarding subrogation of petitioners' rights. Requires the Advisory Commission on Childhood Vaccines to monitor the balance of the Vaccine Injury Trust Fund and recommend changes in the tax per dose. Revises requirements regarding vaccine information materials. Authorizes appropriations from the Trust Fund for administering the National Vaccine Program. (Sec. 4) Removes provisions authorizing grants for research on the prevention and control of diseases through vaccination and related demonstration projects, public information programs, and health professionals training and clinical skills improvement. (Sec. 5) Allows malpractice coverage, in certain circumstances, for officers, employees, and contractors of entities that are migrant or community health centers or that provide health services for the homeless or for residents of public housing when they provide services to individuals who are not patients of the entities. Requires that appropriations for a malpractice claim fund be made separate from the appropriations for such entities.
+
+	</summary>
+</bill>

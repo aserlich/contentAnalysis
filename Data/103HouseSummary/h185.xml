@@ -1,0 +1,40 @@
+<bill session="103" type="h" number="185" updated="2010-04-18T23:28:47-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Agricultural Act of 1949 to make American Samoa eligible for emergency livestock feed assistance.</title>
+	</titles>
+	<sponsor id="400128"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-01-15"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Livestock.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="HSAG-03" name="House Agriculture" subcommittee="Livestock" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural economics"/>
+		<term name="American Samoa"/>
+		<term name="Disaster relief"/>
+		<term name="Feeds"/>
+		<term name="Livestock"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends the Agricultural Act of 1949 to make American Samoa eligible for emergency livestock feed assistance.
+
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="103" type="hj" number="45" updated="2010-04-18T21:57:58-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="popular" as="">Term Limits bill</title>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States limiting the number of consecutive terms for Members of the House of Representatives and the Senate.</title>
+	</titles>
+	<sponsor id="410147"/>
+	<cosponsors>
+		<cosponsor id="300097" joined="1993-03-25"/>
+		<cosponsor id="405258" joined="1994-07-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="47" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional terms of office"/>
+		<term name="Constitutional amendments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Constitutional Amendment - Limits Members of the House of Representatives to six consecutive terms and Members of the Senate to two consecutive terms.
+
+	</summary>
+</bill>

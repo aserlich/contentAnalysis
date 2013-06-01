@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="4874" updated="2010-04-19T11:51:25-04:00">
+	<state datetime="1994-08-01">REFERRED</state>
+	<status><introduced datetime="1994-08-01"/></status>
+
+	<introduced datetime="1994-08-01"/>
+	<titles>
+		<title type="official" as="introduced">To amend the White House Conference on Small Business Authorization Act to require the final report of the National Conference to be published in the Federal Register and distributed through the regional offices of the Small Business Administration.</title>
+	</titles>
+	<sponsor id="407465"/>
+	<cosponsors>
+		<cosponsor id="411040" joined="1994-09-28"/>
+		<cosponsor id="400143" joined="1994-09-28"/>
+		<cosponsor id="409219" joined="1994-09-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-01"><text>Referred to the House Committee on Small Business.</text></action>
+		<action datetime="1994-08-03"><committee name="House Committee on Small Business"/><text>Referred to the Subcommittee on SBA Legislation and the General Economy.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSM" name="House Small Business" activity="Referral, In Committee" />
+		<committee code="" name="House Small Business" subcommittee="SBA Legislation and the General Economy" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Small business"/>
+		<term name="Business"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Government publications"/>
+		<term name="Presidents"/>
+		<term name="White House conferences"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/1/1994--Introduced.
+Amends the White House Conference on Small Business Authorization Act to require the final report of the National White House Conference on Small Business to be published in the Federal Register and distributed through the regional offices of the Small Business Administration.
+
+	</summary>
+</bill>

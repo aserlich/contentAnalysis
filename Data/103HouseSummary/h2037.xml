@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="2037" updated="2010-04-19T04:29:50-04:00">
+	<state datetime="1993-05-06">REFERRED</state>
+	<status><introduced datetime="1993-05-06"/></status>
+
+	<introduced datetime="1993-05-06"/>
+	<titles>
+		<title type="official" as="introduced">To reduce the rate of procurement of DDG-51 destroyers.</title>
+	</titles>
+	<sponsor id="300085"/>
+	<cosponsors>
+		<cosponsor id="406431" joined="1993-11-20"/>
+		<cosponsor id="400216" joined="1994-02-02"/>
+		<cosponsor id="412001" joined="1993-11-20"/>
+		<cosponsor id="409618" joined="1993-11-22"/>
+		<cosponsor id="400251" joined="1994-04-21"/>
+		<cosponsor id="300100" joined="1994-05-03"/>
+		<cosponsor id="411997" joined="1993-11-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-06"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-05-11"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Acquisition.</text></action>
+		<action datetime="1993-05-11"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from Navy.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Acquisition" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Destroyers"/>
+		<term name="Naval procurement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/6/1993--Introduced.
+Allows no more than two DDG-51 destroyers to be procured by the Navy for each of FY 1994 through 1997.
+
+	</summary>
+</bill>

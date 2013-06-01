@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="211" updated="2010-04-18T23:32:46-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To categorize payments from lobbyists to, or on behalf of, Members of Congress as bribery under Federal criminal law.</title>
+	</titles>
+	<sponsor id="405939"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Bribery"/>
+		<term name="Congressional ethics"/>
+		<term name="Lobbying"/>
+		<term name="Members of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Declares that lobbyist payments to or on behalf of Members of Congress shall constitute bribery under Federal criminal law.
+
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="2436" updated="2010-04-19T05:31:26-04:00">
+	<state datetime="1993-06-16">REFERRED</state>
+	<status><introduced datetime="1993-06-16"/></status>
+
+	<introduced datetime="1993-06-16"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to include services provided by interns and residents under any medical residency training program approved by the Accreditation Council for Graduate Medical Education in determining the amount of payment to hospitals under part A of the medicare program for the indirect costs of medical education.</title>
+	</titles>
+	<sponsor id="408556"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-16"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-06-24"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Education"/>
+		<term name="Federal aid to medical education"/>
+		<term name="Hospitals"/>
+		<term name="Medical care"/>
+		<term name="Medical residents"/>
+		<term name="Medicare"/>
+		<term name="Prospective payment systems (Medical care)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/16/1993--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to count services provided by interns and residents under certain off-site medical residency training programs approved by the Accreditation Council for Graduate Medical Education in determining the amount of payment to hospitals under Medicare part A (Hospital Insurance) for the indirect costs of medical education.
+
+	</summary>
+</bill>

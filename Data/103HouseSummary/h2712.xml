@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="2712" updated="2010-04-19T06:14:15-04:00">
+	<state datetime="1993-07-22">REFERRED</state>
+	<status><introduced datetime="1993-07-22"/></status>
+
+	<introduced datetime="1993-07-22"/>
+	<titles>
+		<title type="short" as="introduced">National Education Goal for Parental Participation Act</title>
+		<title type="official" as="introduced">To establish an additional National Education Goal relating to parental participation in both the formal and informal education of their children, and for other purposes.</title>
+	</titles>
+	<sponsor id="407399"/>
+	<cosponsors>
+		<cosponsor id="401494" joined="1993-10-26"/>
+		<cosponsor id="400201" joined="1993-11-09"/>
+		<cosponsor id="401774" joined="1993-10-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-22"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-07-29"><text>Sponsor introductory remarks on measure. (CR E1920)</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1118" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Parent-school relationships"/>
+		<term name="Parent-teacher relationships"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/22/1993--Introduced.
+National Education Goal for Parental Participation Act - Directs the National Education Goals Panel to establish as an additional National Education Goal that, by the year 2000, every school and home will engage in partnerships that will increase parental involvement and participation in promoting the social, emotional, and academic growth of children.
+
+	</summary>
+</bill>

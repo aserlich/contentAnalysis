@@ -1,0 +1,88 @@
+<bill session="103" type="h" number="4616" updated="2010-04-19T11:11:11-04:00">
+	<state datetime="1994-06-21">REFERRED</state>
+	<status><introduced datetime="1994-06-21"/></status>
+
+	<introduced datetime="1994-06-21"/>
+	<titles>
+		<title type="short" as="introduced">Natural Gas Pipeline Safety Improvement Act of 1994</title>
+		<title type="official" as="introduced">To amend the Natural Gas Pipeline Safety Act of 1968 and the Hazardous Liquid Pipeline Safety Act of 1979 to improve natural gas and hazardous liquid pipeline safety, in response to the natural gas pipeline accident in Edison, New Jersey, and for other purposes.</title>
+	</titles>
+	<sponsor id="400308"/>
+	<cosponsors>
+		<cosponsor id="400584" joined="1994-07-21"/>
+		<cosponsor id="300156" joined="1994-07-21"/>
+		<cosponsor id="401417" joined="1994-07-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-21"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-06-21"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-06-30"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Energy and Power.</text></action>
+		<action datetime="1994-07-05"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="HSIF-03" name="House Energy and Commerce" subcommittee="Energy and Power" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2219" />
+		<bill relation="unknown" session="103" type="s" number="2219" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation"/>
+		<term name="Accident prevention"/>
+		<term name="Administrative procedure"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Communications"/>
+		<term name="Criminal justice"/>
+		<term name="Data banks"/>
+		<term name="Department of Transportation"/>
+		<term name="Emergency communication systems"/>
+		<term name="Emergency management"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Environmental protection"/>
+		<term name="Excavation"/>
+		<term name="Executive departments"/>
+		<term name="Federal aid to transportation"/>
+		<term name="Federal employees"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Gas pipelines"/>
+		<term name="Government employees"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Governmental investigations"/>
+		<term name="Hazardous substances"/>
+		<term name="Information services"/>
+		<term name="Injunctions"/>
+		<term name="Labor"/>
+		<term name="Law"/>
+		<term name="Local government"/>
+		<term name="Natural gas"/>
+		<term name="Petroleum pipelines"/>
+		<term name="Pipelines"/>
+		<term name="Public service advertising"/>
+		<term name="Recruiting of employees"/>
+		<term name="Right-of-way"/>
+		<term name="Risk assessment"/>
+		<term name="Solid wastes"/>
+		<term name="State and local government"/>
+		<term name="Technology"/>
+		<term name="Telecommunication"/>
+		<term name="Telephone"/>
+		<term name="Transportation of hazardous substances"/>
+		<term name="Transportation safety"/>
+		<term name="Underground construction"/>
+		<term name="Underground utility lines"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/21/1994--Introduced.
+Natural Gas Pipeline Safety Improvement Act of 1994 - Amends the Natural Gas Pipeline Safety Act of 1968 and the Hazardous Liquid Pipeline Safety Act of 1979 to authorize the Secretary of Transportation to recover from any person engaged in the transportation of gas or hazardous liquids, or from the owner or operator of pipeline facilities, the costs incurred in: (1) accident investigation; or (2) overseeing the response of the person to the accident. Sets a limit upon the amounts recovered. Authorizes the Secretary to make grants to: (1) the States for the development and establishment of a one-call notification system; and (2) one-call notification systems for promoting their use. Prescribes guidelines under which the Secretary may develop an electronic data base on pipeline facilities in order to facilitate risk assessment and safety planning. Authorizes appropriations. Directs the Federal Energy Regulatory Commission to review its practices and guidelines for siting natural gas interstate transmission facilities in urban areas in order to determine improved routes and rights-of-way. Instructs the Secretary to make educational information available to local governments over whose lands pass: (1) natural gas interstate transmission facilities; and (2) hazardous liquid interstate pipeline facilities. Proscribes excavation and solid waste disposal activity within pipeline rights-of-way, or within a limited area in the vicinity of an interstate pipeline facility. Modifies the deadline for the Secretary to issue regulations for periodic pipeline inspections. Instructs the Secretary to prescribe a schedule for such inspections. Requires the owner/operator of an interstate transmission facility to notify annually all residents within certain distances of such facility of the reporting procedures for suspicious activities (including dumping and excavation). Directs the Secretary to develop public service announcements governing pipeline safety. Directs the Secretary to promulgate regulations requiring the use of remotely or automatically controlled valves for shutting off gas flow in case of an accident or a loss of the primary power source. Requires the owner/operator of certain pipelines to obtain baseline pipeline safety information through the use of instrumented internal inspection devices (smart pigs).
+
+	</summary>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="103" type="h" number="662" updated="2010-04-19T00:46:01-04:00">
+	<state datetime="1993-01-27">REFERRED</state>
+	<status><introduced datetime="1993-01-27"/></status>
+
+	<introduced datetime="1993-01-27"/>
+	<titles>
+		<title type="official" as="introduced">To limit United States contributions to the United Nations.</title>
+	</titles>
+	<sponsor id="400085"/>
+	<cosponsors>
+		<cosponsor id="400174" joined="1993-04-02"/>
+		<cosponsor id="410147" joined="1993-04-07"/>
+		<cosponsor id="300055" joined="1993-04-02"/>
+		<cosponsor id="400113" joined="1993-07-01"/>
+		<cosponsor id="400322" joined="1993-03-29"/>
+		<cosponsor id="400348" joined="1993-03-30"/>
+		<cosponsor id="400388" joined="1994-07-20"/>
+		<cosponsor id="300151" joined="1994-04-20"/>
+		<cosponsor id="403545" joined="1994-07-28"/>
+		<cosponsor id="400359" joined="1994-08-08"/>
+		<cosponsor id="400017" joined="1994-02-01"/>
+		<cosponsor id="300062" joined="1993-04-01"/>
+		<cosponsor id="412001" joined="1994-07-28"/>
+		<cosponsor id="400169" joined="1993-05-26"/>
+		<cosponsor id="400083" joined="1993-11-22"/>
+		<cosponsor id="409618" joined="1993-04-26"/>
+		<cosponsor id="400601" joined="1993-04-26"/>
+		<cosponsor id="400221" joined="1994-06-29"/>
+		<cosponsor id="400012" joined="1993-04-26"/>
+		<cosponsor id="400610" joined="1993-11-22"/>
+		<cosponsor id="411178" joined="1993-11-19"/>
+		<cosponsor id="401081" joined="1993-04-07"/>
+		<cosponsor id="411997" joined="1993-11-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-27"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-02-11"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Operations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Operations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="United Nations finances"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/1993--Introduced.
+Limits U.S. contributions to the United Nations to an amount which bears the same ratio to the total budget of the United Nations as the total population of the United States bears to the total population of all the member states of the United Nations.
+
+	</summary>
+</bill>

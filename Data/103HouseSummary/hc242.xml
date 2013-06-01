@@ -1,0 +1,47 @@
+<bill session="103" type="hc" number="242" updated="2010-04-18T21:38:49-04:00">
+	<state datetime="1994-04-21">REFERRED</state>
+	<status><introduced datetime="1994-04-21"/></status>
+
+	<introduced datetime="1994-04-21"/>
+	<titles>
+		<title type="official" as="introduced">To express the sense of the Congress that if nominated by the Governor of New York as an estuary of national significance, the Administrator of the Environmental Protection Agency should select and convene a management conference under the Federal Water Pollution Control Act for the lands and waters comprising the South Shore Estuary Reserve on Long Island, New York.</title>
+	</titles>
+	<sponsor id="400219"/>
+	<cosponsors>
+		<cosponsor id="406768" joined="1994-04-21"/>
+		<cosponsor id="400003" joined="1994-04-21"/>
+		<cosponsor id="400594" joined="1994-04-21"/>
+		<cosponsor id="405524" joined="1994-04-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-21"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1994-04-21"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-04-25"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1994-04-25"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from EPA.</text></action>
+		<action datetime="1994-05-05"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Conferences"/>
+		<term name="Estuarine area conservation"/>
+		<term name="Marine resources"/>
+		<term name="New York State"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/21/1994--Introduced.
+Expresses the sense of the Congress that if the Governor of New York nominates the South Shore Estuary Reserve as an estuary of national significance, then the Administrator of the Environmental Protection Agency should select and convene a management conference for the Reserve under the authorities of the Federal Water Pollution Control Act.
+
+	</summary>
+</bill>

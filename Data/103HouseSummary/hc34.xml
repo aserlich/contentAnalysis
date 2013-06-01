@@ -1,0 +1,68 @@
+<bill session="103" type="hc" number="34" updated="2010-04-18T21:05:52-04:00">
+	<state datetime="1993-05-04">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1993-05-04" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="official" as="introduced">Calling for a continued United States policy of opposition to the resumption of commercial whaling, and otherwise expressing the sense of the Congress with respect to conserving and protecting the world's whale, dolphin, and porpoise populations.</title>
+	</titles>
+	<sponsor id="410496"/>
+	<cosponsors>
+		<cosponsor id="400359" joined="1993-02-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03"><text>Sponsor introductory remarks on measure. (CR E270)</text></action>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-02-04"><text>Sponsor introductory remarks on measure. (CR E306)</text></action>
+		<action datetime="1993-02-08"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Requested from State.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1993-02-16T13:13:00-05:00"><text>Mr. Studds moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action datetime="1993-02-16T13:13:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H602-605, H609"/></action>
+		<action datetime="1993-02-16T13:14:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-02-16T13:32:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1993-02-16T13:51:00-05:00"><text>Considered as unfinished business.</text></action>
+		<vote how="roll" type="vote" roll="30" datetime="1993-02-16T14:12:00-05:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 0 (Roll no. 30).</text></vote>
+		<action datetime="1993-02-16T14:12:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-02-24"><text>Received in the Senate.</text></action>
+		<action datetime="1993-03-02"><text>Referred to the Committee on Foreign Relations.</text></action>
+		<calendar datetime="1993-03-23" ><committee name="Committee on Foreign Relations"/><text>Committee on Foreign Relations. Ordered to be reported without amendment favorably. Approved as amended by the House of Representatives on February 16, 1993.</text></calendar>
+		<action datetime="1993-03-23"><text>Committee on Foreign Relations. Reported to Senate by Senator Pell without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="45" datetime="1993-03-23" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 45.</text></calendar>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-05-04" where="s" result="pass"  state="PASSED:CONCURRENTRES"><text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text><reference label="consideration" ref="CR S5471-5472"/></vote>
+		<action datetime="1993-05-05"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup" />
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral" />
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Diplomacy"/>
+		<term name="Dolphins"/>
+		<term name="Environmental protection"/>
+		<term name="International agencies"/>
+		<term name="International environmental cooperation"/>
+		<term name="International environmental law"/>
+		<term name="International fishery management"/>
+		<term name="Marine mammal protection"/>
+		<term name="Marine mammals"/>
+		<term name="Marine parks and reserves"/>
+		<term name="Whales"/>
+		<term name="Whaling"/>
+		<term name="Wildlife conservation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/16/1993--Passed House amended. Declares that it is the sense of the Congress that the United States should: (1) promote whale, dolphin, and porpoise conservation and protection; (2) oppose resumption of commercial whaling and work toward a moratorium on direct commercial harvest of dolphins and porpoises; (3) work to strengthen the International Whaling Commission; (4) support the establishment of international sanctuaries where whaling is prohibited; and (5) in whale conservation and protection, use diplomatic channels, domestic and international law, and all other means.
+
+	</summary>
+</bill>

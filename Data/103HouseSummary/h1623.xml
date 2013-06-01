@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="1623" updated="2010-04-19T03:24:54-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="official" as="introduced">To apply the immigration laws of the United States to the Commonwealth of the Northern Mariana Islands, and for other purposes.</title>
+	</titles>
+	<sponsor id="400144"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01"><text>Sponsor introductory remarks on measure. (CR E862-863)</text></action>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-04-05"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee On Insular and International Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Insular and International Affairs" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Territories (U.S.)"/>
+		<term name="Immigration"/>
+		<term name="Northern Mariana Islands"/>
+		<term name="Treaties"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Applies the immigration laws of the United States to the Northern Mariana Islands.
+
+	</summary>
+</bill>

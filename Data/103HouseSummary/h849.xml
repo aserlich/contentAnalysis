@@ -1,0 +1,40 @@
+<bill session="103" type="h" number="849" updated="2010-04-19T01:17:28-04:00">
+	<state datetime="1993-02-04">REFERRED</state>
+	<status><introduced datetime="1993-02-04"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 1 of the United States Code to define the type of adjournment that prevents the return of a bill by the President, and to authorize the Clerk of the House of Representatives and the Secretary of the Senate to receive bills returned by the President at any time their respective Houses are not in session.</title>
+	</titles>
+	<sponsor id="403403"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional sessions"/>
+		<term name="Legislation"/>
+		<term name="Veto"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Provides that no adjournment of either House of Congress, other than an adjournment sine die to end a Congress, prevents the return of a bill by the President. Authorizes the Clerk of the House of Representatives and the Secretary of the Senate to receive bills returned by the President at any time their respective Houses are not in session.
+
+	</summary>
+</bill>

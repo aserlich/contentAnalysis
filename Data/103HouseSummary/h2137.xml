@@ -1,0 +1,73 @@
+<bill session="103" type="h" number="2137" updated="2010-04-19T04:45:11-04:00">
+	<state datetime="1993-05-17">REFERRED</state>
+	<status><introduced datetime="1993-05-17"/></status>
+
+	<introduced datetime="1993-05-17"/>
+	<titles>
+		<title type="short" as="introduced">Toxic Cleanup Equity Act of 1993</title>
+		<title type="official" as="introduced">To amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to provide relief to local taxpayers, municipalities, and small businesses regarding the cleanup of hazardous substances, and for other purposes.</title>
+	</titles>
+	<sponsor id="300156"/>
+	<cosponsors>
+		<cosponsor id="411677" joined="1993-06-24"/>
+		<cosponsor id="404083" joined="1993-06-24"/>
+		<cosponsor id="406768" joined="1993-06-24"/>
+		<cosponsor id="400885" joined="1993-09-08"/>
+		<cosponsor id="400191" joined="1993-06-24"/>
+		<cosponsor id="300087" joined="1993-06-24"/>
+		<cosponsor id="400527" joined="1993-06-24"/>
+		<cosponsor id="400264" joined="1993-06-24"/>
+		<cosponsor id="400354" joined="1993-06-24"/>
+		<cosponsor id="400585" joined="1993-06-24"/>
+		<cosponsor id="400216" joined="1993-06-24"/>
+		<cosponsor id="400316" joined="1993-06-24"/>
+		<cosponsor id="403364" joined="1993-06-24"/>
+		<cosponsor id="400533" joined="1993-06-24"/>
+		<cosponsor id="409829" joined="1993-06-24"/>
+		<cosponsor id="410974" joined="1993-06-24"/>
+		<cosponsor id="400115" joined="1993-05-17"/>
+		<cosponsor id="400140" joined="1993-06-24"/>
+		<cosponsor id="402626" joined="1993-06-24"/>
+		<cosponsor id="400269" joined="1993-06-24"/>
+		<cosponsor id="400318" joined="1993-07-23"/>
+		<cosponsor id="400513" joined="1993-09-08"/>
+		<cosponsor id="402762" joined="1993-07-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-17"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-05-17"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-06-01"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1993-06-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+		<action datetime="1994-07-27"><committee name="House Committee on Public Works + Transportation"/><text>See H.R.3800.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3800" />
+		<bill relation="identical" session="103" type="s" number="965" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Hazardous waste disposal"/>
+		<term name="Liability for toxic substances pollution damages"/>
+		<term name="Municipal services"/>
+		<term name="Refuse and refuse disposal"/>
+		<term name="Right-of-way"/>
+		<term name="Sewage as fertilizer"/>
+		<term name="Sewage disposal"/>
+		<term name="Sewage sludge"/>
+		<term name="Transportation of hazardous substances"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/17/1993--Introduced.
+Toxic Cleanup Equity Act of 1993 - Amends the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (CERCLA) to absolve municipalities or other persons of liability (other than to the President) for claims of contribution or other response costs for the generation, transportation, or arrangement for the transportation, treatment, or disposal of municipal solid waste or sewage sludge. Authorizes eligible persons or municipalities (defined as persons or municipalities against whom administrative or judicial actions are brought, or to whom notice is given of potential liability, for activities involving municipal solid waste or sewage sludge) to settle their liability with the President. Requires final settlements with eligible persons to: (1) allocate to all activities for the management of municipal solid waste or sewage sludge a combined maximum of four percent of the total response costs for the facility; (2) require eligible persons to pay only equitable shares of the maximum percentage; (3) limit payments based on inability to pay, litigative risks, and other equitable factors; (4) permit in-kind services with regard to response actions in lieu of cash contributions; (5) limit a publicly owned treatment works' payments if it has promoted the reuse of sewage sludge through land application; and (6) be reached even if a person is liable under other CERCLA provisions. Authorizes the President to provide a covenant not to sue to persons who have entered into settlements. Absolves such persons of liability for contributions or other response costs for matters addressed in settlements. Reduces others' potential liability by the amount of a settlement, but bars discharging potentially responsible parties unless the settlement so provides. Applies settlement provisions applicable to eligible persons to future disposal practices of municipalities or treatment works if specified conditions are met. Requires final settlements with eligible municipalities to conform to specified criteria, including: (1) public interest factors; (2) consideration of ability to pay; and (3) in-kind services in lieu of cash contributions. Makes this Act retroactively effective to all actions commenced before this Act's effective date unless a final court judgment or approval of a settlement agreement has been granted.
+
+	</summary>
+</bill>

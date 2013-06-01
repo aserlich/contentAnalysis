@@ -1,0 +1,43 @@
+<bill session="103" type="hj" number="19" updated="2010-04-18T21:53:54-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to provide that appropriations shall not exceed revenues of the United States, except in time of war or national emergency.</title>
+	</titles>
+	<sponsor id="403308"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1994-03-17"><committee name="House Committee on Judiciary"/><text>See H.J.Res.103.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hj" number="103" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Balanced budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Constitutional amendments"/>
+		<term name="Deficit financing"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Legislative resolutions"/>
+		<term name="War and emergency legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Constitutional Amendment - Prohibits the Congress from authorizing the withdrawal of funds from the Treasury during a fiscal year in excess of fiscal year revenues (except those derived from borrowing), determined in accordance with estimates the President must determine and announce as soon as practicable after the end of each calendar year and revise at least quarterly. Directs the President to submit to the Congress a proposed budget that meets this same balanced budget standard. Authorizes a waiver of these provisions in time of war or national emergency.
+
+	</summary>
+</bill>

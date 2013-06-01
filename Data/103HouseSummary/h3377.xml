@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="3377" updated="2010-04-19T07:57:12-04:00">
+	<state datetime="1993-10-27">REFERRED</state>
+	<status><introduced datetime="1993-10-27"/></status>
+
+	<introduced datetime="1993-10-27"/>
+	<titles>
+		<title type="official" as="introduced">To authorize appropriations for the Coastal Heritage Trail Route in the State of New Jersey, and for other purposes.</title>
+	</titles>
+	<sponsor id="405775"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-27"><text>Sponsor introductory remarks on measure. (CR E2556)</text></action>
+		<action datetime="1993-10-27"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-01-21"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1994-01-31"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1994-02-08"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-03-03"><committee name="House Committee on Natural Resources"/><text>For Further Action See S.1574.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1416" />
+		<bill relation="identical" session="103" type="s" number="1574" />
+		<bill relation="unknown" session="103" type="s" number="1574" />
+		<bill relation="unknown" session="103" type="s" number="1574" />
+	</relatedbills>
+	<subjects>
+		<term name="Recreation"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Commemorations"/>
+		<term name="Historic sites"/>
+		<term name="History"/>
+		<term name="New Jersey"/>
+		<term name="Public lands"/>
+		<term name="Trails"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/27/1993--Introduced.
+Increases the authorization of appropriations for the Coastal Heritage Trail Route in New Jersey from $250,000 to $2.5 million.
+
+	</summary>
+</bill>

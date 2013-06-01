@@ -1,0 +1,58 @@
+<bill session="103" type="s" number="1905" updated="2012-07-17T05:19:16-04:00">
+	<state datetime="1994-04-14">REPORTED</state>
+	<status><calendar datetime="1994-04-14" /></status>
+
+	<introduced datetime="1994-03-08"/>
+	<titles>
+		<title type="official" as="introduced">A bill to improve the processing of benefits claims by the Department of Veterans Affairs.</title>
+	</titles>
+	<sponsor id="300084"/>
+	<cosponsors>
+		<cosponsor id="403346" joined="1994-03-08"/>
+		<cosponsor id="400566" joined="1994-03-17"/>
+		<cosponsor id="300031" joined="1994-03-08"/>
+		<cosponsor id="300001" joined="1994-03-08"/>
+		<cosponsor id="300046" joined="1994-03-08"/>
+		<cosponsor id="300017" joined="1994-03-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-08" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2502-2506)</text></action>
+		<action datetime="1994-03-08" state="REFERRED"><text>Read twice and referred to the Committee on Veterans.</text></action>
+		<action datetime="1994-03-24"><committee name="Committee on Veterans"/><text>Committee on Veterans. Hearings held.</text></action>
+		<calendar datetime="1994-04-14"  state="REPORTED"><committee name="Committee on Veterans"/><text>Committee on Veterans. Provisions of measure incorporated into measure S. 1908 ordered to be reported.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1908" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Claims"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Disability evaluation"/>
+		<term name="Disabled"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Health"/>
+		<term name="Income"/>
+		<term name="Labor and employment"/>
+		<term name="Medical records"/>
+		<term name="Military discharges"/>
+		<term name="Military medicine"/>
+		<term name="Physical examinations"/>
+		<term name="Veterans' benefits"/>
+		<term name="Veterans' disability compensation"/>
+		<term name="Veterans' pensions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/8/1994--Introduced.
+Authorizes (current law requires) the Secretary of Veterans Affairs to obtain certain income verification information annually from veterans receiving pensions through the Department of Veterans Affairs. Directs the Secretary to accept a written statement as proof of a marriage, divorce, birth of a child, or death of a family member. Authorizes acceptance of a medical examination report of a private physician provided by a claimant, without confirmation by a Department physician, for disability compensation purposes. Directs the Secretary to report to the veterans' affairs committees on the status of any agreement entered into between the Secretary and the Secretary of Defense providing for the immediate transfer of medical records of personnel upon their separation from active duty.
+
+	</summary>
+</bill>

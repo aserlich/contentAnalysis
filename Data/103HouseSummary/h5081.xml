@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="5081" updated="2010-04-19T12:23:36-04:00">
+	<state datetime="1994-09-22">REFERRED</state>
+	<status><introduced datetime="1994-09-22"/></status>
+
+	<introduced datetime="1994-09-22"/>
+	<titles>
+		<title type="official" as="introduced">To provide for a demonstration project by Federal Prison Industries.</title>
+	</titles>
+	<sponsor id="405775"/>
+	<cosponsors>
+		<cosponsor id="400435" joined="1994-09-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-22"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-09-23"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Tabled by the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral, Markup" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Corrections"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Costs"/>
+		<term name="Criminal justice"/>
+		<term name="Imprisonment"/>
+		<term name="Labor"/>
+		<term name="Minimum wages"/>
+		<term name="Payroll deductions"/>
+		<term name="Prison labor"/>
+		<term name="Prisons"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/22/1994--Introduced.
+Amends the Federal criminal code to: (1) require Federal Prison Industries (FPI), not later than December 1, 1995, to establish a demonstration project in which prisoners are paid wages at rates not less than the Federal minimum wage applicable for similar work done by free labor in order to engage in the production of goods of a type currently made primarily in foreign countries which may be sold domestically to the general public at market prices; and (2) authorize the Director of the Bureau of Prisons to deduct from such wages an amount, not to exceed 80 percent of the wages, that the Director determines will defray the costs to the United States associated with the imprisonment of that prisoner. Directs FPI and the Director, within two years, to jointly report to the Congress on the demonstration project's economic viability and on whether such project should be continued or expanded.
+
+	</summary>
+</bill>

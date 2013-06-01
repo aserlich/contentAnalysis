@@ -1,0 +1,80 @@
+<bill session="103" type="h" number="2205" updated="2010-04-19T04:55:46-04:00">
+	<state datetime="1993-06-29">PASS_BACK:SENATE</state>
+	<status><vote2 datetime="1993-06-29" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-05-20"/>
+	<titles>
+		<title type="short" as="introduced">Trauma Care Systems Amendments of 1993</title>
+		<title type="short" as="passed senate">Trauma Care Amendments Act of 1993</title>
+		<title type="official" as="introduced">To amend the Public Health Service Act to revise and extend programs relating to trauma care.</title>
+	</titles>
+	<sponsor id="400425"/>
+	<cosponsors>
+		<cosponsor id="400414" joined="1993-05-26"/>
+		<cosponsor id="404296" joined="1993-05-25"/>
+		<cosponsor id="400161" joined="1993-05-20"/>
+		<cosponsor id="400165" joined="1993-05-20"/>
+		<cosponsor id="407899" joined="1993-05-20"/>
+		<cosponsor id="400028" joined="1993-05-20"/>
+		<cosponsor id="409205" joined="1993-05-25"/>
+		<cosponsor id="400409" joined="1993-05-20"/>
+		<cosponsor id="407558" joined="1993-05-20"/>
+		<cosponsor id="400008" joined="1993-05-26"/>
+		<cosponsor id="400308" joined="1993-05-25"/>
+		<cosponsor id="400050" joined="1993-05-20"/>
+		<cosponsor id="407141" joined="1993-05-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-20"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-05-25"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-05-25"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-06-10T18:30:00-04:00"><text>Reported by the Committee on Energy and Commerce. H. Rept. 103-122.</text></action>
+		<calendar number="66" datetime="1993-06-10T19:08:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 66.</text></calendar>
+		<action datetime="1993-06-14T13:35:00-04:00"><text>Mr. Waxman moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-06-14T13:35:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3478-3479"/></action>
+		<action datetime="1993-06-14T13:36:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-06-14T13:40:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-06-14T13:41:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<calendar under="General Orders" number="92" datetime="1993-06-15" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 92.</text></calendar>
+		<action datetime="1993-06-29"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S8269"/></action>
+		<action datetime="1993-06-29"><text>Senate struck all after the Enacting Clause and substituted the language of S. 1113.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-06-29" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate in lieu of S. 1113 with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-06-30"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-04T17:04:00-05:00"><text>Mr. Dingell asked unanimous consent that the House disagree to the Senate amendment, and request a conference.</text><reference label="consideration" ref="CR H8835"/></action>
+		<action datetime="1993-11-04T17:05:00-05:00"><text>On motion that the House disagree to the Senate amendment, and request a conference Agreed to without objection.</text></action>
+		<action datetime="1993-11-04T17:05:00-05:00"><text>The Speaker appointed conferees: Dingell, Waxman, Synar, Moorhead, and Bliley.</text></action>
+		<action datetime="1993-11-04T17:05:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-05"><text>Message on House action received in Senate and at desk: House requests a conference.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1113" />
+		<bill relation="supersedes" session="103" type="s" number="1113" />
+		<bill relation="unknown" session="103" type="s" number="1113" />
+		<bill relation="unknown" session="103" type="s" number="1113" />
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Authorization"/>
+		<term name="Congressional investigations"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Emergency medical services"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to health facilities"/>
+		<term name="Grants-in-aid"/>
+		<term name="Health planning"/>
+		<term name="Interstate relations"/>
+		<term name="Rural public health"/>
+		<term name="Trauma care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/29/1993--Passed Senate amended. Trauma Care Amendments Act of 1993 - Amends the Public Health Service Act to: (1) increase (from 12 to 13) the number of members of the Advisory Council on Trauma Care Systems; (2) include on the Council an individual who has been a trauma patient at a designated trauma center, to be appointed for a four-year term; and (3) require that at least four (currently, 25 percent) of the members be knowledgeable concerning rural areas. Requires the Council to meet not less than once and, if the Chair determines necessary, up to four times each year (currently, at the call of the Chair and not less than once each three months). Includes among requirements for State plans (in order to receive allotments) coordination and cooperation among bordering States with respect to areas in which logical geographic groupings across State borders would be appropriate (currently, among States that share any standard metropolitan statistical area). Authorizes appropriations. Directs the General Accounting Office to study and report to the appropriate congressional committees on the duplication of Federal emergency medical services and trauma activities.
+
+	</summary>
+</bill>

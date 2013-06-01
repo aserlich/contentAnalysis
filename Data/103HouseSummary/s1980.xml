@@ -1,0 +1,67 @@
+<bill session="103" type="s" number="1980" updated="2012-07-17T04:22:30-04:00">
+	<state datetime="1994-06-16">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-06-16" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-03-24"/>
+	<titles>
+		<title type="short" as="introduced">Cane River Creole National Historical Park and National Heritage Area Act</title>
+		<title type="short" as="reported to senate">Cane River Creole National Historical Park and National Heritage Area Act</title>
+		<title type="short" as="passed senate">Cane River Creole National Historical Park and National Heritage Area Act</title>
+		<title type="official" as="introduced">A bill to establish the Cane River Creole National Historical Park and the Cane River National Heritage Area in the State of Louisiana, and for other purposes.</title>
+	</titles>
+	<sponsor id="406084"/>
+	<cosponsors>
+		<cosponsor id="300012" joined="1994-06-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3725-3726)</text></action>
+		<action datetime="1994-03-24" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-03-25"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1994-04-13"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-04-21"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed: S.Hrg. 103-720.</text></action>
+		<calendar datetime="1994-05-18"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1994-05-25"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments. With written report No. 103-276.</text></action>
+		<calendar under="General Orders" number="447" datetime="1994-05-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 447.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-06-16" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with amendments by Voice Vote.</text><reference label="consideration" ref="CR S7088-7090"/></vote>
+		<action datetime="1994-06-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-06-21T12:07:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-06-21"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-07-28"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Hearings Held by the Subcommittee on National Parks, Forests and Public Lands Prior to Referral.</text></action>
+		<action datetime="1994-08-30"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1994-10-06"><committee name="House Committee on Natural Resources"/><text>Provisions of Measure Included in H.R.1348.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Historic sites"/>
+		<term name="Arts, culture, religion"/>
+		<term name="Commemorations"/>
+		<term name="Commerce"/>
+		<term name="Conservation of natural resources"/>
+		<term name="Environmental protection"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Government operations and politics"/>
+		<term name="History"/>
+		<term name="Louisiana"/>
+		<term name="National parks"/>
+		<term name="Outdoor recreation"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Rivers"/>
+		<term name="Tourist trade"/>
+		<term name="Water resources development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/16/1994--Passed Senate amended. TABLE OF CONTENTS: Title I: Cane River National Historical Park Title II: Cane River National Heritage Area Cane River Creole National Historical Park and National Heritage Area Act - Title I: Cane River National Historical Park - Establishes the Cane River Creole National Historical Park in Louisiana. Requires the Secretary of the Interior to: (1) manage the Park in a manner that will preserve resources and cultural landscapes relating to the Creole culture of the Cane River and will enhance public understanding of the important cultural heritage of the Cane River region; and (2) coordinate a comprehensive research program on the history of the Cane River region. Authorizes the Secretary to: (1) construct, operate, and maintain an interpretative center on lands within the Park to provide for the general information and orientation needs of the Park and the National Heritage Area established by this Act; and (2) acquire lands within Park boundaries. Requires the National Park Service to prepare a general management plan for the Park. Title II: Cane River National Heritage Area - Establishes: (1) the Cane River National Heritage Area to complement the Park and to provide for a culturally sensitive approach to the preservation of the heritage of the Cane River region; and (2) the Cane River National Heritage Area Commission to assist in implementing the purposes of this Act and to provide guidance for the management of the Area. Requires the Commission to prepare and submit a management plan for the Area to the Governor of Louisiana for approval or disapproval. Provides for termination of the Commission and continuation of national heritage area status for the Cane River region. Authorizes appropriations.
+
+	</summary>
+</bill>

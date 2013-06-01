@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="235" updated="2010-04-18T23:36:27-04:00">
+	<state datetime="1993-03-17">REPORTED</state>
+	<status><calendar datetime="1993-03-17" /></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Idaho Land Exchange Act of 1993</title>
+		<title type="official" as="introduced">To provide for certain land exchanges in the State of Idaho, and for other purposes.</title>
+	</titles>
+	<sponsor id="406605"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-01-26"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-02-09"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from USDA.</text></action>
+		<action datetime="1993-02-23"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-03-09"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-03-09"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-03-17"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-03-17"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-03-25T14:26:00-05:00"><text>Reported by the Committee on Natural Resources. H. Rept. 103-42, Part I.</text></action>
+		<action datetime="1993-03-25"><text>Referred sequentially to the House Committee on Agriculture for a period ending not later than March 26, 1993 for consideration of such provisions of the bill as fall within the jurisdiction of the committee pursuant to clause 1)(a), rule X.</text></action>
+		<action datetime="1993-03-25"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+		<action datetime="1993-03-26T14:31:00-05:00"><text>Committee on Agriculture discharged.</text></action>
+		<calendar number="18" datetime="1993-03-26T14:32:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 18.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="HSAG" name="House Agriculture" activity="Referral, Discharged" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="252" />
+		<bill relation="unknown" session="103" type="s" number="252" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands"/>
+		<term name="Colleges"/>
+		<term name="Idaho"/>
+		<term name="Land transfers"/>
+		<term name="National forests"/>
+		<term name="Real estate appraisal"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Idaho Land Exchange Act of 1993 - Adjusts the boundaries of the Targhee National Forest in Idaho. Directs the Secretary of Agriculture to convey to Idaho, acting through the Regents of its University, the Clark Fork Ranger Station within the Kaniksu National Forest in exchange for Idaho conveying to the Secretary the Clark Fork Land Exchange. Provides that if the lands exchanged between the United States and Idaho are not of equal value, the values shall be equalized in accordance with provisions of the Federal Land Policy and Management Act of 1976, except that the value of the improvements made by the University on the Clark Fork Ranger Station under the Granger-Thye permit shall be excluded from consideration in such valuation. Adjusts the boundaries of the Kaniksu National Forest to include the lands conveyed by Idaho.
+
+	</summary>
+</bill>

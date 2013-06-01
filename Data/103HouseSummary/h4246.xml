@@ -1,0 +1,68 @@
+<bill session="103" type="h" number="4246" updated="2012-07-17T06:18:47-04:00">
+	<state datetime="1994-06-13T12:32:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-06-13T12:32:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-04-19"/>
+	<titles>
+		<title type="short" as="introduced">Panama Canal Commission Authorization Act, Fiscal Year 1995</title>
+		<title type="short" as="passed house">Panama Canal Commission Authorization Act, Fiscal Year 1995</title>
+		<title type="official" as="introduced">To authorize expenditures for fiscal year 1995 for the operation and maintenance of the Panama Canal, and for other purposes.</title>
+	</titles>
+	<sponsor id="400397"/>
+	<cosponsors>
+		<cosponsor id="410496" joined="1994-04-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-19" state="REFERRED"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1994-04-20"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Panama Canal Commission.</text></action>
+		<action datetime="1994-04-20"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Coast Guard and Navigation.</text></action>
+		<action datetime="1994-04-20"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Coast Guard and Navigation"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-04-20"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Coast Guard and Navigation"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1994-05-09"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Favorable Executive Comment Received from Panama Canal Commission.</text></action>
+		<action datetime="1994-05-11"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-05-11"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-05-24T18:58:00-04:00"><text>Reported (Amended) by the Committee on Merchant Marine and Fisheries. H. Rept. 103-526.</text></action>
+		<calendar number="293" datetime="1994-05-24T18:59:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 293.</text></calendar>
+		<action datetime="1994-06-13T12:29:00-04:00"><text>Mr. Studds moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-06-13T12:30:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4354-4355"/></action>
+		<action datetime="1994-06-13T12:30:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-06-13T12:32:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-06-13T12:33:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-06-14"><text>Received in the Senate and read twice and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Coast Guard and Navigation" activity="Referral, Markup, Reporting" />
+		<committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Navigation"/>
+		<term name="Alien labor"/>
+		<term name="Authorization"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Federal aid to education"/>
+		<term name="Federal employees"/>
+		<term name="Government operations and politics"/>
+		<term name="Government vehicles"/>
+		<term name="Immigrants"/>
+		<term name="Immigration"/>
+		<term name="Interoceanic canals"/>
+		<term name="Labor and employment"/>
+		<term name="Panama Canal"/>
+		<term name="Panama Canal Commission"/>
+		<term name="Revolving funds"/>
+		<term name="Transportation and public works"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/13/1994--Passed House amended. Panama Canal Commission Authorization Act, Fiscal Year 1995 - Authorizes the Panama Canal Commission, from the Panama Canal Revolving Fund, to make expenditures, contracts, and commitments for the operation, maintenance, and improvement of the Panama Canal for FY 1995. Amends the Panama Canal Act of 1979 to permit the use of Commission funds to defray the cost of education services provided by schools in the United States to: (1) Commission employees who are U.S. citizens; and (2) persons who were receiving such services at the expense of the Canal Zone Government. Amends the Immigration and Nationality Act to expand the definition of &quot;special immigrant&quot; to include Panamanian immigrants who, as of the date the Panama Canal Treaty of 1977 entered into force, have been employed by the U.S. Government in the Canal Zone with a total of 15 years of service or more and continue to be so employed. (Current law confers such status only on those individuals who are honorably retired.)
+
+	</summary>
+</bill>

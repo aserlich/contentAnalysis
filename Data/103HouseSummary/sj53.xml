@@ -1,0 +1,94 @@
+<bill session="103" type="sj" number="53" updated="2012-07-17T04:48:34-04:00">
+	<state datetime="1993-04-12">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-04-12" /></status>
+
+	<introduced datetime="1993-02-02"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution designating March 1993 and March 1994 both as &quot;Women's History Month&quot;.</title>
+	</titles>
+	<sponsor id="300052"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-03-11"/>
+		<cosponsor id="300150" joined="1993-03-18"/>
+		<cosponsor id="300056" joined="1993-03-18"/>
+		<cosponsor id="409580" joined="1993-03-11"/>
+		<cosponsor id="300059" joined="1993-03-11"/>
+		<cosponsor id="300043" joined="1993-03-29"/>
+		<cosponsor id="400557" joined="1993-03-11"/>
+		<cosponsor id="401709" joined="1993-03-11"/>
+		<cosponsor id="401874" joined="1993-03-19"/>
+		<cosponsor id="300089" joined="1993-03-11"/>
+		<cosponsor id="409225" joined="1993-03-11"/>
+		<cosponsor id="300082" joined="1993-03-11"/>
+		<cosponsor id="300036" joined="1993-03-11"/>
+		<cosponsor id="300086" joined="1993-03-11"/>
+		<cosponsor id="300053" joined="1993-03-11"/>
+		<cosponsor id="300026" joined="1993-03-11"/>
+		<cosponsor id="300008" joined="1993-03-17"/>
+		<cosponsor id="300073" joined="1993-03-11"/>
+		<cosponsor id="407663" joined="1993-03-17"/>
+		<cosponsor id="409923" joined="1993-03-11"/>
+		<cosponsor id="403142" joined="1993-03-11"/>
+		<cosponsor id="402675" joined="1993-03-17"/>
+		<cosponsor id="300067" joined="1993-03-11"/>
+		<cosponsor id="400562" joined="1993-03-29"/>
+		<cosponsor id="407786" joined="1993-03-11"/>
+		<cosponsor id="300049" joined="1993-03-29"/>
+		<cosponsor id="408420" joined="1993-03-11"/>
+		<cosponsor id="300092" joined="1993-03-11"/>
+		<cosponsor id="300029" joined="1993-03-29"/>
+		<cosponsor id="403515" joined="1993-03-11"/>
+		<cosponsor id="300009" joined="1993-03-11"/>
+		<cosponsor id="403669" joined="1993-03-11"/>
+		<cosponsor id="403346" joined="1993-03-11"/>
+		<cosponsor id="402412" joined="1993-03-11"/>
+		<cosponsor id="408597" joined="1993-03-11"/>
+		<cosponsor id="300034" joined="1993-03-11"/>
+		<cosponsor id="403171" joined="1993-03-24"/>
+		<cosponsor id="300023" joined="1993-03-17"/>
+		<cosponsor id="300157" joined="1993-03-17"/>
+		<cosponsor id="406188" joined="1993-03-11"/>
+		<cosponsor id="400566" joined="1993-03-11"/>
+		<cosponsor id="402727" joined="1993-03-18"/>
+		<cosponsor id="407992" joined="1993-03-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-02" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2234)</text></action>
+		<action datetime="1993-03-02" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-03-29"><text>Senate Committee on Judiciary discharged by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-03-29" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment and with a preamble by Voice Vote.</text><reference label="consideration" ref="CR S3952-3953"/></vote>
+		<action datetime="1993-03-30T12:20:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-03-30"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-03-30"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-03-30T16:13:00-05:00"><text>Committee on Post Office and Civil Service discharged.</text></action>
+		<action datetime="1993-03-30T16:13:00-05:00"><text>Ms. Byrne asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1993-03-30T16:13:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H1712-1713"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-03-30T16:14:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-03-30T16:14:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-03-30" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-04-01" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-04-12" ><text>Signed by President.</text></signed>
+		<enacted number="103-22" type="public" datetime="1993-04-12"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-22.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="143" />
+	</relatedbills>
+	<subjects>
+		<term name="Special months"/>
+		<term name="Commemorations"/>
+		<term name="History"/>
+		<term name="Women"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1993--Introduced.
+Designates the months of March 1993 and March 1994 as Women's History Month.
+
+	</summary>
+</bill>

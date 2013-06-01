@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="290" updated="2010-04-18T23:44:49-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To extend health insurance and survivor annuity benefits to certain former spouses of Federal employees who would not otherwise be eligible therefor.</title>
+	</titles>
+	<sponsor id="400524"/>
+	<cosponsors>
+		<cosponsor id="400532" joined="1993-04-02"/>
+		<cosponsor id="400122" joined="1993-05-27"/>
+		<cosponsor id="400409" joined="1993-03-30"/>
+		<cosponsor id="400231" joined="1993-04-22"/>
+		<cosponsor id="409650" joined="1993-09-29"/>
+		<cosponsor id="400140" joined="1993-03-30"/>
+		<cosponsor id="400536" joined="1993-04-22"/>
+		<cosponsor id="400438" joined="1993-07-13"/>
+		<cosponsor id="409052" joined="1993-05-12"/>
+		<cosponsor id="406554" joined="1994-10-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Annuities"/>
+		<term name="Civil service pensions"/>
+		<term name="Divorcees"/>
+		<term name="Government employees' health insurance"/>
+		<term name="Medical care"/>
+		<term name="Survivors' benefits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends the Civil Service Retirement Spouse Equity Act of 1984 to eliminate the requirement of a post-September 15, 1978, divorce for certain former spouses of Federal employees in order for them to be eligible for a survivor annuity. Extends from May 7, 1989, to May 7, 1993, the deadline for applying for such annuity. Authorizes the Director of the Office of Personnel Management to waive such deadline under certain circumstances. Makes such spouses eligible for Federal health benefits.
+
+	</summary>
+</bill>

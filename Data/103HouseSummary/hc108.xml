@@ -1,0 +1,47 @@
+<bill session="103" type="hc" number="108" updated="2010-04-18T21:17:42-04:00">
+	<state datetime="1993-05-27">REFERRED</state>
+	<status><introduced datetime="1993-05-27"/></status>
+
+	<introduced datetime="1993-05-27"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress regarding alcohol use by the Nation's youth.</title>
+	</titles>
+	<sponsor id="400586"/>
+	<cosponsors>
+		<cosponsor id="400594" joined="1993-06-21"/>
+		<cosponsor id="400438" joined="1993-07-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-27"><text>Referred to the House Committee on District of Columbia.</text></action>
+		<action datetime="1993-05-27"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-28"><text>Sponsor introductory remarks on measure. (CR E1400)</text></action>
+		<action datetime="1993-06-24"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+		<action datetime="1993-07-16"><committee name="House Committee on District of Columbia"/><text>Referred to the Subcommittee on Fiscal Affairs and Health.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSDT" name="House District of Columbia" activity="Referral, In Committee" />
+		<committee code="" name="House District of Columbia" subcommittee="Fiscal Affairs and Health" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Alcohol"/>
+		<term name="Alcohol and youth"/>
+		<term name="Crime and criminals"/>
+		<term name="District of Columbia"/>
+		<term name="Fraud"/>
+		<term name="Municipal ordinances"/>
+		<term name="State laws"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/27/1993--Introduced.
+Urges the States and the District of Columbia to enact comprehensive laws to prohibit any person under 21 years of age from purchasing or attempting to purchase alcohol, possessing or consuming it in public, and misrepresenting his or her age or using false identification to purchase alcohol.
+
+	</summary>
+</bill>

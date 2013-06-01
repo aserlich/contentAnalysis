@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="1416" updated="2010-04-19T02:52:04-04:00">
+	<state datetime="1993-03-18">REFERRED</state>
+	<status><introduced datetime="1993-03-18"/></status>
+
+	<introduced datetime="1993-03-18"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to include liability to pay compensation under workmen's compensation acts within the rules relating to certain personal liability assignments.</title>
+	</titles>
+	<sponsor id="405939"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-18"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Select Revenue Measures.</text></action>
+		<action datetime="1993-06-17"><committee name="House Committee on Ways and Means" subcommittee="Select Revenue Measures"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-05" name="House Ways and Means" subcommittee="Select Revenue Measures" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Annuities"/>
+		<term name="Tax exclusion"/>
+		<term name="Workers' compensation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/18/1993--Introduced.
+Amends the Internal Revenue Code to include liability to pay workers' compensation within the definition of personal injury liability assignments (thus, making amounts received for agreeing to such liability assignment eligible for exclusion from gross income).
+
+	</summary>
+</bill>

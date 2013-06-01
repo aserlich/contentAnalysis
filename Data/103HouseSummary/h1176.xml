@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="1176" updated="2010-04-19T02:12:02-04:00">
+	<state datetime="1993-03-02">REFERRED</state>
+	<status><introduced datetime="1993-03-02"/></status>
+
+	<introduced datetime="1993-03-02"/>
+	<titles>
+		<title type="official" as="introduced">To amend chapter 17 of title 38, United States Code, to establish a program of rural health-care clinics, and for other purposes.</title>
+	</titles>
+	<sponsor id="400323"/>
+	<cosponsors>
+		<cosponsor id="400143" joined="1993-11-16"/>
+		<cosponsor id="404375" joined="1993-11-22"/>
+		<cosponsor id="401153" joined="1993-11-16"/>
+		<cosponsor id="400193" joined="1994-03-03"/>
+		<cosponsor id="400357" joined="1994-03-03"/>
+		<cosponsor id="300058" joined="1993-11-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-02"><text>Sponsor introductory remarks on measure. (CR E482)</text></action>
+		<action datetime="1993-03-02"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-03-16"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Hospitals and Health Care.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="HSVR-03" name="House Veterans' Affairs" subcommittee="Hospitals and Health Care" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="452" />
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Ambulatory care"/>
+		<term name="Clinics"/>
+		<term name="Community health services"/>
+		<term name="Medical care"/>
+		<term name="Rural hospitals"/>
+		<term name="Rural public health"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/2/1993--Introduced.
+Directs the Secretary of Veterans Affairs, during the three-year period beginning on October 1, 1993, to conduct a rural health-care clinic program in States where significant numbers of veterans reside in areas geographically remote from existing health-care facilities of the Department of Veterans Affairs. Directs the Secretary to commence operation of at least three such clinics in each fiscal year of the program. Directs the Secretary to report to the Congress on an evaluation of the program. Authorizes appropriations.
+
+	</summary>
+</bill>

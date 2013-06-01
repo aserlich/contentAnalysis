@@ -1,0 +1,62 @@
+<bill session="103" type="sc" number="42" updated="2010-04-19T21:17:34-04:00">
+	<state datetime="1993-09-10">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-09-10" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-09-07"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution expressing the sense of Congress that the 60th anniversary of the Ukraine famine of 1932-1933 should serve as a reminder of the brutality of Stalin's repressive policies toward the Ukrainian people.</title>
+	</titles>
+	<sponsor id="409225"/>
+	<cosponsors>
+		<cosponsor id="409917" joined="1993-09-09"/>
+		<cosponsor id="411271" joined="1993-09-09"/>
+		<cosponsor id="300008" joined="1993-09-07"/>
+		<cosponsor id="408597" joined="1993-09-09"/>
+		<cosponsor id="300066" joined="1993-09-09"/>
+		<cosponsor id="300086" joined="1993-09-07"/>
+		<cosponsor id="407786" joined="1993-09-09"/>
+		<cosponsor id="403346" joined="1993-09-07"/>
+		<cosponsor id="403515" joined="1993-09-09"/>
+		<cosponsor id="403142" joined="1993-09-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-07"><text>Sponsor introductory remarks on measure. (CR S11041-11042)</text></action>
+		<action datetime="1993-09-07"><text>Referred to the Committee on Foreign Relations.</text></action>
+		<action datetime="1993-09-10"><text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S11472-11473"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-09-10" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text></vote>
+		<action datetime="1993-09-13T12:04:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-09-13"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-09-13"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-09-22"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Europe and the Middle East.</text></action>
+		<action datetime="1993-09-22"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Security, International Organizations and Human Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged" />
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Europe and the Middle East" activity="Referral" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Security, International Organizations, and Human Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hc" number="140" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Anniversaries"/>
+		<term name="CIS countries"/>
+		<term name="Commemorations"/>
+		<term name="Democracy"/>
+		<term name="Famines"/>
+		<term name="Free enterprise"/>
+		<term name="Human rights"/>
+		<term name="U.S.S.R."/>
+		<term name="Ukraine"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/7/1993--Introduced.
+Expresses the sense of the Congress that the Soviet-engineered Ukraine famine of 1932-1933 is a graphic illustration of the unacceptable alternative to democracy and a free market economy and that the United States should help Ukraine and other newly independent States of the former Soviet Union as they transform their societies.
+
+	</summary>
+</bill>

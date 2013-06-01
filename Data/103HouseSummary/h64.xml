@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="64" updated="2010-04-18T23:09:56-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To provide benefits under the Survivor Benefit Plan to surviving spouses of certain members of the Armed Forces retired before September 21, 1972.</title>
+	</titles>
+	<sponsor id="400028"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="1993-09-09"/>
+		<cosponsor id="400219" joined="1993-08-03"/>
+		<cosponsor id="406768" joined="1993-03-04"/>
+		<cosponsor id="400295" joined="1993-09-23"/>
+		<cosponsor id="400143" joined="1993-08-03"/>
+		<cosponsor id="404097" joined="1993-04-01"/>
+		<cosponsor id="401153" joined="1993-07-22"/>
+		<cosponsor id="400107" joined="1993-02-17"/>
+		<cosponsor id="400610" joined="1993-04-01"/>
+		<cosponsor id="411178" joined="1993-03-11"/>
+		<cosponsor id="400240" joined="1994-04-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Annuities"/>
+		<term name="Military pensions"/>
+		<term name="Survivors' benefits"/>
+		<term name="Veterans' benefits"/>
+		<term name="Widowers"/>
+		<term name="Widows"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends the Uniformed Services Survivor Benefits Amendments of 1980 to entitle certain individuals who were widowed before September 21, 1972, and who are not covered by the Military Survivor Benefit Plan to an annuity.
+
+	</summary>
+</bill>

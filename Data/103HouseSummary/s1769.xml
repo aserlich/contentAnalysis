@@ -1,0 +1,61 @@
+<bill session="103" type="s" number="1769" updated="2010-04-19T19:06:05-04:00">
+	<state datetime="1993-12-14">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-14" /></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="official" as="introduced">A bill to make a technical correction, and for other purposes.</title>
+	</titles>
+	<sponsor id="406084"/>
+	<cosponsors>
+		<cosponsor id="300012" joined="1993-11-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-22"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S16982"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-22" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with amendments by Voice Vote.</text></vote>
+		<action datetime="1993-11-22T23:20:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-23T01:46:00-05:00"><text>Mr. Gonzalez asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1993-11-23T01:46:00-05:00"><text>Considered by unanimous consent. (consideration: 11/22/93 CR H10955-10956)</text></action>
+		<vote how="without objection" type="vote2" datetime="1993-11-23T01:47:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-11-23T01:47:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-23"><text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text></action>
+		<action datetime="1993-11-24"><text>Senate agreed the House amendment by Voice Vote.</text><reference label="consideration" ref="CR S17230"/></action>
+		<topresident datetime="1993-11-24" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-11-26"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-12-08" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-14" ><text>Signed by President.</text></signed>
+		<enacted number="103-195" type="public" datetime="1993-12-14"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-195.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Housing"/>
+		<term name="Apartment houses"/>
+		<term name="Block grants"/>
+		<term name="Federal aid to community development"/>
+		<term name="Federal aid to housing"/>
+		<term name="Fire prevention"/>
+		<term name="Government paperwork"/>
+		<term name="Louisiana"/>
+		<term name="Michigan"/>
+		<term name="New York City"/>
+		<term name="Pennsylvania"/>
+		<term name="Rent subsidies"/>
+		<term name="Rental housing"/>
+	</subjects>
+	<amendments>
+		<amendment number="h422"/>
+		<amendment number="s1236"/>
+		<amendment number="s1237"/>
+		<amendment number="s1238"/>
+	</amendments>
+	<summary>
+	11/23/1993--Passed House amended. Authorizes the city of Slidell, Louisiana, to submit a final statement of objectives, within ten days of enactment of this Act, with respect to a FY 1994 community development block grant (CDBG). Directs the Secretary of Housing and Urban Development to consider and accept such final statement. Amends the Housing and Community Development Act of 1974 to permit Pittsburgh, Pennsylvania, to use up to 20 percent of FY 1994 CDBG assistance for public service. Authorizes the Secretary to convert the Leonard Terrace Apartments in Grand Rapids, Michigan, from a leased housing contract to a project-based rental assistance contract upon the repayment of certain funds received by the concerned public housing agency. Considers newly constructed multifamily property in New York City, New York, to have met certain Federal Fire Prevention and Control Act of 1974 automatic sprinkler requirements if equivalent safety levels have been met.
+
+	</summary>
+</bill>

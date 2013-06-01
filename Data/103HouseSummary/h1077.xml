@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="1077" updated="2010-04-19T01:55:50-04:00">
+	<state datetime="1993-02-23">REFERRED</state>
+	<status><introduced datetime="1993-02-23"/></status>
+
+	<introduced datetime="1993-02-23"/>
+	<titles>
+		<title type="short" as="introduced">Private Motor Carrier Equity Act</title>
+		<title type="official" as="introduced">To amend title 49, United States Code, relating to deregulation of intrastate trucking.</title>
+	</titles>
+	<sponsor id="404503"/>
+	<cosponsors>
+		<cosponsor id="402657" joined="1993-02-23"/>
+		<cosponsor id="401494" joined="1993-05-04"/>
+		<cosponsor id="400581" joined="1993-05-04"/>
+		<cosponsor id="411065" joined="1993-05-04"/>
+		<cosponsor id="400169" joined="1993-02-23"/>
+		<cosponsor id="408476" joined="1993-02-23"/>
+		<cosponsor id="400150" joined="1993-05-04"/>
+		<cosponsor id="403864" joined="1993-02-23"/>
+		<cosponsor id="404009" joined="1993-05-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-03-08"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+		<action datetime="1994-06-09"><committee name="House Committee on Public Works + Transportation"/><text>See H.R.2739.</text></action>
+		<action datetime="1994-07-20"><committee name="House Committee on Public Works + Transportation" subcommittee="Surface Transportation"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2739" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation"/>
+		<term name="Contracts"/>
+		<term name="Deregulation"/>
+		<term name="Federal preemption"/>
+		<term name="Interstate commerce"/>
+		<term name="Leases"/>
+		<term name="Liability (Law)"/>
+		<term name="Liability insurance"/>
+		<term name="Licenses"/>
+		<term name="Motor carrier rates"/>
+		<term name="Motor vehicle safety"/>
+		<term name="Municipal ordinances"/>
+		<term name="Property insurance"/>
+		<term name="State laws"/>
+		<term name="Trucking"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1993--Introduced.
+Private Motor Carrier Equity Act - Prohibits a State, political subdivision, or agency or organization of two or more States (entities) from enacting or enforcing any law, rule, regulation, or standard relating to interstate or intrastate rates, routes, or services: (1) of a corporate compensated carrier operating under the jurisdiction of the Interstate Commerce Commission (ICC); (2) involving transportation by a motor vehicle and driver leased by a lessee from a single source when the lessee is a motor private carrier in interstate commerce and certain conditions exist; and (3) of any transportation of property provided by motor vehicles leased, with or without drivers, from a motor private carrier, (operating in interstate commerce), to the extent that such law, rule, regulation, or standard is in addition to, or more stringent than, the requirements for such operations established by the ICC. Prohibits such entities from enacting or enforcing any law, rule, regulation, or standard that subjects to certain requirements a private motor carrier (operating in interstate commerce) that seeks to obtain a motor common carrier certificate or a motor contract carrier permit to provide intrastate transportation of property, if such requirements are not applied to a transportation business seeking the same authority to operate as a motor common or motor contract carrier. Prohibits such entities from enacting or enforcing requirements on dedicated contract carriers related to the safety of operations and minimum amounts of financial responsibility.
+
+	</summary>
+</bill>

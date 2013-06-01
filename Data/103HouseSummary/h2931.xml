@@ -1,0 +1,64 @@
+<bill session="103" type="h" number="2931" updated="2010-04-19T06:48:17-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">To direct the Secretary of the Army to conduct a study to assess the adequacy of current flood control measures on the Upper Mississippi River and its tributaries.</title>
+	</titles>
+	<sponsor id="300038"/>
+	<cosponsors>
+		<cosponsor id="400298" joined="1993-08-06"/>
+		<cosponsor id="408839" joined="1993-08-06"/>
+		<cosponsor id="400126" joined="1993-08-06"/>
+		<cosponsor id="411166" joined="1993-08-06"/>
+		<cosponsor id="400146" joined="1993-08-06"/>
+		<cosponsor id="400578" joined="1993-08-06"/>
+		<cosponsor id="400082" joined="1993-08-06"/>
+		<cosponsor id="406799" joined="1993-08-06"/>
+		<cosponsor id="402626" joined="1993-08-06"/>
+		<cosponsor id="400599" joined="1993-08-06"/>
+		<cosponsor id="410076" joined="1993-08-06"/>
+		<cosponsor id="403864" joined="1993-08-06"/>
+		<cosponsor id="411488" joined="1993-08-06"/>
+		<cosponsor id="400236" joined="1993-08-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-08-19"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1993-10-27"><committee name="House Committee on Public Works + Transportation" subcommittee="Water Resources and Environment"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-11-03"><committee name="House Committee on Public Works + Transportation" subcommittee="Water Resources and Environment"/><text>For Further Action See H.R.3445.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1407" />
+	</relatedbills>
+	<subjects>
+		<term name="Water"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Construction costs"/>
+		<term name="Environmental assessment"/>
+		<term name="Environmental protection"/>
+		<term name="Flood control"/>
+		<term name="Flood damage prevention"/>
+		<term name="Hazardous wastes"/>
+		<term name="Industrial pollution"/>
+		<term name="Infrastructure (Economics)"/>
+		<term name="Petrochemicals"/>
+		<term name="Rivers"/>
+		<term name="Waste disposal sites"/>
+		<term name="Wetland conservation"/>
+		<term name="Wetlands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Directs the Secretary of the Army to study and report to the Congress on the adequacy of current flood control measures on the Upper Mississippi River and its tributaries.
+
+	</summary>
+</bill>

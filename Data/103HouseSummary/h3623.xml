@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="3623" updated="2010-04-19T08:35:33-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Federal Crop Insurance Act to establish a pilot program to evaluate the feasibility of including crop insurance based on costs of production among the types of crop insurance available under the Act.</title>
+	</titles>
+	<sponsor id="400526"/>
+	<cosponsors>
+		<cosponsor id="400110" joined="1993-11-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-11-29"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Environment, Credit and Rural Development.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Environment, Credit and Rural Development" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural insurance"/>
+		<term name="Disaster relief"/>
+		<term name="Emergency management"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Amends the Federal Crop Insurance Act to establish a pilot program to provide crop insurance coverage under which agricultural producers are indemnified based on their average costs of production when they sustain losses to insured commodities as a result of adverse weather and other unavoidable causes.
+
+	</summary>
+</bill>

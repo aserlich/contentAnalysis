@@ -1,0 +1,42 @@
+<bill session="103" type="s" number="599" updated="2012-07-17T05:52:25-04:00">
+	<state datetime="1993-03-17">REFERRED</state>
+	<status><introduced datetime="1993-03-17"/></status>
+
+	<introduced datetime="1993-03-17"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide a permanent extension for the issuance of first-time farmer bonds.</title>
+	</titles>
+	<sponsor id="300048"/>
+	<cosponsors>
+		<cosponsor id="403669" joined="1993-03-17"/>
+		<cosponsor id="400566" joined="1993-06-15"/>
+		<cosponsor id="407992" joined="1993-08-02"/>
+		<cosponsor id="300026" joined="1993-03-17"/>
+		<cosponsor id="409917" joined="1993-03-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-17" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3046)</text></action>
+		<action datetime="1993-03-17" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Agricultural economics"/>
+		<term name="Farm lands"/>
+		<term name="Farms"/>
+		<term name="Tax-exempt securities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/17/1993--Introduced.
+Amends the Internal Revenue Code to extend permanently the exemption for State and local agricultural private activity bonds for first-time farmers.
+
+	</summary>
+</bill>

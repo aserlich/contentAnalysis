@@ -1,0 +1,86 @@
+<bill session="103" type="h" number="110" updated="2010-04-18T23:17:11-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Economic Revitalization and Competitiveness Act of 1993</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for economic revitalization, and for other purposes.</title>
+	</titles>
+	<sponsor id="400035"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-14"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Technology, Environment, and Aviation.</text></action>
+		<action datetime="1993-01-19"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+		<action datetime="1993-01-19"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Aviation.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+		<committee code="HSPW-05" name="House Public Works and Transportation" subcommittee="Aviation" activity="Referral" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Technology, Environment and Aviation" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Economic policy"/>
+		<term name="Appropriations"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Capital gains tax"/>
+		<term name="Commercial aviation"/>
+		<term name="Computer integrated manufacturing systems"/>
+		<term name="Computer networks"/>
+		<term name="Economic growth"/>
+		<term name="Education"/>
+		<term name="Employee benefit plans"/>
+		<term name="Employment tax credits"/>
+		<term name="Families"/>
+		<term name="Federal aid highway program"/>
+		<term name="Federal aid to transportation"/>
+		<term name="Finance"/>
+		<term name="Government and business"/>
+		<term name="Government trust funds"/>
+		<term name="Higher education"/>
+		<term name="Income tax"/>
+		<term name="Information services"/>
+		<term name="Infrastructure"/>
+		<term name="Infrastructure (Economics)"/>
+		<term name="Investment tax credit"/>
+		<term name="Labor"/>
+		<term name="Manufacturing industries"/>
+		<term name="Minimum tax"/>
+		<term name="Research and development tax credit"/>
+		<term name="Roads and highways"/>
+		<term name="Science policy"/>
+		<term name="Small business"/>
+		<term name="Student aid"/>
+		<term name="Tax deductions"/>
+		<term name="Tax exclusion"/>
+		<term name="Tax rates"/>
+		<term name="Tax-exempt securities"/>
+		<term name="Taxation"/>
+		<term name="Technological innovations"/>
+		<term name="Technology"/>
+		<term name="Technology transfer"/>
+		<term name="Transportation"/>
+		<term name="Women"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+TABLE OF CONTENTS: Title I: Tax Incentives Title II: Manufacturing Technology Title III: Appropriations from Transportation Trust Funds Economic Revitalization and Competitiveness Act of 1993 - Title I: Tax Incentives - Amends the Internal Revenue Code to reinstate the five-percent regular investment tax credit. Makes the credit for increasing research activities permanent law. Makes permanent the exclusion from gross income of amounts received under educational assistance programs. Increases the amount excepted from rebate for governmental units making small bond issues. Makes the targeted jobs credit permanent law. Reduces the capital gains tax for individuals. Title II: Manufacturing Technology - Amends the Stevenson-Wydler Technology Innovation Act of 1980 to establish the Nationwide Network of Manufacturing Outreach Centers to assist U.S. manufacturers, especially small and medium-sized firms, to expand the use of technology and modern manufacturing processes. Provides for a related communications infrastructure and information clearinghouse. Authorizes appropriations. Title III: Appropriations from Transportation Trust Funds - Expresses the sense of the Congress that certain amounts authorized to be appropriated out of the transportation trust funds should be appropriated.
+
+	</summary>
+</bill>

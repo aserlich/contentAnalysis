@@ -1,0 +1,58 @@
+<bill session="103" type="s" number="1988" updated="2012-07-17T04:20:02-04:00">
+	<state datetime="1994-09-21">REPORTED</state>
+	<status><calendar datetime="1994-09-21" /></status>
+
+	<introduced datetime="1994-03-25"/>
+	<titles>
+		<title type="short" as="introduced">Stagecoach Reservoir Project Act of 1993</title>
+		<title type="short" as="reported to senate">Stagecoach Reservoir Project Act of 1993</title>
+		<title type="official" as="introduced">A bill to authorize the transfer of a certain loan contract to the Upper Yampa Water Conservancy Project, and for other purposes.</title>
+	</titles>
+	<sponsor id="401874"/>
+	<cosponsors>
+		<cosponsor id="300017" joined="1994-03-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-25" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-03-28"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Water and Power.</text></action>
+		<action datetime="1994-05-18"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-06-14"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-06-28"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Water and Power. Hearings held. Hearings printed: S.Hrg. 103-844.</text></action>
+		<calendar datetime="1994-09-21"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action datetime="1994-09-26"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment. With written report No. 103-377.</text></action>
+		<calendar under="General Orders" number="631" datetime="1994-09-26" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 631.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-3" name="Senate Energy and Natural Resources" subcommittee="Water and Power" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4525" />
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Colorado"/>
+		<term name="Economics and public finance"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Finance and financial sector"/>
+		<term name="Government lending"/>
+		<term name="Government liability"/>
+		<term name="Government operations and politics"/>
+		<term name="Governmental investigations"/>
+		<term name="Infrastructure"/>
+		<term name="Interest rates"/>
+		<term name="Land transfers"/>
+		<term name="Law"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Reservoirs"/>
+		<term name="Tax-exempt securities"/>
+		<term name="Water districts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/26/1994--Reported to Senate amended. Stagecoach Reservoir Project Act of 1993 - Requires the Secretary of the Interior to conduct appropriate investigations regarding a specified loan contract entered into under the Small Reclamation Projects Act of 1956. Authorizes the Secretary to sell the contract to, or accept prepayment on it from, the Upper Yampa Water Conservancy District in Colorado for the Stagecoach Reservoir Project. Requires any negotiated agreement related to such contract to provide a payment to the Federal Government calculated by discounting the remaining payments due on the loans by the interest rate determined by the Secretary. Directs the Secretary to obtain approval from the Secretary of the Treasury and the Director of the Office of Management and Budget of the final terms of any loan sale or prepayment made pursuant to this Act. Provides that upon receipt of the specified payment for the loan contract: (1) the District's obligation under the loan contract shall be terminated; (2) the Secretary shall convey all Federal right and interest in the Stagecoach Reservoir Project to the District; and (3) the District shall absolve the United States of any liability associated with the Stagecoach Reservoir Project. Terminates the authority granted by this Act to sell loans two years after the enactment of this Act. Gives a borrower at least 60 days to respond to any prepayment offer made by the Secretary.
+
+	</summary>
+</bill>

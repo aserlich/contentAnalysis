@@ -1,0 +1,59 @@
+<bill session="103" type="s" number="662" updated="2010-04-19T16:13:37-04:00">
+	<state datetime="1993-04-12">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-04-12" /></status>
+
+	<introduced datetime="1993-03-25"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title 38, United States Code, and title XIX of the Social Security Act to make technical corrections relating to the Veterans Health Care Act of 1992.</title>
+	</titles>
+	<sponsor id="300084"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-03-25" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S3762-3763"/></vote>
+		<action datetime="1993-03-29"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-03-29T15:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-03-29T15:03:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-03-29T15:58:00-05:00"><text>Mr. Montgomery moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-03-29T15:59:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1652-1654"/></action>
+		<action datetime="1993-03-29T15:59:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-03-29T16:06:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed until March 30.</text></action>
+		<action datetime="1993-03-30T13:05:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1696"/></action>
+		<vote how="roll" type="vote2" roll="115" datetime="1993-03-30T13:26:00-05:00" where="h" result="pass" suspension="1"  state="PASSED:BILL"><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 115).</text></vote>
+		<action datetime="1993-03-30T13:26:00-05:00"><text>Mr. Volkmer moved to reconsider the vote by which the bill was passed.</text></action>
+		<action datetime="1993-03-30T13:26:00-05:00"><text>Mr. Frost moved to table the motion to reconsider the vote.</text></action>
+		<action datetime="1993-03-30T13:26:00-05:00"><text>On motion to table the motion to reconsider the vote Agreed to by voice vote.</text></action>
+		<topresident datetime="1993-03-30" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-04-01" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-04-12" ><text>Signed by President.</text></signed>
+		<enacted number="103-18" type="public" datetime="1993-04-12"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-18.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Drugs"/>
+		<term name="Drug industry"/>
+		<term name="Federal aid to health facilities"/>
+		<term name="Government procurement"/>
+		<term name="Indexing (Economic policy)"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Prescription pricing"/>
+		<term name="Public assistance programs"/>
+		<term name="Rebates"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/25/1993--Introduced.
+Makes technical corrections with respect to Federal provisions concerning the price of drugs purchased by the Department of Veterans Affairs and other Federal agencies. Provides for the determination of price of a drug of a manufacturer that was not available for inclusion under the original drug purchase contract at the time such contract went into effect. Amends the Social Security Act to establish the Medicaid (title XIX of such Act) prescription drug rebate limit for the last calendar quarter of 1992 as 50 percent of the average manufacturer price.
+
+	</summary>
+</bill>

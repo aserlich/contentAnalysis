@@ -1,0 +1,50 @@
+<bill session="103" type="sr" number="224" updated="2010-04-19T22:34:04-04:00">
+	<state datetime="1994-06-21">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-06-21" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-06-15"/>
+	<titles>
+		<title type="official" as="introduced">An original resolution to amend the Standing Rules of the Senate for the use of the recording studio and mass mailings with respect to uncontested elections.</title>
+	</titles>
+	<sponsor id="404219"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar datetime="1994-06-09"  state="REPORTED"><text>Committee on Rules ordered to be reported an original measure.</text></calendar>
+		<action datetime="1994-06-15"><text>Committee on Rules. Original measure reported to Senate by Senator Ford. Without written report.</text></action>
+		<calendar under="General Orders" number="464" datetime="1994-06-15" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 464.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-06-21" where="s" result="pass"  state="PASSED:SIMPLERES"><text>Resolution agreed to in Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S7268"/></vote>
+	</actions>
+	<committees>
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Origin, Reporting, Markup" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Senate"/>
+		<term name="Congress"/>
+		<term name="Congressional candidates"/>
+		<term name="Congressional elections (Senate)"/>
+		<term name="Congressional mail"/>
+		<term name="Congressional newsletters and questionnaires"/>
+		<term name="Elections"/>
+		<term name="Franking privilege"/>
+		<term name="Members of Congress (Senate)"/>
+		<term name="Radio broadcasting"/>
+		<term name="Radio in politics"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Telecommunication"/>
+		<term name="Television broadcasting"/>
+		<term name="Television in politics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/15/1994--Introduced.
+Amends rule XL of the Standing Rules of the Senate to allow a Senator or an individual who is a candidate for nomination for election, or election, to send franked mass mailings and to use the congressional radio and television studios less than 60 days immediately before the date of the primary or general election if the candidacy of the Senator in such election is uncontested.
+
+	</summary>
+</bill>

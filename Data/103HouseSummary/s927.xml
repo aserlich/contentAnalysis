@@ -1,0 +1,50 @@
+<bill session="103" type="s" number="927" updated="2012-07-17T05:38:22-04:00">
+	<state datetime="1994-10-04">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-10-04" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-05-11"/>
+	<titles>
+		<title type="official" as="introduced">A bill for the relief of Wade Bomar.</title>
+		<title type="official" as="amended by senate">An act for the relief of Wade Bomar, and for other purposes.</title>
+	</titles>
+	<sponsor id="300005"/>
+	<cosponsors>
+		<cosponsor id="300015" joined="1993-05-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-11" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5751-5752)</text></action>
+		<action datetime="1993-05-11" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-06-28"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+		<action datetime="1994-09-22"><committee name="Committee on Judiciary"/><text>Subcommittee on Courts and Administrative Practice. Approved for full committee consideration with an amendment in the nature of a substitute favorably.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="Committee on Judiciary"/><text>Committee on Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-09-28"><text>Committee on Judiciary. Reported to Senate by Senator Biden with an amendment in the nature of a substitute and an amendment to the title. Without written report.</text></action>
+		<calendar under="General Orders" number="679" datetime="1994-09-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 679.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-10-04" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text></vote>
+		<action datetime="1994-10-05"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-05T11:20:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-10-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-10-11"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral, Markup, Reporting" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Claims"/>
+		<term name="Federal employees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/11/1993--Introduced.
+Makes a named individual eligible for public safety officers' disability benefits under the Omnibus Crime Control and Safe Streets Act of 1968 to compensate for injuries sustained while fighting the Pryor Gap fire.
+
+	</summary>
+</bill>

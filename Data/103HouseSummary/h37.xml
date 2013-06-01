@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="37" updated="2010-04-18T23:05:45-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Social Security Earnings Test Amendments of 1993</title>
+		<title type="official" as="introduced">To amend title II of the Social Security Act to eliminate the earnings test for individuals who have attained retirement age, and to provide for an increase in the exempt amount under the earnings test for beneficiaries who have not attained retirement age.</title>
+	</titles>
+	<sponsor id="400536"/>
+	<cosponsors>
+		<cosponsor id="400219" joined="1993-01-21"/>
+		<cosponsor id="410147" joined="1993-01-21"/>
+		<cosponsor id="400596" joined="1993-01-21"/>
+		<cosponsor id="410529" joined="1993-01-21"/>
+		<cosponsor id="407320" joined="1993-02-02"/>
+		<cosponsor id="400113" joined="1993-01-21"/>
+		<cosponsor id="406768" joined="1993-02-02"/>
+		<cosponsor id="400018" joined="1993-01-21"/>
+		<cosponsor id="400143" joined="1993-02-02"/>
+		<cosponsor id="400206" joined="1993-01-26"/>
+		<cosponsor id="400343" joined="1993-01-26"/>
+		<cosponsor id="400649" joined="1993-01-21"/>
+		<cosponsor id="409633" joined="1993-02-02"/>
+		<cosponsor id="407044" joined="1993-01-26"/>
+		<cosponsor id="403864" joined="1993-01-26"/>
+		<cosponsor id="400583" joined="1993-01-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-06"><text>Sponsor introductory remarks on measure. (CR E87)</text></action>
+		<action datetime="1993-01-12"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Earnings"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Older workers"/>
+		<term name="Retirement income"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Social Security Earnings Test Amendments of 1993 - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to remove the limitation on the amount of outside income which beneficiaries who have attained retirement age may earn without incurring a reduction in benefits. Sets a monthly limit on the amount other OASDI beneficiaries may earn in a taxable year ending in 1994 before incurring a benefit reduction.
+
+	</summary>
+</bill>

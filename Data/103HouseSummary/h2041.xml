@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="2041" updated="2010-04-19T04:30:26-04:00">
+	<state datetime="1993-05-06">REFERRED</state>
+	<status><introduced datetime="1993-05-06"/></status>
+
+	<introduced datetime="1993-05-06"/>
+	<titles>
+		<title type="short" as="introduced">Terrorist Interdiction Act of 1993</title>
+		<title type="official" as="introduced">To provide that members of terrorist organizations are ineligible to receive visas for admission to the United States, to improve the State Department Visa Lookout System procedures, and for other purposes.</title>
+	</titles>
+	<sponsor id="300091"/>
+	<cosponsors>
+		<cosponsor id="400596" joined="1993-05-06"/>
+		<cosponsor id="400536" joined="1993-05-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-06"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-05-06"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-18"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Operations.</text></action>
+		<action datetime="1993-05-18"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Security, International Organizations and Human Rights.</text></action>
+		<action datetime="1993-06-24"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1994-02-23"><committee name="House Committee on Judiciary" subcommittee="International Law, Immigration, and Refugees"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-06-17"><committee name="House Committee on Judiciary"/><text>Sponsor introductory remarks on measure. (CR E1249-1250)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Operations" activity="Referral" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Security, International Organizations, and Human Rights" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Aliens"/>
+		<term name="Computer networks"/>
+		<term name="Criminal justice information"/>
+		<term name="Criminal justice information systems"/>
+		<term name="Federal officials"/>
+		<term name="Foreign service"/>
+		<term name="Passports"/>
+		<term name="Personnel records"/>
+		<term name="Terrorism"/>
+		<term name="Visas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/6/1993--Introduced.
+Terrorist Interdiction Act of 1993 - Directs the Secretary of State to implement an automated visa lookout system (system). Gives the Department of State access to the National Crime Information Center and other Federal Bureau of Investigation criminal records for passport, visa, and other immigration related matters. Amends the Immigration and Nationality Act to make membership in a terrorist organization a ground for exclusion from admission into the United States. Requires a U.S. consular official, before issuing a visa to an alien for U.S. admission, to certify that a check of the system has been made and that there is no basis for such alien's exclusion.
+
+	</summary>
+</bill>

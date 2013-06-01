@@ -1,0 +1,50 @@
+<bill session="103" type="hc" number="47" updated="2010-04-18T21:07:59-04:00">
+	<state datetime="1993-02-23">REFERRED</state>
+	<status><introduced datetime="1993-02-23"/></status>
+
+	<introduced datetime="1993-02-23"/>
+	<titles>
+		<title type="official" as="introduced">Concerning criminal aliens.</title>
+	</titles>
+	<sponsor id="401310"/>
+	<cosponsors>
+		<cosponsor id="400323" joined="1994-03-02"/>
+		<cosponsor id="400192" joined="1993-03-16"/>
+		<cosponsor id="400112" joined="1993-03-30"/>
+		<cosponsor id="400387" joined="1993-03-16"/>
+		<cosponsor id="406729" joined="1993-03-16"/>
+		<cosponsor id="400343" joined="1993-09-23"/>
+		<cosponsor id="400604" joined="1993-03-16"/>
+		<cosponsor id="400025" joined="1993-03-16"/>
+		<cosponsor id="400425" joined="1993-06-23"/>
+		<cosponsor id="405033" joined="1993-03-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-23"><text>Sponsor introductory remarks on measure. (CR E409)</text></action>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1994-02-23"><committee name="House Committee on Judiciary" subcommittee="International Law, Immigration, and Refugees"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Aliens"/>
+		<term name="Crime and criminals"/>
+		<term name="Deportation"/>
+		<term name="Illegal aliens"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1993--Introduced.
+States that the Federal Government should acknowledge its responsibility to enforce U.S. immigration law and that the Attorney General should establish as a priority the identification and deportation of criminal aliens.
+
+	</summary>
+</bill>

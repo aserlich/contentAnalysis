@@ -1,0 +1,41 @@
+<bill session="103" type="s" number="209" updated="2012-07-17T05:31:49-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="short" as="introduced">Prevailing Wage Rate Adjustment Reform Act of 1993</title>
+		<title type="official" as="introduced">A bill to provide for full statutory wage adjustments for prevailing rate employees, and for other purposes.</title>
+	</titles>
+	<sponsor id="408597"/>
+	<cosponsors>
+		<cosponsor id="300001" joined="1993-02-24"/>
+		<cosponsor id="300073" joined="1993-01-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S723-724)</text></action>
+		<action datetime="1993-01-26" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1509" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Blue collar workers"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Salaries"/>
+		<term name="Wage surveys"/>
+		<term name="Wages"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Prevailing Wage Rate Adjustment Reform Act of 1993 - Requires that Federal prevailing rate employees receive full statutory wage adjustments based on annual local wage surveys of private industries in each wage grade area.
+
+	</summary>
+</bill>

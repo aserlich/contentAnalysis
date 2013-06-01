@@ -1,0 +1,85 @@
+<bill session="103" type="h" number="4495" updated="2012-07-17T05:27:26-04:00">
+	<state datetime="1994-10-04T18:44:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-04T18:44:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-05-25"/>
+	<titles>
+		<title type="short" as="introduced">Airliner Cabin Air Quality Act of 1994</title>
+		<title type="short" as="passed house">Airliner Cabin Air Quality Act of 1994</title>
+		<title type="official" as="introduced">To amend the Federal Aviation Act of 1958 to prohibit smoking on all scheduled airline flight segments in air transportation or intrastate air transportation.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="404978" joined="1994-09-27"/>
+		<cosponsor id="400574" joined="1994-09-27"/>
+		<cosponsor id="400436" joined="1994-07-20"/>
+		<cosponsor id="300018" joined="1994-09-27"/>
+		<cosponsor id="400542" joined="1994-06-30"/>
+		<cosponsor id="400425" joined="1994-09-27"/>
+		<cosponsor id="400240" joined="1994-05-25"/>
+		<cosponsor id="400387" joined="1994-09-27"/>
+		<cosponsor id="400295" joined="1994-09-27"/>
+		<cosponsor id="411947" joined="1994-09-27"/>
+		<cosponsor id="410589" joined="1994-07-13"/>
+		<cosponsor id="300058" joined="1994-09-27"/>
+		<cosponsor id="406082" joined="1994-09-27"/>
+		<cosponsor id="410565" joined="1994-06-30"/>
+		<cosponsor id="400537" joined="1994-07-13"/>
+		<cosponsor id="400269" joined="1994-09-27"/>
+		<cosponsor id="400231" joined="1994-07-20"/>
+		<cosponsor id="411350" joined="1994-06-30"/>
+		<cosponsor id="400526" joined="1994-09-27"/>
+		<cosponsor id="400126" joined="1994-07-13"/>
+		<cosponsor id="400416" joined="1994-07-20"/>
+		<cosponsor id="400524" joined="1994-09-27"/>
+		<cosponsor id="400278" joined="1994-06-30"/>
+		<cosponsor id="403314" joined="1994-06-30"/>
+		<cosponsor id="400243" joined="1994-09-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-18" state="REFERRED"><committee name="House Committee on Public Works + Transportation" subcommittee="Aviation"/><text>Hearings Held by the Subcommittee on Aviation Prior to Introduction and Referral.</text></action>
+		<action datetime="1994-05-25"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-05-26" state="REPORTED"><text>Sponsor introductory remarks on measure. (CR E1077)</text></action>
+		<action datetime="1994-06-06" state="REFERRED"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Aviation.</text></action>
+		<action datetime="1994-08-10"><committee name="House Committee on Public Works + Transportation" subcommittee="Aviation"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-08-10"><committee name="House Committee on Public Works + Transportation" subcommittee="Aviation"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Public Works + Transportation"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Public Works + Transportation"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T12:30:00-04:00"><text>Reported (Amended) by the Committee on Public Works + Transportation. H. Rept. 103-771.</text></action>
+		<calendar number="419" datetime="1994-10-03T12:30:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 419.</text></calendar>
+		<action datetime="1994-10-03T15:20:00-04:00"><text>Mr. Oberstar moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-03T15:21:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10563-10566"/></action>
+		<action datetime="1994-10-03T15:21:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-03T15:33:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Clinger objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1994-10-04T18:43:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10734"/></action>
+		<vote how="by voice vote" type="vote" datetime="1994-10-04T18:44:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-04T18:44:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-05"><text>Received in the Senate and read twice and referred to the Committee on Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting" />
+		<committee code="HSPW-05" name="House Public Works and Transportation" subcommittee="Aviation" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Air pollution control"/>
+		<term name="Air quality"/>
+		<term name="Airline passenger traffic"/>
+		<term name="Airlines"/>
+		<term name="Drug abuse"/>
+		<term name="Environmental protection"/>
+		<term name="Indoor air pollution"/>
+		<term name="Smoking"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/4/1994--Passed House amended. Airline Cabin Air Quality Act of 1994 - Amends Federal transportation law to prohibit individuals from smoking on all scheduled airline flight segments (currently, just on certain flight segments) in interstate or intrastate air transportation. Directs the Secretary of Transportation to require all domestic and foreign air carriers to prohibit smoking on scheduled airline flight segments within the United States or between the United States and a place outside of the United States.
+
+	</summary>
+</bill>

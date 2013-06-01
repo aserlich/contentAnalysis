@@ -1,0 +1,36 @@
+<bill session="103" type="h" number="5289" updated="2010-04-19T12:55:31-04:00">
+	<state datetime="1994-10-07">REFERRED</state>
+	<status><introduced datetime="1994-10-07"/></status>
+
+	<introduced datetime="1994-10-07"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of John T. Monk.</title>
+	</titles>
+	<sponsor id="407838"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-07"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-10-31"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Veterans' benefits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1994--Introduced.
+Declares that a named individual may not be required to make premium payments after enactment of this Act for the National Service Life Insurance policy for which he was making monthly premium payments before enactment. Requires a refund to him of amounts he paid previously in excess of the insurance amount. Maintains policy coverage.
+
+	</summary>
+</bill>

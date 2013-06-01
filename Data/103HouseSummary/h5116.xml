@@ -1,0 +1,156 @@
+<bill session="103" type="h" number="5116" updated="2010-04-19T12:28:48-04:00">
+	<state datetime="1994-10-22">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-22" /></status>
+
+	<introduced datetime="1994-09-28"/>
+	<titles>
+		<title type="short" as="introduced">Bankruptcy Reform Act of 1994</title>
+		<title type="short" as="passed house">Bankruptcy Reform Act of 1994</title>
+		<title type="short" as="passed house">National Bankruptcy Review Commission Act</title>
+		<title type="short" as="enacted">Bankruptcy Reform Act of 1994</title>
+		<title type="official" as="introduced">To amend title 11 of the United States Code.</title>
+	</titles>
+	<sponsor id="401837"/>
+	<cosponsors>
+		<cosponsor id="410589" joined="1994-09-28"/>
+		<cosponsor id="404097" joined="1994-09-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-28"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Judiciary"/><text>Subcommittee on Economic and Commercial Law Forwarded an Original Measure to Full Committee.</text></action>
+		<action datetime="1994-09-29"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-29"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1994-10-04T20:19:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-835.</text></action>
+		<calendar number="464" datetime="1994-10-04T20:20:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 464.</text></calendar>
+		<action datetime="1994-10-04T20:21:00-04:00"><text>Mr. Brooks moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-04T20:21:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10752-10773"/></action>
+		<action datetime="1994-10-04T20:21:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-04T20:31:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Gekas objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed until Oct. 5. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1994-10-05T18:01:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10917"/></action>
+		<vote how="by voice vote" type="vote" datetime="1994-10-05T18:02:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-05T18:02:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-06" where="s" result="pass"  state="PASSED:BILL"><text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S14461-14465"/></vote>
+		<topresident datetime="1994-10-06" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-10-18" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-22" ><text>Signed by President.</text></signed>
+		<enacted number="103-394" type="public" datetime="1994-10-22"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-394.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Bankruptcy"/>
+		<term name="Administrative remedies"/>
+		<term name="Agriculture"/>
+		<term name="Aircraft"/>
+		<term name="Alimony"/>
+		<term name="Animals"/>
+		<term name="Antitrust law"/>
+		<term name="Appellate courts"/>
+		<term name="Appellate procedure"/>
+		<term name="Asbestos"/>
+		<term name="Bank directors"/>
+		<term name="Bankruptcy courts"/>
+		<term name="Banks and banking"/>
+		<term name="Bribery"/>
+		<term name="Business"/>
+		<term name="Child support"/>
+		<term name="Children"/>
+		<term name="Civil procedure"/>
+		<term name="Claims"/>
+		<term name="Collection of accounts"/>
+		<term name="Condominium (Housing)"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Consumer credit"/>
+		<term name="Consumer protection"/>
+		<term name="Consumers"/>
+		<term name="Contractors"/>
+		<term name="Contracts"/>
+		<term name="Cooperative housing"/>
+		<term name="Corporate mergers"/>
+		<term name="Corporate reorganizations"/>
+		<term name="Criminal justice"/>
+		<term name="Debtor and creditor"/>
+		<term name="District courts"/>
+		<term name="District of Columbia"/>
+		<term name="Economic policy"/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Environmental protection"/>
+		<term name="Equipment and supplies"/>
+		<term name="Executive departments"/>
+		<term name="Families"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Finance"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Foreign exchange"/>
+		<term name="Fraud"/>
+		<term name="Government information"/>
+		<term name="Government liability"/>
+		<term name="Government paperwork"/>
+		<term name="Hazardous substances"/>
+		<term name="Higher education"/>
+		<term name="Home ownership"/>
+		<term name="Housing"/>
+		<term name="Income tax"/>
+		<term name="Indexing (Economic policy)"/>
+		<term name="Injunctions"/>
+		<term name="Interest"/>
+		<term name="International finance"/>
+		<term name="Investments"/>
+		<term name="Judges"/>
+		<term name="Juries"/>
+		<term name="Jurisdiction"/>
+		<term name="Labor"/>
+		<term name="Law"/>
+		<term name="Leases"/>
+		<term name="Legal fees"/>
+		<term name="Liability (Law)"/>
+		<term name="Liens"/>
+		<term name="Limitation of actions"/>
+		<term name="Livestock"/>
+		<term name="Loans"/>
+		<term name="Mortgages"/>
+		<term name="Municipal finance"/>
+		<term name="Negligence"/>
+		<term name="Negotiable instruments"/>
+		<term name="Oil and gas royalties"/>
+		<term name="Parties to actions"/>
+		<term name="Partnerships"/>
+		<term name="Paternity"/>
+		<term name="Pension trust guaranty insurance"/>
+		<term name="Pensions"/>
+		<term name="Property tax"/>
+		<term name="Railroad rolling stock"/>
+		<term name="Rent"/>
+		<term name="Sales personnel"/>
+		<term name="Ships"/>
+		<term name="Small business"/>
+		<term name="State and local government"/>
+		<term name="Student loan funds"/>
+		<term name="Surety and fidelity"/>
+		<term name="Tax auditing"/>
+		<term name="Tax returns"/>
+		<term name="Taxation"/>
+		<term name="Timesharing (Real estate)"/>
+		<term name="Tools"/>
+		<term name="Transportation"/>
+		<term name="Trials"/>
+		<term name="Trusts and trustees"/>
+		<term name="Valuation"/>
+		<term name="Wages"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/5/1994--Passed House amended. TABLE OF CONTENTS: Title I: Improved Bankruptcy Administration Title II: Commercial Bankruptcy Issues Title III: Consumer Bankruptcy Issues Title IV: Governmental Bankruptcy Issues Title V: Technical Corrections Title VI: Bankruptcy Review Commission Title VII: Severability; Effective Date; Application of Amendments Bankruptcy Reform Act of 1994 - Title I: Improved Bankruptcy Administration - Amends Federal bankruptcy law to allow, with the consent of the parties in interest, an extension of the 30 day period following conclusion of a preliminary hearing on a motion to lift an automatic stay, by the end of which a final hearing must be concluded. (Sec. 102) Amends the judicial code to mandate the jurisdiction of a Federal district court to hear appeals from interlocutory orders and decrees of bankruptcy judges increasing or reducing certain time periods for filing a bankruptcy plan. (Currently, a district court has discretion to hear such appeals by its leave only.) (Sec. 103) Revises expedited procedures for reaffirmation of debts. (Sec. 104) Permits bankruptcy court judges to hold status conferences and to issue case limitations and conditions at such conferences. Amends the Federal judicial code to change from discretionary to mandatory the authority of the judicial council of a circuit to establish a bankruptcy appellate panel service. Prescribes circumstances for the termination of a bankruptcy appellate panel. Revises appeals guidelines. (Sec. 105) Permits bankruptcy administrators (in a State in which the bankruptcy system is administered by a Bankruptcy Administrator instead of a U.S. Trustee) to preside at meetings of creditors and equity security holders, and to examine the debtor at creditors' meetings. (Sec. 106) Amends the Bankruptcy Code to include within the definition of &quot;person&quot; pension benefit guarantors and legal or beneficial owners of an asset of an eligible deferred compensation plan or of a governmental employee pension benefit plan (thus enabling such persons, State pension funds, and the Pension Benefit Guaranty Corporation to serve on creditors' committees). (Sec. 107) Revises current guidelines to permit increases in incentive compensation for bankruptcy trustees. (Sec. 108) Increases the dollar limitations and debt limits applicable to specified bankruptcy procedures (thus enlarging the range of debtors eligible to repay debts over a period from regular income (Chapter 13 debtors), and accounting for inflation since 1978). (Sec. 109) Conforms the premerger notification provisions of the Bankruptcy Code to the requirements for antitrust review of transactions under the Clayton Act. (Sec. 110) Entitles members of Chapter 11 bankruptcy reorganization committees to reimbursement for actual and necessary expenses. (Sec. 111) Prescribes guidelines for supplemental injunctions issued to enjoin entities from taking legal action to receive payment with respect to any claim that under a reorganization plan is to be paid by a specified trust established to assume the debtor's liabilities for asbestos-related damages. (Sec. 112) Amends the judicial code to authorize bankruptcy court judges to conduct jury trials in civil proceedings under specified circumstances. (Sec.113) Provides for a waiver of State and Federal sovereign immunity with respect to monetary recoveries and declaratory or injunctive relief under the Bankruptcy Code. (Sec. 114) Amends the Bankruptcy Rules to prescribe service of process upon an insured depository institution. (Sec. 115) Requires the U.S. trustee, at the conclusion of any meeting of creditors or equity security holders, to examine the debtor orally and record his or her knowledge of the consequences of filing for bankruptcy. (Sec. 116) Provides: (1) that the automatic stay provisions of bankruptcy law do not operate against the Internal Revenue Service (thus permitting it to continue to monitor, audit, and assess and demand tax payment of a debtor who has filed for bankruptcy protection); and (2) for additional trustee compensation. Title II: Commercial Bankruptcy Issues- Amends Federal bankruptcy law to revise provisions regarding the right of a party with a security interest in certain aircraft equipment, maritime vessels, or railroad rolling stock equipment to take possession of such equipment or vessels in compliance with an equipment security agreement notwithstanding the automatic stay or property use or sale provisions of the bankruptcy code or any injunctive power of the bankruptcy court, unless the trustee assumes the debtor's obligations under the agreement by a specified deadline and any default is cured. (Sec.202) Sets forth or revises guidelines governing: (1) liability limitations with respect to noninsider transferees for avoided transfers; (2) maintenance and continued perfection of a secured creditor's position; (3) rejection of unexpired leases of real property or timeshare interests;(4)inclusion of the claims of independent sales representatives within priority claims against the bankrupt estate;(5) exclusion from the bankrupt estate of the debtor's interest in liquid or gaseous hydrocarbons;(6)a seller's right to reclaim goods from a bankrupt debtor; (7)election of a disinterested trustee; (8)rights of the partnership trustee against the general partners; (9)impairment of claims and interest; (10) the protection of security interests in post-petition rents and lodging payments; (11) spot foreign exchange contracts; and (12) limitation on avoiding powers. (Sec. 217) Provides that in the case of a small business debtor, the court may order, upon request of a party in interest, that a committee of creditors not be appointed. Prescribes guidelines for a small business debtor to: (1) file a Chapter 11 Reorganization plan; and (2) comply with Chapter 11 post-petition disclosure and solicitation requirements. (Sec.218) Sets forth automatic stay guidelines regarding proceedings against a debtor's single asset real estate. (Sec.219) Revises the guidelines governing leases of personal property. Precludes small business investment companies from filing for bankruptcy protection. Declares loans used to pay Federal taxes nondischargeable under Federal bankruptcy law. Revises guidelines with respect to: (1)return of goods by a debtor; (2)proceeds of money order agreements; (3)trustee duties; (4)court-awarded professional fees; and(5) requisite notices to creditors. Title III: Consumer Bankruptcy Issues - Permits a Chapter 13 debtor to cure a lien arising from a home mortgage default with respect to his or her principal residence until the residence is sold under the lien. (Sec. 302) Declares certain criminal fines nondischargeable under a Chapter 13 proceeding. (Sec. 303) Amends Federal bankruptcy law to modify the guidelines under which a lien shall be considered to impair an exemption. (Sec. 304) Provides that a petition in bankruptcy does not operate as an automatic stay with respect to an action or proceeding for: (1) the establishment of paternity; or (2) the establishment or modification of an order for child or spousal maintenance or support. Includes within the priority list of expenses and claims that are to be paid by the bankrupt estate any claims for child or spousal support pursuant to a court order. Declares that a debtor in bankruptcy may not avoid a judicial lien securing a debt for child and spousal support or maintenance. Prohibits a bankruptcy trustee from avoiding a transfer that was a bona fide payment of a debt for child or spousal support or maintenance pursuant to a court order. Permits child support creditors to appear and intervene without charge, and without meeting any special local court requirement for attorney appearances, in any bankruptcy proceeding in any bankruptcy or district court upon the filing of a court form detailing the status of the child support debt. (Sec. 305) Revises the guidelines regarding the debtor's cure of a default to limit a secured creditor to the benefit of the initial underlying agreement, including applicable nonbankruptcy law. (Sec. 306) Modifies the guidelines governing the presumed nondischargeablility of certain consumer debts. (Sec. 308) Sets forth civil penalties for bankruptcy petition preparers who file negligent or fraudulent petitions for compensation. (Sec. 309) States that an individual debtor is not discharged from debts for condominium or cooperative association housing fees. (Sec. 310) Cites circumstances under which a debtor may not avoid the fixing of a lien on certain tools, implements of trade, animals, and crops whose value exceeds $5,000. (Sec. 311) Prescribes guidelines for the conversion of a Chapter 13 case to another Chapter. (Sec. 312) Amends Federal criminal law to set additional penalties for specified fraudulent activities perpetrated in connection with bankruptcy proceedings. (Sec. 313) Amends Federal bankruptcy law to proscribe discriminatory treatment of student loan applicants who have been debtors under its aegis. Title IV: Governmental Bankruptcy Issues - Provides that the filing of a bankruptcy petition does not operate as an automatic stay of the creation, perfection, or enforcement of a statutory lien for an ad valorem property tax imposed by a governmental entity if such tax becomes due after the filing of a bankruptcy petition. (Sec.402) Modifies the eligibility requirements for municipal bankruptcy filings to require that municipalities be specifically authorized by the State to file for bankruptcy. Title V: Technical Corrections - Makes technical and conforming corrections to the Bankruptcy Code and the Federal Deposit Insurance Act. (Sec. 502) Amends the Judiciary Code to declare that each U.S. trustee shall supervise the administration of cases and trustees in cases under Chapter 12 of the Bankruptcy Code. Title VI: Bankruptcy Review Commission - National Bankruptcy Review Commission Act - Establishes the National Bankruptcy Review Commission to investigate and report to the Congress, the Chief Justice, and the President on issues relating to business bankruptcies. Authorizes appropriations. Title VII: Severability; Effective Date; Application of Amendments - Sets forth severability provisions and the effective date of this Act. Makes it inapplicable to certain cases commenced before its enactment.
+
+	</summary>
+</bill>

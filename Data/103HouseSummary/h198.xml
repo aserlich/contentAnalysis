@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="198" updated="2010-04-18T23:30:47-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Employee Retirement Income Security Act of 1974 to require an independent audit of standards prepared by certain financial institutions with respect to assets of employee benefit plans.</title>
+	</titles>
+	<sponsor id="405775"/>
+	<cosponsors>
+		<cosponsor id="400035" joined="1993-01-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor"/>
+		<term name="Auditing"/>
+		<term name="Bank examination"/>
+		<term name="Bank records"/>
+		<term name="Banks and banking"/>
+		<term name="Business records"/>
+		<term name="Employee benefit plans"/>
+		<term name="Financial statements"/>
+		<term name="Insurance companies"/>
+		<term name="Pension funds"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends the Employee Retirement Income Security Act of 1974 (ERISA) to eliminate the exemption for banks (or similar institutions) or insurance carriers from the requirement for an independent audit of certain financial statements regarding employee benefit plan assets.
+
+	</summary>
+</bill>

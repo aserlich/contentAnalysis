@@ -1,0 +1,59 @@
+<bill session="103" type="sj" number="27" updated="2012-07-17T06:04:55-04:00">
+	<state datetime="1993-04-12">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-04-12" /></status>
+
+	<introduced datetime="1993-01-27"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution providing for the appointment of Hanna Holborn Gray as a citizen regent of the Board of Regents of the Smithsonian Institution.</title>
+	</titles>
+	<sponsor id="400563"/>
+	<cosponsors>
+		<cosponsor id="300099" joined="1993-02-02"/>
+		<cosponsor id="409580" joined="1993-01-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-27" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S862-863)</text></action>
+		<action datetime="1993-01-27" state="REFERRED"><text>Read twice and referred to the Committee on Rules.</text></action>
+		<calendar datetime="1993-03-18"  state="REPORTED"><committee name="Committee on Rules"/><text>Committee on Rules. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-03-18"><text>Committee on Rules. Reported to Senate by Senator Ford without amendment. 103-24.</text></action>
+		<calendar under="General Orders" number="36" datetime="1993-03-18" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 36.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-03-22" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S3383"/></vote>
+		<action datetime="1993-03-23T12:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-03-23"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-03-23T13:15:00-05:00"><text>Mr. Clay asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1993-03-23T13:15:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H1542"/></action>
+		<action datetime="1993-03-23T13:15:00-05:00"><text>The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H.J. Res. 105. Agreed to without objection.</text></action>
+		<vote how="without objection" type="vote2" datetime="1993-03-23T13:16:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-03-23T13:16:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-03-23T13:16:00-05:00"><text>The title of the measure was amended to that of similar measure H.J. Res. 105. Agreed to without objection.</text></action>
+		<action datetime="1993-03-23T13:16:00-05:00"><text>A similar measure H.J. Res. 105 was laid on the table without objection.</text></action>
+		<action datetime="1993-03-25"><text>Message on House action received in Senate and at desk: House amendments to Senate bill.</text></action>
+		<action datetime="1993-03-29"><text>Senate agreed to the House amendments by Voice Vote.</text><reference label="consideration" ref="CR S3951"/></action>
+		<topresident datetime="1993-03-29" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-03-30"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-04-01" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-04-12" ><text>Signed by President.</text></signed>
+		<enacted number="103-19" type="public" datetime="1993-04-12"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-19.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="supersedes" session="103" type="hj" number="105" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal officials"/>
+		<term name="District of Columbia"/>
+		<term name="Government operations and politics"/>
+		<term name="Museums"/>
+		<term name="Smithsonian Institution"/>
+		<term name="Trusts and trustees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/23/1993--Passed House amended. Appoints Hanna Holborn Gray of Illinois to fill a vacancy on the Board of Regents of the Smithsonian Institution.
+
+	</summary>
+</bill>

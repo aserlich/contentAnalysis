@@ -1,0 +1,49 @@
+<bill session="103" type="s" number="503" updated="2012-07-17T06:28:55-04:00">
+	<state datetime="1993-03-04">REFERRED</state>
+	<status><introduced datetime="1993-03-04"/></status>
+
+	<introduced datetime="1993-03-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Immigration and Nationality Act to provide that members of Hamas (commonly known as the Islamic Resistance Movement) be considered to be engaged in a terrorist activity and ineligible to receive visas and excluded from admission into the United States.</title>
+	</titles>
+	<sponsor id="403142"/>
+	<cosponsors>
+		<cosponsor id="300159" joined="1993-03-11"/>
+		<cosponsor id="402675" joined="1993-04-02"/>
+		<cosponsor id="400562" joined="1993-03-11"/>
+		<cosponsor id="300048" joined="1993-03-17"/>
+		<cosponsor id="300092" joined="1993-03-10"/>
+		<cosponsor id="300089" joined="1993-03-09"/>
+		<cosponsor id="300029" joined="1993-09-22"/>
+		<cosponsor id="400558" joined="1993-03-30"/>
+		<cosponsor id="300082" joined="1993-03-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2408-2409, S2427)</text></action>
+		<action datetime="1993-03-04" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-04-20"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Immigration and Refugee Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Immigration and Refugee Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1279" />
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Islam"/>
+		<term name="Muslims"/>
+		<term name="Terrorism"/>
+		<term name="Underground movements"/>
+		<term name="Visas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/4/1993--Introduced.
+Amends the Immigration and Nationality Act to provide that members of Hamas (commonly known as the Islamic Resistance Movement) be considered to be engaged in a terrorist activity and ineligible to receive visas and excluded from admission into the United States.
+
+	</summary>
+</bill>

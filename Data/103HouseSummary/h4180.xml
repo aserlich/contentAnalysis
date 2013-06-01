@@ -1,0 +1,117 @@
+<bill session="103" type="h" number="4180" updated="2010-04-19T10:02:27-04:00">
+	<state datetime="1994-11-02">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-11-02" /></status>
+
+	<introduced datetime="1994-04-12"/>
+	<titles>
+		<title type="short" as="passed house">Federally Recognized Indian Tribe List Act of 1994</title>
+		<title type="short" as="passed house">Paskenta Band Restoration Act</title>
+		<title type="short" as="passed house">Tlingit and Haida Status Clarification Act</title>
+		<title type="short" as="passed senate">Federally Recognized Indian Tribe List Act of 1994</title>
+		<title type="short" as="passed senate">Paskenta Band Restoration Act</title>
+		<title type="short" as="passed senate">Tlingit and Haida Status Clarification Act</title>
+		<title type="official" as="introduced">To prohibit the withdrawal of acknowledgement or recognition of an Indian tribe or Alaska Native group or of the leaders of an Indian tribe or Alaska Native group, absent an Act of Congress.</title>
+		<title type="official" as="amended by senate">An Act to clarify the status of the Tlingit and Haida, and for other purposes.</title>
+	</titles>
+	<sponsor id="300097"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1994-04-12"/>
+		<cosponsor id="400035" joined="1994-04-12"/>
+		<cosponsor id="400440" joined="1994-04-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-12"><text>Sponsor introductory remarks on measure. (CR E628-629)</text></action>
+		<action datetime="1994-04-12"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-07-11"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Native American Affairs.</text></action>
+		<action datetime="1994-08-04"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-08-04"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T13:34:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-781.</text></action>
+		<calendar number="428" datetime="1994-10-03T13:34:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 428.</text></calendar>
+		<action datetime="1994-10-03T14:08:00-04:00"><text>Mr. Richardson moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-03T14:09:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10488-10490"/></action>
+		<action datetime="1994-10-03T14:09:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-10-03T14:14:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-03T14:14:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-03T14:14:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1994-10-03"><text>Received in the Senate, read twice.</text></action>
+		<action datetime="1994-10-07"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S14676-14677"/></action>
+		<action datetime="1994-10-07"><text>Amendment SP 2646 proposed by Senator Breaux for Senator Stevens.</text></action>
+		<action datetime="1994-10-07"><text>Amendment SP 2646 agreed to in Senate by Voice Vote.</text></action>
+		<action datetime="1994-10-07"><text>Amendment SP 2647 proposed by Senator Breaux for Senator Akaka.</text></action>
+		<action datetime="1994-10-07"><text>Amendment SP 2647 agreed to in Senate by Voice Vote.</text></action>
+		<action datetime="1994-10-07"><text>Amendment SP 2648 proposed by Senator Breaux for Senator Inouye.</text></action>
+		<action datetime="1994-10-07"><text>Amendment SP 2648 agreed to in Senate by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-07" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with amendments and an amendment to the Title by Voice Vote.</text></vote>
+		<action datetime="1994-10-08"><text>Senate vitiated previous passage. By unanimous consent and vitiated the amendment to the title.</text></action>
+		<action datetime="1994-10-08"><text>Senate vitiated previous actions on SP 2648, SP 2647 and SP 2646 by Unanimous Consent.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-08" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S15029"/></vote>
+		<topresident datetime="1994-10-08" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-12"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-24" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-11-02" ><text>Signed by President.</text></signed>
+		<enacted number="103-454" type="public" datetime="1994-11-02"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-454.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Indians"/>
+		<term name="Alaska"/>
+		<term name="Budgets"/>
+		<term name="California"/>
+		<term name="Civil liberties"/>
+		<term name="Claims"/>
+		<term name="Congress"/>
+		<term name="Congressional committees (House)"/>
+		<term name="Congressional committees (Senate)"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Constitutions"/>
+		<term name="Economic policy"/>
+		<term name="Environmental protection"/>
+		<term name="Eskimos"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Finance"/>
+		<term name="Government liability"/>
+		<term name="Government trust funds"/>
+		<term name="Hawaii"/>
+		<term name="Hawaiians"/>
+		<term name="Homestead law"/>
+		<term name="Housing"/>
+		<term name="Indian economic development"/>
+		<term name="Indian lands"/>
+		<term name="Interest"/>
+		<term name="Land transfers"/>
+		<term name="Law"/>
+		<term name="Legislation"/>
+		<term name="Legislative resolutions"/>
+		<term name="Minorities"/>
+		<term name="National forests"/>
+		<term name="Natural resources"/>
+		<term name="New Mexico"/>
+		<term name="Public lands"/>
+		<term name="Real estate appraisal"/>
+		<term name="Right of petition"/>
+		<term name="State and local government"/>
+		<term name="State laws"/>
+		<term name="Surplus government property"/>
+		<term name="Surveying"/>
+		<term name="Wilderness areas"/>
+	</subjects>
+	<amendments>
+		<amendment number="s2646"/>
+		<amendment number="s2647"/>
+		<amendment number="s2648"/>
+	</amendments>
+	<summary>
+	10/3/1994--Passed House amended. TABLE OF CONTENTS: Title I: Withdrawal of Acknowledgement of Recognition Title II: Central Council of Tlingit and Haida Indian Tribes of Alaska Title III: Paskenta Band of Nomlaki Indians of California Title I: Withdrawal of Acknowledgement of Recognition - Federally Recognized Indian Tribe List Act of 1994 - Requires the Secretary of the Interior to publish an annual list of federally recognized Indian tribes. Title II: Central Council of Tlingit and Haida Indian Tribes of Alaska - Tlingit and Haida Status Clarification Act - States that the Congress reaffirms and acknowledges that the Central Council of Tlingit and Haida Indian Tribes of Alaska is a federally recognized Indian tribe. Title III: Paskenta Band of Nomlaki Indians of California - Paskenta Band Restoration Act - Extends Federal recognition and restores rights and privileges of the Paskenta Band of Nomlaki Indians of the Paskenta Rancheria of California.
+
+	</summary>
+</bill>

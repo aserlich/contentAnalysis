@@ -1,0 +1,36 @@
+<bill session="103" type="s" number="711" updated="2012-07-17T06:00:39-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="official" as="introduced">A bill to suspend temporarily the duty on riboflavin.</title>
+	</titles>
+	<sponsor id="406084"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1652" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Chemicals"/>
+		<term name="Tariff"/>
+		<term name="Vitamins"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1997, the duty on 6,7 dimethyl-9-(D, 1-ribeytl)-iso-allazine (riboflavin).
+
+	</summary>
+</bill>

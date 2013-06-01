@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="4751" updated="2012-07-17T05:48:21-04:00">
+	<state datetime="1994-08-08T15:10:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-08-08T15:10:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-07-13"/>
+	<titles>
+		<title type="official" as="introduced">To reauthorize appropriations for the weatherization program under section 422 of the Energy Conservation and Production Act.</title>
+	</titles>
+	<sponsor id="409793"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-13" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-07-19"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-07-19"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-08-03T18:13:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 103-662.</text></action>
+		<calendar number="359" datetime="1994-08-03T18:13:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 359.</text></calendar>
+		<action datetime="1994-08-08T15:04:00-04:00"><text>Mr. Sharp moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-08-08T15:04:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7136-7137"/></action>
+		<action datetime="1994-08-08T15:04:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-08-08T15:10:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-08-08T15:10:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-08-09"><text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-08-10"><committee name="House Committee on Energy and Commerce"/><text>Referred to Subcommittee on Renewable Energy.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="Senate Energy and Natural Resources" subcommittee="Renewable Energy, Energy Efficiency, and Competitiveness" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4750" />
+	</relatedbills>
+	<subjects>
+		<term name="Energy"/>
+		<term name="Authorization"/>
+		<term name="Department of Energy"/>
+		<term name="Economics and public finance"/>
+		<term name="Energy assistance for the poor"/>
+		<term name="Energy policy"/>
+		<term name="Government operations and politics"/>
+		<term name="Housing and community development"/>
+		<term name="Public assistance programs"/>
+		<term name="Residential energy conservation"/>
+		<term name="Social welfare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/8/1994--Passed House amended. Amends the Energy Conservation and Protection Act to extend the authorization of appropriations for the weatherization assistance program for low-income persons through FY 1996.
+
+	</summary>
+</bill>

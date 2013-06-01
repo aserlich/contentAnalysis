@@ -1,0 +1,42 @@
+<bill session="103" type="hr" number="241" updated="2010-04-19T13:36:37-04:00">
+	<state datetime="1993-08-06T12:27:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-08-06T12:27:00-04:00" where="h" result="pass" how="roll" roll="407"/></status>
+
+	<introduced datetime="1993-08-05"/>
+	<titles>
+		<title type="official" as="introduced">Waiving points of order against the conference report to accompany the bill (H.R. 2010) to amend the National and Community Service Act of 1990 to establish a Corporation for National Service, enhance opportunities for national service, and provide national service educational awards to persons participating in such service, and for other purposes.</title>
+	</titles>
+	<sponsor id="401310"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-05T22:36:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-220, by Mr. Beilenson.</text></action>
+		<action datetime="1993-08-05T22:36:00-04:00"><text>Upon the adoption of this resolution, it shall be in order to consider the conference report on H.R. 2010. All points of order against the conference report and against its consideration are waived. The conference report shall be considered as read.</text></action>
+		<calendar datetime="1993-08-05T22:36:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 77.</text></calendar>
+		<action datetime="1993-08-06T11:38:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H6315-6318"/></action>
+		<action datetime="1993-08-06T11:38:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-08-06T12:01:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="roll" type="vote" roll="407" datetime="1993-08-06T12:27:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 256 - 166 (Roll no. 407).</text></vote>
+		<action datetime="1993-08-06T12:27:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2010" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Employment"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/1993--Introduced.
+Waives points of order against the consideration of the conference report on H.R. 2010 (amending the National and Community Service Act of 1990).
+
+	</summary>
+</bill>

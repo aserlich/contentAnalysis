@@ -1,0 +1,58 @@
+<bill session="103" type="sj" number="225" updated="2012-07-17T05:52:11-04:00">
+	<state datetime="1994-10-07">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-10-07" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-09-29"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution to designate February 5, 1995, through February 11, 1995, and February 4, 1996, through February 10, 1996, as &quot;National Burn Awareness Week&quot;.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="1994-09-29"/>
+		<cosponsor id="300066" joined="1994-09-29"/>
+		<cosponsor id="300056" joined="1994-10-04"/>
+		<cosponsor id="409580" joined="1994-09-29"/>
+		<cosponsor id="408597" joined="1994-09-29"/>
+		<cosponsor id="403142" joined="1994-09-29"/>
+		<cosponsor id="300053" joined="1994-09-29"/>
+		<cosponsor id="400557" joined="1994-09-29"/>
+		<cosponsor id="300037" joined="1994-09-29"/>
+		<cosponsor id="401709" joined="1994-09-29"/>
+		<cosponsor id="404598" joined="1994-09-29"/>
+		<cosponsor id="409225" joined="1994-09-29"/>
+		<cosponsor id="300008" joined="1994-09-29"/>
+		<cosponsor id="300084" joined="1994-09-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-29" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S13733)</text></action>
+		<action datetime="1994-09-29" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1994-10-07"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S14680-14681"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-10-07" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment and with a preamble by Voice Vote.</text></vote>
+		<action datetime="1994-11-29"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-11-29T12:30:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-11-29"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Special weeks"/>
+		<term name="Accident prevention"/>
+		<term name="Burns"/>
+		<term name="Commemorations"/>
+		<term name="Emergency management"/>
+		<term name="Health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/29/1994--Introduced.
+Designates the weeks of February 5 through February 11, 1995, and February 4 through February 10, 1996, each as National Burn Awareness Week.
+
+	</summary>
+</bill>

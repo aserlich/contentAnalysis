@@ -1,0 +1,204 @@
+<bill session="103" type="s" number="1052" updated="2012-07-17T06:06:23-04:00">
+	<state datetime="1993-10-06">REPORTED</state>
+	<status><calendar datetime="1993-10-06" /></status>
+
+	<introduced datetime="1993-05-27"/>
+	<titles>
+		<title type="short" as="introduced">Coast Guard Authorization Act of 1993</title>
+		<title type="short" as="introduced">Passenger Vessel Safety Act of 1993</title>
+		<title type="short" as="reported to senate">Coast Guard Authorization Act of 1993</title>
+		<title type="short" as="reported to senate">Passenger Vessel Safety Act of 1993</title>
+		<title type="official" as="introduced">A bill to authorize appropriations for fiscal years 1994 and 1995 for the Coast Guard, and for other purposes.</title>
+	</titles>
+	<sponsor id="300053"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-05-27"/>
+		<cosponsor id="300060" joined="1993-05-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-27" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6764-6765)</text></action>
+		<action datetime="1993-05-27" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<calendar datetime="1993-10-06"  state="REPORTED"><committee name="Committee on Commerce"/><text>Committee on Commerce. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1993-11-20"><text>Committee on Commerce. Reported to Senate by Senator Hollings with an amendment in the nature of a substitute. With written report No. 103-198.</text></action>
+		<calendar under="General Orders" number="325" datetime="1993-11-20" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 325.</text></calendar>
+		<action datetime="1993-11-22"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S16986-16992"/></action>
+		<action datetime="1993-11-22"><text>The committee substitute as amended agreed to by Voice Vote.</text></action>
+		<action datetime="1993-11-22"><text>Senate incorporated this measure in H.R. 2150 as an amendment.</text><reference label="consideration" ref="CR S16992"/></action>
+		<action datetime="1993-11-22"><text>Senate passed companion measure H.R. 2150 in lieu of this measure by Voice Vote.</text></action>
+		<action datetime="1993-11-22"><text>Returned to the Calendar. Calendar No. 325.</text><reference label="consideration" ref="CR S16992"/></action>
+		<action datetime="1994-05-24"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S6295"/></action>
+		<action datetime="1994-05-24"><text>See also H.R. 2150.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2150" />
+		<bill relation="superseded" session="103" type="h" number="2150" />
+		<bill relation="unknown" session="103" type="h" number="2150" />
+	</relatedbills>
+	<subjects>
+		<term name="Marine transportation"/>
+		<term name="Administrative fees"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Air bases"/>
+		<term name="Alaska"/>
+		<term name="Alien labor"/>
+		<term name="Anadromous fishes"/>
+		<term name="Animals"/>
+		<term name="Anniversaries"/>
+		<term name="Appropriations"/>
+		<term name="Arkansas"/>
+		<term name="Armed forces and national security"/>
+		<term name="Armed forces reserves"/>
+		<term name="Atlantic Coast (U.S.)"/>
+		<term name="Authorization"/>
+		<term name="Barges"/>
+		<term name="Bering Sea"/>
+		<term name="Boating accidents"/>
+		<term name="Boats and boating"/>
+		<term name="Bridges"/>
+		<term name="Business records"/>
+		<term name="Buy American"/>
+		<term name="California"/>
+		<term name="Coast guard"/>
+		<term name="Colleges"/>
+		<term name="Columbia River development"/>
+		<term name="Commemorations"/>
+		<term name="Commerce"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Continental shelf"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Debarment of government contractors"/>
+		<term name="Defense contracts"/>
+		<term name="Defense procurement"/>
+		<term name="Department of Transportation"/>
+		<term name="Dismissal of employees"/>
+		<term name="District courts"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Educational research"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Emergency communication systems"/>
+		<term name="Emergency management"/>
+		<term name="Environmental law enforcement"/>
+		<term name="Environmental protection"/>
+		<term name="Equipment and supplies"/>
+		<term name="Europe"/>
+		<term name="Federal aid to education"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Federal installations"/>
+		<term name="Federal-state relations"/>
+		<term name="Finance and financial sector"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Fire prevention"/>
+		<term name="Fishery agreements"/>
+		<term name="Fishery management"/>
+		<term name="Fishing boats"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Forfeiture"/>
+		<term name="France"/>
+		<term name="Fraud"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Government trust funds"/>
+		<term name="Great Lakes"/>
+		<term name="Gulf States"/>
+		<term name="Gulf of Mexico"/>
+		<term name="Harbors"/>
+		<term name="Higher education"/>
+		<term name="Historic sites"/>
+		<term name="History"/>
+		<term name="Housing and community development"/>
+		<term name="Ice breaking operations"/>
+		<term name="Immigration"/>
+		<term name="International affairs"/>
+		<term name="International fishery management"/>
+		<term name="Interstate compacts"/>
+		<term name="Interstate relations"/>
+		<term name="Labeling"/>
+		<term name="Labor and employment"/>
+		<term name="Land transfers"/>
+		<term name="Law"/>
+		<term name="Leases"/>
+		<term name="Legal fees"/>
+		<term name="Liability for oil pollution"/>
+		<term name="Lighthouses and lightships"/>
+		<term name="Longshoremen"/>
+		<term name="Louisiana"/>
+		<term name="Maine"/>
+		<term name="Maintenance and repair"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Marine safety"/>
+		<term name="Massachusetts"/>
+		<term name="Merchant marine"/>
+		<term name="Merchant seamen"/>
+		<term name="Michigan"/>
+		<term name="Military bases"/>
+		<term name="Military dependents"/>
+		<term name="Military discharges"/>
+		<term name="Military housing"/>
+		<term name="Military pensions"/>
+		<term name="Military personnel"/>
+		<term name="Military training"/>
+		<term name="Monuments and memorials"/>
+		<term name="Navigation"/>
+		<term name="Navigational aids"/>
+		<term name="New York State"/>
+		<term name="North Atlantic Ocean"/>
+		<term name="Oceanographic research ships"/>
+		<term name="Officer personnel"/>
+		<term name="Oil pollution"/>
+		<term name="Oil pollution control"/>
+		<term name="Pacific States (U.S.)"/>
+		<term name="Passenger ships"/>
+		<term name="Personnel records"/>
+		<term name="Police training"/>
+		<term name="Presidential appointments"/>
+		<term name="Private legislation"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Relocation of federal installations"/>
+		<term name="Research and development"/>
+		<term name="Research grants"/>
+		<term name="Retired military personnel"/>
+		<term name="Revolving funds"/>
+		<term name="Rivers"/>
+		<term name="Russian Republic"/>
+		<term name="Science, technology, communications"/>
+		<term name="Seizure of vessels and cargoes"/>
+		<term name="Service academies"/>
+		<term name="Shellfish fisheries"/>
+		<term name="Shipping agreements"/>
+		<term name="Ships"/>
+		<term name="South Atlantic States"/>
+		<term name="South Carolina"/>
+		<term name="Special weeks"/>
+		<term name="State parks"/>
+		<term name="Submarines"/>
+		<term name="Surety and fidelity"/>
+		<term name="Tankers"/>
+		<term name="Technology assessment"/>
+		<term name="Territorial waters"/>
+		<term name="Texas"/>
+		<term name="Transportation and public works"/>
+		<term name="Transportation of hazardous substances"/>
+		<term name="Veterans' benefits"/>
+		<term name="Virginia"/>
+		<term name="Volunteer workers"/>
+		<term name="Wages"/>
+		<term name="Washington State"/>
+		<term name="Water resources development"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1240"/>
+	</amendments>
+	<summary>
+	5/24/1994--Indefinitely postponed in Senate. TABLE OF CONTENTS: Title I: Authorizations Title II: Personnel Management Improvement Title III: Miscellaneous Coast Guard Provisions Title IV: Employment and Discharge Title V: Passenger Vessel Safety Title VI: Documentation of Vessels Title VII: Miscellaneous Fishery Provisions Title VIII: Atlantic Coastal Fisheries Title IX: Liberty Memorial Coast Guard Authorization Act of 1993 - Title I: Authorizations - Authorizes appropriations for the Coast Guard for: (1) operation and maintenance; (2) acquisition, construction, rebuilding, and improvement of aids to navigation, shore and offshore facilities, vessels, and aircraft; (3) research, development, test, and evaluation; (4) retirement pay and benefits; (5) alteration or removal of bridges; and (6) environmental compliance and restoration. (Sec. 102) Authorizes the Coast Guard end-of-year strength for active duty personnel and the average military training student loads. Title II: Personnel Management Improvement - Raises the ceiling on the number of active duty commissioned officers in the Coast Guard. (Sec. 202) Authorizes the Commandant to enter into cooperative agreements to accept and utilize voluntary services for the maintenance and improvement of natural and historic resources, or to benefit natural and historic research, on Coast Guard facilities, provided that any such agreement requires the parties to contribute funds or services on a matching basis to defray costs. (Sec. 203) Provides for the removal of certain Reserve officers who are eligible for retirement from consideration for retention by a retention board. (Sec. 204) Revises provisions regarding the retirement of a Commandant to provide for continuity of grade of admirals and vice admirals. (Sec. 205) Authorizes the President to appoint a Chief of Staff of the Coast Guard. Title III: Miscellaneous Coast Guard Provisions - Repeals provisions of the Act of June 25, 1936, requiring: (1) public notice of North Atlantic Ocean vessel routes, avoidance of ice regions, and penalties for failure to comply with such provisions; and (2) publication of rules and regulations in the Federal Register. (Sec. 302) Authorizes the Secretary of the department in which the Coast Guard is operating to: (1) acquire real property or interests for use as Coast Guard family housing units and dispose of any such property or interests for adequate consideration; and (2) spend or obligate funds for improvements of buildings at Coast Guard Air Station Cape Cod, Cape Cod, Massachusetts. (Sec. 304) Grants the Secretary long-term lease authority for specified navigation and communications systems sites. (Sec. 305) Authorizes the Coast Guard to compete for and accept Federal, State, or other educational research grants, provided that no award is accepted for the acquisition or construction of facilities, or for the routine functions of the Academy. (Sec. 306) Authorizes the Secretary of Transportation to: (1) expend specified sums for acquisition, construction, and improvement that are derived from the Oil Spill Liability Trust Fund to acquire and preposition oil response equipment at Port Arthur, Texas, and Helena, Arkansas, and to the New York Maritime College of the State of New York to purchase a marine oil spill management simulator; and (2) construct specified shore facilities improvements at Coast Guard Station, Little Creek, Virginia. Authorizes appropriations for the latter. (Sec. 310) Directs the Secretary of Transportation to establish a program to evaluate the technological feasibility and environmental benefits of having tank vessels carry oil spill prevention and response technology. (Sec. 311) Exempts from inspection an unmanned seagoing barge that does not carry a hazardous material as cargo or a flammable or combustible liquid, including oil, in bulk. (Sec. 312) Prohibits the Secretary of Transportation from decommissioning the Coast Guard cutter Mackinaw before December 31, 1994. Authorizes appropriations for operation and maintenance. (Sec. 313) Authorizes such Secretary to expend specified sums for lower Columbia River marine, fire, oil, and toxic spill response activities. (Sec. 314) Exempts a passenger vessel operating on the date of enactment of this Act on the Cass River above Frankenmuth, Michigan, from Federal laws relating to vessel inspection and manning. (Sec. 315) Declares that it is the sense of the Congress that the Congress should appropriate amounts adequate to enable the Coast Guard to carry out all extraordinary functions and duties the Coast Guard is required to undertake. (Sec. 317) Directs the Coast Guard to establish: (1) the Gulf of Mexico Regional Fisheries Law Enforcement Training Center in the Eighth Coast Guard District in southeastern Louisiana; and (2) the Southeast Regional Fisheries Law Enforcement Training Center in the Seventh Coast Guard District in Charleston, South Carolina. (Sec. 318) Makes National Safe Boating Week the seven-day period ending on the last Friday before Memorial Day. (Sec. 319) Authorizes the Coast Guard to provide personnel support for the interim vessel traffic information service in the Ports of Los Angeles and Long Beach. (Sec. 320) Removes provisions of Federal law setting the amount of a bond indemnifying vessel passengers for nonperformance of the transportation. (Sec. 322) Sets forth requirements concerning watches and licensed individuals on vessels engaged in oil spill recovery operations. (Sec. 323) Amends the Immigration and Nationality Act to permit alien longshoremen to work in Alaska under specified circumstances. (Sec. 324) Provides for the completion of planning and design studies for relocation of the Cape Cod Lighthouse in North Truro, Massachusetts. (Sec. 325) Requires the conveyance to the Washington State Parks and Recreation Commission of property comprising one or more of the Cape Disappointment Lighthouse, North Head Lighthouse, and Point Wilson Lighthouse. (Sec. 326) Transfers: (1) the Heron Neck Lighthouse to the Island Institute, Rockland, Maine; and (2) the Burnt Coat Harbor Lighthouse to the town of Swan's Island, Swans Island, Maine. Title IV: Employment and Discharge - Revises provisions relating to shipping articles agreements, certificates of discharge, wages, and other matter concerning the employment of merchant seamen. Increases the general penalty for violations. Title V: Passenger Vessel Safety - Passenger Vessel Safety Act of 1993 - Amends Federal shipping law relating to vessels and seamen to: (1) modify the definitions of &quot;passenger,&quot; &quot;passenger vessel,&quot; &quot;small passenger vessel,&quot; &quot;uninspected passenger vessel,&quot; &quot;offshore supply vessel,&quot; and &quot;sailing school vessel&quot;; and (2) define &quot;passenger for hire,&quot; &quot;consideration,&quot; and &quot;submersible vessel.&quot; (Sec. 511) Authorizes the Secretary of the department in which the Coast Guard is operating to exempt passenger vessels from requirements of provisions relating to inspection and regulation of vessels and manning of vessels. Includes under such exemption authority provisions relating to load lines of vessels and merchant seamen protection and relief. (Sec. 512) Directs the Secretary to require appropriate structural fire protection, manning, operating, and equipment requirements for certain uninspected domestic passenger vessels, if application for inspection is made within six months of enactment of this Act. Title VI: Documentation of Vessels - Authorizes the Secretary of Transportation to issue certificates of documentation for specified vessels. Title VII: Miscellaneous Fishery Provisions - Authorizes renewal, until May 1, 1994, of the Agreement between the Government of the United States and the Government of the Russian Federation on Mutual Fisheries Relations which expired on October 28, 1993. (Sec. 702) Amends the Magnuson Fishery Conservation and Management Act to extend, for three months, the prohibition on the implementation of certain measures that would reduce incidental mortality of nontarget fishery resources in the course of shrimp trawl fishing. (Sec. 703) Expresses the sense of the Congress that the United States should take appropriate measures to conserve the resources of the Doughnut Hole of the Bering Sea (a small enclave of international waters). (Sec. 704) Authorizes the Secretary of Commerce to enter into an agreement with the University of Alaska for engineering and design specifications of a facility on Near Island in Kodiak, Alaska, that meets the long-term space needs of the National Oceanic and Atmospheric Administration. Title VIII: Atlantic Coastal Fisheries - Atlantic Coastal Fisheries Cooperative Management Act - Mandates a program to support the interstate fishery management efforts of the Atlantic States Marine Fisheries Commission. Authorizes (in the absence of an approved and implemented fishery management plan under the Magnuson Fishery Conservation and Management Act) the Secretary of Commerce to implement regulations to govern fishing in the Exclusive Economic Zone that are necessary for implementation of a coastal fishery management plan and consistent with national standards under the Magnuson Act. Applies specified provisions of the Magnuson Act to those regulations. (Sec. 805) Requires the Commission to adopt coastal fishery management plans to provide for the conservation and management of coastal fishery resources. Requires States identified by the Commission to implement and enforce the plan under a time schedule set by the Commission. Mandates a moratorium on fishing in the fishery in question in the waters of a noncomplying State, prohibiting fishing, possession, transportation, sale, and related acts. Imposes penalties. (Sec. 808) Authorizes financial assistance to the Commission and the States to carry out their responsibilities. (Sec. 809) Authorizes appropriations. (Sec. 810) Amends the Atlantic Striped Bass Conservation Act to make it permanent law (currently, such Act ceases on September 30, 1994). (Sec. 811) Extends and increases the authorization of appropriations to support the Atlantic States Marine Fisheries Compact, the Pacific Marine Fisheries Compact, and the Gulf States Marine Fisheries Compact in developing interstate fishery management plans for interjurisdictional fishery resources. Title IX: Liberty Memorial - Liberty Memorial Act of 1993 - Authorizes conveyance without consideration of two vessels in the National Defense Reserve Fleet to any nonprofit organization that operates a Liberty Ship or Victory Ship as a memorial to merchant mariners. Requires the organization to sell the vessel for scrap, use the proceeds to refurbish a Liberty Ship or Victory Ship to enable the ship to participate in activities concerning the 50th anniversary of the Normandy invasion, and return any unused proceeds to the United States for deposit in the Vessel Operations Revolving Fund.
+
+	</summary>
+</bill>

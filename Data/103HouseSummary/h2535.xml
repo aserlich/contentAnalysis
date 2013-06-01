@@ -1,0 +1,137 @@
+<bill session="103" type="h" number="2535" updated="2012-07-17T04:04:38-04:00">
+	<state datetime="1993-12-20">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-20" /></status>
+
+	<introduced datetime="1993-06-28"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to provide additional authority for the Secretary of Veterans Affairs to provide health care for veterans of the Persian Gulf War.</title>
+	</titles>
+	<sponsor id="409442"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1993-07-27"/>
+		<cosponsor id="400329" joined="1993-07-27"/>
+		<cosponsor id="407838" joined="1993-06-28"/>
+		<cosponsor id="406920" joined="1993-07-01"/>
+		<cosponsor id="406277" joined="1993-06-28"/>
+		<cosponsor id="405313" joined="1993-07-27"/>
+		<cosponsor id="300038" joined="1993-07-29"/>
+		<cosponsor id="400242" joined="1993-07-14"/>
+		<cosponsor id="400127" joined="1993-07-27"/>
+		<cosponsor id="408476" joined="1993-07-27"/>
+		<cosponsor id="400548" joined="1993-06-28"/>
+		<cosponsor id="400219" joined="1993-07-27"/>
+		<cosponsor id="400388" joined="1993-07-27"/>
+		<cosponsor id="410695" joined="1993-07-01"/>
+		<cosponsor id="400380" joined="1993-06-28"/>
+		<cosponsor id="400163" joined="1993-06-28"/>
+		<cosponsor id="400048" joined="1993-07-01"/>
+		<cosponsor id="400574" joined="1993-07-14"/>
+		<cosponsor id="400533" joined="1993-07-28"/>
+		<cosponsor id="400350" joined="1993-07-27"/>
+		<cosponsor id="400030" joined="1993-07-01"/>
+		<cosponsor id="400504" joined="1993-06-28"/>
+		<cosponsor id="400010" joined="1993-07-14"/>
+		<cosponsor id="409966" joined="1993-07-20"/>
+		<cosponsor id="408618" joined="1993-07-27"/>
+		<cosponsor id="404996" joined="1993-07-14"/>
+		<cosponsor id="406482" joined="1993-06-28"/>
+		<cosponsor id="408556" joined="1993-07-27"/>
+		<cosponsor id="400126" joined="1993-06-28"/>
+		<cosponsor id="400118" joined="1993-07-01"/>
+		<cosponsor id="400028" joined="1993-06-28"/>
+		<cosponsor id="400056" joined="1993-06-28"/>
+		<cosponsor id="400389" joined="1993-07-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-28" state="REFERRED"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-06-29"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Hospitals and Health Care.</text></action>
+		<action datetime="1993-06-29"><committee name="House Committee on Veterans' Affairs" subcommittee="Hospitals and Health Care"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-06-29"><committee name="House Committee on Veterans' Affairs" subcommittee="Hospitals and Health Care"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-07-27"><committee name="House Committee on Veterans' Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-07-27"  state="REPORTED"><committee name="House Committee on Veterans' Affairs"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-07-29T19:45:00-04:00"><text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 103-198.</text></action>
+		<calendar number="110" datetime="1993-07-29T19:45:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 110.</text></calendar>
+		<action datetime="1993-08-02T13:04:00-04:00"><text>Mr. Montgomery moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-08-02T13:05:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5566-5571"/></action>
+		<action datetime="1993-08-02T13:05:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-08-02T13:37:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1993-08-02T16:24:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5634"/></action>
+		<vote how="roll" type="vote" roll="388" datetime="1993-08-02T16:34:00-04:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 388).</text></vote>
+		<action datetime="1993-08-02T16:34:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-08-03"><text>Received in the Senate and read twice and referred to the Committee on Veterans.</text></action>
+		<action datetime="1993-11-20"><text>Senate Committee on Veterans discharged by Unanimous Consent.</text></action>
+		<action datetime="1993-11-20"><text>Measure laid before Senate. (CR 11/19/1993 S16584-16585)</text></action>
+		<action datetime="1993-11-20"><text>Amendment SP 1226 proposed by Senator Ford for Senator Rockefeller.</text></action>
+		<action datetime="1993-11-20"><text>Amendment SP 1226 agreed to in Senate by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-11-20" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-11-20"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-22T09:42:00-05:00"><text>Mr. Montgomery asked unanimous consent that the House agree to the Senate amendment.</text></action>
+		<vote how="without objection" type="pingpong" datetime="1993-11-22T09:44:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House agree to the Senate amendment Agreed to without objection.</text><reference label="consideration" ref="CR H10654"/></vote>
+		<action datetime="1993-11-22T09:44:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-11-22" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-12-08" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-20" ><text>Signed by President.</text></signed>
+		<enacted number="103-210" type="public" datetime="1993-12-20"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-210.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="HSVR-03" name="House Veterans' Affairs" subcommittee="Hospitals and Health Care" activity="Referral, Markup, Reporting" />
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Agent Orange"/>
+		<term name="Ambulatory care"/>
+		<term name="Assault"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Department of Veterans Affairs"/>
+		<term name="Dioxins"/>
+		<term name="East Asia"/>
+		<term name="Education"/>
+		<term name="Environmental health"/>
+		<term name="Environmental protection"/>
+		<term name="Extended care facilities"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal installations"/>
+		<term name="Government operations and politics"/>
+		<term name="Health"/>
+		<term name="Health counseling"/>
+		<term name="Herbicides"/>
+		<term name="Higher education"/>
+		<term name="Hospital care"/>
+		<term name="Japan"/>
+		<term name="Long-term care"/>
+		<term name="Military discharges"/>
+		<term name="Nuclear weapons"/>
+		<term name="Nursing homes"/>
+		<term name="Persian Gulf War"/>
+		<term name="Philippines"/>
+		<term name="Radiation victims"/>
+		<term name="Rape"/>
+		<term name="Sex crimes"/>
+		<term name="Sexual harassment of women"/>
+		<term name="Soldiers' homes"/>
+		<term name="Trauma care"/>
+		<term name="Veterans' benefits"/>
+		<term name="Veterans' education"/>
+		<term name="Veterans' hospitals"/>
+		<term name="Veterans' medical care"/>
+		<term name="Veterans' rehabilitation"/>
+		<term name="Vietnam veterans"/>
+		<term name="War casualties"/>
+		<term name="Women"/>
+		<term name="Women veterans"/>
+		<term name="Women's health"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1226"/>
+	</amendments>
+	<summary>
+	11/20/1993--Passed Senate amended. Makes Persian Gulf War veterans exposed to a toxic substance or environmental hazard during that war eligible for medical (including outpatient) care for any disability, notwithstanding insufficient medical evidence to conclude that such disability may be associated with such exposure, with exceptions. Directs the Secretary of Veterans Affairs, upon request, to reimburse veterans for such care furnished before this Act's enactment. Extends through: (1) June 30, 1994, the provision of veterans' hospital and nursing home care and medical services for Vietnam era veterans exposed to toxic substances during such service; (2) December 31, 1994, the period of eligibility for sexual trauma counseling services through the Department of Veterans Affairs for veterans released from duty before December 31, 1992; (3) December 31, 1994, the authority to maintain a Department regional office in the Philippines; and (4) December 31, 1994, the Veterans' Advisory Committee on Education. Authorizes the Secretary to enter into agreements with State veterans facilities for the sharing of healthcare resources and facilities, with certain conditions.
+
+	</summary>
+</bill>

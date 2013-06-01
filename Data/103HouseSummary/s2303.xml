@@ -1,0 +1,52 @@
+<bill session="103" type="s" number="2303" updated="2012-07-17T04:10:18-04:00">
+	<state datetime="1994-09-21">REPORTED</state>
+	<status><calendar datetime="1994-09-21" /></status>
+
+	<introduced datetime="1994-07-21"/>
+	<titles>
+		<title type="short" as="introduced">Anaktuvuk Pass Land Exchange and Wilderness Redesignation Act of 1994</title>
+		<title type="short" as="reported to senate">Anaktuvuk Pass Land Exchange and Wilderness Redesignation Act of 1994</title>
+		<title type="official" as="introduced">A bill to provide for the exchange of lands within Gates of the Arctic National Park and Preserve, and for other purposes.</title>
+	</titles>
+	<sponsor id="300150"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1994-07-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S9454-9455)</text></action>
+		<action datetime="1994-07-21" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-07-22"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1994-07-26"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-08-02"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held.</text></action>
+		<calendar datetime="1994-09-21"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1994-09-27"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments. Without written report.</text></action>
+		<calendar under="General Orders" number="652" datetime="1994-09-27" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 652.</text></calendar>
+		<action datetime="1994-11-30"><text>By Senator Johnston from Committee on Energy and Natural Resources filed written report. Report No. 103-425.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4754" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Alaska"/>
+		<term name="All terrain vehicles"/>
+		<term name="Easements"/>
+		<term name="Indian lands"/>
+		<term name="Land transfers"/>
+		<term name="Minorities"/>
+		<term name="National parks"/>
+		<term name="Transportation and public works"/>
+		<term name="Wilderness areas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/27/1994--Reported to Senate amended. Anaktuvuk Pass Land Exchange and Wilderness Redesignation Act of 1994 - Ratifies and confirms the agreement among the United States, the Arctic Slope Regional Corporation, the Nunamiut Corporation, and the city of Anaktuvuk Pass executed on December 17, 1992. Requires the lands acquired by the United States pursuant to such Agreement to be administered by the Secretary of the Interior as part of the Gates of the Arctic National Park and Preserve. Amends the Alaska National Interest Lands Conservation Act to provide for: (1) the addition and the rescission of lands within the Gates of the Arctic Wilderness; and (2) the addition of lands to the Noatak National Preserve and the Noatak Wilderness.
+
+	</summary>
+</bill>

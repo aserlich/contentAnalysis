@@ -1,0 +1,37 @@
+<bill session="103" type="s" number="1653" updated="2012-07-17T05:14:03-04:00">
+	<state datetime="1993-11-10">REFERRED</state>
+	<status><introduced datetime="1993-11-10"/></status>
+
+	<introduced datetime="1993-11-10"/>
+	<titles>
+		<title type="official" as="introduced">A bill for the relief of The Triax Company, a Utah corporation.</title>
+	</titles>
+	<sponsor id="300007"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-10" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S15608-15610)</text></action>
+		<action datetime="1993-11-10" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1994-02-03"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Claims"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/10/1993--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named Utah corporation in full satisfaction of its claims against the United States arising out of a contract for the rehabilitation of military housing.
+
+	</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="3494" updated="2010-04-19T08:15:28-04:00">
+	<state datetime="1993-11-10">REFERRED</state>
+	<status><introduced datetime="1993-11-10"/></status>
+
+	<introduced datetime="1993-11-10"/>
+	<titles>
+		<title type="short" as="introduced">Let's Protect Our Seniors Act of 1993</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, to provide for the doubling of the imprisonment penalty for crimes committed against the elderly.</title>
+	</titles>
+	<sponsor id="404296"/>
+	<cosponsors>
+		<cosponsor id="400149" joined="1994-05-26"/>
+		<cosponsor id="400143" joined="1994-05-26"/>
+		<cosponsor id="408553" joined="1994-05-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-10"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-11-21"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Crimes against the elderly"/>
+		<term name="Sentences (Criminal procedure)"/>
+		<term name="Sentencing guidelines"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/10/1993--Introduced.
+Let's Protect Our Seniors Act of 1993 - Amends the Federal criminal code to provide for the doubling of terms of imprisonment for crimes committed against persons who have attained age 65. Directs the United States Sentencing Commission to amend the sentencing guidelines as necessary to reflect such change.
+
+	</summary>
+</bill>

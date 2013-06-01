@@ -1,0 +1,68 @@
+<bill session="103" type="h" number="1095" updated="2010-04-19T01:58:46-04:00">
+	<state datetime="1993-02-24">REFERRED</state>
+	<status><introduced datetime="1993-02-24"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="short" as="introduced">Ethics in Government Act Amendments of 1993</title>
+		<title type="official" as="introduced">To amend the Ethics in Government Act of 1978 with respect to honoraria, and for other purposes.</title>
+	</titles>
+	<sponsor id="400140"/>
+	<cosponsors>
+		<cosponsor id="400295" joined="1993-10-05"/>
+		<cosponsor id="400552" joined="1993-02-24"/>
+		<cosponsor id="400524" joined="1993-02-24"/>
+		<cosponsor id="400189" joined="1993-02-24"/>
+		<cosponsor id="410887" joined="1993-07-15"/>
+		<cosponsor id="300058" joined="1993-06-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on Judiciary"/><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-03-03"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Post Office and Civil Service" subcommittee="Administrative Law and Governmental Relations"/><text>Referred to the Subcommittee on Civil Service.</text></action>
+		<action datetime="1993-11-18"><committee name="House Committee on Judiciary" subcommittee="Administrative Law and Governmental Relations"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-11-18"><committee name="House Committee on Judiciary" subcommittee="Administrative Law and Governmental Relations"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-06" name="House Armed Services" subcommittee="Oversight and Investigations" activity="Referral" />
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral, Markup, Reporting" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Civil Service" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Conflict of interests"/>
+		<term name="Congressional employees"/>
+		<term name="Congressional ethics"/>
+		<term name="Election candidates"/>
+		<term name="Ethics"/>
+		<term name="Ex-Members of Congress"/>
+		<term name="Federal Election Commission"/>
+		<term name="Federal officials"/>
+		<term name="Financial disclosure"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Government paperwork"/>
+		<term name="Honoraria"/>
+		<term name="Lobbying"/>
+		<term name="Misconduct in office"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Ethics in Government Act Amendments of 1993 - Amends the Ethics in Government Act of 1978 to specify the circumstances under which Federal officers and employees, other than Members of Congress and noncareer officers and employees whose rate of basic pay is equal to or greater than that for Level V of the Executive Schedule, may receive an honorarium for an article in a bona fide publication, a speech, or an appearance. Prohibits the amount of honorarium accepted from exceeding the usual and customary fee for the services for which the honorarium is paid, up to $2,000. Subjects the acceptance of any honorarium to financial disclosure. Requires the rules and regulations of each supervising ethics office (ethics office) designated under the Ethics Reform Act of 1989 to include procedures under which certain senior level or high-salaried noncareer officers and employees must notify their respective ethics office before accepting any of the honoraria permitted above that, in the aggregate, equal or exceed $200 in value from any one source in a calendar year. Requires each ethics office to compile and make public all notifications received during each calendar quarter. Subjects to specified penalties any person who fails to notify the appropriate ethics office before accepting honoraria. Amends the Federal criminal code to waive certain postemployment restrictions on Members of Congress and congressional employees and on certain senior executive branch personnel with respect to a communication or appearance made solely on behalf of a candidate for Federal or State office, in his or her capacity as a candidate, a political party, or certain political organizations, with specified exceptions.
+
+	</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="4227" updated="2010-04-19T10:09:49-04:00">
+	<state datetime="1994-04-14">REFERRED</state>
+	<status><introduced datetime="1994-04-14"/></status>
+
+	<introduced datetime="1994-04-14"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 5, United States Code, to provide that the mandatory retirement age for members of the Capitol Police be made the same as the age applicable to law enforcement officers.</title>
+	</titles>
+	<sponsor id="407141"/>
+	<cosponsors>
+		<cosponsor id="400117" joined="1994-04-14"/>
+		<cosponsor id="409400" joined="1994-04-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-14"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1994-04-14"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-04-20"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+		<action datetime="1994-04-21"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congressional agencies"/>
+		<term name="Capitol (Washington, D.C.)"/>
+		<term name="Civil service pensions"/>
+		<term name="Civil service retirement"/>
+		<term name="Congress"/>
+		<term name="Congressional employees"/>
+		<term name="Criminal justice"/>
+		<term name="Government employees"/>
+		<term name="Labor"/>
+		<term name="Mandatory retirement"/>
+		<term name="Pensions"/>
+		<term name="Police"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/14/1994--Introduced.
+Amends Federal law to raise the mandatory retirement age for members of the Capitol Police from 55 to 57.
+
+	</summary>
+</bill>

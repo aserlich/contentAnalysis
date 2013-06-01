@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="1039" updated="2010-04-19T01:49:48-04:00">
+	<state datetime="1993-02-23">REFERRED</state>
+	<status><introduced datetime="1993-02-23"/></status>
+
+	<introduced datetime="1993-02-23"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 5, United States Code, to ensure that whistleblowers are protected from having to submit, without just cause, to psychological or psychiatric evaluations or counseling.</title>
+	</titles>
+	<sponsor id="402152"/>
+	<cosponsors>
+		<cosponsor id="400553" joined="1994-03-23"/>
+		<cosponsor id="401014" joined="1993-10-12"/>
+		<cosponsor id="400140" joined="1993-10-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Civil Service.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Civil Service" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Counseling"/>
+		<term name="Disciplining of employees"/>
+		<term name="Personnel records"/>
+		<term name="Physical examinations"/>
+		<term name="Psychiatry"/>
+		<term name="Whistle blowing"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1993--Introduced.
+Makes a referral for psychiatric or psychological counseling or examination and the maintenance of records or reports referencing such counseling or examination a prohibited Federal personnel practice for purposes of affording protection to whistleblowers.
+
+	</summary>
+</bill>

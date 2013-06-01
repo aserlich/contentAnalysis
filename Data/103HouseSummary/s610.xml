@@ -1,0 +1,45 @@
+<bill session="103" type="s" number="610" updated="2012-07-17T05:00:37-04:00">
+	<state datetime="1993-03-18">REFERRED</state>
+	<status><introduced datetime="1993-03-18"/></status>
+
+	<introduced datetime="1993-03-18"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Food Security Act of 1985 to exempt the triple base acreage of the producers on a farm from the highly erodible land and wetland conservation requirements of such Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="400561"/>
+	<cosponsors>
+		<cosponsor id="300048" joined="1993-03-18"/>
+		<cosponsor id="403962" joined="1993-03-18"/>
+		<cosponsor id="300031" joined="1993-03-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-18" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3173-3175)</text></action>
+		<action datetime="1993-03-18" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-03-31"><committee name="Committee on Agriculture"/><text>Committee on Agriculture requested executive comment from Department of Agriculture.</text></action>
+		<action datetime="1993-04-12"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Agricultural Research.</text></action>
+		<action datetime="1993-06-08"><committee name="Committee on Agriculture"/><text>Committee on Agriculture received executive comment from Department of Agriculture. Unfavorable.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Agricultural Research, Conservation, Forestry and General Legislation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1587" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural price supports"/>
+		<term name="Environmental protection"/>
+		<term name="Soil conservation"/>
+		<term name="Wetland conservation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/18/1993--Introduced.
+Amends the Food Security Act of 1985 to exempt triple base acreage from certain highly erodible and wetland conservation requirements.
+
+	</summary>
+</bill>

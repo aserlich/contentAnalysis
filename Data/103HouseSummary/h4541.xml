@@ -1,0 +1,114 @@
+<bill session="103" type="h" number="4541" updated="2012-07-17T04:45:50-04:00">
+	<state datetime="1994-09-19T17:30:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-09-19T17:30:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-06-08"/>
+	<titles>
+		<title type="short" as="introduced">African Conflict Resolution Act</title>
+		<title type="short" as="passed house">African Conflict Resolution Act</title>
+		<title type="official" as="introduced">To authorize assistance to promote the peaceful resolution of conflicts in Africa.</title>
+	</titles>
+	<sponsor id="406082"/>
+	<cosponsors>
+		<cosponsor id="400532" joined="1994-08-17"/>
+		<cosponsor id="400438" joined="1994-08-17"/>
+		<cosponsor id="400420" joined="1994-08-17"/>
+		<cosponsor id="410589" joined="1994-08-17"/>
+		<cosponsor id="300038" joined="1994-08-17"/>
+		<cosponsor id="400188" joined="1994-08-17"/>
+		<cosponsor id="403364" joined="1994-08-17"/>
+		<cosponsor id="405775" joined="1994-08-17"/>
+		<cosponsor id="400055" joined="1994-08-17"/>
+		<cosponsor id="400585" joined="1994-08-17"/>
+		<cosponsor id="400553" joined="1994-08-17"/>
+		<cosponsor id="411350" joined="1994-08-17"/>
+		<cosponsor id="400025" joined="1994-08-17"/>
+		<cosponsor id="406420" joined="1994-08-17"/>
+		<cosponsor id="400048" joined="1994-08-17"/>
+		<cosponsor id="400122" joined="1994-08-17"/>
+		<cosponsor id="400350" joined="1994-08-17"/>
+		<cosponsor id="409154" joined="1994-08-17"/>
+		<cosponsor id="400201" joined="1994-08-17"/>
+		<cosponsor id="400312" joined="1994-06-08"/>
+		<cosponsor id="400333" joined="1994-08-17"/>
+		<cosponsor id="400003" joined="1994-08-17"/>
+		<cosponsor id="407351" joined="1994-08-17"/>
+		<cosponsor id="407672" joined="1994-08-17"/>
+		<cosponsor id="400170" joined="1994-08-17"/>
+		<cosponsor id="403776" joined="1994-08-17"/>
+		<cosponsor id="400502" joined="1994-08-17"/>
+		<cosponsor id="404375" joined="1994-08-17"/>
+		<cosponsor id="400511" joined="1994-08-17"/>
+		<cosponsor id="408618" joined="1994-08-17"/>
+		<cosponsor id="400236" joined="1994-08-17"/>
+		<cosponsor id="400231" joined="1994-08-17"/>
+		<cosponsor id="404996" joined="1994-08-17"/>
+		<cosponsor id="400424" joined="1994-08-17"/>
+		<cosponsor id="400204" joined="1994-08-17"/>
+		<cosponsor id="400299" joined="1994-08-17"/>
+		<cosponsor id="400538" joined="1994-08-17"/>
+		<cosponsor id="401014" joined="1994-08-17"/>
+		<cosponsor id="400527" joined="1994-08-17"/>
+		<cosponsor id="403314" joined="1994-08-17"/>
+		<cosponsor id="400080" joined="1994-08-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-08" state="REFERRED"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-06-08"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Africa.</text></action>
+		<action datetime="1994-06-08"><committee name="House Committee on Foreign Affairs" subcommittee="Africa"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-06-08"><committee name="House Committee on Foreign Affairs" subcommittee="Africa"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1994-09-13"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-13"  state="REPORTED"><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-09-13"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Received from State.</text></action>
+		<action datetime="1994-09-19T12:39:00-04:00"><text>Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 103-723.</text></action>
+		<calendar number="400" datetime="1994-09-19T12:39:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 400.</text></calendar>
+		<action datetime="1994-09-19T17:04:00-04:00"><text>Mr. Johnston moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-09-19T17:07:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9204-9208"/></action>
+		<action datetime="1994-09-19T17:07:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-09-19T17:30:00-04:00"><text>Considered as unfinished business.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-09-19T17:30:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-09-19T17:30:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-09-20"><text>Received in the Senate and read twice and referred to the Committee on Foreign Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Africa" activity="Referral, Markup, Reporting" />
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="2475" />
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Africa (Sub-Saharan)"/>
+		<term name="American economic assistance"/>
+		<term name="American military assistance"/>
+		<term name="American technical assistance"/>
+		<term name="Armed forces and national security"/>
+		<term name="Arms control"/>
+		<term name="Civil-military relations"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Dispute settlement"/>
+		<term name="Employee training"/>
+		<term name="International agencies"/>
+		<term name="Labor and employment"/>
+		<term name="Mediation"/>
+		<term name="Military education"/>
+		<term name="Military personnel"/>
+		<term name="Military training"/>
+		<term name="Nongovernmental organizations"/>
+		<term name="Occupational retraining"/>
+		<term name="Peace"/>
+		<term name="Peace negotiations"/>
+		<term name="Subsaharan Africa"/>
+		<term name="War"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/19/1994--Passed House amended. African Conflict Resolution Act - Authorizes the President to provide assistance to: (1) strengthen the conflict resolution capabilities of the Organization of African Unity and subregional organizations established by countries in Subsaharan Africa; (2) provide for demobilizations of armed forces in Subsaharan African countries and for the reintegration of demobilized military personnel into civilian society; and (3) nongovernmental organizations engaged in mediation and reconciliation efforts in Africa. Earmarks funds for such purposes from foreign assistance funds allocated for Subsaharan Africa. Amends the Foreign Assistance Act of 1961 to authorize the President to establish a program to provide education and training in conflict resolution and peacekeeping for civilian and military personnel of countries in Subsaharan Africa. Requires the President to develop an integrated long-term plan to support the enhancement of conflict resolution capabilities and demobilization activities in Subsaharan Africa.
+
+	</summary>
+</bill>

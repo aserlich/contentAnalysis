@@ -1,0 +1,89 @@
+<bill session="103" type="h" number="2343" updated="2010-04-19T05:17:13-04:00">
+	<state datetime="1993-07-01">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-07-01" /></status>
+
+	<introduced datetime="1993-06-08"/>
+	<titles>
+		<title type="short" as="introduced">Forest Resources Conservation and Shortage Relief Amendments Act of 1993</title>
+		<title type="short" as="passed house">Forest Resources Conservation and Shortage Relief Amendments Act of 1993</title>
+		<title type="short" as="enacted">Forest Resources Conservation and Shortage Relief Amendments Act of 1993</title>
+		<title type="official" as="introduced">To amend the Forest Resources Conservation and Shortage Relief Act of 1990 to permit States to adopt timber export programs, and for other purposes.</title>
+	</titles>
+	<sponsor id="411040"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-06-08"/>
+		<cosponsor id="411677" joined="1993-06-08"/>
+		<cosponsor id="300018" joined="1993-06-08"/>
+		<cosponsor id="400262" joined="1993-06-08"/>
+		<cosponsor id="400117" joined="1993-06-08"/>
+		<cosponsor id="410567" joined="1993-06-08"/>
+		<cosponsor id="404375" joined="1993-06-08"/>
+		<cosponsor id="406482" joined="1993-06-08"/>
+		<cosponsor id="404978" joined="1993-06-08"/>
+		<cosponsor id="410084" joined="1993-06-08"/>
+		<cosponsor id="406605" joined="1993-06-08"/>
+		<cosponsor id="400193" joined="1993-06-08"/>
+		<cosponsor id="400109" joined="1993-06-08"/>
+		<cosponsor id="400100" joined="1993-06-08"/>
+		<cosponsor id="300100" joined="1993-06-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-08"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-06-08"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Economic Policy, Trade and Environment.</text></action>
+		<action datetime="1993-06-08"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-06-08"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-06-09"><committee name="House Committee on Foreign Affairs" subcommittee="Economic Policy, Trade and Environment"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-06-09"><committee name="House Committee on Foreign Affairs" subcommittee="Economic Policy, Trade and Environment"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-06-09"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-06-10"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-06-10"  state="REPORTED"><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-06-10"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Foreign Agriculture and Hunger.</text></action>
+		<action datetime="1993-06-10"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+		<action datetime="1993-06-14T12:20:00-04:00"><text>Ms. Cantwell moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-06-14T12:21:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3463-3468"/></action>
+		<action datetime="1993-06-14T12:21:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-06-14T12:48:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-06-14T12:48:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-06-14"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-06-17" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S7535-7536"/></vote>
+		<topresident datetime="1993-06-17" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-06-18"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-06-19" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-07-01" ><text>Signed by President.</text></signed>
+		<enacted number="103-45" type="public" datetime="1993-07-01"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-45.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Economic Policy, Trade, and Environment" activity="Referral, Markup, Reporting" />
+		<committee code="HSAG" name="House Agriculture" activity="Referral" />
+		<committee code="" name="House Agriculture" subcommittee="Foreign Agriculture and Hunger" activity="Referral" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1084" />
+	</relatedbills>
+	<subjects>
+		<term name="Forests and forestry"/>
+		<term name="Administrative procedure"/>
+		<term name="Department of Commerce"/>
+		<term name="Environmental protection"/>
+		<term name="Export controls"/>
+		<term name="Federal-state relations"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Foreign trade"/>
+		<term name="Forest conservation"/>
+		<term name="Lumber trade"/>
+		<term name="Public lands"/>
+		<term name="State laws"/>
+		<term name="Timber sales"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/14/1993--Passed House amended. Forest Resources Conservation and Shortage Relief Amendments Act of 1993 - Amends the Forest Resources Conservation and Shortage Relief Act of 1990 to direct the Secretary of Commerce to: (1) prohibit through 1995 the export of unprocessed timber from State and other public lands, or the purchase of such timber as a substitute for exported private land timber; and (2) administer such prohibitions. Authorizes a State, upon approval of the Secretary, to implement a program in lieu of the Federal one. Establishes civil penalties for violations of this Act.
+
+	</summary>
+</bill>

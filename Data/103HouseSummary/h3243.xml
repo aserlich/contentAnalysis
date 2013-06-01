@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="3243" updated="2010-04-19T07:36:31-04:00">
+	<state datetime="1993-10-07">REFERRED</state>
+	<status><introduced datetime="1993-10-07"/></status>
+
+	<introduced datetime="1993-10-07"/>
+	<titles>
+		<title type="official" as="introduced">To suspend temporarily the duties on sumatriptan succinate (bulk and dosage forms).</title>
+	</titles>
+	<sponsor id="400326"/>
+	<cosponsors>
+		<cosponsor id="411065" joined="1993-10-07"/>
+		<cosponsor id="406554" joined="1993-10-07"/>
+		<cosponsor id="405507" joined="1993-10-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-07"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-10-13"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-12-13"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1994-03-16"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1294" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Chemicals"/>
+		<term name="Drugs"/>
+		<term name="Tariff"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1995, the duty on (3-(2-(dimethylamino)ethyl)-N-methyl-1H-indole-5-methanesulphonamide, (1:1) succinate (sumatriptan succinate in bulk and dosage forms).
+
+	</summary>
+</bill>

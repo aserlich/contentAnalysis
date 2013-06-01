@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="3242" updated="2010-04-19T07:36:22-04:00">
+	<state datetime="1993-10-07">REFERRED</state>
+	<status><introduced datetime="1993-10-07"/></status>
+
+	<introduced datetime="1993-10-07"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit for a 5-year period the award of contracts for the procurement of milk products for schools and military bases to companies convicted of violating any of the antitrust laws in connection with a contract with the Department of Defense or with any school or other institution eligible for payments under the Child Nutrition Act of 1966 or the National School Lunch Act.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+		<cosponsor id="404190" joined="1993-10-07"/>
+		<cosponsor id="400438" joined="1993-10-07"/>
+		<cosponsor id="400243" joined="1993-10-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-07"><text>Sponsor introductory remarks on measure. (CR E2384)</text></action>
+		<action datetime="1993-10-07"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-10-07"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-10-19"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+		<action datetime="1993-10-19"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1993-10-22"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-06" name="House Armed Services" subcommittee="Oversight and Investigations" activity="Referral" />
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Antitrust law"/>
+		<term name="Child nutrition"/>
+		<term name="Debarment of government contractors"/>
+		<term name="Defense procurement"/>
+		<term name="Government contractors"/>
+		<term name="Government procurement"/>
+		<term name="Milk"/>
+		<term name="School lunch program"/>
+		<term name="Schools"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1993--Introduced.
+Amends the Child Nutrition Act of 1966 and the National School Lunch Act to prohibit for a five-year period the award of contracts for the procurement of milk for schools to companies convicted of violating any of the antitrust laws in connection with a contract with any school, food service authority, or other institution eligible for program payments under such Acts. Prohibits for a five-year period the award of contracts for the procurement of milk for military bases to companies convicted of violating any of the antitrust laws in connection with a contract with the Department of Defense.
+
+	</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="4987" updated="2010-04-19T12:09:03-04:00">
+	<state datetime="1994-08-18">REFERRED</state>
+	<status><introduced datetime="1994-08-18"/></status>
+
+	<introduced datetime="1994-08-18"/>
+	<titles>
+		<title type="short" as="introduced">Orange County Regional Water Reclamation Project Act of 1994</title>
+		<title type="official" as="introduced">To authorize the Secretary of the Interior to participate in the construction of the Orange County Regional Water Reclamation Project.</title>
+	</titles>
+	<sponsor id="406343"/>
+	<cosponsors>
+		<cosponsor id="400348" joined="1994-08-18"/>
+		<cosponsor id="403545" joined="1994-08-18"/>
+		<cosponsor id="400083" joined="1994-08-18"/>
+		<cosponsor id="400601" joined="1994-08-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-18"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-11-21"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Oversight and Investigations" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="2395" />
+	</relatedbills>
+	<subjects>
+		<term name="Water"/>
+		<term name="Budgets"/>
+		<term name="California"/>
+		<term name="Environmental protection"/>
+		<term name="Federal aid to water pollution control"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Infrastructure"/>
+		<term name="Sewage treatment plants"/>
+		<term name="Solid wastes"/>
+		<term name="Waste water treatment"/>
+		<term name="Water conservation"/>
+		<term name="Water pollution"/>
+		<term name="Water pollution control"/>
+		<term name="Water resources"/>
+		<term name="Water treatment plants"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/18/1994--Introduced.
+Orange County Regional Water Reclamation Project Act of 1994 - Amends the Reclamation Projects Authorization and Adjustment Act of 1992 to authorize the Secretary of the Interior to participate with the Orange County Water District in California and other appropriate authorities in the planning, design, and construction of water reclamation projects to treat up to 100,000 acre feet per year of wastewater effluent from Orange County. Prohibits: (1) the Secretary's share of costs associated with the project from exceeding 25 percent of the total; and (2) the Secretary from providing funds for operation or maintenance of the project. Authorizes appropriations.
+
+	</summary>
+</bill>

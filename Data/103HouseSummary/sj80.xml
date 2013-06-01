@@ -1,0 +1,48 @@
+<bill session="103" type="sj" number="80" updated="2010-04-19T21:35:59-04:00">
+	<state datetime="1993-04-19">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-04-19" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-04-19"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution to designate the week of April 17-24, 1994, as &quot;Nancy Moore Thurmond National Organ and Tissue Donor Awareness Week&quot;.</title>
+	</titles>
+	<sponsor id="403515"/>
+	<cosponsors>
+		<cosponsor id="300053" joined="1993-04-19"/>
+		<cosponsor id="300008" joined="1993-04-19"/>
+		<cosponsor id="300052" joined="1993-04-19"/>
+		<cosponsor id="408252" joined="1993-04-19"/>
+		<cosponsor id="407786" joined="1993-04-19"/>
+		<cosponsor id="408898" joined="1993-04-19"/>
+		<cosponsor id="300001" joined="1993-04-19"/>
+		<cosponsor id="300099" joined="1993-04-19"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-04-19" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Voice Vote.</text><reference label="consideration" ref="CR S4592"/></vote>
+		<action datetime="1993-04-20T12:25:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-04-20"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-04-20"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="182" />
+		<bill relation="unknown" session="103" type="hj" number="182" />
+		<bill relation="unknown" session="103" type="sj" number="66" />
+	</relatedbills>
+	<subjects>
+		<term name="Special weeks"/>
+		<term name="Commemorations"/>
+		<term name="Donation of organs, tissues, etc."/>
+		<term name="Medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/19/1993--Introduced.
+Designates April 17 through 24, 1994, as Nancy Moore Thurmond National Organ and Tissue Donor Awareness Week.
+
+	</summary>
+</bill>

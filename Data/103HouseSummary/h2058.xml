@@ -1,0 +1,38 @@
+<bill session="103" type="h" number="2058" updated="2010-04-19T04:33:04-04:00">
+	<state datetime="1993-05-11">REFERRED</state>
+	<status><introduced datetime="1993-05-11"/></status>
+
+	<introduced datetime="1993-05-11"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 11 of the United States Code with respect to the distribution of securities under a plan under chapter 11 of such title.</title>
+	</titles>
+	<sponsor id="400025"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-11"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-13"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Bankruptcy"/>
+		<term name="Debtor and creditor"/>
+		<term name="Securities"/>
+		<term name="Valuation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/11/1993--Introduced.
+Amends Federal bankruptcy law to provide that if a bankruptcy reorganization plan requires the distribution of a security with respect to an allowed claim, then its fair market value shall be conclusively presumed to be equal to the amount of that claim.
+
+	</summary>
+</bill>

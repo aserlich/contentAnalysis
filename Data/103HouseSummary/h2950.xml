@@ -1,0 +1,62 @@
+<bill session="103" type="h" number="2950" updated="2010-04-19T06:51:14-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="short" as="introduced">USDA National Appeals Division Act of 1993</title>
+		<title type="official" as="introduced">To establish a National Appeals Division of the Department of Agriculture to hear appeals of adverse decisions made by certain agencies of the Department, and for other purposes.</title>
+	</titles>
+	<sponsor id="300058"/>
+	<cosponsors>
+		<cosponsor id="400122" joined="1993-11-10"/>
+		<cosponsor id="411166" joined="1993-10-06"/>
+		<cosponsor id="404723" joined="1993-10-06"/>
+		<cosponsor id="401033" joined="1993-10-20"/>
+		<cosponsor id="400323" joined="1993-10-14"/>
+		<cosponsor id="409578" joined="1993-08-06"/>
+		<cosponsor id="400106" joined="1993-09-28"/>
+		<cosponsor id="400316" joined="1993-08-06"/>
+		<cosponsor id="408618" joined="1993-08-06"/>
+		<cosponsor id="406920" joined="1993-11-09"/>
+		<cosponsor id="400536" joined="1993-10-14"/>
+		<cosponsor id="404602" joined="1993-08-06"/>
+		<cosponsor id="400310" joined="1993-09-28"/>
+		<cosponsor id="400599" joined="1993-08-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-08-24"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Environment, Credit and Rural Development.</text></action>
+		<action datetime="1993-08-24"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Department Operations and Nutrition.</text></action>
+		<action datetime="1993-08-24"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Environment, Credit and Rural Development" activity="Referral" />
+		<committee code="" name="House Agriculture" subcommittee="Department Operations and Nutrition" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1425" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Administrative remedies"/>
+		<term name="Agricultural credit"/>
+		<term name="Agricultural economics"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Department of Agriculture"/>
+		<term name="Executive reorganization"/>
+		<term name="Government publicity"/>
+		<term name="Grants-in-aid"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Mediation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+USDA National Appeals Division Act of 1993 - Directs the Secretary of Agriculture (Secretary) to establish and maintain a National Appeals Division within the Office of the Secretary to hear appeals of adverse decisions made by certain agencies within the Department of Agriculture. Requires the Secretary to develop a subject-matter index of all significant final determinations and make such index available to the public. Sets forth administrative appeal and transfer provisions. Authorizes appropriations.
+
+	</summary>
+</bill>

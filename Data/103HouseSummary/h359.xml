@@ -1,0 +1,79 @@
+<bill session="103" type="h" number="359" updated="2010-04-18T23:55:50-04:00">
+	<state datetime="1994-09-28">REPORTED</state>
+	<status><calendar datetime="1994-09-28" /></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To improve the administration of the Women's Rights National Historical Park in the State of New York, and for other purposes.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1994-03-24"/>
+		<cosponsor id="400128" joined="1993-03-08"/>
+		<cosponsor id="400553" joined="1994-03-24"/>
+		<cosponsor id="406873" joined="1993-03-01"/>
+		<cosponsor id="400126" joined="1993-03-18"/>
+		<cosponsor id="411040" joined="1994-03-24"/>
+		<cosponsor id="400344" joined="1994-03-24"/>
+		<cosponsor id="400124" joined="1994-03-24"/>
+		<cosponsor id="400306" joined="1993-03-29"/>
+		<cosponsor id="409205" joined="1993-03-01"/>
+		<cosponsor id="400262" joined="1993-03-01"/>
+		<cosponsor id="400143" joined="1993-03-08"/>
+		<cosponsor id="400416" joined="1994-03-24"/>
+		<cosponsor id="408553" joined="1994-01-26"/>
+		<cosponsor id="400436" joined="1994-03-24"/>
+		<cosponsor id="400178" joined="1993-03-29"/>
+		<cosponsor id="400366" joined="1994-05-02"/>
+		<cosponsor id="400299" joined="1993-03-01"/>
+		<cosponsor id="402152" joined="1993-03-01"/>
+		<cosponsor id="400554" joined="1993-03-08"/>
+		<cosponsor id="400240" joined="1994-05-26"/>
+		<cosponsor id="400513" joined="1993-03-01"/>
+		<cosponsor id="300058" joined="1994-03-24"/>
+		<cosponsor id="400537" joined="1993-03-08"/>
+		<cosponsor id="400278" joined="1993-03-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-02-04"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-05-03"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1994-06-21"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-07-15"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-07-15"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T20:41:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-814.</text></action>
+		<calendar number="459" datetime="1994-10-03T20:41:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 459.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4746" />
+		<bill relation="unknown" session="103" type="s" number="2001" />
+	</relatedbills>
+	<subjects>
+		<term name="Historic sites"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Civil rights"/>
+		<term name="Commemorations"/>
+		<term name="Executive departments"/>
+		<term name="Federal advisory bodies"/>
+		<term name="History"/>
+		<term name="National parks"/>
+		<term name="New York State"/>
+		<term name="Public lands"/>
+		<term name="Rights of women"/>
+		<term name="Women"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Reported to House amended. Authorizes appropriations for fiscal years after September 30, 1994, for the Women's Rights National Historical Park in Seneca Falls and Waterloo, New York. Removes the Bloomer House property from the list of designated sites composing the Park.
+
+	</summary>
+</bill>

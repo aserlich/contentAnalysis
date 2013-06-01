@@ -1,0 +1,37 @@
+<bill session="103" type="h" number="1447" updated="2010-04-19T02:57:04-04:00">
+	<state datetime="1993-03-24">REFERRED</state>
+	<status><introduced datetime="1993-03-24"/></status>
+
+	<introduced datetime="1993-03-24"/>
+	<titles>
+		<title type="short" as="introduced">Social Security Notch Act of 1993</title>
+		<title type="official" as="introduced">To amend title II of the Social Security Act to provide for an improved benefit computation formula for workers who attain age 65 in or after 1982 and to whom applies the 15-year period of transition to the changes in benefit computation rules enacted in the Social Security Amendments of 1977 (and related beneficiaries) and to provide prospectively for increases in their benefits accordingly.</title>
+	</titles>
+	<sponsor id="400548"/>
+	<cosponsors>
+		<cosponsor id="405258" joined="1993-05-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-24"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Old age, survivors and disability insurance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/24/1993--Introduced.
+Social Security Notch Act of 1993 - Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to alter the formula for computing the primary insurance amount of individuals who attain age 65 in or after 1982 and are subject to the benefit computation rules of the Social Security Amendments of 1977.
+
+	</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="103" type="hr" number="579" updated="2010-04-19T14:29:09-04:00">
+	<state datetime="1994-10-07T21:33:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-10-07T21:33:00-04:00" where="h" result="pass" how="roll" roll="505"/></status>
+
+	<introduced datetime="1994-10-07"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the adoption of the resolution (H. Res. 578) amending the Rules of the House of Representatives to apply certain laws to the House of Representatives, and for other purposes.</title>
+	</titles>
+	<sponsor id="400600"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-07T20:11:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-851, by Mr. Moakley.</text></action>
+		<action datetime="1994-10-07T20:12:00-04:00"><text>Rule provides for consideration of H. Res. 578. Upon the adoption of this resolution, H. Res. 578 shall be considered to be also adopted.</text></action>
+		<calendar datetime="1994-10-07T20:13:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 249.</text></calendar>
+		<action datetime="1994-10-07T20:14:00-04:00"><text>Mr. Moakley moved to consider the resolution.</text></action>
+		<action datetime="1994-10-07T20:14:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H11384-11396"/></action>
+		<action datetime="1994-10-07T20:15:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1994-10-07T21:12:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="roll" type="vote" roll="505" datetime="1994-10-07T21:33:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 348 - 3 (Roll no. 505).</text></vote>
+		<action datetime="1994-10-07T21:33:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hr" number="578" />
+		<bill relation="unknown" session="103" type="hr" number="578" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congress"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1994--Introduced.
+Provides for the adoption of H. Res. 578 (application of certain laws to the House of Representatives).
+
+	</summary>
+</bill>

@@ -1,0 +1,91 @@
+<bill session="103" type="h" number="1313" updated="2012-07-17T04:17:54-04:00">
+	<state datetime="1993-06-10">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-06-10" /></status>
+
+	<introduced datetime="1993-03-11"/>
+	<titles>
+		<title type="short" as="introduced">National Cooperative Production Amendments of 1993</title>
+		<title type="short" as="passed house">National Cooperative Production Amendments of 1993</title>
+		<title type="short" as="enacted">National Cooperative Production Amendments of 1993</title>
+		<title type="official" as="introduced">To amend the National Cooperative Research Act of 1984 with respect to joint ventures entered into for the purpose of producing a product, process, or service.</title>
+	</titles>
+	<sponsor id="401837"/>
+	<cosponsors>
+		<cosponsor id="404602" joined="1993-04-21"/>
+		<cosponsor id="403776" joined="1993-03-11"/>
+		<cosponsor id="407124" joined="1993-04-21"/>
+		<cosponsor id="407899" joined="1993-03-17"/>
+		<cosponsor id="404097" joined="1993-03-11"/>
+		<cosponsor id="400043" joined="1993-03-11"/>
+		<cosponsor id="400140" joined="1993-04-21"/>
+		<cosponsor id="400025" joined="1993-04-21"/>
+		<cosponsor id="400365" joined="1993-04-21"/>
+		<cosponsor id="400364" joined="1993-04-21"/>
+		<cosponsor id="400289" joined="1993-04-21"/>
+		<cosponsor id="300081" joined="1993-04-21"/>
+		<cosponsor id="407306" joined="1993-04-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-11" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E618)</text></action>
+		<action datetime="1993-03-11" state="REFERRED"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-03-17"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Judiciary" subcommittee="Economic and Commercial Law"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-03-24"><committee name="House Committee on Judiciary" subcommittee="Economic and Commercial Law"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-03-24"><committee name="House Committee on Judiciary" subcommittee="Economic and Commercial Law"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-03-24"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-03-24"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1993-05-18T12:00:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-94.</text></action>
+		<calendar number="49" datetime="1993-05-18T12:01:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 49.</text></calendar>
+		<action datetime="1993-05-18T13:13:00-04:00"><text>Mr. Brooks moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-05-18T13:13:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2508-2512"/></action>
+		<action datetime="1993-05-18T13:13:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-05-18T13:34:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-05-18T13:34:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-05-19"><text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-05-25"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text></action>
+		<calendar under="General Orders" number="74" datetime="1993-05-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 74.</text></calendar>
+		<action datetime="1993-05-28"><text>Message on Senate action sent to the House.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-05-28" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S6887"/></vote>
+		<topresident datetime="1993-05-28" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-06-01" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-06-10" ><text>Signed by President.</text></signed>
+		<enacted number="103-42" type="public" datetime="1993-06-10"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-42.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="23" />
+		<bill relation="unknown" session="103" type="s" number="574" />
+	</relatedbills>
+	<subjects>
+		<term name="Antitrust law"/>
+		<term name="Antitrust actions"/>
+		<term name="Business intelligence"/>
+		<term name="Competition"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Foreign investments"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Government paperwork"/>
+		<term name="High technology industries"/>
+		<term name="Industrial production"/>
+		<term name="Intellectual property"/>
+		<term name="International competitiveness"/>
+		<term name="Joint ventures"/>
+		<term name="Manufacturing industries"/>
+		<term name="Marketing"/>
+		<term name="Patents"/>
+		<term name="Research and development"/>
+		<term name="Restrictive trade practices"/>
+		<term name="Technological innovations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/18/1993--Passed House amended. National Cooperative Production Amendments of 1993 - Amends the National Cooperative Research Act of 1984 to apply such Act to joint ventures for the production of a product, process, or service and the testing in connection with such production. Revises the Act to exclude from the definition of &quot;joint venture&quot; activities where two or more persons enter into an agreement or engage in any other conduct restricting, requiring, or otherwise involving the marketing, distribution, or provision by any person who is a party to such venture of any product, process, or service other than: (1) the distribution among the parties to such venture of a product, process, or service produced by the venture; (2) the marketing of proprietary information developed through the venture formed under a written agreement entered into before the date of this Act's enactment; or (3) the licensing, conveying, or transferring of intellectual property developed through such venture formed under a written agreement entered into on or after such date. Excludes from such definition the following activities: (1) entering into any agreement or engaging in any other conduct allocating a market with a competitor; (2) exchanging among competitors information relating to production (other than production by such venture) of a product, process, or service if such information is not reasonably required to carry out the purpose of such venture; (3) entering into any agreement or engaging in any other conduct restricting, requiring, or otherwise involving the production of a product, process, or service (other than the production by such venture); (4) using existing facilities for the production of a product, process, or service by such venture unless such use involves the production of a new product or technology; and (5) entering into any agreement or engaging in any other conduct to restrict or require participation by any party to such venture in any unilateral or joint activity that is not reasonably required to carry out the purpose of such venture, with exceptions. Modifies the &quot;rule of reason&quot; standard to provide that, in any action under Federal antitrust law or similar State law, the conduct of any person in making or performing a contract to carry out a joint venture shall not be deemed illegal per se, but shall be judged based on its reasonableness, taking into account all relevant factors affecting competition, including effects on competition in properly defined, relevant research, development, product, process, and service markets. Specifies that: (1) for the purpose of determining a properly defined, relevant market, worldwide capacity shall be considered if appropriate in the circumstances; and (2) if a purpose of a joint venture is the production of a product, process, or service, a party to such venture may file a written notification of the identity and nationality of any party to such venture or of the controlling entity. Makes protections of the Act inapplicable with respect to a joint venture's production of a product, process, or service, unless: (1) the principal facilities for such production are located in the United States or its territories; and (2) each person who controls any party to such venture (including such party itself) is a U.S. person or a foreign person from a country whose law accords antitrust treatment no less favorable to U.S. persons than to such country's domestic persons with respect to participation in joint ventures for production. Sets forth reporting requirements regarding joint ventures and U.S. competitiveness.
+
+	</summary>
+</bill>

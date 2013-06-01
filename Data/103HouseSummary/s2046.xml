@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="2046" updated="2012-07-17T05:06:22-04:00">
+	<state datetime="1994-04-26">REFERRED</state>
+	<status><introduced datetime="1994-04-26"/></status>
+
+	<introduced datetime="1994-04-26"/>
+	<titles>
+		<title type="short" as="introduced">Movement Disorders Research Amendments of 1993</title>
+		<title type="official" as="introduced">A bill to amend the Public Health Service Act to provide for the establishment by the National Institutes of Health research centers regarding movement disorders, and for other purposes.</title>
+	</titles>
+	<sponsor id="300023"/>
+	<cosponsors>
+		<cosponsor id="300157" joined="1994-06-29"/>
+		<cosponsor id="300094" joined="1994-05-06"/>
+		<cosponsor id="300154" joined="1994-09-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-26" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4836)</text></action>
+		<action datetime="1994-04-26" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3596" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Economics and public finance"/>
+		<term name="Federal aid to medical research"/>
+		<term name="Hereditary diseases"/>
+		<term name="Nervous system diseases"/>
+		<term name="Research centers"/>
+		<term name="Science, technology, communications"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/26/1994--Introduced.
+Movement Disorders Research Amendments of 1993 - Amends the Public Health Service Act to authorize the Director of the National Institutes of Health (NIH), acting through the Directors of the appropriate national research institutes, to make grants to, or enter into contracts with, public or nonprofit private entities for the development and operation of centers to conduct basic and clinical research on movement disorders. Requires this Act to be carried out with funds otherwise appropriated for NIH activities.
+
+	</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="2793" updated="2012-07-17T04:32:51-04:00">
+	<state datetime="1994-08-02T12:04:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-08-02T12:04:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1993-07-28"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Kris Murty.</title>
+	</titles>
+	<sponsor id="402750"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-28" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E1908)</text></action>
+		<action datetime="1993-07-28" state="REFERRED"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-08-02"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+		<action datetime="1994-07-14T19:20:00-04:00"><text>Reported by the Committee on Judiciary. H. Rept. 103-605.</text></action>
+		<calendar datetime="1994-07-14T19:20:00-04:00"  state="REPORTED"><text>Placed on the Private Calendar, Calendar No. 13.</text></calendar>
+		<action datetime="1994-08-02T12:03:00-04:00"><text>Called up from the Private Calendar for consideration.</text></action>
+		<action datetime="1994-08-02T12:04:00-04:00"><text>Considered from the Private Calendar.</text></action>
+		<vote how="without objection" type="vote" datetime="1994-08-02T12:04:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-08-02T12:04:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-08-03"><text>Received in the Senate and read twice and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Reporting" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+		<committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Federal employees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/28/1993--Introduced.
+Deems the relocation of a named employee by the Department of the Army a transfer from one official station to another for purposes of permitting reimbursement of relocation expenses to such individual.
+
+	</summary>
+</bill>

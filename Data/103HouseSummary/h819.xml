@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="819" updated="2010-04-19T01:12:24-04:00">
+	<state datetime="1993-02-04">REFERRED</state>
+	<status><introduced datetime="1993-02-04"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">To revise the boundaries of the George Washington Birthplace National Monument, and for other purposes.</title>
+	</titles>
+	<sponsor id="400569"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-03-02"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-03-16"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-03-25"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>For Further Action See S.326.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="326" />
+		<bill relation="unknown" session="103" type="s" number="326" />
+	</relatedbills>
+	<subjects>
+		<term name="Monuments and memorials"/>
+		<term name="National monuments"/>
+		<term name="Presidents"/>
+		<term name="Virginia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Revises the boundaries of the George Washington Birthplace National Monument. Permits the Secretary of the Interior to acquire lands within the boundaries. Directs the Secretary, in administering such Monument, to take actions to preserve and interpret the history and resources associated with George Washington, the generations of the Washington family who lived in the area, and 18th century plantation life and society.
+
+	</summary>
+</bill>

@@ -1,0 +1,86 @@
+<bill session="103" type="h" number="769" updated="2010-04-19T01:03:59-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to limit the penalty for late enrollment under the medicare program to 10 percent and twice the period of no enrollment.</title>
+	</titles>
+	<sponsor id="400140"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-03-01"/>
+		<cosponsor id="400253" joined="1993-02-17"/>
+		<cosponsor id="400133" joined="1994-01-25"/>
+		<cosponsor id="400420" joined="1993-03-01"/>
+		<cosponsor id="402763" joined="1993-02-17"/>
+		<cosponsor id="411677" joined="1993-04-01"/>
+		<cosponsor id="400160" joined="1993-03-01"/>
+		<cosponsor id="400126" joined="1993-04-19"/>
+		<cosponsor id="400149" joined="1994-04-14"/>
+		<cosponsor id="400542" joined="1993-09-08"/>
+		<cosponsor id="401494" joined="1993-03-01"/>
+		<cosponsor id="400380" joined="1993-05-25"/>
+		<cosponsor id="407351" joined="1993-02-17"/>
+		<cosponsor id="400885" joined="1993-11-22"/>
+		<cosponsor id="401547" joined="1993-02-17"/>
+		<cosponsor id="400165" joined="1994-05-11"/>
+		<cosponsor id="300087" joined="1993-02-17"/>
+		<cosponsor id="400534" joined="1993-10-26"/>
+		<cosponsor id="400003" joined="1993-05-25"/>
+		<cosponsor id="400306" joined="1993-04-19"/>
+		<cosponsor id="400524" joined="1993-02-17"/>
+		<cosponsor id="411725" joined="1993-02-17"/>
+		<cosponsor id="400417" joined="1993-05-25"/>
+		<cosponsor id="404097" joined="1993-04-01"/>
+		<cosponsor id="400533" joined="1993-09-22"/>
+		<cosponsor id="400103" joined="1993-07-15"/>
+		<cosponsor id="403190" joined="1994-05-11"/>
+		<cosponsor id="407141" joined="1994-01-25"/>
+		<cosponsor id="400251" joined="1993-02-17"/>
+		<cosponsor id="400269" joined="1993-03-01"/>
+		<cosponsor id="400299" joined="1994-03-16"/>
+		<cosponsor id="405524" joined="1993-02-17"/>
+		<cosponsor id="400390" joined="1993-04-19"/>
+		<cosponsor id="402152" joined="1993-03-01"/>
+		<cosponsor id="409633" joined="1993-04-01"/>
+		<cosponsor id="400391" joined="1993-02-17"/>
+		<cosponsor id="400357" joined="1993-03-01"/>
+		<cosponsor id="409400" joined="1994-03-08"/>
+		<cosponsor id="400438" joined="1993-03-01"/>
+		<cosponsor id="400301" joined="1994-02-24"/>
+		<cosponsor id="400516" joined="1993-09-08"/>
+		<cosponsor id="400314" joined="1993-03-01"/>
+		<cosponsor id="400100" joined="1993-03-01"/>
+		<cosponsor id="400537" joined="1993-02-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-09"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Insurance premiums"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to limit the late enrollment penalty to a ten percent increase in the monthly part B premium due over a period equal to twice the number of years that the part B beneficiary could have been but was not enrolled under part B.
+
+	</summary>
+</bill>

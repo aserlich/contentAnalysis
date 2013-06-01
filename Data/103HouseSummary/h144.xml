@@ -1,0 +1,76 @@
+<bill session="103" type="h" number="144" updated="2010-04-18T23:22:27-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Health Care Cost Containment Act</title>
+		<title type="official" as="introduced">To reform the health care system by restoring the full tax deductibility of medical expenses; eliminating incentives for abusive litigation against hospitals, doctors, nurses, and health care providers; abolishing noneconomic damages in medical care liability actions; and redirecting punitive damages to community hospitals that care for the indigent.</title>
+	</titles>
+	<sponsor id="400083"/>
+	<cosponsors>
+		<cosponsor id="400113" joined="1993-02-03"/>
+		<cosponsor id="400036" joined="1993-10-27"/>
+		<cosponsor id="400348" joined="1993-08-05"/>
+		<cosponsor id="400091" joined="1993-02-03"/>
+		<cosponsor id="401547" joined="1993-02-03"/>
+		<cosponsor id="400104" joined="1993-04-20"/>
+		<cosponsor id="400176" joined="1993-02-03"/>
+		<cosponsor id="403545" joined="1993-02-03"/>
+		<cosponsor id="400010" joined="1993-10-14"/>
+		<cosponsor id="400144" joined="1993-02-03"/>
+		<cosponsor id="400551" joined="1993-02-03"/>
+		<cosponsor id="400343" joined="1993-02-03"/>
+		<cosponsor id="412001" joined="1993-04-20"/>
+		<cosponsor id="400340" joined="1993-10-13"/>
+		<cosponsor id="400601" joined="1993-09-15"/>
+		<cosponsor id="400012" joined="1993-02-03"/>
+		<cosponsor id="405033" joined="1993-02-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1993-02-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1994-08-02"><committee name="House Committee on Judiciary"/><text>See H.R.3600.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Commerce, Consumer Protection, and Competitiveness" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3600" />
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Community hospitals"/>
+		<term name="Damages"/>
+		<term name="Dental care"/>
+		<term name="Federal preemption"/>
+		<term name="Income tax"/>
+		<term name="Legal fees"/>
+		<term name="Local finance"/>
+		<term name="Malpractice"/>
+		<term name="Medicaid"/>
+		<term name="Medicare"/>
+		<term name="Poor"/>
+		<term name="Public assistance programs"/>
+		<term name="Punitive damages"/>
+		<term name="State laws"/>
+		<term name="Tax deductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Health Care Cost Containment Act - Amends the Internal Revenue Code to allow individuals to deduct the full amount of unreimbursed medical and dental expenses. (Current law allows a deduction for such expenses that exceed a certain percentage of adjusted gross income.) Requires the losing party in a medical care liability suit to pay limited amounts of the winning party's litigation expenses. Prohibits noneconomic damages (other than punitive damages) in such suits. Requires punitive damages to be paid to the unit of local government having primary responsibility for paying for indigent health services. Requires those amounts to be used for care for individuals entitled to assistance under titles XVIII (Medicare) and XIX (Medicaid) of the Social Security Act. Applies this Act to any medical care liability suit in any State or Federal court, except vaccine-related matters. Supersedes inconsistent State laws.
+
+	</summary>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="2128" updated="2010-04-19T04:43:47-04:00">
+	<state datetime="1993-06-08">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-06-08" /></status>
+
+	<introduced datetime="1993-05-17"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Immigration and Nationality Act to authorize appropriations for refugee assistance for fiscal years 1993 and 1994.</title>
+	</titles>
+	<sponsor id="407306"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-17"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-18"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1993-05-19"><committee name="House Committee on Judiciary" subcommittee="International Law, Immigration, and Refugees"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-05-19"><committee name="House Committee on Judiciary" subcommittee="International Law, Immigration, and Refugees"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-05-19"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-05-19"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1993-05-25T16:28:00-04:00"><text>Reported by the Committee on Judiciary. H. Rept. 103-107.</text></action>
+		<calendar number="55" datetime="1993-05-25T16:29:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 55.</text></calendar>
+		<action datetime="1993-05-25T18:13:00-04:00"><text>Mr. Mazzoli moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-05-25T18:14:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2765-2767"/></action>
+		<action datetime="1993-05-25T18:15:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-05-25T18:20:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-05-25T18:20:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-05-26"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-05-27" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S6733"/></vote>
+		<topresident datetime="1993-05-27" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-05-28"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-06-01" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-06-08" ><text>Signed by President.</text></signed>
+		<enacted number="103-37" type="public" datetime="1993-06-08"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-37.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="981" />
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Authorization"/>
+		<term name="Refugee policy"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/17/1993--Introduced.
+Amends the Immigration and Nationality Act to authorize FY 1993 and 1994 appropriations for refugee assistance.
+
+	</summary>
+</bill>

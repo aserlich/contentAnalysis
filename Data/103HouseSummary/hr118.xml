@@ -1,0 +1,80 @@
+<bill session="103" type="hr" number="118" updated="2010-04-19T13:17:02-04:00">
+	<state datetime="1993-03-30T14:08:00-05:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-03-30T14:08:00-05:00" where="h" result="pass" how="roll" roll="119"/></status>
+
+	<introduced datetime="1993-03-08"/>
+	<titles>
+		<title type="official" as="introduced">To condemn the release by the Government of Malta of convicted terrorist Mohammed Ali Rezaq.</title>
+	</titles>
+	<sponsor id="400231"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="1993-03-24"/>
+		<cosponsor id="400023" joined="1993-03-08"/>
+		<cosponsor id="400380" joined="1993-03-18"/>
+		<cosponsor id="400122" joined="1993-03-18"/>
+		<cosponsor id="406768" joined="1993-03-18"/>
+		<cosponsor id="407351" joined="1993-03-18"/>
+		<cosponsor id="400348" joined="1993-03-18"/>
+		<cosponsor id="400344" joined="1993-03-24"/>
+		<cosponsor id="400003" joined="1993-03-18"/>
+		<cosponsor id="400106" joined="1993-03-18"/>
+		<cosponsor id="400144" joined="1993-03-18"/>
+		<cosponsor id="400343" joined="1993-03-18"/>
+		<cosponsor id="406625" joined="1993-03-18"/>
+		<cosponsor id="400050" joined="1993-03-18"/>
+		<cosponsor id="300156" joined="1993-03-18"/>
+		<cosponsor id="406082" joined="1993-03-18"/>
+		<cosponsor id="400586" joined="1993-03-18"/>
+		<cosponsor id="400536" joined="1993-03-18"/>
+		<cosponsor id="400107" joined="1993-03-25"/>
+		<cosponsor id="400595" joined="1993-03-18"/>
+		<cosponsor id="400438" joined="1993-03-18"/>
+		<cosponsor id="407669" joined="1993-03-18"/>
+		<cosponsor id="400252" joined="1993-03-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-08"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-03-08"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Requested from State.</text></action>
+		<action datetime="1993-03-11"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Europe and the Middle East.</text></action>
+		<action datetime="1993-03-11"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Security, International Organizations and Human Rights.</text></action>
+		<action datetime="1993-03-11"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Received from State.</text></action>
+		<action datetime="1993-03-12"><committee name="House Committee on Foreign Affairs" subcommittee="International Security, International Organizations and Human Rights"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-03-12"  state="REPORTED"><committee name="House Committee on Foreign Affairs" subcommittee="International Security, International Organizations and Human Rights"/><text>Ordered to be Reported (Amended) in the Nature of a Substitute.</text></calendar>
+		<action datetime="1993-03-23"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-03-23" ><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-03-23"><committee name="House Committee on Foreign Affairs"/><text>Subcommittee on Europe and the Middle East Discharged.</text></action>
+		<action datetime="1993-03-29T16:24:00-05:00"><text>Mr. Lantos moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action datetime="1993-03-29T16:24:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1658-1660"/></action>
+		<action datetime="1993-03-29T16:25:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-03-29T16:42:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed until March 30.</text></action>
+		<action datetime="1993-03-30T13:58:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1699"/></action>
+		<vote how="roll" type="vote" roll="119" datetime="1993-03-30T14:08:00-05:00" where="h" result="pass" suspension="1"  state="PASSED:SIMPLERES"><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 119).</text></vote>
+		<action datetime="1993-03-30T14:08:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Europe and the Middle East" activity="Referral, Discharged" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Security, International Organizations, and Human Rights" activity="Referral, Markup" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Air piracy"/>
+		<term name="Extradition"/>
+		<term name="Imprisonment"/>
+		<term name="International cooperation"/>
+		<term name="Malta"/>
+		<term name="Murder"/>
+		<term name="Prisoners"/>
+		<term name="Terrorism"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/30/1993--Passed House amended. Condemns the release by the Government of Malta of convicted terrorist Mohammed Ali Rezaq. Urges all governments to: (1) cooperate in transferring Rezaq to the United States or to another concerned country to face criminal charges for involvement in the Egypt Air hijacking of November 1985 and the murder of civilians; and (2) not provide safe haven to terrorists. Urges the President to review the U.S. relationship with Malta.
+
+	</summary>
+</bill>

@@ -1,0 +1,105 @@
+<bill session="103" type="sj" number="36" updated="2012-07-17T06:02:03-04:00">
+	<state datetime="1993-03-20">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-03-20" /></status>
+
+	<introduced datetime="1993-01-28"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution to proclaim March 20, 1993, as &quot;National Agriculture Day&quot;.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="300016" joined="1993-02-24"/>
+		<cosponsor id="300150" joined="1993-02-17"/>
+		<cosponsor id="300052" joined="1993-02-24"/>
+		<cosponsor id="300056" joined="1993-02-04"/>
+		<cosponsor id="409580" joined="1993-02-04"/>
+		<cosponsor id="300043" joined="1993-02-04"/>
+		<cosponsor id="406084" joined="1993-02-04"/>
+		<cosponsor id="408252" joined="1993-02-04"/>
+		<cosponsor id="400559" joined="1993-02-24"/>
+		<cosponsor id="300089" joined="1993-02-04"/>
+		<cosponsor id="409225" joined="1993-02-04"/>
+		<cosponsor id="406256" joined="1993-02-04"/>
+		<cosponsor id="409917" joined="1993-02-04"/>
+		<cosponsor id="300066" joined="1993-02-04"/>
+		<cosponsor id="300012" joined="1993-02-04"/>
+		<cosponsor id="300036" joined="1993-02-04"/>
+		<cosponsor id="408939" joined="1993-01-28"/>
+		<cosponsor id="300053" joined="1993-02-04"/>
+		<cosponsor id="300154" joined="1993-01-28"/>
+		<cosponsor id="406487" joined="1993-02-04"/>
+		<cosponsor id="300048" joined="1993-01-28"/>
+		<cosponsor id="300069" joined="1993-02-17"/>
+		<cosponsor id="300026" joined="1993-01-28"/>
+		<cosponsor id="409923" joined="1993-02-24"/>
+		<cosponsor id="403142" joined="1993-02-04"/>
+		<cosponsor id="402675" joined="1993-02-04"/>
+		<cosponsor id="300037" joined="1993-02-04"/>
+		<cosponsor id="300015" joined="1993-02-04"/>
+		<cosponsor id="300092" joined="1993-02-04"/>
+		<cosponsor id="300072" joined="1993-01-28"/>
+		<cosponsor id="300031" joined="1993-01-28"/>
+		<cosponsor id="300029" joined="1993-01-28"/>
+		<cosponsor id="403515" joined="1993-01-28"/>
+		<cosponsor id="300005" joined="1993-01-28"/>
+		<cosponsor id="300057" joined="1993-02-04"/>
+		<cosponsor id="408898" joined="1993-02-04"/>
+		<cosponsor id="403669" joined="1993-02-04"/>
+		<cosponsor id="403346" joined="1993-02-17"/>
+		<cosponsor id="300159" joined="1993-03-02"/>
+		<cosponsor id="300099" joined="1993-02-04"/>
+		<cosponsor id="411271" joined="1993-02-04"/>
+		<cosponsor id="407254" joined="1993-02-17"/>
+		<cosponsor id="300070" joined="1993-01-28"/>
+		<cosponsor id="300023" joined="1993-01-28"/>
+		<cosponsor id="400565" joined="1993-02-04"/>
+		<cosponsor id="411818" joined="1993-02-04"/>
+		<cosponsor id="300010" joined="1993-02-04"/>
+		<cosponsor id="403962" joined="1993-02-04"/>
+		<cosponsor id="406188" joined="1993-02-17"/>
+		<cosponsor id="300076" joined="1993-02-17"/>
+		<cosponsor id="402727" joined="1993-02-04"/>
+		<cosponsor id="407992" joined="1993-03-02"/>
+		<cosponsor id="300064" joined="1993-02-04"/>
+		<cosponsor id="400558" joined="1993-02-17"/>
+		<cosponsor id="405310" joined="1993-01-28"/>
+		<cosponsor id="300042" joined="1993-01-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-28" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-03-11"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-03-11" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment and an amended preamble by Voice Vote.</text><reference label="consideration" ref="CR S2769-2770"/></vote>
+		<action datetime="1993-03-15T12:01:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-03-15"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-03-15"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-03-16T14:41:00-05:00"><text>Committee on Post Office and Civil Service discharged.</text></action>
+		<action datetime="1993-03-16T14:41:00-05:00"><text>Ms. Byrne asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1993-03-16T14:41:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H1259"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-03-16T14:42:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-03-16T14:42:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-03-16" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-03-18" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-03-20" ><text>Signed by President.</text></signed>
+		<enacted number="103-9" type="public" datetime="1993-03-20"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-9.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="84" />
+	</relatedbills>
+	<subjects>
+		<term name="Special days"/>
+		<term name="Agriculture and food"/>
+		<term name="Commemorations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/1993--Introduced.
+Designates March 20, 1993, as National Agriculture Day.
+
+	</summary>
+</bill>

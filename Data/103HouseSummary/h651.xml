@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="651" updated="2010-04-19T00:44:07-04:00">
+	<state datetime="1993-01-27">REFERRED</state>
+	<status><introduced datetime="1993-01-27"/></status>
+
+	<introduced datetime="1993-01-27"/>
+	<titles>
+		<title type="official" as="introduced">To amend the National and Community Service Act of 1990 to authorize appropriations for the Civilian Community Corps Demonstration Program.</title>
+	</titles>
+	<sponsor id="403873"/>
+	<cosponsors>
+		<cosponsor id="402763" joined="1993-03-31"/>
+		<cosponsor id="400364" joined="1993-03-30"/>
+		<cosponsor id="405775" joined="1993-04-20"/>
+		<cosponsor id="400370" joined="1993-04-20"/>
+		<cosponsor id="400143" joined="1993-04-20"/>
+		<cosponsor id="401310" joined="1993-04-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-27"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-02-11"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Select Education and Civil Rights.</text></action>
+		<action datetime="1993-02-11"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+		<action datetime="1993-02-11"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Postsecondary Education and Training.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-04" name="House Education and Labor" subcommittee="Select Education and Civil Rights" activity="Referral" />
+		<committee code="" name="House Education and Labor" subcommittee="Human Resources" activity="Referral" />
+		<committee code="" name="House Education and Labor" subcommittee="Postsecondary Education and Training" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="233" />
+	</relatedbills>
+	<subjects>
+		<term name="Employment"/>
+		<term name="Authorization"/>
+		<term name="Federal aid to youth services"/>
+		<term name="National service"/>
+		<term name="Public service employment"/>
+		<term name="Summer employment"/>
+		<term name="Youth employment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/1993--Introduced.
+Amends the National and Community Service Act of 1990 to authorize appropriations for fiscal years after FY 1993 for the Civilian Community Corps Demonstration Program.
+
+	</summary>
+</bill>

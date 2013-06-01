@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="3781" updated="2010-04-19T09:00:08-04:00">
+	<state datetime="1994-02-02">REFERRED</state>
+	<status><introduced datetime="1994-02-02"/></status>
+
+	<introduced datetime="1994-02-02"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Intermodal Surface Transportation Efficiency Act of 1991 to eliminate funding for highway demonstration projects.</title>
+	</titles>
+	<sponsor id="400649"/>
+	<cosponsors>
+		<cosponsor id="406431" joined="1994-04-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-02"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-02-14"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1819" />
+	</relatedbills>
+	<subjects>
+		<term name="Roads and highways"/>
+		<term name="Authorization"/>
+		<term name="Bridges"/>
+		<term name="Budgets"/>
+		<term name="Department of Transportation"/>
+		<term name="Executive departments"/>
+		<term name="Federal aid highway program"/>
+		<term name="Government spending reductions"/>
+		<term name="Highway engineering"/>
+		<term name="Highway planning"/>
+		<term name="Intermodal transportation"/>
+		<term name="Rural affairs"/>
+		<term name="Traffic congestion"/>
+		<term name="Traffic engineering"/>
+		<term name="Transportation"/>
+		<term name="Urban affairs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1994--Introduced.
+Amends the Intermodal Surface Transportation Efficiency Act of 1991 to eliminate funding for specified highway demonstration projects, including projects for high cost bridges, congestion relief, high priority segments of the National Highway System, and rural and urban access, innovative, and priority intermodal transportation.
+
+	</summary>
+</bill>

@@ -1,0 +1,119 @@
+<bill session="103" type="h" number="3059" updated="2010-04-19T07:08:02-04:00">
+	<state datetime="1994-11-02">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-11-02" /></status>
+
+	<introduced datetime="1993-09-14"/>
+	<titles>
+		<title type="short" as="introduced">National Maritime Heritage Act of 1993</title>
+		<title type="short" as="enacted">National Maritime Heritage Act of 1994</title>
+		<title type="official" as="introduced">To establish a National Maritime Heritage Program to make grants available for educational programs and the restoration of America's cultural resources for the purpose of preserving America's endangered maritime heritage.</title>
+	</titles>
+	<sponsor id="400885"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="1993-10-13"/>
+		<cosponsor id="400289" joined="1993-11-22"/>
+		<cosponsor id="400160" joined="1994-01-25"/>
+		<cosponsor id="405775" joined="1993-11-22"/>
+		<cosponsor id="400058" joined="1994-10-05"/>
+		<cosponsor id="401547" joined="1994-01-25"/>
+		<cosponsor id="400585" joined="1993-11-04"/>
+		<cosponsor id="400143" joined="1993-11-22"/>
+		<cosponsor id="400231" joined="1994-08-10"/>
+		<cosponsor id="403364" joined="1993-11-04"/>
+		<cosponsor id="400103" joined="1994-10-05"/>
+		<cosponsor id="400140" joined="1993-11-04"/>
+		<cosponsor id="407141" joined="1994-10-05"/>
+		<cosponsor id="400178" joined="1993-11-04"/>
+		<cosponsor id="401310" joined="1993-11-04"/>
+		<cosponsor id="300091" joined="1993-09-14"/>
+		<cosponsor id="400299" joined="1993-09-14"/>
+		<cosponsor id="405524" joined="1993-11-04"/>
+		<cosponsor id="404190" joined="1993-10-13"/>
+		<cosponsor id="400318" joined="1993-10-13"/>
+		<cosponsor id="400357" joined="1993-11-04"/>
+		<cosponsor id="400182" joined="1993-10-13"/>
+		<cosponsor id="407044" joined="1993-10-13"/>
+		<cosponsor id="400537" joined="1994-01-25"/>
+		<cosponsor id="400583" joined="1993-11-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-14"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-09-15"><text>Sponsor introductory remarks on measure. (CR E2165)</text></action>
+		<action datetime="1993-09-16"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee On Merchant Marine.</text></action>
+		<action datetime="1993-09-16"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Interior, DOT.</text></action>
+		<action datetime="1993-09-29"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-06-23"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-06-23"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-06-23"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Received from Navy.</text></action>
+		<action datetime="1994-07-08"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Received from GSA.</text></action>
+		<action datetime="1994-09-21"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-21"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-04T21:07:00-04:00"><text>Mrs. Unsoeld moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-04T21:08:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10787-10793"/></action>
+		<action datetime="1994-10-04T21:08:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-04T21:17:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Walker objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed until Oct. 5. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1994-10-05T18:05:00-04:00"><text>Considered as unfinished business.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-10-05T18:05:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-05T18:05:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-06"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-08" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S15031-15032"/></vote>
+		<topresident datetime="1994-10-08" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-12"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-24" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-11-02" ><text>Signed by President.</text></signed>
+		<enacted number="103-451" type="public" datetime="1994-11-02"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-451.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Merchant Marine" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Historic sites"/>
+		<term name="Auditing"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Business records"/>
+		<term name="Charities"/>
+		<term name="Commemorations"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Defense policy"/>
+		<term name="Economic development"/>
+		<term name="Economic policy"/>
+		<term name="Education"/>
+		<term name="Executive departments"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Grants-in-aid"/>
+		<term name="Higher education"/>
+		<term name="History"/>
+		<term name="Humanities"/>
+		<term name="International affairs"/>
+		<term name="International relief"/>
+		<term name="Kentucky"/>
+		<term name="Marine transportation"/>
+		<term name="Merchant marine"/>
+		<term name="Merchant ships"/>
+		<term name="Military history"/>
+		<term name="Museums"/>
+		<term name="Nonprofit organizations"/>
+		<term name="Revolving funds"/>
+		<term name="Salvage"/>
+		<term name="Service academies"/>
+		<term name="Ships"/>
+		<term name="Texas"/>
+		<term name="Tourist trade"/>
+		<term name="Transportation"/>
+		<term name="Trusts and trustees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/5/1994--Passed House amended. National Maritime Heritage Act of 1994 - Declares that it shall be the policy of the Federal Government, in partnership with State and local governments and private organizations and individuals, to support and encourage Federal, State, and local governmental and private conservation of historic maritime resources. (Sec. 4) Establishes in the Department of the Interior the National Maritime Heritage Grants Program to foster a greater awareness and appreciation of the role of maritime endeavors in history and culture. Provides for a matching grants-in-aid: (1) to the National Trust for Historic Preservation for subgrants to State and local governments and private nonprofit organizations for Maritime Heritage Education Projects; and (2) to State historic preservation offices, via the National Maritime Initiative of the National Park Service, for Maritime Heritage Preservation Projects. Specifies particular uses of such grants and subgrants, as well as grant eligibility criteria. Authorizes grants for specified interim projects in California, Virginia, and Michigan. (Sec. 5) Establishes a National Maritime Heritage Grants Advisory Committee to review grant and subgrant proposals and make funding recommendations to the Secretary of the Interior. (Sec. 6) Allocates specified percentages of funds attributed to the sale and scrapping of obsolete vessels for: (1) maintenance of the National Defense Reserve Fleet; (2) facility and training ship maintenance for State maritime academies or the United States Merchant Marine Academy; and (3) the grants created by this Act. (Sec. 10) Authorizes the Secretary of Transportation to convey the vessel S/S American Victory, or a vessel of comparable size and class, to the Battle of the Atlantic Historical Society, subject to certain conditions, including use as a Merchant Marine memorial. (Sec. 11) Authorizes the Secretary of Transportation to convey a vessel of the National Defense Reserve Fleet that is scheduled to be scrapped to the City of Warsaw, Kentucky, without consideration but subject to certain conditions, for the promotion of economic development and tourism. (Sec. 12) Authorizes the Secretary of Transportation to convey, without consideration but subject to certain conditions, the vessels L.S.T. Tioga County, R. V. Lynch, and L.S.T. Lorraine County to the nonprofit corporation Assistance International, Inc. for use in emergencies, vocational training, and economic development programs. (Sec. 13) Authorizes the Secretary of Transportation to convey the vessel USS Sphinx (ARL-23) to the Rio Grande Military Museum, subject to certain conditions, for use as a nonprofit military museum.
+
+	</summary>
+</bill>

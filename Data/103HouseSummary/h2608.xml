@@ -1,0 +1,62 @@
+<bill session="103" type="h" number="2608" updated="2010-10-13T17:41:37-04:00">
+	<state datetime="1993-10-12">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-10-12" /></status>
+
+	<introduced datetime="1993-07-01"/>
+	<titles>
+		<title type="official" as="introduced">To make permanent the authority of the Secretary of Commerce to conduct the quarterly financial report program.</title>
+		<title type="official" as="amended by senate">An Act to provide for the reauthorization of the collection and publication of quaterly financial statistics by the Secretary of Commerce through fiscal year 1998, and for other purposes.</title>
+	</titles>
+	<sponsor id="400539"/>
+	<cosponsors>
+		<cosponsor id="408092" joined="1993-07-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-01"><text>Sponsor introductory remarks on measure. (CR E1703)</text></action>
+		<action datetime="1993-07-01"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-07-06"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Census, Statistics and Postal Personnel.</text></action>
+		<action datetime="1993-08-04"><committee name="House Committee on Post Office and Civil Service"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-08-04"  state="REPORTED"><committee name="House Committee on Post Office and Civil Service"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-08-04"><committee name="House Committee on Post Office and Civil Service"/><text>Subcommittee on Census, Statistics and Postal Personnel Discharged.</text></action>
+		<action datetime="1993-09-15T14:41:00-04:00"><text>Reported by the Committee on Post Office and Civil Service. H. Rept. 103-241.</text></action>
+		<calendar number="132" datetime="1993-09-15T14:41:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 132.</text></calendar>
+		<action datetime="1993-09-21T14:36:00-04:00"><text>Mr. Sawyer moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-09-21T14:37:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6799"/></action>
+		<action datetime="1993-09-21T14:37:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-09-21T14:42:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-09-21T14:42:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-09-21"><text>Received in the Senate, read twice.</text></action>
+		<action datetime="1993-09-22"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S12263-12265"/></action>
+		<action datetime="1993-09-22"><text>Amendment SP 942 proposed by Senator Mitchell for Senator Lieberman.</text></action>
+		<action datetime="1993-09-22"><text>Amendment SP 942 agreed to in Senate by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-09-22" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text></vote>
+		<action datetime="1993-09-27"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-09-29T20:07:00-04:00"><text>Mr. Sawyer asked unanimous consent that the House agree to the Senate amendments.</text></action>
+		<vote how="without objection" type="pingpong" datetime="1993-09-29T20:10:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House agree to the Senate amendments Agreed to without objection.</text><reference label="consideration" ref="CR H7247"/></vote>
+		<action datetime="1993-09-29T20:10:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-09-29" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-10-01" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-10-12" ><text>Signed by President.</text></signed>
+		<enacted number="103-105" type="public" datetime="1993-10-12"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-105.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Census, Statistics and Postal Personnel" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Business"/>
+		<term name="Economic statistics"/>
+		<term name="Financial statements"/>
+		<term name="Government paperwork"/>
+	</subjects>
+	<amendments>
+		<amendment number="s942"/>
+	</amendments>
+	<summary>
+	9/22/1993--Passed Senate amended. Amends Federal law to extend through FY 1998 the authority of the Secretary of Commerce to conduct the quarterly financial report program.
+
+	</summary>
+</bill>

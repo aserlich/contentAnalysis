@@ -1,0 +1,104 @@
+<bill session="103" type="h" number="1517" updated="2010-04-19T03:08:05-04:00">
+	<state datetime="1994-04-13">REPORTED</state>
+	<status><calendar datetime="1994-04-13" /></status>
+
+	<introduced datetime="1993-03-30"/>
+	<titles>
+		<title type="official" as="introduced">To extend the coverage of certain Federal labor laws to foreign documented vessels, and for other purposes.</title>
+	</titles>
+	<sponsor id="402626"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-03-30"/>
+		<cosponsor id="400133" joined="1994-03-08"/>
+		<cosponsor id="400420" joined="1994-03-02"/>
+		<cosponsor id="400128" joined="1993-03-30"/>
+		<cosponsor id="408976" joined="1994-03-07"/>
+		<cosponsor id="411677" joined="1993-03-30"/>
+		<cosponsor id="400160" joined="1994-04-12"/>
+		<cosponsor id="400126" joined="1993-03-30"/>
+		<cosponsor id="400080" joined="1994-03-24"/>
+		<cosponsor id="400542" joined="1993-05-17"/>
+		<cosponsor id="400183" joined="1993-03-30"/>
+		<cosponsor id="408052" joined="1993-03-30"/>
+		<cosponsor id="400295" joined="1993-06-15"/>
+		<cosponsor id="407351" joined="1994-09-26"/>
+		<cosponsor id="400306" joined="1994-03-11"/>
+		<cosponsor id="400527" joined="1993-03-30"/>
+		<cosponsor id="400409" joined="1993-03-30"/>
+		<cosponsor id="300081" joined="1993-07-01"/>
+		<cosponsor id="400216" joined="1993-06-15"/>
+		<cosponsor id="411725" joined="1993-03-30"/>
+		<cosponsor id="401383" joined="1993-03-30"/>
+		<cosponsor id="407772" joined="1994-09-12"/>
+		<cosponsor id="403364" joined="1993-03-30"/>
+		<cosponsor id="400008" joined="1993-06-15"/>
+		<cosponsor id="400520" joined="1994-04-19"/>
+		<cosponsor id="410974" joined="1994-03-01"/>
+		<cosponsor id="400110" joined="1993-07-13"/>
+		<cosponsor id="401153" joined="1993-05-17"/>
+		<cosponsor id="400436" joined="1994-03-21"/>
+		<cosponsor id="400140" joined="1993-05-27"/>
+		<cosponsor id="404220" joined="1993-03-30"/>
+		<cosponsor id="407141" joined="1993-07-01"/>
+		<cosponsor id="404068" joined="1993-11-01"/>
+		<cosponsor id="405524" joined="1993-07-01"/>
+		<cosponsor id="400189" joined="1993-05-27"/>
+		<cosponsor id="400390" joined="1994-03-08"/>
+		<cosponsor id="400615" joined="1994-03-22"/>
+		<cosponsor id="400595" joined="1994-03-08"/>
+		<cosponsor id="400201" joined="1993-07-13"/>
+		<cosponsor id="400357" joined="1993-05-17"/>
+		<cosponsor id="400310" joined="1993-04-20"/>
+		<cosponsor id="400301" joined="1993-07-01"/>
+		<cosponsor id="400611" joined="1993-05-27"/>
+		<cosponsor id="400278" joined="1993-05-19"/>
+		<cosponsor id="402762" joined="1993-10-18"/>
+		<cosponsor id="400243" joined="1994-03-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-30"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-04-16"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+		<action datetime="1993-04-16"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor Standards, Occupational Health and Safety.</text></action>
+		<action datetime="1993-05-07"><committee name="House Committee on Education and Labor"/><text>Executive Comment Requested from Labor.</text></action>
+		<action datetime="1993-05-13"><committee name="House Committee on Education and Labor" subcommittee="Labor Standards, Occupational Health and Safety"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-10-28"><committee name="House Committee on Education and Labor" subcommittee="Labor Standards, Occupational Health and Safety"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-10-28"><committee name="House Committee on Education and Labor" subcommittee="Labor Standards, Occupational Health and Safety"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1994-04-13"><committee name="House Committee on Education and Labor"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-04-13"  state="REPORTED"><committee name="House Committee on Education and Labor"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1994-04-13"><committee name="House Committee on Education and Labor"/><text>Subcommittee on Labor-Management Relations Discharged.</text></action>
+		<action datetime="1994-10-03T20:52:00-04:00"><text>Reported by the Committee on Education and Labor. H. Rept. 103-818.</text></action>
+		<calendar number="461" datetime="1994-10-03T20:52:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 461.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, Markup, Reporting" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral, Discharged" />
+		<committee code="HSED-10" name="House Education and Labor" subcommittee="Labor Standards, Occupational Health and Safety" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1855" />
+	</relatedbills>
+	<subjects>
+		<term name="Labor"/>
+		<term name="Collective bargaining"/>
+		<term name="Flags of convenience"/>
+		<term name="Foreign trade"/>
+		<term name="Hours of labor"/>
+		<term name="Industrial relations"/>
+		<term name="Merchant marine"/>
+		<term name="Merchant seamen"/>
+		<term name="Merchant ships"/>
+		<term name="Minimum wages"/>
+		<term name="Passenger ships"/>
+		<term name="Trade"/>
+		<term name="Transportation"/>
+		<term name="Unfair labor practices"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/30/1993--Introduced.
+Extends coverage under the National Labor Relations Act and the Fair Labor Standards Act of 1938 to certain foreign vessels which: (1) regularly engage in transporting passengers from and to a place in the United States, with or without intervening stops at foreign ports, including a vessel regularly engaged in transporting passengers only from or to a place in the United States if such transport is so arranged for the purposes of avoiding certain consequences that would otherwise result; (2) (if nonliners) regularly engage in transporting cargo in the foreign trade of the United States; and (3) produce or process goods or services for sale or distribution in the United States, and a vessel that engages in transporting cargo between vessels in international waters and a vessel, port, or place in the United States regardless of the vessel's ownership or control. Excludes any such vessel that can demonstrate that citizens of the country of registry: (1) compose at least one-half of the crew; and (2) hold legal title and beneficial ownership and control.
+
+	</summary>
+</bill>

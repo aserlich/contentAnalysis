@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="443" updated="2010-04-19T00:09:42-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Emergency Medical Services Amendments Act of 1993</title>
+		<title type="official" as="introduced">To amend the Public Health Service Act to establish an Office of Emergency Medical Services, and for other purposes.</title>
+	</titles>
+	<sponsor id="404869"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1766" />
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Communication in medicine"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Emergency medical personnel"/>
+		<term name="Emergency medical services"/>
+		<term name="Executive reorganization"/>
+		<term name="Facsimile transmission"/>
+		<term name="Federal aid to health facilities"/>
+		<term name="Grants-in-aid"/>
+		<term name="Medical research"/>
+		<term name="Medical technology"/>
+		<term name="Rural hospitals"/>
+		<term name="Rural public health"/>
+		<term name="Telecommunication"/>
+		<term name="Trauma care"/>
+		<term name="Video telephone"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Emergency Medical Services Amendments Act of 1993 - Amends title XII (Trauma Care) of the Public Health Service Act to apply the title to emergency medical services (including trauma care) and to modify the duties of the Secretary of Health and Human Services under the title. Establishes the Office of Emergency Medical Services. Authorizes grants to States to improve the availability and quality of emergency medical services through the operation of State offices of emergency medical services. Requires projects under existing provisions to include demonstration projects to establish telecommunications between rural medical facilities and medical facilities that have expertise or equipment useful to the rural facilities through telecommunications. Authorizes appropriations for carrying out specified provisions of the title.
+
+	</summary>
+</bill>

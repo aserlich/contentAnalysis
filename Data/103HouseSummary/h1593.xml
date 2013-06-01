@@ -1,0 +1,65 @@
+<bill session="103" type="h" number="1593" updated="2010-04-19T03:20:09-04:00">
+	<state datetime="1993-10-28">REPORTED</state>
+	<status><calendar datetime="1993-10-28" /></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="short" as="introduced">Revolving Door Sunshine Act of 1993</title>
+		<title type="short" as="reported to house">Revolving Door Sunshine Act of 1993</title>
+		<title type="official" as="introduced">To amend the Government in the Sunshine Act to require the disclosure of certain activities.</title>
+	</titles>
+	<sponsor id="400080"/>
+	<cosponsors>
+		<cosponsor id="412001" joined="1993-10-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-04-02"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Information, Justice, Transportation and Agriculture.</text></action>
+		<action datetime="1993-04-02"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Government Operations" subcommittee="Legislation and National Security"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-10-28"><committee name="House Committee on Government Operations"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-28"  state="REPORTED"><committee name="House Committee on Government Operations"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-10-28"><committee name="House Committee on Government Operations"/><text>Subcommittee on Information, Justice, Transportation and Agriculture Discharged.</text></action>
+		<action datetime="1993-10-28"><committee name="House Committee on Government Operations"/><text>Subcommittee on Legislation and National Security Discharged.</text></action>
+		<action datetime="1993-11-10T17:43:00-05:00"><text>Reported (Amended) by the Committee on Government Operations. H. Rept. 103-354, Part I.</text></action>
+		<action datetime="1993-11-10"><text>Referred sequentially to the House Committee on Judiciary for a period ending not later than Feb. 28, 1994 for consideration of such provisions of the bill and amendment as fall within the jurisdiction of the committee pursuant to clause 1(l), rule X.</text></action>
+		<action datetime="1994-02-28T12:15:00-05:00"><text>House Committee on Judiciary Granted an extension for further consideration ending not later than April 15, 1994.</text></action>
+		<action datetime="1994-04-14T17:11:00-04:00"><text>House Committee on Judiciary Granted an extension for further consideration ending not later than April 29, 1994.</text></action>
+		<action datetime="1994-04-29T13:07:00-04:00"><text>Committee on Judiciary discharged.</text></action>
+		<calendar number="272" datetime="1994-04-29T13:07:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 272.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Government Operations" subcommittee="Information, Justice, Transportation, and Agriculture" activity="Referral, Discharged" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral, Hearings, Discharged" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal officials"/>
+		<term name="Conflict of interests"/>
+		<term name="Congress"/>
+		<term name="Congressional employees"/>
+		<term name="Ex-Members of Congress"/>
+		<term name="Ex-presidents"/>
+		<term name="Foreign agents"/>
+		<term name="Foreign trade"/>
+		<term name="Government employees"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Lobbying"/>
+		<term name="Politics and government"/>
+		<term name="Presidents"/>
+		<term name="Trade"/>
+		<term name="Vice Presidents"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/10/1993--Reported to House amended, Part I. Revolving Door Sunshine Act of 1993 - Amends the Government in the Sunshine Act to require former Presidents, Vice Presidents, and senior Federal appointees, as well as former Members of Congress and senior congressional staff members, to file, for a certain period after leaving Government, periodic reports with the appropriate entity which disclose certain communications made and other actions (generally related to advising or lobbying, especially, but not only, by foreign persons) taken by them during the reporting period. Requires such reports to be made public. Authorizes sanctions in cases of noncompliance.
+
+	</summary>
+</bill>

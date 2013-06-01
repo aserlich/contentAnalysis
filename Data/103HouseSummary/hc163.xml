@@ -1,0 +1,49 @@
+<bill session="103" type="hc" number="163" updated="2010-04-18T21:26:19-04:00">
+	<state datetime="1993-10-07">REFERRED</state>
+	<status><introduced datetime="1993-10-07"/></status>
+
+	<introduced datetime="1993-10-07"/>
+	<titles>
+		<title type="official" as="introduced">Concerning the release of the American hostages in Somalia and United States Armed Forces withdrawal.</title>
+	</titles>
+	<sponsor id="400058"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="1993-10-15"/>
+		<cosponsor id="400206" joined="1993-10-13"/>
+		<cosponsor id="300014" joined="1993-10-14"/>
+		<cosponsor id="400076" joined="1993-10-15"/>
+		<cosponsor id="300085" joined="1993-10-13"/>
+		<cosponsor id="400012" joined="1993-10-13"/>
+		<cosponsor id="400182" joined="1993-10-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-07"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-10-19"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Africa.</text></action>
+		<action datetime="1993-10-19"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Security, International Organizations and Human Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Africa" activity="Referral" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Security, International Organizations, and Human Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Armed forces abroad"/>
+		<term name="Hostages"/>
+		<term name="International military forces"/>
+		<term name="Military intervention"/>
+		<term name="Prisoners of war"/>
+		<term name="Somalia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1993--Introduced.
+Urges the President to obtain the release of the members of the U.S. armed forces who are hostages in Somalia and to prepare a plan for the immediate withdrawal of U.S. armed forces from Somalia.
+
+	</summary>
+</bill>

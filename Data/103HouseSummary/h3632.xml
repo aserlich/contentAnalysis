@@ -1,0 +1,64 @@
+<bill session="103" type="h" number="3632" updated="2010-04-19T08:36:58-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="short" as="introduced">Safe Medications Act of 1993</title>
+		<title type="official" as="introduced">To require the mandatory reporting of deaths resulting from errors in the prescribing, dispensing, and administration of drugs, to allow the continuation of voluntary reporting programs, and for other purposes.</title>
+	</titles>
+	<sponsor id="400543"/>
+	<cosponsors>
+		<cosponsor id="400387" joined="1993-11-22"/>
+		<cosponsor id="400100" joined="1994-02-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Sponsor introductory remarks on measure. (CR H10975-10978)</text></action>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-12-03"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1994-01-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Drugs"/>
+		<term name="Business"/>
+		<term name="Civil liberties"/>
+		<term name="Criminal justice"/>
+		<term name="Data banks"/>
+		<term name="Death and dying"/>
+		<term name="Drug industry"/>
+		<term name="Drug utilization"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Fraud"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Health policy"/>
+		<term name="Labeling"/>
+		<term name="Licenses"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Medicine"/>
+		<term name="Packaging"/>
+		<term name="Right of privacy"/>
+		<term name="Social security"/>
+		<term name="Technology"/>
+		<term name="Vital statistics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Safe Medications Act of 1993 - Requires any health care facility in which an error in the prescribing, dispensing, or administration of a drug results in an individual's death, to report such error and resulting death to a data bank to be established by the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs. Requires the Secretary to review reported information to determine trends relating to drugs and to report to compilers of the official compendia for consideration of revisions of packaging and labeling requirements and dissemination to health professionals. Imposes fines for reporting to or requesting information from the data bank under false pretenses and for gaining access to the data bank unlawfully. Prescribes penalties for failing to make required reports. Amends the Social Security Act to exclude any individual or entity from Medicare and State health care programs for noncompliance with this Act. Authorizes appropriations.
+
+	</summary>
+</bill>

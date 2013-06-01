@@ -1,0 +1,71 @@
+<bill session="103" type="h" number="4360" updated="2010-04-19T10:30:37-04:00">
+	<state datetime="1994-05-05">REFERRED</state>
+	<status><introduced datetime="1994-05-05"/></status>
+
+	<introduced datetime="1994-05-05"/>
+	<titles>
+		<title type="short" as="introduced">Superfund Recycling Equity Act of 1994</title>
+		<title type="official" as="introduced">To amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to clarify liability under that Act for certain recycling transactions.</title>
+	</titles>
+	<sponsor id="300068"/>
+	<cosponsors>
+		<cosponsor id="400414" joined="1994-05-05"/>
+		<cosponsor id="407141" joined="1994-05-05"/>
+		<cosponsor id="409618" joined="1994-05-05"/>
+		<cosponsor id="400043" joined="1994-05-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-05"><text>Sponsor introductory remarks on measure. (CR E863)</text></action>
+		<action datetime="1994-05-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-05-05"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-05-19"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1994-05-25"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+		<action datetime="1994-07-27"><committee name="House Committee on Public Works + Transportation"/><text>See H.R.3800.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3800" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Administrative procedure"/>
+		<term name="Business"/>
+		<term name="Cadmium"/>
+		<term name="Electric batteries"/>
+		<term name="Environmental Protection Agency"/>
+		<term name="Evidence (Law)"/>
+		<term name="Executive departments"/>
+		<term name="Glass and glass industry"/>
+		<term name="Hazardous substances"/>
+		<term name="Hazardous waste disposal"/>
+		<term name="Law"/>
+		<term name="Lead"/>
+		<term name="Legal fees"/>
+		<term name="Liability for toxic substances pollution damages"/>
+		<term name="Licenses"/>
+		<term name="Nickel"/>
+		<term name="Paper and paper products"/>
+		<term name="Plastics"/>
+		<term name="Polychlorinated biphenyls"/>
+		<term name="Recycling industry"/>
+		<term name="Recycling of waste products"/>
+		<term name="Rubber"/>
+		<term name="Scrap metals"/>
+		<term name="Solid wastes"/>
+		<term name="Standards"/>
+		<term name="Textile industry and fabrics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/5/1994--Introduced.
+Superfund Recycling Equity Act of 1994 - Amends the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to absolve persons (other than owners or operators) who arranged for the recycling of recyclable material from liability for environmental response actions. Deems transactions involving scrap paper, plastic, glass, textiles, or rubber (other than whole tires) to be arranging for recycling if the person who arranged the transaction demonstrates that the following criteria were met: (1) the recyclable material met a commercial specification grade and a market existed for the material; (2) a substantial portion of the material was made available for use as a feedstock for the manufacture of a new saleable product; (3) the material (or product made from the material) could have been a replacement for a virgin raw material; and (4) with respect to transactions occurring 90 days after this Act's enactment, the person exercised reasonable care to determine that the facility where the material would be managed by another was in compliance with Federal, State, or local environmental laws or regulations. Deems transactions involving scrap metal to be arranging for recycling if the person who arranged the transaction demonstrates that: (1) the criteria for scrap materials were met; (2) he/she complied with applicable standards regarding activities associated with the recycling of scrap metals; and (3) the scrap metal was not melted prior to the transaction. Deems transactions involving spent lead-acid or nickel-cadmium batteries to be arranging for recycling if the person involved demonstrates that: (1) the criteria for scrap materials were met; and (2) he/she complied with applicable standards regarding such batteries. Makes the exemptions from liability under this Act inapplicable if the person: (1) had an objectively reasonable basis to believe at the time of the recycling transaction that the recyclable material would not be recycled or would be burned as fuel or for energy recovery or incineration or that the consuming facility was not in compliance with Federal, State, or local environmental laws or regulations; (2) added hazardous substances to the material for purposes other than processing or recycling; or (3) failed to exercise reasonable care with respect to the management of the material. Makes such exemptions inapplicable if the recyclable material contained polychlorinated biphenyls in excess of 50 parts per million or any new Federal standard.
+
+	</summary>
+</bill>

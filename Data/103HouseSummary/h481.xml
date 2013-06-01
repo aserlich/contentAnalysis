@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="481" updated="2010-04-19T00:16:02-04:00">
+	<state datetime="1993-01-06">REFERRED</state>
+	<status><introduced datetime="1993-01-06"/></status>
+
+	<introduced datetime="1993-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 and the Employee Retirement Income Security Act of 1974 to modify the full-funding limitation in the case of multiemployer plans.</title>
+	</titles>
+	<sponsor id="400387"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-06"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-01-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-02"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Employee benefit plans"/>
+		<term name="Pension funds"/>
+		<term name="Tax deductions"/>
+		<term name="Tax-deferred compensation plans"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/1993--Introduced.
+Amends the Internal Revenue Code and the Employee Retirement Income Security Act of 1974 to modify the full-funding limitation of a multiemployer plan by eliminating the 150 percent test. (Currently, employer contributions to a pension plan, whether a single-employer or a multiemployer plan, are not deductible to the extent that they produce funding in excess of 150 percent of the plan's current liability.)
+
+	</summary>
+</bill>

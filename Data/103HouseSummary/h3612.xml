@@ -1,0 +1,90 @@
+<bill session="103" type="h" number="3612" updated="2012-07-17T05:36:26-04:00">
+	<state datetime="1994-10-03T20:18:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-03T20:18:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-11-21"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Alaska Native Claims Settlement Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="400440"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E3001)</text></action>
+		<action datetime="1993-11-21" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-01-11"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1994-01-21"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+		<action datetime="1994-09-22"><committee name="House Committee on Natural Resources" subcommittee="Oversight and Investigations"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Subcommittee on Oversight and Investigations Discharged.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T20:14:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-805.</text></action>
+		<calendar number="451" datetime="1994-10-03T20:15:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 451.</text></calendar>
+		<action datetime="1994-10-03T20:16:00-04:00"><text>Mr. Miller (CA) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-03T20:16:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10648-10650"/></action>
+		<action datetime="1994-10-03T20:16:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-10-03T20:18:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-03T20:18:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-04"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Oversight and Investigations" activity="Referral, Hearings, Discharged" />
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Administrative procedure"/>
+		<term name="Airports"/>
+		<term name="Alaska"/>
+		<term name="Animals"/>
+		<term name="Armed forces and national security"/>
+		<term name="Claims"/>
+		<term name="Commemorations"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Department of the Interior"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Environmental protection"/>
+		<term name="Finance and financial sector"/>
+		<term name="Government liability"/>
+		<term name="Government operations and politics"/>
+		<term name="Hazardous waste disposal"/>
+		<term name="Indian claims"/>
+		<term name="Indian lands"/>
+		<term name="Korean War, 1950-1953"/>
+		<term name="Land transfers"/>
+		<term name="Law"/>
+		<term name="Legislation"/>
+		<term name="Liability for toxic substances pollution damages"/>
+		<term name="Mining claims"/>
+		<term name="Minorities"/>
+		<term name="National forests"/>
+		<term name="National monuments"/>
+		<term name="National parks"/>
+		<term name="Natural gas"/>
+		<term name="Natural gas reserves"/>
+		<term name="Petroleum reserves"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Stock repurchasing"/>
+		<term name="Stockholders"/>
+		<term name="Stocks"/>
+		<term name="Transportation and public works"/>
+		<term name="Vietnam veterans"/>
+		<term name="Wilderness areas"/>
+		<term name="Wildlife refuges"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Passed House amended. Ratifies certain land conveyances by Cook Inlet Region, Inc., to the Montana Creek Native Association, Inc., and to the Caswell Native Association, Inc. (Sec. 2) Amends the Alaska Native Claims Settlement Act (Act) with respect to requirements, administration, and revenues of mining claims patented to a Regional Corporation. (Sec. 3) Directs the Secretary of the Interior (Secretary) to report to the Congress concerning hazardous substances on lands conveyed to Native Corporations. (Sec. 4) Authorizes appropriations to Village Corporations for reconveyance activities. (Sec. 5) Amends the Alaska National Interest Lands Conservation Act with respect to specified oil and gas reserve conveyances allotted to the Arctic Slope Regional Corporation. (Sec. 6) Directs the Secretary to report to the Congress concerning Native Alaskan Vietnam era veterans who did not receive specified allotments, and a related assessment of any additional allotments. (Sec. 7) Authorizes Cook Inlet Region, Inc., to transfer Wrangell Institute in Wrangell, Alaska, to the General Services Administration in exchange for the restoration of specified property credits. (Sec. 8) States that: (1) the Shishmaref Airport, Alaska, is subject to reversion to the United States for nonuse as an airport; and (2) the Secretary shall reacquire the conveyed interests and transfer such lands to the Shismaref Native Corporation. (Sec. 9) Amends the Act to authorize the Cook Inlet Regional Corporation (Cook Inlet Region, Incorporated) to purchase its shareholder-held common stock.
+
+	</summary>
+</bill>

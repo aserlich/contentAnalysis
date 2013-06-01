@@ -1,0 +1,68 @@
+<bill session="103" type="hc" number="231" updated="2010-04-18T21:37:04-04:00">
+	<state datetime="1994-03-23">REFERRED</state>
+	<status><introduced datetime="1994-03-23"/></status>
+
+	<introduced datetime="1994-03-23"/>
+	<titles>
+		<title type="short" as="introduced">Vegetable-based Ink Federal Printing Resolution of 1994</title>
+		<title type="official" as="introduced">Expressing the sense of Congress that, to the greatest extent practicable, ink made from vegetable oil should be used in lithographic printing for the Federal Government.</title>
+	</titles>
+	<sponsor id="400382"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1994-03-23"/>
+		<cosponsor id="400579" joined="1994-03-23"/>
+		<cosponsor id="400023" joined="1994-03-23"/>
+		<cosponsor id="406431" joined="1994-03-23"/>
+		<cosponsor id="400036" joined="1994-03-23"/>
+		<cosponsor id="400154" joined="1994-03-23"/>
+		<cosponsor id="400578" joined="1994-03-23"/>
+		<cosponsor id="401033" joined="1994-03-23"/>
+		<cosponsor id="400370" joined="1994-03-23"/>
+		<cosponsor id="400581" joined="1994-03-23"/>
+		<cosponsor id="300083" joined="1994-03-23"/>
+		<cosponsor id="400048" joined="1994-03-23"/>
+		<cosponsor id="406799" joined="1994-03-23"/>
+		<cosponsor id="408618" joined="1994-03-23"/>
+		<cosponsor id="400604" joined="1994-05-03"/>
+		<cosponsor id="404602" joined="1994-03-23"/>
+		<cosponsor id="400240" joined="1994-05-03"/>
+		<cosponsor id="400599" joined="1994-03-23"/>
+		<cosponsor id="403864" joined="1994-03-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-23"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-03-23"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1994-03-24"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+		<action datetime="1994-03-25"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Information, Justice, Transportation and Agriculture.</text></action>
+		<action datetime="1994-06-29"><committee name="House Committee on Government Operations"/><text>See S.716.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Information, Justice, Transportation, and Agriculture" activity="Referral" />
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1595" />
+		<bill relation="unknown" session="103" type="s" number="716" />
+	</relatedbills>
+	<subjects>
+		<term name="Government paperwork"/>
+		<term name="Environmental protection"/>
+		<term name="Food"/>
+		<term name="Government information"/>
+		<term name="Government procurement"/>
+		<term name="Government publications"/>
+		<term name="Oils and fats"/>
+		<term name="Printing"/>
+		<term name="Public contracts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/23/1994--Introduced.
+Vegetable-based Ink Federal Printing Resolution of 1994 - Expresses the sense of the Congress that, to the greatest extent practicable, ink made from vegetable oil should be used in lithographic printing for the Federal Government.
+
+	</summary>
+</bill>

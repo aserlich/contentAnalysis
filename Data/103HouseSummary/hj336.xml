@@ -1,0 +1,52 @@
+<bill session="103" type="hj" number="336" updated="2010-04-18T22:44:48-04:00">
+	<state datetime="1994-03-11">REFERRED</state>
+	<status><introduced datetime="1994-03-11"/></status>
+
+	<introduced datetime="1994-03-11"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution to provide for a balanced budget for the United States Government.</title>
+	</titles>
+	<sponsor id="400614"/>
+	<cosponsors>
+		<cosponsor id="400542" joined="1994-03-16"/>
+		<cosponsor id="400124" joined="1994-03-11"/>
+		<cosponsor id="400323" joined="1994-03-11"/>
+		<cosponsor id="404375" joined="1994-03-11"/>
+		<cosponsor id="402152" joined="1994-03-11"/>
+		<cosponsor id="400326" joined="1994-03-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-11"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-03-16"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1994-03-17"><committee name="House Committee on Judiciary"/><text>See H.J.Res.103.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hj" number="103" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Balanced budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Budgets"/>
+		<term name="Capital investments"/>
+		<term name="Constitution"/>
+		<term name="Constitutional amendments"/>
+		<term name="Government trust funds"/>
+		<term name="Off-budget expenditures"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Public debt"/>
+		<term name="Social security"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/1994--Introduced.
+Constitutional Amendment - Prohibits Federal outlays of operating funds from exceeding receipts to such funds for any fiscal year. Waives such prohibition: (1) when a declaration of war is in effect; (2) when the United States by law is engaged in military conflict; or (3) if economic growth has been or will be negative for two consecutive quarters. Requires the President to propose a budget in accordance with this Act. Provides that the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund shall not be counted as receipts or outlays.
+
+	</summary>
+</bill>

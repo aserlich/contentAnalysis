@@ -1,0 +1,71 @@
+<bill session="103" type="h" number="760" updated="2010-04-19T01:02:27-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 35, United States Code, with respect to patents on certain processes.</title>
+	</titles>
+	<sponsor id="400043"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-02-03"/>
+		<cosponsor id="400133" joined="1993-03-03"/>
+		<cosponsor id="400289" joined="1993-11-15"/>
+		<cosponsor id="400571" joined="1993-02-03"/>
+		<cosponsor id="403314" joined="1993-02-04"/>
+		<cosponsor id="400596" joined="1993-02-03"/>
+		<cosponsor id="407351" joined="1993-02-17"/>
+		<cosponsor id="408109" joined="1993-02-17"/>
+		<cosponsor id="400389" joined="1993-02-04"/>
+		<cosponsor id="401547" joined="1993-11-16"/>
+		<cosponsor id="410496" joined="1993-06-22"/>
+		<cosponsor id="406420" joined="1993-10-19"/>
+		<cosponsor id="407899" joined="1993-02-03"/>
+		<cosponsor id="400365" joined="1993-10-26"/>
+		<cosponsor id="400262" joined="1993-02-03"/>
+		<cosponsor id="400112" joined="1993-02-18"/>
+		<cosponsor id="406482" joined="1993-06-09"/>
+		<cosponsor id="400144" joined="1993-02-03"/>
+		<cosponsor id="404097" joined="1993-10-26"/>
+		<cosponsor id="400548" joined="1993-03-02"/>
+		<cosponsor id="400140" joined="1993-09-14"/>
+		<cosponsor id="400076" joined="1993-02-03"/>
+		<cosponsor id="404068" joined="1993-10-07"/>
+		<cosponsor id="400211" joined="1993-02-17"/>
+		<cosponsor id="404602" joined="1993-02-23"/>
+		<cosponsor id="402152" joined="1993-02-04"/>
+		<cosponsor id="409633" joined="1993-06-09"/>
+		<cosponsor id="400109" joined="1993-02-03"/>
+		<cosponsor id="409627" joined="1993-09-14"/>
+		<cosponsor id="410887" joined="1993-02-24"/>
+		<cosponsor id="407669" joined="1993-03-31"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03"><text>Sponsor introductory remarks on measure. (CR E256-257, E260)</text></action>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+		<action datetime="1993-06-09"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-06-16"><committee name="House Committee on Judiciary"/><text>See H.R.4307.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4307" />
+	</relatedbills>
+	<subjects>
+		<term name="Patents"/>
+		<term name="Biotechnology"/>
+		<term name="Foreign trade"/>
+		<term name="Imports"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+TABLE OF CONTENTS: Title I: Biotechnological Process Patents Title II: Biotechnological Material Patents Title I: Biotechnological Process Patents - Amends Federal patent law to cite conditions under which a claimed process of making or using a machine, manufacture, or composition of matter is not obvious (thereby enhancing the patentability prospects of certain biotechnology processes). Establishes a presumption of validity with respect to a process claim even through a related product claim is invalidated (thus allowing a patentee to prove that the process claim is independently patentable from the product claim). Title II: Biotechnological Material Patents - Makes any unauthorized person who imports or sells a product made by using a biotechnological material that is patented in the United States liable for patent infringement. Includes within the terms of such patents the right to exclude others from using, selling, or importing such products throughout or into the United States. Establishes exceptions to such requirements to the extent suitable to protect commercial investment made or business commenced before the effective date of such amendments.
+
+	</summary>
+</bill>

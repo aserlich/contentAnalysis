@@ -1,0 +1,123 @@
+<bill session="103" type="s" number="2170" updated="2010-04-19T20:08:39-04:00">
+	<state datetime="1994-10-13">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-13" /></status>
+
+	<introduced datetime="1994-06-09"/>
+	<titles>
+		<title type="short" as="introduced">Government Management Reform Act of 1994</title>
+		<title type="short" as="introduced">Federal Financial Management Act of 1994</title>
+		<title type="short" as="passed senate">Government Management Reform Act of 1994</title>
+		<title type="short" as="passed senate">Federal Financial Management Act of 1994</title>
+		<title type="short" as="enacted">Government Management Reform Act of 1994</title>
+		<title type="short" as="enacted">Federal Financial Management Act of 1994</title>
+		<title type="official" as="introduced">An original bill to provide a more effective, efficient, and responsive Government.</title>
+	</titles>
+	<sponsor id="404598"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-23"><text>Committee on Governmental Affairs incorporated provisions of related measures H.R. 3400 in reported measure.</text></action>
+		<calendar datetime="1994-03-23"  state="REPORTED"><text>Committee on Governmental Affairs ordered to be reported an original measure.</text></calendar>
+		<action datetime="1994-06-09"><text>Committee on Governmental Affairs. Original measure reported to Senate by Senator Glenn. With written report No. 103-281. Additional views filed.</text></action>
+		<calendar under="General Orders" number="458" datetime="1994-06-09" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 458.</text></calendar>
+		<action datetime="1994-09-28"><text>Measure laid before Senate by unanimous consent.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-09-28" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text><reference label="consideration" ref="CR S13623-13626"/></vote>
+		<action datetime="1994-09-29"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-09-29T10:11:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-09-29T13:23:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-10-03T14:33:00-04:00"><text>Mr. Synar moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-10-03T14:34:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10496-10499"/></action>
+		<action datetime="1994-10-03T14:34:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-03T14:38:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Clinger objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1994-10-04T18:40:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10734"/></action>
+		<vote how="by voice vote" type="vote2" datetime="1994-10-04T18:41:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-04T18:41:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-10-04" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-10-07" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-13" ><text>Signed by President.</text></signed>
+		<enacted number="103-356" type="public" datetime="1994-10-13"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-356.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Origin, Reporting, Markup" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3400" />
+		<bill relation="unknown" session="103" type="h" number="3400" />
+		<bill relation="unknown" session="103" type="s" number="1675" />
+	</relatedbills>
+	<subjects>
+		<term name="Productivity in government"/>
+		<term name="Accounting"/>
+		<term name="Affirmative action programs"/>
+		<term name="Auditing"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Civil rights"/>
+		<term name="Civil service pensions"/>
+		<term name="Collection of accounts"/>
+		<term name="Computers and government"/>
+		<term name="Congress"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Congressional salaries and pensions"/>
+		<term name="Construction industries"/>
+		<term name="Construction workers"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Criminal justice"/>
+		<term name="Debarment of government contractors"/>
+		<term name="Department of Labor"/>
+		<term name="Discrimination in employment"/>
+		<term name="Economic policy"/>
+		<term name="Elections"/>
+		<term name="Electronic data processing"/>
+		<term name="Electronic funds transfers"/>
+		<term name="Employee training"/>
+		<term name="Executive departments"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal budgets"/>
+		<term name="Federal employees"/>
+		<term name="Federal officials"/>
+		<term name="Finance"/>
+		<term name="Financial statements"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Government contractors"/>
+		<term name="Government employees"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Government service contracts"/>
+		<term name="Government trust funds"/>
+		<term name="Hours of labor"/>
+		<term name="Indexing (Economic policy)"/>
+		<term name="Infrastructure"/>
+		<term name="Job training"/>
+		<term name="Judicial compensation"/>
+		<term name="Labor"/>
+		<term name="Law"/>
+		<term name="Layoffs"/>
+		<term name="Leave of absence"/>
+		<term name="Legal services"/>
+		<term name="Lobbying"/>
+		<term name="Management information systems"/>
+		<term name="Minimum wages"/>
+		<term name="Pensions"/>
+		<term name="Politics and government"/>
+		<term name="Presidents"/>
+		<term name="Public buildings"/>
+		<term name="Public contracts"/>
+		<term name="Recruiting of employees"/>
+		<term name="Revolving funds"/>
+		<term name="Salaries"/>
+		<term name="Subversive activities"/>
+		<term name="Technology"/>
+		<term name="Vice Presidents"/>
+		<term name="Wages"/>
+	</subjects>
+	<amendments>
+		<amendment number="s2598"/>
+	</amendments>
+	<summary>
+	9/28/1994--Passed Senate amended. TABLE OF CONTENTS: Title I: Limitation on Pay Title II: Human Resource Management Title III: Streamlining Management Control Title IV: Financial Management Government Management Reform Act of 1994 - Title I: Limitation on Pay - Amends the Legislative Reorganization Act of 1946 and other Federal law to limit annual cost of living adjustments for Members of Congress, the Vice President, senior Government officials, and Federal judges. Title II: Human Resource Management - Amends Federal civil service law to eliminate unlimited accumulation of annual leave by members of the Senior Executive Service. Sets a limit on excess leave of 90 days per year. Title III: Streamlining Management Control - Authorizes the Director of OMB to publish annually in the President's Budget any recommendations for the consolidation, elimination, or adjustment in frequency and due dates of statutorily required periodic reports to the Congress or its committees. Title IV: Financial Management - Federal Financial Management Act of 1994 - Amends Federal law to require direct deposit of Federal wage, salary, and retirement payments by electronic funds transfer for recipients who begin receiving such payments on or after January 1, 1995. (Sec. 403) Authorizes the establishment of a franchise fund in each of six executive agencies for the equipment and computer systems necessary for the maintenance and operation of administrative support services that may be performed more advantageously on a centralized basis. Authorizes appropriations. (Sec. 404) Authorizes the Director of the Office of Management and Budget (OMB) to consolidate or adjust the frequency and due dates of statutorily required periodic agency reports to OMB or the President and agency or OMB reports to the Congress under any laws for which OMB has financial management responsibility. (Sec. 405) Requires the annual financial statements of executive agencies to be audited prior to submission to OMB.
+
+	</summary>
+</bill>

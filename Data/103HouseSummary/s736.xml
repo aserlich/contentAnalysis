@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="736" updated="2012-07-17T06:24:56-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="short" as="introduced">Bovine Growth Hormone User Assessment Act</title>
+		<title type="official" as="introduced">A bill to amend the Agriculture Act of 1949 to require the Secretary of Agriculture to reduce the price received by producers for milk that is produced by cows injected with bovine growth hormone, and for other purposes.</title>
+	</titles>
+	<sponsor id="300042"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4323-4326)</text></action>
+		<action datetime="1993-04-01" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-04-12"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Agricultural Production.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Agricultural Production and Stabilization of Prices" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1905" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural price supports"/>
+		<term name="Cattle"/>
+		<term name="Hormones"/>
+		<term name="Milk"/>
+		<term name="Recombinant DNA"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Bovine Growth Hormone User Assessment Act - Amends the Agricultural Act of 1949 to reduce the price received for milk produced by cows injected with bovine growth hormone.
+
+	</summary>
+</bill>

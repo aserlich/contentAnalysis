@@ -1,0 +1,117 @@
+<bill session="103" type="h" number="2846" updated="2010-04-19T06:35:00-04:00">
+	<state datetime="1993-08-03">REFERRED</state>
+	<status><introduced datetime="1993-08-03"/></status>
+
+	<introduced datetime="1993-08-03"/>
+	<titles>
+		<title type="short" as="introduced">Congressional Employees Fairness Act</title>
+		<title type="official" as="introduced">To clarify the application of certain employment protection laws to the Congress, and for other purposes.</title>
+	</titles>
+	<sponsor id="409650"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-09-09"/>
+		<cosponsor id="400553" joined="1993-10-19"/>
+		<cosponsor id="405775" joined="1993-09-09"/>
+		<cosponsor id="406431" joined="1993-10-19"/>
+		<cosponsor id="400295" joined="1993-08-03"/>
+		<cosponsor id="400161" joined="1993-09-09"/>
+		<cosponsor id="410496" joined="1993-09-09"/>
+		<cosponsor id="400216" joined="1993-10-19"/>
+		<cosponsor id="400030" joined="1993-10-19"/>
+		<cosponsor id="400511" joined="1993-09-09"/>
+		<cosponsor id="407817" joined="1993-09-09"/>
+		<cosponsor id="400140" joined="1993-09-09"/>
+		<cosponsor id="400422" joined="1993-09-09"/>
+		<cosponsor id="300091" joined="1993-08-03"/>
+		<cosponsor id="400366" joined="1993-09-09"/>
+		<cosponsor id="401947" joined="1993-09-09"/>
+		<cosponsor id="408476" joined="1993-10-19"/>
+		<cosponsor id="404190" joined="1993-10-19"/>
+		<cosponsor id="410889" joined="1993-09-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-03"><text>Sponsor introductory remarks on measure. (CR E1947-1948)</text></action>
+		<action datetime="1993-08-03"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-08-03"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-08-03"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-08-03"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-08-03"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-08-06"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Information, Justice, Transportation and Agriculture.</text></action>
+		<action datetime="1993-08-06"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+		<action datetime="1993-09-14"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+		<action datetime="1993-09-14"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Select Education and Civil Rights.</text></action>
+		<action datetime="1993-09-14"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor Standards, Occupational Health and Safety.</text></action>
+		<action datetime="1993-12-16"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+		<action datetime="1994-07-25"><committee name="House Committee on Government Operations"/><text>See H.R.4822.</text></action>
+		<action datetime="1994-07-25"><committee name="House Committee on Judiciary"/><text>For Further Action See H.R.4822.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+		<committee code="HSED-04" name="House Education and Labor" subcommittee="Select Education and Civil Rights" activity="Referral" />
+		<committee code="HSED-10" name="House Education and Labor" subcommittee="Labor Standards, Occupational Health and Safety" activity="Referral" />
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Information, Justice, Transportation, and Agriculture" activity="Referral" />
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="107" />
+		<bill relation="unknown" session="103" type="h" number="4822" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Administrative remedies"/>
+		<term name="Age and employment"/>
+		<term name="Age discrimination"/>
+		<term name="Confidential communications"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional employees"/>
+		<term name="Congressional investigations"/>
+		<term name="Congressional officers"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional privileges and immunities"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Counseling"/>
+		<term name="Disciplining of employees"/>
+		<term name="Discrimination in employment"/>
+		<term name="Dismissal of employees"/>
+		<term name="Employee rights"/>
+		<term name="Employee selection"/>
+		<term name="Employee-management relations in government"/>
+		<term name="Employment of the handicapped"/>
+		<term name="Freedom of information"/>
+		<term name="Grievance procedures"/>
+		<term name="Hours of labor"/>
+		<term name="House rules and procedure"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Legal fees"/>
+		<term name="Legislative resolutions"/>
+		<term name="Mediation"/>
+		<term name="Members of Congress"/>
+		<term name="Minimum wages"/>
+		<term name="Occupational health and safety"/>
+		<term name="Older workers"/>
+		<term name="Overtime"/>
+		<term name="Parental leave"/>
+		<term name="Party affiliation"/>
+		<term name="Promotions"/>
+		<term name="Recruiting of employees"/>
+		<term name="Right of privacy"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Sick leave"/>
+		<term name="Subpoena"/>
+		<term name="Unfair labor practices"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/3/1993--Introduced.
+Congressional Employees Fairness Act - Makes applicable to the Congress: (1) the Fair Labor Standards Act of 1938; (2) Title VII of the Civil Rights Act of 1964; (3) specified provisions of the Americans With Disabilities Act of 1990 and the Age Discrimination in Employment Act of 1967; and (4) the Family and Medical Leave Act of 1993. Makes applicable to the Congress any provision of Federal law to the extent that it relates to: (1) the terms and conditions of employment (including hiring, promotion, or demotion, salary and wages, overtime compensation, benefits, work assignments or reassignments, and termination) of employees; (2) protection from discrimination in personnel actions; (3) the health and safety of employees; (4) the availability of information to the public; or (5) other areas deemed appropriate by the Independent Office of Compliance (Office). Establishes the Office, in the legislative branch, to study and report to the Congress on the application of such laws. Sets forth provisions relating to congressional procedures for approval of the Board of Directors' recommendations relating to the application of future Federal laws to the Congress. Directs the Office to carry out an education program for Members of Congress and other employing authorities of the Congress respecting the laws applicable to them and a program to inform individuals of their rights under laws applicable to the Congress and under this Act. Requires the procedure for consideration of alleged violations of such laws to consist of the following steps: (1) counseling; (2) mediation; (3) formal complaint and hearing by a hearing board; and (4) judicial review of a hearing board's decision. Authorizes a congressional employee or any Member of Congress to petition the Personnel Appeals Board of the General Accounting Office to review a final decision if it is unconstitutional. Declares that any intimidation of, or reprisal against, any employee because of the exercise of a right under this Act constitutes an unlawful employment practice that may be remedied in the same manner under this Act as is a violation of a law made applicable to the Congress. Requires the records and decisions of hearing boards to be made public if required for judicial review. Limits a congressional employee to the judicial proceeding provided by this Act to redress prohibited practices.
+
+	</summary>
+</bill>

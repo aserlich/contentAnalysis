@@ -1,0 +1,36 @@
+<bill session="103" type="h" number="5063" updated="2010-04-19T12:20:48-04:00">
+	<state datetime="1994-09-20">REFERRED</state>
+	<status><introduced datetime="1994-09-20"/></status>
+
+	<introduced datetime="1994-09-20"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Immigration Act of 1990 to provide for complete use of visas made available under the diversity transition program.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-20"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-09-26"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Visas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/20/1994--Introduced.
+Amends the Immigration Act of 1990 to extend the diversity transition program with specified visa limitations.
+
+	</summary>
+</bill>

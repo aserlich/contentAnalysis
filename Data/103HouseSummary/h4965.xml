@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="4965" updated="2010-04-19T12:05:36-04:00">
+	<state datetime="1994-08-12">REFERRED</state>
+	<status><introduced datetime="1994-08-12"/></status>
+
+	<introduced datetime="1994-08-12"/>
+	<titles>
+		<title type="short" as="introduced">Baseball Fans Protection Act of 1994</title>
+		<title type="official" as="introduced">To encourage serious negotiations between the major league baseball players and the owners of major league baseball in order to prevent a strike by the players or a lockout by the owners so that the fans will be able to enjoy the remainder of the baseball season, the playoffs, and the World Series.</title>
+	</titles>
+	<sponsor id="400306"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-12"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-08-16"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2380" />
+	</relatedbills>
+	<subjects>
+		<term name="Antitrust law"/>
+		<term name="Baseball"/>
+		<term name="Business"/>
+		<term name="Collective bargaining"/>
+		<term name="Collective bargaining agreements"/>
+		<term name="Labor"/>
+		<term name="Labor contracts"/>
+		<term name="Labor unions"/>
+		<term name="Professional sports"/>
+		<term name="Sports"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/12/1994--Introduced.
+Baseball Fans Protection Act of 1994 - Amends the Clayton Act to apply the antitrust laws of the United States to any unilateral term or condition (excluding a strike or a lockout) that is imposed by a party that is subject to the agreement between the major league baseball owners and the players' union.
+
+	</summary>
+</bill>

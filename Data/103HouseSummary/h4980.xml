@@ -1,0 +1,73 @@
+<bill session="103" type="h" number="4980" updated="2012-07-17T05:51:34-04:00">
+	<state datetime="1994-09-22T16:44:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-09-22T16:44:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1994-08-17"/>
+	<titles>
+		<title type="official" as="introduced">To designate the bridge on United States Route 231 which crosses the Ohio River between Maceo, Kentucky, and Rockport, Indiana, as the &quot;William H. Natcher Bridge&quot;.</title>
+	</titles>
+	<sponsor id="400241"/>
+	<cosponsors>
+		<cosponsor id="407400" joined="1994-09-19"/>
+		<cosponsor id="411725" joined="1994-09-22"/>
+		<cosponsor id="407838" joined="1994-09-19"/>
+		<cosponsor id="405939" joined="1994-09-19"/>
+		<cosponsor id="409633" joined="1994-09-22"/>
+		<cosponsor id="400578" joined="1994-09-22"/>
+		<cosponsor id="401033" joined="1994-08-17"/>
+		<cosponsor id="411587" joined="1994-09-19"/>
+		<cosponsor id="400543" joined="1994-09-22"/>
+		<cosponsor id="300014" joined="1994-08-17"/>
+		<cosponsor id="400133" joined="1994-09-19"/>
+		<cosponsor id="400569" joined="1994-09-22"/>
+		<cosponsor id="400435" joined="1994-09-19"/>
+		<cosponsor id="400340" joined="1994-08-17"/>
+		<cosponsor id="409570" joined="1994-09-19"/>
+		<cosponsor id="401417" joined="1994-09-19"/>
+		<cosponsor id="410407" joined="1994-09-19"/>
+		<cosponsor id="400374" joined="1994-09-22"/>
+		<cosponsor id="400615" joined="1994-09-22"/>
+		<cosponsor id="400524" joined="1994-09-19"/>
+		<cosponsor id="400204" joined="1994-09-19"/>
+		<cosponsor id="400165" joined="1994-09-19"/>
+		<cosponsor id="402454" joined="1994-09-22"/>
+		<cosponsor id="400080" joined="1994-09-19"/>
+		<cosponsor id="401153" joined="1994-08-17"/>
+		<cosponsor id="407306" joined="1994-08-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-17" state="REFERRED"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-08-29"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+		<action datetime="1994-09-22T16:29:00-04:00"><text>Committee on Public Works + Transportation discharged.</text></action>
+		<action datetime="1994-09-22T16:29:00-04:00"><text>Mr. Rahall asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-09-22T16:30:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H9517-9519"/></action>
+		<vote how="without objection" type="vote" datetime="1994-09-22T16:44:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-09-22T16:44:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-09-23"><text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Discharged" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Roads and highways"/>
+		<term name="Bridges"/>
+		<term name="Commemorations"/>
+		<term name="Indiana"/>
+		<term name="Kentucky"/>
+		<term name="Names"/>
+		<term name="Transportation and public works"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/17/1994--Introduced.
+Designates a certain bridge which crosses the Ohio River between Maceo, Kentucky, and Rockport, Indiana, as the William H. Natcher Bridge.
+
+	</summary>
+</bill>

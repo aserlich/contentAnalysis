@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="1113" updated="2010-04-19T02:01:49-04:00">
+	<state datetime="1993-02-24">REFERRED</state>
+	<status><introduced datetime="1993-02-24"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="short" as="introduced">Public School Redefinition Act of 1993</title>
+		<title type="official" as="introduced">To establish a demonstration program that encourages State educational agencies to assist teachers, parents, and communities in establishing new public schools, and for other purposes.</title>
+	</titles>
+	<sponsor id="407399"/>
+	<cosponsors>
+		<cosponsor id="408618" joined="1993-02-24"/>
+		<cosponsor id="400318" joined="1993-02-24"/>
+		<cosponsor id="409219" joined="1993-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24"><text>Sponsor introductory remarks on measure. (CR E446)</text></action>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-03-16"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="429" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Community and school"/>
+		<term name="Educational facilities"/>
+		<term name="Educational innovations"/>
+		<term name="Elementary education"/>
+		<term name="Federal aid to education"/>
+		<term name="Parent-school relationships"/>
+		<term name="Public schools"/>
+		<term name="Secondary education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Public School Redefinition Act of 1993 - Establishes a demonstration program to provide Federal assistance to encourage States to assist teachers, parents, and local communities to establish and develop outcome-based public schools. Authorizes the Secretary of Education to award grants to State educational agencies (SEAs) to conduct such outcome-based public school programs (or, if a State elects not to participate, to award such a grant directly to an outcome-based public school). Limits such grants to three years and requires the school to provide matching funds. Prohibits grant funds from being used for construction or major renovation or repair of facilities, but allows their use for planning, equipment purchases and other start-up costs, including minor renovation of facilities to meet applicable health and safety requirements. Provides that each such outcome-based public school shall be eligible to receive Federal, State, and local education revenue, grants, and other aid as though such school were a local educational agency. Directs the Secretary or the SEA receiving such a grant to terminate grant payments to an outcome-based public school upon determination that it is not making acceptable progress. Authorizes appropriations.
+
+	</summary>
+</bill>

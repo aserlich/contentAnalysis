@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="5065" updated="2012-07-17T04:45:08-04:00">
+	<state datetime="1994-09-29T19:24:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-09-29T19:24:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1994-09-20"/>
+	<titles>
+		<title type="short" as="introduced">Beginning Farmer Technical Corrections Act of 1994</title>
+		<title type="short" as="passed house">Beginning Farmer Technical Corrections Act of 1994</title>
+		<title type="official" as="introduced">To amend the Consolidated Farm and Rural Development Act to make technical corrections to certain provisions relating to beginning farmers and ranchers.</title>
+	</titles>
+	<sponsor id="408618"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-20" state="REFERRED"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-09-20"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Environment, Credit and Rural Development.</text></action>
+		<action datetime="1994-09-21"><committee name="House Committee on Agriculture" subcommittee="Environment, Credit and Rural Development"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-09-21"><committee name="House Committee on Agriculture" subcommittee="Environment, Credit and Rural Development"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Agriculture"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Agriculture"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-09-29T19:23:00-04:00"><text>Committee on Agriculture discharged.</text></action>
+		<action datetime="1994-09-29T19:23:00-04:00"><text>Mr. Johnson (SD) asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-09-29T19:24:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10323"/></action>
+		<vote how="without objection" type="vote" datetime="1994-09-29T19:24:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-09-29T19:24:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-09-30"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Discharged" />
+		<committee code="" name="House Agriculture" subcommittee="Environment, Credit and Rural Development" activity="Referral, Markup, Reporting" />
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Agricultural credit"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural societies"/>
+		<term name="Economics and public finance"/>
+		<term name="Families"/>
+		<term name="Farmers"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Youth"/>
+	</subjects>
+	<amendments>
+		<amendment number="h900"/>
+	</amendments>
+	<summary>
+	9/29/1994--Passed House amended. Beginning Farmer Technical Corrections Act of 1994 - Amends the Consolidated Farm and Rural Development Act with regard to agricultural credit to: (1) make specified land ownership limitations inapplicable to beginning farmer operating loans; (2) disregard rural youth loans in applying the ten-year commercial loan transition rule; and (3) consider separately direct loan and guarantee histories in applying such rule.
+
+	</summary>
+</bill>

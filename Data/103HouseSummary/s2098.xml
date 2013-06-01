@@ -1,0 +1,46 @@
+<bill session="103" type="s" number="2098" updated="2012-07-17T04:40:19-04:00">
+	<state datetime="1994-05-10">REFERRED</state>
+	<status><introduced datetime="1994-05-10"/></status>
+
+	<introduced datetime="1994-05-10"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend section 217 of the Internal Revenue Code of 1986 to provide that military moving expense reimbursements are excluded from income without regard to the deductibility of the expenses reimbursement.</title>
+	</titles>
+	<sponsor id="300159"/>
+	<cosponsors>
+		<cosponsor id="300150" joined="1994-05-25"/>
+		<cosponsor id="300071" joined="1994-05-10"/>
+		<cosponsor id="300069" joined="1994-05-10"/>
+		<cosponsor id="300089" joined="1994-05-10"/>
+		<cosponsor id="300054" joined="1994-05-10"/>
+		<cosponsor id="300070" joined="1994-05-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-10" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5461)</text></action>
+		<action datetime="1994-05-10" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4782" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Armed forces and national security"/>
+		<term name="Household moving"/>
+		<term name="Housing and community development"/>
+		<term name="Military dependents"/>
+		<term name="Military personnel"/>
+		<term name="Tax exclusion"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/10/1994--Introduced.
+Amends the Internal Revenue Code to exclude from income military moving and storage expense reimbursements without regard to the deductibility of such expenses.
+
+	</summary>
+</bill>

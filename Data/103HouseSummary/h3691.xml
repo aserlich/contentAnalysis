@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="3691" updated="2010-04-19T08:46:04-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="official" as="introduced">To require that printing for the executive and legislative branches of the Government be procured through a competitive bid process conducted by the Administrator of General Services.</title>
+	</titles>
+	<sponsor id="300085"/>
+	<cosponsors>
+		<cosponsor id="400574" joined="1994-07-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-11-23"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+		<action datetime="1993-12-01"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government paperwork"/>
+		<term name="Executive departments"/>
+		<term name="Government information"/>
+		<term name="Government procurement"/>
+		<term name="Government publications"/>
+		<term name="Printing"/>
+		<term name="Public contracts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Requires that all printing for the executive and legislative branches, except that involving classified information, be procured through a competitive bid process conducted by the Administrator of General Services.
+
+	</summary>
+</bill>

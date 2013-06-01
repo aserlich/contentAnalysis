@@ -1,0 +1,40 @@
+<bill session="103" type="h" number="3308" updated="2010-04-19T07:46:33-04:00">
+	<state datetime="1993-10-19">REFERRED</state>
+	<status><introduced datetime="1993-10-19"/></status>
+
+	<introduced datetime="1993-10-19"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to provide housing benefits for the purchase of residential cooperative apartment units.</title>
+	</titles>
+	<sponsor id="400251"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-19"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-10-26"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Housing and Memorial Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Veterans' Affairs" subcommittee="Housing and Memorial Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Cooperative housing"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Housing"/>
+		<term name="Housing finance"/>
+		<term name="Veterans' loans"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/19/1993--Introduced.
+Authorizes the provision of loans guaranteed by the Department of Veterans Affairs to veterans for the purpose of purchasing residential property in a cooperative housing project if such cooperative is approved by the Secretary of Veterans Affairs.
+
+	</summary>
+</bill>

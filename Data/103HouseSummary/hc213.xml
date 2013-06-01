@@ -1,0 +1,51 @@
+<bill session="103" type="hc" number="213" updated="2010-04-18T21:34:13-04:00">
+	<state datetime="1994-02-28">REFERRED</state>
+	<status><introduced datetime="1994-02-28"/></status>
+
+	<introduced datetime="1994-02-28"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress that telephone directories within the eastern and midwestern United States should include information relating to natural disaster survival techniques.</title>
+	</titles>
+	<sponsor id="402657"/>
+	<cosponsors>
+		<cosponsor id="400331" joined="1994-02-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-28"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-02-28"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-03-01"><text>Sponsor introductory remarks on measure. (CR E285)</text></action>
+		<action datetime="1994-03-04"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+		<action datetime="1994-03-14"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Communications"/>
+		<term name="Directories"/>
+		<term name="Disaster relief"/>
+		<term name="Disasters"/>
+		<term name="Emergency management"/>
+		<term name="Government information"/>
+		<term name="Information services"/>
+		<term name="North Central States"/>
+		<term name="Northeastern States"/>
+		<term name="South Atlantic States"/>
+		<term name="Telecommunication"/>
+		<term name="Telephone"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/28/1994--Introduced.
+Expresses the sense of the Congress that telephone directories within the eastern and midwestern United States should include a natural disaster survival guide. Provides that Federal, State, and local disaster management agencies should establish effective mechanisms to respond to citizen inquiries in natural disasters and periodically distribute to the public survival guide information.
+
+	</summary>
+</bill>

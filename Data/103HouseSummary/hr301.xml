@@ -1,0 +1,42 @@
+<bill session="103" type="hr" number="301" updated="2010-04-19T13:45:57-04:00">
+	<state datetime="1993-11-10T09:40:00-05:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-11-10T09:40:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-11-09"/>
+	<titles>
+		<title type="official" as="introduced">Waiving points of order against the conference report to accompany the bill (H.R. 3116) making appropriations for the Department of Defense for the fiscal year ending September 30, 1994, and for other purposes.</title>
+	</titles>
+	<sponsor id="400143"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-09T20:47:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-340, by Mr. Frost.</text></action>
+		<action datetime="1993-11-09T20:47:00-05:00"><text>Rule provides for consideration of the conference report to H.R. 3116. All points of order against the conference report and against its consideration are waived. The conference report shall be considered as read.</text></action>
+		<calendar datetime="1993-11-09T20:47:00-05:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 114.</text></calendar>
+		<action datetime="1993-11-10T09:33:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H9081"/></action>
+		<action datetime="1993-11-10T09:34:00-05:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-11-10T09:40:00-05:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-10T09:40:00-05:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-10T09:41:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3116" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Armed forces"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/9/1993--Introduced.
+Waives points of order against the consideration of the conference report on H.R. 3116 (Department of Defense appropriations).
+
+	</summary>
+</bill>

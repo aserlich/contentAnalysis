@@ -1,0 +1,42 @@
+<bill session="103" type="s" number="515" updated="2012-07-17T05:02:46-04:00">
+	<state datetime="1993-03-05">REFERRED</state>
+	<status><introduced datetime="1993-03-05"/></status>
+
+	<introduced datetime="1993-03-05"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide for a limitation on use of claim sampling to deny claims or recover overpayments under medicare.</title>
+	</titles>
+	<sponsor id="408939"/>
+	<cosponsors>
+		<cosponsor id="404598" joined="1993-03-10"/>
+		<cosponsor id="300053" joined="1993-10-06"/>
+		<cosponsor id="300029" joined="1993-10-05"/>
+		<cosponsor id="407786" joined="1993-03-05"/>
+		<cosponsor id="411818" joined="1993-07-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-05" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2486)</text></action>
+		<action datetime="1993-03-05" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Health"/>
+		<term name="Medicare"/>
+		<term name="Medicare fraud"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/5/1993--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to prohibit the use of claim sampling to deny claims or recover overpayments under Medicare except when fraud has been determined, in which case claim sampling may be used for the purpose of assessing civil monetary penalties.
+
+	</summary>
+</bill>

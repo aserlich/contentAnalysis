@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="2161" updated="2010-04-19T04:48:59-04:00">
+	<state datetime="1993-05-19">REFERRED</state>
+	<status><introduced datetime="1993-05-19"/></status>
+
+	<introduced datetime="1993-05-19"/>
+	<titles>
+		<title type="official" as="introduced">To amend title II of the Social Security Act to expand current restrictions on payment of benefits to prisoners by clarifying the types of offenses with respect to which such restrictions are applied, by including under such restrictions payments to individuals confined for substantial periods to public institutions pursuant to court order based on a verdict that the individual is not guilty of a criminal offense by reason of insanity or a similar finding, and by eliminating the rehabilitation exemption.</title>
+	</titles>
+	<sponsor id="400584"/>
+	<cosponsors>
+		<cosponsor id="400265" joined="1994-02-03"/>
+		<cosponsor id="411997" joined="1993-11-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-19"><text>Sponsor introductory remarks on measure. (CR H2528-2529)</text></action>
+		<action datetime="1993-05-19"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-21"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+		<action datetime="1993-09-23"><text>Sponsor introductory remarks on measure. (CR E2245)</text></action>
+		<action datetime="1994-04-28"><committee name="House Committee on Ways and Means"/><text>See H.R.4278.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4278" />
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Mental illness"/>
+		<term name="Mentally handicapped"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Prisoners"/>
+		<term name="Rehabilitation of criminals"/>
+		<term name="Social security eligibility"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/19/1993--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to: (1) expand current restrictions on the payment to prisoners of OASDI benefits to include payments of OASDI benefits to individuals confined for certain periods to public institutions after having been found not guilty of a criminal offense by reason of insanity or other mental disorder; and (2) repeal the exemption from such restrictions for prisoners in rehabilitation programs.
+
+	</summary>
+</bill>

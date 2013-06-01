@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="3304" updated="2010-04-19T07:45:56-04:00">
+	<state datetime="1993-10-19">REFERRED</state>
+	<status><introduced datetime="1993-10-19"/></status>
+
+	<introduced datetime="1993-10-19"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Outer Continental Shelf Lands Act to allow State disapproval of Federal offshore leasing decisions.</title>
+	</titles>
+	<sponsor id="400083"/>
+	<cosponsors>
+		<cosponsor id="400156" joined="1993-10-19"/>
+		<cosponsor id="412001" joined="1993-10-19"/>
+		<cosponsor id="406082" joined="1993-10-19"/>
+		<cosponsor id="409052" joined="1993-10-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-19"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-01-21"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Energy and Mineral Resources.</text></action>
+		<action datetime="1994-02-02"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-06" name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Energy law and legislation"/>
+		<term name="Continental shelf"/>
+		<term name="Energy policy"/>
+		<term name="Federal-state relations"/>
+		<term name="Gas in submerged lands"/>
+		<term name="Oil and gas leases"/>
+		<term name="Petroleum in submerged lands"/>
+		<term name="Prospecting"/>
+		<term name="Submarine oil well drilling"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/19/1993--Introduced.
+Amends the Outer Continental Shelf Lands Act to direct the Secretary of the Interior to transmit decisions approving certain offshore lease sales to the Governor of each affected State. Grants the States specified time after such notice to disapprove such decision.
+
+	</summary>
+</bill>

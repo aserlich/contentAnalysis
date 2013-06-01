@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="1587" updated="2010-04-19T03:19:13-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Food Security Act of 1985 to exempt the triple base acreage of the producers on a farm from the highly erodible land and wetland conservation requirements of such Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="300083"/>
+	<cosponsors>
+		<cosponsor id="300003" joined="1993-04-01"/>
+		<cosponsor id="410084" joined="1993-04-01"/>
+		<cosponsor id="400568" joined="1993-04-01"/>
+		<cosponsor id="403864" joined="1993-04-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01"><text>Sponsor introductory remarks on measure. (CR H1817)</text></action>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-04-05"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Environment, Credit and Rural Development.</text></action>
+		<action datetime="1993-04-05"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Environment, Credit and Rural Development" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="610" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural price supports"/>
+		<term name="Environmental protection"/>
+		<term name="Soil conservation"/>
+		<term name="Wetland conservation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Amends the Food Security Act of 1985 to exempt triple base acreage from certain highly erodible and wetland conservation requirements.
+
+	</summary>
+</bill>

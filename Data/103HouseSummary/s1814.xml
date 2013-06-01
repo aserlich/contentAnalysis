@@ -1,0 +1,66 @@
+<bill session="103" type="s" number="1814" updated="2012-07-17T06:08:29-04:00">
+	<state datetime="1994-03-24">REPORTED</state>
+	<status><calendar datetime="1994-03-24" /></status>
+
+	<introduced datetime="1994-02-01"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide that a taxpayer may elect to include in income crop insurance proceeds and disaster payments in the year of the disaster or in the following year.</title>
+	</titles>
+	<sponsor id="300031"/>
+	<cosponsors>
+		<cosponsor id="300037" joined="1994-02-01"/>
+		<cosponsor id="300061" joined="1994-02-01"/>
+		<cosponsor id="403515" joined="1994-02-01"/>
+		<cosponsor id="300051" joined="1994-02-01"/>
+		<cosponsor id="403669" joined="1994-02-01"/>
+		<cosponsor id="408898" joined="1994-02-09"/>
+		<cosponsor id="300012" joined="1994-02-01"/>
+		<cosponsor id="402004" joined="1994-03-17"/>
+		<cosponsor id="300048" joined="1994-02-01"/>
+		<cosponsor id="403962" joined="1994-02-07"/>
+		<cosponsor id="406188" joined="1994-02-07"/>
+		<cosponsor id="401604" joined="1994-02-01"/>
+		<cosponsor id="300069" joined="1994-03-25"/>
+		<cosponsor id="400566" joined="1994-02-01"/>
+		<cosponsor id="300026" joined="1994-02-01"/>
+		<cosponsor id="300065" joined="1994-02-03"/>
+		<cosponsor id="300042" joined="1994-02-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-01" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S528)</text></action>
+		<action datetime="1994-02-01" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+		<calendar datetime="1994-03-24"  state="REPORTED"><committee name="Committee on Finance"/><text>Committee on Finance. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1994-04-05"><text>Committee on Finance. Reported to Senate by Senator Moynihan under the authority of the order of Mar 22, 94 with amendments and an amendment to the title. With written report No. 103-244.</text></action>
+		<calendar under="General Orders" number="398" datetime="1994-04-05" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 398.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3757" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Accounting"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural insurance"/>
+		<term name="Agriculture and food"/>
+		<term name="Automobiles"/>
+		<term name="Disaster relief"/>
+		<term name="Economics and public finance"/>
+		<term name="Emergency management"/>
+		<term name="Excise tax"/>
+		<term name="Finance and financial sector"/>
+		<term name="Indexing (Economic policy)"/>
+		<term name="Inflation"/>
+		<term name="Taxation"/>
+		<term name="Transportation and public works"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/5/1994--Reported to Senate amended. Amends the Internal Revenue Code to allow a taxpayer to elect to include in income crop insurance proceeds and disaster payments in the year of destruction or in the following year. Revises the method of determining the inflation adjustment applicable to the luxury automobile excise tax.
+
+	</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="103" type="hc" number="208" updated="2010-04-18T21:33:26-04:00">
+	<state datetime="1994-02-23">REFERRED</state>
+	<status><introduced datetime="1994-02-23"/></status>
+
+	<introduced datetime="1994-02-23"/>
+	<titles>
+		<title type="official" as="introduced">Declaring the sense of Congress regarding periods of silence in the public schools.</title>
+	</titles>
+	<sponsor id="405939"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-23"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1994-02-23"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-03-01"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+		<action datetime="1994-03-09"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Religion"/>
+		<term name="Civil liberties"/>
+		<term name="Constitution"/>
+		<term name="Constitutional law"/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Meditation"/>
+		<term name="Prayer in the public schools"/>
+		<term name="Religious liberty"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1994--Introduced.
+Expresses the sense of the Congress that: (1) the Constitution does not preclude a short period of silence to be used, solely at the discretion of the individual student in public schools, for silent prayer, meditation, contemplation, or introspection; and (2) public school authorities should recognize the value of such a short period.
+
+	</summary>
+</bill>

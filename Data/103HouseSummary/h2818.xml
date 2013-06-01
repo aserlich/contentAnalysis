@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="2818" updated="2010-04-19T06:30:38-04:00">
+	<state datetime="1993-07-30">REFERRED</state>
+	<status><introduced datetime="1993-07-30"/></status>
+
+	<introduced datetime="1993-07-30"/>
+	<titles>
+		<title type="official" as="introduced">To increase the fee for the enforcement of the Tea Importation Act.</title>
+	</titles>
+	<sponsor id="410589"/>
+	<cosponsors>
+		<cosponsor id="300038" joined="1993-07-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-30"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-02"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Food"/>
+		<term name="Administrative fees"/>
+		<term name="Customs administration"/>
+		<term name="Fees"/>
+		<term name="Food adulteration and inspection"/>
+		<term name="Foreign trade"/>
+		<term name="Imports"/>
+		<term name="Tea"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/30/1993--Introduced.
+Amends the Tea Importation Act to prohibit the examination of tea for importation into the United States, or its release by the Collector of Customs, unless the importer or consignee has paid a fee of ten cents for each hundred weight or fraction thereof of such tea.
+
+	</summary>
+</bill>

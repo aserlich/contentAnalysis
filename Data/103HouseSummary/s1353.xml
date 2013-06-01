@@ -1,0 +1,40 @@
+<bill session="103" type="s" number="1353" updated="2012-07-17T05:37:30-04:00">
+	<state datetime="1993-08-04">REFERRED</state>
+	<status><introduced datetime="1993-08-04"/></status>
+
+	<introduced datetime="1993-08-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title 23, United States Code, to permit the use of funds under the highway bridge replacement and rehabilitation program for seismic retrofit of bridges, and for other purposes.</title>
+	</titles>
+	<sponsor id="300011"/>
+	<cosponsors>
+		<cosponsor id="300043" joined="1993-08-04"/>
+		<cosponsor id="405212" joined="1993-10-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S10381)</text></action>
+		<action datetime="1993-08-04" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Roads and highways"/>
+		<term name="Bridges"/>
+		<term name="Earthquakes"/>
+		<term name="Federal aid highway program"/>
+		<term name="Highway engineering"/>
+		<term name="Seismology"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/4/1993--Introduced.
+Amends Federal highway law to authorize States to carry out projects for seismic retrofit of bridges without regard to whether such bridges are eligible for replacement or rehabilitation under the highway bridge replacement and rehabilitation program.
+
+	</summary>
+</bill>

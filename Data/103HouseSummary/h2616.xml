@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="2616" updated="2010-04-19T05:59:25-04:00">
+	<state datetime="1993-07-01">REFERRED</state>
+	<status><introduced datetime="1993-07-01"/></status>
+
+	<introduced datetime="1993-07-01"/>
+	<titles>
+		<title type="official" as="introduced">Regarding the payment of interest with respect to certain reliquidated entries.</title>
+	</titles>
+	<sponsor id="400611"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-01"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-07-08"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Interest"/>
+		<term name="Tariff"/>
+		<term name="Tin"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/1/1993--Introduced.
+Directs the Secretary of the Treasury to pay interest, using a specified formula, on the aggregate amount of the duties that were paid with respect to entries of certain tubular tin products reliquidated on November 14, 1988, under the Omnibus Trade and Competitiveness Act of 1988.
+
+	</summary>
+</bill>

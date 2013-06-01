@@ -1,0 +1,52 @@
+<bill session="103" type="hj" number="201" updated="2010-04-18T22:22:57-04:00">
+	<state datetime="1993-05-20">REFERRED</state>
+	<status><introduced datetime="1993-05-20"/></status>
+
+	<introduced datetime="1993-05-20"/>
+	<titles>
+		<title type="official" as="introduced">Designating the beach at 53 degrees 53 minutes 51 seconds north, 166 degrees 34 minutes 15 seconds west to 53 degrees 53 minutes 48 seconds north, 166 degrees 34 minutes 21 seconds west on Hog Island, which lies in the Northeast Bay of Unalaska, Alaska as 'Arkansas Beach' in commemoration of the 206th regiment of the National Guard, who served during the Japanese attack on Dutch Harbor, Unalaska on June 3 and 4, 1942.</title>
+	</titles>
+	<sponsor id="410821"/>
+	<cosponsors>
+		<cosponsor id="400579" joined="1993-05-20"/>
+		<cosponsor id="300068" joined="1993-05-20"/>
+		<cosponsor id="300151" joined="1993-05-20"/>
+		<cosponsor id="400440" joined="1993-05-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-20"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-06-15"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+		<action datetime="1993-10-13"><committee name="House Committee on Natural Resources"/><text>See S.J.Res.78.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Oversight and Investigations" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="sj" number="78" />
+		<bill relation="unknown" session="103" type="sj" number="78" />
+		<bill relation="unknown" session="103" type="sj" number="78" />
+	</relatedbills>
+	<subjects>
+		<term name="Historic sites"/>
+		<term name="Alaska"/>
+		<term name="Arkansas"/>
+		<term name="Artillery"/>
+		<term name="Beaches"/>
+		<term name="Commemorations"/>
+		<term name="Harbors"/>
+		<term name="Islands"/>
+		<term name="Monuments and memorials"/>
+		<term name="Names"/>
+		<term name="National Guard"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/1993--Introduced.
+Names the beach on Hog Island, Unalaska, Alaska, the Arkansas Beach in commemoration of the 206th Coast Artillery Regiment and the men who served and died during the air attacks on Dutch Harbor, Unalaska, on June 3 and 4, 1942.
+
+	</summary>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="103" type="s" number="88" updated="2012-07-17T05:29:10-04:00">
+	<state datetime="1994-06-22">REPORTED</state>
+	<status><calendar datetime="1994-06-22" /></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the National School Lunch Act to remove the requirement that schools participating in the school lunch program offer students specific types of fluid milk, and for other purposes.</title>
+	</titles>
+	<sponsor id="300070"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="1994-03-07"/>
+		<cosponsor id="300071" joined="1993-01-21"/>
+		<cosponsor id="402412" joined="1993-03-22"/>
+		<cosponsor id="300059" joined="1993-01-21"/>
+		<cosponsor id="402675" joined="1993-02-02"/>
+		<cosponsor id="400557" joined="1994-04-11"/>
+		<cosponsor id="400562" joined="1994-03-02"/>
+		<cosponsor id="300023" joined="1993-01-21"/>
+		<cosponsor id="400565" joined="1993-01-21"/>
+		<cosponsor id="300015" joined="1993-03-03"/>
+		<cosponsor id="400559" joined="1993-02-24"/>
+		<cosponsor id="300007" joined="1993-02-02"/>
+		<cosponsor id="403515" joined="1993-01-21"/>
+		<cosponsor id="409917" joined="1993-01-21"/>
+		<cosponsor id="407663" joined="1993-03-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S520-521)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-03-15"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Nutrition and Investigations.</text></action>
+		<calendar datetime="1994-06-22"  state="REPORTED"><committee name="Committee on Agriculture"/><text>Committee on Agriculture. Provisions of measure incorporated into measure S. 1614 ordered to be reported.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Nutrition and Investigations" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="280" />
+		<bill relation="unknown" session="103" type="s" number="1614" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Education"/>
+		<term name="Milk"/>
+		<term name="School lunch program"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Amends the National School Lunch Act to remove the requirement that schools participating in the school lunch program offer students specified types of fluid milk (while retaining the requirement that they offer fluid milk).
+
+	</summary>
+</bill>

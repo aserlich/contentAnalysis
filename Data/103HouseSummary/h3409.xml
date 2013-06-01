@@ -1,0 +1,57 @@
+<bill session="103" type="h" number="3409" updated="2010-04-19T08:02:12-04:00">
+	<state datetime="1993-10-28">REFERRED</state>
+	<status><introduced datetime="1993-10-28"/></status>
+
+	<introduced datetime="1993-10-28"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Social Security Act to exclude the Unemployment Trust Fund from the budget of the United States Government.</title>
+	</titles>
+	<sponsor id="406920"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-10-28"/>
+		<cosponsor id="406466" joined="1994-02-03"/>
+		<cosponsor id="400333" joined="1994-03-23"/>
+		<cosponsor id="400331" joined="1994-02-03"/>
+		<cosponsor id="404097" joined="1994-03-23"/>
+		<cosponsor id="400178" joined="1994-03-23"/>
+		<cosponsor id="401134" joined="1993-10-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-28"><text>Sponsor introductory remarks on measure. (CR E2719)</text></action>
+		<action datetime="1993-10-28"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-10-28"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-10-28"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-11-02"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-11-03"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Unemployment insurance"/>
+		<term name="Budget deficits"/>
+		<term name="Budgets"/>
+		<term name="Congressional budget"/>
+		<term name="Federal budgets"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Government spending reductions"/>
+		<term name="Government trust funds"/>
+		<term name="Labor"/>
+		<term name="Off-budget expenditures"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/28/1993--Introduced.
+Amends the Social Security Act, the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act), and the Congressional Budget Act of 1974 to provide for excluding the Unemployment Trust Fund from Federal budget calculations.
+
+	</summary>
+</bill>

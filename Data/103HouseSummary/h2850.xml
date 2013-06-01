@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="2850" updated="2010-04-19T06:35:37-04:00">
+	<state datetime="1993-08-03">REFERRED</state>
+	<status><introduced datetime="1993-08-03"/></status>
+
+	<introduced datetime="1993-08-03"/>
+	<titles>
+		<title type="short" as="introduced">High Medicare Hospital Relief Act of 1993</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide an additional payment under part A of the medicare program for the operating costs of inpatient hospital services of hospitals with a high proportion of patients who are medicare beneficiaries.</title>
+	</titles>
+	<sponsor id="400380"/>
+	<cosponsors>
+		<cosponsor id="400359" joined="1993-08-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-03"><text>Sponsor introductory remarks on measure. (CR E1957)</text></action>
+		<action datetime="1993-08-03"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-09"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Hospital care"/>
+		<term name="Hospitals"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Rural hospitals"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/3/1993--Introduced.
+High Medicare Hospital Relief Act of 1993 - Amends title XVIII (Medicare) of the Social Security Act to provide, for FY 1994 and 1995, an additional Medicare payment to a hospital when at least 65 percent of its inpatient days or discharges are attributable to Medicare beneficiaries.
+
+	</summary>
+</bill>

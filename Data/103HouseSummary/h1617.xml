@@ -1,0 +1,85 @@
+<bill session="103" type="h" number="1617" updated="2012-07-17T05:54:53-04:00">
+	<state datetime="1994-04-18T12:19:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-04-18T12:19:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the establishment on the grounds of the Edward Hines, Jr., Department of Veterans Affairs Hospital, Hines, Illinois, of a facility to provide temporary accommodations for family members of severely ill children being treated at a nearby university medical center.</title>
+	</titles>
+	<sponsor id="402763"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1994-04-13"/>
+		<cosponsor id="400048" joined="1994-04-13"/>
+		<cosponsor id="400329" joined="1994-04-13"/>
+		<cosponsor id="407838" joined="1994-04-13"/>
+		<cosponsor id="400350" joined="1993-07-27"/>
+		<cosponsor id="409154" joined="1993-07-21"/>
+		<cosponsor id="400504" joined="1994-04-13"/>
+		<cosponsor id="400169" joined="1993-09-09"/>
+		<cosponsor id="400085" joined="1993-09-09"/>
+		<cosponsor id="409219" joined="1994-04-13"/>
+		<cosponsor id="400192" joined="1993-09-09"/>
+		<cosponsor id="411947" joined="1993-07-21"/>
+		<cosponsor id="408839" joined="1993-09-09"/>
+		<cosponsor id="300151" joined="1994-04-13"/>
+		<cosponsor id="405313" joined="1994-04-13"/>
+		<cosponsor id="400604" joined="1993-09-09"/>
+		<cosponsor id="409570" joined="1993-07-27"/>
+		<cosponsor id="300038" joined="1993-07-21"/>
+		<cosponsor id="400581" joined="1993-09-09"/>
+		<cosponsor id="404009" joined="1993-07-21"/>
+		<cosponsor id="407676" joined="1993-09-09"/>
+		<cosponsor id="400242" joined="1994-04-13"/>
+		<cosponsor id="400127" joined="1994-04-13"/>
+		<cosponsor id="408556" joined="1994-04-13"/>
+		<cosponsor id="408476" joined="1994-04-13"/>
+		<cosponsor id="400126" joined="1993-09-09"/>
+		<cosponsor id="400028" joined="1994-04-13"/>
+		<cosponsor id="400252" joined="1993-07-27"/>
+		<cosponsor id="400389" joined="1994-04-13"/>
+		<cosponsor id="400163" joined="1993-09-09"/>
+		<cosponsor id="400243" joined="1993-07-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01" state="REFERRED"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-04-16"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Hospitals and Health Care.</text></action>
+		<action datetime="1994-03-16"><committee name="House Committee on Veterans' Affairs" subcommittee="Hospitals and Health Care"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-03-16"><committee name="House Committee on Veterans' Affairs" subcommittee="Hospitals and Health Care"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1994-03-23"><committee name="House Committee on Veterans' Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-03-23"  state="REPORTED"><committee name="House Committee on Veterans' Affairs"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-04-14T11:57:00-04:00"><text>Reported by the Committee on Veterans' Affairs. H. Rept. 103-476.</text></action>
+		<calendar number="267" datetime="1994-04-14T11:59:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 267.</text></calendar>
+		<action datetime="1994-04-18T12:10:00-04:00"><text>Mr. Montgomery moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-04-18T12:11:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2374-2375"/></action>
+		<action datetime="1994-04-18T12:11:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-04-18T12:19:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1994-04-18T12:19:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-04-19"><text>Received in the Senate and read twice and referred to the Committee on Veterans.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="HSVR-03" name="House Veterans' Affairs" subcommittee="Hospitals and Health Care" activity="Referral, Markup, Reporting" />
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Child health"/>
+		<term name="Families"/>
+		<term name="Hospital care"/>
+		<term name="Illinois"/>
+		<term name="Medical centers"/>
+		<term name="Nonprofit organizations"/>
+		<term name="Veterans' hospitals"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Authorizes the Secretary of Veterans Affairs to enter into an agreement to permit the Caring Place at Loyola, Inc., an Illinois nonprofit organization, to establish on the grounds of the Edward Hines, Jr., Department of Veterans Affairs Hospital in Hines, Illinois, a facility for providing temporary accommodations for family members of severely ill children being treated at the Loyola University of Chicago Medical Center and other hospitals.
+
+	</summary>
+</bill>

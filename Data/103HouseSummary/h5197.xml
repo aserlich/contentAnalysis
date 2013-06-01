@@ -1,0 +1,38 @@
+<bill session="103" type="h" number="5197" updated="2010-04-19T12:41:16-04:00">
+	<state datetime="1994-10-05">REFERRED</state>
+	<status><introduced datetime="1994-10-05"/></status>
+
+	<introduced datetime="1994-10-05"/>
+	<titles>
+		<title type="official" as="introduced">To suspend temporarily the duty on nickel isoindoline pigment.</title>
+	</titles>
+	<sponsor id="400397"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-10-17"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2317" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Dyes and dyeing"/>
+		<term name="Tariff"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/5/1994--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1997, the duty on nickel isoindoline pigment.
+
+	</summary>
+</bill>

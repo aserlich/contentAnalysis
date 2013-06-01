@@ -1,0 +1,42 @@
+<bill session="103" type="s" number="60" updated="2012-07-17T04:47:26-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="short" as="introduced">Civil Rights of Infants Act</title>
+		<title type="official" as="introduced">A bill to make it a violation of a right secured by the Constitution and laws of the United States to perform an abortion with knowledge that such abortion is being performed solely because of the gender of the fetus, and for other purposes.</title>
+	</titles>
+	<sponsor id="300154"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-02-04"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Constitution.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Constitution" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="40" />
+	</relatedbills>
+	<subjects>
+		<term name="Abortion"/>
+		<term name="Actions and defenses"/>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Fetus"/>
+		<term name="Health"/>
+		<term name="Medical personnel"/>
+		<term name="Sex discrimination"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Civil Rights of Infants Act - Amends Federal law to declare it a deprivation of a right secured by U.S. laws for an individual to perform an abortion, knowing it is sought solely because of the gender of the fetus. Makes a woman seeking such an abortion not liable under these provisions.
+
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="103" type="hr" number="417" updated="2010-04-19T14:03:53-04:00">
+	<state datetime="1994-05-05T18:25:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-05-05T18:25:00-04:00" where="h" result="pass" how="roll" roll="157"/></status>
+
+	<introduced datetime="1994-05-04"/>
+	<titles>
+		<title type="official" as="introduced">Waiving points of order against the conference report to accompany the bill (S. 636) to amend the Public Health Service Act to permit individuals to have freedom of access to certain medical clinics and facilities, and for other purposes.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-04T19:22:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-493, by Ms. Slaughter.</text></action>
+		<action datetime="1994-05-04T19:22:00-04:00"><text>Rule provides for consideration of the conference report to S. 636. Waiving all points of order against the conference report and against its consideration. The conference report shall be considered read when called up.</text></action>
+		<calendar datetime="1994-05-04T19:22:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 152.</text></calendar>
+		<action datetime="1994-05-05T17:02:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H3116-3123"/></action>
+		<action datetime="1994-05-05T17:02:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1994-05-05T18:04:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="roll" type="vote" roll="157" datetime="1994-05-05T18:25:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 236 - 181 (Roll no. 157).</text></vote>
+		<action datetime="1994-05-05T18:25:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="636" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congress"/>
+		<term name="House rules and procedure"/>
+		<term name="Medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/4/1994--Introduced.
+Waives points of order against the consideration of the conference report on S. 636 (Freedom of Access to Clinic Entrances Act of 1993).
+
+	</summary>
+</bill>

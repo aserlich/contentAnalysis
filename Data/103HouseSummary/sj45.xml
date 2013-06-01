@@ -1,0 +1,125 @@
+<bill session="103" type="sj" number="45" updated="2010-04-19T21:30:25-04:00">
+	<state datetime="1993-05-25T18:12:00-04:00">PASSED:BILL</state>
+	<status><vote2 datetime="1993-05-25T18:12:00-04:00" where="h" result="pass" how="roll" roll="183"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Authorization for Use of United States Armed Forces in Somalia</title>
+		<title type="short" as="passed house">Resolution Authorizing the Use of United States Armed Forces in Somalia</title>
+		<title type="official" as="introduced">A joint resolution authorizing the use of United States Armed Forces in Somalia.</title>
+	</titles>
+	<sponsor id="407786"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="1993-02-04"/>
+		<cosponsor id="409917" joined="1993-02-04"/>
+		<cosponsor id="300065" joined="1993-02-04"/>
+		<cosponsor id="407254" joined="1993-02-04"/>
+		<cosponsor id="300070" joined="1993-02-04"/>
+		<cosponsor id="400559" joined="1993-02-04"/>
+		<cosponsor id="408597" joined="1993-02-04"/>
+		<cosponsor id="300071" joined="1993-02-04"/>
+		<cosponsor id="300060" joined="1993-02-04"/>
+		<cosponsor id="408252" joined="1993-02-04"/>
+		<cosponsor id="300086" joined="1993-02-04"/>
+		<cosponsor id="300073" joined="1993-02-04"/>
+		<cosponsor id="403346" joined="1993-02-04"/>
+		<cosponsor id="300037" joined="1993-02-04"/>
+		<cosponsor id="404219" joined="1993-02-04"/>
+		<cosponsor id="402004" joined="1993-02-04"/>
+		<cosponsor id="300017" joined="1993-02-04"/>
+		<cosponsor id="402727" joined="1993-02-04"/>
+		<cosponsor id="400564" joined="1993-02-04"/>
+		<cosponsor id="403515" joined="1993-02-04"/>
+		<cosponsor id="300150" joined="1993-02-04"/>
+		<cosponsor id="406084" joined="1993-02-04"/>
+		<cosponsor id="409923" joined="1993-02-04"/>
+		<cosponsor id="403142" joined="1993-02-04"/>
+		<cosponsor id="404598" joined="1993-02-04"/>
+		<cosponsor id="400566" joined="1993-02-04"/>
+		<cosponsor id="407992" joined="1993-02-04"/>
+		<cosponsor id="300154" joined="1993-02-04"/>
+		<cosponsor id="300031" joined="1993-02-04"/>
+		<cosponsor id="403669" joined="1993-02-04"/>
+		<cosponsor id="300099" joined="1993-02-04"/>
+		<cosponsor id="406188" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-02-04" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Voice Vote.</text><reference label="consideration" ref="CR S1363-1368"/></vote>
+		<action datetime="1993-02-16T12:04:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-02-16"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-02-16"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-03-09"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Africa.</text></action>
+		<action datetime="1993-03-09"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Security, International Organizations and Human Rights.</text></action>
+		<action datetime="1993-04-22"><committee name="House Committee on Foreign Affairs" subcommittee="Africa"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-04-22"><committee name="House Committee on Foreign Affairs" subcommittee="Africa"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Foreign Affairs" subcommittee="International Security, International Organizations and Human Rights"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Foreign Affairs" subcommittee="International Security, International Organizations and Human Rights"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-05-05"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-05-05" ><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 18.</text></calendar>
+		<action datetime="1993-05-11T16:00:00-04:00"><text>Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 103-89.</text></action>
+		<calendar number="44" datetime="1993-05-11T16:48:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 44.</text></calendar>
+		<action datetime="1993-05-18T14:26:00-04:00"><text>Rules Committee Resolution H. Res. 173 Reported to House. Rule provides for consideration of S.J. Res. 45 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. It shall be in order to consider as an original text for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Foreign Affairs now printed in the joint resolution. Measure will be considered read. Specified amendments are in order.</text></action>
+		<action datetime="1993-05-20T11:15:00-04:00"><text>Rule H. Res. 173 passed House.</text></action>
+		<action datetime="1993-05-20T11:16:00-04:00"><text>Considered under the provisions of rule H. Res. 173.</text><reference label="consideration" ref="CR H2611-2618, H2620"/></action>
+		<action datetime="1993-05-20T11:16:00-04:00"><text>Rule provides for consideration of S.J. Res. 45 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. It shall be in order to consider as an original text for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Foreign Affairs now printed in the joint resolution. Measure will be considered read. Specified amendments are in order.</text></action>
+		<action datetime="1993-05-20T11:16:00-04:00"><text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 173 and Rule XXIII.</text></action>
+		<action datetime="1993-05-20T11:16:00-04:00"><text>The Speaker designated the Honorable George (Buddy) Darden to act as Chairman of the Committee.</text></action>
+		<action datetime="1993-05-20T11:17:00-04:00"><text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate.</text></action>
+		<action datetime="1993-05-20T12:29:00-04:00"><text>Committee of the Whole House on the state of the Union rises leaving S.J. Res. 45 as unfinished business.</text></action>
+		<action datetime="1993-05-25T14:23:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2744-2765"/></action>
+		<action datetime="1993-05-25T14:24:00-04:00"><text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text></action>
+		<action datetime="1993-05-25T14:28:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 173, the Committee of the Whole proceeded with thirty minutes of debate on the Hamilton amendment.</text></action>
+		<action datetime="1993-05-25T14:32:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 173, the Committee of the Whole proceeded with sixty minutes of debate on the Gilman amendment in the nature of a substitute.</text></action>
+		<action datetime="1993-05-25T16:04:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 173, the Committee of the Whole proceeded with thirty minutes of debate on the Roth amendment.</text></action>
+		<action datetime="1993-05-25T17:05:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 173, the committee of the Whole proceeded with thirty minutes of debate on the solomon amendemnt.</text></action>
+		<action datetime="1993-05-25T17:33:00-04:00"><text>The House rose from the Committee of the Whole House on the state of the Union to report S.J. Res. 45.</text></action>
+		<action datetime="1993-05-25T17:33:00-04:00"><text>The previous question was ordered pursuant to the rule.</text></action>
+		<action datetime="1993-05-25T17:54:00-04:00"><text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text></action>
+		<vote how="roll" type="vote2" roll="183" datetime="1993-05-25T18:12:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed by recorded vote: 243 - 179 (Roll no. 183).</text></vote>
+		<action datetime="1993-05-25T18:12:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-05-25T18:12:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-05-26"><text>Message on House action received in Senate and at desk: House amendments to Senate bill.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Africa" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Security, International Organizations, and Human Rights" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="103" type="hr" number="173" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Armed forces abroad"/>
+		<term name="Commemorations"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Congressional tributes"/>
+		<term name="Congressional-Presidential relations"/>
+		<term name="Cost of war"/>
+		<term name="Costs"/>
+		<term name="Defense burdensharing"/>
+		<term name="Democracy"/>
+		<term name="Food relief"/>
+		<term name="International military forces"/>
+		<term name="International relief"/>
+		<term name="Military intervention"/>
+		<term name="Somalia"/>
+		<term name="United Nations"/>
+		<term name="United Nations finances"/>
+		<term name="War and emergency powers"/>
+		<term name="War relief"/>
+	</subjects>
+	<amendments>
+		<amendment number="h65"/>
+		<amendment number="h66"/>
+		<amendment number="h67"/>
+		<amendment number="h68"/>
+		<amendment number="h69"/>
+		<amendment number="h70"/>
+	</amendments>
+	<summary>
+	5/25/1993--Passed House amended. Resolution Authorizing the Use of United States Armed Forces in Somalia - Expresses support for United Nations (UN) efforts in Somalia. Commends the armed forces for successfully establishing a secure environment for the humanitarian relief operations in Somalia. Authorizes the President to use the armed forces to implement UN Security Council Resolutions 794 (which authorizes the use of all necessary means to establish a secure environment for humanitarian relief operations in Somalia) and 814 (which provides for the establishment of the UN-led force there). Declares that this Act is intended to constitute specific statutory authorization for the use of U.S. troops under the War Powers Resolution. Terminates such authorization at the earlier of: (1) the end of 12 months after enactment of this Act unless extended by the Congress; or (2) expiration of the mandate of the UN-led force in Somalia. Directs the President to report to the Congress regarding: (1) armed forces participation in and support for the UN-led force in Somalia; (2) transition to a UN-led force; (3) any agreements with the UN regarding use of the armed forces in Somalia; and (4) costs of UN-authorized operations in that country. Expresses the sense of the Congress that the President should seek to ensure that incremental costs incurred by the United States in connection with the United States- and UN-led forces in Somalia are reimbursed to the maximum extent possible by the UN and other members of the international community.
+
+	</summary>
+</bill>

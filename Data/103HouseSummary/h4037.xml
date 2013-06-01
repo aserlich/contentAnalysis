@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="4037" updated="2010-04-19T09:40:13-04:00">
+	<state datetime="1994-03-15">REFERRED</state>
+	<status><introduced datetime="1994-03-15"/></status>
+
+	<introduced datetime="1994-03-15"/>
+	<titles>
+		<title type="short" as="introduced">National Highway System Designation Act of 1994</title>
+		<title type="official" as="introduced">To amend title 23, United States Code, to provide for designation of the National Highway System, and for other purposes.</title>
+	</titles>
+	<sponsor id="400331"/>
+	<cosponsors>
+		<cosponsor id="407772" joined="1994-03-15"/>
+		<cosponsor id="400374" joined="1994-03-15"/>
+		<cosponsor id="400318" joined="1994-03-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-15"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-03-28"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+		<action datetime="1994-05-11"><committee name="House Committee on Public Works + Transportation"/><text>See H.R.4385.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4385" />
+	</relatedbills>
+	<subjects>
+		<term name="Roads and highways"/>
+		<term name="Highway planning"/>
+		<term name="Intermodal transportation"/>
+		<term name="State and local government"/>
+		<term name="Transportation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/15/1994--Introduced.
+National Highway System Designation Act of 1994 - Designates the National Highway System (HNS), as submitted by the Secretary of Transportation, within the United States, the District of Columbia, and the Commonwealth of Puerto Rico. Authorizes the Secretary, at the request of a State, to add new NHS segments (including intermodal connections) and to delete existing route segments and connections if the total NHS miles do not exceed 165,000 miles. Requires: (1) the State to establish that the requested route changes have been indentified cooperatively with local officials through the metropolitan and statewide transportation planning processes; and (2) the Secretary to determine that the requested changes meet criteria established for, and enhance the national transportation characteristics of, the NHS.
+
+	</summary>
+</bill>

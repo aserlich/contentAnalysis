@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="933" updated="2010-04-19T01:31:53-04:00">
+	<state datetime="1993-02-17">REFERRED</state>
+	<status><introduced datetime="1993-02-17"/></status>
+
+	<introduced datetime="1993-02-17"/>
+	<titles>
+		<title type="official" as="introduced">To implement for the United States the United Nations Convention Against Torture and Other Cruel Inhumane or Degrading Treatment or Punishment.</title>
+	</titles>
+	<sponsor id="407306"/>
+	<cosponsors>
+		<cosponsor id="400231" joined="1993-02-17"/>
+		<cosponsor id="401947" joined="1993-05-17"/>
+		<cosponsor id="400536" joined="1993-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-17"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-04"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1993-05-19"><committee name="House Committee on Judiciary" subcommittee="International Law, Immigration, and Refugees"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-05-19"><committee name="House Committee on Judiciary" subcommittee="International Law, Immigration, and Refugees"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1994-04-21"><committee name="House Committee on Judiciary"/><text>See H.R.4092.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4092" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Aliens"/>
+		<term name="Capital punishment"/>
+		<term name="Federal preemption"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Jurisdiction"/>
+		<term name="Torture"/>
+		<term name="Treaties"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/17/1993--Introduced.
+Amends the Federal criminal code to establish penalties for committing or attempting to commit torture outside the United States. Grants jurisdiction over such activity if the alleged offender is: (1) a U.S. national; or (2) present in the United States. Makes this Act effective on the latter of the date of enactment of this Act or the date the United States has become a party to the Convention Against Torture and Other Cruel, Inhumane or Degrading Treatment or Punishment.
+
+	</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="550" updated="2010-04-19T00:27:42-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">To amend section 207 of title 18, United States Code, to prohibit Members of Congress after leaving office from representing foreign governments before the United States Government.</title>
+	</titles>
+	<sponsor id="400414"/>
+	<cosponsors>
+		<cosponsor id="400183" joined="1993-05-20"/>
+		<cosponsor id="300085" joined="1993-03-25"/>
+		<cosponsor id="400611" joined="1993-05-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Ex-Members of Congress"/>
+		<term name="Foreign agents"/>
+		<term name="Foreign relations"/>
+		<term name="Lobbying"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Amends the Federal criminal code to prohibit a Member of Congress, after leaving office, from representing a foreign government before any officer or employee of a U.S. department or agency, or aiding or advising such government, with the intent to influence a decision of such officer or employee in carrying out official duties.
+
+	</summary>
+</bill>

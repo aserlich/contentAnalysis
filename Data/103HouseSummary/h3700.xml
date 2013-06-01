@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="3700" updated="2010-04-19T08:47:30-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="short" as="introduced">Child Support Fairness Act of 1993</title>
+		<title type="official" as="introduced">To provide for enforcement of State court judgments against federally forfeited assets of individuals who are delinquent in payment of child support.</title>
+	</titles>
+	<sponsor id="400390"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Sponsor introductory remarks on measure. (CR E3019-3020)</text></action>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-12-03"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+		<action datetime="1994-01-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1994-01-28"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1747" />
+	</relatedbills>
+	<subjects>
+		<term name="Courts"/>
+		<term name="Budgets"/>
+		<term name="Child support"/>
+		<term name="Children"/>
+		<term name="Collection of accounts"/>
+		<term name="Criminal justice"/>
+		<term name="Forfeiture"/>
+		<term name="Government paperwork"/>
+		<term name="Government trust funds"/>
+		<term name="Law"/>
+		<term name="Searches and seizures"/>
+		<term name="State courts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Child Support Fairness Act of 1993 - Provides that assets forfeited as a result of violation of Federal law shall be subject to valid State court judgments for the payment of delinquent child support. Directs the Secretary of the Treasury or the Attorney General to notify the Child Support Enforcement Division of the Department of Health and Human Sevices (HHS) of the names of any individuals whose assets are seized. Directs the HHS Secretary to then notify the appropriate State agency of the name of any such individual who is delinquent in child support and inform such agency of the seizure. Requires the State agency to then notify the appropriate party to whom such child support is owed. Allows such party to petition the Secretary of the Treasury for arrears payment from seized funds within 30 days from the date of notification. Establishes a trust fund for the making of such payments and related expenses.
+
+	</summary>
+</bill>

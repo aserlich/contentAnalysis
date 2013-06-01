@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="1430" updated="2010-04-19T02:54:21-04:00">
+	<state datetime="1993-04-06">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-04-06" /></status>
+
+	<introduced datetime="1993-03-23"/>
+	<titles>
+		<title type="official" as="introduced">To provide for a temporary increase in the public debt limit.</title>
+	</titles>
+	<sponsor id="409422"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-23"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-24"><committee name="House Committee on Ways and Means"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-03-24"  state="REPORTED"><committee name="House Committee on Ways and Means"/><text>Ordered to be Reported by the Yeas and Nays: 23 - 14.</text></calendar>
+		<action datetime="1993-03-24"><text>Sponsor introductory remarks on measure. (CR E760)</text></action>
+		<action datetime="1993-03-29T17:02:00-05:00"><text>Reported by the Committee on Ways and Means. H. Rept. 103-43.</text></action>
+		<calendar number="19" datetime="1993-03-29T17:03:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 19.</text></calendar>
+		<action datetime="1993-03-31"><text>Sponsor introductory remarks on measure. (CR E841)</text></action>
+		<action datetime="1993-03-31T19:38:00-05:00"><text>Rules Committee Resolution H. Res. 147 Reported to House. Rule provides for consideration of H.R. 1430 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. The bill shall be considered in the House and all points of order against the bill and against its consideration are waived. Measure will be considered read. Bill is closed to amendments. Upon passage by the House, H.R. 1430 shall be considered to constitute reconciliation legislation pursuant to section 7(a) of the conference report to accompany the concurrent resolution (H. Con. Res. 64) setting forth the congressional budget for the United States Government for the fiscal years 1994, 1995, 1996, 1997, and 1998.</text></action>
+		<action datetime="1993-04-01T22:32:00-05:00"><text>Rule H. Res. 147 passed House.</text></action>
+		<action datetime="1993-04-01T22:35:00-05:00"><text>Considered under the provisions of rule H. Res. 147.</text><reference label="consideration" ref="CR H1840-1847"/></action>
+		<action datetime="1993-04-01T22:36:00-05:00"><text>Rule provides for consideration of H.R. 1430 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. The bill shall be considered in the House and all points of order against the bill and against its consideration are waived. Measure will be considered read. Bill is closed to amendments. Upon passage by the House, H.R. 1430 shall be considered to constitute reconciliation legislation pursuant to section 7(a) of the conference report to accompany the concurrent resolution (H. Con. Res. 64) setting forth the congressional budget for the United States Government for the fiscal years 1994, 1995, 1996, 1997, and 1998.</text></action>
+		<action datetime="1993-04-01T22:36:00-05:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-04-01T23:36:00-05:00"><text>The previous question was ordered pursuant to the rule.</text></action>
+		<action datetime="1993-04-01T23:36:00-05:00"><text>Mr. Gingrich moved to recommit with instructions to Ways and Means.</text></action>
+		<action datetime="1993-04-01T23:36:00-05:00"><text>DEBATE - The House proceeded with ten minutes of debate on the Gingrich motion to recommit the bill to the Committee on Ways and Means with instructions that the committee report the bill back with an amendment to reduce the increase in the debt limit by $14 billion.</text></action>
+		<action datetime="1993-04-02T00:01:00-05:00"><text>On motion to recommit with instructions Failed by recorded vote: 168 - 245 (Roll no. 132).</text><reference label="consideration" ref="CR H1847"/></action>
+		<vote how="roll" type="vote" roll="133" datetime="1993-04-02T00:18:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed by the Yeas and Nays: 237 - 177 (Roll no. 133).</text></vote>
+		<action datetime="1993-04-02T00:18:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<calendar under="General Orders" number="56" datetime="1993-04-03" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 56.</text></calendar>
+		<vote how="by Unanimous Consent" type="vote2" datetime="1993-04-05" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S4540"/></vote>
+		<topresident datetime="1993-04-05" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-04-06"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-04-06" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-04-06" ><text>Signed by President.</text></signed>
+		<enacted number="103-12" type="public" datetime="1993-04-06"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-12.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="103" type="hr" number="147" />
+		<bill relation="identical" session="103" type="s" number="766" />
+		<bill relation="unknown" session="103" type="s" number="766" />
+		<bill relation="unknown" session="103" type="s" number="766" />
+	</relatedbills>
+	<subjects>
+		<term name="Public debt"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/23/1993--Introduced.
+Provides for a temporary increase in the public debt limit.
+
+	</summary>
+</bill>

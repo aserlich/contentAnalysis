@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="2672" updated="2010-04-19T06:08:08-04:00">
+	<state datetime="1993-07-20">REFERRED</state>
+	<status><introduced datetime="1993-07-20"/></status>
+
+	<introduced datetime="1993-07-20"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to retain 80-percent deductibility for meal expenses of drivers of motor vehicles who are subject to Federal restrictions on hours of duty.</title>
+	</titles>
+	<sponsor id="400116"/>
+	<cosponsors>
+		<cosponsor id="404503" joined="1994-05-26"/>
+		<cosponsor id="411677" joined="1994-06-24"/>
+		<cosponsor id="404296" joined="1994-06-08"/>
+		<cosponsor id="400581" joined="1994-06-10"/>
+		<cosponsor id="400374" joined="1994-07-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-20"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Automobile drivers"/>
+		<term name="Bus drivers"/>
+		<term name="Common carriers"/>
+		<term name="Food"/>
+		<term name="Tax deductions"/>
+		<term name="Truck drivers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/20/1993--Introduced.
+Amends the Internal Revenue Code to retain the 80-percent deduction for certain meal expenses of drivers subject to the hours of service limitations of the Department of Transportation.
+
+	</summary>
+</bill>

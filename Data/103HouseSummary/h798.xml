@@ -1,0 +1,104 @@
+<bill session="103" type="h" number="798" updated="2012-07-17T05:41:14-04:00">
+	<state datetime="1993-08-13">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-08-13" /></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Veterans' Compensation Rates Codification Act of 1993</title>
+		<title type="short" as="passed house">Veterans' Compensation Rates Codification Act of 1993</title>
+		<title type="official" as="introduced">To amend title 38, United States Code, to codify the rates of disability compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for survivors of such veterans as such rates took effect on December 1, 1992.</title>
+	</titles>
+	<sponsor id="409966"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1993-04-05"/>
+		<cosponsor id="400329" joined="1993-02-03"/>
+		<cosponsor id="407838" joined="1993-02-03"/>
+		<cosponsor id="406920" joined="1993-02-03"/>
+		<cosponsor id="409442" joined="1993-02-03"/>
+		<cosponsor id="409219" joined="1993-02-03"/>
+		<cosponsor id="400133" joined="1993-02-03"/>
+		<cosponsor id="400906" joined="1993-02-03"/>
+		<cosponsor id="300151" joined="1993-02-03"/>
+		<cosponsor id="405313" joined="1993-04-05"/>
+		<cosponsor id="400422" joined="1993-04-05"/>
+		<cosponsor id="400242" joined="1993-02-03"/>
+		<cosponsor id="400055" joined="1993-02-03"/>
+		<cosponsor id="400127" joined="1993-02-03"/>
+		<cosponsor id="408476" joined="1993-04-05"/>
+		<cosponsor id="400548" joined="1993-02-03"/>
+		<cosponsor id="400380" joined="1993-02-03"/>
+		<cosponsor id="400163" joined="1993-02-03"/>
+		<cosponsor id="400048" joined="1993-02-03"/>
+		<cosponsor id="400504" joined="1993-02-03"/>
+		<cosponsor id="400610" joined="1993-02-03"/>
+		<cosponsor id="400010" joined="1993-02-03"/>
+		<cosponsor id="409570" joined="1993-02-03"/>
+		<cosponsor id="403776" joined="1993-02-03"/>
+		<cosponsor id="408618" joined="1993-04-05"/>
+		<cosponsor id="406482" joined="1993-02-03"/>
+		<cosponsor id="408556" joined="1993-04-05"/>
+		<cosponsor id="400126" joined="1993-02-03"/>
+		<cosponsor id="400028" joined="1993-02-03"/>
+		<cosponsor id="400056" joined="1993-02-03"/>
+		<cosponsor id="400118" joined="1993-02-03"/>
+		<cosponsor id="400389" joined="1993-04-05"/>
+		<cosponsor id="400075" joined="1993-02-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03" state="REFERRED"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-02-08"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Compensation, Pension and Insurance.</text></action>
+		<action datetime="1993-04-01"><committee name="House Committee on Veterans' Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-04-01"  state="REPORTED"><committee name="House Committee on Veterans' Affairs"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-04-22T15:55:00-04:00"><text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 103-63.</text></action>
+		<calendar number="31" datetime="1993-04-22T16:07:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 31.</text></calendar>
+		<action datetime="1993-04-27T13:00:00-04:00"><text>Mr. Montgomery moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-04-27T13:01:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2042-2045"/></action>
+		<action datetime="1993-04-27T13:01:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-04-27T13:07:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-04-27T13:07:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-04-28"><text>Received in the Senate and read twice and referred to the Committee on Veterans.</text></action>
+		<action datetime="1993-07-28"><text>Senate Committee on Veterans discharged by Unanimous Consent.</text></action>
+		<action datetime="1993-07-28"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S9772-9773"/></action>
+		<action datetime="1993-07-28"><text>Senate struck all after the Enacting Clause and substituted the language of S. 970 amended.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-07-28" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate in lieu of S. 970 with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-07-29"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-08-02T12:26:00-04:00"><text>Mr. Montgomery asked unanimous consent that the House agree to the Senate amendment.</text></action>
+		<vote how="without objection" type="pingpong" datetime="1993-08-02T12:28:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House agree to the Senate amendment Agreed to without objection.</text><reference label="consideration" ref="CR H5559-5560"/></vote>
+		<action datetime="1993-08-02T12:28:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-08-02" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-08-05" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-08-13" ><text>Signed by President.</text></signed>
+		<enacted number="103-78" type="public" datetime="1993-08-13"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-78.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Veterans' Affairs" subcommittee="Compensation, Pension and Insurance" activity="Referral" />
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="supersedes" session="103" type="s" number="970" />
+		<bill relation="unknown" session="103" type="s" number="970" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Disabled"/>
+		<term name="Families"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Housing and community development"/>
+		<term name="Mortgage loans"/>
+		<term name="Orphans"/>
+		<term name="Survivors' benefits"/>
+		<term name="Variable rate mortgage loans"/>
+		<term name="Veterans' benefits"/>
+		<term name="Veterans' disability compensation"/>
+		<term name="Veterans' loans"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/28/1993--Passed Senate amended. Increases the rates of: (1) veterans' disability compensation; (2) additional compensation for veterans' dependents; (3) the clothing allowance for certain disabled veterans; (4) dependency and indemnity compensation for surviving spouses and children; and (5) supplemental dependency and indemnity compensation for disabled adult children. Makes a technical correction relating to the financing of discount points for certain veterans' loans. Deletes the requirement that adjustments in adjustable rate mortgages guaranteed to veterans by the Department of Veterans Affairs occur on the anniversary of the date on which the loan was closed.
+
+	</summary>
+</bill>

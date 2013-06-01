@@ -1,0 +1,106 @@
+<bill session="103" type="h" number="58" updated="2012-07-17T04:23:08-04:00">
+	<state datetime="1993-11-20T14:54:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-20T14:54:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Merchant Marine Memorial Enhancement Act of 1993</title>
+		<title type="short" as="passed house">Merchant Marine Memorial Enhancement Act of 1993</title>
+		<title type="official" as="introduced">To authorize the Secretary of Transportation to convey vessels in the National Defense Reserve Fleet to certain nonprofit organizations.</title>
+	</titles>
+	<sponsor id="401383"/>
+	<cosponsors>
+		<cosponsor id="409052" joined="1993-07-13"/>
+		<cosponsor id="400143" joined="1993-02-17"/>
+		<cosponsor id="300091" joined="1993-02-03"/>
+		<cosponsor id="407899" joined="1993-09-21"/>
+		<cosponsor id="400070" joined="1993-09-27"/>
+		<cosponsor id="400333" joined="1993-02-03"/>
+		<cosponsor id="400359" joined="1993-09-27"/>
+		<cosponsor id="400314" joined="1993-03-04"/>
+		<cosponsor id="410567" joined="1993-11-04"/>
+		<cosponsor id="400239" joined="1993-03-31"/>
+		<cosponsor id="400100" joined="1993-06-28"/>
+		<cosponsor id="400428" joined="1993-07-01"/>
+		<cosponsor id="400057" joined="1993-09-09"/>
+		<cosponsor id="400343" joined="1993-05-11"/>
+		<cosponsor id="404068" joined="1993-10-18"/>
+		<cosponsor id="404375" joined="1993-06-28"/>
+		<cosponsor id="400511" joined="1993-02-03"/>
+		<cosponsor id="400076" joined="1993-09-27"/>
+		<cosponsor id="400219" joined="1993-03-02"/>
+		<cosponsor id="400506" joined="1993-03-18"/>
+		<cosponsor id="400221" joined="1993-06-28"/>
+		<cosponsor id="400149" joined="1993-09-27"/>
+		<cosponsor id="400166" joined="1993-04-02"/>
+		<cosponsor id="400064" joined="1993-05-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05" state="REFERRED"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-01-25"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee On Merchant Marine.</text></action>
+		<action datetime="1993-01-25"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from DOT.</text></action>
+		<action datetime="1993-09-29"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-10-06"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-10-06"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-21"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-11-17T16:14:00-05:00"><text>Reported (Amended) by the Committee on Merchant Marine and Fisheries. H. Rept. 103-370.</text></action>
+		<calendar number="204" datetime="1993-11-17T16:14:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 204.</text></calendar>
+		<action datetime="1993-11-20T14:51:00-05:00"><text>Mr. Studds moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-20T14:51:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10386-10391"/></action>
+		<action datetime="1993-11-20T14:51:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-20T14:54:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-20T14:54:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-20"><text>Received in the Senate.</text></action>
+		<action datetime="1993-11-23"><text>Read twice and referred to the Committee on Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Merchant Marine" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1763" />
+	</relatedbills>
+	<subjects>
+		<term name="Ships"/>
+		<term name="Anniversaries"/>
+		<term name="Armed forces and national security"/>
+		<term name="Commemorations"/>
+		<term name="Computer networks"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Europe"/>
+		<term name="France"/>
+		<term name="Harbors"/>
+		<term name="Higher education"/>
+		<term name="Inland water transportation"/>
+		<term name="Labor and employment"/>
+		<term name="Marine safety"/>
+		<term name="Massachusetts"/>
+		<term name="Merchant marine"/>
+		<term name="Merchant seamen"/>
+		<term name="Merchant ships"/>
+		<term name="Military sealift"/>
+		<term name="Military training"/>
+		<term name="Monuments and memorials"/>
+		<term name="Navigational aids"/>
+		<term name="Nonprofit organizations"/>
+		<term name="Private legislation"/>
+		<term name="Revolving funds"/>
+		<term name="Salvage"/>
+		<term name="Science, technology, communications"/>
+		<term name="Service academies"/>
+		<term name="Surplus government property"/>
+		<term name="Texas"/>
+		<term name="Transportation and public works"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Passed House amended. Merchant Marine Memorial Enhancement Act of 1993 - Authorizes conveyance without consideration of two vessels in the National Defense Reserve Fleet to any nonprofit organization that operates a Liberty Ship or Victory Ship as a memorial to merchant mariners. Requires the organization to sell the vessel for scrap, use the proceeds to refurbish a Liberty Ship or Victory Ship to enable the ship to participate in activities concerning the 50th anniversary of the Normandy invasion, and return any unused proceeds to the United States for deposit in the Vessel Operations Revolving Fund. (Sec. 3) Authorizes the Secretary of Transportation to issue certificates of documentation with a coastwise endorsement for specified vessels. (Sec. 4) Authorizes the Secretary of Commerce to deploy a physical ocean real-time system consisting, at a minimum, of current, wind, tide, salinity, and water level measuring devices and necessary computer links, in Galveston Bay and the Houston Ship Cannel. (Sec. 5) Directs the Secretary of Transportation to establish a three-year pilot program for sealift training at the Massachusets Maritime Academy.
+
+	</summary>
+</bill>

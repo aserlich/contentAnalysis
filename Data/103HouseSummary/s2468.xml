@@ -1,0 +1,46 @@
+<bill session="103" type="s" number="2468" updated="2010-04-19T20:55:31-04:00">
+	<state datetime="1994-09-27">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-09-27" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-09-27"/>
+	<titles>
+		<title type="official" as="introduced">A bill to permit the Secretary of Agriculture to make available certain amounts for FmHA farm ownership, operating, or emergency loans, and for other purposes.</title>
+	</titles>
+	<sponsor id="300026"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="1994-09-27"/>
+		<cosponsor id="300037" joined="1994-09-27"/>
+		<cosponsor id="402004" joined="1994-09-27"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1994-09-27" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S13443"/></vote>
+		<action datetime="1994-09-28"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-09-28T10:02:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-09-28"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-10-03"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Environment, Credit and Rural Development.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Environment, Credit and Rural Development" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural credit"/>
+		<term name="Agricultural economics"/>
+		<term name="Budgets"/>
+		<term name="Farms"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Finance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/27/1994--Introduced.
+Authorizes the Secretary of Agriculture to make available through the end of FY 1994 unused Farmers Home Administration funds for its direct and guaranteed operating loan and credit sales programs.
+
+	</summary>
+</bill>

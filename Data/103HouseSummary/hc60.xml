@@ -1,0 +1,68 @@
+<bill session="103" type="hc" number="60" updated="2010-04-18T21:10:03-04:00">
+	<state datetime="1993-03-10">REFERRED</state>
+	<status><introduced datetime="1993-03-10"/></status>
+
+	<introduced datetime="1993-03-10"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress regarding the emphasis that the Defense Base Closure and Realignment Commission should place on the economic impact of the closure of military installations on affected communities in recommending such installations for closure during the 1993 base closure process.</title>
+	</titles>
+	<sponsor id="404013"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-03-10"/>
+		<cosponsor id="400580" joined="1993-03-10"/>
+		<cosponsor id="400113" joined="1993-03-10"/>
+		<cosponsor id="400124" joined="1993-03-10"/>
+		<cosponsor id="400401" joined="1993-03-18"/>
+		<cosponsor id="400585" joined="1993-03-18"/>
+		<cosponsor id="400231" joined="1993-03-10"/>
+		<cosponsor id="407772" joined="1993-03-10"/>
+		<cosponsor id="400347" joined="1993-03-10"/>
+		<cosponsor id="404978" joined="1993-03-10"/>
+		<cosponsor id="410974" joined="1993-03-10"/>
+		<cosponsor id="400057" joined="1993-03-10"/>
+		<cosponsor id="400166" joined="1993-03-10"/>
+		<cosponsor id="400436" joined="1993-03-10"/>
+		<cosponsor id="400422" joined="1993-03-10"/>
+		<cosponsor id="400021" joined="1993-03-10"/>
+		<cosponsor id="400572" joined="1993-03-10"/>
+		<cosponsor id="400256" joined="1993-03-10"/>
+		<cosponsor id="400595" joined="1993-03-10"/>
+		<cosponsor id="409627" joined="1993-03-10"/>
+		<cosponsor id="410889" joined="1993-03-10"/>
+		<cosponsor id="400025" joined="1993-03-18"/>
+		<cosponsor id="400425" joined="1993-03-10"/>
+		<cosponsor id="400314" joined="1993-03-10"/>
+		<cosponsor id="403776" joined="1993-03-10"/>
+		<cosponsor id="411997" joined="1993-03-10"/>
+		<cosponsor id="400278" joined="1993-03-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-10"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-03-12"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Installations and Facilities.</text></action>
+		<action datetime="1993-03-12"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Installations and Facilities" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="sc" number="15" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Defense budgets"/>
+		<term name="Economic impact statements"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Government spending reductions"/>
+		<term name="Military bases"/>
+		<term name="Relocation of federal installations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/10/1993--Introduced.
+Calls for the Defense Base Closure and Realignment Commission, when making recommendations to the President during 1993 for the closure of military installations, to give greater emphasis to the economic impact of such closures on the affected communities.
+
+	</summary>
+</bill>

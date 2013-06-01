@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="3426" updated="2012-07-17T04:37:11-04:00">
+	<state datetime="1994-10-04T20:14:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-04T20:14:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1993-11-03"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the Secretary of Agriculture to convey lands to the City of Rolla, Missouri.</title>
+	</titles>
+	<sponsor id="403864"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-03" state="REFERRED"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-11-05"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+		<action datetime="1993-11-05"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Agriculture" subcommittee="Specialty Crops and Natural Resources"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Agriculture" subcommittee="Specialty Crops and Natural Resources"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-10-04"><committee name="House Committee on Agriculture"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-10-04"  state="REPORTED"><committee name="House Committee on Agriculture"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-04T20:12:00-04:00"><text>Committee on Agriculture discharged.</text></action>
+		<action datetime="1994-10-04T20:12:00-04:00"><text>Mr. de la Garza asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-10-04T20:12:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10745-10746"/></action>
+		<vote how="without objection" type="vote" datetime="1994-10-04T20:14:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-10-04T20:14:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-05"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Discharged" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Commemorations"/>
+		<term name="Easements"/>
+		<term name="Historic sites"/>
+		<term name="History"/>
+		<term name="Land transfers"/>
+		<term name="Missouri"/>
+		<term name="National forests"/>
+	</subjects>
+	<amendments>
+		<amendment number="h909"/>
+	</amendments>
+	<summary>
+	10/4/1994--Passed House amended. Authorizes the Secretary of Agriculture to sell specified lands to the city of Rolla, Missouri. Requires the preservation of historic resources on such land.
+
+	</summary>
+</bill>

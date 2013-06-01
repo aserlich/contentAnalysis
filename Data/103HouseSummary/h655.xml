@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="655" updated="2010-04-19T00:44:49-04:00">
+	<state datetime="1993-01-27">REFERRED</state>
+	<status><introduced datetime="1993-01-27"/></status>
+
+	<introduced datetime="1993-01-27"/>
+	<titles>
+		<title type="official" as="introduced">To require the Secretary of Agriculture to make crop quality reduction disaster payments to producers of the 1992 crop of corn, and for other purposes.</title>
+	</titles>
+	<sponsor id="400526"/>
+	<cosponsors>
+		<cosponsor id="400216" joined="1993-02-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-27"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-02-01"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Environment, Credit and Rural Development.</text></action>
+		<action datetime="1993-02-01"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on General Farm Commodities.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Environment, Credit and Rural Development" activity="Referral" />
+		<committee code="" name="House Agriculture" subcommittee="General Farm Commodities" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="217" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural price supports"/>
+		<term name="Corn"/>
+		<term name="Disaster relief"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/1993--Introduced.
+Directs the Secretary of Agriculture to make crop quality reduction disaster payments to producers of the 1992 corn crop under specified terms and conditions.
+
+	</summary>
+</bill>

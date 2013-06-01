@@ -1,0 +1,38 @@
+<bill session="103" type="sr" number="53" updated="2010-04-19T22:07:45-04:00">
+	<state datetime="1993-01-28">REPORTED</state>
+	<status><calendar datetime="1993-01-28" /></status>
+
+	<introduced datetime="1993-02-02"/>
+	<titles>
+		<title type="official" as="introduced">An original resolution authorizing expenditures by the Committee on Environment and Public Works.</title>
+	</titles>
+	<sponsor id="300005"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar datetime="1993-01-28"  state="REPORTED"><text>Committee on Environment and Public Works ordered to be reported an original measure.</text></calendar>
+		<action datetime="1993-02-02"><text>Committee on Environment and Public Works. Original measure reported to Senate by Senator Baucus. Without written report.</text></action>
+		<action datetime="1993-02-02"><text>Referred to the Committee on Rules.</text></action>
+		<calendar datetime="1993-02-18" ><text>Committee on Rules. Provisions of measure incorporated into measure S.RES. 71 ordered to be reported.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Origin, Reporting, Markup" />
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="sr" number="71" />
+	</relatedbills>
+	<subjects>
+		<term name="Senate"/>
+		<term name="Congressional committees (Senate)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1993--Introduced.
+Authorizes expenditures by the Senate Committee on Environment and Public Works for the 103d Congress.
+
+	</summary>
+</bill>

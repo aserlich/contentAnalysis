@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="1334" updated="2012-07-17T04:48:07-04:00">
+	<state datetime="1993-07-30">REFERRED</state>
+	<status><introduced datetime="1993-07-30"/></status>
+
+	<introduced datetime="1993-07-30"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the facility of the United States Postal Service located at 401 South Washington Street in Chillicothe, Missouri, as the &quot;Jerry L. Litton United States Post Office Building&quot;, and for other purposes.</title>
+	</titles>
+	<sponsor id="300051"/>
+	<cosponsors>
+		<cosponsor id="300010" joined="1993-07-30"/>
+		<cosponsor id="403171" joined="1993-07-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-30" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S9992)</text></action>
+		<action datetime="1993-07-30" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1779" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Commemorations"/>
+		<term name="Missouri"/>
+		<term name="Names"/>
+		<term name="Postal facilities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/30/1993--Introduced.
+Designates the U.S. Postal Service facility located at 401 South Washington Street, Chillicothe, Missouri, as the Jerry L. Litton United States Post Office Building.
+
+	</summary>
+</bill>

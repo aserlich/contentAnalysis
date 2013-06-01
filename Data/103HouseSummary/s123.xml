@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="123" updated="2012-07-17T04:27:57-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Immigration and Nationality Act to provide for prompt parole in the United States of aliens in order to attend the funeral of an immediate blood relative in the United States and to delay parole status to aliens who are excluded from admission into the United States.</title>
+	</titles>
+	<sponsor id="300056"/>
+	<cosponsors>
+		<cosponsor id="409917" joined="1993-01-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S562)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-02-04"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Immigration and Refugee Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Immigration and Refugee Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Aliens"/>
+		<term name="Cemeteries and funerals"/>
+		<term name="Families"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Amends the Immigration and Nationality Act to direct the Attorney General to provide, on an expedited basis, for the parole admission of an alien admissible into the United States to attend the funeral of an immediate blood relative.
+
+	</summary>
+</bill>

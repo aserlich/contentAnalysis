@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="2655" updated="2010-04-19T06:05:30-04:00">
+	<state datetime="1993-07-15">REFERRED</state>
+	<status><introduced datetime="1993-07-15"/></status>
+
+	<introduced datetime="1993-07-15"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit the Secretary of Defense from carrying out the launch of a missile as part of a test program in any case in which an unavoidable or anticipated result of the launch would be the release of debris in a land area of the United States outside a designated Department of Defense test range.</title>
+	</titles>
+	<sponsor id="409829"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-07-22"/>
+		<cosponsor id="400080" joined="1993-07-15"/>
+		<cosponsor id="400122" joined="1993-07-22"/>
+		<cosponsor id="400612" joined="1993-07-15"/>
+		<cosponsor id="404375" joined="1993-07-15"/>
+		<cosponsor id="409650" joined="1993-07-15"/>
+		<cosponsor id="400178" joined="1993-07-15"/>
+		<cosponsor id="401310" joined="1993-07-15"/>
+		<cosponsor id="400599" joined="1993-08-02"/>
+		<cosponsor id="400425" joined="1993-07-15"/>
+		<cosponsor id="403776" joined="1993-07-15"/>
+		<cosponsor id="400278" joined="1993-07-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-15"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-07-19"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Acquisition.</text></action>
+		<action datetime="1993-07-19"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Acquisition" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Ballistic missiles"/>
+		<term name="Environmental protection"/>
+		<term name="Guided missiles"/>
+		<term name="Military research"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/15/1993--Introduced.
+Prohibits the Secretary of Defense from carrying out a missile test launch in any case in which an unavoidable or anticipated result would be the release of debris in an area outside a designated Department of Defense test range.
+
+	</summary>
+</bill>

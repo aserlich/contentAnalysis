@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="865" updated="2010-04-19T01:20:21-04:00">
+	<state datetime="1993-02-04">REFERRED</state>
+	<status><introduced datetime="1993-02-04"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Ronald Reagan Peace Dividend Investment Act of 1993</title>
+		<title type="official" as="introduced">To ensure that any peace dividend is invested in America's families and deficit reduction.</title>
+	</titles>
+	<sponsor id="410147"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public finance"/>
+		<term name="Budget deficits"/>
+		<term name="Defense budgets"/>
+		<term name="Federal budgets"/>
+		<term name="Government spending reductions"/>
+		<term name="House rules and procedure"/>
+		<term name="Income tax"/>
+		<term name="Legislation"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Tax deductions"/>
+		<term name="Tax exemption"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Ronald Reagan Peace Dividend Investment Act of 1993 - Amends the Congressional Budget Act of 1974 to provide for a reduction in the deficit and an increase in the personal income tax exemption when outlays in the defense category for FY 1994 or 1995 are estimated to be below such outlays for FY 1993. Requires an adjustment to the discretionary spending limits (calculated pursuant to the Balanced Budget and Emergency Deficit Control Act of 1985) (Gramm-Rudman-Hollings Act) under such circumstances. Provides that it shall not be in order in the Senate or House of Representatives to consider any legislation reducing defense spending below the FY 1993 level if such legislation does not allocate the total amount of such reduction to deficit reduction and personal tax exemption increases.
+
+	</summary>
+</bill>

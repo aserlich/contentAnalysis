@@ -1,0 +1,36 @@
+<bill session="103" type="h" number="4904" updated="2010-04-19T11:56:00-04:00">
+	<state datetime="1994-08-04">REFERRED</state>
+	<status><introduced datetime="1994-08-04"/></status>
+
+	<introduced datetime="1994-08-04"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Eugene Hasenfus.</title>
+	</titles>
+	<sponsor id="409423"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-04"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-08-15"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Claims"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/4/1994--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum in full satisfaction of all claims of a named individual with respect to any physical, mental, or financial injury arising from a missile attack on an airplane in which he was a crewmember, or from his subsequent detention in Nicaragua.
+
+	</summary>
+</bill>

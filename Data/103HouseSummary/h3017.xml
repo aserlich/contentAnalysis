@@ -1,0 +1,38 @@
+<bill session="103" type="h" number="3017" updated="2010-04-19T07:01:32-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of John Mitchell.</title>
+	</titles>
+	<sponsor id="400028"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-02-02"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1994-02-02"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1994-07-01"><committee name="House Committee on Armed Services"/><text>Executive Comment Received from Army.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Military medals, decorations, etc."/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Waives time limitations relating to the award of a medal of honor to a named individual for outstanding service to the Nation during World War II.
+
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="103" type="sj" number="5" updated="2012-07-17T05:17:14-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="popular" as="">Balanced Budget Amendment</title>
+		<title type="official" as="introduced">A joint resolution proposing a constitutional amendment to require a Federal balanced budget.</title>
+	</titles>
+	<sponsor id="300092"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S615-616)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-02-04"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Constitution.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Constitution" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Balanced budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Constitutional amendments"/>
+		<term name="Deficit financing"/>
+		<term name="Record votes"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Constitutional Amendment - Requires a balanced Federal budget, unless a three-fifths roll call vote of both Houses of Congress provides for a specific excess of outlays over receipts. Requires the President to submit a balanced budget to the Congress.
+
+	</summary>
+</bill>

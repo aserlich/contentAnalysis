@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="4127" updated="2010-04-19T09:54:16-04:00">
+	<state datetime="1994-03-24">REFERRED</state>
+	<status><introduced datetime="1994-03-24"/></status>
+
+	<introduced datetime="1994-03-24"/>
+	<titles>
+		<title type="short" as="introduced">Federal Mandate Compensation Act</title>
+		<title type="official" as="introduced">To require the Secretary of the Treasury to biannually pay to State and local governments compensation for direct costs incurred by those governments in complying with Federal mandates.</title>
+	</titles>
+	<sponsor id="401134"/>
+	<cosponsors>
+		<cosponsor id="410147" joined="1994-04-20"/>
+		<cosponsor id="400505" joined="1994-03-24"/>
+		<cosponsor id="400552" joined="1994-03-24"/>
+		<cosponsor id="400316" joined="1994-03-24"/>
+		<cosponsor id="300097" joined="1994-03-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-24"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-03-28"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Human Resources and Intergovernmental Relations.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Government Operations"/><text>See H.R.4771.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Human Resources and Intergovernmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="140" />
+		<bill relation="unknown" session="103" type="h" number="4771" />
+	</relatedbills>
+	<subjects>
+		<term name="Intergovernmental relations"/>
+		<term name="Costs"/>
+		<term name="Federal-local relations"/>
+		<term name="Federal-state relations"/>
+		<term name="Government regulation"/>
+		<term name="Grants-in-aid"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="Legislation"/>
+		<term name="State and local government"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/24/1994--Introduced.
+Federal Mandate Compensation Act - Directs the Secretary of the Treasury biannually to: (1) determine the costs incurred by each State and local government in complying with Federal mandates; and (2) pay adequate compensation to such entities for compliance costs not otherwise covered by the Federal Government.
+
+	</summary>
+</bill>

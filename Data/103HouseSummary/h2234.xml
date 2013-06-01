@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="2234" updated="2010-04-19T05:00:15-04:00">
+	<state datetime="1993-05-20">REFERRED</state>
+	<status><introduced datetime="1993-05-20"/></status>
+
+	<introduced datetime="1993-05-20"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make S corporations eligible for the rules applicable to real property subdivided for sale by noncorporate taxpayers.</title>
+	</titles>
+	<sponsor id="400387"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-20"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-28"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Capital gains tax"/>
+		<term name="Corporation taxes"/>
+		<term name="Real property"/>
+		<term name="Small business"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/1993--Introduced.
+Amends the Internal Revenue Code to exclude C corporations from rules applicable to real property subdivided for sale by noncorporate taxpayers. Makes S corporations eligible under such rules.
+
+	</summary>
+</bill>

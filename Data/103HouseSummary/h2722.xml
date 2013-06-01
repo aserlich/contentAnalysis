@@ -1,0 +1,90 @@
+<bill session="103" type="h" number="2722" updated="2012-07-17T05:48:09-04:00">
+	<state datetime="1993-11-08T12:42:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-08T12:42:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-07-23"/>
+	<titles>
+		<title type="short" as="introduced">Age Discrimination in Employment Amendments of 1993</title>
+		<title type="short" as="passed house">Age Discrimination in Employment Amendments of 1993</title>
+		<title type="official" as="introduced">To amend the Age Discrimination in Employment Act of 1967 with respect to State and local firefighters, law enforcement officers, and incumbent elected judges; and to amend the Age Discrimination in Employment Amendments of 1986 to prevent the repeal of the exemption for certain bona fide hiring and retirement plans applicable to State and local firefighters and law enforcement officers.</title>
+	</titles>
+	<sponsor id="400306"/>
+	<cosponsors>
+		<cosponsor id="400533" joined="1993-10-26"/>
+		<cosponsor id="400091" joined="1993-10-26"/>
+		<cosponsor id="400332" joined="1993-10-26"/>
+		<cosponsor id="400122" joined="1993-10-26"/>
+		<cosponsor id="410887" joined="1993-10-26"/>
+		<cosponsor id="400182" joined="1993-10-26"/>
+		<cosponsor id="409154" joined="1993-10-26"/>
+		<cosponsor id="400140" joined="1993-10-26"/>
+		<cosponsor id="400008" joined="1993-10-26"/>
+		<cosponsor id="400150" joined="1993-10-26"/>
+		<cosponsor id="408052" joined="1993-07-23"/>
+		<cosponsor id="400216" joined="1993-10-26"/>
+		<cosponsor id="400308" joined="1993-10-26"/>
+		<cosponsor id="400262" joined="1993-10-26"/>
+		<cosponsor id="400378" joined="1993-10-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-23" state="REFERRED"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-07-30"><committee name="House Committee on Education and Labor"/><text>Executive Comment Requested from EEOC, Justice.</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Select Education and Civil Rights.</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on Education and Labor" subcommittee="Select Education and Civil Rights"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on Education and Labor" subcommittee="Select Education and Civil Rights"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-09-24"><committee name="House Committee on Education and Labor"/><text>Executive Comment Received from EEOC.</text></action>
+		<action datetime="1993-10-19"><committee name="House Committee on Education and Labor"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-19"  state="REPORTED"><committee name="House Committee on Education and Labor"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1993-11-01T12:41:00-05:00"><text>Reported (Amended) by the Committee on Education and Labor. H. Rept. 103-314.</text></action>
+		<calendar number="167" datetime="1993-11-01T12:42:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 167.</text></calendar>
+		<action datetime="1993-11-08T12:23:00-05:00"><text>Mr. Owens moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-08T12:24:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8881-8884"/></action>
+		<action datetime="1993-11-08T12:24:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-08T12:42:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-08T12:43:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-11-08T12:43:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-09"><text>Received in the Senate and read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<action datetime="1994-04-19"><committee name="House Committee on Education and Labor"/><text>Subcommittee on Labor. Hearings held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, Markup, Reporting" />
+		<committee code="HSED-04" name="House Education and Labor" subcommittee="Select Education and Civil Rights" activity="Referral, Hearings, Reporting" />
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee" />
+		<committee code="" name="Senate Labor and Human Resources" subcommittee="Labor" activity="Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Administrative procedure"/>
+		<term name="Age and employment"/>
+		<term name="Age discrimination"/>
+		<term name="Discrimination in employment"/>
+		<term name="Employment tests"/>
+		<term name="Equal Employment Opportunity Commission"/>
+		<term name="Fire fighters"/>
+		<term name="Health"/>
+		<term name="Judges"/>
+		<term name="Judicial tenure"/>
+		<term name="Law enforcement officers"/>
+		<term name="Local officials and employees"/>
+		<term name="Mandatory retirement"/>
+		<term name="Mental health"/>
+		<term name="Older workers"/>
+		<term name="Pension funds"/>
+		<term name="Physical education and training"/>
+		<term name="Physical examinations"/>
+		<term name="Physical fitness"/>
+		<term name="Rating of employees"/>
+		<term name="Standards"/>
+		<term name="State officials and employees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/8/1993--Passed House amended. Age Discrimination in Employment Amendments of 1993 - Amends the Age Discrimination in Employment Act of 1967 to set 55 years as the maximum hiring or minimum retirement age which States and localities may require for fire fighters and law enforcement officers unless there is an age of hiring and retirement in effect under applicable State or local law on March 3, 1983. Amends the Age Discrimination in Employment Amendments of 1986 to repeal a provision which would have terminated an exemption for hiring and retirement plans applicable to State and local fire fighters and law enforcement officers. (This Act thereby preserves such exemption beyond 1993.) Directs the Chairman of the Equal Employment Opportunity Commission to conduct a study in order to develop and issue, within four years after this Act's enactment, advisory guidelines for administering and using physical and mental fitness tests to measure the ability and competency of law enforcement officers and fire fighters to perform the requirements of their jobs. Requires opportunity for public comment. Requires the Chairman to propose, within two years after this Act's enactment, advisory standards for wellness programs for law enforcement officers and fire fighters. Authorizes appropriations.
+
+	</summary>
+</bill>

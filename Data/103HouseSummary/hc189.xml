@@ -1,0 +1,54 @@
+<bill session="103" type="hc" number="189" updated="2010-04-18T21:30:23-04:00">
+	<state datetime="1993-11-23T01:40:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-23T01:40:00-05:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress that every effort should be made to avert a humanitarian disaster in Bosnia-Herzegovina and the other former Yugoslav republics during the winter of 1993-1994.</title>
+	</titles>
+	<sponsor id="407351"/>
+	<cosponsors>
+		<cosponsor id="400192" joined="1993-11-22"/>
+		<cosponsor id="411725" joined="1993-11-22"/>
+		<cosponsor id="407817" joined="1993-11-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-11-23T01:32:00-05:00"><text>Committee on Foreign Affairs discharged.</text></action>
+		<action datetime="1993-11-23T01:33:00-05:00"><text>Mr. Hamilton asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1993-11-23T01:33:00-05:00"><text>Considered by unanimous consent. (consideration: 11/22/93 CR H10951-10952)</text></action>
+		<vote how="without objection" type="vote" datetime="1993-11-23T01:40:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On agreeing to the resolution Agreed to without objection.</text></vote>
+		<action datetime="1993-11-23T01:41:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-23"><text>Received in the Senate and referred to the Committee on Foreign Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Discharged" />
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="American economic assistance"/>
+		<term name="Bosnia and Herzegovina"/>
+		<term name="Croatia"/>
+		<term name="Europe"/>
+		<term name="Food"/>
+		<term name="Food relief"/>
+		<term name="Foreign aid"/>
+		<term name="Foreign policy"/>
+		<term name="International relief"/>
+		<term name="Macedonia"/>
+		<term name="Serbia"/>
+		<term name="Slovenia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Expresses the sense of the Congress that: (1) the United States and the international community should ensure that the people of Bosnia-Herzegovina have adequate medical supplies, food, and other humanitarian assistance during the winter of 1993-1994; (2) the United States should support preparations to facilitate a relief effort in order to prevent a possible humanitarian disaster; (3) all parties should cooperate with the provision of humanitarian assistance to those in need throughout the former Yugoslav republics, especially Bosnia-Herzegovina; (4) the United States should provide similar assistance to the peoples endangered this winter throughout the former Yugoslav republics, especially Macedonia; and (5) the United States should expend appropriated funds for such purposes as expeditiously as possible.
+
+	</summary>
+</bill>

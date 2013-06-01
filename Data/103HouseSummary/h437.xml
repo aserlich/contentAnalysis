@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="437" updated="2010-04-19T00:08:41-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Antiprogestin Testing Act of 1993</title>
+		<title type="official" as="introduced">To provide for research on antiprogestin drugs through the National Institutes of Health.</title>
+	</titles>
+	<sponsor id="300100"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1993-07-27"/>
+		<cosponsor id="400524" joined="1993-06-23"/>
+		<cosponsor id="407817" joined="1993-01-26"/>
+		<cosponsor id="400436" joined="1993-03-17"/>
+		<cosponsor id="409650" joined="1993-01-05"/>
+		<cosponsor id="409627" joined="1993-03-31"/>
+		<cosponsor id="400425" joined="1993-01-05"/>
+		<cosponsor id="400100" joined="1993-01-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Abortion"/>
+		<term name="Cancer"/>
+		<term name="Cancer research"/>
+		<term name="Clinical trials"/>
+		<term name="Contraceptives"/>
+		<term name="Drugs"/>
+		<term name="Endometrial cancer"/>
+		<term name="Peer review organizations (Medicine)"/>
+		<term name="Pharmaceutical research"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Antiprogestin Testing Act of 1993 - Directs the Secretary of Health and Human Services to conduct and support research, including clinical trials, on antiprogestin drug safety and efficacy for any potential use, including termination of pregnancy, contraception, and therapeutic use for cancer, endocrine disorders, and endometriosis. Makes the research subject to provisions of the Public Health Service Act relating to institutional review boards and peer review.
+
+	</summary>
+</bill>

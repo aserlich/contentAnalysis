@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="496" updated="2010-04-19T00:18:28-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="short" as="introduced">Perishable Agricultural Commodities Amendment Act of 1992</title>
+		<title type="official" as="introduced">To amend the Perishable Agricultural Commodities Act, 1930, to prevent the imputation to cooperatives of conduct by their members and affiliates for the purposes of the prohibition relating to labeling of certain commodities.</title>
+	</titles>
+	<sponsor id="400505"/>
+	<cosponsors>
+		<cosponsor id="400113" joined="1993-03-01"/>
+		<cosponsor id="400176" joined="1993-03-01"/>
+		<cosponsor id="400112" joined="1993-03-01"/>
+		<cosponsor id="400572" joined="1993-03-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21"><text>Sponsor introductory remarks on measure. (CR E128)</text></action>
+		<action datetime="1993-01-21"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-01-25"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+		<action datetime="1993-01-25"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA.</text></action>
+		<action datetime="1993-09-24"><committee name="House Committee on Agriculture"/><text>Unfavorable Executive Comment Received from USDA.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural cooperatives"/>
+		<term name="Labeling"/>
+		<term name="Marketing of farm produce"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Perishable Agricultural Commodities Amendment Act of 1992 - Amends the Perishable Agricultural Commodities Act, 1930 to prevent the imputation of certain member or affiliate conduct to cooperatives.
+
+	</summary>
+</bill>

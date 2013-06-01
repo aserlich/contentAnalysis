@@ -1,0 +1,64 @@
+<bill session="103" type="h" number="2843" updated="2010-04-19T06:34:32-04:00">
+	<state datetime="1994-04-13T16:11:00-04:00">PROV_KILL:SUSPENSIONFAILED</state>
+	<status><vote datetime="1994-04-13T16:11:00-04:00" where="h" result="fail" how="roll" roll="101"/></status>
+
+	<introduced datetime="1993-08-03"/>
+	<titles>
+		<title type="short" as="introduced">Wheeling National Heritage Area Act of 1993</title>
+		<title type="short" as="reported to house">Wheeling National Heritage Area Act of 1994</title>
+		<title type="official" as="introduced">To establish the Wheeling National Heritage Area in the State of West Virginia, and for other purposes.</title>
+	</titles>
+	<sponsor id="400281"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-03"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-09-16"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1993-11-16"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-03-17"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-03-17"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-03-23"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-03-23"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-04-12T12:55:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-471.</text></action>
+		<calendar number="263" datetime="1994-04-12T12:56:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 263.</text></calendar>
+		<action datetime="1994-04-12T13:31:00-04:00"><text>Mr. Vento moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-04-12T13:31:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2189-2192"/></action>
+		<action datetime="1994-04-12T13:31:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-04-12T13:52:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed until April 13.</text></action>
+		<action datetime="1994-04-13T16:00:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2231"/></action>
+		<vote how="roll" type="vote" roll="101" datetime="1994-04-13T16:11:00-04:00" where="h" result="fail" suspension="1"  state="PROV_KILL:SUSPENSIONFAILED"><text>On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays (2/3 required): 264 - 154 (Roll No. 101).</text></vote>
+		<action datetime="1994-04-13T16:11:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-05"><committee name="House Committee on Natural Resources"/><text>For Further Action See H.R.5044.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5044" />
+		<bill relation="identical" session="103" type="s" number="1341" />
+		<bill relation="unknown" session="103" type="s" number="1341" />
+	</relatedbills>
+	<subjects>
+		<term name="Historic sites"/>
+		<term name="Charities"/>
+		<term name="Commemorations"/>
+		<term name="Conservation of natural resources"/>
+		<term name="Environmental protection"/>
+		<term name="History"/>
+		<term name="Natural resources"/>
+		<term name="Nonprofit organizations"/>
+		<term name="Tax-exempt organizations"/>
+		<term name="Taxation"/>
+		<term name="West Virginia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/12/1994--Reported to House amended. Wheeling National Heritage Area Act of 1994 - Establishes the Wheeling National Heritage Area in West Virginia. Directs the Secretary of the Interior to: (1) assist appropriate local entities in the development of interpretive and educational materials as specified in the August 1992 Plan for the Wheeling National Heritage Area; (2) provide funds for capital improvements to projects and initial operating assistance; and (3) provide technical assistance to the local entities in the preparation of plans or studies pursuant to the Plan. Authorizes appropriations. Limits funds made available for capital projects and planning and studies to 50 percent of the costs of the project funded.
+
+	</summary>
+</bill>

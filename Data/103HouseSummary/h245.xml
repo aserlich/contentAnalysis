@@ -1,0 +1,62 @@
+<bill session="103" type="h" number="245" updated="2010-04-18T23:38:00-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 10, United States Code, to authorize the detail of personnel of the Department of Defense to assist the Immigration and Naturalization Service and the United States Customs Service perform border patrol-related activities.</title>
+	</titles>
+	<sponsor id="407320"/>
+	<cosponsors>
+		<cosponsor id="410147" joined="1993-05-24"/>
+		<cosponsor id="400113" joined="1993-05-24"/>
+		<cosponsor id="400584" joined="1994-01-26"/>
+		<cosponsor id="400506" joined="1993-05-24"/>
+		<cosponsor id="409442" joined="1993-05-24"/>
+		<cosponsor id="400533" joined="1993-05-24"/>
+		<cosponsor id="406729" joined="1993-05-24"/>
+		<cosponsor id="400504" joined="1993-07-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1993-09-13"><text>Sponsor introductory remarks on measure. (CR E2142)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-06" name="House Armed Services" subcommittee="Oversight and Investigations" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Customs administration"/>
+		<term name="Department of Defense"/>
+		<term name="Department of Justice"/>
+		<term name="Department of the Treasury"/>
+		<term name="Drug law enforcement"/>
+		<term name="Federal employees"/>
+		<term name="Foreign trade"/>
+		<term name="Illegal aliens"/>
+		<term name="Immigration"/>
+		<term name="Law enforcement"/>
+		<term name="Military personnel"/>
+		<term name="Narcotic traffic"/>
+		<term name="Terrorism"/>
+		<term name="Transfer of employees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Authorizes the Secretary of Defense, during each fiscal year, to assign up to 12,000 civilian officers and employees of the Department of Defense and members of the armed forces to temporary duty with: (1) the Immigration and Naturalization Service to assist in preventing the entry into the United States of terrorists, drug traffickers, and illegal aliens; and (2) the U.S. Customs Service to assist in the inspection of cargo, vehicles, and aircraft at points of entry into the United States.
+
+	</summary>
+</bill>

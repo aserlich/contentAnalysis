@@ -1,0 +1,38 @@
+<bill session="103" type="h" number="1515" updated="2010-04-19T03:07:47-04:00">
+	<state datetime="1993-03-29">REFERRED</state>
+	<status><introduced datetime="1993-03-29"/></status>
+
+	<introduced datetime="1993-03-29"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the exchange of certain public lands in Nevada.</title>
+	</titles>
+	<sponsor id="411178"/>
+	<cosponsors>
+		<cosponsor id="401446" joined="1993-03-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-29"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands"/>
+		<term name="Land transfers"/>
+		<term name="Nevada"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/29/1993--Introduced.
+Authorizes the Secretary of the Interior to exchange specified public lands in Nevada for the Primadonna lands owned by the Primm South Real Estate Company. Withdraws such public lands from entry, appropriation, and patent under the public land laws and the mining, mineral, and geothermal leasing laws.
+
+	</summary>
+</bill>

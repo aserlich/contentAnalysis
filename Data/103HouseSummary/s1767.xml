@@ -1,0 +1,62 @@
+<bill session="103" type="s" number="1767" updated="2010-04-19T19:05:47-04:00">
+	<state datetime="1993-11-20">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-11-20" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="short" as="introduced">Domestic Chemical Diversion Control Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend the Comprehensive Drug Abuse Prevention and Control Act of 1970 to control the diversion of certain chemicals used in the illicit production of controlled substances such as methcathinone and methamphetamine, and for other purposes.</title>
+	</titles>
+	<sponsor id="400559"/>
+	<cosponsors>
+		<cosponsor id="300042" joined="1993-11-20"/>
+		<cosponsor id="300066" joined="1993-11-20"/>
+		<cosponsor id="300061" joined="1993-11-20"/>
+		<cosponsor id="408420" joined="1993-11-23"/>
+		<cosponsor id="409225" joined="1993-11-20"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S16897-16899"/></vote>
+		<action datetime="1993-11-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-21T14:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-21T14:16:00-05:00"><text>Held at the desk.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3216" />
+	</relatedbills>
+	<subjects>
+		<term name="Drugs"/>
+		<term name="Amphetamines"/>
+		<term name="Chemical industries"/>
+		<term name="Chemicals"/>
+		<term name="Criminal justice"/>
+		<term name="Criminal justice information"/>
+		<term name="Drug abuse"/>
+		<term name="Drug industry"/>
+		<term name="Drug law enforcement"/>
+		<term name="Export controls"/>
+		<term name="Exports"/>
+		<term name="Foreign trade"/>
+		<term name="Forfeiture"/>
+		<term name="Government paperwork"/>
+		<term name="Import restrictions"/>
+		<term name="Imports"/>
+		<term name="LSD (Drug)"/>
+		<term name="Licenses"/>
+		<term name="Narcotic traffic"/>
+		<term name="Searches and seizures"/>
+		<term name="Smuggling"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+Domestic Chemical Diversion Control Act of 1993 - Amends the Comprehensive Drug Abuse Prevention and Control Act of 1970 (Comprehensive Act) to: (1) replace references to &quot;listed precursor chemicals&quot; with &quot;list I chemicals&quot; and &quot;listed essential chemicals&quot; with &quot;list II chemicals&quot;; and (2) revise the definitions of &quot;regulated person&quot; (to include individuals who act as brokers or traders for international transactions involving a listed chemical, tableting machine, or encapsulating machine) and &quot;regulated transaction&quot; (to include international transactions involving shipment of a threshold amount of a listed chemical and to exclude specified transactions). (Sec. 2) Removes the exemption for products in which ephedrine is the only active medicinal ingredient in therapeutic amounts. Permits the Attorney General to remove the exemption for other drugs containing listed chemicals if it is determined that they are being diverted for use in the illicit production of a controlled substance, with exceptions. (Sec. 3) Provides registration requirements for list I chemicals, including the authority to revoke or deny based on public interest grounds, immediate suspension in cases of imminent danger to the public health or safety, and criminal penalties for distribution, importation, or exportation without the required registration. (Sec. 4) Makes any person located in the United States who is a broker or trader for an international transaction in a listed chemical that is a regulated transaction solely because of that person's involvement as broker or trader with respect to such transaction subject to all of the notification, reporting, recordkeeping, and other requirements placed upon exporters of listed chemicals by the Comprehensive Act. Sets penalties for knowingly or intentionally importing or exporting a listed chemical in violation of the registration requirements. (Sec. 5) Authorizes the Attorney General to reduce controls on the importation of specified chemicals by modifying or eliminating the advance notice requirement. Adds specific criminal penalties for: (1) attempting to evade reporting requirements by falsely claiming that a shipment is destined for a country for which a waiver has been established; and (2) smuggling of listed chemicals. (Sec. 6) Makes provisions of the Comprehensive Act regarding administrative inspections, forfeiture, and threshold amounts of substances applicable to listed chemicals, as well as to controlled substances. (Sec. 8) Amends list I to add benzaldehyde and nitroethane, and delete D-lysergic acid, N-ethylephedrine, and N-ethylpseudoephedrine. (Sec. 9) Eliminates &quot;regular supplier&quot; status and creates &quot;regular importer&quot; status. (Sec. 10) Requires each regulated person that manufactures a listed chemical to report annually to the Attorney General information concerning listed chemicals manufactured by such regulated person.
+
+	</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="103" type="s" number="1443" updated="2012-07-17T04:25:32-04:00">
+	<state datetime="1993-09-08">REFERRED</state>
+	<status><introduced datetime="1993-09-08"/></status>
+
+	<introduced datetime="1993-09-08"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to repeal the excise tax on luxury passenger vehicles.</title>
+	</titles>
+	<sponsor id="403962"/>
+	<cosponsors>
+		<cosponsor id="403669" joined="1993-10-06"/>
+		<cosponsor id="300052" joined="1993-10-18"/>
+		<cosponsor id="300012" joined="1993-11-03"/>
+		<cosponsor id="300099" joined="1993-11-01"/>
+		<cosponsor id="400562" joined="1993-10-05"/>
+		<cosponsor id="406084" joined="1993-10-19"/>
+		<cosponsor id="400561" joined="1993-09-08"/>
+		<cosponsor id="300048" joined="1994-06-24"/>
+		<cosponsor id="401874" joined="1994-05-19"/>
+		<cosponsor id="406188" joined="1993-10-27"/>
+		<cosponsor id="403968" joined="1994-06-15"/>
+		<cosponsor id="300089" joined="1993-10-13"/>
+		<cosponsor id="300072" joined="1993-11-10"/>
+		<cosponsor id="300029" joined="1993-11-03"/>
+		<cosponsor id="406256" joined="1993-11-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-08" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3039" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Excise tax"/>
+		<term name="Motor vehicles"/>
+		<term name="Transportation and public works"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/8/1993--Introduced.
+Amends the Internal Revenue Code to repeal the excise tax on luxury passenger vehicles.
+
+	</summary>
+</bill>

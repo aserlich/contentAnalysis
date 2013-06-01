@@ -1,0 +1,63 @@
+<bill session="103" type="h" number="3771" updated="2010-04-19T08:58:35-04:00">
+	<state datetime="1994-02-02">REFERRED</state>
+	<status><introduced datetime="1994-02-02"/></status>
+
+	<introduced datetime="1994-02-02"/>
+	<titles>
+		<title type="short" as="introduced">Gun Exchange Tax Incentive Act of 1994</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide tax incentives for businesses participating in gun exchange programs, and for other purposes.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1994-02-28"/>
+		<cosponsor id="400122" joined="1994-07-13"/>
+		<cosponsor id="406768" joined="1994-02-28"/>
+		<cosponsor id="400295" joined="1994-05-26"/>
+		<cosponsor id="410496" joined="1994-02-28"/>
+		<cosponsor id="400003" joined="1994-03-15"/>
+		<cosponsor id="400106" joined="1994-02-10"/>
+		<cosponsor id="400030" joined="1994-04-14"/>
+		<cosponsor id="404375" joined="1994-02-28"/>
+		<cosponsor id="401446" joined="1994-02-28"/>
+		<cosponsor id="405524" joined="1994-02-28"/>
+		<cosponsor id="404190" joined="1994-02-10"/>
+		<cosponsor id="400201" joined="1994-05-03"/>
+		<cosponsor id="300058" joined="1994-02-28"/>
+		<cosponsor id="400243" joined="1994-02-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-02"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-02-02"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-03-04"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1840" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Business"/>
+		<term name="Business and social problems"/>
+		<term name="Charitable contributions"/>
+		<term name="Criminal justice"/>
+		<term name="Firearms"/>
+		<term name="Firearms control"/>
+		<term name="Government and business"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Tax deductions"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1994--Introduced.
+Gun Exchange Tax Incentive Act of 1994 - Amends the Internal Revenue Code to allow an itemized tax deduction for charitable contributions of property under qualified gun exchange programs. Directs the Attorney General to develop a written model program for business-sponsored gun exchange programs.
+
+	</summary>
+</bill>

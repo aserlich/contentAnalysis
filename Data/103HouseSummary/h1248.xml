@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="1248" updated="2010-04-19T02:24:58-04:00">
+	<state datetime="1993-03-09">REFERRED</state>
+	<status><introduced datetime="1993-03-09"/></status>
+
+	<introduced datetime="1993-03-09"/>
+	<titles>
+		<title type="short" as="introduced">Trade Agreements Compliance Act of 1993</title>
+		<title type="official" as="introduced">To amend the Trade Act of 1974 to provide for the review of the extent to which foreign countries are in compliance with bilateral trade agreements with the United States.</title>
+	</titles>
+	<sponsor id="400256"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-07-23"/>
+		<cosponsor id="400291" joined="1993-04-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-09"><text>Sponsor introductory remarks on measure. (CR E538-539)</text></action>
+		<action datetime="1993-03-09"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-09"><committee name="House Committee on Ways and Means"/><text>For Previous Action See H.R.1198.</text></action>
+		<action datetime="1993-03-11"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Ways and Means" subcommittee="Trade"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Ways and Means" subcommittee="Trade"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1198" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Administrative remedies"/>
+		<term name="Nontariff trade barriers"/>
+		<term name="Office of the U.S. Trade Representative"/>
+		<term name="Reciprocity"/>
+		<term name="Trade agreements"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/9/1993--Introduced.
+Trade Agreements Compliance Act of 1993 - Amends the Trade Act of 1974 to authorize an interested person to request the United States Trade Representative (USTR) to determine whether a foreign country is complying with any bilateral trade agreement to which the United States is a party (other than the United States-Canada Free Trade Agreement or the Agreement on the Establishment of a Free Trade Area between the United States and Israel). Requires the USTR to take specified action under the Act if he or she determines that such country is in material noncompliance with such agreement. Requires the amendments made by this Act to be consistent with U.S. international obligations, including the General Agreement on Tariffs and Trade.
+
+	</summary>
+</bill>

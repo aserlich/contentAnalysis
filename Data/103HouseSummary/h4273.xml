@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="4273" updated="2010-04-19T10:17:00-04:00">
+	<state datetime="1994-04-20">REFERRED</state>
+	<status><introduced datetime="1994-04-20"/></status>
+
+	<introduced datetime="1994-04-20"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 10, United States Code, to establish a temporary program to permit professional schools of the Army Training and Doctrine Command to admit civilians as students on a cost-reimbursable, space-available basis.</title>
+	</titles>
+	<sponsor id="400129"/>
+	<cosponsors>
+		<cosponsor id="400180" joined="1994-04-20"/>
+		<cosponsor id="400538" joined="1994-04-20"/>
+		<cosponsor id="404013" joined="1994-05-05"/>
+		<cosponsor id="407772" joined="1994-05-05"/>
+		<cosponsor id="400269" joined="1994-05-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-20"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-04-25"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1994-04-25"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1994-04-28"><committee name="House Committee on Armed Services" subcommittee="Military Forces and Personnel"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Army"/>
+		<term name="Civil-military relations"/>
+		<term name="Defense policy"/>
+		<term name="Education"/>
+		<term name="Educational finance"/>
+		<term name="Fees"/>
+		<term name="Higher education"/>
+		<term name="Job training"/>
+		<term name="Military education"/>
+		<term name="Military training"/>
+		<term name="Service academies"/>
+		<term name="Teachers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/20/1994--Introduced.
+Authorizes the head of any TRADOC school (various professional schools of the Army Training and Doctrine Command) to enter into agreements with higher educational institutions under which students from such institutions receive instruction at the TRADOC school on a cost-reimbursable, space-available basis. Allows reimbursements collected to be used to compensate TRADOC school instructors. Prohibits such students from being admitted to TRADOC schools for classes beginning after September 30, 1997.
+
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="1014" updated="2010-04-19T01:45:38-04:00">
+	<state datetime="1993-02-18">REFERRED</state>
+	<status><introduced datetime="1993-02-18"/></status>
+
+	<introduced datetime="1993-02-18"/>
+	<titles>
+		<title type="official" as="introduced">To expand the State option to exclude service of election officials or workers from coverage under the social security system.</title>
+	</titles>
+	<sponsor id="410407"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-18"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-23"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Election administration"/>
+		<term name="Local officials and employees"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Social security eligibility"/>
+		<term name="Social security taxes"/>
+		<term name="State officials and employees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/18/1993--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act and the Internal Revenue Code to increase the amount of remuneration State and local governments may pay certain election personnel without exceeding the threshold that would bring such personnel under social security coverage.
+
+	</summary>
+</bill>

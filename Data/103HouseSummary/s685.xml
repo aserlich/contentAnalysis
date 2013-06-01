@@ -1,0 +1,51 @@
+<bill session="103" type="s" number="685" updated="2012-07-17T05:55:33-04:00">
+	<state datetime="1993-05-28">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-05-28" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-03-31"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize appropriations for the American Folklife Center for fiscal years 1994, 1995, 1996, and 1997.</title>
+	</titles>
+	<sponsor id="408597"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-31" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4140-4141)</text></action>
+		<action datetime="1993-03-31" state="REFERRED"><text>Read twice and referred to the Committee on Rules.</text></action>
+		<calendar datetime="1993-05-20"  state="REPORTED"><committee name="Committee on Rules"/><text>Committee on Rules. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-05-20"><text>Committee on Rules. Reported to Senate by Senator Ford without amendment. With written report No. 103-47.</text></action>
+		<calendar under="General Orders" number="68" datetime="1993-05-20" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 68.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-05-28" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S6887"/></vote>
+		<action datetime="1993-06-08T12:04:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-06-08"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-06-08"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-06-10"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Libraries and Memorials.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Markup, Reporting" />
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Libraries and Memorials" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2074" />
+	</relatedbills>
+	<subjects>
+		<term name="Arts, culture, religion"/>
+		<term name="American studies"/>
+		<term name="Authorization"/>
+		<term name="Congressional agencies"/>
+		<term name="Cultural centers"/>
+		<term name="Libraries"/>
+		<term name="Research centers"/>
+		<term name="Social life and customs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/31/1993--Introduced.
+Amends the American Folklife Preservation Act to authorize appropriations for the American Folklife Center for FY 1994 through 1997.
+
+	</summary>
+</bill>

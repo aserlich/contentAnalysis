@@ -1,0 +1,40 @@
+<bill session="103" type="s" number="1817" updated="2012-07-17T05:46:15-04:00">
+	<state datetime="1994-02-02">REFERRED</state>
+	<status><introduced datetime="1994-02-02"/></status>
+
+	<introduced datetime="1994-02-02"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend subchapter II of chapter 73 of title 10, United States Code, to prevent cost-of-living increases in the survivor annuity contributions of uniformed services retirees from becoming effective before related cost-of-living increases in retired pay become payable.</title>
+	</titles>
+	<sponsor id="400564"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="1994-02-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-02" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S659-660)</text></action>
+		<action datetime="1994-02-02" state="REFERRED"><text>Read twice and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4046" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Annuities"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Labor and employment"/>
+		<term name="Military dependents"/>
+		<term name="Military pensions"/>
+		<term name="Survivors' benefits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1994--Introduced.
+Provides that pay reductions for cost of living increases in contributions to the military Survivor Benefit Plan shall not be effective until the initial payment date of related cost of living increases in military retired or retainer pay.
+
+	</summary>
+</bill>

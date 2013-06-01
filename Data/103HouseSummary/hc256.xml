@@ -1,0 +1,75 @@
+<bill session="103" type="hc" number="256" updated="2010-04-18T21:41:04-04:00">
+	<state datetime="1994-06-16">REFERRED</state>
+	<status><introduced datetime="1994-06-16"/></status>
+
+	<introduced datetime="1994-06-16"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of Congress that any health care reform legislation should preserve the right of bona fide trade and professional associations to continue to offer group health insurance within the framework established to expand comprehensive and affordable health insurance and prevent discriminatory insurance practices.</title>
+	</titles>
+	<sponsor id="400283"/>
+	<cosponsors>
+		<cosponsor id="400327" joined="1994-08-02"/>
+		<cosponsor id="400428" joined="1994-06-30"/>
+		<cosponsor id="400414" joined="1994-06-30"/>
+		<cosponsor id="406431" joined="1994-10-03"/>
+		<cosponsor id="400161" joined="1994-07-29"/>
+		<cosponsor id="403545" joined="1994-06-22"/>
+		<cosponsor id="404869" joined="1994-07-19"/>
+		<cosponsor id="400533" joined="1994-07-26"/>
+		<cosponsor id="409423" joined="1994-08-09"/>
+		<cosponsor id="407153" joined="1994-08-02"/>
+		<cosponsor id="412001" joined="1994-10-03"/>
+		<cosponsor id="403190" joined="1994-06-30"/>
+		<cosponsor id="400211" joined="1994-07-26"/>
+		<cosponsor id="402152" joined="1994-06-22"/>
+		<cosponsor id="400318" joined="1994-07-19"/>
+		<cosponsor id="400119" joined="1994-07-19"/>
+		<cosponsor id="409966" joined="1994-06-30"/>
+		<cosponsor id="400611" joined="1994-09-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-16"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1994-06-16"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-06-16"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-06-20"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1994-06-30"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1994-06-30"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness.</text></action>
+		<action datetime="1994-07-19"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Commerce, Consumer Protection, and Competitiveness" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Civil rights"/>
+		<term name="Congress"/>
+		<term name="Discrimination in insurance"/>
+		<term name="Employee health benefits"/>
+		<term name="Finance"/>
+		<term name="Health care reform"/>
+		<term name="Health insurance"/>
+		<term name="Health policy"/>
+		<term name="Labor"/>
+		<term name="Legislation"/>
+		<term name="Professional associations"/>
+		<term name="Trade"/>
+		<term name="Trade associations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/16/1994--Introduced.
+Expresses the sense of the Congress that health care reform legislation shall allow bona fide trade and professional associations to continue to provide health insurance to their members, provided they comply with any national reforms which improve access to and affordability of health insurance, such as the provision of a standard benefit package, termination of discriminatory insurance practices, and compliance with any mandated employer responsibilities.
+
+	</summary>
+</bill>

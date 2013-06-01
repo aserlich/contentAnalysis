@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="744" updated="2012-07-17T04:59:30-04:00">
+	<state datetime="1993-04-02">REFERRED</state>
+	<status><introduced datetime="1993-04-02"/></status>
+
+	<introduced datetime="1993-04-02"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for drug-testing of Federal prisoners on release from prison.</title>
+	</titles>
+	<sponsor id="409917"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-02" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4409)</text></action>
+		<action datetime="1993-04-02" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-04-29"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Constitution.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Constitution" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Criminal procedure"/>
+		<term name="Drug abuse"/>
+		<term name="Drug testing"/>
+		<term name="Parole"/>
+		<term name="Prisoners"/>
+		<term name="Probation"/>
+		<term name="Treatment and rehabilitation of narcotic addicts"/>
+		<term name="Urinalysis"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/2/1993--Introduced.
+Amends the Federal criminal code to require, as a condition of probation, supervised release, or parole, that the defendant pass a drug test, refrain from any unlawful use of a controlled substance, and submit to at least two periodic drug tests (as determined by the court) for use of a controlled substance. Specifies that no action may be taken against a defendant pursuant to such a drug test unless it is a urine drug test confirmed using gas chromatography/mass spectrometry techniques or a test the Director of the Administrative Office of the United States Courts determines to be of equivalent accuracy. Directs the court to consider the availability of appropriate substance abuse treatment programs when considering action against a defendant or parolee who fails a drug test.
+
+	</summary>
+</bill>

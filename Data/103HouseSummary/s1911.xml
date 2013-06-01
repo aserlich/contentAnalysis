@@ -1,0 +1,36 @@
+<bill session="103" type="s" number="1911" updated="2010-04-19T19:28:12-04:00">
+	<state datetime="1994-03-09">REFERRED</state>
+	<status><introduced datetime="1994-03-09"/></status>
+
+	<introduced datetime="1994-03-09"/>
+	<titles>
+		<title type="official" as="introduced">A bill to suspend temporarily the duty on 5-Chloro-2-(2,4-dichlorophenoxy) phenol.</title>
+	</titles>
+	<sponsor id="300154"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-09"><text>Referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3995" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Chemicals"/>
+		<term name="Tariff"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/9/1994--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1996, the duty on 5-chloro-2(2, 4 dichlorophenoxy) phenol.
+
+	</summary>
+</bill>

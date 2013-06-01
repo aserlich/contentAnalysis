@@ -1,0 +1,53 @@
+<bill session="103" type="s" number="618" updated="2012-07-17T04:41:12-04:00">
+	<state datetime="1993-03-18">REFERRED</state>
+	<status><introduced datetime="1993-03-18"/></status>
+
+	<introduced datetime="1993-03-18"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Immigration and Nationality Act to permit the admission to the United States of nonimmigrant students and visitors who are the spouses and children of United States permanent resident aliens, and for other purposes.</title>
+	</titles>
+	<sponsor id="409225"/>
+	<cosponsors>
+		<cosponsor id="400564" joined="1993-03-18"/>
+		<cosponsor id="403346" joined="1993-03-18"/>
+		<cosponsor id="300066" joined="1993-03-18"/>
+		<cosponsor id="300056" joined="1993-09-07"/>
+		<cosponsor id="411271" joined="1993-05-26"/>
+		<cosponsor id="300059" joined="1993-03-18"/>
+		<cosponsor id="300067" joined="1994-01-25"/>
+		<cosponsor id="405212" joined="1993-03-18"/>
+		<cosponsor id="408420" joined="1993-09-07"/>
+		<cosponsor id="404598" joined="1993-03-18"/>
+		<cosponsor id="300001" joined="1993-05-19"/>
+		<cosponsor id="409917" joined="1993-03-18"/>
+		<cosponsor id="300042" joined="1993-11-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-18" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3186)</text></action>
+		<action datetime="1993-03-18" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-04-20"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Immigration and Refugee Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Immigration and Refugee Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3182" />
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Aliens"/>
+		<term name="Immigrants"/>
+		<term name="Married people"/>
+		<term name="Students"/>
+		<term name="Visas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/18/1993--Introduced.
+Amends the Immigration and Nationality Act to authorize the nonimmigrant admission into the United States of certain alien students and visitors who are the spouses and children of U.S. permanent resident aliens.
+
+	</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="4326" updated="2010-04-19T10:25:22-04:00">
+	<state datetime="1994-05-03">REFERRED</state>
+	<status><introduced datetime="1994-05-03"/></status>
+
+	<introduced datetime="1994-05-03"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to limit the applicability of the generation-skipping transfer tax.</title>
+	</titles>
+	<sponsor id="401774"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1994-05-25"/>
+		<cosponsor id="406466" joined="1994-05-03"/>
+		<cosponsor id="400064" joined="1994-09-13"/>
+		<cosponsor id="410529" joined="1994-05-25"/>
+		<cosponsor id="400146" joined="1994-05-03"/>
+		<cosponsor id="400261" joined="1994-05-25"/>
+		<cosponsor id="400567" joined="1994-05-25"/>
+		<cosponsor id="400188" joined="1994-05-03"/>
+		<cosponsor id="400240" joined="1994-09-13"/>
+		<cosponsor id="400369" joined="1994-05-03"/>
+		<cosponsor id="405033" joined="1994-07-28"/>
+		<cosponsor id="405507" joined="1994-05-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-03"><text>Sponsor introductory remarks on measure. (CR E837)</text></action>
+		<action datetime="1994-05-03"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2445" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Estate tax"/>
+		<term name="Families"/>
+		<term name="Inheritance tax"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/3/1994--Introduced.
+Amends the Internal Revenue Code to provide a special rule for persons with a deceased parent for purposes of the generation-skipping transfer tax.
+
+	</summary>
+</bill>

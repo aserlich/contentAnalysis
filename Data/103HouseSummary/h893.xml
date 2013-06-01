@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="893" updated="2010-04-19T01:25:02-04:00">
+	<state datetime="1993-02-16">REFERRED</state>
+	<status><introduced datetime="1993-02-16"/></status>
+
+	<introduced datetime="1993-02-16"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 18, United States Code, to prohibit the possession or transfer of assault weapons.</title>
+	</titles>
+	<sponsor id="400163"/>
+	<cosponsors>
+		<cosponsor id="400080" joined="1993-10-14"/>
+		<cosponsor id="401494" joined="1993-04-02"/>
+		<cosponsor id="400333" joined="1993-03-03"/>
+		<cosponsor id="400409" joined="1993-03-03"/>
+		<cosponsor id="404375" joined="1993-03-11"/>
+		<cosponsor id="406082" joined="1993-03-03"/>
+		<cosponsor id="400350" joined="1993-03-11"/>
+		<cosponsor id="400366" joined="1993-04-02"/>
+		<cosponsor id="402152" joined="1993-03-11"/>
+		<cosponsor id="400243" joined="1993-03-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-16"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-17"><text>Sponsor introductory remarks on measure. (CR E358-359)</text></action>
+		<action datetime="1993-02-18"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+		<action datetime="1994-05-05"><committee name="House Committee on Judiciary"/><text>See H.R.4296.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4296" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Assault weapons"/>
+		<term name="Firearms"/>
+		<term name="Firearms control"/>
+		<term name="Narcotic traffic"/>
+		<term name="Violence"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/16/1993--Introduced.
+Amends the Federal criminal code to prohibit the possession (except for lawful and continuous possession since before the enactment date) or transfer of assault weapons. Exempts any firearm which the Secretary of the Treasury has determined is of a type generally recognized as particularly suitable for, or readily adaptable to, sporting purposes. Provides for: (1) penalties for the unlawful possession or transfer of an assault weapon; and (2) an enhanced penalty for possession or use of an assault weapon during a crime of violence or a drug trafficking crime.
+
+	</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="103" type="s" number="366" updated="2012-07-17T04:48:31-04:00">
+	<state datetime="1993-02-16">REFERRED</state>
+	<status><introduced datetime="1993-02-16"/></status>
+
+	<introduced datetime="1993-02-16"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992 with respect to the establishment of the National Commission to Ensure a Strong Competitive Airline Industry.</title>
+	</titles>
+	<sponsor id="403962"/>
+	<cosponsors>
+		<cosponsor id="300053" joined="1993-02-16"/>
+		<cosponsor id="300034" joined="1993-03-09"/>
+		<cosponsor id="400557" joined="1993-02-18"/>
+		<cosponsor id="300067" joined="1993-03-16"/>
+		<cosponsor id="300046" joined="1993-03-09"/>
+		<cosponsor id="409917" joined="1993-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-16" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1602-1603)</text></action>
+		<action datetime="1993-02-16" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<action datetime="1993-03-17"><text>Senate Committee on Commerce discharged by Unanimous Consent.</text></action>
+		<action datetime="1993-03-17"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S3009-3018"/></action>
+		<action datetime="1993-03-17"><text>Senate incorporated this measure in H.R. 904 as an amendment.</text></action>
+		<action datetime="1993-03-17"><text>Senate passed companion measure H.R. 904 in lieu of this measure by Voice Vote.</text></action>
+		<action datetime="1993-03-17"><text>Indefinitely postponed by Senate by Voice Vote.</text></action>
+		<action datetime="1994-05-03"><text>Sponsor introductory remarks on measure. (CR S5015-5019)</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="superseded" session="103" type="h" number="904" />
+		<bill relation="unknown" session="103" type="h" number="904" />
+		<bill relation="unknown" session="103" type="h" number="904" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Airlines"/>
+		<term name="Federal advisory bodies"/>
+	</subjects>
+	<amendments>
+		<amendment number="s178"/>
+		<amendment number="s179"/>
+	</amendments>
+	<summary>
+	3/17/1993--Indefinitely postponed in Senate. Amends the Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992 with respect to the establishment of the National Commission to Ensure a Strong Competitive Airline Industry.
+
+	</summary>
+</bill>

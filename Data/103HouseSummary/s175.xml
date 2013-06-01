@@ -1,0 +1,44 @@
+<bill session="103" type="s" number="175" updated="2012-07-17T06:18:45-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Child Nutrition Act of 1966 to make the special supplemental food program for women, infants, and children (WIC) an entitlement program, and for other purposes.</title>
+	</titles>
+	<sponsor id="403346"/>
+	<cosponsors>
+		<cosponsor id="300031" joined="1993-01-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S605-606)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-03-15"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Nutrition and Investigations.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Nutrition and Investigations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Appropriations"/>
+		<term name="Authorization"/>
+		<term name="Child nutrition"/>
+		<term name="Entitlements"/>
+		<term name="Federal aid to maternal health services"/>
+		<term name="Food relief"/>
+		<term name="Health"/>
+		<term name="Public assistance programs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Amends the Child Nutrition Act of 1966 to: (1) require the Secretary of Agriculture (who, currently, is merely authorized) to carry out the special supplemental food program for women, infants, and children (WIC); (2) make WIC authorization of appropriations permanent; and (3) entitle an eligible individual to the full amount of benefits authorized.
+
+	</summary>
+</bill>

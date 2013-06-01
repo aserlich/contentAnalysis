@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="2770" updated="2010-04-19T06:23:16-04:00">
+	<state datetime="1993-07-28">REFERRED</state>
+	<status><introduced datetime="1993-07-28"/></status>
+
+	<introduced datetime="1993-07-28"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to permit medicare select policies to be offered in all States, and for other purposes.</title>
+	</titles>
+	<sponsor id="400205"/>
+	<cosponsors>
+		<cosponsor id="400323" joined="1993-07-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-28"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-02-10"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1994-02-10"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness.</text></action>
+		<action datetime="1994-09-22"><text>Sponsor introductory remarks on measure. (CR H9445)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Commerce, Consumer Protection, and Competitiveness" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Deceptive advertising"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Health insurance"/>
+		<term name="Managed care"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Medicare fraud"/>
+		<term name="Standards"/>
+		<term name="State laws"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/28/1993--Introduced.
+Amends the Omnibus Budget Reconciliation Act of 1990 to: (1) make permanent the Medicare select policy program; and (2) allow access to Medicare select policies in all States. Amends title XVIII (Medicare) of the Social Security Act to revise the Medicare select policy program and provide for a civil penalty for misrepresentations made in connection with a Medicare select policy.
+
+	</summary>
+</bill>

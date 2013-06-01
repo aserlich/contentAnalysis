@@ -1,0 +1,52 @@
+<bill session="103" type="s" number="715" updated="2012-07-17T05:12:37-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="official" as="introduced">A bill to establish parents as teachers programs.</title>
+	</titles>
+	<sponsor id="300010"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-04-01"/>
+		<cosponsor id="300056" joined="1993-04-01"/>
+		<cosponsor id="402412" joined="1993-04-01"/>
+		<cosponsor id="300034" joined="1993-04-01"/>
+		<cosponsor id="300067" joined="1993-04-01"/>
+		<cosponsor id="403171" joined="1993-04-01"/>
+		<cosponsor id="300023" joined="1993-04-01"/>
+		<cosponsor id="300089" joined="1993-04-01"/>
+		<cosponsor id="402727" joined="1993-04-01" withdrawn="1993-04-28"/>
+		<cosponsor id="405310" joined="1993-04-01"/>
+		<cosponsor id="300084" joined="1993-04-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4276)</text></action>
+		<action datetime="1993-04-01" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<action datetime="1993-04-06"><committee name="Committee on Labor and Human Resources"/><text>Referred to Subcommittee on Education, Arts, Humanities.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee" />
+		<committee code="" name="Senate Labor and Human Resources" subcommittee="Education, Arts and Humanities" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Child development"/>
+		<term name="Federal aid to education"/>
+		<term name="Information services"/>
+		<term name="Parent-school relationships"/>
+		<term name="Parent-teacher relationships"/>
+		<term name="Preschool education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Authorizes the Secretary of Education to make grants to States and eligible entities for parents as teachers programs. Makes any State eligible for such a grant, except that the grant must be made directly to an eligible entity already operating a parents as teachers program if such an entity exists in the State on the date of enactment of this Act. Sets forth program requirements, limiting services to families during the period from birth to the child's attaining age three. Directs the Secretary to: (1) establish a Parents as Teachers National Center for information dissemination and technical and training assistance for States and eligible entities establishing and operating such programs; and (2) evaluate such programs within four years. Provides for a declining Federal share of program costs. Authorizes appropriations.
+
+	</summary>
+</bill>

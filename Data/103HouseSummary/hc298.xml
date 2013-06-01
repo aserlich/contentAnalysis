@@ -1,0 +1,43 @@
+<bill session="103" type="hc" number="298" updated="2010-04-18T21:47:39-04:00">
+	<state datetime="1994-09-27">REFERRED</state>
+	<status><introduced datetime="1994-09-27"/></status>
+
+	<introduced datetime="1994-09-27"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the printing of the book entitled &quot;Members of the United States House of Representatives: A Historical Bibliography&quot;.</title>
+	</titles>
+	<sponsor id="409793"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-27"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on House Administration" subcommittee="Personnel and Police"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on House Administration" subcommittee="Personnel and Police"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Bibliography"/>
+		<term name="Congress"/>
+		<term name="Congressional publications"/>
+		<term name="Government information"/>
+		<term name="History"/>
+		<term name="Members of Congress (House)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/27/1994--Introduced.
+Provides for the printing as a House document of the book entitled &quot;Members of the United States House of Representatives: A Historical Bibliography,&quot; prepared by the Office of the Historian of the House of Representatives.
+
+	</summary>
+</bill>

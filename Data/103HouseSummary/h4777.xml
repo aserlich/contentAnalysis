@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="4777" updated="2010-04-19T11:36:16-04:00">
+	<state datetime="1994-11-02">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-11-02" /></status>
+
+	<introduced datetime="1994-07-18"/>
+	<titles>
+		<title type="official" as="introduced">To make technical improvements in the United States Code by amending provisions to reflect the current names of congressional committees.</title>
+	</titles>
+	<sponsor id="401837"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-18"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-09-29"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-29"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1994-10-03T13:22:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-779.</text></action>
+		<calendar number="236" datetime="1994-10-03T13:23:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 236.</text></calendar>
+		<action datetime="1994-10-03T13:24:00-04:00"><text>Mr. Brooks moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-03T13:24:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10471-10476, H10611-10612"/></action>
+		<action datetime="1994-10-03T13:24:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-03T13:27:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Fish objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1994-10-03T19:04:00-04:00"><text>Considered as unfinished business.</text></action>
+		<action datetime="1994-10-03T19:12:00-04:00"><text>On motion to suspend the rules and pass the bill, as Agreed to by recorded vote (2/3 required): 391 - 3 (Roll no. 460).</text></action>
+		<action datetime="1994-10-03T19:12:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-04"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-06" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S14424"/></vote>
+		<topresident datetime="1994-10-06" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-07"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-24" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-11-02" ><text>Signed by President.</text></signed>
+		<enacted number="103-437" type="public" datetime="1994-11-02"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-437.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional committees"/>
+		<term name="Names"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Passed House amended. Makes technical amendments to the U.S. Code to reflect the current names of congressional committees.
+
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="1355" updated="2012-07-17T06:10:02-04:00">
+	<state datetime="1993-08-04">REFERRED</state>
+	<status><introduced datetime="1993-08-04"/></status>
+
+	<introduced datetime="1993-08-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend chapter 91 of title 28, United States Code, to provide that the United States Court of Federal Claims may have jurisdiction over certain pending claims, and for other purposes.</title>
+	</titles>
+	<sponsor id="405310"/>
+	<cosponsors>
+		<cosponsor id="409923" joined="1994-04-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S10383-10384)</text></action>
+		<action datetime="1993-08-04" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-08-16"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Law"/>
+		<term name="Claims"/>
+		<term name="Government liability"/>
+		<term name="Jurisdiction"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/4/1993--Introduced.
+Repeals a provision of the Federal criminal code denying the United States Court of Federal Claims jurisdiction over claims for which the plaintiff or his assignee has pending in any other court any suit or process against the United States or any person who, at the time the cause of action alleged arose, was, in respect thereto, acting or professing to act under the authority of the United States.
+
+	</summary>
+</bill>

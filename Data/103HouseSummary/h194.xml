@@ -1,0 +1,89 @@
+<bill session="103" type="h" number="194" updated="2012-07-17T04:13:15-04:00">
+	<state datetime="1993-05-11T14:07:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-05-11T14:07:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Fort Carson-Pinon Canyon Military Lands Withdrawal Act</title>
+		<title type="short" as="passed house">Fort Carson-Pinon Canyon Military Lands Withdrawal Act</title>
+		<title type="short" as="reported to senate">Fort Carson-Pinon Canyon Military Lands Withdrawal Act</title>
+		<title type="official" as="introduced">To withdraw and reserve certain public lands and minerals within the State of Colorado for military uses, and for other purposes.</title>
+	</titles>
+	<sponsor id="400174"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05" state="REFERRED"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-01-05" state="REPORTED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-01-26"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-01-28" state="REFERRED"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Installations and Facilities.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1993-02-09" state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior, DOD.</text></action>
+		<action datetime="1993-03-23"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-03-25"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-03-25"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-03-31"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-03-31" ><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-04-19T13:09:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-56, Part I.</text></action>
+		<action datetime="1993-05-05" state="REFERRED"><committee name="House Committee on Armed Services"/><text>Subcommittee on Military Installations and Facilities Discharged.</text></action>
+		<action datetime="1993-05-05"><committee name="House Committee on Armed Services"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-05-05"  state="REPORTED"><committee name="House Committee on Armed Services"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1993-05-06T15:52:00-04:00"><text>Reported (Amended) by the Committee on Armed Services. H. Rept. 103-56, Part II.</text></action>
+		<calendar number="36" datetime="1993-05-06T15:53:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 36.</text></calendar>
+		<action datetime="1993-05-11T13:57:00-04:00"><text>Mr. Vento moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-05-11T13:58:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2368-2371"/></action>
+		<action datetime="1993-05-11T13:58:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-05-11T14:07:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-05-11T14:07:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-05-13"><text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-05-14"><committee name="House Committee on Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1994-03-16"><committee name="House Committee on Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Army, Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-03-23"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee on Public Lands, National Parks. Hearings held.</text></action>
+		<action datetime="1994-04-20"><committee name="House Committee on Natural Resources"/><text>Committee on Energy and Natural Resources received executive comment from Department of Defense. Favorable.</text></action>
+		<calendar datetime="1994-08-03" ><committee name="House Committee on Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-08-22"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment in the nature of a substitute. With written report No. 103-352.</text></action>
+		<calendar under="General Orders" number="593" datetime="1994-08-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 593.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Armed Services" subcommittee="Military Installations and Facilities" activity="Referral, Discharged" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Armed forces and national security"/>
+		<term name="Army posts"/>
+		<term name="Colorado"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Emergency management"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Environmental protection"/>
+		<term name="Fire prevention"/>
+		<term name="Geothermal resources"/>
+		<term name="Hazardous waste disposal"/>
+		<term name="Hazardous wastes"/>
+		<term name="Land use"/>
+		<term name="Military bases"/>
+		<term name="Military maneuvers"/>
+		<term name="Military training"/>
+		<term name="Mines and mineral resources"/>
+		<term name="Mining leases"/>
+		<term name="Pollution control"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/22/1994--Reported to Senate amended. Fort Carson-Pinon Canyon Military Lands Withdrawal Act - Withdraws from appropriation under public land, mining, mineral, geothermal leasing, and mineral materials disposal laws, and reserves for military use by the Army, specified lands at the Fort Carson Military Reservation and Pinon Canyon Maneuver Site (both in Colorado). Requires the Secretary of the Army to manage such lands for military purposes covered by this Act and to authorize their use by other U.S. military agencies. Directs the Secretary, with the concurrence of the Secretary of the Interior, to develop a management plan for such reserved and withdrawn lands. Requires the Secretaries to enter into a memorandum of understanding to implement the plan. Terminates such land withdrawals and reservations 15 years after enactment of this Act, subject to extension under specified conditions. Requires the Secretary of the Army to: (1) decontaminate lands to be relinquished (but if such decontamination is not practicable or economically feasible, authorizes the Secretary of the Interior to refuse to accept them); (2) warn the public of risks of entry, conduct only decontamination activities on such lands after the expiration of the withdrawal, and make a status report to the Secretary of the Interior and to the Congress; and (3) maintain a program of decontamination of the lands withdrawn by this Act at least at the level of effort carried out during FY 1992, subject to specified limitations. Authorizes the Secretary of the Interior to revoke withdrawal and reservation of such lands and accept jurisdiction over them if it is in the public interest to do so. Authorizes appropriations.
+
+	</summary>
+</bill>

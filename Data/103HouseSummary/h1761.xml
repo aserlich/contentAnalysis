@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="1761" updated="2010-04-19T03:46:29-04:00">
+	<state datetime="1993-04-21">REFERRED</state>
+	<status><introduced datetime="1993-04-21"/></status>
+
+	<introduced datetime="1993-04-21"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to extend special treatment rules under the medicare program for regional referral centers and to permit a hospital that fails to qualify as a regional referral center under the program as a result of a change in geographic classification to decline such change and qualify as such a center.</title>
+	</titles>
+	<sponsor id="300083"/>
+	<cosponsors>
+		<cosponsor id="402657" joined="1993-05-19"/>
+		<cosponsor id="400414" joined="1993-06-15"/>
+		<cosponsor id="400023" joined="1993-04-21"/>
+		<cosponsor id="300038" joined="1993-04-26"/>
+		<cosponsor id="408556" joined="1993-04-26"/>
+		<cosponsor id="400568" joined="1993-04-26"/>
+		<cosponsor id="400281" joined="1993-04-26"/>
+		<cosponsor id="400390" joined="1993-04-26"/>
+		<cosponsor id="409966" joined="1993-04-21"/>
+		<cosponsor id="403873" joined="1993-04-26"/>
+		<cosponsor id="406554" joined="1993-04-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-21"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-04-22"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Hospitals"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Prospective payment systems (Medical care)"/>
+		<term name="Rural hospitals"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/21/1993--Introduced.
+Amends the Omnibus Budget Reconciliation Act of 1989 to extend special treatment rules under the Medicare program for regional referral centers. Permits any hospital that fails to qualify as a rural referral center under Medicare as a result of the hospital's urban reclassification to decline such reclassification and have the rural classification restored.
+
+	</summary>
+</bill>

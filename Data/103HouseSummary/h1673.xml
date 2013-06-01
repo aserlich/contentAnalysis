@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="1673" updated="2010-04-19T03:32:40-04:00">
+	<state datetime="1993-04-02">REFERRED</state>
+	<status><introduced datetime="1993-04-02"/></status>
+
+	<introduced datetime="1993-04-02"/>
+	<titles>
+		<title type="official" as="introduced">To limit to $1,500,000,000 the amount expended by the Department of Defense during any fiscal year for the Strategic Defense Initiative.</title>
+	</titles>
+	<sponsor id="400140"/>
+	<cosponsors>
+		<cosponsor id="406431" joined="1993-11-22"/>
+		<cosponsor id="400370" joined="1994-06-28"/>
+		<cosponsor id="400216" joined="1994-02-08"/>
+		<cosponsor id="406482" joined="1993-11-26"/>
+		<cosponsor id="406729" joined="1994-09-12"/>
+		<cosponsor id="408618" joined="1993-11-22"/>
+		<cosponsor id="400050" joined="1993-11-26"/>
+		<cosponsor id="400251" joined="1994-02-08"/>
+		<cosponsor id="400378" joined="1994-02-08"/>
+		<cosponsor id="400269" joined="1993-07-14"/>
+		<cosponsor id="409627" joined="1994-07-25"/>
+		<cosponsor id="300100" joined="1994-03-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-02"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-04-06"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Research and Technology.</text></action>
+		<action datetime="1993-04-06"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Research and Technology" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Defense budgets"/>
+		<term name="Government spending reductions"/>
+		<term name="Space warfare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/2/1993--Introduced.
+Limits to $1,500,000,000 the total amount to be expended by the Department of Defense for any fiscal year after 1993 for the Strategic Defense Initiative.
+
+	</summary>
+</bill>

@@ -1,0 +1,62 @@
+<bill session="103" type="hc" number="295" updated="2010-04-18T21:47:11-04:00">
+	<state datetime="1994-10-05T19:02:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-05T19:02:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1994-09-22"/>
+	<titles>
+		<title type="official" as="introduced">To express the sense of the Congress of the United States that the United States should actively seek compliance by all countries with the conservation and management measures for Atlantic bluefin tuna adopted by the International Commission for the Conservation of Atlantic Tunas.</title>
+	</titles>
+	<sponsor id="410496"/>
+	<cosponsors>
+		<cosponsor id="400885" joined="1994-09-22"/>
+		<cosponsor id="407141" joined="1994-09-22"/>
+		<cosponsor id="400440" joined="1994-09-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-22"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Fisheries Management.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Commerce, State.</text></action>
+		<action datetime="1994-10-05T18:59:00-04:00"><text>Committee on Merchant Marine and Fisheries discharged.</text></action>
+		<action datetime="1994-10-05T18:59:00-04:00"><text>Mr. Studds asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-10-05T19:00:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10928-10930"/></action>
+		<vote how="without objection" type="vote" datetime="1994-10-05T19:02:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On agreeing to the resolution Agreed to without objection.</text></vote>
+		<action datetime="1994-10-05T19:02:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-06"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Referred to the Committee on Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Discharged" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Fisheries Management" activity="Referral" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4852" />
+	</relatedbills>
+	<subjects>
+		<term name="Fisheries"/>
+		<term name="Anadromous fishes"/>
+		<term name="Animals"/>
+		<term name="Atlantic Ocean"/>
+		<term name="Embargo"/>
+		<term name="Environmental protection"/>
+		<term name="Europe"/>
+		<term name="Fishery agreements"/>
+		<term name="Foreign trade"/>
+		<term name="Import restrictions"/>
+		<term name="International affairs"/>
+		<term name="International fishery management"/>
+		<term name="Marine resources"/>
+		<term name="Marine resources conservation"/>
+		<term name="Mediterranean Sea"/>
+		<term name="Sanctions (International law)"/>
+		<term name="Trade"/>
+		<term name="Tuna fisheries"/>
+	</subjects>
+	<amendments>
+		<amendment number="h919"/>
+	</amendments>
+	<summary>
+	10/5/1994--Passed House amended. Declares the sense of the Congress regarding: (1) conservation and management of Atlantic bluefin tuna in the Atlantic Ocean and the Mediterranean Sea; (2) U.S. opposition to further quota reductions for nations harvesting Atlantic bluefin tuna in a specified area, and insistence that member nations harvesting in such area implement comparable conservation and rebuilding programs for the Atlantic bluefin tuna resource; and (3) the continued harvesting by fishermen from member countries of the International Commission for the Conservation of Atlantic Tunas which does not comply with the conservation and management recommendations of the Commission, which will be considered by the Congress to diminish the effectiveness of an international fishery conservation program and to be subject to an embargo under the Atlantic Tunas Convention. Declares that the United States should encourage: (1) other nations with significant markets for Atlantic bluefin tuna to prohibit their importation from harvesting nations which do not comply with the conservation and management recommendations of the Commission; and (2) the Commission to adopt recommendations authorizing the use of discretionary trade actions as enforcement against nations that undermine the effectiveness of such conservation and management recommendations.
+
+	</summary>
+</bill>

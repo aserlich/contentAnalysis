@@ -1,0 +1,39 @@
+<bill session="103" type="sc" number="10" updated="2010-04-19T21:12:38-04:00">
+	<state datetime="1993-02-04T23:50:00-05:00">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1993-02-04T23:50:00-05:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution providing for a conditional recess or adjournment of the Senate from Thursday, February 4, 1993, or Friday, February 5, 1993, until Tuesday, February 16, 1993, and a conditional adjournment of the House from Thursday, February 4, 1993, or Friday, February 5, 1993, until Tuesday, February 16, 1993.</title>
+	</titles>
+	<sponsor id="407786"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-02-04" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text><reference label="consideration" ref="CR S1368-1369"/></vote>
+		<action datetime="1993-02-04T21:39:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-02-04T23:49:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H569"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-02-04T23:50:00-05:00" where="h" result="pass"  state="PASSED:CONCURRENTRES"><text>On agreeing to the resolution Agreed to without objection.</text></vote>
+		<action datetime="1993-02-04T23:51:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-02-05"><text>Message on House action received in Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional sessions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Provides for a recess or adjournment of the Senate from February 4 or 5, 1993, until February 16, 1993, and an adjournment of the House of Representatives from February 4 or 5, 1993, until February 16, 1993.
+
+	</summary>
+</bill>

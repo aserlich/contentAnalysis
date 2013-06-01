@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="1317" updated="2010-04-19T02:36:12-04:00">
+	<state datetime="1993-03-11">REFERRED</state>
+	<status><introduced datetime="1993-03-11"/></status>
+
+	<introduced datetime="1993-03-11"/>
+	<titles>
+		<title type="short" as="introduced">Federal Franchise Data and Public Information Act</title>
+		<title type="official" as="introduced">To revise current Federal law and procedure to provide consumers with comprehensive and accurate statistical information about franchising and franchise practices, and for other purposes.</title>
+	</titles>
+	<sponsor id="400537"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-11"><text>Sponsor introductory remarks on measure. (CR E593-596)</text></action>
+		<action datetime="1993-03-11"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-03-11"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Census, Statistics and Postal Personnel.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Commerce, Consumer Protection, and Competitiveness" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Census, Statistics and Postal Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2595" />
+	</relatedbills>
+	<subjects>
+		<term name="Business"/>
+		<term name="Administrative fees"/>
+		<term name="Business records"/>
+		<term name="Census"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Data banks"/>
+		<term name="Deceptive advertising"/>
+		<term name="Economic statistics"/>
+		<term name="Financial statements"/>
+		<term name="Franchises (Retail trade)"/>
+		<term name="Government paperwork"/>
+		<term name="Public records"/>
+		<term name="Statistics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/1993--Introduced.
+Federal Franchise Data and Public Information Act - Requires all persons, partnerships, or corporations selling or offering for sale any franchise or any relationship represented either orally or in writing to be a franchise to file with the Department of Commerce a franchise disclosure document or circular which lists the most recent information with respect to the performance of the franchise. Requires the disclosure document to be filed annually with the Department, and requires the Department to make available to the Congress, the Federal Trade Commission, and other Federal agencies, as requested, copies of such document, as well as provide for public viewing. Requires the Department to establish procedures for the compilation, analysis, and publication of statistical information on franchise ownership and national franchising practices, using as its principal source of information the disclosure documents required under this Act. Requires the Department to take specified actions to ensure that such statistical information is accurate and updated at least annually. Requires the Department to report to the appropriate congressional committees on the information and findings relating to franchise ownership and national franchising practices required to be compiled under this Act. Directs the Department's Bureau of the Census to include in each Business Census beginning with 1997 statistical information on the number, ownership, and operation of franchise businesses.
+
+	</summary>
+</bill>

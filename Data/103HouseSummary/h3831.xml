@@ -1,0 +1,63 @@
+<bill session="103" type="h" number="3831" updated="2010-04-19T09:08:00-04:00">
+	<state datetime="1994-02-09">REFERRED</state>
+	<status><introduced datetime="1994-02-09"/></status>
+
+	<introduced datetime="1994-02-09"/>
+	<titles>
+		<title type="short" as="introduced">Vieques Lands Transfer Act of 1994</title>
+		<title type="official" as="introduced">To authorize and direct the transfer of certain lands on the Island of Vieques, Puerto Rico, to the Municipality of Vieques, and for other purposes.</title>
+	</titles>
+	<sponsor id="400615"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="1994-02-09"/>
+		<cosponsor id="400126" joined="1994-04-28"/>
+		<cosponsor id="403314" joined="1994-02-09"/>
+		<cosponsor id="408052" joined="1994-02-09"/>
+		<cosponsor id="400143" joined="1994-03-24"/>
+		<cosponsor id="400144" joined="1994-02-09"/>
+		<cosponsor id="400347" joined="1994-04-28"/>
+		<cosponsor id="400416" joined="1994-04-28"/>
+		<cosponsor id="400366" joined="1994-03-24"/>
+		<cosponsor id="400516" joined="1994-02-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-09"><text>Sponsor introductory remarks on measure. (CR E138)</text></action>
+		<action datetime="1994-02-09"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-02-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-02-22"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Installations and Facilities.</text></action>
+		<action datetime="1994-02-22"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1994-04-27"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1994-07-11"><committee name="House Committee on Natural Resources"/><text>Re-referred to the Subcommittee On Insular and International Affairs.</text></action>
+		<action datetime="1994-10-04"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Installations and Facilities" activity="Referral" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+		<committee code="" name="House Natural Resources" subcommittee="Insular and International Affairs" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Defense economics"/>
+		<term name="Federal-local relations"/>
+		<term name="Land transfers"/>
+		<term name="Land use"/>
+		<term name="Military base closures"/>
+		<term name="Puerto Rico"/>
+		<term name="State and local government"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/9/1994--Introduced.
+Vieques Lands Transfer Act of 1994 - Directs the Secretary of Defense to transfer all Federal interest in certain lands located in the western region of the municipality of Vieques, Puerto Rico, to such municipality to be used for public purposes (subject to a reversion if such lands cease to be so operated). Makes such lands eligible for transfer after the municipality submits a detailed plan for the public purposes for which the lands may be used to specified congressional committees.
+
+	</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="3599" updated="2010-04-19T08:31:47-04:00">
+	<state datetime="1993-11-20">REFERRED</state>
+	<status><introduced datetime="1993-11-20"/></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="official" as="introduced">To provide for the transfer of certain tuna fishing vessels documented in the United States to foreign registry.</title>
+	</titles>
+	<sponsor id="409627"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-20"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-11-21"><text>Sponsor introductory remarks on measure. (CR E3000)</text></action>
+		<action datetime="1993-11-24"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee On Merchant Marine.</text></action>
+		<action datetime="1993-11-24"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from DOT, Commerce.</text></action>
+		<action datetime="1994-08-01"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Unfavorable Executive Comment Received from Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Merchant Marine" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1721" />
+		<bill relation="identical" session="103" type="s" number="2271" />
+	</relatedbills>
+	<subjects>
+		<term name="Ships"/>
+		<term name="Animals"/>
+		<term name="Dolphins"/>
+		<term name="Environmental protection"/>
+		<term name="Fishing boats"/>
+		<term name="Marine mammal protection"/>
+		<term name="Marine resources"/>
+		<term name="Tuna fisheries"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+Provides for the transfer of certain tuna fishing vessels documented in the United States to foreign registry.
+
+	</summary>
+</bill>

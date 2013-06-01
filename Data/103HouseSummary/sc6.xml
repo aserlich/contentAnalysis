@@ -1,0 +1,59 @@
+<bill session="103" type="sc" number="6" updated="2010-04-19T21:11:59-04:00">
+	<state datetime="1993-09-28T18:48:00-04:00">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1993-09-28T18:48:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution to authorize printing of &quot;Senate Election, Expulsion, and Censure Cases&quot;, as prepared by the Office of the Secretary of the Senate.</title>
+	</titles>
+	<sponsor id="407786"/>
+	<cosponsors>
+		<cosponsor id="403515" joined="1993-01-21"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-01-21" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text><reference label="consideration" ref="CR S186-187"/></vote>
+		<action datetime="1993-01-26T12:22:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-01-26"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-02-22"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+		<action datetime="1993-06-17"><committee name="House Committee on House Administration" subcommittee="Personnel and Police"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-06-17"><committee name="House Committee on House Administration" subcommittee="Personnel and Police"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on House Administration"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-08-05" ><committee name="House Committee on House Administration"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-09-27T13:36:00-04:00"><text>Mr. Manton moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action datetime="1993-09-27T13:36:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7002"/></action>
+		<action datetime="1993-09-27T13:36:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-09-27T13:38:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mrs. Dunn objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1993-09-28T18:48:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7127"/></action>
+		<vote how="by voice vote" type="vote2" datetime="1993-09-28T18:48:00-04:00" where="h" result="pass"  state="PASSED:CONCURRENTRES"><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-09-28T18:48:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-09-28T18:48:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-09-29"><text>Message on House action received in Senate and at desk: House amendments to Senate bill.</text></action>
+		<action datetime="1993-10-04"><text>Senate agreed to the House amendment and the title amendment by Voice Vote.</text><reference label="consideration" ref="CR S13031"/></action>
+		<action datetime="1993-10-05"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, Markup" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Senate"/>
+		<term name="Congress"/>
+		<term name="Congressional elections (Senate)"/>
+		<term name="Congressional ethics"/>
+		<term name="Congressional publications"/>
+		<term name="Elections"/>
+		<term name="History"/>
+		<term name="Members of Congress (Senate)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/28/1993--Passed House amended. Provides for the printing as a Senate document of &quot;Senate Election, Expulsion, and Censure Cases,&quot; prepared by the Senate Historical Office.
+
+	</summary>
+</bill>

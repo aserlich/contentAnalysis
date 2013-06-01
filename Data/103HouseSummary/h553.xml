@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="553" updated="2010-04-19T00:28:11-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">To amend title II of the Social Security Act to provide that a monthly insurance benefit thereunder shall be paid for the month in which the recipient dies and that such benefit shall be payable for such month only to the extent proportionate to the number of days in such month preceding the date of the recipient's death.</title>
+	</titles>
+	<sponsor id="400414"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="1993-05-05"/>
+		<cosponsor id="404503" joined="1993-04-28"/>
+		<cosponsor id="400578" joined="1993-04-20"/>
+		<cosponsor id="403545" joined="1993-05-12"/>
+		<cosponsor id="400144" joined="1993-04-20"/>
+		<cosponsor id="410974" joined="1993-05-05"/>
+		<cosponsor id="400035" joined="1994-02-02"/>
+		<cosponsor id="400340" joined="1993-04-28"/>
+		<cosponsor id="400438" joined="1993-07-14"/>
+		<cosponsor id="404009" joined="1993-04-28"/>
+		<cosponsor id="400537" joined="1993-05-05"/>
+		<cosponsor id="402762" joined="1993-06-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="837" />
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Old age, survivors and disability insurance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to provide that a beneficiary shall be entitled to a prorated benefit for the month in which he or she dies.
+
+	</summary>
+</bill>

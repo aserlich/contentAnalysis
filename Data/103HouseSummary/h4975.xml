@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="4975" updated="2010-04-19T12:07:10-04:00">
+	<state datetime="1994-08-17">REFERRED</state>
+	<status><introduced datetime="1994-08-17"/></status>
+
+	<introduced datetime="1994-08-17"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Balanced Budget and Emergency Deficit Control Act of 1985 to exclude changes in tariffs from the paygo scorecard and to amend the Congressional Budget and Impoundment Control Act of 1974 to exempt changes in tariffs from certain points of order.</title>
+	</titles>
+	<sponsor id="400115"/>
+	<cosponsors>
+		<cosponsor id="400226" joined="1994-08-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-17"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-08-17"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1994-08-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Congressional budget"/>
+		<term name="Congressional budget process"/>
+		<term name="Foreign trade"/>
+		<term name="Government spending reductions"/>
+		<term name="House rules and procedure"/>
+		<term name="Legislation"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Tariff"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/17/1994--Introduced.
+Amends the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act) to exclude tariff changes from the pay-as-you-go enforcement provisions. Amends the Congressional Budget Act of 1974 to exempt tariff changes from certain points of order with respect to budget authority.
+
+	</summary>
+</bill>

@@ -1,0 +1,64 @@
+<bill session="103" type="h" number="4369" updated="2010-04-19T10:32:01-04:00">
+	<state datetime="1994-05-09">REFERRED</state>
+	<status><introduced datetime="1994-05-09"/></status>
+
+	<introduced datetime="1994-05-09"/>
+	<titles>
+		<title type="official" as="introduced">To remove the restrictions on the export of Alaskan North Slope oil, and for other purposes.</title>
+	</titles>
+	<sponsor id="400401"/>
+	<cosponsors>
+		<cosponsor id="400113" joined="1994-05-09"/>
+		<cosponsor id="400506" joined="1994-05-11"/>
+		<cosponsor id="400018" joined="1994-08-16"/>
+		<cosponsor id="400261" joined="1994-05-09"/>
+		<cosponsor id="400112" joined="1994-05-09"/>
+		<cosponsor id="400057" joined="1994-08-16"/>
+		<cosponsor id="400440" joined="1994-05-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-09"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-05-09"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-05-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-05-09"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1994-05-23"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Economic Policy, Trade and Environment.</text></action>
+		<action datetime="1994-06-07"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Energy and Power.</text></action>
+		<action datetime="1994-06-15"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from DOT.</text></action>
+		<action datetime="1994-06-15"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee On Merchant Marine.</text></action>
+		<action datetime="1994-07-11"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Economic Policy, Trade, and Environment" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="HSIF-03" name="House Energy and Commerce" subcommittee="Energy and Power" activity="Referral" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Oversight and Investigations" activity="Referral" />
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Merchant Marine" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="543" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Alaska"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Export controls"/>
+		<term name="Petroleum"/>
+		<term name="Petroleum pipelines"/>
+		<term name="Right-of-way"/>
+		<term name="Tankers"/>
+		<term name="Trade"/>
+		<term name="Transportation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/9/1994--Introduced.
+Amends the Export Administration Act of 1979 to repeal restrictions on the export of Alaskan North Slope oil. Provides that exports of such oil shall: (1) be transported in U.S. documented vessels (if initially transported by pipeline over a specified right-of-way); and (2) not be subject to restrictions contained in other specified Acts.
+
+	</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="103" type="s" number="2228" updated="2012-07-17T05:48:29-04:00">
+	<state datetime="1994-06-22">REFERRED</state>
+	<status><introduced datetime="1994-06-22"/></status>
+
+	<introduced datetime="1994-06-22"/>
+	<titles>
+		<title type="official" as="introduced">A bill to suspend temporarily the duty on certain textile-manufacturing machinery.</title>
+	</titles>
+	<sponsor id="300069"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-22" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4098" />
+		<bill relation="identical" session="103" type="s" number="2011" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Commerce"/>
+		<term name="Machinery"/>
+		<term name="Tariff"/>
+		<term name="Textile industry and fabrics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/22/1994--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through September 30, 1995, the duty on used machinery for the manufacture of nonwoven textiles by hydroentanglement, valued at not more than $800,000.
+
+	</summary>
+</bill>

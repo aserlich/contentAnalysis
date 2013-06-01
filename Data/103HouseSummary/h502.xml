@@ -1,0 +1,74 @@
+<bill session="103" type="h" number="502" updated="2010-04-19T00:19:29-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit the expenditure of Federal funds on metric system highway signing.</title>
+	</titles>
+	<sponsor id="403190"/>
+	<cosponsors>
+		<cosponsor id="400174" joined="1993-04-21"/>
+		<cosponsor id="406873" joined="1993-07-22"/>
+		<cosponsor id="400155" joined="1993-04-20"/>
+		<cosponsor id="400023" joined="1993-04-05"/>
+		<cosponsor id="406431" joined="1993-11-18"/>
+		<cosponsor id="400156" joined="1993-04-05"/>
+		<cosponsor id="400113" joined="1993-04-05"/>
+		<cosponsor id="400322" joined="1994-01-26"/>
+		<cosponsor id="401014" joined="1993-11-22"/>
+		<cosponsor id="400348" joined="1993-04-05"/>
+		<cosponsor id="400332" joined="1993-04-20"/>
+		<cosponsor id="400154" joined="1993-11-22"/>
+		<cosponsor id="400127" joined="1993-04-20"/>
+		<cosponsor id="400388" joined="1994-07-20"/>
+		<cosponsor id="400359" joined="1994-08-01"/>
+		<cosponsor id="400037" joined="1993-11-18"/>
+		<cosponsor id="400551" joined="1993-09-14"/>
+		<cosponsor id="400533" joined="1993-04-20"/>
+		<cosponsor id="408553" joined="1994-03-24"/>
+		<cosponsor id="412001" joined="1993-04-05"/>
+		<cosponsor id="400169" joined="1993-06-28"/>
+		<cosponsor id="400083" joined="1994-08-01"/>
+		<cosponsor id="400251" joined="1993-11-22"/>
+		<cosponsor id="400265" joined="1994-01-26"/>
+		<cosponsor id="400269" joined="1993-07-14"/>
+		<cosponsor id="400056" joined="1993-04-20"/>
+		<cosponsor id="400189" joined="1994-01-26"/>
+		<cosponsor id="400601" joined="1993-07-14"/>
+		<cosponsor id="400221" joined="1994-07-20"/>
+		<cosponsor id="400286" joined="1993-06-28"/>
+		<cosponsor id="410887" joined="1993-04-05"/>
+		<cosponsor id="400100" joined="1993-04-21"/>
+		<cosponsor id="411997" joined="1993-04-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-02-04"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+		<action datetime="1994-05-12"><committee name="House Committee on Public Works + Transportation"/><text>See H.R.4385.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4385" />
+	</relatedbills>
+	<subjects>
+		<term name="Roads and highways"/>
+		<term name="Federal aid highway program"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Highway finance"/>
+		<term name="Metric system"/>
+		<term name="Puerto Rico"/>
+		<term name="Signs and signboards"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Prohibits the expenditure of Federal funds to construct, erect, or modify highway signs using metric system measurements unless the Congress specifically authorizes such expenditure. Makes such prohibition inapplicable with respect to Puerto Rico.
+
+	</summary>
+</bill>

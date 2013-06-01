@@ -1,0 +1,43 @@
+<bill session="103" type="hr" number="537" updated="2010-04-19T14:22:30-04:00">
+	<state datetime="1994-09-22T12:50:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-09-22T12:50:00-04:00" where="h" result="pass" how="roll" roll="435"/></status>
+
+	<introduced datetime="1994-09-21"/>
+	<titles>
+		<title type="official" as="introduced">Waiving points of order against the conference report to accompany the bill (H.R. 4539) making appropriations for the Treasury Department, the United States Postal Service, the Executive Office of the President, and certain Independent Agencies, for the fiscal year ending September 30, 1995, and for other purposes.</title>
+	</titles>
+	<sponsor id="401310"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-21T16:46:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-736, by Mr. Beilenson.</text></action>
+		<action datetime="1994-09-21T16:46:00-04:00"><text>Rule provides for consideration of the conference report to H.R. 4539. All points of order against the conference report and against its consideration are waived. The conference report shall be considered as read.</text></action>
+		<calendar datetime="1994-09-21T16:47:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 221.</text></calendar>
+		<action datetime="1994-09-22T11:58:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H9465-9469"/></action>
+		<action datetime="1994-09-22T11:58:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1994-09-22T12:30:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="roll" type="vote" roll="435" datetime="1994-09-22T12:50:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 250 - 169 (Roll no. 435).</text></vote>
+		<action datetime="1994-09-22T12:50:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4539" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Appropriations"/>
+		<term name="Congress"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/21/1994--Introduced.
+Waives points of order against the consideration of the conference report on H.R. 4539 (making appropriations for the Department of the Treasury, the U.S. Postal Service, the Executive Office of the President, and certain Independent Agencies for FY 1995).
+
+	</summary>
+</bill>

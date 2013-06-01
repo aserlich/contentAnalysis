@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="3159" updated="2010-04-19T07:23:37-04:00">
+	<state datetime="1993-09-28">REFERRED</state>
+	<status><introduced datetime="1993-09-28"/></status>
+
+	<introduced datetime="1993-09-28"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to codify the addition by the Secretary of Veterans Affairs of certain additional diseases to the list of diseases occurring in veterans that are considered to be service-connected.</title>
+	</titles>
+	<sponsor id="400126"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-09-28"/>
+		<cosponsor id="400527" joined="1993-09-30"/>
+		<cosponsor id="406277" joined="1993-09-28"/>
+		<cosponsor id="400163" joined="1993-09-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-28"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-10-01"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Compensation, Pension and Insurance.</text></action>
+		<action datetime="1994-04-28"><committee name="House Committee on Veterans' Affairs" subcommittee="Compensation, Pension and Insurance"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Veterans' Affairs" subcommittee="Compensation, Pension and Insurance" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Agent Orange"/>
+		<term name="Cancer"/>
+		<term name="Dioxins"/>
+		<term name="Herbicides"/>
+		<term name="Lung cancer"/>
+		<term name="Medicine"/>
+		<term name="Veterans' disability compensation"/>
+		<term name="Vietnam veterans"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/28/1993--Introduced.
+Adds lung, larynx, or trachea cancer and multiple myeloma to the list of diseases that are presumed to be service-connected and, therefore, compensable under veterans' disability provisions when suffered by Vietnam era veterans as a result of exposure to certain herbicide agents during active duty in Vietnam.
+
+	</summary>
+</bill>

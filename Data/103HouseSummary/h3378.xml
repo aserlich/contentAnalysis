@@ -1,0 +1,75 @@
+<bill session="103" type="h" number="3378" updated="2010-04-19T07:57:21-04:00">
+	<state datetime="1993-12-02">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-02" /></status>
+
+	<introduced datetime="1993-10-27"/>
+	<titles>
+		<title type="short" as="introduced">International Parental Kidnapping Crime Act of 1993</title>
+		<title type="short" as="enacted">International Parental Kidnapping Crime Act of 1993</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, with respect to parental kidnapping, and for other purposes.</title>
+	</titles>
+	<sponsor id="400544"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-27"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-11-02"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+		<action datetime="1993-11-16"><committee name="House Committee on Judiciary" subcommittee="Crime and Criminal Justice"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-11-16"><committee name="House Committee on Judiciary" subcommittee="Crime and Criminal Justice"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-11-17"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-11-17"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1993-11-20T10:39:00-05:00"><text>Reported by the Committee on Judiciary. H. Rept. 103-390.</text></action>
+		<calendar number="216" datetime="1993-11-20T10:40:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 216.</text></calendar>
+		<action datetime="1993-11-20T10:50:00-05:00"><text>Mr. Schumer moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-11-20T10:51:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10312-10314"/></action>
+		<action datetime="1993-11-20T10:51:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-11-20T11:00:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1993-11-20T11:23:00-05:00"><text>Considered as unfinished business.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-20T11:23:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-20T11:24:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-11-20" where="s" result="pass"  state="PASSED:BILL"><text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S16865"/></vote>
+		<topresident datetime="1993-11-20" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-11-22"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-11-23" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-02" ><text>Signed by President.</text></signed>
+		<enacted number="103-173" type="public" datetime="1993-12-02"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-173.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Actions and defenses"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Children"/>
+		<term name="Criminal justice"/>
+		<term name="Custody of children"/>
+		<term name="Education"/>
+		<term name="Families"/>
+		<term name="Family violence"/>
+		<term name="Federal aid to education"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Higher education"/>
+		<term name="International affairs"/>
+		<term name="Law"/>
+		<term name="Legal education"/>
+		<term name="Parental kidnapping"/>
+		<term name="State and local government"/>
+		<term name="State courts"/>
+		<term name="Treaties"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/27/1993--Introduced.
+International Parental Kidnapping Crime Act of 1993 - Amends the Federal criminal code to establish penalties for removing a child from, or retaining a child outside, the United States with intent to obstruct the lawful exercise of parental rights. Establishes as an affirmative defense that the defendant: (1) acted within the provisions of a valid court order granting custody or visitation rights obtained pursuant to the Uniform Child Custody Jurisdiction Act; (2) was fleeing domestic violence; and (3) had physical custody of the child pursuant to a court order, failed to return the child as a result of circumstances beyond his or her control, notified or made reasonable attempts to notify the other parent or lawful custodian of the child of such circumstances within 24 hours after the visitation period had expired, and returned the child as soon as possible. Expresses the sense of the Congress that procedures under the Hague Convention on the Civil Aspects of International Parental Child Abduction should be the option of first choice for a parent who seeks the return of a child who has been removed from the parent. Authorizes appropriations to carry out (under the State Justice Institute Act of 1984) national, regional, and in-State training and educational programs dealing with criminal and civil aspects of interstate and international parental child abduction.
+
+	</summary>
+</bill>

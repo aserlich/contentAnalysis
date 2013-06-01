@@ -1,0 +1,40 @@
+<bill session="103" type="h" number="714" updated="2010-04-19T00:54:32-04:00">
+	<state datetime="1993-02-02">REFERRED</state>
+	<status><introduced datetime="1993-02-02"/></status>
+
+	<introduced datetime="1993-02-02"/>
+	<titles>
+		<title type="popular" as="">Unemployment Compensation Extension bill</title>
+		<title type="official" as="introduced">To increase the number of weeks for which emergency unemployment compensation is payable, and for other purposes.</title>
+	</titles>
+	<sponsor id="400122"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-02"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-05"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="526" />
+	</relatedbills>
+	<subjects>
+		<term name="Unemployment insurance"/>
+		<term name="Food"/>
+		<term name="Income tax"/>
+		<term name="Recreation"/>
+		<term name="Tax deductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1993--Introduced.
+Amends the Emergency Unemployment Compensation Act of 1991 (Public Law 102-164) to increase the number of weeks for which emergency unemployment compensation is payable. Amends the Internal Revenue Code to reduce a tax deduction for certain expenses for meals and entertainment.
+
+	</summary>
+</bill>

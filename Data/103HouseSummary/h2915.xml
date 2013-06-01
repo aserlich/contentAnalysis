@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="2915" updated="2010-04-19T06:45:45-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="short" as="introduced">False Claims Amendments Act of 1993</title>
+		<title type="official" as="introduced">To amend chapter 37 of title 31, United States Code, relating to false claims actions, and for other purposes.</title>
+	</titles>
+	<sponsor id="400025"/>
+	<cosponsors>
+		<cosponsor id="400140" joined="1993-08-06"/>
+		<cosponsor id="404602" joined="1993-08-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-08-16"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Claims"/>
+		<term name="Actions and defenses"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Damages"/>
+		<term name="Disciplining of employees"/>
+		<term name="Employee rights"/>
+		<term name="Evidence (Law)"/>
+		<term name="Fraud"/>
+		<term name="Government liability"/>
+		<term name="Governmental investigations"/>
+		<term name="Inspectors general"/>
+		<term name="Limitation of actions"/>
+		<term name="Popular actions"/>
+		<term name="Whistle blowing"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+False Claims Amendments Act of 1993 - Amends the False Claims Act with respect to: (1) dismissal of qui tam actions at Government motion in specified circumstances; (2) waiver by private parties of the Government's rights to recover damages under such Act as part of any court approved settlement of a potential qui tam suit; (3) whistleblower protection; (4) the definition of &quot;person&quot; under such Act; (5) the Act's statute of limitations; and (6) the authority under such Act to issue civil investigative demands. Requires periodic reports by the Department of Justice to specified congressional committees on cases which the Department has moved to dismiss.
+
+	</summary>
+</bill>

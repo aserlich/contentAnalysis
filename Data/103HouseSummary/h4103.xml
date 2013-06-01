@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="4103" updated="2010-04-19T09:50:36-04:00">
+	<state datetime="1994-03-22">REFERRED</state>
+	<status><introduced datetime="1994-03-22"/></status>
+
+	<introduced datetime="1994-03-22"/>
+	<titles>
+		<title type="short" as="introduced">Excess Federal Firearms Act of 1994</title>
+		<title type="official" as="introduced">To codify regulations restricting the sale and donation of excess firearms owned or held by Federal agencies.</title>
+	</titles>
+	<sponsor id="400070"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-22"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-03-24"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Firearms"/>
+		<term name="Administrative procedure"/>
+		<term name="Criminal justice"/>
+		<term name="Executive departments"/>
+		<term name="Firearms control"/>
+		<term name="Surplus government property"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/22/1994--Introduced.
+Excess Federal Firearms Act of 1994 - Requires Federal agencies to adhere to existing Federal regulations governing sales and donations of excess firearms when disposing of such weapons. Prohibits the Administrator of General Services from waiving the application of such regulations with respect to such disposals.
+
+	</summary>
+</bill>

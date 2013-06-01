@@ -1,0 +1,73 @@
+<bill session="103" type="s" number="778" updated="2012-07-17T05:08:00-04:00">
+	<state datetime="1993-12-14">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-14" /></status>
+
+	<introduced datetime="1993-04-07"/>
+	<titles>
+		<title type="short" as="introduced">Watermelon Research and Promotion Improvement Act of 1993</title>
+		<title type="short" as="passed senate">Watermelon Research and Promotion Improvement Act of 1993</title>
+		<title type="short" as="enacted">Watermelon Research and Promotion Improvement Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend the Watermelon Research and Promotion Act to expand operation of the Act to the entire United States, to authorize the revocation of the refund provision of the Act, to modify the referendum procedures of the Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="401604"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-07" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4565)</text></action>
+		<action datetime="1993-04-07" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-04-12"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Domestic and Foreign Marketing.</text></action>
+		<action datetime="1993-11-20"><text>Senate Committee on Agriculture discharged by Unanimous Consent.</text></action>
+		<action datetime="1993-11-20"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S16894-16896"/></action>
+		<action datetime="1993-11-20"><text>The committee substitute as amended agreed to by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-11-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-21T14:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-21T18:10:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-11-21T22:13:00-05:00"><text>Mr. de la Garza asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1993-11-21T22:13:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10611-10613"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-11-21T22:14:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-11-21T22:14:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-11-21" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-12-08" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-14" ><text>Signed by President.</text></signed>
+		<enacted number="103-189" type="public" datetime="1993-12-14"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-189.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Domestic and Foreign Marketing and Product Promotion" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="653" />
+		<bill relation="unknown" session="103" type="h" number="653" />
+		<bill relation="unknown" session="103" type="h" number="3515" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Administrative procedure"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural research"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Business records"/>
+		<term name="Commerce"/>
+		<term name="Department of Agriculture"/>
+		<term name="District of Columbia"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Fees"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Foreign trade promotion"/>
+		<term name="Fruit and fruit trade"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Imports"/>
+		<term name="Marketing of farm produce"/>
+		<term name="Referendum"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1234"/>
+	</amendments>
+	<summary>
+	11/20/1993--Passed Senate amended. Watermelon Research and Promotion Improvement Act of 1993 - Amends the Watermelon Research and Promotion Act to require plan approval by a majority of the producers, handlers, and eligible importers voting in a referendum. (Sec. 3) Extends the provisions of such Act to each of the States and the District of Columbia. (Sec. 4) Sets forth purchase or volume conditions under which a producer shall be considered a handler for purposes of National Watermelon Promotion Board (Board) membership. (Sec. 5) Amends provisions regarding: (1) assessment collections; and (2) rulemaking requirements and assessment rate changes. (Sec. 7) Authorizes the revocation of the watermelon assessment refund. Stipulates that persons who import less than 150,000 pounds of watermelons per year may apply for a refund based upon the domestic assessment rate. (Sec. 8) Includes imported watermelons in the definition of &quot;watermelon.&quot; Subjects watermelon importers to the terms of such Act. Provides for importer membership on the Board. (Sec. 9) Redefines &quot;producer&quot; to mean any person growing ten or more (currently five or more) acres of watermelons. Authorizes the Board to establish producer certification rules. (Sec. 10) Revises plan amendment provisions to require: (1) publication of proposed amendments and a referendum; and (2) separate line item voting and approval of specified amendments.
+
+	</summary>
+</bill>

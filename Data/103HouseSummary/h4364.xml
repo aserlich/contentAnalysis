@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="4364" updated="2012-07-17T04:19:51-04:00">
+	<state datetime="1994-07-12T13:21:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-07-12T13:21:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-05-05"/>
+	<titles>
+		<title type="official" as="introduced">To direct the Secretary of Transportation to transfer administrative jurisdiction over certain lands for inclusion in the Cape Hatteras National Seashore Recreational Area.</title>
+	</titles>
+	<sponsor id="406554"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-05" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-05-05"><committee name="House Committee on Natural Resources"/><text>Late Referral to the Subcommittee on National Parks, Forests and Public Lands (Jul 11,94).</text></action>
+		<action datetime="1994-05-05" state="REPORTED"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1994-05-09"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Coast Guard and Navigation.</text></action>
+		<action datetime="1994-05-09"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from DOT.</text></action>
+		<action datetime="1994-06-08" state="REFERRED"><text>Hearings Held by the Subcommittee on National Parks, Forests and Public Lands Prior to Referral.</text></action>
+		<action datetime="1994-06-16"><text>Subcommittee Consideration and Mark-up Session Held and Forwarded to Full Committee by the Subcommittee on National Parks, Forests and Public Lands Prior to Referral by Voice Vote.</text></action>
+		<action datetime="1994-06-22"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-06-22"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-06-29"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Text of Measure Incorporated into H.R.4422.</text></action>
+		<action datetime="1994-07-12T13:12:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-593, Part I.</text></action>
+		<action datetime="1994-07-12T13:14:00-04:00"><text>Mr. Vento moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-07-12T13:14:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5487-5488"/></action>
+		<action datetime="1994-07-12T13:15:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-07-12T13:21:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-07-12T13:21:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-07-12T13:21:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1994-07-14"><text>Received in the Senate and read twice and referred to the Committee on Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Hearings, Markup" />
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Coast Guard and Navigation" activity="Referral" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Land transfers"/>
+		<term name="Lighthouses and lightships"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="National recreation areas"/>
+		<term name="National seashores"/>
+		<term name="North Carolina"/>
+		<term name="Transportation and public works"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/12/1994--Passed House amended. Directs the Secretary of Transportation to transfer administrative jurisdiction over Federal property known as the Ocracoke Light Station to the Secretary of the Interior, subject to such reservations, terms, and conditions as may be necessary for Coast Guard purposes. Requires the transferred property to be included in and administered as part of the Cape Hatteras National Seashore, North Carolina.
+
+	</summary>
+</bill>

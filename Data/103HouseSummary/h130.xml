@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="130" updated="2010-04-18T23:20:15-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Medicaid Women's Basic Health Coverage Act of 1993</title>
+		<title type="official" as="introduced">To amend title XIX of the Social Security Act to require State medicaid programs to provide coverage of screening mammography and screening pap smears.</title>
+	</titles>
+	<sponsor id="402763"/>
+	<cosponsors>
+		<cosponsor id="400289" joined="1993-04-01"/>
+		<cosponsor id="411040" joined="1993-01-05"/>
+		<cosponsor id="400316" joined="1993-04-01"/>
+		<cosponsor id="409650" joined="1993-01-05"/>
+		<cosponsor id="402152" joined="1993-04-01"/>
+		<cosponsor id="411178" joined="1993-01-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Breast cancer"/>
+		<term name="Cervical cancer"/>
+		<term name="Mammography"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Medical screening"/>
+		<term name="Medical tests"/>
+		<term name="Public assistance programs"/>
+		<term name="Standards"/>
+		<term name="Women's health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Medicaid Women's Basic Health Coverage Act of 1993 - Amends title XIX (Medicaid) of the Social Security Act to provide Medicaid coverage of: (1) screening mammographies for women age 35 and older conducted in accordance with the frequency guidelines established by the Omnibus Budget Reconciliation Act of 1990 for coverage of screening mammographies under the Medicare program (title XVIII of the Social Security Act); and (2) screening pap smears.
+
+	</summary>
+</bill>

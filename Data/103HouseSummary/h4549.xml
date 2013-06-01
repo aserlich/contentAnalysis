@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="4549" updated="2012-07-17T05:29:54-04:00">
+	<state datetime="1994-07-12T18:40:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-07-12T18:40:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-06-08"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 5, United States Code, to provide for travel and transportation expenses for the family of a career appointee in the Senior Executive Service who dies after transferring in the interest of the Government to an official duty station and who was eligible for an annuity at the time of death, and for other purposes.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-08" state="REFERRED"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-06-13"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1994-06-29"><committee name="House Committee on Government Operations" subcommittee="Legislation and National Security"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-06-29"><committee name="House Committee on Government Operations" subcommittee="Legislation and National Security"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1994-06-29"><committee name="House Committee on Government Operations"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-06-29"  state="REPORTED"><committee name="House Committee on Government Operations"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-07-12T18:34:00-04:00"><text>Mr. Conyers moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-07-12T18:36:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5527-5528"/></action>
+		<action datetime="1994-07-12T18:36:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-07-12T18:40:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1994-07-12T18:40:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-07-14"><text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, Markup" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral, Markup, Reporting" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1779" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal officials"/>
+		<term name="Annuities"/>
+		<term name="Civil service pensions"/>
+		<term name="Government operations and politics"/>
+		<term name="Labor and employment"/>
+		<term name="Relocation of employees"/>
+		<term name="Survivors' benefits"/>
+		<term name="Transportation and public works"/>
+		<term name="Travel costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/8/1994--Introduced.
+Amends Federal law to provide relocation travel and transportation expenses for the immediate family of a Senior Executive Service career appointee who, after transferring in the interest of the Government to an official duty station, died in service or shortly after separation from service and was eligible at the time of death for Federal annuity benefits.
+
+	</summary>
+</bill>

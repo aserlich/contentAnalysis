@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="2194" updated="2012-07-17T05:48:25-04:00">
+	<state datetime="1994-08-02T12:03:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-08-02T12:03:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1993-05-19"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Merrill Lannen.</title>
+	</titles>
+	<sponsor id="401854"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-19" state="REFERRED"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-24"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+		<action datetime="1994-07-14T19:19:00-04:00"><text>Reported by the Committee on Judiciary. H. Rept. 103-604.</text></action>
+		<calendar datetime="1994-07-14T19:19:00-04:00"  state="REPORTED"><text>Placed on the Private Calendar, Calendar No. 12.</text></calendar>
+		<action datetime="1994-08-02T12:03:00-04:00"><text>Considered from the Private Calendar.</text></action>
+		<vote how="without objection" type="vote" datetime="1994-08-02T12:03:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-08-02T12:03:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-08-03"><text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<calendar datetime="1994-09-20" ><committee name="House Committee on Judiciary"/><text>Committee on Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-09-29"><text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="697" datetime="1994-09-29" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 697.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Reporting" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Federal employees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/19/1993--Introduced.
+Deems a named individual to be an employee whose transfer from the United States Postal Service to the United States Army Corps of Engineers in March 1985 entitled him to travel, transportation, and relocation expenses.
+
+	</summary>
+</bill>

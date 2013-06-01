@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="5159" updated="2010-04-19T12:35:26-04:00">
+	<state datetime="1994-10-03">REFERRED</state>
+	<status><introduced datetime="1994-10-03"/></status>
+
+	<introduced datetime="1994-10-03"/>
+	<titles>
+		<title type="short" as="introduced">Capital Budget Commission Act of 1994</title>
+		<title type="official" as="introduced">To establish the Capital Budget Commission.</title>
+	</titles>
+	<sponsor id="400614"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1994-11-29"/>
+		<cosponsor id="400289" joined="1994-10-03"/>
+		<cosponsor id="410821" joined="1994-10-03"/>
+		<cosponsor id="404083" joined="1994-10-04"/>
+		<cosponsor id="405775" joined="1994-10-03"/>
+		<cosponsor id="400323" joined="1994-10-03"/>
+		<cosponsor id="404375" joined="1994-10-03"/>
+		<cosponsor id="409829" joined="1994-10-04"/>
+		<cosponsor id="400001" joined="1994-10-03"/>
+		<cosponsor id="400178" joined="1994-10-03"/>
+		<cosponsor id="400554" joined="1994-10-03"/>
+		<cosponsor id="406554" joined="1994-10-03"/>
+		<cosponsor id="400611" joined="1994-10-03"/>
+		<cosponsor id="400243" joined="1994-10-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-03"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-10-07"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Budgets"/>
+		<term name="Capital budgets"/>
+		<term name="Capital investments"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Economic growth"/>
+		<term name="Economic policy"/>
+		<term name="Executive departments"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Infrastructure"/>
+		<term name="Infrastructure (Economics)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Introduced.
+Capital Budget Commission Act of 1994 - Establishes the Capital Budget Commission to study and report to the Congress on capital budgeting, including an evaluation of what should be included in a capital budget for the Federal Government. Requires the Commission to: (1) focus on growth-sustaining investments; and (2) establish a process encouraging long-term investment. Authorizes appropriations.
+
+	</summary>
+</bill>

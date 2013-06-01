@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="2124" updated="2010-04-19T04:43:11-04:00">
+	<state datetime="1993-05-13">REFERRED</state>
+	<status><introduced datetime="1993-05-13"/></status>
+
+	<introduced datetime="1993-05-13"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to limit the tax rate for certain small businesses, and for other purposes.</title>
+	</titles>
+	<sponsor id="400225"/>
+	<cosponsors>
+		<cosponsor id="410147" joined="1993-06-09"/>
+		<cosponsor id="400267" joined="1993-06-15"/>
+		<cosponsor id="400127" joined="1993-06-09"/>
+		<cosponsor id="400206" joined="1993-06-09"/>
+		<cosponsor id="406799" joined="1993-06-09"/>
+		<cosponsor id="407044" joined="1993-06-22"/>
+		<cosponsor id="403864" joined="1993-06-09"/>
+		<cosponsor id="411997" joined="1993-06-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-13"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-18"><text>Sponsor introductory remarks on measure. (CR H2498)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="947" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Corporation taxes"/>
+		<term name="Partnerships"/>
+		<term name="Small business"/>
+		<term name="Tax rates"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/13/1993--Introduced.
+Amends the Internal Revenue Code to establish a maximum small business tax rate for individuals, partnerships, S corporations, or other pass-through entities with average gross receipts of not more than $5 million for a three-year tax period.
+
+	</summary>
+</bill>

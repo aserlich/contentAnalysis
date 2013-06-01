@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="1494" updated="2010-04-19T03:04:26-04:00">
+	<state datetime="1993-03-25">REFERRED</state>
+	<status><introduced datetime="1993-03-25"/></status>
+
+	<introduced datetime="1993-03-25"/>
+	<titles>
+		<title type="short" as="introduced">Children's Electromagnetic Field Risk Reduction Act of 1993</title>
+		<title type="official" as="introduced">To establish a national policy prohibiting the location of new public schools and child care centers on real property where the electromagnetic field exceeds an average 2 milligauss per day, and for other purposes.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+		<cosponsor id="400532" joined="1993-05-20"/>
+		<cosponsor id="400380" joined="1993-09-29"/>
+		<cosponsor id="404375" joined="1993-05-20"/>
+		<cosponsor id="400251" joined="1993-05-20"/>
+		<cosponsor id="400204" joined="1993-05-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-25"><text>Sponsor introductory remarks on measure. (CR E781)</text></action>
+		<action datetime="1993-03-25"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-04-16"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+		<action datetime="1993-04-16"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral" />
+		<committee code="" name="House Education and Labor" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Child health"/>
+		<term name="Day care"/>
+		<term name="Educational facilities"/>
+		<term name="Electromagnetic waves"/>
+		<term name="Government paperwork"/>
+		<term name="Health education"/>
+		<term name="Information services"/>
+		<term name="Medical care"/>
+		<term name="Public schools"/>
+		<term name="Radiobiology"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/25/1993--Introduced.
+Children's Electromagnetic Field Risk Reduction Act of 1993 - Establishes a national policy prohibiting location of new public schools and child care centers on real property where the electromagnetic field is an average two milligauss or more per day. Directs the Secretary of Education to develop and disseminate to State and local educational agencies advisory medical and scientific information on the potential health risk to children from electromagnetic fields.
+
+	</summary>
+</bill>

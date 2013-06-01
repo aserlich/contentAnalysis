@@ -1,0 +1,74 @@
+<bill session="103" type="h" number="4683" updated="2012-07-17T06:12:43-04:00">
+	<state datetime="1994-09-29T19:09:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-09-29T19:09:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-06-29"/>
+	<titles>
+		<title type="short" as="introduced">Flow Control Act of 1994</title>
+		<title type="official" as="introduced">To amend the Solid Waste Disposal Act to provide congressional authorization of State control over transportation of municipal solid waste, and for other purposes.</title>
+	</titles>
+	<sponsor id="400308"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-29" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-07-21"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+		<action datetime="1994-07-21"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-07-21"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-08-18"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-08-18"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-09-22T17:08:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 103-738.</text></action>
+		<calendar number="408" datetime="1994-09-22T17:08:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 408.</text></calendar>
+		<action datetime="1994-09-27T18:56:00-04:00"><text>Rules Committee Resolution H. Res. 552 Reported to House. Rule provides for consideration of H.R. 4683 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be read by section. Bill is open to amendments. I shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Energy and Commerce now printed in the bill.</text></action>
+		<action datetime="1994-09-29T16:59:00-04:00"><text>Rule H. Res. 552 passed House.</text></action>
+		<action datetime="1994-09-29T16:59:00-04:00"><text>Considered under the provisions of rule H. Res. 552.</text><reference label="consideration" ref="CR H10298-10320"/></action>
+		<action datetime="1994-09-29T16:59:00-04:00"><text>Rule provides for consideration of H.R. 4683 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be read by section. Bill is open to amendments. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Energy and Commerce now printed in the bill.</text></action>
+		<action datetime="1994-09-29T16:59:00-04:00"><text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 552 and Rule XXIII.</text></action>
+		<action datetime="1994-09-29T16:59:00-04:00"><text>The Speaker designated the Honorable Jolene Unsoeld to act as Chairwoman of the Committee.</text></action>
+		<action datetime="1994-09-29T17:00:00-04:00"><text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate.</text></action>
+		<action datetime="1994-09-29T19:08:00-04:00"><text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4683.</text></action>
+		<action datetime="1994-09-29T19:09:00-04:00"><text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-09-29T19:09:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed by voice vote.</text></vote>
+		<action datetime="1994-09-29T19:09:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-09-30"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-04"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral, Markup, Reporting" />
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="103" type="hr" number="552" />
+		<bill relation="unknown" session="103" type="h" number="5250" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Commerce"/>
+		<term name="Government operations and politics"/>
+		<term name="Household wastes"/>
+		<term name="Incineration"/>
+		<term name="Industrial pollution"/>
+		<term name="Interstate commerce"/>
+		<term name="Interstate relations"/>
+		<term name="Municipal ordinances"/>
+		<term name="Municipal services"/>
+		<term name="Recycling industry"/>
+		<term name="Recycling of waste products"/>
+		<term name="Refuse and refuse disposal"/>
+		<term name="State laws"/>
+		<term name="Transboundary pollution"/>
+		<term name="Transportation and public works"/>
+		<term name="Waste disposal sites"/>
+	</subjects>
+	<amendments>
+		<amendment number="h897"/>
+		<amendment number="h898"/>
+		<amendment number="h899"/>
+	</amendments>
+	<summary>
+	9/29/1994--Passed House amended. Amends the Solid Waste Disposal Act to authorize States and qualified political subdivisions to exercise flow control authority within their borders for: (1) municipal solid waste generated from household sources within their boundaries; (2) municipal solid waste generated within their boundaries if, before May 15, 1994, the States or political subdivision adopted a law, regulation, solid waste management plan, or legally binding provision that exercised such authority with respect to a waste management facility designated before such date or identified the use of waste management methods necessary for such waste and committed to the designation of facilities for such methods; and (3) recyclable materials generated within their boundaries. Authorizes States or political subdivisions that meet requirements described by (2) above to regulate the transportation, management, and disposal of such waste from any waste management facility to any other such facility subject to certain conditions. Permits flow control authority with respect to recyclable materials only if: (1) the generator or owner of the materials voluntarily made the materials available to the States or subdivision and relinquished any rights to, or ownership of, such materials; and (2) the State or subdivision assumes such rights or ownership. Permits such authority with respect to waste from household sources or recyclable materials only if the State or subdivision: (1) establishes a program to separate or divert recyclable materials for purposes of recycling, reclamation, or reuse before exercising flow control authority over waste from household sources; and (2) finds on the basis of public hearings that it is necessary to exercise such authority to meet current or anticipated solid waste management needs. Allows flow control authority only if the State or subdivision implements a competitive designation process with respect to waste management or recyclable materials facilities. Authorizes a State Governor to certify that a State's laws and regulations in effect on May 15, 1994, satisfy requirements for the competitive designation process. Retains the applicability of certain existing laws and contracts and provides that the exercise of flow control authority shall not be considered to impair or discriminate against interstate commerce.
+
+	</summary>
+</bill>

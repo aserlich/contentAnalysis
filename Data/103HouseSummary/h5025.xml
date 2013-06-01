@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="5025" updated="2010-04-19T12:14:46-04:00">
+	<state datetime="1994-09-28">REPORTED</state>
+	<status><calendar datetime="1994-09-28" /></status>
+
+	<introduced datetime="1994-09-12"/>
+	<titles>
+		<title type="official" as="introduced">To eliminate a maximum daily diversion restriction with respect to the pumping of certain water from Lake Powell, and for other purposes.</title>
+	</titles>
+	<sponsor id="400504"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-12"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on Natural Resources"/><text>Late Referral to the Subcommittee on Oversight and Investigations (Nov 21, 94).</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T20:21:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 103-802.</text></action>
+		<calendar number="448" datetime="1994-10-03T20:21:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 448.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2393" />
+	</relatedbills>
+	<subjects>
+		<term name="Water"/>
+		<term name="Arizona"/>
+		<term name="Colorado River development"/>
+		<term name="Infrastructure"/>
+		<term name="Lakes"/>
+		<term name="Water resources"/>
+		<term name="Water supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/12/1994--Introduced.
+Amends the Reclamation Development Act of 1974 to eliminate a maximum daily water diversion restriction with respect to the pumping of water from Lake Powell, Arizona.
+
+	</summary>
+</bill>

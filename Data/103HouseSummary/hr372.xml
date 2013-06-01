@@ -1,0 +1,68 @@
+<bill session="103" type="hr" number="372" updated="2010-04-19T13:56:54-04:00">
+	<state datetime="1994-03-01">REFERRED</state>
+	<status><introduced datetime="1994-03-01"/></status>
+
+	<introduced datetime="1994-03-01"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives concerning providing as part of health care reform financial incentives to promote worksite health promotion programs.</title>
+	</titles>
+	<sponsor id="400050"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="1994-03-24"/>
+		<cosponsor id="400414" joined="1994-03-01"/>
+		<cosponsor id="400364" joined="1994-03-24"/>
+		<cosponsor id="400124" joined="1994-06-09"/>
+		<cosponsor id="400409" joined="1994-03-11"/>
+		<cosponsor id="400543" joined="1994-04-19"/>
+		<cosponsor id="406482" joined="1994-03-11"/>
+		<cosponsor id="404097" joined="1994-06-21"/>
+		<cosponsor id="400008" joined="1994-06-21"/>
+		<cosponsor id="400070" joined="1994-03-11"/>
+		<cosponsor id="400211" joined="1994-10-04"/>
+		<cosponsor id="404190" joined="1994-03-11"/>
+		<cosponsor id="400201" joined="1994-04-19"/>
+		<cosponsor id="400391" joined="1994-06-21"/>
+		<cosponsor id="409966" joined="1994-03-11"/>
+		<cosponsor id="400182" joined="1994-09-13"/>
+		<cosponsor id="410407" joined="1994-06-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-01"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-03-01"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1994-03-11"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1994-03-23"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor"/>
+		<term name="Accident prevention"/>
+		<term name="Employee health benefits"/>
+		<term name="Health care reform"/>
+		<term name="Health counseling"/>
+		<term name="Health education"/>
+		<term name="Health insurance"/>
+		<term name="Health policy"/>
+		<term name="Medical care"/>
+		<term name="Medical screening"/>
+		<term name="Medical tests"/>
+		<term name="Medicine"/>
+		<term name="Occupational health and safety"/>
+		<term name="Preventive medicine"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/1/1994--Introduced.
+Expresses the sense of the House of Representatives that there should be financial incentives for employers to offer worksite health promotion programs.
+
+	</summary>
+</bill>

@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="147" updated="2010-04-18T23:22:56-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To repeal the statutory authority for the Corporation for Public Broadcasting.</title>
+	</titles>
+	<sponsor id="400085"/>
+	<cosponsors>
+		<cosponsor id="400174" joined="1993-04-02"/>
+		<cosponsor id="400242" joined="1993-04-21"/>
+		<cosponsor id="407320" joined="1993-04-21"/>
+		<cosponsor id="400113" joined="1993-07-01"/>
+		<cosponsor id="400348" joined="1993-03-25"/>
+		<cosponsor id="400574" joined="1994-07-29"/>
+		<cosponsor id="403545" joined="1993-03-11"/>
+		<cosponsor id="400206" joined="1993-03-18"/>
+		<cosponsor id="400017" joined="1993-05-05"/>
+		<cosponsor id="400551" joined="1993-03-17"/>
+		<cosponsor id="400504" joined="1993-03-11"/>
+		<cosponsor id="400343" joined="1993-03-29"/>
+		<cosponsor id="400083" joined="1993-09-22"/>
+		<cosponsor id="400079" joined="1994-08-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Communications"/>
+		<term name="Educational television"/>
+		<term name="Federal budgets"/>
+		<term name="Government regulation"/>
+		<term name="Government spending reductions"/>
+		<term name="Public broadcasting"/>
+		<term name="Public radio"/>
+		<term name="Public television"/>
+		<term name="Radio in politics"/>
+		<term name="Telecommunication"/>
+		<term name="Telecommunication policy"/>
+		<term name="Television and children"/>
+		<term name="Television in politics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Repeals provisions of the Communications Act of 1934 relating to assistance for public telecommunications facilities, telecommunications demonstrations, and the Corporation for Public Broadcasting.
+
+	</summary>
+</bill>

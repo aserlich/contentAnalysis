@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="1049" updated="2010-04-19T01:51:28-04:00">
+	<state datetime="1993-02-23">REFERRED</state>
+	<status><introduced datetime="1993-02-23"/></status>
+
+	<introduced datetime="1993-02-23"/>
+	<titles>
+		<title type="short" as="introduced">Improved Budget Presentation Act</title>
+		<title type="official" as="introduced">To establish the Commission on the Presentation of the Budget of the United States.</title>
+	</titles>
+	<sponsor id="402657"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="1993-03-11"/>
+		<cosponsor id="401547" joined="1993-03-11"/>
+		<cosponsor id="400161" joined="1993-03-11"/>
+		<cosponsor id="400506" joined="1993-02-23"/>
+		<cosponsor id="400188" joined="1993-03-11"/>
+		<cosponsor id="400169" joined="1993-02-23"/>
+		<cosponsor id="400614" joined="1993-02-23"/>
+		<cosponsor id="300097" joined="1993-02-23"/>
+		<cosponsor id="407044" joined="1993-02-23"/>
+		<cosponsor id="411997" joined="1993-02-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-23"><text>Sponsor introductory remarks on measure. (CR E413-414)</text></action>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Capital budgets"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal budget process"/>
+		<term name="Government paperwork"/>
+		<term name="Government trust funds"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1993--Introduced.
+Improved Budget Presentation Act - Establishes the Commission on the Presentation of the Budget of the United States to study and report to the President and the Congress on recommendations to provide improved governmental processes in the formulation, presentation, and implementation of the Federal budget with respect to: (1) the ability of the budget to distinguish between capital and operating activities, and between operating and trust funds, to identify the resources needed to meet the Government's needs; (2) improved procedures among Federal departments, agencies, independent establishments, and instrumentalities to provide improved coordination and control with respect to the budget; and (3) more effective arrangements between the executive branch and the Congress which will better enable each to carry out its budgeting, revenue, and appropriation responsibilities.
+
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="103" type="s" number="595" updated="2012-07-17T04:31:34-04:00">
+	<state datetime="1993-03-16">REFERRED</state>
+	<status><introduced datetime="1993-03-16"/></status>
+
+	<introduced datetime="1993-03-16"/>
+	<titles>
+		<title type="official" as="introduced">A bill to suspend temporarily the duty on fomesafen.</title>
+	</titles>
+	<sponsor id="300048"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-16" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2167" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Chemicals"/>
+		<term name="Drugs"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/16/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1996, the duty on (5-(2-chloro-4 (trifluoromethyl) phenoxy)-n-(methylsulfonyl)-2-nitrobenzamide (fomesafen).
+
+	</summary>
+</bill>

@@ -1,0 +1,61 @@
+<bill session="103" type="h" number="1778" updated="2010-04-19T03:49:10-04:00">
+	<state datetime="1993-04-21">REFERRED</state>
+	<status><introduced datetime="1993-04-21"/></status>
+
+	<introduced datetime="1993-04-21"/>
+	<titles>
+		<title type="short" as="introduced">Military Retiree and Veteran Health Care Act of 1993</title>
+		<title type="official" as="introduced">To amend title 10, United States Code, and title XVIII of the Social Security Act to permit the reimbursement of expenses incurred by a medical facility of the uniformed services or the Department of Veterans Affairs in providing health care to persons eligible for care under medicare.</title>
+	</titles>
+	<sponsor id="400091"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-11-23"/>
+		<cosponsor id="400191" joined="1993-04-21"/>
+		<cosponsor id="400239" joined="1994-02-01"/>
+		<cosponsor id="400569" joined="1993-05-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-21"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-04-21"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-04-21"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-04-26"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-04-26"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1993-04-30"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-05-12"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Collection of accounts"/>
+		<term name="Dental care"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Military dependents"/>
+		<term name="Military hospitals"/>
+		<term name="Military medicine"/>
+		<term name="Nursing homes"/>
+		<term name="Public assistance programs"/>
+		<term name="Social security"/>
+		<term name="Veterans' hospitals"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/21/1993--Introduced.
+Military Retiree and Veteran Health Care Act of 1993 - Entitles members and former members of the armed forces and their dependents who are eligible for medical or dental care in any military facility and who are also entitled to health insurance under title XVIII (Medicare) of the Social Security Act to receive medical or dental care in any military facility. Directs the facility providing such services to recover the costs of such care from Medicare Subvention funding. Provides for the deposit of funds received by a military medical treatment or Department of Veterans Affairs facility from Medicare Subvention funding for the provision of such care. Allows a covered beneficiary of a member or former member of the armed forces who is also entitled to hospital insurance benefits under Medicare to receive care in a military treatment facility and to have the Medicare hospital insurance benefits paid to such military treatment facility for the care so provided. Provides that, in the case of health care services incurred on behalf of covered beneficiaries, collection may be made from any third party payer, including the appropriate program under Medicare or title XIX (Medicaid) of the Social Security Act. (Currently, collection from a plan administered by Medicare or Medicaid is prohibited.) Prohibits medical or dental care from being provided to an otherwise eligible person at a military treatment facility only if the senior or commanding officer of such facility determines that such facility cannot provide the particular care required because of lack of space or facilities or because such type of care is not provided at such facility. Requires the administering Secretary to be advised immediately when a determination to deny treatment is made, with a verifiable date as to when the restriction will be removed. Amends Medicare provisions to make Department of Defense and Department of Veterans Affairs treatment facilities eligible for Medicare payments as long as they meet requirements applicable to hospitals and skilled nursing facilities under title XVIII.
+
+	</summary>
+</bill>

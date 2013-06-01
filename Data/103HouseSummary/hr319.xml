@@ -1,0 +1,46 @@
+<bill session="103" type="hr" number="319" updated="2010-04-19T13:48:45-04:00">
+	<state datetime="1993-11-21T21:44:00-05:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-11-21T21:44:00-05:00" where="h" result="pass" how="roll" roll="599"/></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 3) to amend the Federal Election Campaign Act of 1971 to provide for a voluntary system of spending limits and benefits for congressional election campaigns, and for other purposes.</title>
+	</titles>
+	<sponsor id="403403"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-20T20:22:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-402, by Mr. Derrick.</text></action>
+		<action datetime="1993-11-20T20:22:00-05:00"><text>Rule provides for consideration of H.R. 3 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. A specified amendment is in order. It shall be in order to consider as an original bill for the purpose of amendment the amendment in the nature of a substitute recommended by the Committee on House Administration now printed in the bill, modified by the amendment printed in part 1 of the report accompanying this resolution. No other amendment shall be in order except those amendments printed in part 2 of the report, to be considered in the order and manner specified in the report. After passage of H.R. 3, it shall be in order to take the bill S. 3 from the Speaker's table, move to strike all after the enacting clause and insert the text of H.R. 3. If the motion is adopted, and the Senate bill, as amended, is passed, it shall be in or...</text></action>
+		<calendar datetime="1993-11-20T20:23:00-05:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 128.</text></calendar>
+		<action datetime="1993-11-21T20:02:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H10591-10606"/></action>
+		<action datetime="1993-11-21T20:06:00-05:00"><text>Point of order raised by Mr. Solomon on the content of the measure. Mr. Solomon stated that the provision of the resolution which preclude the inclusion of instructions to any potential motion to recommit the bill was a violation of clause 4(b) of rule XI. Point of order overruled by the Chair.</text></action>
+		<action datetime="1993-11-21T20:18:00-05:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-11-21T21:26:00-05:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="roll" type="vote" roll="599" datetime="1993-11-21T21:44:00-05:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 207 (Roll no. 599).</text></vote>
+		<action datetime="1993-11-21T21:47:00-05:00"><text>Mr. Thomas (CA) moved to reconsider the vote.</text></action>
+		<action datetime="1993-11-21T21:48:00-05:00"><text>Mr. Moakley moved to table the motion to reconsider</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3" />
+		<bill relation="unknown" session="103" type="h" number="3" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congress"/>
+		<term name="Elections"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+Sets forth the rule for the consideration of H.R. 3 (amending the Federal Election Campaign Act of 1971 to provide for a voluntary system of spending limits and benefits for congressional election campaigns).
+
+	</summary>
+</bill>

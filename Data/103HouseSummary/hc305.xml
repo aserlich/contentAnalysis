@@ -1,0 +1,43 @@
+<bill session="103" type="hc" number="305" updated="2010-04-18T21:48:40-04:00">
+	<state datetime="1994-10-03">REFERRED</state>
+	<status><introduced datetime="1994-10-03"/></status>
+
+	<introduced datetime="1994-10-03"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of Congress that the total amount appropriated for fiscal year 1996 for defense programs should not exceed the amount appropriated for those programs for fiscal year 1995 reduced by 10 percent.</title>
+	</titles>
+	<sponsor id="404375"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-03"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-10-06"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Acquisition.</text></action>
+		<action datetime="1994-10-06"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Acquisition" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Appropriations"/>
+		<term name="Budgets"/>
+		<term name="Defense budgets"/>
+		<term name="Defense economics"/>
+		<term name="Department of Defense"/>
+		<term name="Executive departments"/>
+		<term name="Government spending reductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Introduced.
+Expresses the sense of the Congress that the total amount appropriated for FY 1996 for national defense programs should not exceed $236.43 billion (such amount representing a ten percent reduction from the FY 1995 amount).
+
+	</summary>
+</bill>

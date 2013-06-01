@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="80" updated="2010-04-18T23:12:23-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Airline Bankruptcy Passenger Protection Act of 1993</title>
+		<title type="official" as="introduced">To amend the Federal Aviation Act of 1958 relating to bankruptcy transportation plans.</title>
+	</titles>
+	<sponsor id="400035"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-01-19"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Aviation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-05" name="House Public Works and Transportation" subcommittee="Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Commercial aviation"/>
+		<term name="Administrative procedure"/>
+		<term name="Airline passenger traffic"/>
+		<term name="Airlines"/>
+		<term name="Bankruptcy"/>
+		<term name="Consumer protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Airline Bankruptcy Passenger Protection Act of 1993 - Amends the Federal Aviation Act of 1958 to direct the Secretary of Transportation to issue an order authorizing a covered air carrier to develop an air transportation plan which protects airline ticket holders in the event it becomes a debtor in bankruptcy proceedings after the ticket purchase date. Provides that if satisfactory plans have not been submitted by a specified deadline, the Secretary must promulgate regulations requiring all covered air carriers to provide air transportation for such ticket holders.
+
+	</summary>
+</bill>

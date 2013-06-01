@@ -1,0 +1,75 @@
+<bill session="103" type="sj" number="62" updated="2012-07-17T04:17:01-04:00">
+	<state datetime="1993-05-06">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-05-06" /></status>
+
+	<introduced datetime="1993-03-10"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution to designate the week beginning April 25, 1993, as &quot;National Crime Victims' Right Week&quot;.</title>
+	</titles>
+	<sponsor id="300008"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-03-26"/>
+		<cosponsor id="300150" joined="1993-03-24"/>
+		<cosponsor id="300052" joined="1993-03-10"/>
+		<cosponsor id="300067" joined="1993-03-16"/>
+		<cosponsor id="401709" joined="1993-03-19"/>
+		<cosponsor id="300061" joined="1993-03-23"/>
+		<cosponsor id="300092" joined="1993-03-24"/>
+		<cosponsor id="403515" joined="1993-03-23"/>
+		<cosponsor id="300082" joined="1993-03-19"/>
+		<cosponsor id="300084" joined="1993-03-24"/>
+		<cosponsor id="300009" joined="1993-03-26"/>
+		<cosponsor id="403346" joined="1993-03-16"/>
+		<cosponsor id="402412" joined="1993-04-28"/>
+		<cosponsor id="300053" joined="1993-03-24"/>
+		<cosponsor id="300023" joined="1993-03-23"/>
+		<cosponsor id="300046" joined="1993-03-24"/>
+		<cosponsor id="300157" joined="1993-03-10"/>
+		<cosponsor id="404598" joined="1993-04-22"/>
+		<cosponsor id="402727" joined="1993-03-26"/>
+		<cosponsor id="300026" joined="1993-03-23"/>
+		<cosponsor id="300001" joined="1993-03-16"/>
+		<cosponsor id="405310" joined="1993-03-19"/>
+		<cosponsor id="300064" joined="1993-03-19"/>
+		<cosponsor id="300065" joined="1993-03-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-10" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2676)</text></action>
+		<action datetime="1993-03-10" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-03-29"><text>Senate Committee on Judiciary discharged by Voice Vote.</text><reference label="consideration" ref="CR S3952-3953"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-03-29" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment and with a preamble by Voice Vote.</text></vote>
+		<action datetime="1993-03-30T12:20:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-03-30"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-03-30"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-04-22T14:55:00-04:00"><text>Committee on Post Office and Civil Service discharged.</text></action>
+		<action datetime="1993-04-22T14:55:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H2009"/></action>
+		<action datetime="1993-04-22T14:55:00-04:00"><text>Ms. Byrne asked unanimous consent to discharge from committee and consider.</text></action>
+		<vote how="without objection" type="vote2" datetime="1993-04-22T15:00:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-04-22T15:00:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-04-22" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-04-29" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-05-06" ><text>Signed by President.</text></signed>
+		<enacted number="103-29" type="public" datetime="1993-05-06"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-29.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hj" number="134" />
+	</relatedbills>
+	<subjects>
+		<term name="Special weeks"/>
+		<term name="Commemorations"/>
+		<term name="Health"/>
+		<term name="Victims of crimes"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/10/1993--Introduced.
+Designates the week beginning April 25, 1993, as National Crime Victims' Rights Week.
+
+	</summary>
+</bill>

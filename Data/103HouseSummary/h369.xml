@@ -1,0 +1,61 @@
+<bill session="103" type="h" number="369" updated="2010-04-18T23:57:24-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To provide that no State or local government shall be obligated to take any action required by Federal law enacted after the date of the enactment of this Act unless the expenses of such government in taking such action are funded by the United States.</title>
+	</titles>
+	<sponsor id="300091"/>
+	<cosponsors>
+		<cosponsor id="400180" joined="1993-06-09"/>
+		<cosponsor id="400584" joined="1993-03-16"/>
+		<cosponsor id="400036" joined="1993-06-22"/>
+		<cosponsor id="401547" joined="1993-07-22"/>
+		<cosponsor id="400127" joined="1993-04-20"/>
+		<cosponsor id="400307" joined="1993-07-22"/>
+		<cosponsor id="400401" joined="1993-07-14"/>
+		<cosponsor id="406863" joined="1993-07-22"/>
+		<cosponsor id="400581" joined="1993-03-30"/>
+		<cosponsor id="407558" joined="1994-03-08"/>
+		<cosponsor id="400590" joined="1993-09-08"/>
+		<cosponsor id="412001" joined="1993-04-20"/>
+		<cosponsor id="400169" joined="1993-06-09"/>
+		<cosponsor id="400586" joined="1994-03-08"/>
+		<cosponsor id="300097" joined="1993-04-20"/>
+		<cosponsor id="405560" joined="1993-03-30"/>
+		<cosponsor id="400150" joined="1993-05-27"/>
+		<cosponsor id="405033" joined="1993-09-08"/>
+		<cosponsor id="404009" joined="1993-09-08"/>
+		<cosponsor id="411997" joined="1993-04-20"/>
+		<cosponsor id="400252" joined="1993-06-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Human Resources and Intergovernmental Relations.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Government Operations"/><text>See H.R.4771.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Human Resources and Intergovernmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="140" />
+		<bill relation="unknown" session="103" type="h" number="4771" />
+	</relatedbills>
+	<subjects>
+		<term name="Intergovernmental relations"/>
+		<term name="Federal-local relations"/>
+		<term name="Federal-state relations"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="Regulatory reform"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Provides that no State or local government shall be obligated to take any action required by Federal law enacted after the enactment of this Act unless the expenses of such government in taking such action are fully funded by the United States.
+
+	</summary>
+</bill>

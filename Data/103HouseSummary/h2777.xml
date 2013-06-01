@@ -1,0 +1,38 @@
+<bill session="103" type="h" number="2777" updated="2010-04-19T06:24:20-04:00">
+	<state datetime="1993-07-28">REFERRED</state>
+	<status><introduced datetime="1993-07-28"/></status>
+
+	<introduced datetime="1993-07-28"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to repeal the 12-year limitation of eligibility for the vocational rehabilitation program.</title>
+	</titles>
+	<sponsor id="407838"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-28"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-08-06"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Education, Training and Employment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Veterans' Affairs" subcommittee="Education, Training and Employment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Veterans' employment"/>
+		<term name="Veterans' rehabilitation"/>
+		<term name="Vocational rehabilitation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/28/1993--Introduced.
+Repeals a Federal provision which generally limits a veteran's eligibility for veterans' vocational rehabilitation to 12 years after the date of discharge or release from active duty.
+
+	</summary>
+</bill>

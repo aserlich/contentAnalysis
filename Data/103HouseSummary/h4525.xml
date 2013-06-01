@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="4525" updated="2010-04-19T10:56:38-04:00">
+	<state datetime="1994-09-28">REPORTED</state>
+	<status><calendar datetime="1994-09-28" /></status>
+
+	<introduced datetime="1994-05-26"/>
+	<titles>
+		<title type="short" as="introduced">Stagecoach Reservoir Project Act of 1993</title>
+		<title type="short" as="reported to house">Stagecoach Reservoir Project Act of 1993</title>
+		<title type="official" as="introduced">To authorize the transfer of a certain loan contract to the Upper Yampa Water Conservancy Project, and for other purposes.</title>
+	</titles>
+	<sponsor id="400265"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-26"><text>Sponsor introductory remarks on measure. (CR E1099-1100)</text></action>
+		<action datetime="1994-05-26"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-07-11"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Subcommittee on Oversight and Investigations Discharged.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T20:10:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-792.</text></action>
+		<calendar number="438" datetime="1994-10-03T20:10:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 438.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Oversight and Investigations" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1146" />
+		<bill relation="identical" session="103" type="s" number="1988" />
+	</relatedbills>
+	<subjects>
+		<term name="Water"/>
+		<term name="Budgets"/>
+		<term name="Colorado"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Finance"/>
+		<term name="Government lending"/>
+		<term name="Infrastructure"/>
+		<term name="Interest rates"/>
+		<term name="Reservoirs"/>
+		<term name="Tax-exempt securities"/>
+		<term name="Water districts"/>
+		<term name="Water resources"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Reported to House amended. Stagecoach Reservoir Project Act of 1993 - Requires the Secretary of the Interior to conduct appropriate investigations regarding a specified loan contract entered into under the Small Reclamation Projects Act of 1956. Authorizes the Secretary to sell the contract to, or accept prepayment on it from, the Upper Yampa Water Conservancy District in Colorado for the Stagecoach Reservoir Project. Requires any negotiated agreement related to such contract to provide a payment to the Federal Government calculated by discounting the remaining payments due on the loans by the interest rate determined by the Secretary. Directs the Secretary to obtain approval from the Secretary of the Treasury and the Director of the Office of Management and Budget of the final terms of any loan sale or prepayment made pursuant to this Act. Provides that upon receipt of the specified payment for the loan contract: (1) the District's obligation under the loan contract shall be terminated; (2) the Secretary shall convey all Federal rights and interest in the Stagecoach Reservoir Project to the District; and (3) the District shall absolve the United States of any liability associated with the Stagecoach Reservoir Project. Terminates the authority granted by this Act to sell loans two years after the enactment of this Act. Gives a borrower at least 60 days to respond to any prepayment offer made by the Secretary.
+
+	</summary>
+</bill>

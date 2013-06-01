@@ -1,0 +1,68 @@
+<bill session="103" type="h" number="3613" updated="2012-07-17T06:09:38-04:00">
+	<state datetime="1994-10-03T20:20:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-03T20:20:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-11-21"/>
+	<titles>
+		<title type="short" as="introduced">Kenai Natives Association Equity Act of 1993</title>
+		<title type="short" as="passed house">Kenai Natives Association Equity Act of 1994</title>
+		<title type="official" as="introduced">Entitled, &quot;The Kenai Natives Association Equity Act&quot;.</title>
+	</titles>
+	<sponsor id="400440"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E2997)</text></action>
+		<action datetime="1993-11-21" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-11-21" state="REPORTED"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-11-24"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1993-11-24"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1994-01-21" state="REFERRED"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+		<action datetime="1994-09-22"><committee name="House Committee on Natural Resources" subcommittee="Oversight and Investigations"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Subcommittee on Oversight and Investigations Discharged.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T20:17:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-822, Part I.</text></action>
+		<action datetime="1994-10-03T20:18:00-04:00"><text>Mr. Miller (CA) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-03T20:19:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10650-10653"/></action>
+		<action datetime="1994-10-03T20:19:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-10-03T20:20:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-03T20:20:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-04"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Oversight and Investigations" activity="Referral, Hearings, Discharged" />
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral" />
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Alaska"/>
+		<term name="Animals"/>
+		<term name="Archaeology"/>
+		<term name="Commemorations"/>
+		<term name="Historic sites"/>
+		<term name="History"/>
+		<term name="Indian claims"/>
+		<term name="Indian lands"/>
+		<term name="Land transfers"/>
+		<term name="Minorities"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Wilderness areas"/>
+		<term name="Wildlife refuges"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Passed House amended. Kenai Natives Association Equity Act of 1994 - Provides for the exchange and acquisition of specified lands in Alaska between the United States and the Kenai Natives Association, Inc. Directs the Secretary of the Interior to nominate the Stephanka Tract to the National Register of Historic Places upon completion of such exchange. States that certain of such lands shall be added to the Kenai National Wildlife Refuge and the Kenai Wilderness. Authorizes appropriations.
+
+	</summary>
+</bill>

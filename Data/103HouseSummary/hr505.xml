@@ -1,0 +1,43 @@
+<bill session="103" type="hr" number="505" updated="2010-04-19T14:17:32-04:00">
+	<state datetime="1994-08-04T11:24:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-08-04T11:24:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-08-03"/>
+	<titles>
+		<title type="official" as="introduced">Waiving points of order against the conference report to accompany the bill (H.R. 3841) to amend the Bank Holding Company Act of 1956, the Revised Statutes of the United States, and the Federal Deposit Insurance Act to provide for interstate banking and branching.</title>
+	</titles>
+	<sponsor id="400143"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-03T17:49:00-04:00"><text>Rule provides for consideration of the conference report to H.R. 3841. Waiving all points of order against the conference report and against its consideration.</text></action>
+		<action datetime="1994-08-03T17:58:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-658, by Mr. Frost.</text></action>
+		<calendar datetime="1994-08-03T17:59:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 203.</text></calendar>
+		<action datetime="1994-08-04T11:19:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H6773"/></action>
+		<action datetime="1994-08-04T11:19:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1994-08-04T11:24:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-08-04T11:24:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1994-08-04T11:24:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3841" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Banks and banking"/>
+		<term name="Congress"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/3/1994--Introduced.
+Waives points of order against the consideration of the conference report on H.R. 3841 (providing for interstate banking and branching).
+
+	</summary>
+</bill>

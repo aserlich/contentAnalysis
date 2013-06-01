@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="4893" updated="2010-04-19T11:54:24-04:00">
+	<state datetime="1994-08-03">REFERRED</state>
+	<status><introduced datetime="1994-08-03"/></status>
+
+	<introduced datetime="1994-08-03"/>
+	<titles>
+		<title type="official" as="introduced">To repeal the North/South Center Act of 1991.</title>
+	</titles>
+	<sponsor id="401134"/>
+	<cosponsors>
+		<cosponsor id="400553" joined="1994-08-03"/>
+		<cosponsor id="300018" joined="1994-08-03"/>
+		<cosponsor id="400370" joined="1994-08-05"/>
+		<cosponsor id="400010" joined="1994-08-09"/>
+		<cosponsor id="408618" joined="1994-08-03"/>
+		<cosponsor id="412001" joined="1994-08-03"/>
+		<cosponsor id="407669" joined="1994-09-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-03"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-08-17"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Operations.</text></action>
+		<action datetime="1994-08-17"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Western Hemisphere Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Operations" activity="Referral" />
+		<committee code="HSFA-07" name="House Foreign Affairs" subcommittee="Western Hemisphere Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Canada"/>
+		<term name="Caribbean area"/>
+		<term name="Cultural relations"/>
+		<term name="Education"/>
+		<term name="Educational exchanges"/>
+		<term name="Educational facilities"/>
+		<term name="Educational policy"/>
+		<term name="Florida"/>
+		<term name="Foreign policy"/>
+		<term name="Humanities"/>
+		<term name="Latin America"/>
+		<term name="Research centers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/3/1994--Introduced.
+Repeals the North/South Center Act of 1991 effective June 1, 1995.
+
+	</summary>
+</bill>

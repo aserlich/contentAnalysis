@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="1668" updated="2010-04-19T03:31:53-04:00">
+	<state datetime="1993-04-02">REFERRED</state>
+	<status><introduced datetime="1993-04-02"/></status>
+
+	<introduced datetime="1993-04-02"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 with respect to the treatment of deposits under certain perpetual insurance policies.</title>
+	</titles>
+	<sponsor id="400064"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-02"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Casualty insurance"/>
+		<term name="Income tax"/>
+		<term name="Interest"/>
+		<term name="Interest rates"/>
+		<term name="Loans"/>
+		<term name="Property insurance"/>
+		<term name="Tax administration"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/2/1993--Introduced.
+Amends the Internal Revenue Code to exclude a deposit made by a policyholder under a qualified perpetual insurance policy from provisions governing the treatment of loans with below-market interest rates. Describes such a policy as one which: (1) provides insurance for property damage or casualty with respect to certain residential property (or the contents thereof); and (2) is funded only by the policyholder placing a cash deposit (and does not provide for any periodic premiums) which is fully refundable upon cancellation.
+
+	</summary>
+</bill>

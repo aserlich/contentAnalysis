@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="1198" updated="2010-04-19T02:15:38-04:00">
+	<state datetime="1993-03-03">REFERRED</state>
+	<status><introduced datetime="1993-03-03"/></status>
+
+	<introduced datetime="1993-03-03"/>
+	<titles>
+		<title type="short" as="introduced">Trade Agreements Compliance Act of 1993</title>
+		<title type="official" as="introduced">To amend the Trade Act of 1974 to provide for the review of the extent to which foreign countries are in compliance with bilateral trade agreements with the United States.</title>
+	</titles>
+	<sponsor id="400256"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-03"><text>Sponsor introductory remarks on measure. (CR E498)</text></action>
+		<action datetime="1993-03-03"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-08"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-03-09"><committee name="House Committee on Ways and Means"/><text>For Further Action See H.R.1248.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1248" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Administrative remedies"/>
+		<term name="Nontariff trade barriers"/>
+		<term name="Office of the U.S. Trade Representative"/>
+		<term name="Reciprocity"/>
+		<term name="Trade agreements"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/3/1993--Introduced.
+Trade Agreements Compliance Act of 1993 - Amends the Trade Act of 1974 to authorize certain economically affected persons to request the U.S. Trade Representative (USTR) to review whether a foreign country is in material compliance with the terms of a bilateral trade agreement to which the United States is a party. Prescribes guidelines for such a review. Provides that nothing in this Act may be construed as requiring actions that are inconsistent with U.S. international obligations, including the General Agreement on Tariffs and Trade.
+
+	</summary>
+</bill>

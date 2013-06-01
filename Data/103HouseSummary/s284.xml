@@ -1,0 +1,57 @@
+<bill session="103" type="s" number="284" updated="2012-07-17T05:22:20-04:00">
+	<state datetime="1993-04-01">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-04-01" /></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Food Stamp Act of 1977 to permit a State agency to require households residing on reservations to file periodic reports of income and household circumstances, and to remove the requirement that a State agency establish a procedure for staggered issuance of coupons for eligible households residing on reservations, and for other purposes.</title>
+		<title type="official" as="amended by senate">An Act to extend the suspended implementation of certain requirements of the food stamp program on Indian reservations, and for other purposes.</title>
+	</titles>
+	<sponsor id="408898"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1152)</text></action>
+		<action datetime="1993-02-03" state="REFERRED"><text>Read twice and referred to the Committee on Indian Affairs.</text></action>
+		<action datetime="1993-03-09"><text>Senate Committee on Indian Affairs discharged by Unanimous Consent.</text></action>
+		<action datetime="1993-03-09"><text>Referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-03-29"><text>Senate Committee on Agriculture discharged by Voice Vote.</text></action>
+		<action datetime="1993-03-29"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S3950-3951"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-03-29" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text></vote>
+		<action datetime="1993-03-30T12:20:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-03-30"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-03-30T15:34:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-03-31T14:34:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H1742-1743"/></action>
+		<action datetime="1993-03-31T14:34:00-05:00"><text>Mr. de la Garza asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<vote how="without objection" type="vote2" datetime="1993-03-31T14:35:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-03-31T14:35:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-03-31" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-03-31" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-04-01" ><text>Signed by President.</text></signed>
+		<enacted number="103-11" type="public" datetime="1993-04-01"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-11.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SLIA" name="Senate Indian Affairs (Permanent Select)" activity="Referral, Discharged" />
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Food stamps"/>
+		<term name="Government paperwork"/>
+		<term name="Households"/>
+		<term name="Income"/>
+		<term name="Native Americans"/>
+		<term name="Public assistance programs"/>
+	</subjects>
+	<amendments>
+		<amendment number="s280"/>
+	</amendments>
+	<summary>
+	3/29/1993--Passed Senate amended. Amends the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 to delay until January 31, 1994, implementation of food stamp program provisions: (1) requiring staggered coupon issuance to participating households on Indian reservations; and (2) exempting such households from the program's monthly reporting option.
+
+	</summary>
+</bill>

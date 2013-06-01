@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="4492" updated="2010-04-19T10:51:22-04:00">
+	<state datetime="1994-05-25">REFERRED</state>
+	<status><introduced datetime="1994-05-25"/></status>
+
+	<introduced datetime="1994-05-25"/>
+	<titles>
+		<title type="short" as="introduced">CFTC Reauthorization Act of 1994</title>
+		<title type="official" as="introduced">To extend the authorization for appropriations for the Commodity Futures Trading Commission for five fiscal years.</title>
+	</titles>
+	<sponsor id="403308"/>
+	<cosponsors>
+		<cosponsor id="400079" joined="1994-05-25"/>
+		<cosponsor id="300058" joined="1994-05-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-25"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-05-31"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from Commodity Futures Trading Com.</text></action>
+		<action datetime="1994-05-31"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Environment, Credit and Rural Development.</text></action>
+		<action datetime="1994-06-13"><committee name="House Committee on Agriculture"/><text>Executive Comment Received from Commodity Futures Trading Com.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Environment, Credit and Rural Development" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Securities"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Commodity Futures Trading Commission"/>
+		<term name="Commodity exchanges"/>
+		<term name="Executive departments"/>
+		<term name="Finance"/>
+		<term name="Futures trading"/>
+		<term name="Independent regulatory commissions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/25/1994--Introduced.
+CFTC Reauthorization Act of 1994 - Amends the Commodity Exchange Act to extend authorizations of appropriations for the Commodity Futures Trading Commission.
+
+	</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="3067" updated="2010-04-19T07:09:17-04:00">
+	<state datetime="1993-09-14">REFERRED</state>
+	<status><introduced datetime="1993-09-14"/></status>
+
+	<introduced datetime="1993-09-14"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 10, United States Code, to ensure proper classification as employees and independent contractors of persons awarded Federal procurement contracts.</title>
+	</titles>
+	<sponsor id="400231"/>
+	<cosponsors>
+		<cosponsor id="400370" joined="1993-09-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-14"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-09-17"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+		<action datetime="1993-09-17"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Acquisition.</text></action>
+		<action datetime="1993-09-17"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-06" name="House Armed Services" subcommittee="Oversight and Investigations" activity="Referral" />
+		<committee code="" name="House Armed Services" subcommittee="Military Acquisition" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Actions and defenses"/>
+		<term name="Debarment of government contractors"/>
+		<term name="Defense contracts"/>
+		<term name="Defense economics"/>
+		<term name="Employee rights"/>
+		<term name="Fraud"/>
+		<term name="Government contractors"/>
+		<term name="Government paperwork"/>
+		<term name="Public contracts"/>
+		<term name="Self-employed"/>
+		<term name="Social security"/>
+		<term name="Social security taxes"/>
+		<term name="Taxation"/>
+		<term name="Withholding tax"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/14/1993--Introduced.
+Prohibits a person from being eligible for any defense contract for a two-year period after a final determination that such person willfully misclassified an employee of such person as an independent contractor for purposes of any employment tax. Requires any person submitting a bid or proposal for a defense contract to certify that the bid or proposal is adequate to pay all required employment taxes. Requires each defense contractor to notify each person being treated as an independent contractor of all employment tax obligations and all statutory rights and protections available to employees that are not available to the independent contractor. Provides a right of action against persons willfully submitting false certifications under this Act.
+
+	</summary>
+</bill>

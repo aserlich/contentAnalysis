@@ -1,0 +1,54 @@
+<bill session="103" type="s" number="1514" updated="2012-07-17T05:50:27-04:00">
+	<state datetime="1993-10-04">INTRODUCED</state>
+	<status><introduced datetime="1993-10-04"/></status>
+
+	<introduced datetime="1993-10-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill entitled the &quot;Guaranteed Deficit Reduction Act of 1993&quot;.</title>
+	</titles>
+	<sponsor id="400558"/>
+	<cosponsors>
+		<cosponsor id="400564" joined="1994-05-11"/>
+		<cosponsor id="300007" joined="1993-10-18"/>
+		<cosponsor id="300054" joined="1993-10-04"/>
+		<cosponsor id="406256" joined="1993-10-04"/>
+		<cosponsor id="300015" joined="1993-11-17"/>
+		<cosponsor id="300155" joined="1994-02-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S13023)</text></action>
+		<action datetime="1993-10-04"><text>Read twice and referred jointly to the Committees on Budget; Governmental Affairs pursuant to the order of August 4, 1977, with instructions that if one Committee reports, the other Committee have thirty days to report or be discharged.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBU" name="Senate Budget" activity="Referral, In Committee" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3145" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Appropriations"/>
+		<term name="Authorization"/>
+		<term name="Budget deficits"/>
+		<term name="Congress"/>
+		<term name="Congressional Record"/>
+		<term name="Congressional budget"/>
+		<term name="Congressional budget process"/>
+		<term name="Congressional committees"/>
+		<term name="Economics and public finance"/>
+		<term name="Executive impoundment of appropriated funds"/>
+		<term name="Government spending reductions"/>
+		<term name="House rules and procedure"/>
+		<term name="Legislation"/>
+		<term name="Senate rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/4/1993--Introduced.
+Amends the Congressional Budget Act of 1974 to provide for downward adjustment in Appropriations Committees' allocations and suballocations when bills are passed that reduce appropriations and require rescissions. Requires the Congressional Budget Office to provide scorecards for such measures.
+
+	</summary>
+</bill>

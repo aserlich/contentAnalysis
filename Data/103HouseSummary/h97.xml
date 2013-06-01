@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="97" updated="2010-04-18T23:15:08-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Immigration and Nationality Act to provide for prompt parole into the United States of aliens in order to attend the funeral of an immediate blood relative in the United States.</title>
+	</titles>
+	<sponsor id="400554"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-03-09"/>
+		<cosponsor id="400128" joined="1993-03-09"/>
+		<cosponsor id="400126" joined="1993-03-09"/>
+		<cosponsor id="400295" joined="1993-07-14"/>
+		<cosponsor id="400192" joined="1993-03-30"/>
+		<cosponsor id="400143" joined="1993-03-09"/>
+		<cosponsor id="411947" joined="1993-03-09"/>
+		<cosponsor id="403364" joined="1993-07-14"/>
+		<cosponsor id="400001" joined="1993-01-05"/>
+		<cosponsor id="409650" joined="1993-03-09"/>
+		<cosponsor id="400140" joined="1993-03-09"/>
+		<cosponsor id="400366" joined="1993-04-26"/>
+		<cosponsor id="400201" joined="1993-03-09"/>
+		<cosponsor id="400163" joined="1993-03-30"/>
+		<cosponsor id="400537" joined="1993-03-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+		<action datetime="1993-03-10"><committee name="House Committee on Judiciary" subcommittee="International Law, Immigration, and Refugees"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-09-08"><committee name="House Committee on Judiciary" subcommittee="International Law, Immigration, and Refugees"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-09-08"><committee name="House Committee on Judiciary" subcommittee="International Law, Immigration, and Refugees"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Aliens"/>
+		<term name="Cemeteries and funerals"/>
+		<term name="Families"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends the Immigration and Nationality Act to direct the Attorney General to provide, on an expedited basis, for a 30-day maximum parole admission of an alien into the United States to attend the funeral of an immediate blood relative.
+
+	</summary>
+</bill>

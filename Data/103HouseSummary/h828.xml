@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="828" updated="2010-04-19T01:14:00-04:00">
+	<state datetime="1993-02-04">REFERRED</state>
+	<status><introduced datetime="1993-02-04"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide that service performed for an elementary or secondary school operated primarily for religious purposes is exempt from the Federal unemployment tax.</title>
+	</titles>
+	<sponsor id="400085"/>
+	<cosponsors>
+		<cosponsor id="400538" joined="1993-10-28"/>
+		<cosponsor id="408476" joined="1994-02-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-09"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Church schools"/>
+		<term name="Elementary schools"/>
+		<term name="Intergovernmental tax relations"/>
+		<term name="Payments in lieu of taxes"/>
+		<term name="Religious education"/>
+		<term name="School personnel"/>
+		<term name="Secondary education"/>
+		<term name="State laws"/>
+		<term name="Tax exemption"/>
+		<term name="Tax-exempt organizations"/>
+		<term name="Teachers"/>
+		<term name="Unemployment insurance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Amends the Internal Revenue Code to exempt from State unemployment tax law coverage any service performed in the employ of a tax-exempt elementary or secondary school that is operated primarily for religious purposes.
+
+	</summary>
+</bill>

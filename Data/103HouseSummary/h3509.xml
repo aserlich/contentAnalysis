@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="3509" updated="2010-04-19T08:17:49-04:00">
+	<state datetime="1993-11-18">REPORTED</state>
+	<status><calendar datetime="1993-11-18" /></status>
+
+	<introduced datetime="1993-11-15"/>
+	<titles>
+		<title type="official" as="introduced">To approve a Governing International Fisheries Agreement.</title>
+	</titles>
+	<sponsor id="410496"/>
+	<cosponsors>
+		<cosponsor id="400397" joined="1993-11-19"/>
+		<cosponsor id="400076" joined="1993-11-19"/>
+		<cosponsor id="407141" joined="1993-11-15"/>
+		<cosponsor id="404068" joined="1993-11-15"/>
+		<cosponsor id="400440" joined="1993-11-15"/>
+		<cosponsor id="400243" joined="1993-11-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-15"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-11-17"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Fisheries Management.</text></action>
+		<action datetime="1993-11-18"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-11-18"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-11-18"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Subcommittee on Fisheries Management Discharged.</text></action>
+		<action datetime="1993-11-19T17:37:00-05:00"><text>Reported (Amended) by the Committee on Merchant Marine and Fisheries. H. Rept. 103-382.</text></action>
+		<calendar number="210" datetime="1993-11-19T17:37:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 210.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Fisheries Management" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Fisheries"/>
+		<term name="Environmental protection"/>
+		<term name="Fishery agreements"/>
+		<term name="International affairs"/>
+		<term name="International fishery management"/>
+		<term name="Marine resources"/>
+		<term name="Russia"/>
+		<term name="Russian Republic"/>
+		<term name="Shellfish fisheries"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/19/1993--Reported to House amended. Authorizes renewal, until May 1, 1994, of the Agreement between the Government of the United States and the Government of the Russian Federation on Mutual Fisheries Relations which expired on October 28, 1993. Amends the Magnuson Fishery Conservation and Management Act to extend, for three months, the prohibition on the implementation of certain measures that would reduce incidental mortality of nontarget fishery resources in the course of shrimp trawl fishing.
+
+	</summary>
+</bill>

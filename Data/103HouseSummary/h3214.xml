@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="3214" updated="2010-04-19T07:32:03-04:00">
+	<state datetime="1993-10-05">REFERRED</state>
+	<status><introduced datetime="1993-10-05"/></status>
+
+	<introduced datetime="1993-10-05"/>
+	<titles>
+		<title type="short" as="introduced">Children's Education Opportunity Act</title>
+		<title type="official" as="introduced">To amend title IV of the Social Security Act to enhance educational opportunity, increase school attendance, and promote self-sufficiency among welfare recipients.</title>
+	</titles>
+	<sponsor id="400225"/>
+	<cosponsors>
+		<cosponsor id="400057" joined="1994-05-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-05"><text>Sponsor introductory remarks on measure. (CR H7384)</text></action>
+		<action datetime="1993-10-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-10-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-10-08"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+		<action datetime="1993-10-26"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Aid to dependent children"/>
+		<term name="Compulsory education"/>
+		<term name="Education"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Public assistance programs"/>
+		<term name="Social security eligibility"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/5/1993--Introduced.
+Children's Education Opportunity Act - Amends part A (Aid to Families with Dependent Children) (AFDC) of title IV of the Social Security Act to give States the option of linking a family's full receipt of AFDC benefits to the regular school attendance of its children through the establishment of learnfare programs.
+
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="103" type="hc" number="304" updated="2010-04-18T21:48:36-04:00">
+	<state datetime="1994-10-08">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1994-10-08" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-10-03"/>
+	<titles>
+		<title type="official" as="introduced">Directing the Secretary of the Senate to make corrections in the enrollment of the bill S. 1312.</title>
+	</titles>
+	<sponsor id="411677"/>
+	<cosponsors>
+		<cosponsor id="400533" joined="1994-10-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-03T19:56:00-04:00"><text>Mr. Williams asked unanimous consent to consider as introduced.</text></action>
+		<action datetime="1994-10-03T19:56:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10623"/></action>
+		<vote how="without objection" type="vote" datetime="1994-10-03T19:57:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On agreeing to the resolution Agreed to without objection.</text></vote>
+		<action datetime="1994-10-03T19:57:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-04"><text>Received in the Senate.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-08" where="s" result="pass"  state="PASSED:CONCURRENTRES"><text>Resolution agreed to in Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S15024"/></vote>
+		<action datetime="1994-10-12"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1312" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congress"/>
+		<term name="Labor"/>
+		<term name="Legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+10/3/1994--Introduced.
+Directs the Secretary of the Senate to make corrections in the enrollment of S. 1312 (Pension Annuitants Protection Act of 1993).
+
+	</summary>
+</bill>

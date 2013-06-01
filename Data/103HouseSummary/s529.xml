@@ -1,0 +1,50 @@
+<bill session="103" type="s" number="529" updated="2012-07-17T04:58:46-04:00">
+	<state datetime="1993-03-09">REFERRED</state>
+	<status><introduced datetime="1993-03-09"/></status>
+
+	<introduced datetime="1993-03-09"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Food Stamp Act of 1977 to provide that narcotics addicts or alcoholics, and their children, who live under the supervision of a private nonprofit institution, or a publicly operated community mental health center, for the purpose of regular participation in a drug or alcoholic treatment program shall not be considered residents of institutions and shall be considered individual households, and for other purposes.</title>
+	</titles>
+	<sponsor id="403346"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="1993-03-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-09" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2547-2548)</text></action>
+		<action datetime="1993-03-09" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-03-15"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Nutrition and Investigations.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Nutrition and Investigations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Alcohol and youth"/>
+		<term name="Alcoholism"/>
+		<term name="Community health services"/>
+		<term name="Drug abuse"/>
+		<term name="Drugs and youth"/>
+		<term name="Families"/>
+		<term name="Food stamps"/>
+		<term name="Health"/>
+		<term name="Households"/>
+		<term name="Mental health services"/>
+		<term name="Narcotic addicts"/>
+		<term name="Public assistance programs"/>
+		<term name="Treatment and rehabilitation of alcoholics"/>
+		<term name="Treatment and rehabilitation of narcotic addicts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/9/1993--Introduced.
+Amends the Food Stamp Act of 1977 to allow eligible children who accompany an addicted parent into residential substance abuse treatment to participate in the food stamp program.
+
+	</summary>
+</bill>

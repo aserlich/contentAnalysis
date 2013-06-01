@@ -1,0 +1,94 @@
+<bill session="103" type="s" number="1197" updated="2010-04-19T17:37:11-04:00">
+	<state datetime="1993-07-01">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-07-01" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-07-01"/>
+	<titles>
+		<title type="short" as="introduced">Immigration and Nationality Technical Corrections Act of 1993</title>
+		<title type="official" as="introduced">A bill to make miscellaneous and technical corrections to the Immigration and Nationality Act and related provisions of law.</title>
+	</titles>
+	<sponsor id="300059"/>
+	<cosponsors>
+		<cosponsor id="409923" joined="1993-07-01"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-07-01" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S8553-8557"/></vote>
+		<action datetime="1993-07-13T12:02:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-07-13T15:20:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-07-13"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-07-14"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-07-19"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="783" />
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Adopted children"/>
+		<term name="Alaska"/>
+		<term name="Alien labor"/>
+		<term name="Aliens"/>
+		<term name="Americans employed in foreign countries"/>
+		<term name="Armed forces abroad"/>
+		<term name="Children"/>
+		<term name="Citizenship"/>
+		<term name="Colleges"/>
+		<term name="Commemorations"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Conspiracy"/>
+		<term name="Counterfeiting"/>
+		<term name="Custody of children"/>
+		<term name="Department of Justice"/>
+		<term name="Department of State"/>
+		<term name="Deportation"/>
+		<term name="Diplomats"/>
+		<term name="Expatriation"/>
+		<term name="Federal employees"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Firearms"/>
+		<term name="Foreign relations"/>
+		<term name="Forgery"/>
+		<term name="Foundations"/>
+		<term name="Fraud"/>
+		<term name="Government property"/>
+		<term name="Illegitimacy"/>
+		<term name="Immigrants"/>
+		<term name="International agencies"/>
+		<term name="Labor supply"/>
+		<term name="Land transfers"/>
+		<term name="Law enforcement officers"/>
+		<term name="Lebanon"/>
+		<term name="Legislative resolutions"/>
+		<term name="Libraries"/>
+		<term name="Longshoremen"/>
+		<term name="Merchant seamen"/>
+		<term name="Military dependents"/>
+		<term name="Monuments and memorials"/>
+		<term name="Murder"/>
+		<term name="Museums"/>
+		<term name="Narcotic traffic"/>
+		<term name="Naturalization"/>
+		<term name="Passports"/>
+		<term name="Private legislation"/>
+		<term name="Refugees"/>
+		<term name="Taiwan"/>
+		<term name="Texas"/>
+		<term name="Tibet"/>
+		<term name="Torture"/>
+		<term name="Visas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/1/1993--Introduced.
+TABLE OF CONTENTS: Title I: Technical Corrections of Immigration Laws Title II: Miscellaneous Provisions Immigration and Nationality Technical Corrections Act of 1993 - Title I: Technical Corrections of Immigration Laws - (Sec. 101) Amends the Immigration and Nationality Act to include qualifying employees of the American Institute in Taiwan under the definition of special immigrant. (Sec. 102) Extends the deadline for retired officers and employees of certain international organizations to file for special immigrant status. (Sec. 103) Treats Tibet as a separate foreign state for U.S. immigration purposes. (Sec. 104) Authorizes the Secretary of State to make refugee determinations under specified circumstances. (Sec. 105) Revises specified grounds for exclusion and deportation. (Sec. 106) Amends the Immigration Act of 1990 to make discretionary the existing mandatory labor market pilot program for employment-based immigrants. (Sec. 109) Amends the Immigration and Nationality Act to permit alien longshoremen to work in Alaska under specified circumstances. Revises provisions regarding: (1) transmission of citizenship to children born out of wedlock; and (2) automatic citizenship for certain children born outside the United States. (Sec. 115) States that approval by the Secretary of State of a certificate of loss of nationality shall constitute a final administrative determination of loss of U.S. nationality. (Sec. 117) Authorizes the Secretary of State to cancel any U.S. passport or consular report of birth which was fraudulently, illegally, or erroneously procured. (Sec. 120) Amends the Immigration and Nationality Act Amendments of 1976 to repeal a provision regarding priority dates for aliens registered on the Western Hemisphere waiting list. Title II: Miscellaneous Provisions - (Sec. 202) Amends Federal criminal law to increase penalties for specified acts of visa and passport fraud. (Sec. 203) Authorizes the transfer of certain real and personal property to the Border Patrol Museum and Memorial Library Foundation in Texas. (Sec. 204) Grants special immigrant status to certain aliens employed abroad by the American University of Beirut or by Beirut University College.
+
+	</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="103" type="sj" number="85" updated="2010-04-19T21:36:47-04:00">
+	<state datetime="1993-04-27">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-04-27" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-04-27"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution designating the week beginning May 2, 1993, as &quot;National Mental Health Counselors Week&quot;.</title>
+	</titles>
+	<sponsor id="405310"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-04-27" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Voice Vote.</text><reference label="consideration" ref="CR S4967-4968"/></vote>
+		<action datetime="1993-04-28T14:27:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-04-28"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-08-16"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Special weeks"/>
+		<term name="Commemorations"/>
+		<term name="Counseling"/>
+		<term name="Medical care"/>
+		<term name="Psychiatric personnel"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/27/1993--Introduced.
+Designates the week beginning May 2, 1993, as National Mental Health Counselors Week.
+
+	</summary>
+</bill>

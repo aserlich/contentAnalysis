@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="2900" updated="2010-04-19T06:43:27-04:00">
+	<state datetime="1993-08-13">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-08-13" /></status>
+
+	<introduced datetime="1993-08-05"/>
+	<titles>
+		<title type="short" as="introduced">Nutrition Labeling and Education Act Amendments of 1993</title>
+		<title type="official" as="introduced">To clarify and revise the small business exemption from the nutrition labeling requirements of the Federal Food, Drug, and Cosmetic Act and for other purposes.</title>
+	</titles>
+	<sponsor id="400110"/>
+	<cosponsors>
+		<cosponsor id="400571" joined="1993-08-05"/>
+		<cosponsor id="407899" joined="1993-08-05"/>
+		<cosponsor id="400425" joined="1993-08-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-05"><text>Sponsor introductory remarks on measure. (CR E2015-2016)</text></action>
+		<action datetime="1993-08-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-08-06T16:54:00-04:00"><text>Committee on Energy and Commerce discharged.</text></action>
+		<action datetime="1993-08-06T16:54:00-04:00"><text>Mr. Waxman asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1993-08-06T16:54:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H6358-6360"/></action>
+		<vote how="without objection" type="vote" datetime="1993-08-06T16:56:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-08-06T16:56:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-08-06" where="s" result="pass"  state="PASSED:BILL"><text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (CR S10817)</text></vote>
+		<topresident datetime="1993-08-06" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-08-09"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-08-10" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-08-13" ><text>Signed by President.</text></signed>
+		<enacted number="103-80" type="public" datetime="1993-08-13"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-80.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Food"/>
+		<term name="Administrative procedure"/>
+		<term name="Consumer education"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Government paperwork"/>
+		<term name="Labeling"/>
+		<term name="Nutrition"/>
+		<term name="Small business"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/1993--Introduced.
+Nutrition Labeling and Education Act Amendments of 1993 - Amends the Federal Food, Drug, and Cosmetic Act to provide more time for qualifying small businesses to achieve compliance with the labeling requirements of the Nutrition Labeling and Education Act of 1990.
+
+	</summary>
+</bill>

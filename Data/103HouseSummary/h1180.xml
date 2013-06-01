@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="1180" updated="2010-04-19T02:12:42-04:00">
+	<state datetime="1993-03-02">REFERRED</state>
+	<status><introduced datetime="1993-03-02"/></status>
+
+	<introduced datetime="1993-03-02"/>
+	<titles>
+		<title type="official" as="introduced">To amend title II of the Social Security Act to authorize State and local governments to use social security account numbers for jury selection purposes.</title>
+	</titles>
+	<sponsor id="411350"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-02"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Crime and criminals"/>
+		<term name="Criminal justice information"/>
+		<term name="Identification devices"/>
+		<term name="Jury selection"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="State courts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/2/1993--Introduced.
+Amends the Social Security Act to declare it to be U.S. policy that States or subdivisions of States may utilize social security numbers for identifying: (1) duplicate listings of individuals in master lists used for jury selection purposes; and (2) master list listings of individuals ineligible for jury service because they were convicted of a felony.
+
+	</summary>
+</bill>

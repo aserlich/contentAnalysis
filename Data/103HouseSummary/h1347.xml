@@ -1,0 +1,63 @@
+<bill session="103" type="h" number="1347" updated="2012-07-17T05:51:31-04:00">
+	<state datetime="1993-08-02">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-08-02" /></status>
+
+	<introduced datetime="1993-03-16"/>
+	<titles>
+		<title type="official" as="introduced">To modify the boundary of Hot Springs National Park.</title>
+	</titles>
+	<sponsor id="400579"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-16" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E630-631)</text></action>
+		<action datetime="1993-03-16" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-04-13"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-05-11"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-06-10"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-06-10"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-06-16"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-06-16"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-06-21T11:45:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 103-144.</text></action>
+		<calendar number="79" datetime="1993-06-21T11:47:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 79.</text></calendar>
+		<action datetime="1993-06-21T12:44:00-04:00"><text>Mr. Vento moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-06-21T12:44:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3851-3852"/></action>
+		<action datetime="1993-06-21T12:44:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-06-21T12:49:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-06-21T12:49:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-06-22"><text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-06-23"><committee name="House Committee on Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<calendar datetime="1993-06-30" ><committee name="House Committee on Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported in lieu of S. 752 without amendment favorably.</text></calendar>
+		<action datetime="1993-07-16"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 103-97.</text></action>
+		<calendar under="General Orders" number="142" datetime="1993-07-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 142.</text></calendar>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-07-21" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S9182"/></vote>
+		<topresident datetime="1993-07-21" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-07-22"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-07-23" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-08-02" ><text>Signed by President.</text></signed>
+		<enacted number="103-58" type="public" datetime="1993-08-02"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-58.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="752" />
+	</relatedbills>
+	<subjects>
+		<term name="Parks"/>
+		<term name="Arkansas"/>
+		<term name="National parks"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/16/1993--Introduced.
+Modifies the boundary of Hot Springs National Park.
+
+	</summary>
+</bill>

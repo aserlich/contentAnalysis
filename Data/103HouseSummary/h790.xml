@@ -1,0 +1,118 @@
+<bill session="103" type="h" number="790" updated="2010-04-19T01:07:42-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Trident II (D-5) Missile Production Termination Act</title>
+		<title type="official" as="introduced">To provide for the termination of further production of the Trident II (D-5) missile.</title>
+	</titles>
+	<sponsor id="408618"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-03-09"/>
+		<cosponsor id="406466" joined="1994-04-20"/>
+		<cosponsor id="400509" joined="1993-06-18"/>
+		<cosponsor id="400553" joined="1993-03-01"/>
+		<cosponsor id="400414" joined="1993-11-10"/>
+		<cosponsor id="400289" joined="1993-03-29"/>
+		<cosponsor id="408839" joined="1993-03-02"/>
+		<cosponsor id="400160" joined="1993-07-28"/>
+		<cosponsor id="400080" joined="1993-03-17"/>
+		<cosponsor id="404083" joined="1993-06-18"/>
+		<cosponsor id="401494" joined="1993-03-29"/>
+		<cosponsor id="406431" joined="1993-03-01"/>
+		<cosponsor id="400885" joined="1993-04-20"/>
+		<cosponsor id="400424" joined="1994-05-05"/>
+		<cosponsor id="400154" joined="1993-11-23"/>
+		<cosponsor id="402890" joined="1994-07-28"/>
+		<cosponsor id="400612" joined="1993-06-09"/>
+		<cosponsor id="400124" joined="1994-04-18"/>
+		<cosponsor id="400578" joined="1993-07-14"/>
+		<cosponsor id="400323" joined="1993-11-23"/>
+		<cosponsor id="400306" joined="1993-03-29"/>
+		<cosponsor id="400409" joined="1993-06-18"/>
+		<cosponsor id="300068" joined="1993-06-28"/>
+		<cosponsor id="400370" joined="1993-06-18"/>
+		<cosponsor id="400524" joined="1993-03-09"/>
+		<cosponsor id="400216" joined="1994-02-01"/>
+		<cosponsor id="400262" joined="1993-06-28"/>
+		<cosponsor id="400312" joined="1993-03-01"/>
+		<cosponsor id="404869" joined="1994-05-16"/>
+		<cosponsor id="400316" joined="1993-06-28"/>
+		<cosponsor id="404375" joined="1993-04-20"/>
+		<cosponsor id="400416" joined="1993-07-28"/>
+		<cosponsor id="404978" joined="1993-03-09"/>
+		<cosponsor id="400533" joined="1994-04-14"/>
+		<cosponsor id="400308" joined="1993-11-23"/>
+		<cosponsor id="400205" joined="1994-04-26"/>
+		<cosponsor id="400520" joined="1993-09-15"/>
+		<cosponsor id="407153" joined="1993-11-23"/>
+		<cosponsor id="400343" joined="1994-04-19"/>
+		<cosponsor id="400050" joined="1993-04-20"/>
+		<cosponsor id="400436" joined="1993-06-28"/>
+		<cosponsor id="409650" joined="1994-04-25"/>
+		<cosponsor id="400140" joined="1993-03-01"/>
+		<cosponsor id="412001" joined="1993-03-29"/>
+		<cosponsor id="406082" joined="1993-06-18"/>
+		<cosponsor id="409618" joined="1993-11-23"/>
+		<cosponsor id="400251" joined="1993-07-28"/>
+		<cosponsor id="400178" joined="1993-09-08"/>
+		<cosponsor id="400378" joined="1993-03-02"/>
+		<cosponsor id="300085" joined="1993-03-17"/>
+		<cosponsor id="400366" joined="1993-06-28"/>
+		<cosponsor id="400604" joined="1994-05-04"/>
+		<cosponsor id="400269" joined="1993-09-29"/>
+		<cosponsor id="401134" joined="1993-11-23"/>
+		<cosponsor id="400299" joined="1993-09-08"/>
+		<cosponsor id="402152" joined="1993-07-28"/>
+		<cosponsor id="400193" joined="1993-07-14"/>
+		<cosponsor id="400391" joined="1994-03-10"/>
+		<cosponsor id="400554" joined="1993-09-08"/>
+		<cosponsor id="400357" joined="1994-04-14"/>
+		<cosponsor id="409627" joined="1994-07-25"/>
+		<cosponsor id="400182" joined="1994-04-19"/>
+		<cosponsor id="400240" joined="1993-06-28"/>
+		<cosponsor id="400599" joined="1993-03-09"/>
+		<cosponsor id="400438" joined="1994-05-16"/>
+		<cosponsor id="400513" joined="1994-04-18"/>
+		<cosponsor id="400611" joined="1994-04-26"/>
+		<cosponsor id="400314" joined="1993-07-14"/>
+		<cosponsor id="400100" joined="1993-04-26"/>
+		<cosponsor id="411488" joined="1994-01-25"/>
+		<cosponsor id="300058" joined="1993-07-28"/>
+		<cosponsor id="410565" joined="1993-04-26"/>
+		<cosponsor id="300100" joined="1994-03-24"/>
+		<cosponsor id="411997" joined="1993-11-10"/>
+		<cosponsor id="400278" joined="1993-06-18"/>
+		<cosponsor id="402762" joined="1993-06-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-02-08"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Acquisition.</text></action>
+		<action datetime="1993-02-08"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1993-08-11"><committee name="House Committee on Armed Services"/><text>Unfavorable Executive Comment Received from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Acquisition" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Ballistic missiles"/>
+		<term name="Defense budgets"/>
+		<term name="Defense procurement"/>
+		<term name="Government spending reductions"/>
+		<term name="Nuclear submarines"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Trident II (D-5) Missile Production Termination Act - Prohibits funds appropriated to the Department of Defense for fiscal years after 1993 from being obligated or expended for production of additional Trident II (D-5) missiles. Allows amounts appropriated to the Department to be expended for such missile only to complete production of those missiles commenced with funds appropriated before FY 1994.
+
+	</summary>
+</bill>

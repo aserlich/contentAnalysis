@@ -1,0 +1,52 @@
+<bill session="103" type="hj" number="102" updated="2010-04-18T22:06:54-04:00">
+	<state datetime="1993-03-23T13:05:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-03-23T13:05:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the appointment of Barber B. Conable, Jr. as a citizen regent of the Smithsonian Institution.</title>
+	</titles>
+	<sponsor id="407772"/>
+	<cosponsors>
+		<cosponsor id="407400" joined="1993-02-04"/>
+		<cosponsor id="408103" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Libraries and Memorials.</text></action>
+		<action datetime="1993-03-17"><committee name="House Committee on House Administration" subcommittee="Libraries and Memorials"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-03-17"><committee name="House Committee on House Administration" subcommittee="Libraries and Memorials"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-03-17"><committee name="House Committee on House Administration" subcommittee="Libraries and Memorials"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-03-17"><committee name="House Committee on House Administration"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-03-17"  state="REPORTED"><committee name="House Committee on House Administration"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-03-23T12:53:00-05:00"><text>Mr. Clay moved to suspend the rules and pass the resolution, as amended.</text></action>
+		<action datetime="1993-03-23T12:53:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1539-1541"/></action>
+		<action datetime="1993-03-23T12:54:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-03-23T13:05:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-03-23T13:05:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-03-23T13:05:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-03-23T13:18:00-05:00"><text>Laid on the table. See S.J. Res. 28 for further action.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, Markup" />
+		<committee code="" name="House Administration" subcommittee="Libraries and Memorials" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="superseded" session="103" type="sj" number="28" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal officials"/>
+		<term name="District of Columbia"/>
+		<term name="Executive departments"/>
+		<term name="Museums"/>
+		<term name="Smithsonian Institution"/>
+		<term name="Trusts and trustees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/23/1993--Passed House amended. Appoints Barber B. Conable, Jr., of New York to fill a vacancy on the Board of Regents of the Smithsonian Institution.
+
+	</summary>
+</bill>

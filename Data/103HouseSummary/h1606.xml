@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="1606" updated="2010-04-19T03:22:12-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Agricultural Act of 1949 to lower the target price of program crops in 1994 and 1995 in commodity programs operated by the Department of Agriculture.</title>
+	</titles>
+	<sponsor id="412001"/>
+	<cosponsors>
+		<cosponsor id="400242" joined="1993-11-20"/>
+		<cosponsor id="400584" joined="1994-04-28"/>
+		<cosponsor id="400370" joined="1994-05-19"/>
+		<cosponsor id="403545" joined="1994-08-01"/>
+		<cosponsor id="400551" joined="1994-02-08"/>
+		<cosponsor id="400251" joined="1994-04-28"/>
+		<cosponsor id="411997" joined="1993-11-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-04-06"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on General Farm Commodities.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="General Farm Commodities" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural price supports"/>
+		<term name="Cotton"/>
+		<term name="Feed grain program"/>
+		<term name="Rice"/>
+		<term name="Wheat"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Amends the Agricultural Act of 1949 to reduce 1994 and 1995 price support target prices for wheat, feed grains, upland cotton, and rice.
+
+	</summary>
+</bill>

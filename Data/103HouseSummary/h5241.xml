@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="5241" updated="2010-04-19T12:48:00-04:00">
+	<state datetime="1994-10-07">REFERRED</state>
+	<status><introduced datetime="1994-10-07"/></status>
+
+	<introduced datetime="1994-10-07"/>
+	<titles>
+		<title type="official" as="introduced">To amend section 9147 of Public Law 102-396.</title>
+	</titles>
+	<sponsor id="411040"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-07"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-10-07"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-10-17"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Installations and Facilities.</text></action>
+		<action datetime="1994-10-17"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from Army.</text></action>
+		<action datetime="1994-10-20"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Installations and Facilities" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Claims"/>
+		<term name="Columbia River development"/>
+		<term name="Easements"/>
+		<term name="Federal-city relations"/>
+		<term name="Government liability"/>
+		<term name="Land transfers"/>
+		<term name="Law"/>
+		<term name="Public lands"/>
+		<term name="State and local government"/>
+		<term name="Washington State"/>
+		<term name="Water resources"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1994--Introduced.
+Amends the Department of Defense Appropriations Act, 1993, to authorize the Secretary of the Army to transfer to North Bonneville, Washington, all rights and interest to certain municipal facilities, utilities, fixtures, equipment, and any remaining lands designated as open spaces or municipal lots not previously conveyed to the city, along with a school lot and related parcels and easements. Declares that such conveyances are intended to resolve all outstanding issues between the United States and the city. Requires the city to execute a release of all claims against the United States upon such transfer. Requires the Attorney General to dismiss any pending litigation in such regard upon execution of such release.
+
+	</summary>
+</bill>

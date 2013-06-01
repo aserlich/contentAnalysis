@@ -1,0 +1,50 @@
+<bill session="103" type="hj" number="220" updated="2012-07-17T06:18:36-04:00">
+	<state datetime="1993-10-01">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-10-01" /></status>
+
+	<introduced datetime="1993-06-29"/>
+	<titles>
+		<title type="official" as="introduced">To designate the month of August as &quot;National Scleroderma Awareness Month&quot;, and for other purposes.</title>
+	</titles>
+	<sponsor id="400124"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-29" state="REFERRED"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-08-05T22:30:00-04:00"><text>Committee on Post Office and Civil Service discharged.</text></action>
+		<action datetime="1993-08-05T22:30:00-04:00"><text>Ms. Byrne asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1993-08-05T22:30:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H6273-6274"/></action>
+		<vote how="without objection" type="vote" datetime="1993-08-05T22:30:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-08-05T22:30:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-08-06"><text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-09-10"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S11471"/></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-09-10" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment and with a preamble by Voice Vote.</text></vote>
+		<topresident datetime="1993-09-10" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-09-13"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-09-21" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-10-01" ><text>Signed by President.</text></signed>
+		<enacted number="103-92" type="public" datetime="1993-10-01"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-92.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged" />
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="sj" number="103" />
+	</relatedbills>
+	<subjects>
+		<term name="Special months"/>
+		<term name="Commemorations"/>
+		<term name="Diseases"/>
+		<term name="Health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/29/1993--Introduced.
+Designates August 1993 and August 1994 as National Scleroderma Awareness Month.
+
+	</summary>
+</bill>

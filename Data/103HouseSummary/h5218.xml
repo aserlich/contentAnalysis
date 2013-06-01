@@ -1,0 +1,175 @@
+<bill session="103" type="h" number="5218" updated="2010-04-19T12:44:24-04:00">
+	<state datetime="1994-10-06">REFERRED</state>
+	<status><introduced datetime="1994-10-06"/></status>
+
+	<introduced datetime="1994-10-06"/>
+	<titles>
+		<title type="short" as="introduced">A Living Wage, Jobs For All Act</title>
+		<title type="official" as="introduced">To promote the fulfillment of basic unmet needs and to protect certain basic economic rights of the people of the United States, and for other purposes.</title>
+	</titles>
+	<sponsor id="403364"/>
+	<cosponsors>
+		<cosponsor id="400289" joined="1994-10-06"/>
+		<cosponsor id="400126" joined="1994-10-06"/>
+		<cosponsor id="400080" joined="1994-10-06"/>
+		<cosponsor id="400333" joined="1994-10-06"/>
+		<cosponsor id="400295" joined="1994-10-06"/>
+		<cosponsor id="400306" joined="1994-10-06"/>
+		<cosponsor id="400527" joined="1994-10-06"/>
+		<cosponsor id="400409" joined="1994-10-06"/>
+		<cosponsor id="400416" joined="1994-10-06"/>
+		<cosponsor id="400178" joined="1994-10-06"/>
+		<cosponsor id="400240" joined="1994-10-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-06"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-10-06"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1994-10-06"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1994-10-06"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-10-06"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-10-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-10-18"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Research and Technology.</text></action>
+		<action datetime="1994-10-18"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1994-10-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1994-10-20"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+		<action datetime="1994-10-26"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor Standards, Occupational Health and Safety.</text></action>
+		<action datetime="1994-10-26"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+		<action datetime="1994-10-26"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Select Education and Civil Rights.</text></action>
+		<action datetime="1994-10-26"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+		<action datetime="1994-10-26"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Research and Technology" activity="Referral" />
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-10" name="House Education and Labor" subcommittee="Labor Standards, Occupational Health and Safety" activity="Referral" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral" />
+		<committee code="HSED-04" name="House Education and Labor" subcommittee="Select Education and Civil Rights" activity="Referral" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+		<committee code="" name="House Education and Labor" subcommittee="Human Resources" activity="Referral" />
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Economic policy"/>
+		<term name="Agriculture"/>
+		<term name="American economic assistance"/>
+		<term name="American investments"/>
+		<term name="Appropriations"/>
+		<term name="Authorization"/>
+		<term name="Banks and banking"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Business cycles"/>
+		<term name="Capital movements"/>
+		<term name="Children"/>
+		<term name="Civil rights"/>
+		<term name="Collective bargaining"/>
+		<term name="Community development"/>
+		<term name="Community development banking"/>
+		<term name="Computer software"/>
+		<term name="Conferences"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Consumers"/>
+		<term name="Conversion of industries"/>
+		<term name="Day care"/>
+		<term name="Defense economics"/>
+		<term name="Defense industries"/>
+		<term name="Discrimination in employment"/>
+		<term name="Economic development"/>
+		<term name="Economic impact statements"/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Employment"/>
+		<term name="Environmental protection"/>
+		<term name="Exports"/>
+		<term name="Federal budgets"/>
+		<term name="Finance"/>
+		<term name="Food"/>
+		<term name="Foreign aid"/>
+		<term name="Foreign loans"/>
+		<term name="Foreign policy"/>
+		<term name="Foreign trade"/>
+		<term name="Free trade"/>
+		<term name="Full employment policies"/>
+		<term name="Government spending reductions"/>
+		<term name="Government trust funds"/>
+		<term name="Grants-in-aid"/>
+		<term name="Health policy"/>
+		<term name="Hours of labor"/>
+		<term name="Housing"/>
+		<term name="Hunger"/>
+		<term name="Inflation"/>
+		<term name="Infrastructure"/>
+		<term name="Infrastructure (Economics)"/>
+		<term name="Interest"/>
+		<term name="Interest rates"/>
+		<term name="International affairs"/>
+		<term name="International corporations"/>
+		<term name="International finance"/>
+		<term name="International labor activities"/>
+		<term name="Investments"/>
+		<term name="Job training"/>
+		<term name="Labor"/>
+		<term name="Labor unions"/>
+		<term name="Leave of absence"/>
+		<term name="Legislation"/>
+		<term name="Legislative resolutions"/>
+		<term name="Maintenance and repair"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Monopolies"/>
+		<term name="Multilateral development banks"/>
+		<term name="Nutrition"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Overtime"/>
+		<term name="Part-time employment"/>
+		<term name="Pension funds"/>
+		<term name="Pensions"/>
+		<term name="Plant shutdowns"/>
+		<term name="Prefabricated buildings"/>
+		<term name="Presidential messages"/>
+		<term name="Presidents"/>
+		<term name="Preventive medicine"/>
+		<term name="Public contracts"/>
+		<term name="Public debt"/>
+		<term name="Public service employment"/>
+		<term name="Public works"/>
+		<term name="Quality of life"/>
+		<term name="Quality of work life"/>
+		<term name="Recycling of waste products"/>
+		<term name="Restrictive trade practices"/>
+		<term name="Small business"/>
+		<term name="Social security"/>
+		<term name="Solid wastes"/>
+		<term name="Standard of living"/>
+		<term name="Supercomputers"/>
+		<term name="Tax expenditures"/>
+		<term name="Taxation"/>
+		<term name="Technology"/>
+		<term name="Trade"/>
+		<term name="Transportation"/>
+		<term name="Underemployment"/>
+		<term name="Unemployment"/>
+		<term name="United Nations"/>
+		<term name="Wages"/>
+		<term name="Waste in government spending"/>
+		<term name="Wealth"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/6/1994--Introduced.
+A Living Wage, Jobs for All Act - Declares that the Congress affirms the basic economic rights and responsibilities under the 1944 &quot;Economic Bill of Rights&quot;, while updating and extending it to include that: (1) every adult American able and willing to earn a living through paid work has the right to a free choice among opportunities for useful and productive part- or full-time paid employment at decent real wages or for self-employment; and (2) every adult American unable to work for pay or find employment has the right to an adequate standard of living that rises with increases in the wealth and productivity of the society. (Sec. 2) Makes it the responsibility of each Federal agency and commission, including the Board of Governors of the Federal Reserve System, to perform so as to help establish and maintain conditions under which all adult Americans may freely exercise the economic rights specified in 1944 and in this Act. Prohibits Federal agencies or commissions from directly or indirectly promoting recession, stagnation, or unemployment as a means of reducing wages and salaries or inflation. (Sec. 3) Directs the President to establish a program to implement such basic economic rights and responsibilities. Sets forth policies and projects to be included under such program. Includes such program in the annual submission of budget. (Sec. 4) Authorizes the Secretary of Labor to provide grants and other incentives to States and local governments to encourage short- and long-term public works and public services planning in urban, suburban, and rural areas, in order to implement such basic economic rights and responsibilities. Requires applications for such assistance to include strategic and tactical plans. (Sec. 5) Makes it the policy of the Federal government to cooperate with other nations' governments and the United Nations to help develop an international community based on rising living standards, particularly for those people with the lowest levels of income, wealth, access to public facilities, free trade union organization, and political power. Directs the President, through appropriate Federal agencies, to review all Federal law and regulations that interfere with implementation of such policy, taking specified factors into consideration. Makes U.S. contributions to the International Monetary Fund and the International Bank for Reconstruction and Development contingent upon development and implementation of policies and procedures that will: (1) raise the standard of living in countries receiving assistance from such Fund or Bank, rather than impose austerity; and (2) contribute to such countries' economic viability, credit worthiness, and ability to import goods and services from the United States. Directs the President to: (1) instruct the U.S. representative to the United Nations to propose a series of international and regional conferences on alternative methods of planning for the reduction of involuntary unemployment; and (2) promote, through the Secretary of Labor, the convening in the United States or elsewhere of international and regional conferences on coping with unemployment and underemployment and moving toward fuller employment in the world. Directs the Secretary of Labor, in promoting such conferences, to provide financial and technical assistance to organized labor and cooperative, community, nonprofit, and voluntary organizations, giving priority to widespread communication on controlling facility closings and capital flight by large businesses and on facilitating transnational labor organizations and collective bargaining. (Sec. 6) Directs the President, in the next annual message to the Congress, to propose establishment of a Conversion Planning Fund. Requires such Fund to promote and activate short- and long-term plans for coping with declines in civilian or military activities by developing policies, programs, and projects to expand economic activities in sectors where additional or improved goods or services are needed. Directs the Secretary of Defense to transfer one percent of amounts appropriated for military activities of the Department of Defense to the Fund. Authorizes appropriations, in addition to such transferred funds, as necessary for the Fund. (Sec. 7) Directs the President to establish an annual schedule for implementing this Act, including specified recommendations for restructuring Federal budget priorities and promoting educational activities within each State on locally-based overall planning. Amends the Employment Act of 1946 to: (1) include such implementation schedule in the annual Presidential economic report; and (2) provide for Joint Economic Committee oversight of actions taken or proposed to be taken under this Act. Sets forth requirements that specified types of impact analyses and other information be contained in: (1) all budgetary data for specific programs, whether in budget messages and resolutions or in legislative authorizations and appropriations; and (2) all Presidential budget messages to the Congress. (Sec. 8) Authorizes appropriations.
+
+	</summary>
+</bill>

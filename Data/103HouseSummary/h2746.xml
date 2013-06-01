@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="2746" updated="2012-07-17T06:26:34-04:00">
+	<state datetime="1993-08-02T14:12:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-08-02T14:12:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-07-27"/>
+	<titles>
+		<title type="official" as="introduced">To amend the White House Conference on the Small Business Authorization Act.</title>
+	</titles>
+	<sponsor id="400537"/>
+	<cosponsors>
+		<cosponsor id="407669" joined="1993-07-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-27" state="REFERRED"><text>Referred to the House Committee on Small Business.</text></action>
+		<action datetime="1993-07-29"><committee name="House Committee on Small Business"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-07-29"  state="REPORTED"><committee name="House Committee on Small Business"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-08-02T14:06:00-04:00"><text>Mr. Lafalce moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-08-02T14:07:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5579-5580"/></action>
+		<action datetime="1993-08-02T14:07:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-08-02T14:12:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-08-02T14:12:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-08-03"><text>Received in the Senate and read twice and referred to the Committee on Small Business.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSM" name="House Small Business" activity="Referral, Markup" />
+		<committee code="SSSB" name="Senate Small Business" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Small business"/>
+		<term name="Authorization"/>
+		<term name="Conferences"/>
+		<term name="White House conferences"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/2/1993--Passed House amended. Amends the White House Conference on Small Business Authorization Act to: (1) extend to between May 1 and September 30, 1995, the authorized period for conducting a National Conference on Small Business; (2) extend through March 1, 1994, the authorized period for conducting State conferences on such subject; (3) direct the President to select and appoint the 11 individuals to the White House Conference on Small Business Commission within 30 days after enactment of this Act; and (4) increase the authorization of appropriations to carry out the purposes of such Act.
+
+	</summary>
+</bill>

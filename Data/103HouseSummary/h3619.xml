@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="3619" updated="2010-04-19T08:34:55-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Revenue Act of 1987 to provide a permanent extension of the transition rule for certain publicly traded partnerships.</title>
+	</titles>
+	<sponsor id="400882"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1994-08-05"/>
+		<cosponsor id="406466" joined="1993-11-22"/>
+		<cosponsor id="410529" joined="1993-11-22"/>
+		<cosponsor id="400176" joined="1994-09-29"/>
+		<cosponsor id="405507" joined="1994-02-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2179" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Business"/>
+		<term name="Corporation taxes"/>
+		<term name="Partnerships"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Amends the Revenue Act of 1987 to provide a permanent extension of the rule for the treatment of certain publicly traded partnerships as corporations.
+
+	</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="758" updated="2010-04-19T01:02:08-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Harmonized Tariff Schedule of the United States to provide duty-free status for hosiery knitting machines and parts thereof, and for hosiery knitting needles.</title>
+	</titles>
+	<sponsor id="400015"/>
+	<cosponsors>
+		<cosponsor id="400398" joined="1993-05-06"/>
+		<cosponsor id="410529" joined="1993-05-06"/>
+		<cosponsor id="408109" joined="1993-05-06"/>
+		<cosponsor id="400116" joined="1993-05-06"/>
+		<cosponsor id="407153" joined="1993-05-06"/>
+		<cosponsor id="411065" joined="1993-05-06"/>
+		<cosponsor id="400076" joined="1993-06-17"/>
+		<cosponsor id="401417" joined="1993-05-06"/>
+		<cosponsor id="400326" joined="1993-05-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-09"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-04-07"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1993-07-12"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Ways and Means"/><text>See H.R.5110.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5110" />
+		<bill relation="identical" session="103" type="s" number="398" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Machinery"/>
+		<term name="Tariff"/>
+		<term name="Textile industry and fabrics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to grant duty-free treatment of certain knitting machines and parts and knitting machine needles.
+
+	</summary>
+</bill>

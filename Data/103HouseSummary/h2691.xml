@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="2691" updated="2010-04-19T06:11:02-04:00">
+	<state datetime="1993-07-21">REFERRED</state>
+	<status><introduced datetime="1993-07-21"/></status>
+
+	<introduced datetime="1993-07-21"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to provide that future increases in the monthly amount paid by the State of New York to blind disabled veterans shall be excluded from the determination of annual income for purposes of the payment of pension by the Secretary of Veterans Affairs.</title>
+	</titles>
+	<sponsor id="408553"/>
+	<cosponsors>
+		<cosponsor id="400122" joined="1994-05-05"/>
+		<cosponsor id="400268" joined="1993-07-21"/>
+		<cosponsor id="400409" joined="1993-09-09"/>
+		<cosponsor id="400035" joined="1993-07-21"/>
+		<cosponsor id="407817" joined="1993-07-21"/>
+		<cosponsor id="400594" joined="1993-07-29"/>
+		<cosponsor id="400251" joined="1993-07-21"/>
+		<cosponsor id="400378" joined="1993-07-29"/>
+		<cosponsor id="400536" joined="1993-09-09"/>
+		<cosponsor id="400537" joined="1993-07-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-21"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-08-06"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Compensation, Pension and Insurance.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Veterans' Affairs" subcommittee="Compensation, Pension and Insurance" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2377" />
+		<bill relation="identical" session="103" type="h" number="2389" />
+		<bill relation="identical" session="103" type="s" number="789" />
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Annuities"/>
+		<term name="Blind"/>
+		<term name="Income"/>
+		<term name="New York State"/>
+		<term name="Veterans' disability compensation"/>
+		<term name="Veterans' pensions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/21/1993--Introduced.
+Excludes from the determination of income, for purposes of the payment of pension by the Secretary of Veterans Affairs, any future increases made by the State of New York in the monthly amount paid to blind and totally disabled veterans.
+
+	</summary>
+</bill>

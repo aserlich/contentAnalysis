@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="2508" updated="2010-04-19T05:42:35-04:00">
+	<state datetime="1993-06-23">REFERRED</state>
+	<status><introduced datetime="1993-06-23"/></status>
+
+	<introduced datetime="1993-06-23"/>
+	<titles>
+		<title type="official" as="introduced">To suspend temporarily the duty on benzoxazol.</title>
+	</titles>
+	<sponsor id="408976"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-23"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-06-24"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1993-09-30"><text>Sponsor introductory remarks on measure. (CR S12846)</text></action>
+		<action datetime="1994-02-02"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Chemicals"/>
+		<term name="Dyes and dyeing"/>
+		<term name="Tariff"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/23/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1994, the duty on benzoxazol.
+
+	</summary>
+</bill>

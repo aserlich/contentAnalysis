@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="3172" updated="2010-04-19T07:25:38-04:00">
+	<state datetime="1993-09-29">REFERRED</state>
+	<status><introduced datetime="1993-09-29"/></status>
+
+	<introduced datetime="1993-09-29"/>
+	<titles>
+		<title type="official" as="introduced">To amend the definition of rural community to expand eligibility for economic recovery funds.</title>
+	</titles>
+	<sponsor id="400100"/>
+	<cosponsors>
+		<cosponsor id="410084" joined="1993-09-29"/>
+		<cosponsor id="400193" joined="1993-09-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-29"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-10-05"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Environment, Credit and Rural Development.</text></action>
+		<action datetime="1993-10-05"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Environment, Credit and Rural Development" activity="Referral" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1508" />
+	</relatedbills>
+	<subjects>
+		<term name="Forests and forestry"/>
+		<term name="Diversification in industry"/>
+		<term name="Lumber trade"/>
+		<term name="National forests"/>
+		<term name="Rural economic development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/29/1993--Introduced.
+Amends the Food, Agriculture, Conservation, and Trade Act of 1990 to redefine &quot;rural community&quot; for purposes of assistance programs for forest-dependent rural communities.
+
+	</summary>
+</bill>

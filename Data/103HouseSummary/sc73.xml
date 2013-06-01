@@ -1,0 +1,51 @@
+<bill session="103" type="sc" number="73" updated="2010-04-19T21:22:23-04:00">
+	<state datetime="1994-07-27">REFERRED</state>
+	<status><introduced datetime="1994-07-27"/></status>
+
+	<introduced datetime="1994-07-27"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress with respect to the announcement of the Japanese Food Agency that it does not intend to fulfill its commitment to purchase 75,000 metric tons of United States rice.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300012" joined="1994-07-27"/>
+		<cosponsor id="300011" joined="1994-07-27"/>
+		<cosponsor id="408939" joined="1994-07-27"/>
+		<cosponsor id="300051" joined="1994-08-23"/>
+		<cosponsor id="402004" joined="1994-07-27"/>
+		<cosponsor id="300023" joined="1994-08-17"/>
+		<cosponsor id="300067" joined="1994-08-19"/>
+		<cosponsor id="400561" joined="1994-08-19"/>
+		<cosponsor id="406084" joined="1994-07-27"/>
+		<cosponsor id="300069" joined="1994-07-29"/>
+		<cosponsor id="300031" joined="1994-08-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-27"><text>Referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hc" number="274" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Agriculture"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="East Asia"/>
+		<term name="International affairs"/>
+		<term name="Japan"/>
+		<term name="Rice"/>
+		<term name="Trade"/>
+		<term name="Trade agreements"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/27/1994--Introduced.
+Expresses the sense of the Congress disapproving of the Japanese Food Agency's decision not to fulfill its commitment to purchase 75,000 metric tons of U.S. rice.
+
+	</summary>
+</bill>

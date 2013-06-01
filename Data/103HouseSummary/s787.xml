@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="787" updated="2012-07-17T05:38:06-04:00">
+	<state datetime="1993-04-19">REFERRED</state>
+	<status><introduced datetime="1993-04-19"/></status>
+
+	<introduced datetime="1993-04-19"/>
+	<titles>
+		<title type="official" as="introduced">A bill to require the Secretary of Transportation to issue an air worthiness directive related to dense and continuous smoke in aircraft.</title>
+	</titles>
+	<sponsor id="300056"/>
+	<cosponsors>
+		<cosponsor id="300001" joined="1993-04-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-19" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4633-4634)</text></action>
+		<action datetime="1993-04-19" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<action datetime="1993-11-08"><committee name="Committee on Commerce"/><text>Subcommittee on Aviation. Hearings held.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+		<committee code="SSCM-1" name="Senate Commerce, Science, and Transportation" subcommittee="Aviation" activity="Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Administrative procedure"/>
+		<term name="Aviation safety"/>
+		<term name="Department of Transportation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/19/1993--Introduced.
+Requires the Secretary of Transportation to issue an air worthiness directive that provides for the removal of dense and continuous smoke from the flight deck of turbine engine powered aircraft to ensure pilot vision during emergency situations.
+
+	</summary>
+</bill>

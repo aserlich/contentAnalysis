@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="555" updated="2010-04-19T00:28:30-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">To ensure that consumer credit reports include information on any overdue child support obligations of the consumer.</title>
+	</titles>
+	<sponsor id="400436"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-01-21"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-26"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+		<action datetime="1993-02-01"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Consumer Credit and Insurance.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="Consumer Credit and Insurance" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Children"/>
+		<term name="Administrative fees"/>
+		<term name="Child support"/>
+		<term name="Consumer credit"/>
+		<term name="Government paperwork"/>
+		<term name="Information services"/>
+		<term name="Social security"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Amends: (1) the Consumer Credit Protection Act to require a consumer reporting agency (CRA) to include in any consumer report information provided by a State child support agency or verified by another government entity on the failure of the consumer to pay overdue child support; and (2) the Social Security Act (SSA) to require States to provide CRAs with information on overdue child support obligations of absent parents. Eliminates: (1) the requirement under the SSA that such information be made upon the request of the CRA; and (2) the authority of the State under the SSA to impose a fee upon the requesting CRA for the furnishing of such information.
+
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="103" type="hj" number="14" updated="2010-04-18T21:53:09-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States relating to voluntary prayer in public schools.</title>
+	</titles>
+	<sponsor id="400079"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="22" />
+	</relatedbills>
+	<subjects>
+		<term name="Religion"/>
+		<term name="Constitutional amendments"/>
+		<term name="Education"/>
+		<term name="Prayer in the public schools"/>
+		<term name="Religious liberty"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Constitutional Amendment - Declares that nothing in the Constitution shall prohibit the inclusion of voluntary prayer in any public school program or activity. Provides that neither the United States nor any State shall prescribe the content of any such prayer.
+
+	</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="511" updated="2010-04-19T00:21:05-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="short" as="introduced">Public Service Scholarship Act of 1993</title>
+		<title type="official" as="introduced">To amend title 5, United States Code, to establish a program of Public Service Scholarships, and for other purposes.</title>
+	</titles>
+	<sponsor id="400536"/>
+	<cosponsors>
+		<cosponsor id="400409" joined="1993-05-06"/>
+		<cosponsor id="400524" joined="1993-05-06"/>
+		<cosponsor id="400012" joined="1993-06-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21"><text>Sponsor introductory remarks on measure. (CR E125)</text></action>
+		<action datetime="1993-01-21"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Civil Service.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Civil Service" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Collection of accounts"/>
+		<term name="Education"/>
+		<term name="Public service employment"/>
+		<term name="Scholarships"/>
+		<term name="Student loan funds"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Public Service Scholarship Act of 1993 - Directs the Office of Personnel Management to establish the Public Service Scholarship Program under which agencies may award scholarships to outstanding students pursuing a college degree in return for a commitment by them to accept employment with the agencies for a specified period of service. Authorizes appropriations. Amends Federal civil service law concerning student loan repayments to allow the President, upon the request of an agency head, to authorize the application of such law with respect to certain categories of agency employees currently ineligible for repayment benefits.
+
+	</summary>
+</bill>

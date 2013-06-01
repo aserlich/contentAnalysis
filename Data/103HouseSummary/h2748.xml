@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="2748" updated="2012-07-17T05:26:53-04:00">
+	<state datetime="1993-08-02T14:21:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-08-02T14:21:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-07-27"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Small Business Development Center Program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400537"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-27" state="REFERRED"><text>Referred to the House Committee on Small Business.</text></action>
+		<action datetime="1993-07-29"><committee name="House Committee on Small Business"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-07-29"  state="REPORTED"><committee name="House Committee on Small Business"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-08-02T14:18:00-04:00"><text>Mr. Lafalce moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-08-02T14:19:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5581-5582"/></action>
+		<action datetime="1993-08-02T14:19:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-08-02T14:21:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-08-02T14:22:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-08-03"><text>Received in the Senate and read twice and referred to the Committee on Small Business.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSM" name="House Small Business" activity="Referral, Markup" />
+		<committee code="SSSB" name="Senate Small Business" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Small business"/>
+		<term name="Administrative procedure"/>
+		<term name="American technical assistance"/>
+		<term name="Authorization"/>
+		<term name="Central Europe"/>
+		<term name="Government publications"/>
+		<term name="Government publicity"/>
+		<term name="Grants-in-aid"/>
+		<term name="Information services"/>
+		<term name="Small Business Administration"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/2/1993--Passed House amended. Amends the Small Business Act to authorize the Small Business Administration to make grants or enter into cooperative agreements with one or more small business development centers for the development of a small business information sharing system. Limits grant or agreement duration to five years. Extends proratedly through FY 1996 the authorization of appropriations under such Act for the Central European enterprise development program. Amends the Small Business Credit and Business Opportunity Enhancement Act of 1992 to repeal a provision prohibiting regulations concerning the small business development center program from being published in the Federal Register.
+
+	</summary>
+</bill>

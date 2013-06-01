@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="531" updated="2010-04-19T00:24:37-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">To provide for the conveyance of real property at Fort Ord, California, to the University of California and the California State University.</title>
+	</titles>
+	<sponsor id="408457"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-20"><text>Sponsor introductory remarks on measure. (CR E111)</text></action>
+		<action datetime="1993-01-21"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Installations and Facilities.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Installations and Facilities" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="365" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Army posts"/>
+		<term name="California"/>
+		<term name="Land transfers"/>
+		<term name="Surplus government property"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Directs the Secretary of Defense to convey to the University of California and the California State University certain surplus real property at Fort Ord, California.
+
+	</summary>
+</bill>

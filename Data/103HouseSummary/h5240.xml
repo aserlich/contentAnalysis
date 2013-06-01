@@ -1,0 +1,36 @@
+<bill session="103" type="h" number="5240" updated="2010-04-19T12:47:51-04:00">
+	<state datetime="1994-10-07">REFERRED</state>
+	<status><introduced datetime="1994-10-07"/></status>
+
+	<introduced datetime="1994-10-07"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Jose J. Aceves.</title>
+	</titles>
+	<sponsor id="410889"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-07"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-10-31"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Claims"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1994--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named individual in full satisfaction of all claims against the United States arising out of unfounded and unsupported targeting, harassment, allegations, and criminal actions by the Federal Bureau of Investigation since July 1987.
+
+	</summary>
+</bill>

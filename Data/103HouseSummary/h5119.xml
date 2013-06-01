@@ -1,0 +1,147 @@
+<bill session="103" type="h" number="5119" updated="2010-04-19T12:29:15-04:00">
+	<state datetime="1994-09-28">REFERRED</state>
+	<status><introduced datetime="1994-09-28"/></status>
+
+	<introduced datetime="1994-09-28"/>
+	<titles>
+		<title type="short" as="introduced">Health Innovation Partnership Act of 1994</title>
+		<title type="short" as="introduced">Public Health and Rural and Underserved Access Improvement Act of 1994</title>
+		<title type="official" as="introduced">To increase access to, control the costs associated with, and improve the quality of health care in States through health insurance reform, State innovation, public health and medical research, and for other purposes.</title>
+	</titles>
+	<sponsor id="400100"/>
+	<cosponsors>
+		<cosponsor id="410567" joined="1994-10-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-28"><text>Sponsor introductory remarks on measure. (CR E1971)</text></action>
+		<action datetime="1994-09-28"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1994-09-28"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-09-28"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-10-04"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1994-10-17"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1994-10-17"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness.</text></action>
+		<action datetime="1994-10-26"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Postsecondary Education and Training.</text></action>
+		<action datetime="1994-10-26"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+		<action datetime="1994-10-26"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Postsecondary Education and Training" activity="Referral" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Commerce, Consumer Protection, and Competitiveness" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Administrative procedure"/>
+		<term name="Agriculture"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Checkoff"/>
+		<term name="Cigarettes"/>
+		<term name="Clinics"/>
+		<term name="Collection of accounts"/>
+		<term name="Community health services"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Connecticut"/>
+		<term name="Criminal justice"/>
+		<term name="Curricula"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Drug abuse"/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Elementary education"/>
+		<term name="Emergency medical services"/>
+		<term name="Employee health benefits"/>
+		<term name="Environmental health"/>
+		<term name="Environmental protection"/>
+		<term name="Epidemiology"/>
+		<term name="Executive departments"/>
+		<term name="Exports"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to education"/>
+		<term name="Federal aid to health facilities"/>
+		<term name="Federal aid to medical education"/>
+		<term name="Federal aid to medical research"/>
+		<term name="Federal aid to nursing education"/>
+		<term name="Federal preemption"/>
+		<term name="Federal-state relations"/>
+		<term name="Finance"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Foreign trade"/>
+		<term name="Fraud"/>
+		<term name="Free ports and zones"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Government trust funds"/>
+		<term name="Grants-in-aid"/>
+		<term name="Hawaii"/>
+		<term name="Hazardous substances"/>
+		<term name="Health care reform"/>
+		<term name="Health education"/>
+		<term name="Health insurance"/>
+		<term name="Health planning"/>
+		<term name="Health policy"/>
+		<term name="Higher education"/>
+		<term name="Hospital care"/>
+		<term name="Hospitals"/>
+		<term name="Import restrictions"/>
+		<term name="Income tax"/>
+		<term name="Indian medical care"/>
+		<term name="Insurance companies"/>
+		<term name="Labor"/>
+		<term name="Medical laboratories"/>
+		<term name="Medical statistics"/>
+		<term name="Medicare"/>
+		<term name="Medicare fraud"/>
+		<term name="Medicine"/>
+		<term name="Migrant labor"/>
+		<term name="Minnesota"/>
+		<term name="Minorities"/>
+		<term name="Oregon"/>
+		<term name="Parent-school relationships"/>
+		<term name="Poisons"/>
+		<term name="Preventive medicine"/>
+		<term name="Public health personnel"/>
+		<term name="Puerto Rico"/>
+		<term name="Rural affairs"/>
+		<term name="Rural public health"/>
+		<term name="Scholarships"/>
+		<term name="School health programs"/>
+		<term name="Science policy"/>
+		<term name="Secondary education"/>
+		<term name="Social security"/>
+		<term name="Standards"/>
+		<term name="State and local government"/>
+		<term name="State laws"/>
+		<term name="Student loan funds"/>
+		<term name="Tax credits"/>
+		<term name="Tax exemption"/>
+		<term name="Tax rates"/>
+		<term name="Tax refunds"/>
+		<term name="Tax returns"/>
+		<term name="Taxation"/>
+		<term name="Tobacco industry"/>
+		<term name="Tobacco tax"/>
+		<term name="Trade"/>
+		<term name="Vending machines"/>
+		<term name="Washington State"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/28/1994--Introduced.
+TABLE OF CONTENTS: Title I: Health Insurance Reform Title II: State Innovation Subtitle A: State Waiver Authority Subtitle B: Existing State Laws Title III: Public Health and Rural and Underserved Access Improvement Title IV: Medical Research Title V: Revenue Provisions Subtitle A: Financing Provisions Subtitle B: Health Care Reform Trust Fund Health Innovation Partnership Act of 1994 - Title I: Health Insurance Reform - Directs the Secretary of Health and Human Services to request the National Association of Insurance Commissioners (NAIC) to develop standards for health insurance plans with respect to: (1) the renewability and portability of coverage; (2) guaranteed issue with respect to all health insurance coverage products; (3) the establishment of an adjusted community rating system with adjustment factors limited to age; (4) solvency; (5) stop-loss standards for self-funded health insurance plans and multi-employer welfare arrangements and association plans; (6) the identification of minimum employer size for self- funding and the interrelationship between self-funding and the community-rated pool of enrollees; and (7) other appropriate areas. (Sec. 1001) Requires the Secretary to develop such standards if the NAIC fails to do so. (Sec. 1002) Revises provisions regarding Medicare supplemental policies. Title II: State Innovation - Subtitle A: State Waiver Authority - Includes within the objectives of the waiver programs approved under this title: (1) achieving the goals of increased health coverage and access; (2) containing the annual rate of growth in health care expenditures; (3) ensuring that patients receive high-quality, appropriate health care; and (4) testing alternative reforms. (Sec. 2001) Authorizes States to apply to the Secretary for alternative State health program waivers or limited State health care waivers. Directs the Secretary to establish a State Health Reform Advisory Board to monitor the status and progress achieved under waivers and to promote information exchange between States and the Federal Government. Requires the Board to make recommendations to the Secretary with respect to minimizing the negative effect of State waivers on national employer groups, provider organizations, and insurers because of differing State requirements under waivers. Permits the Secretary to revoke any waiver of Federal law granted under this subtitle and to terminate any alternative State health program for good cause. Authorizes grants to States for carrying out alternative State health programs. Grants priority to programs that have the greatest opportunity to succeed in providing expanded coverage and in providing children and youth with access to health care. Earmarks funds for such grants from the Health Care Reform Trust Fund. Subtitle B: Existing State Laws - Continues certain existing waivers to Federal law for States and grants specified waivers from requirements of the Employee Retirement Income Security Act of 1974 with respect to health care laws of Hawaii and Oregon. Title III: Public Health and Rural and Underserved Access Improvement - Public Health and Rural and Underserved Access Improvement Act of 1994 - Amends the Public Health Service Act to authorize appropriations for grants to States for core functions of public health programs. Includes within such core functions: (1) data collection and analytical activities related to population-based status and outcomes monitoring; (2) activities to reduce environmental risk and to assure the safety of housing, schools, workplaces, day-care centers, and food and water; (3) investigation, control, and public- awareness activities regarding adverse health conditions; (4) public information and education programs to reduce health risks; (5) public health laboratory services that screen for diseases and conditions; (6) training and education in the field of public health; and (7) leadership, policy development, and administration activities. (Sec. 3002) Authorizes appropriations for grants to States for evaluating the extent to which clinical preventive services, health promotion and unintentional injury prevention activities, and interpersonal and community violence prevention activities achieve health care cost reductions and health status improvement. Directs the Secretary to issue practice guidelines that are based on the results of such evaluations. Authorizes appropriations for: (1) scholarships and loan repayment programs for individuals attending schools of public health; (2) grants to expand the capacity of certain educational institutions with public health programs; (3) grants to expand public health training programs in States lacking adequate programs; (4) area health education centers and health education training centers; (5) activities regarding centers for the prevention and treatment of poisoning and control of poisons; (6) certain school-related health services; (7) scholarships and loan repayment programs for school nurses; (8) grants to migrant and community health centers; (9) the National Health Service Corps; (10) satellite clinics to provide primary health care; and (11) community health advisor programs. Title IV: Medical Research - Establishes a National Fund for Health Research in the Treasury. (Sec. 4002) Amends the Internal Revenue Code to designate overpayments of tax or cash contributions to be paid over to the National Fund for Health Research. Title V: Revenue Provisions - Subtitle A: Financing Provisions - Increases the excise tax on the following tobacco and tobacco-related products: (1) cigarettes; (2) cigars; (3) cigarette papers and tubes; and (4) smokeless and pipe tobacco. (Sec. 5001) Imposes a tax on tobacco products and cigarette papers and tubes manufactured or imported into Puerto Rico. Provides a floor stocks tax on tobacco products and cigarette papers and tubes manufactured in or imported into the United States or Puerto Rico which are removed before any tax-increase date and held on such date for sale. Bars a tax on cigarettes held for retail sale on any tax-increase date by any vending machine. Provides a tax credit against floor stocks taxes. Establishes conditions under which articles in foreign trade zones shall be subject to such taxes. (Sec. 5003) Imposes a tax on roll-your-own tobacco manufactured in or imported into the United States. Subtitle B: Health Care Reform Trust Fund - Establishes the Health Care Reform Trust Fund in the Treasury and provides for the deposit into such Fund of amounts received from taxes on tobacco products.
+
+	</summary>
+</bill>

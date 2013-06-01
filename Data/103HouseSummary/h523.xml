@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="523" updated="2010-04-19T00:23:18-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="short" as="introduced">Technology Transfer Improvements Act of 1993</title>
+		<title type="official" as="introduced">To amend the Stevenson-Wydler Technology Innovation Act of 1980 to enhance technology transfer for works prepared under certain cooperative research and development agreements.</title>
+	</titles>
+	<sponsor id="400524"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-01-21"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-01-25"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Technology, Environment and Aviation.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Technology, Environment and Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Science"/>
+		<term name="Authors and authorship"/>
+		<term name="Computer software"/>
+		<term name="Copyright"/>
+		<term name="Copyright royalties"/>
+		<term name="Government and business"/>
+		<term name="Inventions"/>
+		<term name="Laboratories"/>
+		<term name="License agreements"/>
+		<term name="Research and development contracts"/>
+		<term name="Technology transfer"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Technology Transfer Improvements Act of 1993 - Amends the Stevenson-Wydler Technology Innovation Act of 1980 to allow each Federal agency to: (1) secure copyright on behalf of the United States in any computer software prepared in whole or in part by U.S. employees under a cooperative research and development agreement or other authority, notwithstanding provisions of Federal copyright law; and (2) grant in advance to a collaborating party licenses or assignments for the copyrights, or options thereto, retaining specified rights. Adds references to software and its author to provisions governing the distribution of royalties received by Federal agencies.
+
+	</summary>
+</bill>

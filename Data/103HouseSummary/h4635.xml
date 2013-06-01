@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="4635" updated="2010-04-19T11:14:07-04:00">
+	<state datetime="1994-07-05">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-07-05" /></status>
+
+	<introduced datetime="1994-06-23"/>
+	<titles>
+		<title type="official" as="introduced">To extend the Export Administration Act of 1979.</title>
+	</titles>
+	<sponsor id="404996"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-23"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-06-23"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-06-23"  state="REPORTED"><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-06-27T12:51:00-04:00"><text>Mr. Hamilton moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-06-27T12:51:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5005-5006"/></action>
+		<action datetime="1994-06-27T12:52:00-04:00"><text>DEBATE - The House proceeded with forty minutes debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-06-27T12:55:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1994-06-27T12:55:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-06-28"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-06-30" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S8059"/></vote>
+		<topresident datetime="1994-06-30" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-07-01"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-07-01" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-07-05" ><text>Signed by President.</text></signed>
+		<enacted number="103-277" type="public" datetime="1994-07-05"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-277.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Export controls"/>
+		<term name="Exports"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/23/1994--Introduced.
+Amends the Export Administration Act of 1979 to extend such Act through August 20, 1994.
+
+	</summary>
+</bill>

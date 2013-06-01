@@ -1,0 +1,58 @@
+<bill session="103" type="sc" number="21" updated="2010-04-19T21:14:20-04:00">
+	<state datetime="1994-10-08">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-10-08" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-03-30"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that expert testimony concerning the nature and effect of domestic violence, including descriptions of the experiences of battered women, should be admissible if offered in a State court by a defendant in a criminal case.</title>
+	</titles>
+	<sponsor id="407992"/>
+	<cosponsors>
+		<cosponsor id="300082" joined="1993-07-27"/>
+		<cosponsor id="300011" joined="1993-06-29"/>
+		<cosponsor id="300071" joined="1993-04-05"/>
+		<cosponsor id="300052" joined="1993-03-30"/>
+		<cosponsor id="403346" joined="1993-06-29"/>
+		<cosponsor id="300015" joined="1993-06-29"/>
+		<cosponsor id="300036" joined="1993-04-05"/>
+		<cosponsor id="300026" joined="1993-08-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-30"><text>Sponsor introductory remarks on measure. (CR S4031-4032)</text></action>
+		<action datetime="1993-03-30"><text>Referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-04-29"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+		<action datetime="1994-10-08"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S14801"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-10-08" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text></vote>
+		<action datetime="1994-11-29"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-11-29T12:30:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-11-29"><text>Referred to the House Committee on Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Courts"/>
+		<term name="Criminal justice"/>
+		<term name="Evidence (Law)"/>
+		<term name="Expert witnesses"/>
+		<term name="Families"/>
+		<term name="Family violence"/>
+		<term name="Law"/>
+		<term name="State courts"/>
+		<term name="Wife abuse"/>
+		<term name="Women"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/30/1993--Introduced.
+Expresses the sense of the Congress that: (1) expert testimony concerning the nature and effect of domestic violence, including descriptions of the experiences of battered women, should be admissible when offered in a State court by a defendant in a criminal case to assist the trier of fact in understanding the behavior, beliefs, or perceptions of such defendant in a domestic relationship in which abuse has occurred; (2) a witness should be qualified to testify as an expert witness, with respect to a case in which abuse has occurred, based upon the witness's knowledge, skill, experience, training, or education, and should be permitted to testify in the form of an opinion or otherwise; and (3) domestic relationships about which such expert testimony should be admissible include relationships between spouses, former spouses, cohabitants, former cohabitants, partners or former partners, and between persons who are in, or have been in, a dating, courtship, or intimate relationship.
+
+	</summary>
+</bill>

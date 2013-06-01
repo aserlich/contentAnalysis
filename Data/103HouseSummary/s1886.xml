@@ -1,0 +1,45 @@
+<bill session="103" type="s" number="1886" updated="2012-07-17T05:14:23-04:00">
+	<state datetime="1994-03-02">REFERRED</state>
+	<status><introduced datetime="1994-03-02"/></status>
+
+	<introduced datetime="1994-03-02"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Water Supply Act of 1958 to provide for the funding of capital improvements at the Washington Aqueduct, and for other purposes.</title>
+	</titles>
+	<sponsor id="300099"/>
+	<cosponsors>
+		<cosponsor id="400564" joined="1994-03-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-02" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2299-2302)</text></action>
+		<action datetime="1994-03-02" state="REFERRED"><text>Read twice and referred to the Committee on Banking.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4007" />
+		<bill relation="unknown" session="103" type="h" number="4007" />
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="District of Columbia"/>
+		<term name="Economics and public finance"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Government lending"/>
+		<term name="Infrastructure"/>
+		<term name="Maryland"/>
+		<term name="Potable water"/>
+		<term name="Virginia"/>
+		<term name="Water rates"/>
+		<term name="Water supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/2/1994--Introduced.
+Amends the Water Supply Act of 1958 to allow the Chief of Engineers of the Army Corps of Engineers to borrow funds from the Federal Financing Bank to finance capital improvements at the Washington Aqueduct. Requires loan repayment by Aqueduct users.
+
+	</summary>
+</bill>

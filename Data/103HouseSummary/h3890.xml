@@ -1,0 +1,36 @@
+<bill session="103" type="h" number="3890" updated="2010-04-19T09:17:16-04:00">
+	<state datetime="1994-02-23">REFERRED</state>
+	<status><introduced datetime="1994-02-23"/></status>
+
+	<introduced datetime="1994-02-23"/>
+	<titles>
+		<title type="official" as="introduced">To renew design patent numbered 251,990, relating to a word game board, for a period of 10 years.</title>
+	</titles>
+	<sponsor id="406768"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-23"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-03-01"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Patents"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1994--Introduced.
+Directs the Secretary of Commerce to renew a specified patent for a period of ten years.
+
+	</summary>
+</bill>

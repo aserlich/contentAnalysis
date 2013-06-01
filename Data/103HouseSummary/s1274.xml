@@ -1,0 +1,94 @@
+<bill session="103" type="s" number="1274" updated="2012-07-17T04:31:00-04:00">
+	<state datetime="1993-08-13">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-08-13" /></status>
+
+	<introduced datetime="1993-07-21"/>
+	<titles>
+		<title type="short" as="introduced">Small Business Credit Reform Act of 1993</title>
+		<title type="short" as="passed house">Small Business Guaranteed Credit Enhancement Act of 1993</title>
+		<title type="short" as="enacted">Small Business Guaranteed Credit Enhancement Act of 1993</title>
+		<title type="official" as="introduced">A bill to authorize funding for certain Small Business Administration programs, and for other purposes.</title>
+		<title type="official" as="amended by senate">An Act to reduce the subsidy cost for the Guaranteed Business Loan Program of the Small Business Administration, and for other purposes.</title>
+	</titles>
+	<sponsor id="402004"/>
+	<cosponsors>
+		<cosponsor id="300066" joined="1993-07-28"/>
+		<cosponsor id="402412" joined="1993-07-28"/>
+		<cosponsor id="300060" joined="1993-07-28"/>
+		<cosponsor id="300036" joined="1993-07-26"/>
+		<cosponsor id="300053" joined="1993-07-27"/>
+		<cosponsor id="300034" joined="1993-07-28"/>
+		<cosponsor id="407786" joined="1993-07-28"/>
+		<cosponsor id="300067" joined="1993-07-26"/>
+		<cosponsor id="411818" joined="1993-07-21"/>
+		<cosponsor id="300061" joined="1993-07-21"/>
+		<cosponsor id="400566" joined="1993-07-26"/>
+		<cosponsor id="407992" joined="1993-07-28"/>
+		<cosponsor id="405310" joined="1993-07-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S9189-9191)</text></action>
+		<action datetime="1993-07-21" state="REFERRED"><text>Read twice and referred to the Committee on Small Business.</text></action>
+		<calendar datetime="1993-07-28"  state="REPORTED"><committee name="Committee on Small Business"/><text>Committee on Small Business. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1993-07-28"><text>Committee on Small Business. Reported to Senate by Senator Bumpers with an amendment in the nature of a substitute and an amendment to the title. Without written report.</text></action>
+		<calendar under="General Orders" number="167" datetime="1993-07-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 167.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-07-30" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text><reference label="consideration" ref="CR S10011-10015"/></vote>
+		<action datetime="1993-08-02T12:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-08-02"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-08-02"><text>Referred to the House Committee on Small Business.</text></action>
+		<action datetime="1993-08-04T18:11:00-04:00"><text>Committee on Small Business discharged.</text></action>
+		<action datetime="1993-08-04T19:10:00-04:00"><text>Mr. LaFalce asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1993-08-04T19:10:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H6051-6054"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-08-04T19:12:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-08-04T19:12:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-08-05"><text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text></action>
+		<action datetime="1993-08-05"><text>Senate agreed to the House amendment by Voice Vote.</text><reference label="consideration" ref="CR S10602-10605"/></action>
+		<topresident datetime="1993-08-05" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-08-06"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-08-09" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-08-13" ><text>Signed by President.</text></signed>
+		<enacted number="103-81" type="public" datetime="1993-08-13"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-81.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSSB" name="Senate Small Business" activity="Referral, Markup, Reporting" />
+		<committee code="HSSM" name="House Small Business" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2766" />
+	</relatedbills>
+	<subjects>
+		<term name="Small business"/>
+		<term name="Administrative procedure"/>
+		<term name="American technical assistance"/>
+		<term name="Authorization"/>
+		<term name="Central Europe"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Disaster loans"/>
+		<term name="Economic impact statements"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal preemption"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Fees"/>
+		<term name="Government lending"/>
+		<term name="Government publications"/>
+		<term name="Government publicity"/>
+		<term name="Grants-in-aid"/>
+		<term name="Information services"/>
+		<term name="Interest rates"/>
+		<term name="Minority business enterprises"/>
+		<term name="Mortgage loans"/>
+		<term name="Poor"/>
+		<term name="Small Business Administration"/>
+		<term name="Sunset legislation"/>
+		<term name="Technology transfer"/>
+		<term name="White House conferences"/>
+		<term name="Women in business"/>
+	</subjects>
+	<amendments>
+		<amendment number="h281"/>
+	</amendments>
+	<summary>
+	8/4/1993--Passed House amended. Small Business Guaranteed Credit Enhancement Act of 1993 - Amends the Small Business Act (the Act) to increase the FY 1993 and 1994 authorizations of appropriations for loans to State and local development companies for community business development programs. Authorizes the Small Business Administration (SBA) to: (1) collect additional fees after August 31, 1995, on loans made under the Act which are sold on the secondary market; (2) permit participating lenders to charge a late fee to loan borrowers who fail to make timely payments; and (3) reduce the maximum loan guarantees on real estate loans above $155,000 and on loans made under the Preferred Lenders Program. Directs the SBA to study and report to the Congress on the effect of the SBA's authority to impose secondary market fees and to reduce loan guarantee percentages on the ability of small businesses; including minority- and woman-owned small businesses, to obtain financing and the viability of the secondary market in SBA guaranteed loans. Terminates the SBA's authority to impose such fees and reduce such percentages as of FY 1996. Makes the following revisions with respect to the Microloan Demonstration Program (the provision of loans and grants to startup, newly established, or growing small businesses): (1) increases from $15,000 to $25,000 the maximum loan which may be guaranteed by an intermediary; (2) increases the maximum grant amounts to such intermediaries for such purpose; and (3) increases from three to seven percent the maximum appropriated amount which may be used for training purposes. Authorizes the SBA to make grants or enter into cooperative arrangements in order to carry out the Small Business Development Center Program. Extends the authorization of appropriations for such Program through FY 1994. Strikes a provision prohibiting regulations concerning the Program from being printed in the Federal Register. Revises the dates of conferences to be held by the National White House Conference on Small Business. Extends through FY 1994 the authorization of appropriations for the National Women's Business Council and terminates the Council on November 30, 1995.
+
+	</summary>
+</bill>

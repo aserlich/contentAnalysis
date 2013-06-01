@@ -1,0 +1,43 @@
+<bill session="103" type="hc" number="92" updated="2010-04-18T21:15:07-04:00">
+	<state datetime="1993-05-04">REFERRED</state>
+	<status><introduced datetime="1993-05-04"/></status>
+
+	<introduced datetime="1993-05-04"/>
+	<titles>
+		<title type="official" as="introduced">Directing the Clerk of the House of Representatives to make corrections in the enrollment of H.R.1578.</title>
+	</titles>
+	<sponsor id="407676"/>
+	<cosponsors>
+		<cosponsor id="400078" joined="1993-05-12"/>
+		<cosponsor id="407400" joined="1993-05-12"/>
+		<cosponsor id="407817" joined="1993-05-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-04"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-05-04"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-05-04"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-05-06"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Federal budgets"/>
+		<term name="Legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/4/1993--Introduced.
+Makes technical corrections in the enrollment of H.R. 1578 (amending the Congressional Budget and Impoundment Control Act of 1974).
+
+	</summary>
+</bill>

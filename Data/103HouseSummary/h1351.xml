@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="1351" updated="2010-04-19T02:41:46-04:00">
+	<state datetime="1993-03-16">REFERRED</state>
+	<status><introduced datetime="1993-03-16"/></status>
+
+	<introduced datetime="1993-03-16"/>
+	<titles>
+		<title type="short" as="introduced">Mike Mansfield Fellowship Act</title>
+		<title type="official" as="introduced">To establish the Mike Mansfield Fellowship Program for intensive training in the Japanese language, government, politics, and economy.</title>
+	</titles>
+	<sponsor id="404996"/>
+	<cosponsors>
+		<cosponsor id="411677" joined="1993-03-16"/>
+		<cosponsor id="400023" joined="1993-03-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-16"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-03-30"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Operations.</text></action>
+		<action datetime="1993-03-30"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Asia and the Pacific.</text></action>
+		<action datetime="1993-06-07"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Received from Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Operations" activity="Referral" />
+		<committee code="HSFA-05" name="House Foreign Affairs" subcommittee="Asia and the Pacific" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="587" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Economic theory"/>
+		<term name="Education"/>
+		<term name="Educational exchanges"/>
+		<term name="Employee rights"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Gifts"/>
+		<term name="Government internships"/>
+		<term name="International education"/>
+		<term name="Japan"/>
+		<term name="Language and languages"/>
+		<term name="Scholarships"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/16/1993--Introduced.
+Mike Mansfield Fellowship Act - Establishes the Mike Mansfield Fellowship Program. Requires the Director of the U.S. Information Agency (USIA) to make grants to the Mansfield Center for Pacific Affairs to award two-year fellowships to eligible Federal employees. Requires Mansfield Fellows to: (1) study the Japanese language and political economy; and (2) serve in an agency of the Government of Japan, or, subject to Center approval, a nongovernmental Japanese institution associated with their interests. Requires the Center to comply with specified program requirements in order to be eligible for such grants. Authorizes the Director to enter into an arrangement with the Government of Japan to place Fellows. Authorizes the Foreign Service Institute to assist in carrying out Japanese language training by the Center. Authorizes appropriations. Requires that the Federal employees eligible for such fellowships have: (1) at least two years' experience in any branch of the U.S. Government; and (2) a strong career interest in U.S.-Japan relations and a commitment to further Federal service. Requires at least ten fellowships to be awarded annually. Prohibits Mansfield Fellows from engaging in any intelligence-related activity on behalf of the U.S. Government. Allows Federal agencies to separate Fellows from service for a specified period but provides for reemployment rights and the continuation of certain employee benefits. Establishes the Mansfield Fellowship Review Board.
+
+	</summary>
+</bill>

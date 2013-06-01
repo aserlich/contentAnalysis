@@ -1,0 +1,43 @@
+<bill session="103" type="hr" number="221" updated="2010-04-19T13:33:25-04:00">
+	<state datetime="1993-07-21T19:09:00-04:00">REPORTED</state>
+	<status><calendar datetime="1993-07-21T19:09:00-04:00" /></status>
+
+	<introduced datetime="1993-07-21"/>
+	<titles>
+		<title type="official" as="introduced">Waiving certain points of order against the bill (H.R. 2490) making appropriations for the Department of Transportation and related agencies for the fiscal year ending September 30, 1994, and for other purposes.</title>
+	</titles>
+	<sponsor id="400155"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-21T19:08:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-188, by Mr. Gordon.</text></action>
+		<action datetime="1993-07-21T19:08:00-04:00"><text>Rule provides for consideration of H.R. 2490. All points of order against provisions in the bill for failure to comply with clause 2 or 6 of rule XXI are waived in instances specified in the text of the resolution. House Resolution 211 is considered laid on the table upon agreement to House Resolution 221. Measure will be read by paragraph. Bill is open to amendments.</text></action>
+		<calendar datetime="1993-07-21T19:09:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 71.</text></calendar>
+		<action datetime="1993-07-22T12:43:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H5009-5015"/></action>
+		<action datetime="1993-07-22T12:45:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-07-22T13:45:00-04:00"><text>Mr. Gordon withdrew the resolution.</text></action>
+		<action datetime="1993-09-22T13:04:00-04:00"><text>Pursuant to the provisions of H. Res. 252, H. Res. 221 is laid on the table.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hr" number="252" />
+		<bill relation="unknown" session="103" type="hr" number="252" />
+		<bill relation="unknown" session="103" type="h" number="2490" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Appropriations"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/21/1993--Introduced.
+Waives points of order against the consideration of H.R. 2490 (Department of Transportation and related agencies funding).
+
+	</summary>
+</bill>

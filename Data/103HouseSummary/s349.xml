@@ -1,0 +1,177 @@
+<bill session="103" type="s" number="349" updated="2012-07-17T05:33:51-04:00">
+	<state datetime="1994-03-24T14:56:00-05:00">PASS_BACK:HOUSE</state>
+	<status><vote2 datetime="1994-03-24T14:56:00-05:00" where="h" result="pass" how="roll" roll="90"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="popular" as="">Lobbying Disclosure Act</title>
+		<title type="short" as="introduced">Lobbying Disclosure Act of 1993</title>
+		<title type="short" as="passed house">Lobbying Disclosure Act of 1994</title>
+		<title type="short" as="passed senate">Lobbying Disclosure Act of 1993</title>
+		<title type="official" as="introduced">A bill to provide for the disclosure of lobbying activities to influence the Federal Government, and for other purposes.</title>
+	</titles>
+	<sponsor id="300066"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-02-25"/>
+		<cosponsor id="300071" joined="1993-02-24"/>
+		<cosponsor id="403346" joined="1993-03-09"/>
+		<cosponsor id="300043" joined="1993-05-06"/>
+		<cosponsor id="400557" joined="1993-03-25"/>
+		<cosponsor id="400565" joined="1993-02-04"/>
+		<cosponsor id="404598" joined="1993-02-04"/>
+		<cosponsor id="401604" joined="1993-02-04"/>
+		<cosponsor id="402727" joined="1993-02-04"/>
+		<cosponsor id="300017" joined="1993-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1466-1469)</text></action>
+		<action datetime="1993-02-04" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<calendar datetime="1993-02-25"  state="REPORTED"><committee name="Committee on Governmental Affairs"/><text>Committee on Governmental Affairs. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1993-04-01"><text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn with amendments. With written report No. 103-37.</text></action>
+		<calendar under="General Orders" number="54" datetime="1993-04-01" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 54.</text></calendar>
+		<action datetime="1993-05-04"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S5363-5367, S5372-5392"/></action>
+		<action datetime="1993-05-05"><text>Considered by Senate.</text><reference label="consideration" ref="CR S5489-5507, S5509-5512, S5547"/></action>
+		<action datetime="1993-05-05"><text>The Committee amendments were withdrawn by Unanimous Consent.</text></action>
+		<action datetime="1993-05-06"><text>Considered by Senate.</text><reference label="consideration" ref="CR S5559-5570, S5573-5585"/></action>
+		<vote how="roll" type="vote" roll="116" datetime="1993-05-06" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with amendments by Yea-Nay Vote. 95-2. Record Vote No: 116.</text></vote>
+		<action datetime="1993-05-11T12:03:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-05-11"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-05-11"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-13"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+		<action datetime="1994-03-23T19:38:00-05:00"><text>Rules Committee Resolution H. Res. 397 Reported to House. Rule provides for consideration of S. 349. Upon the adoption of this resolution it shall be in order at any time on the legislative day of Thursday, Mar. 24, 1994, for the Speaker to entertain a motion that the House suspend the rules and pass the bill S. 394 as amended, and that the House insist upon its amendment thereto, and request a conference with the Senate thereon.</text></action>
+		<action datetime="1994-03-24T13:35:00-05:00"><text>Rule H. Res. 397 passed House.</text></action>
+		<action datetime="1994-03-24T13:35:00-05:00"><text>Pursuant to the provisions of H. Res. 397, Mr. Bryant moved to suspend the rules and pass the bill, as amended, insist on the House amendment, and request a conference with the Senate thereon.</text></action>
+		<action datetime="1994-03-24T13:37:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1976-1993"/></action>
+		<action datetime="1994-03-24T13:37:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on the Bryant motion.</text></action>
+		<vote how="roll" type="vote2" roll="90" datetime="1994-03-24T14:56:00-05:00" where="h" result="pass" suspension="1"  state="PASS_BACK:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 315 - 110 (Roll No. 90).</text></vote>
+		<action datetime="1994-03-24T14:56:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-03-24T14:57:00-05:00"><text>Pursuant to the provision of H. Res. 397, the House insisted on its amendment and requested a conference with the Senate.</text><reference label="consideration" ref="CR H1993"/></action>
+		<action datetime="1994-03-24T14:58:00-05:00"><text>The Speaker appointed conferees: Bryant, Glickman, Synar, Fish, and Gekas.</text></action>
+		<action datetime="1994-04-12"><text>Message on House action received in Senate and at desk: House amendment to Senate bill and House requests a conference.</text></action>
+		<action datetime="1994-05-11"><text>Senate disagreed to the House amendment by Voice Vote.</text></action>
+		<action datetime="1994-05-11"><text>Senate agreed to request for conference. Appointed conferees. Glenn; Levin; Akaka; Cohen; Stevens.</text><reference label="consideration" ref="CR S5592"/></action>
+		<action datetime="1994-05-12"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-09-26"><text>Conferees agreed to file conference report.</text><reference label="consideration" ref="CR H9761"/></action>
+		<action datetime="1994-09-26T19:12:00-04:00"><text>Conference report H. Rept. 103-750 filed.</text><reference label="text of conference report" ref="CR H9691-9710"/></action>
+		<action datetime="1994-09-27T18:54:00-04:00"><text>Rules Committee Resolution H. Res. 550 Reported to House. Rule provides for consideration of the conference report to S. 349.</text></action>
+		<action datetime="1994-09-29T14:39:00-04:00"><text>Rule H. Res. 550 passed House.</text></action>
+		<action datetime="1994-09-29T14:40:00-04:00"><text>Mr. Bryant brought up conference report H. Rept. 103-750 for consideration under the provisions of H. Res. 550.</text></action>
+		<action datetime="1994-09-29T14:41:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on the conference report.</text></action>
+		<action datetime="1994-09-29T14:41:00-04:00"><text>DEBATE - The House resumed debate.</text></action>
+		<action datetime="1994-09-29T15:55:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<action datetime="1994-09-29T15:56:00-04:00"><text>Mr. Gekas moved to recommit with instructions to the conference committee.</text></action>
+		<action datetime="1994-09-29T15:57:00-04:00"><text>Mr. Bryant raised a point of order against the motion to recommit with instructions to conference committee. Mr. Bryant stated that the motion contained instructions which exceeded the scope of the matters committed to conference. Sustained by the Chair.</text><reference label="consideration" ref="CR H10293-10295"/></action>
+		<action datetime="1994-09-29T16:06:00-04:00"><text>Mr. Gekas moved to recommit with instructions to the conference committee.</text></action>
+		<action datetime="1994-09-29T16:09:00-04:00"><text>The previous question on the motion to recommit with instructions to conference committee was ordered without objection.</text></action>
+		<action datetime="1994-09-29T16:31:00-04:00"><text>On motion to recommit with instructions to conference committee Failed by the Yeas and Nays: 202 - 215 (Roll no. 450).</text><reference label="consideration" ref="CR H10295"/></action>
+		<action datetime="1994-09-29T16:51:00-04:00"><text>Motions to reconsider laid on the table Agreed to without objection.</text></action>
+		<vote how="roll" type="conference" roll="451" datetime="1994-09-29T16:51:00-04:00" where="h" result="pass" ><text>On agreeing to the conference report Agreed to by recorded vote: 306 - 112 (Roll no. 451).</text><reference label="consideration" ref="CR H10279-10296"/></vote>
+		<action datetime="1994-09-29"><text>Conference papers: message on House action held at the desk in Senate.</text></action>
+		<action datetime="1994-10-03"><text>Conference papers: Senate report and managers' statement held at the desk in Senate.</text></action>
+		<action datetime="1994-10-03"><text>Motion to proceed to the consideration of the conference report agreed to in Senate by Voice Vote.</text></action>
+		<action datetime="1994-10-03"><text>Conference report considered in Senate.</text><reference label="consideration" ref="CR S13945-13957"/></action>
+		<action datetime="1994-10-03"><text>Cloture motion on the conference report presented in Senate.</text><reference label="consideration" ref="CR S13945"/></action>
+		<action datetime="1994-10-04"><text>Conference report considered in Senate.</text><reference label="consideration" ref="CR S14119"/></action>
+		<action datetime="1994-10-04"><text>Second cloture motion on the conference report presented in Senate.</text><reference label="consideration" ref="CR S14119"/></action>
+		<action datetime="1994-10-06"><text>Conference report considered in Senate.</text><reference label="consideration" ref="CR S14281-14297"/></action>
+		<action datetime="1994-10-06"><text>Cloture on the conference report not invoked in Senate by Yea-Nay Vote. 52-46. Record Vote No: 322.</text><reference label="consideration" ref="CR S14297"/></action>
+		<action datetime="1994-10-07"><text>Conference report considered in Senate.</text><reference label="consideration" ref="CR S14606-14618"/></action>
+		<action datetime="1994-10-07"><text>Second cloture on the conference report not invoked in Senate by Yea-Nay Vote. 55-42. Record Vote No: 325.</text><reference label="consideration" ref="CR S14618"/></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="103" type="hr" number="397" />
+		<bill relation="rule" session="103" type="hr" number="550" />
+		<bill relation="identical" session="103" type="h" number="823" />
+		<bill relation="unknown" session="103" type="h" number="823" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal officials"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Advertising"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Agriculture and food"/>
+		<term name="Awards, medals, prizes"/>
+		<term name="Charitable contributions"/>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Commerce"/>
+		<term name="Computer networks"/>
+		<term name="Conferences"/>
+		<term name="Congress"/>
+		<term name="Congressional committees"/>
+		<term name="Congressional employees"/>
+		<term name="Congressional ethics"/>
+		<term name="Congressional officers"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Congressional travel"/>
+		<term name="Consultants"/>
+		<term name="Data banks"/>
+		<term name="Department of Justice"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Electronic data processing"/>
+		<term name="Energy"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal aid to housing"/>
+		<term name="Federally-assisted loans"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Finance and financial sector"/>
+		<term name="Financial disclosure"/>
+		<term name="Financial statements"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Foreign agents"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Gifts"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Higher education"/>
+		<term name="Holding companies"/>
+		<term name="House rules and procedure"/>
+		<term name="Housing and community development"/>
+		<term name="Income"/>
+		<term name="Independent regulatory commissions"/>
+		<term name="Indexing (Economic policy)"/>
+		<term name="Inflation"/>
+		<term name="Information services"/>
+		<term name="Injunctions"/>
+		<term name="International affairs"/>
+		<term name="International propaganda"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Law"/>
+		<term name="Legal fees"/>
+		<term name="Licenses"/>
+		<term name="Loans"/>
+		<term name="Lobbying"/>
+		<term name="Members of Congress"/>
+		<term name="Mortgage loans"/>
+		<term name="Presidential appointments"/>
+		<term name="Public records"/>
+		<term name="Public utilities"/>
+		<term name="Recreation"/>
+		<term name="Right of privacy"/>
+		<term name="Science, technology, communications"/>
+		<term name="Student loan funds"/>
+		<term name="Travel costs"/>
+	</subjects>
+	<amendments>
+		<amendment number="s342"/>
+		<amendment number="s343"/>
+		<amendment number="s344"/>
+		<amendment number="s345"/>
+		<amendment number="s346"/>
+		<amendment number="s347"/>
+		<amendment number="s348"/>
+		<amendment number="s349"/>
+		<amendment number="s350"/>
+		<amendment number="s351"/>
+	</amendments>
+	<summary>
+	9/26/1994--Conference report filed in House. TABLE OF CONTENTS: Title I: Lobbying Disclosure Title II: Congressional Gift Rules Title I: Lobbying Disclosure - Lobbying Disclosure Act of 1994 - Requires registration with the Office of Lobbying Registration and Public Disclosure (Office) established by this Act by any individual lobbyist (or the individual's employer, if it employs one or more lobbyists) within 30 days after the individual first makes, or is employed or retained to make, a lobbying contact with either the President, the Vice President, a Member of Congress, or any other specified Federal officer or employee. Defines a lobbyist as any individual employed or retained by a client for financial or other compensation for services that include one or more lobbying contacts (but not an individual whose lobbying activities constitute less than ten percent of the time engaged in the services provided to that client). Provides for: (1) special registration filing rules in cases involving multiple clients and contacts; and (2) registration termination in cases where a registrant is no longer employed or retained by a client to conduct lobbying activities, and does not anticipate any additional lobbying activities for such client. (Sec. 104) Specifies the contents of such registration and reports. (Sec. 105) Requires registrants to file semiannual lobbying activity reports with the Office. Provides for: (1) exemptions from such registration and reporting requirements in cases involving lobbying income of $2,500 or less (for a particular client) or total expenses of $5,000 or less (for all lobbying activities) (adjusted periodically for inflation) for the semiannual period. (Sec. 106) Provides for special rules generally prohibiting registrants under this Act and the Foreign Agents Registration Act from providing gifts (including meals, lodging, transportation, entertainment, reimbursements, loans, or forbearance) to any covered legislative branch official, or to the spouse, dependent, friend, or relative of such an official if it is given with the knowledge and acquiescence of such official and is given because of his or her position. Permits certain such items under prescribed circumstances, such as lawful political contributions and informational materials sent to the official's office, and gifts given for a nonbusiness purpose and motivated by family relationship or close personal friendship. (Sec. 107) Establishes the Office as an executive agency, and specifies its duties, including making public the semiannual lobbyist activity reports. (Sec. 108) Establishes procedures for: (1) determining and resolving alleged violations of this Act; and (2) judicial review of Office decisions. (Sec. 113) Amends the Foreign Agents Registration Act of 1938 to: (1) eliminate references to political propaganda and, in certain cases, replace them with references to informational materials; and (2) modify registration exemption provisions. (Sec. 114) Revises (Byrd Amendment) requirements for a declaration by persons requesting or receiving a Federal contract, grant, loan, or cooperative agreement with respect to any payments made in connection with it which would be prohibited if made with appropriated funds. Requires, in lieu of information currently required, the: (1) name of any registrant under this Act who has made lobbying contacts on behalf of the person with respect to that Federal contract, grant, loan, or cooperative agreement; and (2) certification that the declarant has not made, and will not make, any prohibited payment. (Sec. 115) Repeals: (1) the Federal Regulation of Lobbying Act; and (2) provisions on lobbyist activities of the Department of Housing and Urban Development Act and the Housing Act of 1949. (Sec. 118) Authorizes appropriations for FY 1995 through 1999. (Sec. 119) Sets forth special rules for the identification of: (1) foreign and other clients on whose behalf lobbying contacts are made with a covered legislative or executive branch official; and (2) such covered officials. (Sec. 121) Directs the Comptroller General to study and report to the Congress on differences in meaning between this Act and the Internal Revenue Code of &quot;lobbying activities,&quot; &quot;lobbying expenditures,&quot; &quot;influencing legislation,&quot; and related terms. Requires the President to appoint an interim Director of the Office within 30 days after enactment of this Act. Title II: Congressional Gift Rules - Makes conforming amendments to the Standing Rules of the Senate and the Rules of the House of Representatives, as well as the Ethics in Government Act and the Ethics Reform Act of 1989, with regard to the restrictions of this Act on gifts by lobbyists and foreign agents to covered subjects.
+
+	</summary>
+</bill>

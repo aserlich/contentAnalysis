@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="4915" updated="2010-04-19T11:57:42-04:00">
+	<state datetime="1994-08-05">REFERRED</state>
+	<status><introduced datetime="1994-08-05"/></status>
+
+	<introduced datetime="1994-08-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to add States to the governmental entities eligible for reimbursement for emergency removal actions and to clarify authority to take such actions at illicit drug laboratories.</title>
+	</titles>
+	<sponsor id="400391"/>
+	<cosponsors>
+		<cosponsor id="400505" joined="1994-08-05"/>
+		<cosponsor id="400506" joined="1994-08-05"/>
+		<cosponsor id="400526" joined="1994-08-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-08-05"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+		<action datetime="1994-08-18"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Budgets"/>
+		<term name="Criminal justice"/>
+		<term name="Drug abuse"/>
+		<term name="Drug law enforcement"/>
+		<term name="Federal-state relations"/>
+		<term name="Government trust funds"/>
+		<term name="Grants-in-aid"/>
+		<term name="Hazardous substances"/>
+		<term name="Hazardous waste disposal"/>
+		<term name="Law"/>
+		<term name="Liability for toxic substances pollution damages"/>
+		<term name="Narcotic traffic"/>
+		<term name="Solid wastes"/>
+		<term name="State and local government"/>
+		<term name="State finance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/1994--Introduced.
+Amends the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to make States affected by a release or threatened release of a hazardous substance from a facility eligible to apply for reimbursement for expenses incurred in carrying out emergency response actions, including the cleanup of illicit drug laboratories. (Currently, only local governments are eligible for such reimbursement.) Limits the amount of State reimbursement and prohibits the combination of amounts allowed for States and local governments for any single response action. Makes the Hazardous Substance Superfund available for State reimbursements.
+
+	</summary>
+</bill>

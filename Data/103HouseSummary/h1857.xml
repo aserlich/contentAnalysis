@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="1857" updated="2010-04-19T04:01:42-04:00">
+	<state datetime="1993-04-26">REFERRED</state>
+	<status><introduced datetime="1993-04-26"/></status>
+
+	<introduced datetime="1993-04-26"/>
+	<titles>
+		<title type="official" as="introduced">To repeal the Helium Act, to require the Secretary of the Interior to sell Federal real and personal property held in connection with activities carried out under the Helium Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="400649"/>
+	<cosponsors>
+		<cosponsor id="400113" joined="1993-11-18"/>
+		<cosponsor id="300151" joined="1994-04-12"/>
+		<cosponsor id="400010" joined="1993-11-22"/>
+		<cosponsor id="407153" joined="1994-07-19"/>
+		<cosponsor id="400057" joined="1994-08-01"/>
+		<cosponsor id="400083" joined="1994-08-01"/>
+		<cosponsor id="400265" joined="1994-02-02"/>
+		<cosponsor id="409633" joined="1994-08-09"/>
+		<cosponsor id="411488" joined="1994-02-02"/>
+		<cosponsor id="411997" joined="1993-11-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-26"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-06-02"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Energy and Mineral Resources.</text></action>
+		<action datetime="1994-07-19"><committee name="House Committee on Natural Resources" subcommittee="Energy and Mineral Resources"/><text>For Further Action See H.R.3967.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-06" name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1552" />
+	</relatedbills>
+	<subjects>
+		<term name="Energy law and legislation"/>
+		<term name="Energy policy"/>
+		<term name="Government lending"/>
+		<term name="Government property"/>
+		<term name="Helium"/>
+		<term name="Public debt"/>
+		<term name="Strategic materials"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/26/1993--Introduced.
+Repeals the Helium Act (an Act concerned mainly with the extraction and recovery of helium for national defense purposes). Directs the Secretary of the Interior to sell or otherwise dispose of: (1) all facilities, equipment, and real or personal property held for activities under such Act; and (2) all helium reserves held by the United States other than those required for specific immediate needs. Requires sale proceeds to be used solely to reduce outstanding Federal debt.
+
+	</summary>
+</bill>

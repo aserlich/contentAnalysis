@@ -1,0 +1,68 @@
+<bill session="103" type="h" number="2561" updated="2012-07-17T05:02:15-04:00">
+	<state datetime="1993-07-28">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-07-28" /></status>
+
+	<introduced datetime="1993-06-30"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the transfer of naval vessels to certain foreign countries.</title>
+	</titles>
+	<sponsor id="404996"/>
+	<cosponsors>
+		<cosponsor id="400536" joined="1993-06-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-30" state="REFERRED"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-06-30"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-06-30"  state="REPORTED"><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1993-07-13T13:05:00-04:00"><text>Mr. Hamilton moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-07-13T13:05:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4520-4521"/></action>
+		<action datetime="1993-07-13T13:05:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-07-13T13:10:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-07-13T13:11:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-07-14"><text>Received in the Senate.</text></action>
+		<action datetime="1993-07-15"><text>Read twice and referred to the Committee on Armed Services.</text></action>
+		<calendar datetime="1993-07-21" ><committee name="Committee on Armed Services"/><text>Committee on Armed Services. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-07-21"><text>Committee on Armed Services. Reported to Senate by Senator Nunn without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="149" datetime="1993-07-21" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 149.</text></calendar>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-07-21" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S9183"/></vote>
+		<topresident datetime="1993-07-21" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-07-22"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-07-23" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-07-28" ><text>Signed by President.</text></signed>
+		<enacted number="103-54" type="public" datetime="1993-07-28"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-54.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup" />
+		<committee code="SSAS" name="Senate Armed Services" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="American military assistance"/>
+		<term name="Argentina"/>
+		<term name="Australia"/>
+		<term name="Chile"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Destroyers"/>
+		<term name="Docks"/>
+		<term name="Frigates"/>
+		<term name="Greece"/>
+		<term name="Guided missiles"/>
+		<term name="Leases"/>
+		<term name="Maintenance and repair"/>
+		<term name="Shipbuilding"/>
+		<term name="Surplus government property"/>
+		<term name="Taiwan"/>
+		<term name="Turkey"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/13/1993--Passed House amended. Authorizes the Secretary of the Navy to transfer to: (1) Argentina an auxiliary repair dry dock; (2) Australia the guided missile destroyer Goldsborough; (3) Chile an auxiliary repair dry dock; (4) Greece the guided missile destroyer Richard E. Byrd; (5) a Taiwan instrumentality the auxiliary repair dry dock Windsor; (6) Turkey the frigates Reasoner, Fanning, Thomas C. Hart, and Capodanno; and (7) Turkey the frigate Elmer Montgomery. Waives certain congressional notification requirements with respect to such transfers. Requires transfer costs to be borne by the recipients. Terminates the transfer authority two years after enactment of this Act, with an exception.
+
+	</summary>
+</bill>

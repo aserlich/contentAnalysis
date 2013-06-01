@@ -1,0 +1,85 @@
+<bill session="103" type="s" number="1626" updated="2012-07-17T04:15:45-04:00">
+	<state datetime="1994-04-14">REPORTED</state>
+	<status><calendar datetime="1994-04-14" /></status>
+
+	<introduced datetime="1993-11-04"/>
+	<titles>
+		<title type="short" as="introduced">Veterans' Home Loan Improvement Act of 1993</title>
+		<title type="short" as="reported to senate">Veterans Benefits and Services Amendments of 1994</title>
+		<title type="official" as="introduced">A bill to amend title 38, United States Code, to revise the veterans' home loan program.</title>
+	</titles>
+	<sponsor id="300084"/>
+	<cosponsors>
+		<cosponsor id="403346" joined="1993-11-04"/>
+		<cosponsor id="400566" joined="1993-11-23"/>
+		<cosponsor id="300031" joined="1993-11-04"/>
+		<cosponsor id="300001" joined="1993-11-04"/>
+		<cosponsor id="300046" joined="1993-11-04"/>
+		<cosponsor id="300017" joined="1993-11-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S15106)</text></action>
+		<action datetime="1993-11-04" state="REFERRED"><text>Read twice and referred to the Committee on Veterans.</text></action>
+		<action datetime="1994-03-24"><committee name="Committee on Veterans"/><text>Committee on Veterans. Hearings held.</text></action>
+		<calendar datetime="1994-04-14"  state="REPORTED"><committee name="Committee on Veterans"/><text>Committee on Veterans. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-04-14"><committee name="Committee on Veterans"/><text>Committee on Veterans incorporated provisions of related measures S. 677, S. 792, S. 1958 in reported measure.</text></action>
+		<action datetime="1994-05-23"><text>Committee on Veterans. Reported to Senate by Senator Rockefeller with an amendment in the nature of a substitute and an amendment to the title. With written report No. 103-267.</text></action>
+		<calendar under="General Orders" number="435" datetime="1994-05-23" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 435.</text></calendar>
+		<action datetime="1994-06-08"><text>Senate incorporated this measure in H.R. 3313 as an amendment.</text></action>
+		<action datetime="1994-06-08"><text>Senate passed companion measure H.R. 3313 in lieu of this measure by Voice Vote.</text><reference label="consideration" ref="CR S6618-6622"/></action>
+		<action datetime="1994-06-08"><text>Indefinitely postponed by Senate by Unanimous Consent.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="superseded" session="103" type="h" number="3313" />
+		<bill relation="unknown" session="103" type="h" number="3313" />
+		<bill relation="unknown" session="103" type="s" number="677" />
+		<bill relation="unknown" session="103" type="s" number="792" />
+		<bill relation="unknown" session="103" type="s" number="1958" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Alaska"/>
+		<term name="Child health"/>
+		<term name="Critically ill"/>
+		<term name="Economics and public finance"/>
+		<term name="Energy"/>
+		<term name="Energy efficiency"/>
+		<term name="Energy policy"/>
+		<term name="Families"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Fees"/>
+		<term name="Finance and financial sector"/>
+		<term name="Health"/>
+		<term name="Home repair and improvement"/>
+		<term name="Housing and community development"/>
+		<term name="Housing finance"/>
+		<term name="Illinois"/>
+		<term name="Income"/>
+		<term name="Indian claims"/>
+		<term name="Indian lands"/>
+		<term name="Labor and employment"/>
+		<term name="Leases"/>
+		<term name="Minorities"/>
+		<term name="Mortgage interest rates"/>
+		<term name="Mortgage loans"/>
+		<term name="Native Americans"/>
+		<term name="Nonprofit organizations"/>
+		<term name="Residential energy conservation"/>
+		<term name="Teaching hospitals"/>
+		<term name="Veterans' hospitals"/>
+		<term name="Veterans' loans"/>
+		<term name="Veterans' pensions"/>
+		<term name="Vietnam veterans"/>
+		<term name="Vietnamese Conflict"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/23/1994--Reported to Senate amended. Veterans Benefits and Services Amendments of 1994 - Entitles veterans who have repaid in full a previous home loan guaranteed by the Department of Veterans Affairs to another home loan, whether or not the property securing the first loan has been sold or otherwise disposed of. (Current law requires such sale, even if the loan has been repaid in full.) Allows veterans to refinance an existing guaranteed loan in order to make energy efficiency improvements. Changes from August 5, 1964, to February 28, 1961, the date for the beginning of the Vietnam era for purposes of Federal veterans' benefits provisions for veterans who served in the Republic of Vietnam. Excludes the payment to Alaska Natives of cash, stock, land, or other interests representing dividends paid under the Alaska Native Claims Settlement Act from the calculation of annual income in the determination of eligibility for veterans' pensions. Authorizes the Secretary of Veterans Affairs to enter into an agreement with the Caring Place at Loyola, Inc., an Illinois nonprofit organization, for establishing on the grounds of the Edward Hines, Jr., Department of Veterans Affairs Medical Center in Hines, Illinois, a facility for the provision of temporary accommodations for family members of severely ill children being treated at the Loyola of Chicago Medical Center.
+
+	</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="103" type="hc" number="150" updated="2010-04-18T21:24:18-04:00">
+	<state datetime="1993-09-22">REFERRED</state>
+	<status><introduced datetime="1993-09-22"/></status>
+
+	<introduced datetime="1993-09-22"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress that the President, with the advice and consent of the Senate, should posthumously advance Rear Admiral Husband E. Kimmel to the grade of admiral on the retired list of the Navy and Major General Water C. Short to the grade of lieutenant general on the retired list of the Army.</title>
+	</titles>
+	<sponsor id="401383"/>
+	<cosponsors>
+		<cosponsor id="400160" joined="1994-02-23"/>
+		<cosponsor id="406768" joined="1994-02-23"/>
+		<cosponsor id="400612" joined="1994-08-08"/>
+		<cosponsor id="400534" joined="1993-09-22"/>
+		<cosponsor id="400037" joined="1993-09-22"/>
+		<cosponsor id="400386" joined="1993-09-22"/>
+		<cosponsor id="400504" joined="1993-09-22"/>
+		<cosponsor id="400070" joined="1994-02-23"/>
+		<cosponsor id="411178" joined="1994-06-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-22"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-09-24"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-09-24"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Army personnel"/>
+		<term name="Military promotions"/>
+		<term name="Naval personnel"/>
+		<term name="Officer personnel"/>
+		<term name="Retired military personnel"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/22/1993--Introduced.
+Expresses the sense of the Congress that the President, by and with the advice and consent of the Senate, should posthumously advance: (1) Rear Admiral Husband E. Kimmel, U.S. Navy, to the grade of admiral on the retired list; and (2) Major General Walter C. Short, U.S. Army, to the grade of lieutenant general on the retired list.
+
+	</summary>
+</bill>

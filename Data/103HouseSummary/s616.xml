@@ -1,0 +1,82 @@
+<bill session="103" type="s" number="616" updated="2012-07-17T04:25:58-04:00">
+	<state datetime="1993-11-11">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-11-11" /></status>
+
+	<introduced datetime="1993-03-18"/>
+	<titles>
+		<title type="short" as="introduced">Veterans' Compensation Cost-of-Living Adjustment Act of 1993</title>
+		<title type="short" as="passed house">Veterans' Compensation Rates Amendments of 1993</title>
+		<title type="short" as="reported to senate">Veterans' Compensation Cost-of-Living Adjustment Act of 1993</title>
+		<title type="short" as="passed senate">Veterans' Compensation Cost-of-Living Adjustment Act of 1993</title>
+		<title type="short" as="enacted">Veterans' Compensation Rates Amendments of 1993</title>
+		<title type="official" as="introduced">A bill to increase the rates of compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for the survivors of certain disabled veterans.</title>
+	</titles>
+	<sponsor id="300084"/>
+	<cosponsors>
+		<cosponsor id="300150" joined="1993-03-18"/>
+		<cosponsor id="403346" joined="1993-03-18"/>
+		<cosponsor id="409923" joined="1993-03-18"/>
+		<cosponsor id="407786" joined="1993-03-18"/>
+		<cosponsor id="300046" joined="1993-03-18"/>
+		<cosponsor id="300157" joined="1993-03-18"/>
+		<cosponsor id="300092" joined="1993-03-18"/>
+		<cosponsor id="300031" joined="1993-03-18"/>
+		<cosponsor id="300001" joined="1993-03-18"/>
+		<cosponsor id="300017" joined="1993-03-18"/>
+		<cosponsor id="300057" joined="1993-03-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-18" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3185)</text></action>
+		<action datetime="1993-03-18" state="REFERRED"><text>Read twice and referred to the Committee on Veterans.</text></action>
+		<action datetime="1993-03-24"><committee name="Committee on Veterans"/><text>Committee on Veterans. Hearings held. Hearings printed: S.Hrg. 103-492.</text></action>
+		<calendar datetime="1993-05-19"  state="REPORTED"><committee name="Committee on Veterans"/><text>Committee on Veterans. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1993-06-15"><text>Committee on Veterans. Reported to Senate by Senator Rockefeller with amendments. With written report No. 103-55.</text></action>
+		<calendar under="General Orders" number="90" datetime="1993-06-15" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 90.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-07-14" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with amendments by Voice Vote.</text><reference label="consideration" ref="CR S8732"/></vote>
+		<action datetime="1993-07-15T10:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-07-15"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-07-15"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-11-02T12:12:00-05:00"><text>Committee on Veterans' Affairs discharged.</text></action>
+		<action datetime="1993-11-02T12:13:00-05:00"><text>Mr. Montgomery asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1993-11-02T12:13:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H8673"/></action>
+		<action datetime="1993-11-02T12:13:00-05:00"><text>The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H.R. 3340. Agreed to without objection.</text></action>
+		<vote how="without objection" type="vote2" datetime="1993-11-02T12:14:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-11-02T12:14:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-02T12:14:00-05:00"><text>A similar measure H.R. 3340 was laid on the table without objection.</text></action>
+		<action datetime="1993-11-02T12:14:00-05:00"><text>The title of the measure was amended to that of similar measure H.R. 3340. Agreed to without objection.</text></action>
+		<action datetime="1993-11-04"><text>Message on House action received in Senate and at desk: House amendments to Senate bill.</text></action>
+		<action datetime="1993-11-04"><text>Senate agreed to the House amendments by Voice Vote.</text><reference label="consideration" ref="CR S15085-15086"/></action>
+		<topresident datetime="1993-11-04" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-11-08"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-11-09" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-11-11" ><text>Signed by President.</text></signed>
+		<enacted number="103-140" type="public" datetime="1993-11-11"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-140.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="supersedes" session="103" type="h" number="3340" />
+		<bill relation="unknown" session="103" type="h" number="3340" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Administrative procedure"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Department of Veterans Affairs"/>
+		<term name="Disabled"/>
+		<term name="Families"/>
+		<term name="Orphans"/>
+		<term name="Prosthesis"/>
+		<term name="Survivors' benefits"/>
+		<term name="Veterans' disability compensation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/2/1993--Passed House amended. Veterans' Compensation Rates Amendments of 1993 - Increases, as of December 1, 1993, the rates of veterans' disability compensation, additional compensation for dependents, the clothing allowance for certain disabled adult veterans, dependency and indemnity compensation (DIC) for surviving spouses and children, and supplemental DIC for disabled adult children.
+
+	</summary>
+</bill>

@@ -1,0 +1,62 @@
+<bill session="103" type="sj" number="126" updated="2010-04-19T21:43:07-04:00">
+	<state datetime="1993-09-21">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-09-21" /></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution designating September 10, 1993, as &quot;National POW/MIA Recognition Day&quot; and authorizing the display of the National League of Families POW/MIA flag.</title>
+	</titles>
+	<sponsor id="300155"/>
+	<cosponsors>
+		<cosponsor id="300034" joined="1993-08-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Submitted in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Voice Vote.</text><reference label="consideration" ref="CR S10832"/></action>
+		<action datetime="1993-09-08T12:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-09-08"><text>Referred jointly to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-09-08"><text>Referred jointly to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-09-08"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-09-09T18:19:00-04:00"><text>Committee on Post Office and Civil Service discharged.</text></action>
+		<action datetime="1993-09-09T18:19:00-04:00"><text>Committee on Veterans' Affairs discharged.</text></action>
+		<action datetime="1993-09-09T18:20:00-04:00"><text>Mr. Wynn asked unanimous consent to discharge from committees and consider.</text></action>
+		<action datetime="1993-09-09T18:27:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H6577-6578"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-09-09T18:33:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-09-09T18:33:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-09-09" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-09-10" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-09-21" ><text>Signed by President.</text></signed>
+		<enacted number="103-85" type="public" datetime="1993-09-21"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-85.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged" />
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hj" number="219" />
+	</relatedbills>
+	<subjects>
+		<term name="Emblems"/>
+		<term name="Commemorations"/>
+		<term name="District of Columbia"/>
+		<term name="Federal office buildings"/>
+		<term name="Flags"/>
+		<term name="Memorial Day"/>
+		<term name="Military cemeteries and funerals"/>
+		<term name="Missing in action"/>
+		<term name="National monuments"/>
+		<term name="Prisoners of war"/>
+		<term name="Special days"/>
+		<term name="Veterans"/>
+		<term name="Veterans Day"/>
+		<term name="Vietnam veterans"/>
+		<term name="White House (Washington, D.C.)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Designates September 10, 1993, as National POW/MIA Recognition Day. Requires the display of the National League of Families POW/MIA flag at: (1) all national cemeteries and the National Vietnam Veterans Memorial on May 31, 1993 (Memorial Day), September 10, 1993 (National POW/MIA Recognition Day), and November 11, 1993 (Veterans Day); and (2) the White House and the buildings containing the primary offices of the Secretaries of State, Defense, and Veterans Affairs and the Director of the Selective Service System on September 10, 1993 (National POW/MIA Recognition Day).
+
+	</summary>
+</bill>

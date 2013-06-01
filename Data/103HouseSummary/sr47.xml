@@ -1,0 +1,38 @@
+<bill session="103" type="sr" number="47" updated="2010-04-19T22:06:48-04:00">
+	<state datetime="1993-01-27">REPORTED</state>
+	<status><calendar datetime="1993-01-27" /></status>
+
+	<introduced datetime="1993-01-28"/>
+	<titles>
+		<title type="official" as="introduced">An original resolution authorizing expenditures by the Committee on Agriculture, Nutrition, and Forestry.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar datetime="1993-01-27"  state="REPORTED"><text>Committee on Agriculture ordered to be reported an original measure.</text></calendar>
+		<action datetime="1993-01-28"><text>Committee on Agriculture. Original measure reported to Senate by Senator Leahy. With written report No. 103-4.</text></action>
+		<action datetime="1993-01-28"><text>Referred to the Committee on Rules.</text></action>
+		<calendar datetime="1993-02-18" ><text>Committee on Rules. Provisions of measure incorporated into measure S.RES. 71 ordered to be reported.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Origin, Reporting, Markup" />
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="sr" number="71" />
+	</relatedbills>
+	<subjects>
+		<term name="Senate"/>
+		<term name="Congressional committees (Senate)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/1993--Introduced.
+Authorizes expenditures by the Senate Committee on Agriculture, Nutrition, and Forestry for the 103d Congress.
+
+	</summary>
+</bill>

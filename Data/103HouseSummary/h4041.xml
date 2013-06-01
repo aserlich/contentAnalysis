@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="4041" updated="2010-04-19T09:40:52-04:00">
+	<state datetime="1994-03-16">REFERRED</state>
+	<status><introduced datetime="1994-03-16"/></status>
+
+	<introduced datetime="1994-03-16"/>
+	<titles>
+		<title type="official" as="introduced">To amend the District of Columbia Self-Government and Governmental Reorganization Act to provide for the appointment of the ranking members of the Committee on the District of Columbia of the House of Representatives and the Subcommittee on General Services, Federalism, and the District of Columbia of the Committee on Governmental Affairs of the Senate to the National Capital Planning Commission.</title>
+	</titles>
+	<sponsor id="400571"/>
+	<cosponsors>
+		<cosponsor id="400015" joined="1994-03-16"/>
+		<cosponsor id="400359" joined="1994-03-22"/>
+		<cosponsor id="408553" joined="1994-03-16" withdrawn="1994-03-22"/>
+		<cosponsor id="400343" joined="1994-03-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-16"><text>Referred to the House Committee on District of Columbia.</text></action>
+		<action datetime="1994-03-21"><committee name="House Committee on District of Columbia"/><text>Referred to the Subcommittee on Government Operations and Metropolitan Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSDT" name="House District of Columbia" activity="Referral, In Committee" />
+		<committee code="" name="House District of Columbia" subcommittee="Government Operations and Metropolitan Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Local government"/>
+		<term name="Congress"/>
+		<term name="Congressional committees (House)"/>
+		<term name="Congressional committees (Senate)"/>
+		<term name="Executive departments"/>
+		<term name="Members of Congress (House)"/>
+		<term name="Members of Congress (Senate)"/>
+		<term name="National Capital Planning Commission"/>
+		<term name="Republican Party"/>
+		<term name="State and local government"/>
+		<term name="Urban affairs"/>
+		<term name="Urban planning"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/16/1994--Introduced.
+Amends the District of Columbia Self-Government and Governmental Reorganization Act to provide for the appointment of the ranking members of the Committees on the District of Columbia for the Senate and the House of Representatives to the National Capital Planning Commission.
+
+	</summary>
+</bill>

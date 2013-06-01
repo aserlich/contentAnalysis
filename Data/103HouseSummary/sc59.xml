@@ -1,0 +1,56 @@
+<bill session="103" type="sc" number="59" updated="2010-04-19T21:20:11-04:00">
+	<state datetime="1994-02-02">INTRODUCED</state>
+	<status><introduced datetime="1994-02-02"/></status>
+
+	<introduced datetime="1994-02-02"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that any Federal Government mandated health care reform should be on-budget.</title>
+	</titles>
+	<sponsor id="300015"/>
+	<cosponsors>
+		<cosponsor id="300029" joined="1994-02-02"/>
+		<cosponsor id="411271" joined="1994-02-02"/>
+		<cosponsor id="300070" joined="1994-02-02"/>
+		<cosponsor id="401874" joined="1994-02-02"/>
+		<cosponsor id="300071" joined="1994-02-02"/>
+		<cosponsor id="300052" joined="1994-02-24"/>
+		<cosponsor id="403968" joined="1994-02-02"/>
+		<cosponsor id="300159" joined="1994-02-02"/>
+		<cosponsor id="300079" joined="1994-02-02"/>
+		<cosponsor id="300023" joined="1994-02-24"/>
+		<cosponsor id="408898" joined="1994-02-02"/>
+		<cosponsor id="300054" joined="1994-02-08"/>
+		<cosponsor id="300150" joined="1994-02-02"/>
+		<cosponsor id="409923" joined="1994-02-08"/>
+		<cosponsor id="300069" joined="1994-02-02"/>
+		<cosponsor id="400562" joined="1994-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-02"><text>Sponsor introductory remarks on measure. (CR S670)</text></action>
+		<action datetime="1994-02-02"><text>Referred jointly to the Committees on Budget; Governmental Affairs pursuant to the order of August 4, 1977, with instructions that if one Committee reports, the other Committee have thirty days to report or be discharged.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBU" name="Senate Budget" activity="Referral, In Committee" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hc" number="201" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Budgets"/>
+		<term name="Health care reform"/>
+		<term name="Health insurance"/>
+		<term name="Health policy"/>
+		<term name="Medical care"/>
+		<term name="Off-budget expenditures"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1994--Introduced.
+Declares that it is the sense of the Congress that any federally-mandated health care reform should be on-budget.
+
+	</summary>
+</bill>

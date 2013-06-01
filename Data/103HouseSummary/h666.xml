@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="666" updated="2010-04-19T00:46:38-04:00">
+	<state datetime="1993-01-27">REFERRED</state>
+	<status><introduced datetime="1993-01-27"/></status>
+
+	<introduced datetime="1993-01-27"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Impoundment Control Act of 1974 to provide that any rescission of budget authority proposed by the President take effect unless specifically disapproved by the adoption of a joint resolution.</title>
+	</titles>
+	<sponsor id="403545"/>
+	<cosponsors>
+		<cosponsor id="400370" joined="1993-01-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-27"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-01-27"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-04-28"><text>Sponsor introductory remarks on measure. (CR H2102-2103)</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Government Operations"/><text>See H.R.1578.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1578" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Congressional veto"/>
+		<term name="Executive impoundment of appropriated funds"/>
+		<term name="Legislative resolutions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/1993--Introduced.
+Amends the Impoundment Control Act of 1974 to effect any rescission of budget authority the President proposes unless the Congress adopts a joint resolution disapproving all or part of the rescission within 45 days after the President's message containing the proposal.
+
+	</summary>
+</bill>

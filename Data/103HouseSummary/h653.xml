@@ -1,0 +1,62 @@
+<bill session="103" type="h" number="653" updated="2010-04-19T00:44:27-04:00">
+	<state datetime="1993-01-27">REFERRED</state>
+	<status><introduced datetime="1993-01-27"/></status>
+
+	<introduced datetime="1993-01-27"/>
+	<titles>
+		<title type="short" as="introduced">Watermelon Research and Promotion Improvement Act of 1993</title>
+		<title type="official" as="introduced">To amend the Watermelon Research and Promotion Act to expand operation of the Act to the entire United States, to authorize the revocation of the refund provision of the Act, to modify the referendum procedures of the Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="403873"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1993-03-24"/>
+		<cosponsor id="400030" joined="1993-04-20"/>
+		<cosponsor id="400504" joined="1993-03-10"/>
+		<cosponsor id="400221" joined="1993-03-24"/>
+		<cosponsor id="400075" joined="1993-03-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-27"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-02-01"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+		<action datetime="1993-02-01"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA.</text></action>
+		<action datetime="1993-05-06"><committee name="House Committee on Agriculture" subcommittee="Specialty Crops and Natural Resources"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-07-29"><committee name="House Committee on Agriculture" subcommittee="Specialty Crops and Natural Resources"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-07-29"><committee name="House Committee on Agriculture" subcommittee="Specialty Crops and Natural Resources"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-07-30"><committee name="House Committee on Agriculture"/><text>Favorable Executive Comment Received from USDA.</text></action>
+		<action datetime="1993-12-14"><committee name="House Committee on Agriculture"/><text>For Further Action See S.778.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="778" />
+		<bill relation="unknown" session="103" type="s" number="778" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Administrative procedure"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural research"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Business records"/>
+		<term name="Department of Agriculture"/>
+		<term name="District of Columbia"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Fees"/>
+		<term name="Foreign trade"/>
+		<term name="Foreign trade promotion"/>
+		<term name="Fruit and fruit trade"/>
+		<term name="Government paperwork"/>
+		<term name="Marketing of farm produce"/>
+		<term name="Referendum"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/1993--Introduced.
+Watermelon Research and Promotion Improvement Act of 1993 - Amends the Watermelon Research and Promotion Act to extend its provisions to each of the States and the District of Columbia. Authorizes the revocation of the watermelon assessment refund. Revises provisions regarding: (1) handler and producer National Watermelon Promotion Board membership; (2) assessment rates; and (3) referendum procedures.
+
+	</summary>
+</bill>

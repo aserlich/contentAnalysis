@@ -1,0 +1,71 @@
+<bill session="103" type="s" number="564" updated="2012-07-17T04:35:53-04:00">
+	<state datetime="1993-06-08">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-06-08" /></status>
+
+	<introduced datetime="1993-03-11"/>
+	<titles>
+		<title type="short" as="introduced">Government Printing Office Electronic Information Access Enhancement Act of 1993</title>
+		<title type="short" as="enacted">Government Printing Office Electronic Information Access Enhancement Act of 1993</title>
+		<title type="official" as="introduced">A bill to establish in the Government Printing Office a means of enhancing electronic public access to a wide range of Federal electronic information.</title>
+	</titles>
+	<sponsor id="404219"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-03-11"/>
+		<cosponsor id="408898" joined="1993-03-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-11" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2781)</text></action>
+		<action datetime="1993-03-11" state="REFERRED"><text>Read twice and referred to the Committee on Rules.</text></action>
+		<calendar datetime="1993-03-18"  state="REPORTED"><committee name="Committee on Rules"/><text>Committee on Rules. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-03-18"><text>Committee on Rules. Reported to Senate by Senator Ford without amendment. With written report No. 103-27.</text></action>
+		<calendar under="General Orders" number="40" datetime="1993-03-18" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 40.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-03-22" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S3383"/></vote>
+		<action datetime="1993-03-23T12:28:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-03-23T14:03:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-05-20"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-05-20"><committee name="House Committee on House Administration"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-05-20" ><committee name="House Committee on House Administration"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-05-25T18:17:00-04:00"><text>Reported by the Committee on House Administration. H. Rept. 103-108.</text></action>
+		<calendar number="56" datetime="1993-05-25T18:17:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 56.</text></calendar>
+		<action datetime="1993-05-25T18:34:00-04:00"><text>Mr. Kleczka moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-05-25T18:34:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2771-2772"/></action>
+		<action datetime="1993-05-25T18:34:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote2" datetime="1993-05-25T18:39:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-05-25T18:39:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-05-25" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-05-27" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-06-08" ><text>Signed by President.</text></signed>
+		<enacted number="103-40" type="public" datetime="1993-06-08"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-40.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Markup, Reporting" />
+		<committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1328" />
+		<bill relation="unknown" session="103" type="h" number="1328" />
+	</relatedbills>
+	<subjects>
+		<term name="Information services"/>
+		<term name="Computer networks"/>
+		<term name="Congressional Record"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Data banks"/>
+		<term name="Depository libraries"/>
+		<term name="Fees"/>
+		<term name="Government operations and politics"/>
+		<term name="Government publications"/>
+		<term name="Government publicity"/>
+		<term name="Public records"/>
+		<term name="User charges"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/1993--Introduced.
+Government Printing Office Electronic Information Access Enhancement Act of 1993 - Requires the Superintendant of Documents, under the direction of the Public Printer, to establish a means for providing the public with online access to electronic public information of the Federal Government. Sets forth guidelines for determining fees for accessing such information. Permits depository libraries to access information through such means without charge. Requires the Public Printer to report to the Congress on the savings resulting from such online public access to Government information and on the status of the system providing such access.
+
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="531" updated="2012-07-17T05:14:43-04:00">
+	<state datetime="1993-03-09">REFERRED</state>
+	<status><introduced datetime="1993-03-09"/></status>
+
+	<introduced datetime="1993-03-09"/>
+	<titles>
+		<title type="popular" as="">Estate Taxes bill</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to increase the estate and gift tax exemption from $600,000 to $1,000,000.</title>
+	</titles>
+	<sponsor id="403669"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="1993-10-27"/>
+		<cosponsor id="300029" joined="1994-11-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-09" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2549)</text></action>
+		<action datetime="1993-03-09" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+		<action datetime="1994-10-05"><committee name="Committee on Finance"/><text>Subcommittee on Energy and Agricultural Taxation. Hearings held. Hearings printed: S.Hrg. 103-1025.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+		<committee code="" name="Senate Finance" subcommittee="Energy and Agricultural Taxation" activity="Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Estate tax"/>
+		<term name="Gift tax"/>
+		<term name="Tax credits"/>
+		<term name="Tax exemption"/>
+		<term name="Tax returns"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/9/1993--Introduced.
+Amends the Internal Revenue Code to increase the unified estate and gift tax credits. Requires the filing of estate tax returns in all cases where an estate exceeds $1,000,000 (currently, $600,000).
+
+	</summary>
+</bill>

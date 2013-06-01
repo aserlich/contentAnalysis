@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="5129" updated="2010-04-19T12:30:47-04:00">
+	<state datetime="1994-09-29">REFERRED</state>
+	<status><introduced datetime="1994-09-29"/></status>
+
+	<introduced datetime="1994-09-29"/>
+	<titles>
+		<title type="official" as="introduced">To provide for a reduction in the number of members of the Armed Forces of the United States stationed in Europe unless the European member nations of NATO assume an increased share of the nonpersonnel costs of United States military installations in those nations.</title>
+	</titles>
+	<sponsor id="401134"/>
+	<cosponsors>
+		<cosponsor id="400553" joined="1994-10-07"/>
+		<cosponsor id="400289" joined="1994-10-07"/>
+		<cosponsor id="406420" joined="1994-10-07"/>
+		<cosponsor id="400323" joined="1994-10-07"/>
+		<cosponsor id="400343" joined="1994-10-07"/>
+		<cosponsor id="400140" joined="1994-10-07"/>
+		<cosponsor id="300058" joined="1994-10-07"/>
+		<cosponsor id="400526" joined="1994-10-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-29"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-09-29"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-10-06"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1994-10-06"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Armed forces abroad"/>
+		<term name="Defense burdensharing"/>
+		<term name="Defense economics"/>
+		<term name="Defense policy"/>
+		<term name="Europe"/>
+		<term name="Foreign policy"/>
+		<term name="Military posture"/>
+		<term name="NATO countries"/>
+		<term name="NATO military forces"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/29/1994--Introduced.
+Directs the Secretary of Defense, for each of FY 1996 through 1999, to reduce the European end strength level of U.S. armed forces in accordance with a reduction formula based on the allied contribution level achieved (the level of contributions toward nonpersonnel costs made to the United States by allied nations benefiting from the presence of such troops). Directs the Secretary to cease such reductions if the allied level achieved is equal to or above a specified goal. Urges the President to seek to have European member nations of NATO assume an increased share of nonpersonnel costs of U.S. military installations in such countries in accordance with a specified timetable. Allows the Secretary to continually maintain a European end strength level of 25,000 members. Authorizes the President or the Secretary to waive such reductions in the event of a significant threat to national security. Provides for the allocation of such force reductions among military personnel.
+
+	</summary>
+</bill>

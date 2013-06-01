@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="3591" updated="2010-04-19T08:30:32-04:00">
+	<state datetime="1993-11-20">REFERRED</state>
+	<status><introduced datetime="1993-11-20"/></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="short" as="introduced">Social Security Retirement Age Reform Act of 1993</title>
+		<title type="official" as="introduced">To amend title II of the Social Security Act to provide for a gradual increase by the year 2030 in the normal retirement age and the early retirement age to ages 70 and 67, respectively.</title>
+	</titles>
+	<sponsor id="408618"/>
+	<cosponsors>
+		<cosponsor id="407153" joined="1994-02-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-20"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-11-30"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Aged"/>
+		<term name="Early retirement"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Retirement"/>
+		<term name="Social security eligibility"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+Social Security Retirement Age Reform Act of 1993 - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to phase in an increase in the age for normal and early retirement to, respectively, ages 70 and 67.
+
+	</summary>
+</bill>

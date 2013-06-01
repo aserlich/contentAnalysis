@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="5219" updated="2010-04-19T12:44:33-04:00">
+	<state datetime="1994-10-06">REFERRED</state>
+	<status><introduced datetime="1994-10-06"/></status>
+
+	<introduced datetime="1994-10-06"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Food Stamp Act of 1977 to permit participating households to use food stamp benefits to purchase nutritional supplements of vitamins, minerals, or vitamins and minerals.</title>
+	</titles>
+	<sponsor id="403864"/>
+	<cosponsors>
+		<cosponsor id="400532" joined="1994-10-07"/>
+		<cosponsor id="400312" joined="1994-10-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-06"><text>Sponsor introductory remarks on measure. (CR E2146-2147)</text></action>
+		<action datetime="1994-10-06"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-10-17"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Department Operations and Nutrition.</text></action>
+		<action datetime="1994-10-17"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Department Operations and Nutrition" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Food"/>
+		<term name="Dietary supplements"/>
+		<term name="Food stamps"/>
+		<term name="Public assistance programs"/>
+		<term name="Vitamins"/>
+		<term name="Welfare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/6/1994--Introduced.
+Amends the Food Stamp Act of 1977 to permit food stamp program participants to use food stamps to buy vitamin and mineral nutritional supplements.
+
+	</summary>
+</bill>

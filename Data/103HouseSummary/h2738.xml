@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="2738" updated="2010-04-19T06:18:16-04:00">
+	<state datetime="1993-07-26">REFERRED</state>
+	<status><introduced datetime="1993-07-26"/></status>
+
+	<introduced datetime="1993-07-26"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Immigration Reform and Control Act of 1986 to extend alien eligibility for educational assistance under the SLIAG program.</title>
+	</titles>
+	<sponsor id="400595"/>
+	<cosponsors>
+		<cosponsor id="407320" joined="1993-11-02"/>
+		<cosponsor id="400306" joined="1993-11-02"/>
+		<cosponsor id="400409" joined="1993-11-22"/>
+		<cosponsor id="403364" joined="1993-11-02"/>
+		<cosponsor id="400001" joined="1993-11-02"/>
+		<cosponsor id="400611" joined="1993-11-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-26"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-07-28"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Aliens"/>
+		<term name="Citizenship education"/>
+		<term name="Education"/>
+		<term name="Federal aid to education"/>
+		<term name="Illegal aliens"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/26/1993--Introduced.
+Amends the Immigration Reform and Control Act of 1986 to extend the period of availability for States to use alien legalization impact assistance for educational needs. Gives educational assistance priority to aliens who have not completed certain citizenship training programs.
+
+	</summary>
+</bill>

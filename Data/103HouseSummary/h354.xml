@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="354" updated="2010-04-18T23:55:03-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Expedited Consideration of Proposed Rescissions Act of 1993</title>
+		<title type="official" as="introduced">To amend the Congressional Budget and Impoundment Control Act of 1974 to provide for the expedited consideration of certain proposed rescissions of budget authority.</title>
+	</titles>
+	<sponsor id="409966"/>
+	<cosponsors>
+		<cosponsor id="403873" joined="1993-03-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-03-10"><committee name="House Committee on Government Operations" subcommittee="Legislation and National Security"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Government Operations"/><text>See H.R.1578.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral, Hearings" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1578" />
+	</relatedbills>
+	<subjects>
+		<term name="Appropriations"/>
+		<term name="Executive impoundment of appropriated funds"/>
+		<term name="Expedited congressional procedure"/>
+		<term name="House rules and procedure"/>
+		<term name="Legislation"/>
+		<term name="Legislative resolutions"/>
+		<term name="Senate rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Expedited Consideration of Proposed Rescissions Act of 1993 - Amends the Congressional Budget and Impoundment Control Act of 1974 to allow the President an additional method of rescinding budget authority by the transmittal to the Congress, for expedited consideration, of one or more special messages proposing to rescind all or part of any item of budget authority provided in an appropriation bill. Limits the amount subject to rescission to 25 percent of the amount appropriated. Sets forth House and Senate procedures for the expedited consideration of such a proposal.
+
+	</summary>
+</bill>

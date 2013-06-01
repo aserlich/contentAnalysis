@@ -1,0 +1,44 @@
+<bill session="103" type="s" number="444" updated="2012-07-17T05:02:29-04:00">
+	<state datetime="1993-05-25">REPORTED</state>
+	<status><calendar datetime="1993-05-25" /></status>
+
+	<introduced datetime="1993-02-25"/>
+	<titles>
+		<title type="short" as="introduced">Juneau International Airport Safety Act of 1993</title>
+		<title type="short" as="reported to senate">Juneau International Airport Safety Act of 1993</title>
+		<title type="official" as="introduced">A bill to require a study and report on the safety of the Juneau International Airport, with recommendations to Congress.</title>
+	</titles>
+	<sponsor id="300094"/>
+	<cosponsors>
+		<cosponsor id="300150" joined="1993-02-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-25" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2110)</text></action>
+		<action datetime="1993-02-25" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<calendar datetime="1993-05-25"  state="REPORTED"><committee name="Committee on Commerce"/><text>Committee on Commerce. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1993-06-29"><text>Committee on Commerce. Reported to Senate by Senator Hollings with amendments. With written report No. 103-75.</text></action>
+		<calendar under="General Orders" number="116" datetime="1993-06-29" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 116.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Airports"/>
+		<term name="Alaska"/>
+		<term name="Aviation safety"/>
+		<term name="Avionics"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Landing aids (Aeronautics)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/29/1993--Reported to Senate amended. Juneau International Airport Safety Act of 1993 - Directs the Secretary of Transportation to study and report to specified congressional committees on the safety of aircraft approaches to the Juneau International Airport, Alaska.
+
+	</summary>
+</bill>

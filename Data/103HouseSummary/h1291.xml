@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="1291" updated="2010-04-19T02:31:56-04:00">
+	<state datetime="1993-03-10">REFERRED</state>
+	<status><introduced datetime="1993-03-10"/></status>
+
+	<introduced datetime="1993-03-10"/>
+	<titles>
+		<title type="official" as="introduced">To provide for adjustment of immigration status for certain Polish and Hungarian parolees.</title>
+	</titles>
+	<sponsor id="400243"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-03-10"/>
+		<cosponsor id="400126" joined="1993-03-10"/>
+		<cosponsor id="400122" joined="1993-05-05"/>
+		<cosponsor id="400003" joined="1993-04-21"/>
+		<cosponsor id="400409" joined="1993-04-21"/>
+		<cosponsor id="400192" joined="1993-04-21"/>
+		<cosponsor id="400231" joined="1993-04-21"/>
+		<cosponsor id="400140" joined="1993-03-10"/>
+		<cosponsor id="400251" joined="1993-04-21"/>
+		<cosponsor id="400350" joined="1993-03-10"/>
+		<cosponsor id="400391" joined="1993-03-10"/>
+		<cosponsor id="407669" joined="1993-06-08"/>
+		<cosponsor id="400163" joined="1993-03-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-10"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-03-16"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Administrative fees"/>
+		<term name="Aliens"/>
+		<term name="Hungarians"/>
+		<term name="Hungary"/>
+		<term name="Poland"/>
+		<term name="Visas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/10/1993--Introduced.
+Directs the Attorney General to adjust the status of certain Polish and Hungarian parolees to permanent resident.
+
+	</summary>
+</bill>

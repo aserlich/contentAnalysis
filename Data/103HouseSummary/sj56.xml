@@ -1,0 +1,84 @@
+<bill session="103" type="sj" number="56" updated="2012-07-17T05:16:31-04:00">
+	<state datetime="1994-03-24">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-03-24" /></status>
+
+	<introduced datetime="1993-03-03"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution to designate the week beginning April 12, 1993, as &quot;National Public Safety Telecommunicators Week&quot;.</title>
+	</titles>
+	<sponsor id="300008"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-03-10"/>
+		<cosponsor id="300150" joined="1993-03-24"/>
+		<cosponsor id="300071" joined="1993-03-24"/>
+		<cosponsor id="300052" joined="1993-03-03"/>
+		<cosponsor id="300060" joined="1993-03-25"/>
+		<cosponsor id="403142" joined="1993-03-29"/>
+		<cosponsor id="402675" joined="1993-03-22"/>
+		<cosponsor id="300067" joined="1993-03-23"/>
+		<cosponsor id="300061" joined="1993-03-23"/>
+		<cosponsor id="300092" joined="1993-03-24"/>
+		<cosponsor id="300089" joined="1993-03-22"/>
+		<cosponsor id="409225" joined="1993-03-25"/>
+		<cosponsor id="403346" joined="1993-03-16"/>
+		<cosponsor id="402412" joined="1993-03-24"/>
+		<cosponsor id="408597" joined="1993-03-25"/>
+		<cosponsor id="402004" joined="1993-03-24"/>
+		<cosponsor id="408939" joined="1993-03-26"/>
+		<cosponsor id="400565" joined="1993-03-26"/>
+		<cosponsor id="300157" joined="1993-03-18"/>
+		<cosponsor id="300048" joined="1993-03-26"/>
+		<cosponsor id="300026" joined="1993-03-29"/>
+		<cosponsor id="300001" joined="1993-03-22"/>
+		<cosponsor id="405310" joined="1993-03-22"/>
+		<cosponsor id="300065" joined="1993-03-24"/>
+		<cosponsor id="407663" joined="1993-03-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-03" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2360)</text></action>
+		<action datetime="1993-03-03" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-03-29"><text>Senate Committee on Judiciary discharged by Voice Vote.</text><reference label="consideration" ref="CR S3952-3953"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-03-29" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment and with a preamble by Voice Vote.</text></vote>
+		<action datetime="1993-03-30T12:20:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-03-30"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-03-30"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-03-11T14:51:00-05:00"><text>Committee on Post Office and Civil Service discharged.</text></action>
+		<action datetime="1994-03-11T14:52:00-05:00"><text>Mr. Wynn asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-03-11T14:55:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H1304-1305"/></action>
+		<vote how="without objection" type="vote2" datetime="1994-03-11T14:56:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-03-11T14:56:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-03-11T14:56:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1994-03-16"><text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text></action>
+		<action datetime="1994-03-17"><text>Senate agreed to the House amendments by Voice Vote.</text><reference label="consideration" ref="CR S3283"/></action>
+		<topresident datetime="1994-03-17" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-03-21"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-03-23" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-03-24" ><text>Signed by President.</text></signed>
+		<enacted number="103-221" type="public" datetime="1994-03-24"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-221.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="138" />
+		<bill relation="unknown" session="103" type="hj" number="138" />
+	</relatedbills>
+	<subjects>
+		<term name="Special weeks"/>
+		<term name="Commemorations"/>
+		<term name="Emergency communication systems"/>
+		<term name="Emergency management"/>
+		<term name="Emergency medical personnel"/>
+		<term name="Emergency medical services"/>
+		<term name="Health"/>
+		<term name="Science, technology, communications"/>
+	</subjects>
+	<amendments>
+		<amendment number="h467"/>
+	</amendments>
+	<summary>
+	3/11/1994--Passed House amended. Designates the week beginning April 11, 1994, as National Public Safety Telecommunicators Week.
+
+	</summary>
+</bill>

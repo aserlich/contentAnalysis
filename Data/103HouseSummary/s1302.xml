@@ -1,0 +1,49 @@
+<bill session="103" type="s" number="1302" updated="2012-07-17T05:08:23-04:00">
+	<state datetime="1993-07-30">REPORTED</state>
+	<status><calendar datetime="1993-07-30" /></status>
+
+	<introduced datetime="1993-07-28"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the Federal building in Jacksonville, Florida, as the &quot;Charles E. Bennett Federal Building&quot;.</title>
+	</titles>
+	<sponsor id="300046"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-28" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S9720)</text></action>
+		<action datetime="1993-07-28" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<action datetime="1993-07-29"><text>Senate Committee on Governmental Affairs discharged by Unanimous Consent.</text></action>
+		<action datetime="1993-07-29"><text>Referred to the Committee on Environment and Public Works.</text></action>
+		<calendar datetime="1993-07-30"  state="REPORTED"><committee name="Committee on Environment and Public Works"/><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-09-14"><text>Committee on Environment and Public Works. Reported to Senate by Senator Baucus without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="198" datetime="1993-09-14" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 198.</text></calendar>
+		<action datetime="1993-09-15"><text>Senate passed companion measure H.R. 2431 in lieu of this measure by Voice Vote.</text></action>
+		<action datetime="1993-09-15"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S11943"/></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Discharged" />
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2431" />
+		<bill relation="unknown" session="103" type="h" number="2431" />
+		<bill relation="superseded" session="103" type="h" number="2431" />
+		<bill relation="unknown" session="103" type="h" number="2431" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Commemorations"/>
+		<term name="Federal office buildings"/>
+		<term name="Florida"/>
+		<term name="Names"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/28/1993--Introduced.
+Designates the Federal building at 400 Bay Street, Jacksonville, Florida, (or any building built to replace it) as the Charles E. Bennett Federal Building.
+
+	</summary>
+</bill>

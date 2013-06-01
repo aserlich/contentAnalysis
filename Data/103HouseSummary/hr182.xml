@@ -1,0 +1,42 @@
+<bill session="103" type="hr" number="182" updated="2010-04-19T13:27:10-04:00">
+	<state datetime="1993-05-25T18:49:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-05-25T18:49:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-05-25"/>
+	<titles>
+		<title type="official" as="introduced">Dismissing the election contest against Jay Dickey.</title>
+	</titles>
+	<sponsor id="400223"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-25T18:37:00-04:00"><text>The House Committee on House Administration reported an original measure, H. Rept. 103-109, by Mr. Kleczka.</text></action>
+		<calendar datetime="1993-05-25T18:37:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 44.</text></calendar>
+		<action datetime="1993-05-25T18:41:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H2773-2774"/></action>
+		<action datetime="1993-05-25T18:41:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-05-25T18:48:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-05-25T18:49:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1993-05-25T18:50:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Elections"/>
+		<term name="Arkansas"/>
+		<term name="Congressional elections (House)"/>
+		<term name="Contested elections"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/25/1993--Introduced.
+Dismisses the Fourth Congressional District of Arkansas election contest of Bill McCuen, contestant, against Jay Dickey, contestee.
+
+	</summary>
+</bill>

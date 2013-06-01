@@ -1,0 +1,41 @@
+<bill session="103" type="sj" number="4" updated="2012-07-17T04:43:49-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="popular" as="">Line Item Veto Amendment</title>
+		<title type="official" as="introduced">A joint resolution proposing a constitutional amendment to authorize the President to exercise a line-item veto over individual items of appropriation.</title>
+	</titles>
+	<sponsor id="300092"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S614-615)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-02-04"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Constitution.</text></action>
+		<action datetime="1994-06-15"><text>Sponsor introductory remarks on measure. (CR S6898-6901)</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Constitution" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Appropriations"/>
+		<term name="Constitutional amendments"/>
+		<term name="Item veto"/>
+		<term name="Presidential powers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Constitutional Amendment - Grants the President the authority to reduce or disapprove any item of appropriation in any Act or joint resolution.
+
+	</summary>
+</bill>

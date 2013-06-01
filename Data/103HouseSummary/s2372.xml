@@ -1,0 +1,99 @@
+<bill session="103" type="s" number="2372" updated="2012-07-17T04:13:17-04:00">
+	<state datetime="1994-10-25">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-25" /></status>
+
+	<introduced datetime="1994-08-09"/>
+	<titles>
+		<title type="short" as="introduced">Civil Rights Commission Reauthorization Act of 1994</title>
+		<title type="short" as="enacted">Civil Rights Commission Amendments Act of 1994</title>
+		<title type="official" as="introduced">A bill to reauthorize for three years the Commission on Civil Rights, and for other purposes.</title>
+	</titles>
+	<sponsor id="409917"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-09" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S11045)</text></action>
+		<action datetime="1994-08-09" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<calendar datetime="1994-08-11"  state="REPORTED"><committee name="Committee on Judiciary"/><text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-09-28"><text>Committee on Judiciary. Reported to Senate by Senator Biden without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="683" datetime="1994-09-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 683.</text></calendar>
+		<action datetime="1994-09-30"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S13849-13850"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-09-30" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1994-10-03"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-03T12:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-10-03T12:02:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-10-03T12:53:00-04:00"><text>Mr. Brooks asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1994-10-03T12:53:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10462"/></action>
+		<action datetime="1994-10-03T12:54:00-04:00"><text>The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H.R. 4999. Agreed to without objection.</text></action>
+		<vote how="without objection" type="vote2" datetime="1994-10-03T12:54:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-10-03T12:54:00-04:00"><text>The title of the measure was amended to that of similar measure H.R. 4999. Agreed to without objection.</text></action>
+		<action datetime="1994-10-03T12:54:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-03T12:54:00-04:00"><text>A similar measure H.R. 4999 was laid on the table without objection.</text></action>
+		<action datetime="1994-10-03"><text>Message on House action received in Senate and at the desk: House amendments to Senate bill.</text></action>
+		<action datetime="1994-10-06"><text>Measure laid before Senate.</text></action>
+		<action datetime="1994-10-06"><text>Senate agreed to the House amendments with an amendment (SP 2629) by Voice Vote.</text><reference label="consideration" ref="CR S14407"/></action>
+		<action datetime="1994-10-07"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-07T18:00:00-04:00"><text>Mr. Brooks asked unanimous consent that the House agree to the Senate amendment to the House amendments.</text></action>
+		<action datetime="1994-10-07T18:01:00-04:00"><text>On motion that the House agree to the Senate amendment to the House amendments Agreed to without objection.</text><reference label="consideration" ref="CR H11295"/></action>
+		<action datetime="1994-10-07T18:01:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-10-07" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-10-18" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-25" ><text>Signed by President.</text></signed>
+		<enacted number="103-419" type="public" datetime="1994-10-25"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-419.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="supersedes" session="103" type="h" number="4999" />
+	</relatedbills>
+	<subjects>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Abortion"/>
+		<term name="Administration of justice"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Advertising"/>
+		<term name="Age discrimination"/>
+		<term name="Associations, institutions, etc."/>
+		<term name="Authorization"/>
+		<term name="Colleges"/>
+		<term name="Commission on Civil Rights"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Disabled"/>
+		<term name="Discrimination"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Equality before the law"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Fees"/>
+		<term name="Fraternal organizations"/>
+		<term name="Fraud"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Government publicity"/>
+		<term name="Higher education"/>
+		<term name="Information services"/>
+		<term name="Law"/>
+		<term name="Minorities"/>
+		<term name="Public service advertising"/>
+		<term name="Racial discrimination"/>
+		<term name="Religion"/>
+		<term name="Religious liberty"/>
+		<term name="Sex discrimination"/>
+		<term name="Social welfare"/>
+		<term name="Subpoena"/>
+		<term name="Voting"/>
+		<term name="Witnesses"/>
+	</subjects>
+	<amendments>
+		<amendment number="s2607"/>
+		<amendment number="s2629"/>
+	</amendments>
+	<summary>
+	10/6/1994--Senate agreed to House amendment with amendment. Civil Rights Commission Amendments Act of 1994 - Amends the United States Commission on Civil Rights Act of 1983 to reauthorize the Commission. Renames such Act as the Civil Rights Commission Act of 1983. Provides that: (1) the initial membership of the Commission shall be the members of the Commission on September 30, 1994, and thereafter vacancies shall continue to be appointed according to a specified formula; and (2) the term of each member in the initial membership shall expire on the date such term would have expired as of September 30, 1994. Sets forth provisions regarding: (1) the Chairperson and Vice Chairperson; (2) removal of members; and (3) a quorum. Directs the Commission to: (1) investigate allegations in writing under oath or affirmation relating to deprivations because of color, race, religion, sex, age, disability, or national origin, or as a result of any pattern or practice of fraud, of the right of U.S. citizens to vote and have votes counted; and (2) study and collect information relating to, make appraisals of Federal laws and policies regarding, serve as a national clearinghouse for information relating to, and prepare public service announcements and advertising campaigns to discourage, discrimination or denials of equal protection of the laws under the Constitution because of color, race, religion, sex, age, disability, or national origin, or in the administration of justice. Specifies that nothing in this or any other Act shall be construed as authorizing the Commission, its advisory committees, or any person under its supervision or control to: (1) inquire into or investigate any membership practices or internal operations of any fraternal organization, college or university fraternity or sorority, private club, or religious organization; or (2) study and collect, make appraisals of, or serve as a clearinghouse for information about Federal laws and policies regarding abortion. Sets forth provisions regarding: (1) reports; (2) advisory committees; (3) hearings and ancillary matters; and (4) administrative provisions. Authorizes appropriations. Terminates such Act on September 30, 1996.
+
+	</summary>
+</bill>

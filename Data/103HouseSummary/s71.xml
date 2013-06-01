@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="71" updated="2012-07-17T05:38:28-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="popular" as="">Homosexual Discrimination in the Military (end it)</title>
+		<title type="official" as="introduced">A bill to prohibit discrimination by the Armed Forces on the basis of sexual orientation.</title>
+	</titles>
+	<sponsor id="407663"/>
+	<cosponsors>
+		<cosponsor id="300076" joined="1993-01-21"/>
+		<cosponsor id="400566" joined="1993-01-21"/>
+		<cosponsor id="300060" joined="1993-01-21"/>
+		<cosponsor id="300017" joined="1993-01-21"/>
+		<cosponsor id="300051" joined="1993-01-28"/>
+		<cosponsor id="300042" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S489-490)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2981" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Gay military personnel"/>
+		<term name="Gay rights"/>
+		<term name="Recruiting and enlistment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Prohibits a member of the armed forces or person seeking to become a member from being discriminated against by the armed forces on the basis of sexual orientation.
+
+	</summary>
+</bill>

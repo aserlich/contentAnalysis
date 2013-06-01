@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="1540" updated="2010-04-19T03:11:48-04:00">
+	<state datetime="1993-03-30">REFERRED</state>
+	<status><introduced datetime="1993-03-30"/></status>
+
+	<introduced datetime="1993-03-30"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to repeal the $2 charge for outpatient prescription drugs required to be charged by the Department of Veterans Affairs in certain cases.</title>
+	</titles>
+	<sponsor id="400340"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-30"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-04-02"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Hospitals and Health Care.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="HSVR-03" name="House Veterans' Affairs" subcommittee="Hospitals and Health Care" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Ambulatory care"/>
+		<term name="Drugs"/>
+		<term name="Prescription pricing"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/30/1993--Introduced.
+Repeals the $2 copayment charged by the Department of Veterans Affairs for each 30-day supply of medication furnished on an outpatient basis to a veteran for the treatment of a non-service-connected disability or condition.
+
+	</summary>
+</bill>

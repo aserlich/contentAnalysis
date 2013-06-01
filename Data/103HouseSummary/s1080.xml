@@ -1,0 +1,37 @@
+<bill session="103" type="s" number="1080" updated="2012-07-17T04:23:26-04:00">
+	<state datetime="1993-06-08">REFERRED</state>
+	<status><introduced datetime="1993-06-08"/></status>
+
+	<introduced datetime="1993-06-08"/>
+	<titles>
+		<title type="official" as="introduced">A bill to suspend until January 1, 1996, the duty on ioxilan, and to extend until January 1, 1996, the existing suspensions of duty on iohexol, iopamidol, and ioxaglic acid.</title>
+	</titles>
+	<sponsor id="300064"/>
+	<cosponsors>
+		<cosponsor id="300070" joined="1993-06-17"/>
+		<cosponsor id="401709" joined="1993-06-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-08" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6955-6956)</text></action>
+		<action datetime="1993-06-08" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1895" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Chemicals"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/8/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to extend, through December 31, 1995, the suspension of duty on: (1) ioxilan; (2) iohexol; (3) iopamidol; and (4) ioxaglic acid.
+
+	</summary>
+</bill>

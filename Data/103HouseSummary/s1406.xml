@@ -1,0 +1,85 @@
+<bill session="103" type="s" number="1406" updated="2012-07-17T06:28:19-04:00">
+	<state datetime="1994-10-06">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-06" /></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="short" as="introduced">Plant Variety Protection Act Amendments of 1993</title>
+		<title type="short" as="passed house">Plant Variety Protection Act Amendments of 1994</title>
+		<title type="short" as="passed senate">Plant Variety Protection Act Amendments of 1994</title>
+		<title type="short" as="enacted">Plant Variety Protection Act Amendments of 1994</title>
+		<title type="official" as="introduced">A bill to amend the Plant Variety Protection Act to make such Act consistent with the International Convention for the Protection of New Varieties of Plants of March 19, 1991, to which the United States is a signatory, and for other purposes.</title>
+	</titles>
+	<sponsor id="400561"/>
+	<cosponsors>
+		<cosponsor id="408898" joined="1993-11-02"/>
+		<cosponsor id="403669" joined="1993-10-07"/>
+		<cosponsor id="300023" joined="1994-05-18"/>
+		<cosponsor id="300048" joined="1993-11-22"/>
+		<cosponsor id="403962" joined="1993-10-07"/>
+		<cosponsor id="406188" joined="1993-10-27"/>
+		<cosponsor id="300031" joined="1993-08-06"/>
+		<cosponsor id="300079" joined="1994-01-25"/>
+		<cosponsor id="300029" joined="1994-02-10"/>
+		<cosponsor id="406256" joined="1994-04-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S10867-10868, S10870-10872)</text></action>
+		<action datetime="1993-08-06" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-08-20"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Agricultural Research.</text></action>
+		<action datetime="1993-09-20"><committee name="Committee on Agriculture"/><text>Subcommittee on Agricultural Research. Hearings held. Hearings printed: S.Hrg. 103-312.</text></action>
+		<action datetime="1994-05-25"><committee name="Committee on Agriculture"/><text>Senate Committee on Agriculture discharged by Unanimous Consent.</text></action>
+		<action datetime="1994-05-25"><committee name="Committee on Agriculture"/><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S6429-6432"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-05-25" where="s" result="pass"  state="PASS_OVER:SENATE"><committee name="Committee on Agriculture"/><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1994-05-26T11:02:00-04:00"><committee name="Committee on Agriculture"/><text>Received in the House.</text></action>
+		<action datetime="1994-05-26"><committee name="Committee on Agriculture"/><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-05-26T17:26:00-04:00"><committee name="Committee on Agriculture"/><text>Held at the desk.</text></action>
+		<action datetime="1994-08-12T14:14:00-04:00"><committee name="Committee on Agriculture"/><text>Mr. de la Garza asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1994-08-12T14:15:00-04:00"><committee name="Committee on Agriculture"/><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H8031-8034"/></action>
+		<action datetime="1994-08-12T14:15:00-04:00"><committee name="Committee on Agriculture"/><text>The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H.R. 2927. Agreed to without objection.</text></action>
+		<vote how="without objection" type="vote2" datetime="1994-08-12T14:15:00-04:00" where="h" result="pass"  state="PASSED:BILL"><committee name="Committee on Agriculture"/><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-08-12T14:16:00-04:00"><committee name="Committee on Agriculture"/><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-08-12T14:16:00-04:00"><committee name="Committee on Agriculture"/><text>A similar measure H.R. 2927 was laid on the table without objection.</text></action>
+		<action datetime="1994-08-16"><committee name="Committee on Agriculture"/><text>Message on House action received in Senate and at the desk: House amendment to Senate bill.</text></action>
+		<action datetime="1994-09-21"><committee name="Committee on Agriculture"/><text>Senate agreed to the House amendment by Voice Vote.</text><reference label="consideration" ref="CR S13090-13092"/></action>
+		<topresident datetime="1994-09-21" ><committee name="Committee on Agriculture"/><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-09-22"><committee name="Committee on Agriculture"/><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-09-26" ><committee name="Committee on Agriculture"/><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-06" ><committee name="Committee on Agriculture"/><text>Signed by President.</text></signed>
+		<enacted number="103-349" type="public" datetime="1994-10-06"  state="ENACTED:SIGNED"><committee name="Committee on Agriculture"/><text>Became Public Law No: 103-349.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Agricultural Research, Conservation, Forestry and General Legislation" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2927" />
+		<bill relation="supersedes" session="103" type="h" number="2927" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Commerce"/>
+		<term name="Damages"/>
+		<term name="Deceptive advertising"/>
+		<term name="Farmers"/>
+		<term name="Grazing"/>
+		<term name="Intellectual property"/>
+		<term name="Labeling"/>
+		<term name="Law"/>
+		<term name="Names"/>
+		<term name="Plant breeding"/>
+		<term name="Plant germplasm resources"/>
+		<term name="Plant protection"/>
+		<term name="Potatoes"/>
+		<term name="Seeds"/>
+		<term name="Sexism"/>
+		<term name="Women"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1746"/>
+	</amendments>
+	<summary>
+	8/12/1994--Passed House amended. Plant Variety Protection Act Amendments of 1994 - Amends the Plant Variety Protection Act to revise definitions and establish rules of construction concerning: (1) the sale and disposition of harvesting material, varieties, and hybrid seeds; (2) the filing of applications for the protection or entering of a variety in an official register; and (3) the basis of determining the distinctness of a variety or whether a variety is publicly known. (Sec. 3) Entitles breeders of sexually reproduced or tuber propagated plant varieties other than fungi or bacteria (currently, other than fungi, bacteria, or first generation hybrids) who have reproduced a variety to plant variety protection if the variety is new, distinct, uniform, and stable. Provides that if two or more applicants for plant variety protection submit applications on the same filing date for indistinguishable varieties that fulfill the conditions for protection established by this Act, the applicant who first complies with this Act's requirements shall be entitled to protection to the exclusion of any other applicant. Issues a single protection certificate jointly to two or more applicants who comply with requirements on the same date for varieties that are indistinguishable. (Sec. 5) Grants an applicant two years (with appropriate additional time if rejected) to file necessary information under a foreign filing right of priority. (Sec. 7) Lengthens the term of plant variety protection from 18 to 20 years from the date of issuance of the protection certificate (25 years for trees or vines). (Sec. 8) Repeals priority contest and related adverse final judgment provisions. (Sec. 9) Adds the following activities to the list of actions which constitute infringement of an owner's right to plant variety protection if performed without an owner's authorization: (1) conditioning the variety for purposes of propagation; and (2) stocking the variety for any existing purpose which constitutes infringement. Permits owners to authorize the use of a variety subject to their own limitations. Provides that it shall not be an infringement of an owner's rights to perform any act: (1) concerning propagating material of a protected variety that has been marketed in the United States unless the act involves further propagation of the variety or involves an export into a country that does not protect such varieties of the plant genus or species (unless the export is for final consumption); or (2) done privately and for noncommercial purposes. (Sec. 10) Removes a provision that declares that it is not an infringement for a person whose primary farming occupation is the growing of crops for sale other than reproductive purposes to sell saved seed for reproductive purposes. (Sec. 12) Requires the use of a variety name in connection with a sale or advertising, except for certain turf and forage grass seeds (unless otherwise required by State law). (Sec. 13) Eliminates specified gender-based references.
+
+	</summary>
+</bill>

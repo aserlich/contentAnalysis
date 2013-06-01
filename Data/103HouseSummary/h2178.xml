@@ -1,0 +1,172 @@
+<bill session="103" type="h" number="2178" updated="2012-07-17T04:45:27-04:00">
+	<state datetime="1994-08-26">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-08-26" /></status>
+
+	<introduced datetime="1993-05-19"/>
+	<titles>
+		<title type="short" as="passed house">Hazardous Materials Transportation Act Amendments of 1993</title>
+		<title type="short" as="passed senate">Hazardous Materials Transportation Authorization Act of 1994</title>
+		<title type="short" as="passed senate">Trucking Industry Regulatory Reform Act of 1994</title>
+		<title type="short" as="enacted">Hazardous Materials Transportation Authorization Act of 1994</title>
+		<title type="short" as="enacted">Trucking Industry Regulatory Reform Act of 1994</title>
+		<title type="official" as="introduced">To amend the Hazardous Materials Transportation Act to authorize appropriations for fiscal years 1994, 1995, 1996, and 1997.</title>
+	</titles>
+	<sponsor id="400331"/>
+	<cosponsors>
+		<cosponsor id="400307" joined="1993-05-19"/>
+		<cosponsor id="407772" joined="1993-05-19"/>
+		<cosponsor id="410567" joined="1993-05-19"/>
+		<cosponsor id="400374" joined="1993-05-19"/>
+		<cosponsor id="400318" joined="1993-05-19"/>
+		<cosponsor id="407899" joined="1993-05-19"/>
+		<cosponsor id="400110" joined="1993-05-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-19" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E1293)</text></action>
+		<action datetime="1993-05-19" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-05-19" state="REPORTED"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-06-01"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+		<action datetime="1993-06-03" state="REFERRED"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+		<action datetime="1993-06-08" state="REPORTED"><committee name="House Committee on Public Works + Transportation" subcommittee="Surface Transportation"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-09-22" state="REFERRED"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1993-10-26"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-26"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-11-08T17:01:00-05:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 103-336, Part I.</text></action>
+		<action datetime="1993-11-21T16:02:00-05:00"><text>Mr. Rahall moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-21T16:03:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10536-10541"/></action>
+		<action datetime="1993-11-21T16:03:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-21T16:07:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-21T16:07:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-21T16:07:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-11-22"><text>Received in the Senate.</text></action>
+		<action datetime="1993-11-23"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<action datetime="1994-04-18" state="REPORTED"><committee name="House Committee on Public Works + Transportation"/><text>Executive Comment Received from DOT.</text></action>
+		<action datetime="1994-08-11" state="PASS_OVER:HOUSE"><text>Senate Committee on Commerce discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S11325"/></action>
+		<action datetime="1994-08-11"><text>Measure laid before Senate by unanimous consent.</text></action>
+		<action datetime="1994-08-11"><text>Senate struck all after the Enacting Clause and substituted the language of S. 1640 amended.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-08-11" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate in lieu of S. 1640 with an amendment by Voice Vote.</text></vote>
+		<action datetime="1994-08-15"><text>Ordered that the engrossment of the Senate amendment to the bill be corrected.</text></action>
+		<action datetime="1994-08-16"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-08-16T13:28:00-04:00"><text>Mr. Mineta moved that the House suspend the rules and agree to the Senate amendment.</text></action>
+		<action datetime="1994-08-16T13:28:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="pingpong" datetime="1994-08-16T13:47:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.</text><reference label="consideration" ref="CR H8448"/></vote>
+		<topresident datetime="1994-08-16" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-08-22" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-08-26" ><text>Signed by President.</text></signed>
+		<enacted number="103-311" type="public" datetime="1994-08-26"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-311.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral, Hearings" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2860" />
+		<bill relation="unknown" session="103" type="h" number="3460" />
+		<bill relation="unknown" session="103" type="h" number="3460" />
+		<bill relation="supersedes" session="103" type="s" number="1640" />
+		<bill relation="unknown" session="103" type="s" number="1640" />
+		<bill relation="unknown" session="103" type="s" number="1640" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Agricultural accidents and safety"/>
+		<term name="Agricultural machinery"/>
+		<term name="Agriculture and food"/>
+		<term name="Aliens"/>
+		<term name="Americans in foreign countries"/>
+		<term name="Antitrust law"/>
+		<term name="Authorization"/>
+		<term name="Business records"/>
+		<term name="Buy American"/>
+		<term name="Claims"/>
+		<term name="Commerce"/>
+		<term name="Common carriers"/>
+		<term name="Computer networks"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Contracts"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Data banks"/>
+		<term name="Debarment of government contractors"/>
+		<term name="Deceptive advertising"/>
+		<term name="Department of Transportation"/>
+		<term name="Drug abuse"/>
+		<term name="Drugs and employment"/>
+		<term name="Drugs and transportation workers"/>
+		<term name="Drunk driving"/>
+		<term name="Economics and public finance"/>
+		<term name="Emergency communication systems"/>
+		<term name="Emergency management"/>
+		<term name="Employee training"/>
+		<term name="Environmental protection"/>
+		<term name="Executive reorganization"/>
+		<term name="Farmers"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal aid to transportation"/>
+		<term name="Federal preemption"/>
+		<term name="Fees"/>
+		<term name="Fire fighters"/>
+		<term name="Foreign corporations"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Fraud"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Grants-in-aid"/>
+		<term name="Highway research"/>
+		<term name="Hours of labor"/>
+		<term name="Household moving"/>
+		<term name="Independent regulatory commissions"/>
+		<term name="Indian lands"/>
+		<term name="Information services"/>
+		<term name="Intermodal transportation"/>
+		<term name="Interstate Commerce Commission"/>
+		<term name="Labeling"/>
+		<term name="Labor and employment"/>
+		<term name="Licenses"/>
+		<term name="Minorities"/>
+		<term name="Motor bus lines"/>
+		<term name="Motor carrier rates"/>
+		<term name="Motor transportation"/>
+		<term name="Motor vehicle safety"/>
+		<term name="Motor vehicles"/>
+		<term name="Nonprofit organizations"/>
+		<term name="Occupational health and safety"/>
+		<term name="Packaging"/>
+		<term name="Personnel records"/>
+		<term name="Prisoners"/>
+		<term name="Prisons"/>
+		<term name="Railroad rolling stock"/>
+		<term name="Railroad safety"/>
+		<term name="Reciprocity"/>
+		<term name="Restrictive trade practices"/>
+		<term name="Science, technology, communications"/>
+		<term name="Standards"/>
+		<term name="State laws"/>
+		<term name="Technological innovations"/>
+		<term name="Telephone"/>
+		<term name="Traffic accidents and safety"/>
+		<term name="Traffic engineering"/>
+		<term name="Transportation of hazardous substances"/>
+		<term name="Transportation planning"/>
+		<term name="Transportation safety"/>
+		<term name="Treatment and rehabilitation of alcoholics"/>
+		<term name="Treatment and rehabilitation of narcotic addicts"/>
+		<term name="Truck drivers"/>
+		<term name="Trucking"/>
+		<term name="Trucks"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/11/1994--Passed Senate amended. TABLE OF CONTENTS: Title I: Hazardous Materials Transportation Act Amendments Title II: Trucking Industry Regulatory Reform Title I: Hazardous Materials Transportation Act Amendments - Hazardous Materials Transportation Authorization Act of 1994 - Amends Federal transportation law to authorize appropriations for FY 1994 through 1997 for the regulation of the transportation of hazardous materials (hazmat). (Sec. 104) Authorizes the Secretary of Transportation (Secretary) to waive mandatory registration statement filing requirements, or the payment of a fee, for any person not domiciled in the United States who solely offers hazardous materials for transportation from a place outside of the United States to the United States if the country in which such person is domiciled does not require U.S. domiciliaries to file such statements, or to pay such fee, when making such an offer. (Sec. 105) Directs the Secretary to make grants to Indian tribes for the development of emergency response plans with respect to hazmat transportation through Indian lands. Requires States or Indian tribes receiving such grants to ensure that such emergency planning is coordinated with emergency plans conducted by adjacent States and Indian tribes. (Sec. 106) Requires the Secretary to make sure that the training requirements of hazmat employees with respect to the safe hazmat transportation, and emergency response to accidents, do not duplicate Department of Labor and Environmental Protection Agency regulations. (Sec. 107) Requires States, local governments, or Indian tribes that levy fees in connection with hazmat transportation to comply with certain disclosure requirements. (Sec. 108) Changes from annual to biennial the Secretary's periodic comprehensive hazmat transportation report to the President. (Sec. 109) Directs the Secretary to ensure that the National Intelligent Vehicle-Highway Systems Program addresses the use of intelligent vehicle-highway system technologies to promote hazmat transportation safety. Authorizes the Secretary to make grants for the promotion of certain emergency response information technologies. (Sec. 110) Requires the Secretary to issue final regulations under specified dockets concerning: (1) crashworthiness protection requirements for tank cars; and (2) detection and repair of cracks, pits, corrosion, lining flaws, thermal protection flaws, and other defects of tank car tanks. (Sec. 111) Directs the Secretary to study the existing practices regarding the placement of cars on trains, with particular attention to the placement of hazmat cars. (Sec. 112) Requires the Secretary to amend Federal regulations on hazmat transportation and motor carrier safety to prohibit the driver of a motor vehicle transporting hazardous materials in commerce or of any commercial vehicle from driving it onto a highway-rail grade crossing without sufficient space to drive completely through the crossing without stopping. (Sec. 113) Requires the Secretary to issue regulations that improve: (1) compliance by commercial motor vehicle drivers and motor carriers with hours of service requirements; and (2) the effectiveness of Federal and State enforcement officers reviewing such compliance. (Sec. 114) Directs the Secretary to amend the Code of Federal Regulations (CFR) with respect to the acquisition of safety performance histories of new drivers employed by a motor carrier. (Sec. 115) Requires the retention of shipping papers by persons who provided them and the motor carrier required to maintain them after the hazardous material involved is no longer in transportation. (Sec. 116) Requires the Secretary to establish a toll free number for hazmat transporters and other individuals to report possible violations of Federal law regarding hazmat transportation. (Sec. 118) Requires the Secretary to initiate a rulemaking proceeding to determine whether or not CFR hours of service requirements may be waived for farmers and retail farm suppliers when they transport crops or farm supplies for agricultural purposes within a 50-mile radius of their distribution point or farm. (Sec. 119) Directs the Secretary, in order to further the training of public sector employees to respond to hazmat accidents, to make grants to national nonprofit employee organizations engaged solely in fighting fires for the purpose of training individuals with statutory responsibility to respond to such accidents. Authorizes appropriations through FY 1998. Increases the authorization of appropriations for FY 1995 through 1998 for the hazmat employee training grant program. (Sec. 120) Sets forth a specified time period within which the Secretary must act with respect to applications for an exemption from regulations governing the safe hazmat transportation. (Sec. 121) Directs the Secretary to study and report to the Congress on the safety considerations of transporting hazardous materials in close proximity to Federal prisons, particularly those housing maximum security prisoners. (Sec. 122) Requires the Secretary to initiate a rulemaking proceeding to determine whether certain requirements under Federal law (with respect to safe transportation) as they pertain to open head fiber drum packaging can be met for the domestic transportation of liquid hazardous materials with standards other than certain performance oriented packaging standards. Requires the Secretary, if it is determined that a packaging standard other than such performance oriented packaging standards will provide an equal or greater level of safety for such transportation, to implement such other standard. (Sec. 123) Sets forth Buy American requirements. Makes ineligible to receive a contract or subcontract funded under this Act any person found by a court or Federal agency to have intentionally affixed a &quot;Made in America&quot; label on any product sold in or shipped to the United States that is not made in the United States. Title II: Trucking Industry Regulatory Reform - Trucking Industry Regulatory Reform Act of 1994 - Amends the Interstate Commerce Act to include as objectives of U.S. transportation policy in regulating transportation by motor carrier, the promotion of competitive and efficient transportation services in order to: (1) encourage fair competition and reasonable rates for transportation by motor carriers of property; and (2) promote Federal regulatory efficiency in the motor carrier transportation system and to require fair and expeditious regulatory decisions when regulation is required. (Sec. 205) Requires the Interstate Commerce Commission (ICC) to exempt motor carriers providing transportation of non-household goods, or the provision of such transportation in non-contiguous domestic trade (motor-water transportation originating in or destined to Alaska, Hawaii, or a U.S. territory or possession), from its jurisdiction whenever it finds that: (1) its jurisdiction is not necessary to carry out U.S. transportation policy; and (2) either such transaction or service of the motor carrier is of limited scope, or ICC jurisdiction is not needed to protect shippers from the abuse of market power. Authorizes the ICC to exempt such carriers as part of a continuous intermodal movement. Prohibits the ICC from exercising jurisdiction to: (1) relieve a motor carrier of property or other person from certain requirements regarding tariffs and rates, rate agreements, security of motor carriers, brokers, and freight forwarders, and liability of uncommon carriers under receipts and bills of lading; or (2) exempt such carrier from compliance with any law or regulation pertaining to cargo loss and damage, insurance, antitrust immunity for joint line rates and routes, classification of commodities, including uniform packaging rules, uniform bills of lading, standardized mileage guides, or safety fitness. (Sec. 206) Exempts a motor contract carrier of property from the requirement requiring the establishment and filing of actual and minimum rates, and rules and practices for such transportation, with the ICC. Excludes motor common carriers of non-household goods under an individually determined rate or in cases of noncontiguous domestic trade from: (1) the prohibition against transportation without a rate contained in a tariff; and (2) certain tariff publishing and filing requirements. Requires a motor common carrier providing transportation of property to provide to the shipper, upon request, a written or electronic copy of the agreed upon rate classification rules, and practices with respect to such transportation. Excludes a motor common carrier providing transportation of non-household goods under an individually determined rate, a motor contract carrier of property, or transportation of property in noncontiguous domestic trade, from having to publish and file proposed rate changes. (Sec. 207) Requires the ICC to issue a certificate authorizing a person to provide transportation as a motor common carrier of property, or a motor contract carrier of household goods or passengers, if it finds that such person is able to comply with: (1) ICC regulations and safety requirements; (2) safety fitness requirements established by the Secretary of Transportation; and (3) ICC minimum financial responsibility requirements. Sets forth public convenience and necessity and filing requirements for the certification of carriers of household goods. Authorizes the ICC to prescribe conditions under which a contract carrier of passengers provides transportation. (Sec. 209) Authorizes the ICC to suspend a certificate of: (1) a motor carrier of passengers or a motor common carrier of household goods for failure to comply with specified transportation requirements, or an ICC order; and (2) a motor contract carrier of property or a motor common carrier of non-household goods for failure to comply with ICC safety requirements or certain specified fitness requirements. (Sec. 210) Directs the ICC to submit to the Secretary and appropriate congressional committees a report identifying all ICC responsibilities. Requires the ICC to make recommendations concerning specific statutory and regulatory ICC functions that could be eliminated or restructured. Directs the Secretary to study the feasibility of merging the ICC into the Department of Transportation as an independent agency. (Sec. 211) Prohibits a State from enforcing any law regarding intrastate fares for the transportation of passengers by bus by an interstate motor carrier of passengers over a route authorized by the ICC.
+
+	</summary>
+</bill>

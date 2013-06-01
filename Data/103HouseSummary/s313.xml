@@ -1,0 +1,72 @@
+<bill session="103" type="s" number="313" updated="2012-07-17T06:22:33-04:00">
+	<state datetime="1994-03-08">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-03-08" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Bisti/De-Na-Zin Wilderness Expansion and Fossil Forest Protection Act</title>
+		<title type="short" as="reported to senate">Bisti/De-Na-Zin Wilderness Expansion and Fossil Forest Protection Act</title>
+		<title type="short" as="passed senate">Bisti/De-Na-Zin Wilderness Expansion and Fossil Forest Protection Act</title>
+		<title type="official" as="introduced">A bill to amend the San Juan Basin Wilderness Protection Act of 1984 to designate additional lands as wilderness and to establish the Fossil Forest Research Natural Area, and for other purposes.</title>
+	</titles>
+	<sponsor id="300036"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1391-1393)</text></action>
+		<action datetime="1993-02-04" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-02-05"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1993-03-09"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1993-06-16"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings concluded. Hearings printed: S.Hrg. 103-221.</text></action>
+		<action datetime="1993-06-16"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held.</text></action>
+		<calendar datetime="1994-02-02"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1994-02-25"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments. With written report No. 103-230.</text></action>
+		<calendar under="General Orders" number="374" datetime="1994-02-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 374.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-03-08" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with amendments by Voice Vote.</text><reference label="consideration" ref="CR S2554"/></vote>
+		<action datetime="1994-03-09T12:03:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-03-09"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-03-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-04-27"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1994-05-25"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Wilderness areas"/>
+		<term name="Archaeology"/>
+		<term name="Coal"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Environmental protection"/>
+		<term name="Forest conservation"/>
+		<term name="Geothermal resources"/>
+		<term name="Grazing"/>
+		<term name="History"/>
+		<term name="Indian lands"/>
+		<term name="Land transfers"/>
+		<term name="Mining leases"/>
+		<term name="Minorities"/>
+		<term name="New Mexico"/>
+		<term name="Oil and gas leases"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Reclamation of land"/>
+		<term name="Research natural areas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/8/1994--Passed Senate amended. Bisti/De-Na-Zin Wilderness Expansion and Fossil Forest Protection Act - Amends the San Juan Wilderness Protection Act of 1984 to incorporate additional lands in New Mexico into the Bisti/De-Na-Zin Wilderness. Withdraws such lands from all forms of appropriation under the mining laws and from disposition under laws pertaining to mineral and geothermal leasing and mineral material sales. Authorizes the Secretary of the Interior to issue coal leases in New Mexico in exchange for any preference right coal lease application on such lands after a determination has been made by the Secretary that the applicant is entitled to a preference right lease and that the exchange is in the public interest. Provides for the exchange of State and Navajo Indian lands located in the wilderness for other lands. Establishes the Fossil Forest Research Natural Area within New Mexico. Makes such area subject to the same withdrawal requirements and coal preference rights as the wilderness area designated under this Act. Prohibits livestock grazing in the Area. Directs the Secretary, acting through the Director of the Bureau of Land Management, to develop a baseline inventory of all categories of fossil resources within the Area and to conduct monitoring surveys. Requires the Secretary to submit a management plan for the Area to the Senate Committee on Energy and Natural Resources and the House Committee on Interior and Insular Affairs to include: (1) a plan for the implementation of a cooperative program with other agencies for laboratory and field interpretation and public education; (2) provisions for vehicle management; (3) procedures for the excavation and collection of fossil remains; and (4) mitigation and reclamation standards for activities that disturb the surface to the detriment of scenic and environmental values.
+
+	</summary>
+</bill>

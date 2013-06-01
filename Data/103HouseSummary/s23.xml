@@ -1,0 +1,38 @@
+<bill session="103" type="s" number="23" updated="2012-07-17T04:24:25-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title 17, United States Code, to clarify news reporting monitoring as a fair use exception to the exclusive rights of a copyright owner.</title>
+	</titles>
+	<sponsor id="300052"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S422-423)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-02-04"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Patents, Copyrights and Trademarks.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Patents, Copyrights and Trademarks" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Copyright"/>
+		<term name="Copyright infringement"/>
+		<term name="Reporters and reporting"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Amends Federal copyright law to deem monitoring news reporting programming to be a fair use of a copyrighted work which does not constitute copyright infringement.
+
+	</summary>
+</bill>

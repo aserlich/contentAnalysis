@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="494" updated="2012-07-17T04:54:12-04:00">
+	<state datetime="1993-03-03">REFERRED</state>
+	<status><introduced datetime="1993-03-03"/></status>
+
+	<introduced datetime="1993-03-03"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide changes in application of wagering taxes to charitable organizations.</title>
+	</titles>
+	<sponsor id="300031"/>
+	<cosponsors>
+		<cosponsor id="401874" joined="1993-03-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-03" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2354)</text></action>
+		<action datetime="1993-03-03" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2000" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Charities"/>
+		<term name="Excise tax"/>
+		<term name="Gambling"/>
+		<term name="State laws"/>
+		<term name="Tax-exempt organizations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/3/1993--Introduced.
+Amends the Internal Revenue Code to exempt from the occupational excise tax on wagering any tax-exempt charitable organization and any person engaged in receiving wagers only on behalf of such organization, if the only wagers accepted by the organization (and the person) are authorized under the law of the State in which accepted. Provides for taxing a percentage of wagering winnings in excess of charitable expenditures.
+
+	</summary>
+</bill>

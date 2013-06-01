@@ -1,0 +1,72 @@
+<bill session="103" type="h" number="526" updated="2010-04-19T00:23:48-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="popular" as="">Unemployment Compensation Extension bill</title>
+		<title type="official" as="introduced">To increase the number of weeks for which emergency unemployment compensation is payable, and for other purposes.</title>
+	</titles>
+	<sponsor id="400286"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1993-03-16"/>
+		<cosponsor id="400133" joined="1993-03-02"/>
+		<cosponsor id="400580" joined="1993-02-02"/>
+		<cosponsor id="400160" joined="1993-02-02"/>
+		<cosponsor id="400126" joined="1993-02-04"/>
+		<cosponsor id="400542" joined="1993-02-18"/>
+		<cosponsor id="400183" joined="1993-01-27"/>
+		<cosponsor id="401494" joined="1993-02-16"/>
+		<cosponsor id="407351" joined="1993-02-02"/>
+		<cosponsor id="411040" joined="1993-02-23"/>
+		<cosponsor id="400170" joined="1993-02-02"/>
+		<cosponsor id="400424" joined="1993-02-02"/>
+		<cosponsor id="300087" joined="1993-02-18"/>
+		<cosponsor id="400306" joined="1993-02-23"/>
+		<cosponsor id="400527" joined="1993-03-04"/>
+		<cosponsor id="300081" joined="1993-02-16"/>
+		<cosponsor id="400216" joined="1993-05-06"/>
+		<cosponsor id="400502" joined="1993-02-16"/>
+		<cosponsor id="411947" joined="1993-02-23"/>
+		<cosponsor id="400331" joined="1993-02-18"/>
+		<cosponsor id="407672" joined="1993-01-27" withdrawn="1993-11-22"/>
+		<cosponsor id="400001" joined="1993-02-04"/>
+		<cosponsor id="400591" joined="1993-01-27"/>
+		<cosponsor id="404602" joined="1993-02-23"/>
+		<cosponsor id="400906" joined="1993-02-16"/>
+		<cosponsor id="404190" joined="1993-02-16"/>
+		<cosponsor id="410889" joined="1993-02-18"/>
+		<cosponsor id="400438" joined="1993-03-02"/>
+		<cosponsor id="410407" joined="1993-02-04"/>
+		<cosponsor id="407044" joined="1993-02-02"/>
+		<cosponsor id="400025" joined="1993-02-18"/>
+		<cosponsor id="400163" joined="1993-02-02"/>
+		<cosponsor id="400075" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-26"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="714" />
+	</relatedbills>
+	<subjects>
+		<term name="Unemployment insurance"/>
+		<term name="Food"/>
+		<term name="Income tax"/>
+		<term name="Recreation"/>
+		<term name="Tax deductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Amends the Emergency Unemployment Compensation Act of 1991 (Public Law 102-164) to increase the number of weeks for which emergency unemployment compensation is payable. Amends the Internal Revenue Code to reduce a tax deduction for certain expenses for meals and entertainment.
+
+	</summary>
+</bill>

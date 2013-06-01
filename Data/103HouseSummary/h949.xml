@@ -1,0 +1,84 @@
+<bill session="103" type="h" number="949" updated="2012-07-17T05:35:10-04:00">
+	<state datetime="1993-09-21T13:38:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-09-21T13:38:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-02-17"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to increase the amount of the loan guaranty for loans for the purchase or construction of homes.</title>
+	</titles>
+	<sponsor id="409570"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1993-07-27"/>
+		<cosponsor id="400048" joined="1993-04-26"/>
+		<cosponsor id="407838" joined="1993-07-27"/>
+		<cosponsor id="400030" joined="1993-07-27"/>
+		<cosponsor id="400504" joined="1993-08-06"/>
+		<cosponsor id="400133" joined="1993-05-18"/>
+		<cosponsor id="405313" joined="1993-07-27"/>
+		<cosponsor id="400055" joined="1993-08-06"/>
+		<cosponsor id="408618" joined="1993-07-27"/>
+		<cosponsor id="408556" joined="1993-07-27"/>
+		<cosponsor id="408476" joined="1993-07-27"/>
+		<cosponsor id="400219" joined="1993-07-27"/>
+		<cosponsor id="400160" joined="1993-08-03"/>
+		<cosponsor id="400251" joined="1993-06-18"/>
+		<cosponsor id="400389" joined="1993-07-27"/>
+		<cosponsor id="410695" joined="1993-07-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-17" state="REFERRED"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Housing and Memorial Affairs.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Veterans' Affairs" subcommittee="Housing and Memorial Affairs"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Veterans' Affairs" subcommittee="Housing and Memorial Affairs"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Veterans' Affairs" subcommittee="Housing and Memorial Affairs"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-07-27"><committee name="House Committee on Veterans' Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-07-27"  state="REPORTED"><committee name="House Committee on Veterans' Affairs"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-08-06T17:25:00-04:00"><text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 103-222.</text></action>
+		<calendar number="124" datetime="1993-08-06T17:26:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 124.</text></calendar>
+		<action datetime="1993-09-21T13:34:00-04:00"><text>Mr. Montgomery moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-09-21T13:34:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6787-6792"/></action>
+		<action datetime="1993-09-21T13:34:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-09-21T13:38:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-09-21T13:39:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-09-21T13:41:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-09-22"><text>Received in the Senate and read twice and referred to the Committee on Veterans.</text></action>
+		<action datetime="1994-10-07" state="REPORTED"><committee name="House Committee on Veterans' Affairs"/><text>See H.R.5244.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Veterans' Affairs" subcommittee="Housing and Memorial Affairs" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5244" />
+		<bill relation="unknown" session="103" type="h" number="5244" />
+		<bill relation="identical" session="103" type="s" number="1510" />
+		<bill relation="unknown" session="103" type="s" number="1510" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Authorization"/>
+		<term name="Cemeteries and funerals"/>
+		<term name="Collection of accounts"/>
+		<term name="Economics and public finance"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Foreclosure"/>
+		<term name="Grants-in-aid"/>
+		<term name="Homeless"/>
+		<term name="Housing and community development"/>
+		<term name="Housing finance"/>
+		<term name="Liens"/>
+		<term name="Mortgage loans"/>
+		<term name="Social welfare"/>
+		<term name="Variable rate mortgage loans"/>
+		<term name="Veterans' benefits"/>
+		<term name="Veterans' loans"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/21/1993--Passed House amended. Increases from $46,000 to $50,750 the amount of the loan guaranty by the Department of Veterans Affairs for loans to qualifying veterans for the purchase or construction of homes. Authorizes the Secretary of Veterans Affairs to provide financial assistance to veterans for the purpose of avoiding foreclosure on a mortgage loan made and guaranteed by the Department. Provides conditions for such assistance. Allows the Secretary to make more than one loan to a veteran, but limits the per-veteran total to $10,000. Requires repayment of all such financial assistance provided. Makes a technical correction relating to the financing of discount points for certain veterans' loans. Deletes the requirement that adjustments in adjustable rate mortgages guaranteed to veterans by the Department occur on the anniversary of the date on which the loan was closed. Provides a $150 cemetery plot allowance, payable to a State or appropriate political subdivision, in the case of a veteran who is eligible for burial in a national cemetery and is buried in a cemetery used solely for the burial of persons eligible for burial in national cemeteries and owned by a State or its political subdivision. Increases the amount authorized to be paid by the Secretary to a State for establishing, expanding, or improving veterans' cemeteries owned by such State from 50 to 65 percent of the total value and cost of such construction or improvements. Extends the authorization of appropriations for such program through FY 1999. Amends the Homeless Veterans Comprehensive Service Programs Act of 1992 to delete a provision which limits grant funds provided under such Act to 65 percent of the estimated cost of expanding and improving the provision of Department benefits and services to homeless veterans.
+
+	</summary>
+</bill>

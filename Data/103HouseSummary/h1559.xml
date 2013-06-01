@@ -1,0 +1,61 @@
+<bill session="103" type="h" number="1559" updated="2010-04-19T03:14:48-04:00">
+	<state datetime="1993-03-31">REFERRED</state>
+	<status><introduced datetime="1993-03-31"/></status>
+
+	<introduced datetime="1993-03-31"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide an investment tax credit for Stage 3 aircraft.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-05-19"/>
+		<cosponsor id="400078" joined="1993-06-14"/>
+		<cosponsor id="403314" joined="1993-05-19"/>
+		<cosponsor id="405775" joined="1993-05-19"/>
+		<cosponsor id="300055" joined="1993-03-31"/>
+		<cosponsor id="400122" joined="1993-05-19"/>
+		<cosponsor id="400246" joined="1993-10-13"/>
+		<cosponsor id="406768" joined="1993-05-19"/>
+		<cosponsor id="400003" joined="1993-11-08"/>
+		<cosponsor id="400524" joined="1993-06-14"/>
+		<cosponsor id="406284" joined="1993-05-19"/>
+		<cosponsor id="400143" joined="1993-05-19"/>
+		<cosponsor id="400316" joined="1993-05-19"/>
+		<cosponsor id="404375" joined="1993-05-19"/>
+		<cosponsor id="407772" joined="1993-06-16"/>
+		<cosponsor id="404097" joined="1993-05-19"/>
+		<cosponsor id="407817" joined="1993-06-14"/>
+		<cosponsor id="412001" joined="1993-05-19"/>
+		<cosponsor id="407141" joined="1994-02-01"/>
+		<cosponsor id="408476" joined="1993-05-19"/>
+		<cosponsor id="401081" joined="1993-06-14"/>
+		<cosponsor id="402762" joined="1993-07-20"/>
+		<cosponsor id="400243" joined="1993-05-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-31"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="746" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Aircraft industry"/>
+		<term name="Airlines"/>
+		<term name="Environmental protection"/>
+		<term name="Investment tax credit"/>
+		<term name="Minimum tax"/>
+		<term name="Noise"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/31/1993--Introduced.
+Amends the Internal Revenue Code to allow businesses an investment tax credit for costs incurred for noise modification of aircraft from stage 2 levels to stage 3 levels. Allows such credit against the regular tax and alternative minimum tax.
+
+	</summary>
+</bill>

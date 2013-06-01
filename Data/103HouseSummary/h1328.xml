@@ -1,0 +1,57 @@
+<bill session="103" type="h" number="1328" updated="2010-04-19T02:37:59-04:00">
+	<state datetime="1993-03-17">REPORTED</state>
+	<status><calendar datetime="1993-03-17" /></status>
+
+	<introduced datetime="1993-03-11"/>
+	<titles>
+		<title type="short" as="introduced">Government Printing Office Electronic Information Access Enhancement Act of 1993</title>
+		<title type="official" as="introduced">To establish in the Government Printing Office a means of enhancing electronic public access to a wide range of Federal electronic information.</title>
+	</titles>
+	<sponsor id="409400"/>
+	<cosponsors>
+		<cosponsor id="404587" joined="1993-03-11"/>
+		<cosponsor id="400401" joined="1993-03-11"/>
+		<cosponsor id="400585" joined="1993-03-11"/>
+		<cosponsor id="300083" joined="1993-03-11"/>
+		<cosponsor id="400223" joined="1993-03-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-11"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-03-17"><committee name="House Committee on House Administration"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-03-17"  state="REPORTED"><committee name="House Committee on House Administration"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-04-01T20:45:00-05:00"><text>Reported by the Committee on House Administration. H. Rept. 103-51.</text></action>
+		<calendar number="23" datetime="1993-04-01T20:45:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 23.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="564" />
+		<bill relation="unknown" session="103" type="s" number="564" />
+	</relatedbills>
+	<subjects>
+		<term name="Information services"/>
+		<term name="Computer networks"/>
+		<term name="Congress"/>
+		<term name="Congressional Record"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Data banks"/>
+		<term name="Depository libraries"/>
+		<term name="Fees"/>
+		<term name="Government information"/>
+		<term name="Government publications"/>
+		<term name="Government publicity"/>
+		<term name="Public records"/>
+		<term name="Technology"/>
+		<term name="User charges"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/1993--Introduced.
+Government Printing Office Electronic Information Access Enhancement Act of 1993 - Requires the Superintendant of Documents, under the direction of the Public Printer, to establish a means for providing the public with online access to electronic public information of the Federal Government. Sets forth guidelines for determining fees for accessing such information. Permits depository libraries to access information through such means without charge. Requires the Public Printer to report to the Congress on the savings resulting from such online public access to Government information and on the status of the system providing such access.
+
+	</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="932" updated="2010-04-19T01:31:42-04:00">
+	<state datetime="1993-02-17">REFERRED</state>
+	<status><introduced datetime="1993-02-17"/></status>
+
+	<introduced datetime="1993-02-17"/>
+	<titles>
+		<title type="official" as="introduced">To extend until January 1, 1997, the existing suspension of duty on certain monochrome glass envelopes.</title>
+	</titles>
+	<sponsor id="400252"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-17"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-04-07"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1993-08-02"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Ways and Means"/><text>See H.R.5110.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5110" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Glass and glass industry"/>
+		<term name="Tariff"/>
+		<term name="Video display terminals"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/17/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to extend, through December 31, 1998, the existing suspension of duty on certain monochrome glass envelopes.
+
+	</summary>
+</bill>

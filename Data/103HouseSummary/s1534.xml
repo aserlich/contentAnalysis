@@ -1,0 +1,59 @@
+<bill session="103" type="s" number="1534" updated="2010-04-19T18:29:38-04:00">
+	<state datetime="1994-03-25">PASS_BACK:SENATE</state>
+	<status><pingpong datetime="1994-03-25" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-10-07"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title 38, United States Code, to repeal a requirement that the Under Secretary for Health in the Department of Veterans Affairs be a doctor of medicine.</title>
+	</titles>
+	<sponsor id="300084"/>
+	<cosponsors>
+		<cosponsor id="300150" joined="1993-10-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-07"><text>Sponsor introductory remarks on measure. (CR S13253-13254)</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-10-07" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S13253"/></vote>
+		<action datetime="1993-10-13"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-10-13T10:02:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-10-13T11:56:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-10-27"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-11-16T13:51:00-05:00"><text>Committee on Veterans' Affairs discharged.</text></action>
+		<action datetime="1993-11-16T13:51:00-05:00"><text>Mr. Montgomery asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1993-11-16T13:52:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H9721-9723"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-11-16T13:52:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-11-16T13:52:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-11-16T13:53:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-18"><text>Message on House action received in Senate and at desk: House amendments to Senate bill.</text></action>
+		<action datetime="1994-03-25"><text>Measure laid before Senate.</text></action>
+		<vote how="by Voice Vote" type="pingpong" datetime="1994-03-25" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Senate concurred in the House amendments with an amendment (SP 1604) by Voice Vote.</text><reference label="consideration" ref="CR S3936"/></vote>
+		<action datetime="1994-04-12"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3338" />
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Department of Veterans Affairs"/>
+		<term name="Executive departments"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal officials"/>
+		<term name="Government employees"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Physicians"/>
+		<term name="Presidential appointments"/>
+		<term name="Presidents"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+		<amendment number="h393"/>
+		<amendment number="s1604"/>
+	</amendments>
+	<summary>
+	3/25/1994--Senate agreed to House amendment with amendment. Allows the position of Under Secretary, Deputy Under Secretary, or Associate Deputy Under Secretary for Health in the Veterans Health Administration of the Department of Veterans Affairs to be filled by someone who is not a doctor of medicine if, at the time of any such appointment, the remaining two positions are filled by doctors of medicine. Requires at least five of the ten members of any commission established to select a new Under Secretary to be doctors of medicine.
+
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="103" type="h" number="4718" updated="2010-04-19T11:27:05-04:00">
+	<state datetime="1994-06-30">REFERRED</state>
+	<status><introduced datetime="1994-06-30"/></status>
+
+	<introduced datetime="1994-06-30"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Joe W. Floyd.</title>
+	</titles>
+	<sponsor id="407838"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-30"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-07-06"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Military pay"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/30/1994--Introduced.
+Entitles a named individual to retired pay as if such individual had completed 20 years of creditable service in the Army and Army Reserve.
+
+	</summary>
+</bill>

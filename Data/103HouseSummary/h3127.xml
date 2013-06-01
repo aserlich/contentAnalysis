@@ -1,0 +1,60 @@
+<bill session="103" type="h" number="3127" updated="2010-04-19T07:18:40-04:00">
+	<state datetime="1993-09-23">REFERRED</state>
+	<status><introduced datetime="1993-09-23"/></status>
+
+	<introduced datetime="1993-09-23"/>
+	<titles>
+		<title type="short" as="introduced">Interstate Commerce Efficiency and Safety Improvement Act of 1993</title>
+		<title type="official" as="introduced">To transfer to the Secretary of Transportation the functions of the Interstate Commerce Commission.</title>
+	</titles>
+	<sponsor id="400590"/>
+	<cosponsors>
+		<cosponsor id="400174" joined="1993-09-30"/>
+		<cosponsor id="400505" joined="1993-09-30"/>
+		<cosponsor id="411997" joined="1993-11-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-23"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-09-23"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-10-05"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+		<action datetime="1993-10-07"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1248" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation"/>
+		<term name="Administrative procedure"/>
+		<term name="Common carriers"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Department of Transportation"/>
+		<term name="Executive reorganization"/>
+		<term name="Freight forwarders"/>
+		<term name="Independent regulatory commissions"/>
+		<term name="Inland water transportation"/>
+		<term name="Interstate Commerce Commission"/>
+		<term name="Interstate commerce"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Motor carrier rates"/>
+		<term name="Motor transportation"/>
+		<term name="Motor vehicle safety"/>
+		<term name="Railroads"/>
+		<term name="Traffic accidents and safety"/>
+		<term name="Transportation and state"/>
+		<term name="Trucks"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/23/1993--Introduced.
+Interstate Commerce Efficiency and Safety Improvement Act of 1993 - Transfers all functions of the Interstate Commerce Commission to the Secretary of Transportation.
+
+	</summary>
+</bill>

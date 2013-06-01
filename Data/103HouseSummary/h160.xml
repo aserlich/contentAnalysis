@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="160" updated="2010-04-18T23:24:57-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 31, United States Code, to require that the President submit to Congress a balanced budget for each fiscal year.</title>
+	</titles>
+	<sponsor id="400116"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Balanced budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Deficit financing"/>
+		<term name="Federal budget process"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends Federal law to require that any budget submitted by the President not be in deficit. Provides that if the President determines that a balanced budget is not feasible, and submits written reasons in support of such determination, then the President may submit two budgets, one in compliance and one in deficit.
+
+	</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="103" type="s" number="2559" updated="2010-04-19T21:09:32-04:00">
+	<state datetime="1994-10-08">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-10-08" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-10-08"/>
+	<titles>
+		<title type="official" as="introduced">A bill relating to implementation of Oil Pollution Act with respect to animal fats and vegetable oils.</title>
+	</titles>
+	<sponsor id="300051"/>
+	<cosponsors>
+		<cosponsor id="300070" joined="1994-10-08"/>
+		<cosponsor id="408898" joined="1994-10-08"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1994-10-08" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S15022"/></vote>
+		<action datetime="1994-11-29"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-11-29T12:30:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-11-29"><text>Referred jointly to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1994-11-29"><text>Referred jointly to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-12-01"><text>Sponsor introductory remarks on measure. (CR S15423)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Administrative procedure"/>
+		<term name="Environmental Protection Agency"/>
+		<term name="Executive departments"/>
+		<term name="Hazardous substances"/>
+		<term name="Law"/>
+		<term name="Liability for oil pollution"/>
+		<term name="Liability for toxic substances pollution damages"/>
+		<term name="Oil pollution"/>
+		<term name="Oils and fats"/>
+		<term name="Water pollution"/>
+		<term name="Water pollution control"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/8/1994--Introduced.
+Requires Federal agencies, in implementing the Oil Pollution Act of 1990, to differentiate between animal fats or oils of vegetable origin and other oils, including petroleum oils, on the basis of their physical, chemical, biological, and other properties and their environmental effects.
+
+	</summary>
+</bill>

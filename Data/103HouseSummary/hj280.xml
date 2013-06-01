@@ -1,0 +1,50 @@
+<bill session="103" type="hj" number="280" updated="2010-04-18T22:35:43-04:00">
+	<state datetime="1994-04-26T14:08:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-04-26T14:08:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-10-19"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the appointment of Frank Anderson Shrontz as a citizen regent of the Board of Regents of the Smithsonian Institution.</title>
+	</titles>
+	<sponsor id="407772"/>
+	<cosponsors>
+		<cosponsor id="407400" joined="1993-10-19"/>
+		<cosponsor id="408103" joined="1993-10-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-19"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-10-28"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Libraries and Memorials.</text></action>
+		<action datetime="1994-04-13"><committee name="House Committee on House Administration" subcommittee="Libraries and Memorials"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-04-13"><committee name="House Committee on House Administration" subcommittee="Libraries and Memorials"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1994-04-26T14:03:00-04:00"><committee name="House Committee on House Administration"/><text>Mr. Frost moved to suspend the rules and pass the resolution.</text></action>
+		<action datetime="1994-04-26T14:03:00-04:00"><committee name="House Committee on House Administration"/><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2754-2755"/></action>
+		<action datetime="1994-04-26T14:03:00-04:00"><committee name="House Committee on House Administration"/><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-04-26T14:08:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><committee name="House Committee on House Administration"/><text>On motion to suspend the rules and pass the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1994-04-26T14:09:00-04:00"><committee name="House Committee on House Administration"/><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-04-26T14:10:00-04:00"><committee name="House Committee on House Administration"/><text>Laid on the table. See S.J. Res. 143 for further action.</text></action>
+		<action datetime="1994-05-05"><committee name="House Committee on House Administration"/><text>Sponsor introductory remarks on measure. (CR E859)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral" />
+		<committee code="" name="House Administration" subcommittee="Libraries and Memorials" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="sj" number="143" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal officials"/>
+		<term name="District of Columbia"/>
+		<term name="Executive departments"/>
+		<term name="Museums"/>
+		<term name="Smithsonian Institution"/>
+		<term name="Trusts and trustees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/19/1993--Introduced.
+Appoints Frank Anderson Shrontz of Washington to fill a vacancy on the Board of Regents of the Smithsonian Institution.
+
+	</summary>
+</bill>

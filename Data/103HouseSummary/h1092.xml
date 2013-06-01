@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="1092" updated="2010-04-19T01:58:17-04:00">
+	<state datetime="1993-02-24">REFERRED</state>
+	<status><introduced datetime="1993-02-24"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="official" as="introduced">To authorize financial assistance for the Northern Mariana Islands, and for other purposes.</title>
+	</titles>
+	<sponsor id="403314"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-23"><text>Sponsor introductory remarks on measure. (CR E417-418)</text></action>
+		<action datetime="1993-02-24"><text>Sponsor introductory remarks on measure. (CR E430)</text></action>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee On Insular and International Affairs.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Natural Resources"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Natural Resources"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Insular and International Affairs" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+		<bill relation="identical" session="103" type="s" number="558" />
+	</relatedbills>
+	<subjects>
+		<term name="Territories (U.S.)"/>
+		<term name="Capital investments"/>
+		<term name="Grants-in-aid"/>
+		<term name="Infrastructure (Economics)"/>
+		<term name="Northern Mariana Islands"/>
+		<term name="Treaties"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Provides that this Act shall constitute a commitment of the United States to provide a specified amount of direct grant assistance to the Government of the Northern Mariana Islands for capital infrastructure construction.
+
+	</summary>
+</bill>

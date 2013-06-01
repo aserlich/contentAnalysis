@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="2897" updated="2010-04-19T06:42:59-04:00">
+	<state datetime="1993-08-05">REFERRED</state>
+	<status><introduced datetime="1993-08-05"/></status>
+
+	<introduced datetime="1993-08-05"/>
+	<titles>
+		<title type="official" as="introduced">To suspend temporarily the duty on the personal effects of participants in, and certain other individuals associated with, the 1994 World Cup soccer games.</title>
+	</titles>
+	<sponsor id="409154"/>
+	<cosponsors>
+		<cosponsor id="400085" joined="1994-02-09"/>
+		<cosponsor id="400401" joined="1994-03-24"/>
+		<cosponsor id="401774" joined="1994-02-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-13"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1993-10-26"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+		<action datetime="1994-03-23"><committee name="House Committee on Ways and Means"/><text>For Further Action See H.R.4066.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4066" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Aliens"/>
+		<term name="Athletes"/>
+		<term name="Equipment and supplies"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to grant duty-free treatment, through September 30, 1994, of the personal effects of, and game associated equipment for use by, participants, their families and associated members, and officials involved in the 1994 FIFA World Cup soccer games.
+
+	</summary>
+</bill>

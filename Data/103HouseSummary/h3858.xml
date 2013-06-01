@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="3858" updated="2010-04-19T09:12:11-04:00">
+	<state datetime="1994-02-10">REFERRED</state>
+	<status><introduced datetime="1994-02-10"/></status>
+
+	<introduced datetime="1994-02-10"/>
+	<titles>
+		<title type="official" as="introduced">To extend the suspension of duty on certain diamond tool and drill blanks, and for other purposes.</title>
+	</titles>
+	<sponsor id="400327"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-10"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-03-03"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1994-03-08"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1994-06-08"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1323" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Diamonds"/>
+		<term name="Machinery"/>
+		<term name="Tariff"/>
+		<term name="Tools"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/1994--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to extend, through December 31, 1995, the suspension of duty on certain diamond tool and drill blanks.
+
+	</summary>
+</bill>

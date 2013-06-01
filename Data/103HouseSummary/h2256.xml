@@ -1,0 +1,38 @@
+<bill session="103" type="h" number="2256" updated="2010-04-19T05:03:40-04:00">
+	<state datetime="1993-05-25">REFERRED</state>
+	<status><introduced datetime="1993-05-25"/></status>
+
+	<introduced datetime="1993-05-25"/>
+	<titles>
+		<title type="short" as="introduced">Emergency Book Fund Act</title>
+		<title type="official" as="introduced">To provide emergency assistance to local public libraries for the purchase of books and other library materials and resources.</title>
+	</titles>
+	<sponsor id="400306"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-25"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-06-15"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Libraries"/>
+		<term name="Books"/>
+		<term name="Federal aid to libraries"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/25/1993--Introduced.
+Emergency Book Fund Act - Authorizes the Secretary of Education to allocate supplementary funds to State library administrative agencies for public libraries to use to purchase books and other library materials and resources. Authorizes appropriations.
+
+	</summary>
+</bill>

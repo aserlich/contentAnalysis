@@ -1,0 +1,41 @@
+<bill session="103" type="s" number="746" updated="2012-07-17T04:13:25-04:00">
+	<state datetime="1993-04-02">REFERRED</state>
+	<status><introduced datetime="1993-04-02"/></status>
+
+	<introduced datetime="1993-04-02"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide an investment tax credit for stage 3 aircraft.</title>
+	</titles>
+	<sponsor id="403142"/>
+	<cosponsors>
+		<cosponsor id="300067" joined="1993-04-19"/>
+		<cosponsor id="300011" joined="1993-04-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-02" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4410)</text></action>
+		<action datetime="1993-04-02" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1559" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Aircraft industry"/>
+		<term name="Airlines"/>
+		<term name="Environmental protection"/>
+		<term name="Investment tax credit"/>
+		<term name="Minimum tax"/>
+		<term name="Noise"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/2/1993--Introduced.
+Amends the Internal Revenue Code to allow businesses an investment tax credit for costs incurred for noise modification of aircraft from stage 2 levels to stage 3 levels. Allows such credit against the regular tax and alternative minimum tax.
+
+	</summary>
+</bill>

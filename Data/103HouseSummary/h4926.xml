@@ -1,0 +1,77 @@
+<bill session="103" type="h" number="4926" updated="2012-07-17T05:19:00-04:00">
+	<state datetime="1994-09-30T14:46:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-09-30T14:46:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-08-09"/>
+	<titles>
+		<title type="short" as="introduced">National Treatment in Banking Act of 1994</title>
+		<title type="short" as="reported to house">National Treatment in Banking Act of 1994</title>
+		<title type="short" as="passed house">National Treatment in Banking Act of 1994</title>
+		<title type="official" as="introduced">To require the Secretary of the Treasury to identify foreign countries which may be denying national treatment to United States banking organizations and to assess whether any such denial may be having a significant adverse effect on such organizations, and to require Federal banking agencies to take such assessments into account in considering applications by foreign banks under the International Banking Act of 1978 and the Bank Holding Company Act of 1956.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-09" state="REFERRED"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1994-08-30"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Financial Institutions Supervision, Regulation and Deposit Insurance.</text></action>
+		<action datetime="1994-08-30"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on International Development, Finance, Trade and Monetary Policy.</text></action>
+		<action datetime="1994-09-13"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-13"  state="REPORTED"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-09-19T19:45:00-04:00"><text>Reported (Amended) by the Committee on Banking, Finance + Urban Affrs. H. Rept. 103-727.</text></action>
+		<calendar number="404" datetime="1994-09-19T19:46:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 404.</text></calendar>
+		<action datetime="1994-09-23T12:47:00-04:00"><text>Rules Committee Resolution H. Res. 543 Reported to House. Rule provides for consideration of H.R. 4926 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Banking, Finance and Urban Affairs now printed in the bill. Measure will be read by section. Bill is open to amendments.</text></action>
+		<action datetime="1994-09-29T19:22:00-04:00"><text>Rule H. Res. 543 passed House.</text></action>
+		<action datetime="1994-09-30T14:28:00-04:00"><text>Considered under the provisions of rule H. Res. 543.</text><reference label="consideration" ref="CR H10409-10415"/></action>
+		<action datetime="1994-09-30T14:28:00-04:00"><text>Rule provides for consideration of H.R. 4926 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Banking, Finance and Urban Affairs now printed in the bill. Measure will be read by section. Bill is open to amendments.</text></action>
+		<action datetime="1994-09-30T14:28:00-04:00"><text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 543 and Rule XXIII.</text></action>
+		<action datetime="1994-09-30T14:28:00-04:00"><text>The Speaker designated the Honorable Thomas J. Barlow III to act as Chairman of the Committee.</text></action>
+		<action datetime="1994-09-30T14:29:00-04:00"><text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate.</text></action>
+		<action datetime="1994-09-30T14:44:00-04:00"><text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4926.</text></action>
+		<action datetime="1994-09-30T14:45:00-04:00"><text>The previous question was ordered pursuant to the rule.</text></action>
+		<action datetime="1994-09-30T14:45:00-04:00"><text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-09-30T14:46:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed by voice vote.</text></vote>
+		<action datetime="1994-09-30T14:46:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-09-30T14:46:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1994-09-30"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Read twice and referred to the Committee on Banking.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="Financial Institutions Supervision, Regulation and Deposit Insurance" activity="Referral" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="International Development, Finance, Trade and Monetary Policy" activity="Referral" />
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="103" type="hr" number="543" />
+		<bill relation="unknown" session="103" type="h" number="3248" />
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Administrative procedure"/>
+		<term name="American investments"/>
+		<term name="Bank holding companies"/>
+		<term name="Bank mergers"/>
+		<term name="Banking law"/>
+		<term name="Commerce"/>
+		<term name="Department of the Treasury"/>
+		<term name="Exports"/>
+		<term name="Financial services"/>
+		<term name="Foreign banks and banking"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Government operations and politics"/>
+		<term name="International affairs"/>
+		<term name="Reciprocity"/>
+		<term name="Restrictive trade practices"/>
+		<term name="Trade agreements"/>
+	</subjects>
+	<amendments>
+		<amendment number="h904"/>
+		<amendment number="h905"/>
+	</amendments>
+	<summary>
+	9/30/1994--Passed House amended. National Treatment in Banking Act of 1994 - Directs the Secretary of the Treasury to: (1) identify the extent to which foreign countries may be denying national treatment to U.S. banking organizations; and (2) assess whether the possible denial of national treatment to such banking organizations may be having a significant adverse effect upon them. Authorizes the Secretary to publish notice of such assessments in the Federal Register. Amends the International Banking Act of 1978, the Bank Holding Company Act of 1956, the Federal Deposit Insurance Act, and the National Bank Act to direct the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and the Comptroller of the Currency to take into account whether the Secretary has published such notice in the Federal Register when considering applications by foreign banks or other persons of a foreign country. Declares that no authority under this Act or any amendment it makes to any other law may be used to take any action with respect to a foreign country which is inconsistent with any bilateral or multilateral agreement that governs financial services in which such country is obligated to provide national treatment for U.S. banking organizations.
+
+	</summary>
+</bill>

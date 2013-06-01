@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="1736" updated="2010-04-19T03:42:37-04:00">
+	<state datetime="1993-04-20">REFERRED</state>
+	<status><introduced datetime="1993-04-20"/></status>
+
+	<introduced datetime="1993-04-20"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide that certain deductions of members of the National Guard or reserve units of the Armed Forces will be allowable in computing adjusted gross income.</title>
+	</titles>
+	<sponsor id="405855"/>
+	<cosponsors>
+		<cosponsor id="300055" joined="1994-03-03"/>
+		<cosponsor id="406431" joined="1994-03-03"/>
+		<cosponsor id="400500" joined="1994-03-23"/>
+		<cosponsor id="404587" joined="1994-03-03"/>
+		<cosponsor id="402750" joined="1994-03-23"/>
+		<cosponsor id="409205" joined="1994-03-03"/>
+		<cosponsor id="400649" joined="1994-05-19"/>
+		<cosponsor id="400391" joined="1994-05-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-20"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1026" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Armed forces reserves"/>
+		<term name="Food"/>
+		<term name="National Guard"/>
+		<term name="Tax deductions"/>
+		<term name="Travel costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/20/1993--Introduced.
+Amends the Internal Revenue Code to permit an individual taxpayer an income tax deduction for travel, meals, lodging, transportation, and uniform expenses paid or incurred in connection with the taxpayer's performance of services as a member of the armed forces reserves or the National Guard.
+
+	</summary>
+</bill>

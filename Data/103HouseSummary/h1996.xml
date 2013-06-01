@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="1996" updated="2010-04-19T04:23:25-04:00">
+	<state datetime="1993-05-05">REFERRED</state>
+	<status><introduced datetime="1993-05-05"/></status>
+
+	<introduced datetime="1993-05-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 10, United States Code, to strengthen the restrictions on the overhaul, repair, and maintenance of naval vessels in foreign shipyards.</title>
+	</titles>
+	<sponsor id="400091"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-05-05"/>
+		<cosponsor id="400420" joined="1993-05-19"/>
+		<cosponsor id="400160" joined="1993-05-20"/>
+		<cosponsor id="400191" joined="1993-05-05"/>
+		<cosponsor id="401383" joined="1993-05-05"/>
+		<cosponsor id="404375" joined="1993-05-05"/>
+		<cosponsor id="404097" joined="1993-05-26"/>
+		<cosponsor id="402152" joined="1993-09-08"/>
+		<cosponsor id="400601" joined="1993-05-05"/>
+		<cosponsor id="400012" joined="1993-06-08"/>
+		<cosponsor id="409627" joined="1993-05-05"/>
+		<cosponsor id="406554" joined="1993-05-20"/>
+		<cosponsor id="400314" joined="1993-05-11"/>
+		<cosponsor id="400278" joined="1993-05-11"/>
+		<cosponsor id="400583" joined="1993-05-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-05"><text>Sponsor introductory remarks on measure. (CR E1146)</text></action>
+		<action datetime="1993-05-05"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-05-11"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Readiness.</text></action>
+		<action datetime="1993-05-11"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-03" name="House Armed Services" subcommittee="Readiness" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Buy American"/>
+		<term name="Foreign trade"/>
+		<term name="Maintenance and repair"/>
+		<term name="Shipbuilding"/>
+		<term name="Warships"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/5/1993--Introduced.
+Prohibits any naval vessel (currently, any vessel the homeport of which is in the United States) from being overhauled, repaired, or maintained in a shipyard outside the United States.
+
+	</summary>
+</bill>

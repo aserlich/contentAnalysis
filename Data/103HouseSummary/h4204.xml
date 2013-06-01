@@ -1,0 +1,63 @@
+<bill session="103" type="h" number="4204" updated="2010-04-19T10:06:17-04:00">
+	<state datetime="1994-05-16">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-05-16" /></status>
+
+	<introduced datetime="1994-04-13"/>
+	<titles>
+		<title type="official" as="introduced">To designate the Federal building located at 711 Washington Street in Boston, Massachusetts, as the &quot;Jean Mayer Human Nutrition Research Center on Aging&quot;.</title>
+	</titles>
+	<sponsor id="400600"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-13"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-04-21"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Public Buildings and Grounds.</text></action>
+		<action datetime="1994-04-21"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-04-21"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-04-21"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1994-04-26T14:10:00-04:00"><committee name="House Committee on Public Works + Transportation"/><text>Mr. Nadler moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-04-26T14:10:00-04:00"><committee name="House Committee on Public Works + Transportation"/><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2755-2756"/></action>
+		<action datetime="1994-04-26T14:10:00-04:00"><committee name="House Committee on Public Works + Transportation"/><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-04-26T14:14:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><committee name="House Committee on Public Works + Transportation"/><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1994-04-26T14:14:00-04:00"><committee name="House Committee on Public Works + Transportation"/><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-05-02"><committee name="House Committee on Public Works + Transportation"/><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-05-03" where="s" result="pass"  state="PASSED:BILL"><committee name="House Committee on Public Works + Transportation"/><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S5107"/></vote>
+		<topresident datetime="1994-05-03" ><committee name="House Committee on Public Works + Transportation"/><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-05-04"><committee name="House Committee on Public Works + Transportation"/><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-05-06" ><committee name="House Committee on Public Works + Transportation"/><text>Presented to President.</text></topresident>
+		<signed datetime="1994-05-16" ><committee name="House Committee on Public Works + Transportation"/><text>Signed by President.</text></signed>
+		<enacted number="103-249" type="public" datetime="1994-05-16"  state="ENACTED:SIGNED"><committee name="House Committee on Public Works + Transportation"/><text>Became Public Law No: 103-249.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Public Buildings and Grounds" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public buildings"/>
+		<term name="Aged"/>
+		<term name="Commemorations"/>
+		<term name="Federal office buildings"/>
+		<term name="Food"/>
+		<term name="Geriatrics"/>
+		<term name="Massachusetts"/>
+		<term name="Medical care"/>
+		<term name="Medical research"/>
+		<term name="Medicine"/>
+		<term name="Names"/>
+		<term name="Nutrition"/>
+		<term name="Research centers"/>
+		<term name="Science policy"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/13/1994--Introduced.
+Designates the Federal building located at 711 Washington Street, Boston, Massachusetts, as the Jean Mayer Human Nutrition Research Center on Aging.
+
+	</summary>
+</bill>

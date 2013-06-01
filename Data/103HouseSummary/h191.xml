@@ -1,0 +1,162 @@
+<bill session="103" type="h" number="191" updated="2010-04-18T23:29:42-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="popular" as="">Health Care Reform bill</title>
+		<title type="short" as="introduced">American Consumers Health Care Reform Act of 1993</title>
+		<title type="official" as="introduced">To reform the United States health care delivery and financing system, to increase access to health care and affordable health insurance, to contain costs of health care in a manner that improves health care, and for other purposes.</title>
+	</titles>
+	<sponsor id="400544"/>
+	<cosponsors>
+		<cosponsor id="401547" joined="1993-01-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-25"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-02-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1993-02-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1993-02-11"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+		<action datetime="1994-08-02"><committee name="House Committee on Judiciary"/><text>See H.R.3600.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Commerce, Consumer Protection, and Competitiveness" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3600" />
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Accident prevention"/>
+		<term name="Actions and defenses"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Alcoholism"/>
+		<term name="Aliens"/>
+		<term name="Antitrust policy"/>
+		<term name="Authorization"/>
+		<term name="Business records"/>
+		<term name="Child health"/>
+		<term name="Cholesterol"/>
+		<term name="Claims"/>
+		<term name="Coinsurance"/>
+		<term name="Community health services"/>
+		<term name="Computer networks"/>
+		<term name="Computers"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Consumer education"/>
+		<term name="Cost control"/>
+		<term name="Cost effectiveness"/>
+		<term name="Damages"/>
+		<term name="Diet"/>
+		<term name="Discrimination in insurance"/>
+		<term name="Drugs"/>
+		<term name="Education"/>
+		<term name="Electronic data processing"/>
+		<term name="Employee health benefits"/>
+		<term name="Evidence (Law)"/>
+		<term name="Excise tax"/>
+		<term name="Executive reorganization"/>
+		<term name="Families"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to health facilities"/>
+		<term name="Federal aid to maternal health services"/>
+		<term name="Federal aid to medical research"/>
+		<term name="Federal aid to nursing education"/>
+		<term name="Federal preemption"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Financial statements"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Government paperwork"/>
+		<term name="Health education"/>
+		<term name="Health insurance"/>
+		<term name="Health maintenance organizations"/>
+		<term name="Home care services"/>
+		<term name="Homeless"/>
+		<term name="House rules and procedure"/>
+		<term name="Hypertension"/>
+		<term name="Income"/>
+		<term name="Income tax"/>
+		<term name="Information storage and retrieval systems"/>
+		<term name="Insurance companies"/>
+		<term name="Insurance premiums"/>
+		<term name="Insurance rates"/>
+		<term name="Legal fees"/>
+		<term name="Legislation"/>
+		<term name="Legislative resolutions"/>
+		<term name="Liability (Law)"/>
+		<term name="Licenses"/>
+		<term name="Limitation of actions"/>
+		<term name="Long-term care"/>
+		<term name="Malpractice"/>
+		<term name="Managed care"/>
+		<term name="Maternal health services"/>
+		<term name="Mediation"/>
+		<term name="Medicaid"/>
+		<term name="Medical associations"/>
+		<term name="Medical education"/>
+		<term name="Medical ethics"/>
+		<term name="Medical malpractice insurance"/>
+		<term name="Medical records"/>
+		<term name="Medical statistics"/>
+		<term name="Medical supplies"/>
+		<term name="Medical technology"/>
+		<term name="Medicare"/>
+		<term name="National health insurance"/>
+		<term name="Nursing education"/>
+		<term name="Nursing homes"/>
+		<term name="Nutrition"/>
+		<term name="Nutrition policy"/>
+		<term name="Obesity"/>
+		<term name="Obstetrics"/>
+		<term name="Physicians"/>
+		<term name="Poor"/>
+		<term name="Pregnant women"/>
+		<term name="Presidential appointments"/>
+		<term name="Pretrial procedure"/>
+		<term name="Preventive medicine"/>
+		<term name="Prospective payment systems (Medical care)"/>
+		<term name="Public assistance programs"/>
+		<term name="Punitive damages"/>
+		<term name="Risk assessment"/>
+		<term name="Savings accounts"/>
+		<term name="Seat belts"/>
+		<term name="Self-employed"/>
+		<term name="Self-insurance"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Small business"/>
+		<term name="Smoking"/>
+		<term name="Social security eligibility"/>
+		<term name="Standards"/>
+		<term name="State laws"/>
+		<term name="Student loan funds"/>
+		<term name="Tax deductions"/>
+		<term name="Tax exclusion"/>
+		<term name="Tax penalties"/>
+		<term name="Vaccination"/>
+		<term name="Volunteer workers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+TABLE OF CONTENTS: Title I: Immediate Health Care Reforms Title II: National Health Care Reform Proposals American Consumers Health Care Reform Act of 1993 - Title I: Immediate Health Care Reforms - (Sec. 101) Amends title XIX (Medicaid) of the Social Security Act to modify eligibility, coverage, and cost-sharing requirements and the Federal medical assistance percentage. Terminates certain payments to States. Mandates standards for long-term care plans. Establishes an assistance program for Medicaid acute care services and cost-sharing. Requires Medicaid payments for certain services to be the same as under title XVIII (Medicare) of the Social Security Act. Mandates encouragement of managed care. (Sec. 111) Provides for the consolidation of Medicare parts A (Hospital Insurance) and B (Supplementary Medical Insurance) administration. (Sec. 121) Preempts State mandatory benefits and anti-managed care laws. Restricts preexisting condition limitations. Institutes small employer insurance market reforms. (Sec. 127) Amends the Internal Revenue Code to impose a tax on the failure of carriers or small employers to comply with standards. (Sec. 131) Provides for medical malpractice reforms. (Sec. 171) Amends the Social Security Act to authorize appropriations regarding research on outcomes of health care services and procedures. (Sec. 181) Amends Medicare and Public Health Service Act provisions to provide for primary care physician education. (Sec. 183) Mandates health care delivery system reforms. (Sec. 187) Provides for the consolidation of Federal nutrition activities. (Sec. 188) Establishes demonstration projects on informed decision making regarding the use of expensive life-sustaining technology. Authorizes appropriations. (Sec. 191) Mandates standards for the collection and disclosure of health care data. Authorizes appropriations. (Sec. 198) Amends the Internal Revenue Code to allow businesses, employees, and self-employed individuals deductions for health coverage, up to the minimum benefit package. Title II: National Health Care Reform Proposals - (Sec. 201) Establishes the National Health Care Reform Commission to develop national health care goals to improve access to health care, safeguard and improve quality, and control costs. (Sec. 211) Establishes demonstration projects on alternative structures for the U.S. health care financing and delivery system.
+
+	</summary>
+</bill>

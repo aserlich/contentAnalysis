@@ -1,0 +1,69 @@
+<bill session="103" type="h" number="1819" updated="2010-04-19T03:55:42-04:00">
+	<state datetime="1993-04-22">REFERRED</state>
+	<status><introduced datetime="1993-04-22"/></status>
+
+	<introduced datetime="1993-04-22"/>
+	<titles>
+		<title type="short" as="introduced">Federal Environmentally Efficient Building Materials Act of 1993</title>
+		<title type="official" as="introduced">To promote research on, and development, acquisition, and use of, environmentally efficient materials in the construction, repair, and maintenance of Federal buildings.</title>
+	</titles>
+	<sponsor id="404083"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-05-24"/>
+		<cosponsor id="400126" joined="1993-05-24"/>
+		<cosponsor id="400295" joined="1993-05-24"/>
+		<cosponsor id="400409" joined="1993-05-24"/>
+		<cosponsor id="400143" joined="1993-05-24"/>
+		<cosponsor id="406482" joined="1993-05-24"/>
+		<cosponsor id="405524" joined="1993-05-24"/>
+		<cosponsor id="410407" joined="1993-05-24"/>
+		<cosponsor id="400425" joined="1993-05-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-22"><text>Sponsor introductory remarks on measure. (CR H2001)</text></action>
+		<action datetime="1993-04-22"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-04-22"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Technology, Environment and Aviation.</text></action>
+		<action datetime="1993-05-06"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Public Buildings and Grounds.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Public Buildings and Grounds" activity="Referral" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Technology, Environment and Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="817" />
+	</relatedbills>
+	<subjects>
+		<term name="Public buildings"/>
+		<term name="Administrative procedure"/>
+		<term name="Building construction"/>
+		<term name="Building materials"/>
+		<term name="Conservation of natural resources"/>
+		<term name="Energy conservation"/>
+		<term name="Energy efficiency"/>
+		<term name="Energy policy"/>
+		<term name="Environmental Protection Agency"/>
+		<term name="Environmental protection"/>
+		<term name="Environmental research"/>
+		<term name="Executive departments"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal installations"/>
+		<term name="Federal office buildings"/>
+		<term name="Government procurement"/>
+		<term name="Materials research"/>
+		<term name="Recycling of waste products"/>
+		<term name="Research and development"/>
+		<term name="Standards"/>
+		<term name="Waste reduction"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/22/1993--Introduced.
+Federal Environmentally Efficient Building Materials Act of 1993 - Directs the Administrator of the Environmental Protection Agency to establish a three-year pilot program to promote research on, and development of, environmentally efficient building materials through use of such materials in new and existing Federal facilities and buildings. Sets forth selection criteria for such materials. Establishes the Environmentally Efficient Building Material Advisory Board. Directs the Administrator to promulgate guidelines for Federal agencies on minimizing the creation of solid waste and maximizing the use of environmentally efficient building materials.
+
+	</summary>
+</bill>

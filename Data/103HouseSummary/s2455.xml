@@ -1,0 +1,67 @@
+<bill session="103" type="s" number="2455" updated="2012-07-17T06:02:01-04:00">
+	<state datetime="1994-09-23">REPORTED</state>
+	<status><calendar datetime="1994-09-23" /></status>
+
+	<introduced datetime="1994-09-22"/>
+	<titles>
+		<title type="short" as="introduced">High Seas Fisheries Licensing Act of 1994</title>
+		<title type="short" as="reported to senate">High Seas Fisheries Licensing Act of 1994</title>
+		<title type="official" as="introduced">A bill to establish a system of licensing, reporting, and regulation for vessels of the United States fishing on the high seas.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1994-09-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-22" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S13298)</text></action>
+		<action datetime="1994-09-22" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<calendar datetime="1994-09-23"  state="REPORTED"><committee name="Committee on Commerce"/><text>Committee on Commerce. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1994-09-28"><text>Committee on Commerce. Reported to Senate by Senator Hollings with amendments. Without written report.</text></action>
+		<calendar under="General Orders" number="673" datetime="1994-09-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 673.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Fisheries"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Arrest"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Data banks"/>
+		<term name="Department of Commerce"/>
+		<term name="District courts"/>
+		<term name="Environmental protection"/>
+		<term name="Fees"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Fishery agreements"/>
+		<term name="Fishery management"/>
+		<term name="Fishing boats"/>
+		<term name="Foreign fishing"/>
+		<term name="Forfeiture"/>
+		<term name="Fraud"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="International affairs"/>
+		<term name="International fishery management"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Jurisdiction"/>
+		<term name="Law"/>
+		<term name="Licenses"/>
+		<term name="Liens"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Science, technology, communications"/>
+		<term name="Searches and seizures"/>
+		<term name="Seizure of vessels and cargoes"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/28/1994--Reported to Senate amended. High Seas Fisheries Licensing Act of 1994 - Prohibits a high seas vessel from engaging in harvesting operations on the high seas unless the vessel has on board a valid license issued under this Act. Makes any U.S. vessel eligible to receive such a license unless the vessel was previously authorized to be used for fishing on the high seas by a foreign nation and such nation suspended or, within the last three years preceding application for a license, withdrew such authorization because the vessel undermined the effectiveness of international conservation and management measures. Makes such restriction inapplicable in cases where the Secretary of Commerce determines that issuing a license would not subvert the Agreement to Promote Compliance with International Conservation and Management Measures by Fishing Vessels on the High Seas. Sets forth application and fee provisions. Directs the Secretary to maintain a record of high seas vessels issued licenses under this Act and to notify the flag state if a foreign vessel has engaged in activities undermining the effectiveness of international conservation and management measures. Sets forth enforcement and penalty provisions.
+
+	</summary>
+</bill>

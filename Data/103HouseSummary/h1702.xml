@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="1702" updated="2010-04-19T03:37:06-04:00">
+	<state datetime="1993-04-07">REFERRED</state>
+	<status><introduced datetime="1993-04-07"/></status>
+
+	<introduced datetime="1993-04-07"/>
+	<titles>
+		<title type="short" as="introduced">Government Procurement Act of 1993</title>
+		<title type="official" as="introduced">Entitled the &quot;Government Procurement Act of 1993&quot;.</title>
+	</titles>
+	<sponsor id="401383"/>
+	<cosponsors>
+		<cosponsor id="400155" joined="1994-02-23"/>
+		<cosponsor id="411065" joined="1993-04-07"/>
+		<cosponsor id="407817" joined="1993-05-06"/>
+		<cosponsor id="412001" joined="1993-11-19"/>
+		<cosponsor id="402152" joined="1993-07-29"/>
+		<cosponsor id="411997" joined="1993-11-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-07"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-04-07"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-04-09"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-04-15"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Acquisition.</text></action>
+		<action datetime="1993-04-15"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Acquisition" activity="Referral" />
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public contracts"/>
+		<term name="Cost control"/>
+		<term name="Defense procurement"/>
+		<term name="Government procurement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/7/1993--Introduced.
+Government Procurement Act of 1993 - Amends the Federal Property and Administrative Services Act of 1949 and Federal law pertaining to the armed forces to direct Federal agency heads, in evaluating an offeror's price contained in any bid or proposal for any procurement in excess of $100,000, to treat as containing the lowest price the bid or proposal which will yield the lowest net cost to the Government. Directs such Federal officials, in determining the net costs to the Government, to deduct from the offeror's price any receipts which are likely to accrue to the Government through the offeror's performance of the procurement contract.
+
+	</summary>
+</bill>

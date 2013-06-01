@@ -1,0 +1,45 @@
+<bill session="103" type="s" number="465" updated="2012-07-17T05:58:06-04:00">
+	<state datetime="1993-02-25">REFERRED</state>
+	<status><introduced datetime="1993-02-25"/></status>
+
+	<introduced datetime="1993-02-25"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to encourage the production of biodiesel and certain ethanol fuels, and for other purposes.</title>
+	</titles>
+	<sponsor id="300031"/>
+	<cosponsors>
+		<cosponsor id="400561" joined="1993-03-09"/>
+		<cosponsor id="403669" joined="1993-04-19"/>
+		<cosponsor id="403962" joined="1993-05-20"/>
+		<cosponsor id="300010" joined="1993-06-16"/>
+		<cosponsor id="300051" joined="1993-11-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-25" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2147-2148)</text></action>
+		<action datetime="1993-02-25" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Alcohol as fuel"/>
+		<term name="Biomass energy"/>
+		<term name="Diesel motor"/>
+		<term name="Energy policy"/>
+		<term name="Energy tax credits"/>
+		<term name="Minimum tax"/>
+		<term name="Tax exclusion"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/25/1993--Introduced.
+Amends the Internal Revenue Code to allow a portion of the alcohol fuels credit to offset the tentative minimum tax. Allows an alcohol fuels credit for the production of biodiesel fuel. Excludes from gross income the alcohol fuels credit attributable to biodiesels and certain ethanol-based ethers.
+
+	</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="103" type="h" number="1875" updated="2010-04-19T04:04:31-04:00">
+	<state datetime="1993-04-28">REFERRED</state>
+	<status><introduced datetime="1993-04-28"/></status>
+
+	<introduced datetime="1993-04-28"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 with respect to the treatment of certain domestic services under the unemployment tax.</title>
+	</titles>
+	<sponsor id="400554"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-28"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-07"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Household workers"/>
+		<term name="Unemployment insurance"/>
+		<term name="Withholding tax"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/28/1993--Introduced.
+Amends the Internal Revenue Code to exclude certain domestic services providing personal attendance, companionship, or household care from the unemployment tax.
+
+	</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="676" updated="2010-04-19T00:48:23-04:00">
+	<state datetime="1993-01-27">REFERRED</state>
+	<status><introduced datetime="1993-01-27"/></status>
+
+	<introduced datetime="1993-01-27"/>
+	<titles>
+		<title type="short" as="introduced">Educational Equity Act of 1993</title>
+		<title type="official" as="introduced">To amend the amount of grants received under chapter 1 of title I of the Elementary and Secondary Education Act of 1965.</title>
+	</titles>
+	<sponsor id="400552"/>
+	<cosponsors>
+		<cosponsor id="406873" joined="1994-02-23"/>
+		<cosponsor id="404587" joined="1993-04-01"/>
+		<cosponsor id="408364" joined="1993-01-27"/>
+		<cosponsor id="405313" joined="1993-03-18"/>
+		<cosponsor id="409829" joined="1993-01-27"/>
+		<cosponsor id="400083" joined="1993-03-18"/>
+		<cosponsor id="400615" joined="1993-03-23"/>
+		<cosponsor id="400012" joined="1993-03-18"/>
+		<cosponsor id="400610" joined="1993-04-01"/>
+		<cosponsor id="400240" joined="1993-03-18"/>
+		<cosponsor id="405258" joined="1993-04-28"/>
+		<cosponsor id="406554" joined="1993-03-18"/>
+		<cosponsor id="403864" joined="1993-04-01"/>
+		<cosponsor id="411997" joined="1993-03-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-27"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-02-11"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="14" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Education of socially handicapped children"/>
+		<term name="Educational equalization"/>
+		<term name="Elementary education"/>
+		<term name="Federal aid to education"/>
+		<term name="Secondary education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/1993--Introduced.
+Educational Equity Act of 1993 - Amends the Elementary and Secondary Education Act of 1965 to revise the formula for determining the amount of grants to States for educationally disadvantaged children (chapter 1 program). Replaces the State per pupil expenditure with the national average per pupil expenditure in such formula.
+
+	</summary>
+</bill>

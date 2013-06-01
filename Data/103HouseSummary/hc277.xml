@@ -1,0 +1,65 @@
+<bill session="103" type="hc" number="277" updated="2010-04-18T21:44:21-04:00">
+	<state datetime="1994-08-04">REFERRED</state>
+	<status><introduced datetime="1994-08-04"/></status>
+
+	<introduced datetime="1994-08-04"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress regarding the prerogatives of each State for health care reform.</title>
+	</titles>
+	<sponsor id="400182"/>
+	<cosponsors>
+		<cosponsor id="400414" joined="1994-08-04"/>
+		<cosponsor id="400015" joined="1994-08-04"/>
+		<cosponsor id="400510" joined="1994-08-04"/>
+		<cosponsor id="400380" joined="1994-08-04"/>
+		<cosponsor id="400036" joined="1994-08-04"/>
+		<cosponsor id="400267" joined="1994-08-04"/>
+		<cosponsor id="300151" joined="1994-08-04"/>
+		<cosponsor id="403545" joined="1994-08-04"/>
+		<cosponsor id="400225" joined="1994-08-04"/>
+		<cosponsor id="400551" joined="1994-08-04"/>
+		<cosponsor id="400560" joined="1994-08-04"/>
+		<cosponsor id="400586" joined="1994-08-04"/>
+		<cosponsor id="400265" joined="1994-08-04"/>
+		<cosponsor id="410887" joined="1994-08-04"/>
+		<cosponsor id="400252" joined="1994-08-21"/>
+		<cosponsor id="400583" joined="1994-08-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-04"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-08-04"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-08-25"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1994-08-30"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Congress"/>
+		<term name="Elections"/>
+		<term name="Federal-state relations"/>
+		<term name="Health care reform"/>
+		<term name="Health policy"/>
+		<term name="Legislation"/>
+		<term name="National health insurance"/>
+		<term name="Politics and government"/>
+		<term name="Referendum"/>
+		<term name="State and local government"/>
+		<term name="State politics and government"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/4/1994--Introduced.
+Expresses the sense of the Congress that legislation providing for a national program for health care reform which would restrict the freedom of any individual State in setting its own course toward health care reform that is reflective of the unique experience of such State, should provide for the inclusion of such State only upon approval by a majority of the voters in a State referendum.
+
+	</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="103" type="s" number="1716" updated="2012-07-17T04:04:31-04:00">
+	<state datetime="1993-12-14">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-14" /></status>
+
+	<introduced datetime="1993-11-19"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Thomas Jefferson Commemoration Commission Act to extend the deadlines for reports.</title>
+	</titles>
+	<sponsor id="400564"/>
+	<cosponsors>
+		<cosponsor id="300099" joined="1993-11-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-19" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S16464-16465)</text></action>
+		<action datetime="1993-11-19" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-11-20"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S16893"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text></vote>
+		<action datetime="1993-11-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-21T14:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-21T17:48:00-05:00"><text>Mr. Sawyer moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-11-21T17:49:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10575-10576"/></action>
+		<action datetime="1993-11-21T17:49:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote2" datetime="1993-11-21T17:54:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-21T17:54:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-11-21" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-12-08" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-14" ><text>Signed by President.</text></signed>
+		<enacted number="103-191" type="public" datetime="1993-12-14"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-191.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Anniversaries"/>
+		<term name="Auditing"/>
+		<term name="Commemorations"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/19/1993--Introduced.
+Amends the Thomas Jefferson Commemoration Commission Act to extend the deadlines for the Commission's interim and final reports to the President and the Congress to March 15, 1994, and December 31, 1994. Extends the deadline for the Inspector General of the General Services Administration to report to the President and the Congress on the results of any audit of the financial transactions of the Commission to March 15, 1994 (and to March 3, 1995, for the report on any such audit of transactions between March 15, 1994, and December 31, 1994).
+
+	</summary>
+</bill>

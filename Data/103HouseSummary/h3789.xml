@@ -1,0 +1,74 @@
+<bill session="103" type="h" number="3789" updated="2010-04-19T09:01:24-04:00">
+	<state datetime="1994-02-03">REFERRED</state>
+	<status><introduced datetime="1994-02-03"/></status>
+
+	<introduced datetime="1994-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Budget Accountability Act of 1994</title>
+		<title type="official" as="introduced">To terminate Federal programs that are not reauthorized by the Congress.</title>
+	</titles>
+	<sponsor id="400560"/>
+	<cosponsors>
+		<cosponsor id="400149" joined="1994-02-03"/>
+		<cosponsor id="400242" joined="1994-02-03"/>
+		<cosponsor id="400113" joined="1994-02-03"/>
+		<cosponsor id="400176" joined="1994-04-13"/>
+		<cosponsor id="400116" joined="1994-02-03"/>
+		<cosponsor id="300151" joined="1994-02-03"/>
+		<cosponsor id="411247" joined="1994-02-03"/>
+		<cosponsor id="403545" joined="1994-02-08"/>
+		<cosponsor id="400225" joined="1994-02-03"/>
+		<cosponsor id="400206" joined="1994-02-03"/>
+		<cosponsor id="400017" joined="1994-02-03"/>
+		<cosponsor id="400551" joined="1994-02-03"/>
+		<cosponsor id="400057" joined="1994-02-03"/>
+		<cosponsor id="400343" joined="1994-02-03"/>
+		<cosponsor id="400012" joined="1994-04-13"/>
+		<cosponsor id="406790" joined="1994-02-09"/>
+		<cosponsor id="400583" joined="1994-02-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-03"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-02-03"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1994-02-03"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-02-07"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Administrative procedure"/>
+		<term name="Appropriations"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Congressional committees (House)"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Congressional sessions"/>
+		<term name="Economic policy"/>
+		<term name="Executive departments"/>
+		<term name="House rules and procedure"/>
+		<term name="Income tax"/>
+		<term name="Legislation"/>
+		<term name="Legislative resolutions"/>
+		<term name="Planning-programming-budgeting"/>
+		<term name="Public debt"/>
+		<term name="Sunset legislation"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1994--Introduced.
+Budget Accountability Act of 1994 - Provides for the termination of Federal programs that are not reauthorized by the Congress. Amends the Rules of the House of Representatives to prohibit the consideration of legislation that does not contain an authorization period for the use of appropriated amounts. Prohibits the imposition of any tax unless a later date for such tax to terminate is specified by law. Amends the Rules of the House of Representatives to prohibit the consideration of such legislation. Expresses the sense of the Congress that: (1) the House rule concerning the reporting requirements in general appropriations bills should be vigorously applied; (2) laws that affect the Federal revenue should be periodically reviewed by the appropriate congressional committees to determine, based on the health of the economy, whether such laws should continue in effect; and (3) reducing the debt of the Federal Government is critical to the long-term health of the economy.
+
+	</summary>
+</bill>

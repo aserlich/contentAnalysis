@@ -1,0 +1,40 @@
+<bill session="103" type="s" number="142" updated="2012-07-17T04:14:11-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide that the Secretary of Commerce shall not set minimum or maximum amounts on grants made for the purpose of providing financial assistance to States whose tourism promotion needs have increased due to Hurricane Andrew, Hurricane Iniki, or other disasters.</title>
+	</titles>
+	<sponsor id="300056"/>
+	<cosponsors>
+		<cosponsor id="300001" joined="1993-02-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="990" />
+	</relatedbills>
+	<subjects>
+		<term name="Disasters"/>
+		<term name="Disaster relief"/>
+		<term name="Florida"/>
+		<term name="Grants-in-aid"/>
+		<term name="Hawaii"/>
+		<term name="Hurricanes"/>
+		<term name="Louisiana"/>
+		<term name="Tourist trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Prohibits the Secretary of Commerce, in providing grants to cover the costs of tourism promotion needs arising from Hurricane Andrew, Hurricane Iniki, or other disasters, from establishing or enforcing maximum or minimum dollar amounts of assistance to be made available to an individual or to a State.
+
+	</summary>
+</bill>

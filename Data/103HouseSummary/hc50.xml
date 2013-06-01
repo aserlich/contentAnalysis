@@ -1,0 +1,40 @@
+<bill session="103" type="hc" number="50" updated="2010-04-18T21:08:26-04:00">
+	<state datetime="1993-02-23">REFERRED</state>
+	<status><introduced datetime="1993-02-23"/></status>
+
+	<introduced datetime="1993-02-23"/>
+	<titles>
+		<title type="official" as="introduced">To provide for the display of the flag commemorating the 50th Anniversary of World War II in the rotunda of the Capitol.</title>
+	</titles>
+	<sponsor id="400377"/>
+	<cosponsors>
+		<cosponsor id="403864" joined="1993-02-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-23"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Libraries and Memorials.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Libraries and Memorials" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public buildings"/>
+		<term name="Anniversaries"/>
+		<term name="Capitol (Washington, D.C.)"/>
+		<term name="Commemorations"/>
+		<term name="Flags"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/1993--Introduced.
+Requires the Architect of the Capitol to display the flag commemorating the 50th Anniversary of World War II in the rotunda of the Capitol until November 11, 1995.
+
+	</summary>
+</bill>

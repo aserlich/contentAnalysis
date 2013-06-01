@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="3577" updated="2010-04-19T08:28:22-04:00">
+	<state datetime="1993-11-19">REFERRED</state>
+	<status><introduced datetime="1993-11-19"/></status>
+
+	<introduced datetime="1993-11-19"/>
+	<titles>
+		<title type="short" as="introduced">Center for Rare Disease Research Act of 1993</title>
+		<title type="official" as="introduced">To establish a Center for Rare Disease Research in the National Institutes of Health, and for other purposes.</title>
+	</titles>
+	<sponsor id="411350"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1994-03-16"/>
+		<cosponsor id="404296" joined="1993-11-19"/>
+		<cosponsor id="400409" joined="1993-11-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-19"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-01-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5173" />
+		<bill relation="identical" session="103" type="s" number="1203" />
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Budgets"/>
+		<term name="Data banks"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Diseases"/>
+		<term name="Executive departments"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to medical research"/>
+		<term name="Government information"/>
+		<term name="Medical research"/>
+		<term name="Medicine"/>
+		<term name="Research centers"/>
+		<term name="Science policy"/>
+		<term name="Technology"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/19/1993--Introduced.
+Center for Rare Disease Research Act of 1993 - Amends the Public Health Service Act to establish in the Office of the Director of the National Institutes of Health a Center for Rare Disease Research in order to promote and coordinate the conduct of research on rare diseases and to establish and maintain a rare disease clinical data base. Authorizes appropriations.
+
+	</summary>
+</bill>

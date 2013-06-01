@@ -1,0 +1,52 @@
+<bill session="103" type="s" number="884" updated="2010-04-19T16:48:14-04:00">
+	<state datetime="1993-05-04">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-05-04" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-05-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to make technical amendments to the Higher Education Act of 1965 and the Carl D. Perkins Vocational and Applied Technology Act.</title>
+	</titles>
+	<sponsor id="408597"/>
+	<cosponsors>
+		<cosponsor id="300059" joined="1993-05-04"/>
+		<cosponsor id="300057" joined="1993-05-04"/>
+		<cosponsor id="406188" joined="1993-05-04"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-05-04" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S5473-5474"/></vote>
+		<action datetime="1993-05-05T13:23:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-05-05"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-05-05"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-05-18"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+		<action datetime="1993-05-18"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Postsecondary Education and Training.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral" />
+		<committee code="" name="House Education and Labor" subcommittee="Postsecondary Education and Training" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Educational innovations"/>
+		<term name="Federal aid to adult education"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Graduate education"/>
+		<term name="Hawaii"/>
+		<term name="Names"/>
+		<term name="Regional educational laboratories"/>
+		<term name="Scholarships"/>
+		<term name="Standards"/>
+		<term name="Teachers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/4/1993--Introduced.
+Amends the Higher Education Act of 1965 (HEA) to revise provisions for cooperative education grants to institutions and other entities with respect to: (1) reservation of funds for certain grant awards; (2) subsequent participation of certain grantees; (3) priority in awarding grants; (4) Federal share; and (5) availability of appropriations. Directs the Secretary of Education to apply the provisions of specified graduate fellowship programs under HEA as they were in effect on July 22, 1992, for the remainder of such multiyear fellowship assistance for any individual who received such assistance in FY 1992. Revises HEA provisions for the National Board for Professional Teaching Standards with respect to a matching funds requirement. Amends the Carl D. Perkins Vocational and Applied Technology Education Act with respect to: (1) the Pacific Regional Educational Laboratory; and (2) distribution of funds to postsecondary and adult programs.
+
+	</summary>
+</bill>

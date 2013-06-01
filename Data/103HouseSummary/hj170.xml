@@ -1,0 +1,38 @@
+<bill session="103" type="hj" number="170" updated="2010-04-18T22:17:50-04:00">
+	<state datetime="1993-03-31">REFERRED</state>
+	<status><introduced datetime="1993-03-31"/></status>
+
+	<introduced datetime="1993-03-31"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States limiting the number of consecutive terms a person may serve as a Representative or Senator, which shall be known as the Citizen Representative Reform Act New Blood Provision.</title>
+	</titles>
+	<sponsor id="400298"/>
+	<cosponsors>
+		<cosponsor id="400017" joined="1993-03-31"/>
+		<cosponsor id="400649" joined="1993-03-31"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-31"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-04-01"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional terms of office"/>
+		<term name="Constitutional amendments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/31/1993--Introduced.
+Constitutional Amendment - Limits Members of the House of Representatives to six consecutive terms and Members of the Senate to two consecutive terms.
+
+	</summary>
+</bill>

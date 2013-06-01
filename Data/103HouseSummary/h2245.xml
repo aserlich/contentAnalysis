@@ -1,0 +1,73 @@
+<bill session="103" type="h" number="2245" updated="2010-04-19T05:01:58-04:00">
+	<state datetime="1993-05-25">REFERRED</state>
+	<status><introduced datetime="1993-05-25"/></status>
+
+	<introduced datetime="1993-05-25"/>
+	<titles>
+		<title type="short" as="introduced">Permanent Performance Review Act of 1993</title>
+		<title type="official" as="introduced">To establish a Permanent Performance Review Commission.</title>
+	</titles>
+	<sponsor id="400584"/>
+	<cosponsors>
+		<cosponsor id="400381" joined="1993-07-13"/>
+		<cosponsor id="400176" joined="1993-06-22"/>
+		<cosponsor id="400226" joined="1993-06-22"/>
+		<cosponsor id="407558" joined="1993-06-22"/>
+		<cosponsor id="400590" joined="1993-06-22"/>
+		<cosponsor id="400382" joined="1993-06-22"/>
+		<cosponsor id="300003" joined="1993-07-13"/>
+		<cosponsor id="400083" joined="1993-06-22"/>
+		<cosponsor id="405560" joined="1993-06-22"/>
+		<cosponsor id="400269" joined="1993-08-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-25"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-05-25"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-09-13"><text>Sponsor introductory remarks on measure. (CR H6655-6656)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Administrative procedure"/>
+		<term name="Buy American"/>
+		<term name="Congressional hearings"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cost effectiveness"/>
+		<term name="Data transmission systems"/>
+		<term name="Debarment of government contractors"/>
+		<term name="Employee training"/>
+		<term name="Employee-management relations in government"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal budgets"/>
+		<term name="Federal employees"/>
+		<term name="Foreign trade"/>
+		<term name="Government paperwork"/>
+		<term name="Government procurement"/>
+		<term name="Government spending reductions"/>
+		<term name="Grants-in-aid"/>
+		<term name="House rules and procedure"/>
+		<term name="Labeling"/>
+		<term name="Legislation"/>
+		<term name="Planning-programming-budgeting"/>
+		<term name="Productivity in government"/>
+		<term name="Public contracts"/>
+		<term name="Public meetings of administrative bodies"/>
+		<term name="Waste in government spending"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/25/1993--Introduced.
+Permanent Performance Review Act of 1993 - Establishes the Permanent Performance Review Commission to: (1) establish and manage a schedule of agency self-studies to be conducted over a fixed period; (2) hold hearings as part of an overall assessment and transformation of the date presented in the study into a performance review to be developed by the Commission; and (3) submit the performance review and legislative recommendations to the President, the Congress, and the public. Specifies the duties of agencies subject to performance review. Sets forth procedures for congressional action on performance reviews received from the Commission. Authorizes appropriations.
+
+	</summary>
+</bill>

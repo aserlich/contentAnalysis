@@ -1,0 +1,76 @@
+<bill session="103" type="s" number="1457" updated="2012-07-17T04:09:52-04:00">
+	<state datetime="1994-10-22">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-22" /></status>
+
+	<introduced datetime="1993-09-14"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Aleutian and Pribilof Restitution Act to increase authorization for appropriation to compensate Aleut villages for church property lost, damaged, or destroyed during World War II.</title>
+	</titles>
+	<sponsor id="300094"/>
+	<cosponsors>
+		<cosponsor id="300150" joined="1993-09-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-14" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S11689-11690)</text></action>
+		<action datetime="1993-09-14" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<action datetime="1993-11-20"><text>Senate Committee on Governmental Affairs discharged by Unanimous Consent.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S16869"/></vote>
+		<action datetime="1993-11-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-21T14:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-21"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-12-08"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+		<action datetime="1994-09-29"><committee name="House Committee on Judiciary"/><text>Subcommittee on Administrative Law and Governmental Relations Discharged.</text></action>
+		<action datetime="1994-09-29"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-29" ><committee name="House Committee on Judiciary"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1994-10-04T20:50:00-04:00"><text>Reported by the Committee on Judiciary. H. Rept. 103-833.</text></action>
+		<calendar number="463" datetime="1994-10-04T20:51:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 463.</text></calendar>
+		<action datetime="1994-10-04T20:52:00-04:00"><text>Mr. Brooks moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-04T20:53:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10783-10784"/></action>
+		<action datetime="1994-10-04T20:53:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-04T20:56:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Walker objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed until Oct. 5. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1994-10-05T18:03:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10917-10918"/></action>
+		<vote how="by voice vote" type="vote2" datetime="1994-10-05T18:03:00-04:00" where="h" result="pass"  state="PASS_BACK:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-05T18:03:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-06"><text>Message on House action received in Senate and at the desk: House amendment to Senate bill.</text></action>
+		<vote how="by Voice Vote" type="pingpong" datetime="1994-10-08" where="s" result="pass"  state="PASSED:BILL"><text>Senate agreed to House amendment by Voice Vote.</text><reference label="consideration" ref="CR S15026"/></vote>
+		<topresident datetime="1994-10-08" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-12"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-18" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-22" ><text>Signed by President.</text></signed>
+		<enacted number="103-402" type="public" datetime="1994-10-22"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-402.</text></enacted>
+		<action datetime="1994-12-01"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Discharged" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3187" />
+	</relatedbills>
+	<subjects>
+		<term name="Government liability"/>
+		<term name="Alaska"/>
+		<term name="Asian American ethnic groups"/>
+		<term name="Authorization"/>
+		<term name="Churches"/>
+		<term name="Claims"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Damages"/>
+		<term name="Destruction of property"/>
+		<term name="Economics and public finance"/>
+		<term name="History"/>
+		<term name="Law"/>
+		<term name="Minorities"/>
+		<term name="Native Americans"/>
+		<term name="Religion"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/5/1994--Passed House amended. Amends the Aleutian and Pribilof Islands Restitution Act to increase the authorization of appropriations to compensate Aleut villages for church property lost, damaged, or destroyed during World War II.
+
+	</summary>
+</bill>

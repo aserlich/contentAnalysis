@@ -1,0 +1,43 @@
+<bill session="103" type="hr" number="268" updated="2010-04-19T13:40:49-04:00">
+	<state datetime="1993-10-06T12:16:00-04:00">FAIL:ORIGINATING:HOUSE</state>
+	<status><vote datetime="1993-10-06T12:16:00-04:00" where="h" result="fail" how="roll" roll="482"/></status>
+
+	<introduced datetime="1993-10-05"/>
+	<titles>
+		<title type="official" as="introduced">Waiving points of order against the conference report to accompany the bill (H.R. 2491) making appropriations for the Departments of Veterans Affairs and Housing and Urban Development, and for sundry independent agencies, boards, commissions, corporations, and offices for the fiscal year ending September 30, 1994, and for other purposes.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-05T16:40:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-274, by Ms. Slaughter.</text></action>
+		<action datetime="1993-10-05T16:40:00-04:00"><text>Rule provides for consideration of the conference report to H.R. 2491. Upon adoption of this resolution, it shall be in order to consider the conference report and amendments in disagreement on the bill. All points of order against the conference report and against its consideration shall be waived. The conference report and amendments in disagreement, and motions printed in the joint explanatory statement of the committee of conference to dispose of amendments in disagreement shall be considered as read.</text></action>
+		<calendar datetime="1993-10-05T16:41:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 96.</text></calendar>
+		<action datetime="1993-10-06T11:07:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H7462-7467"/></action>
+		<action datetime="1993-10-06T11:08:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-10-06T11:52:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="roll" type="vote" roll="482" datetime="1993-10-06T12:16:00-04:00" where="h" result="fail"  state="FAIL:ORIGINATING:HOUSE"><text>On agreeing to the resolution Failed by the Yeas and Nays: 123 - 305 (Roll no. 482).</text></vote>
+		<action datetime="1993-10-06T12:16:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2491" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Appropriations"/>
+		<term name="Congress"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/5/1993--Introduced.
+Waives points of order against the consideration of the conference report on H.R. 2491 (Departments of Veterans Affairs and Housing and Urban Development and independent agencies appropriations).
+
+	</summary>
+</bill>

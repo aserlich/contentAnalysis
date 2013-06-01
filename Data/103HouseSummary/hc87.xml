@@ -1,0 +1,48 @@
+<bill session="103" type="hc" number="87" updated="2010-04-18T21:14:20-04:00">
+	<state datetime="1993-04-27">REFERRED</state>
+	<status><introduced datetime="1993-04-27"/></status>
+
+	<introduced datetime="1993-04-27"/>
+	<titles>
+		<title type="official" as="introduced">Concerning economic sanctions against and diplomatic relations with the Government of the Socialist Republic of Vietnam.</title>
+	</titles>
+	<sponsor id="400191"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-27"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-05-11"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Economic Policy, Trade and Environment.</text></action>
+		<action datetime="1993-05-11"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Asia and the Pacific.</text></action>
+		<action datetime="1993-05-20"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Requested from State.</text></action>
+		<action datetime="1993-08-31"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Received from State.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Economic Policy, Trade, and Environment" activity="Referral" />
+		<committee code="HSFA-05" name="House Foreign Affairs" subcommittee="Asia and the Pacific" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Export controls"/>
+		<term name="Foreign trade"/>
+		<term name="Import restrictions"/>
+		<term name="Missing in action"/>
+		<term name="Prisoners of war"/>
+		<term name="Recognition (International law)"/>
+		<term name="Sanctions (International law)"/>
+		<term name="Vietnam"/>
+		<term name="Vietnamese Conflict"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/27/1993--Introduced.
+Expresses the sense of the Congress that the President should not take any action to lift economic sanctions or establish diplomatic relations with the Government of the Socialist Republic of Vietnam until such government provides for a full accounting for all American prisoners of war captured during the Vietnam conflict.
+
+	</summary>
+</bill>

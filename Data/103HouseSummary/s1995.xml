@@ -1,0 +1,53 @@
+<bill session="103" type="s" number="1995" updated="2012-07-17T05:43:35-04:00">
+	<state datetime="1994-04-13">REPORTED</state>
+	<status><calendar datetime="1994-04-13" /></status>
+
+	<introduced datetime="1994-03-25"/>
+	<titles>
+		<title type="short" as="introduced">Health Centers Reauthorization Act of 1994</title>
+		<title type="official" as="introduced">A bill to amend the Public Health Service Act to reauthorize migrant, community and homeless health center programs, and for other purposes.</title>
+	</titles>
+	<sponsor id="300059"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="1994-03-25"/>
+		<cosponsor id="406188" joined="1994-03-25"/>
+		<cosponsor id="408597" joined="1994-03-25"/>
+		<cosponsor id="300073" joined="1994-03-25"/>
+		<cosponsor id="411818" joined="1994-03-25"/>
+		<cosponsor id="407663" joined="1994-03-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-25" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3978)</text></action>
+		<action datetime="1994-03-25" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<calendar datetime="1994-04-13"  state="REPORTED"><committee name="Committee on Labor and Human Resources"/><text>Committee on Labor and Human Resources. Ordered to be reported without amendment favorably.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Markup, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Agricultural labor"/>
+		<term name="Agriculture and food"/>
+		<term name="Authorization"/>
+		<term name="Clinics"/>
+		<term name="Community health services"/>
+		<term name="Economics and public finance"/>
+		<term name="Federal aid to health facilities"/>
+		<term name="Homeless"/>
+		<term name="Housing and community development"/>
+		<term name="Labor and employment"/>
+		<term name="Migrant labor"/>
+		<term name="Public housing"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/25/1994--Introduced.
+Health Centers Reauthorization Act of 1994 - Amends the Public Health Service Act to reauthorize migrant, community, and homeless health center programs, and health services programs for residents of public housing.
+
+	</summary>
+</bill>

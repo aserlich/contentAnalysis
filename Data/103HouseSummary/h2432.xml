@@ -1,0 +1,75 @@
+<bill session="103" type="h" number="2432" updated="2010-04-19T05:30:49-04:00">
+	<state datetime="1993-06-16">REFERRED</state>
+	<status><introduced datetime="1993-06-16"/></status>
+
+	<introduced datetime="1993-06-16"/>
+	<titles>
+		<title type="short" as="introduced">Responsible Parent Immunization Plan Act of 1993</title>
+		<title type="official" as="introduced">To provide financial incentives to encourage parents receiving public assistance to have their children appropriately immunized against disease.</title>
+	</titles>
+	<sponsor id="400058"/>
+	<cosponsors>
+		<cosponsor id="406431" joined="1993-06-16"/>
+		<cosponsor id="404587" joined="1993-06-16"/>
+		<cosponsor id="400161" joined="1993-06-16"/>
+		<cosponsor id="404869" joined="1993-06-16"/>
+		<cosponsor id="407817" joined="1993-06-16"/>
+		<cosponsor id="300085" joined="1993-06-16"/>
+		<cosponsor id="403864" joined="1993-06-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-16"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-06-16"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-06-16"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-06-21"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Department Operations and Nutrition.</text></action>
+		<action datetime="1993-06-21"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+		<action datetime="1993-07-16"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Department Operations and Nutrition" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Aid to dependent children"/>
+		<term name="Authorization"/>
+		<term name="Child health"/>
+		<term name="Child nutrition"/>
+		<term name="Clinics"/>
+		<term name="Data banks"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Drug industry"/>
+		<term name="Federal aid to child health services"/>
+		<term name="Fees"/>
+		<term name="Food relief"/>
+		<term name="Food stamps"/>
+		<term name="Government paperwork"/>
+		<term name="Government service contracts"/>
+		<term name="Health surveys"/>
+		<term name="Identification devices"/>
+		<term name="Maternal health services"/>
+		<term name="Medicaid"/>
+		<term name="Medically uninsured"/>
+		<term name="Parent and child"/>
+		<term name="Public assistance programs"/>
+		<term name="Social security"/>
+		<term name="State laws"/>
+		<term name="Vaccination"/>
+		<term name="Vaccines"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/16/1993--Introduced.
+TABLE OF CONTENTS: Title I: Immunization of Children Receiving AFDC Title II: Immunization of Children Receiving Food Stamps Benefits Title III: Current Program Regarding Immunizations Title IV: Immunizations for Uninsured Children Title V: Monitoring System with Respect to Immunization of Certain Children Title VI: Parental Behavior with Respect to Childhood Immunizations Title VII: Use of Medicaid Funds for Monitoring Medicaid Beneficiaries Responsible Parent Immunization Plan Act of 1993 - Title I: Immunization of Children Receiving AFDC - Amends part A (Aid to Families with Dependent Children) of title IV of the Social Security Act to require a State's AFDC plan to require any parent applying for or receiving aid to ensure that each of his or her children have received specified immunizations. Title II: Immunization of Children Receiving Food Stamps Benefits - Amends the Food Stamp Act of 1977 to: (1) provide for a benefit reduction if all children in a household have not received specified immunizations; or (2) provide for a benefit increase if all such children have received such immunizations. Title III: Current Program Regarding Immunizations - Amends the Public Health Service Act to authorize appropriations for grants to States for immunizations. Title IV: Immunizations for Uninsured Children - Provides, under the Public Health Service Act, for grants to States to provide pediatric immunizations to uninsured children without charge for the cost of the vaccine. Authorizes appropriations. Title V: Monitoring System with Respect to Immunization of Certain Children - Provides, under the Public Health Service Act, for grants to States for the purpose of establishing a monitoring system which encourages the parents of uninsured children or children who are members of families receiving food stamps or other forms of assistance to have their children receive immunizations. Authorizes appropriations. Title VI: Parental Behavior with Respect to Childhood Immunizations - Provides, under the Public Health Service Act, for grants for demonstration projects to develop innovative methods to encourage parents to ensure that their children receive scheduled immunizations. Authorizes appropriations. Title VII: Use of Medicaid Funds for Monitoring Medicaid Beneficiaries - Amends title XIX (Medicaid) of the Social Security Act to provide for the use of Medicaid funds to monitor Medicaid beneficiaries under the monitoring system established by title V of this Act.
+
+	</summary>
+</bill>

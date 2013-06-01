@@ -1,0 +1,49 @@
+<bill session="103" type="s" number="664" updated="2010-04-19T16:13:55-04:00">
+	<state datetime="1993-12-17">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-17" /></status>
+
+	<introduced datetime="1993-03-26"/>
+	<titles>
+		<title type="official" as="introduced">A bill making a technical amendment of the Clayton Act.</title>
+	</titles>
+	<sponsor id="407663"/>
+	<cosponsors>
+		<cosponsor id="300157" joined="1993-03-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-26"><text>Sponsor introductory remarks on measure. (CR S3862)</text></action>
+		<action datetime="1993-03-26"><text>Introduced in the Senate and read twice and held at the desk by unanimous consent.</text></action>
+		<action datetime="1993-11-22"><text>Message on Senate action sent to the House.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-22" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S16981"/></vote>
+		<action datetime="1993-11-22T23:20:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-23T01:57:00-05:00"><text>Mr. Brooks asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1993-11-23T01:57:00-05:00"><text>Considered by unanimous consent. (consideration: CR 11/22/1993 H10975)</text></action>
+		<vote how="without objection" type="vote2" datetime="1993-11-23T01:59:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-11-23T01:59:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-11-23" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-12-08" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-17" ><text>Signed by President.</text></signed>
+		<enacted number="103-203" type="public" datetime="1993-12-17"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-203.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Antitrust law"/>
+		<term name="Corporate finance"/>
+		<term name="Corporation directors"/>
+		<term name="Government paperwork"/>
+		<term name="Gross national product"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/26/1993--Introduced.
+Amends the Clayton Act to require the Federal Trade Commission to publish certain adjusted figures, pertaining to interlocking directorates and officers, not later than January 31 (currently, October 30) of each year.
+
+	</summary>
+</bill>

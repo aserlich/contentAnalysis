@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="4488" updated="2010-04-19T10:50:44-04:00">
+	<state datetime="1994-05-25">REFERRED</state>
+	<status><introduced datetime="1994-05-25"/></status>
+
+	<introduced datetime="1994-05-25"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Federal Workforce Restructuring Act of 1994 to provide that the duties performed by individuals separating from Government service in order to receive a voluntary separation incentive payment may not be performed by any person under contract with the United States.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-25"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-05-25"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-05-31"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1994-06-02"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+		<action datetime="1994-09-22"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Forwarded by Subcommittee to Full Committee in the Nature of a Substitute.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4438" />
+	</relatedbills>
+	<subjects>
+		<term name="Public contracts"/>
+		<term name="Dismissal wage"/>
+		<term name="Early retirement"/>
+		<term name="Federal employees"/>
+		<term name="Government contractors"/>
+		<term name="Government employees"/>
+		<term name="Government procurement"/>
+		<term name="Government service contracts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/25/1994--Introduced.
+Amends the Federal Workforce Restructuring Act of 1994 to revise the limitation on procurement of service contracts to prohibit the performance, in whole or in part, by any person under contract with the United States of the duties and responsibilities of any individual who separates from Government service in order to receive a specified voluntary separation incentive payment under such Act.
+
+	</summary>
+</bill>

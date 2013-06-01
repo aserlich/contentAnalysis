@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="835" updated="2010-04-19T01:15:11-04:00">
+	<state datetime="1993-02-04">REFERRED</state>
+	<status><introduced datetime="1993-02-04"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Federal Water Pollution Control Act to add Morro Bay, California, to the priority list of the national estuary program.</title>
+	</titles>
+	<sponsor id="405758"/>
+	<cosponsors>
+		<cosponsor id="400295" joined="1994-03-24"/>
+		<cosponsor id="408109" joined="1994-03-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04"><text>Sponsor introductory remarks on measure. (CR E285)</text></action>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-02-18"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1993-02-18"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Commerce, Interior, EPA.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="294" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="California"/>
+		<term name="Estuarine area conservation"/>
+		<term name="Water pollution control"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Amends the Federal Water Pollution Control Act to include Morro Bay, California, in the list of areas to be given priority consideration for inclusion in the national estuary program.
+
+	</summary>
+</bill>

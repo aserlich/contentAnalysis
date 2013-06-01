@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="86" updated="2010-04-18T23:13:23-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for an income tax credit for in-State contributions to congressional candidates.</title>
+	</titles>
+	<sponsor id="402657"/>
+	<cosponsors>
+		<cosponsor id="400398" joined="1993-01-25"/>
+		<cosponsor id="400176" joined="1993-02-04"/>
+		<cosponsor id="400365" joined="1993-02-04"/>
+		<cosponsor id="400329" joined="1993-01-25"/>
+		<cosponsor id="400318" joined="1993-01-25"/>
+		<cosponsor id="406790" joined="1993-02-04"/>
+		<cosponsor id="405033" joined="1993-03-30"/>
+		<cosponsor id="404009" joined="1993-01-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Campaign contributors"/>
+		<term name="Campaign funds"/>
+		<term name="Congressional elections"/>
+		<term name="Residence requirements"/>
+		<term name="Tax credits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends the Internal Revenue Code to allow a tax credit for contributions to candidates for congressional offices for the State of which the taxpayer is a resident. Limits such contribution to $100 ($200 in the case of a joint return). Disallows such credit for an estate or trust.
+
+	</summary>
+</bill>

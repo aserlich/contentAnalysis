@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="3641" updated="2010-04-19T08:38:22-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="official" as="introduced">To make minor adjustments of maps relating to the Coastal Barrier Resources System.</title>
+	</titles>
+	<sponsor id="400583"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1993-11-22"/>
+		<cosponsor id="400273" joined="1994-02-03"/>
+		<cosponsor id="400156" joined="1993-11-22"/>
+		<cosponsor id="401014" joined="1993-11-22"/>
+		<cosponsor id="400439" joined="1993-11-22"/>
+		<cosponsor id="406790" joined="1993-11-22"/>
+		<cosponsor id="408661" joined="1993-11-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-11-24"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1993-11-24"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Interior.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Coastal zone"/>
+		<term name="Maps"/>
+		<term name="Marine resources"/>
+		<term name="Reefs"/>
+		<term name="Water conservation"/>
+		<term name="Water resources"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Amends Federal law to make adjustments to the Coastal Barrier Resources System maps.
+
+	</summary>
+</bill>

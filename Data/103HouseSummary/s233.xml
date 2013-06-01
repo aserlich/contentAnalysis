@@ -1,0 +1,50 @@
+<bill session="103" type="s" number="233" updated="2012-07-17T06:11:13-04:00">
+	<state datetime="1993-01-27">REFERRED</state>
+	<status><introduced datetime="1993-01-27"/></status>
+
+	<introduced datetime="1993-01-27"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize appropriations for the Civilian Community Corps Demonstration Program.</title>
+	</titles>
+	<sponsor id="401604"/>
+	<cosponsors>
+		<cosponsor id="400564" joined="1993-01-27"/>
+		<cosponsor id="300071" joined="1993-01-27"/>
+		<cosponsor id="403346" joined="1993-02-16"/>
+		<cosponsor id="300066" joined="1993-01-27"/>
+		<cosponsor id="300056" joined="1993-01-27"/>
+		<cosponsor id="408939" joined="1993-01-27"/>
+		<cosponsor id="300053" joined="1993-01-27"/>
+		<cosponsor id="411818" joined="1993-01-27"/>
+		<cosponsor id="300031" joined="1993-01-27"/>
+		<cosponsor id="300082" joined="1993-01-27"/>
+		<cosponsor id="409917" joined="1993-01-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-27" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S805-807, S813-816)</text></action>
+		<action datetime="1993-01-27" state="REFERRED"><text>Read twice and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="651" />
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Authorization"/>
+		<term name="Federal aid to youth services"/>
+		<term name="National service"/>
+		<term name="Public service employment"/>
+		<term name="Summer employment"/>
+		<term name="Youth employment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/1993--Introduced.
+Amends the National and Community Service Act of 1990 to authorize appropriations for fiscal years after 1993 for the Civilian Community Corps Demonstration Program.
+
+	</summary>
+</bill>

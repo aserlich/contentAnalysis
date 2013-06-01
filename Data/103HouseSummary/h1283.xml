@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="1283" updated="2010-04-19T02:30:37-04:00">
+	<state datetime="1993-03-10">REFERRED</state>
+	<status><introduced datetime="1993-03-10"/></status>
+
+	<introduced datetime="1993-03-10"/>
+	<titles>
+		<title type="short" as="introduced">Sole Source Aquifer Protection Act of 1993</title>
+		<title type="official" as="introduced">To amend the Federal Water Pollution Control Act and the Safe Drinking Water Act to provide protection for sole source aquifers.</title>
+	</titles>
+	<sponsor id="404401"/>
+	<cosponsors>
+		<cosponsor id="406768" joined="1993-07-13"/>
+		<cosponsor id="404634" joined="1993-07-13"/>
+		<cosponsor id="400359" joined="1993-07-13"/>
+		<cosponsor id="400169" joined="1993-07-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-10"><text>Sponsor introductory remarks on measure. (CR E590)</text></action>
+		<action datetime="1993-03-10"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-03-10"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-03-22"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1993-03-29"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Water"/>
+		<term name="Administrative procedure"/>
+		<term name="Environmental protection"/>
+		<term name="Groundwater"/>
+		<term name="Landfill siting"/>
+		<term name="Landfills"/>
+		<term name="Planning"/>
+		<term name="Potable water"/>
+		<term name="Water pollution control"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/10/1993--Introduced.
+Sole Source Aquifer Protection Act of 1993 - Amends the Safe Drinking Water Act to prohibit construction of landfills or land treatment facilities within a critical aquifer protection area unless the State or local government having jurisdiction over such area has adopted a management plan for the area. Requires the plan to provide for: (1) the maintenance of groundwater quality to protect human health, the environment, and groundwater resources; and (2) public hearings for receiving comments on the plan. Amends the Federal Water Pollution Control Act to declare that it is national policy that such a plan be promulgated before such facilities are constructed over a critical aquifer protection area.
+
+	</summary>
+</bill>

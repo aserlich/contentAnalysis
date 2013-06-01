@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="3518" updated="2010-04-19T08:19:13-04:00">
+	<state datetime="1993-11-16">REFERRED</state>
+	<status><introduced datetime="1993-11-16"/></status>
+
+	<introduced datetime="1993-11-16"/>
+	<titles>
+		<title type="official" as="introduced">To suspend temporarily the duties on cefuroxime axetil (bulk and dosage forms).</title>
+	</titles>
+	<sponsor id="406554"/>
+	<cosponsors>
+		<cosponsor id="411065" joined="1993-11-16"/>
+		<cosponsor id="400326" joined="1993-11-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-16"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-11-19"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-12-13"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1994-03-16"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1291" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Antibiotics"/>
+		<term name="Chemicals"/>
+		<term name="Drugs"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/16/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1995, the duty on 1-(acetyloxy) ethyl ester of (6R, 7R)-3-carbamoyl-oxymethyl- 7-(Z-2-methoxyimino-2-(fur-2-yl) acetamido) ceph-3-em-4-carboxylate (cefuroxime axetil in bulk and dosage forms).
+
+	</summary>
+</bill>

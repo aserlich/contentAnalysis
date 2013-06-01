@@ -1,0 +1,89 @@
+<bill session="103" type="h" number="2517" updated="2012-07-17T04:13:37-04:00">
+	<state datetime="1993-10-27">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-10-27" /></status>
+
+	<introduced datetime="1993-06-24"/>
+	<titles>
+		<title type="short" as="introduced">Homeless and Community Development Amendments Act of 1993</title>
+		<title type="short" as="passed house">Homeless and Community Development Amendments Act of 1993</title>
+		<title type="short" as="passed senate">HUD Demonstration Act of 1993</title>
+		<title type="short" as="enacted">HUD Demonstration Act of 1993</title>
+		<title type="official" as="introduced">To establish certain programs and demonstrations to assist States and communities in efforts to relieve homelessness, assist local community development organizations, and provide affordable rental housing for low-income families, and for other purposes.</title>
+		<title type="official" as="amended by senate">An Act to enable the Secretary of Housing and Urban Development to demonstrate innovative strategies for assisting homeless individuals, to develop the capacity of community development corporations and community housing development organizations to undertake community development and affordable housing projects and programs, to encourage pension fund investment in affordable housing, and for other purposes.</title>
+	</titles>
+	<sponsor id="404634"/>
+	<cosponsors>
+		<cosponsor id="400533" joined="1993-06-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-24" state="REFERRED"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-06-29T00:42:00-04:00"><text>Mr. Gonzalez moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-06-29T00:43:00-04:00"><text>Considered under suspension of the rules. (consideration: CR 6/28/2003 H4172-4178)</text></action>
+		<action datetime="1993-06-29T00:43:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-06-29T00:54:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-06-29T00:54:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-06-29"><text>Received in the Senate and read twice and referred to the Committee on Banking.</text></action>
+		<action datetime="1993-07-01" state="REFERRED"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Housing and Community Development.</text></action>
+		<action datetime="1993-09-23" state="PASS_OVER:HOUSE"><text>Senate Committee on Banking discharged by Unanimous Consent.</text></action>
+		<action datetime="1993-09-23"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S12464-12467"/></action>
+		<action datetime="1993-09-23"><text>Amendment SP 965 proposed by Senator Wellstone for Senator Riegle.</text></action>
+		<action datetime="1993-09-23"><text>Amendment SP 965 agreed to in Senate by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-09-23" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text></vote>
+		<action datetime="1993-09-27"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-10-06T18:20:00-04:00"><text>Mr. Gonzalez asked unanimous consent that the House agree to the Senate amendments.</text></action>
+		<vote how="without objection" type="pingpong" datetime="1993-10-06T18:25:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House agree to the Senate amendments Agreed to without objection.</text><reference label="consideration" ref="CR H7510-7515"/></vote>
+		<action datetime="1993-10-06T18:25:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-10-06" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-10-15" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-10-27" ><text>Signed by President.</text></signed>
+		<enacted number="103-120" type="public" datetime="1993-10-27"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-120.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral" />
+		<committee code="HSBA-04" name="House Banking, Finance, and Urban Affairs" subcommittee="Housing and Community Development" activity="Referral" />
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Housing and community development"/>
+		<term name="Administrative fees"/>
+		<term name="Affordable housing"/>
+		<term name="Apartment houses"/>
+		<term name="Authorization"/>
+		<term name="Block grants"/>
+		<term name="Community development corporations"/>
+		<term name="Congressional investigations"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Department of Housing and Urban Development"/>
+		<term name="Depressed areas"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to community development"/>
+		<term name="Federal aid to housing"/>
+		<term name="Government operations and politics"/>
+		<term name="Home ownership"/>
+		<term name="Homeless"/>
+		<term name="Investments"/>
+		<term name="Land subdivision"/>
+		<term name="Low-income housing"/>
+		<term name="Massachusetts"/>
+		<term name="Mobile homes"/>
+		<term name="Mortgage guaranty insurance"/>
+		<term name="Mortgage loans"/>
+		<term name="Pension funds"/>
+		<term name="Public housing"/>
+		<term name="Rent"/>
+		<term name="Rent subsidies"/>
+		<term name="Rental housing"/>
+		<term name="Reprogramming of appropriated funds"/>
+		<term name="Texas"/>
+	</subjects>
+	<amendments>
+		<amendment number="s965"/>
+	</amendments>
+	<summary>
+	9/23/1993--Passed Senate amended. HUD Demonstration Act of 1993 - Directs the Secretary of Housing and Urban Development (Secretary) to carry out an innovative homeless initiatives demonstration program through FY 1994. Authorizes FY 1994 appropriations. (Sec. 3) Amends the Housing and Community Development Act of 1992 to increase funding for the moving to opportunity for fair housing demonstration program. (Sec. 4) Authorizes the Secretary to provide assistance to the National Community Development Initiative for grants to local community development organizations for: (1) training and capacity building; (2) technical assistance; and (3) community development and housing assistance. Authorizes FY 1994 appropriations. (Sec. 5) Amends the Cranston-Gonzalez National Affordable Housing Act to increase the authorization of appropriations for community housing partnership activities. (Sec. 6) Directs the Secretary to carry out a demonstration program through FY 1998 to attract pension fund investment in affordable housing through the use of project-based rental assistance under section 8 of the United States Housing Act of 1937. Requires that at least half of appropriated funds be used in the disposition of multifamily properties. Requires a General Accounting Office program evaluation report. Authorizes FY 1994 program appropriations. (Sec. 7) Amends the Cranston-Gonzalez National Affordable Housing Act to extend: (1) the termination date for the National Commission on Manufactured Housing; (2) the deadline for the Commission's final report (after an interim report); and (3) authorization of appropriations for the Commission. (Sec. 8) Amends the Housing Act of 1949 to: (1) extend authority for Federal agency housing subdivision approval reciprocity; (2) increase Federal Housing Administration (FHA) insured mortgage authority; and (3) increase Government National Mortgage Association (GNMA) guarantee authority. (Sec. 11) Sets forth an administrative fee formula for the section 8 certificate and voucher programs. Directs the Secretary to assess public housing agency costs in administering such programs. (Sec. 12) Amends Federal law to: (1) extend the commencement deadline for a specified Massachusetts housing project; and (2) permit rental units in a specified Texas project to be project-based.
+
+	</summary>
+</bill>

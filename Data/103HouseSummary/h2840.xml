@@ -1,0 +1,89 @@
+<bill session="103" type="h" number="2840" updated="2010-10-13T17:43:42-04:00">
+	<state datetime="1993-12-17">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-17" /></status>
+
+	<introduced datetime="1993-08-03"/>
+	<titles>
+		<title type="short" as="introduced">Copyright Royalty Tribunal Reform Act of 1993</title>
+		<title type="short" as="passed house">Copyright Royalty Tribunal Reform Act of 1993</title>
+		<title type="short" as="passed senate">Copyright Royalty Tribunal Reform Act of 1993</title>
+		<title type="short" as="enacted">Copyright Royalty Tribunal Reform Act of 1993</title>
+		<title type="official" as="introduced">To amend title 17, United States Code, to establish copyright arbitration royalty panels to replace the Copyright Royalty Tribunal, and for other purposes.</title>
+	</titles>
+	<sponsor id="405775"/>
+	<cosponsors>
+		<cosponsor id="400140" joined="1993-08-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-03"><text>Sponsor introductory remarks on measure. (CR E1961-1962)</text></action>
+		<action datetime="1993-08-03"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-08-04"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-10-06"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-06"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1993-10-12T12:05:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-286.</text></action>
+		<calendar number="158" datetime="1993-10-12T12:06:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 158.</text></calendar>
+		<action datetime="1993-10-12T14:31:00-04:00"><text>Mr. Brooks moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-10-12T14:32:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7698-7702"/></action>
+		<action datetime="1993-10-12T14:32:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-10-12T14:39:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-10-12T14:39:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-10-13"><text>Received in the Senate.</text></action>
+		<calendar under="General Orders" number="241" datetime="1993-10-20" calendar="Senate Legislative" ><text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 241.</text></calendar>
+		<action datetime="1993-11-20"><text>Measure laid before Senate.</text></action>
+		<action datetime="1993-11-20"><text>Amendment SP 1230 proposed by Senator Ford for Senator DeConcini.</text></action>
+		<action datetime="1993-11-20"><text>Amendment SP 1230 agreed to in Senate by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-11-20" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text><reference label="consideration" ref="CR S16864-16865"/></vote>
+		<action datetime="1993-11-22"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-23T01:52:00-05:00"><text>Mr. Brooks asked unanimous consent that the House agree to the Senate amendment.</text></action>
+		<vote how="without objection" type="pingpong" datetime="1993-11-23T01:53:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House agree to the Senate amendment Agreed to without objection.</text><reference label="consideration" ref="CR H10969-10973"/></vote>
+		<action datetime="1993-11-23T01:53:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-11-23" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-12-08" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-17" ><text>Signed by President.</text></signed>
+		<enacted number="103-198" type="public" datetime="1993-12-17"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-198.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1346" />
+	</relatedbills>
+	<subjects>
+		<term name="Copyright"/>
+		<term name="Administrative remedies"/>
+		<term name="Alaska"/>
+		<term name="Alien labor"/>
+		<term name="Aliens"/>
+		<term name="Cable television"/>
+		<term name="Commercial arbitration"/>
+		<term name="Congressional agencies"/>
+		<term name="Copyright infringement"/>
+		<term name="Copyright royalties"/>
+		<term name="Federal employees"/>
+		<term name="Fees"/>
+		<term name="Government paperwork"/>
+		<term name="Immigration"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Layoffs"/>
+		<term name="Libraries"/>
+		<term name="Library of Congress"/>
+		<term name="Licenses"/>
+		<term name="Longshoremen"/>
+		<term name="Magnetic recorders and recording"/>
+		<term name="Phonorecords"/>
+		<term name="Presidential appointments"/>
+		<term name="Public broadcasting"/>
+		<term name="Sound recording and reproducing"/>
+		<term name="Television relay systems"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1230"/>
+	</amendments>
+	<summary>
+	11/20/1993--Passed Senate amended. Copyright Royalty Tribunal Reform Act of 1993 - Replaces the Copyright Royalty Tribunal with copyright arbitration royalty panels to be appointed and convened by the Librarian of Congress. Sets forth provisions concerning panel membership and arbitration proceedings. Requires the Librarian to: (1) adopt a panel decision unless the decision is arbitrary or contrary to the provisions of this Act; and (2) set a royalty fee or distribute fees if the decision is rejected. Provides for judicial review of Librarian decisions concerning panel determinations. Authorizes the Librarian and the Register of Copyrights to: (1) deduct administrative costs from collected royalty fees; or (2)assess costs directly to the parties to the most recent relevant arbitration proceeding if no royalty pool exists from which costs can be deducted. Provides that provisions of the Legislative Branch Appropriations Act, 1994 that require specified personnel reductions shall not apply to positions required for the administration of compulsory licensing by Library employees. Authorizes owners or users of copyrighted works to petition the Librarian for adjustments of royalty rates. Provides for interim royalty rates for certain musical works (that are subject to terminated license agreements) for performance by coin-operated phonorecord players. Repeals additional provisions concerning the Tribunal as well as provisions concerning compulsory licenses and limitations on exclusive rights for coin-operated phonorecord players. Revises requirements concerning compulsory licenses for public broadcasting. Amends the Immigration and Nationality Act to permit alien longshore workers to work in Alaska under specified circumstances.
+
+	</summary>
+</bill>

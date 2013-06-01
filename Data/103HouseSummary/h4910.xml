@@ -1,0 +1,59 @@
+<bill session="103" type="h" number="4910" updated="2012-07-17T06:29:45-04:00">
+	<state datetime="1994-10-04T18:42:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-04T18:42:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-08-05"/>
+	<titles>
+		<title type="official" as="introduced">To designate the United States courthouse under construction in White Plains, New York, as the &quot;Thurgood Marshall United States Courthouse&quot;.</title>
+	</titles>
+	<sponsor id="400122"/>
+	<cosponsors>
+		<cosponsor id="400536" joined="1994-08-05"/>
+		<cosponsor id="400246" joined="1994-08-05"/>
+		<cosponsor id="404097" joined="1994-08-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-05" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E1662)</text></action>
+		<action datetime="1994-08-05" state="REFERRED"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-08-18"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Public Buildings and Grounds.</text></action>
+		<action datetime="1994-09-26"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-09-26"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-09-26"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Public Works + Transportation"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Public Works + Transportation"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-09-29T12:59:00-04:00"><text>Reported by the Committee on Public Works + Transportation. H. Rept. 103-763.</text></action>
+		<calendar number="232" datetime="1994-09-29T12:59:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 232.</text></calendar>
+		<action datetime="1994-10-03T15:03:00-04:00"><text>Mr. Traficant moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-10-03T15:04:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10560-10562"/></action>
+		<action datetime="1994-10-03T15:04:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-03T15:13:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Petri objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1994-10-04T18:42:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10734"/></action>
+		<vote how="by voice vote" type="vote" datetime="1994-10-04T18:42:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-04T18:42:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-05"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Public Buildings and Grounds" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Commemorations"/>
+		<term name="Courthouses"/>
+		<term name="Names"/>
+		<term name="New York State"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/1994--Introduced.
+Designates the United States courthouse under construction at 300 Quarropas Street in White Plains, New York, as the Thurgood Marshall United States Courthouse.
+
+	</summary>
+</bill>

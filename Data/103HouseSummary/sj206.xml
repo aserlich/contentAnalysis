@@ -1,0 +1,55 @@
+<bill session="103" type="sj" number="206" updated="2012-07-17T05:01:15-04:00">
+	<state datetime="1994-06-29">REFERRED</state>
+	<status><introduced datetime="1994-06-29"/></status>
+
+	<introduced datetime="1994-06-29"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution designating September 17, 1994, as &quot;Constitution Day&quot;.</title>
+	</titles>
+	<sponsor id="411818"/>
+	<cosponsors>
+		<cosponsor id="300150" joined="1994-07-13"/>
+		<cosponsor id="409580" joined="1994-09-20"/>
+		<cosponsor id="300059" joined="1994-08-19"/>
+		<cosponsor id="403142" joined="1994-07-19"/>
+		<cosponsor id="407786" joined="1994-08-19"/>
+		<cosponsor id="300015" joined="1994-07-19"/>
+		<cosponsor id="401709" joined="1994-09-23"/>
+		<cosponsor id="300092" joined="1994-09-14"/>
+		<cosponsor id="300084" joined="1994-09-23"/>
+		<cosponsor id="403346" joined="1994-08-19"/>
+		<cosponsor id="400564" joined="1994-09-20"/>
+		<cosponsor id="402412" joined="1994-09-14"/>
+		<cosponsor id="300099" joined="1994-09-14"/>
+		<cosponsor id="407254" joined="1994-07-11"/>
+		<cosponsor id="300086" joined="1994-09-20"/>
+		<cosponsor id="300157" joined="1994-09-20"/>
+		<cosponsor id="403962" joined="1994-09-20"/>
+		<cosponsor id="300001" joined="1994-09-20"/>
+		<cosponsor id="405310" joined="1994-07-22"/>
+		<cosponsor id="300064" joined="1994-07-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-29" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S7963-7964)</text></action>
+		<action datetime="1994-06-29" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="390" />
+	</relatedbills>
+	<subjects>
+		<term name="Special days"/>
+		<term name="Commemorations"/>
+		<term name="Law"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/29/1994--Introduced.
+Designates September 17, 1994, as Constitution Day.
+
+	</summary>
+</bill>

@@ -1,0 +1,37 @@
+<bill session="103" type="s" number="280" updated="2012-07-17T05:03:37-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend the temporary suspension of duty on fresh cantaloupes imported between January 1 and May 15 of each year.</title>
+	</titles>
+	<sponsor id="300159"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="452" />
+		<bill relation="identical" session="103" type="s" number="272" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Fruit and fruit trade"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to extend, through December 31, 1994, the suspension of duty on fresh cantaloupes entered into the United States during the period from January 1 to May 15, inclusive, in any year.
+
+	</summary>
+</bill>

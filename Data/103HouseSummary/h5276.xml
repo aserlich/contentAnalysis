@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="5276" updated="2010-04-19T12:53:30-04:00">
+	<state datetime="1994-10-07">REFERRED</state>
+	<status><introduced datetime="1994-10-07"/></status>
+
+	<introduced datetime="1994-10-07"/>
+	<titles>
+		<title type="official" as="introduced">To provide for the relief of hospitals treating rural populations under the current calculation of the wage index modifier for the prospective payment under Medicare.</title>
+	</titles>
+	<sponsor id="400334"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-07"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-10-20"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Health policy"/>
+		<term name="Hospital care"/>
+		<term name="Hospitals"/>
+		<term name="Labor"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Medicine"/>
+		<term name="Prospective payment systems (Medical care)"/>
+		<term name="Rural affairs"/>
+		<term name="Rural hospitals"/>
+		<term name="Wages"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1994--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act with respect to prospective payment to hospitals for inpatient hospital services to require updates to a specified factor in the calculation of the wage index modifier for certain hospitals in rural and urban areas.
+
+	</summary>
+</bill>

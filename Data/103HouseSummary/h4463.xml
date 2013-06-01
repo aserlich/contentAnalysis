@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="4463" updated="2010-04-19T10:46:46-04:00">
+	<state datetime="1994-05-19">REFERRED</state>
+	<status><introduced datetime="1994-05-19"/></status>
+
+	<introduced datetime="1994-05-19"/>
+	<titles>
+		<title type="short" as="introduced">Health Care Reform Assessment Act of 1994</title>
+		<title type="official" as="introduced">To provide for studies in order to establish a basis for evaluating the impact of health care reform.</title>
+	</titles>
+	<sponsor id="410496"/>
+	<cosponsors>
+		<cosponsor id="405775" joined="1994-07-20"/>
+		<cosponsor id="400262" joined="1994-07-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-19"><text>Sponsor introductory remarks on measure. (CR E996-997)</text></action>
+		<action datetime="1994-05-19"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-05-19"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-05-24"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1994-06-07"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Evaluation"/>
+		<term name="Evaluation research (Social action programs)"/>
+		<term name="Health care reform"/>
+		<term name="Health policy"/>
+		<term name="Health surveys"/>
+		<term name="Legislation"/>
+		<term name="Medical economics"/>
+		<term name="Nongovernmental organizations"/>
+		<term name="Nonprofit organizations"/>
+		<term name="Quality of care"/>
+		<term name="Social services"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/19/1994--Introduced.
+Health Care Reform Assessment Act of 1994 - Directs the Secretary of Health and Human Services to seek to enter into an agreement with the Institute of Medicine of the National Academy of Sciences (or another nonprofit, nongovernmental organization or consortium of institutions) to study and report on the impact of health care reform legislation at the national, regional, and State levels. Sets forth provisions regarding: (1) the purpose of the study (to develop a detailed framework to assess the impact of health care reforms on national goals, such as assuring security of coverage, promoting simplicity of administration, achieving health care savings, encouraging individual responsibility, improving quality of care, promoting choice, and improving health status); and (2) reporting requirements (including recommendations regarding appropriate indicators of national progress towards meeting such goals, appropriate study designs, data elements and public and private sources of information for measuring such indicators, the nature, scope, and frequency of reports that would best serve in evaluating health reform efforts, overall cost estimates associated with obtaining and evaluating this information, and ways that health care reform assessment findings could be used by various groups). Authorizes appropriations. Directs the Secretary to seek to enter into such agreement to develop and report on baseline information to measure access to, and quality and cost of, health care and the individual and public health status of permanent residents of the United States. Authorizes appropriations.
+
+	</summary>
+</bill>

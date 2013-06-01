@@ -1,0 +1,62 @@
+<bill session="103" type="h" number="280" updated="2010-04-18T23:43:18-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend the National School Lunch Act to remove the requirement that schools participating in the school lunch program offer students specific types of fluid milk, and for other purposes.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+		<cosponsor id="400126" joined="1993-04-29"/>
+		<cosponsor id="408052" joined="1993-03-25"/>
+		<cosponsor id="400122" joined="1994-02-03"/>
+		<cosponsor id="400333" joined="1993-01-05"/>
+		<cosponsor id="400295" joined="1993-01-05"/>
+		<cosponsor id="300038" joined="1993-05-19"/>
+		<cosponsor id="300087" joined="1993-03-25"/>
+		<cosponsor id="400306" joined="1993-01-05"/>
+		<cosponsor id="409205" joined="1993-03-25"/>
+		<cosponsor id="400354" joined="1993-03-25"/>
+		<cosponsor id="400417" joined="1994-03-24"/>
+		<cosponsor id="411947" joined="1993-04-29"/>
+		<cosponsor id="400533" joined="1993-01-05"/>
+		<cosponsor id="411065" joined="1993-03-25"/>
+		<cosponsor id="400103" joined="1993-03-25"/>
+		<cosponsor id="400070" joined="1993-04-29"/>
+		<cosponsor id="400178" joined="1993-04-29"/>
+		<cosponsor id="400604" joined="1993-03-25"/>
+		<cosponsor id="400281" joined="1993-03-25"/>
+		<cosponsor id="400211" joined="1993-01-05"/>
+		<cosponsor id="400615" joined="1993-03-25"/>
+		<cosponsor id="400391" joined="1993-06-18"/>
+		<cosponsor id="410407" joined="1993-03-25"/>
+		<cosponsor id="400611" joined="1993-03-25"/>
+		<cosponsor id="400100" joined="1993-03-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="88" />
+	</relatedbills>
+	<subjects>
+		<term name="Food"/>
+		<term name="Education"/>
+		<term name="Milk"/>
+		<term name="School lunch program"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends the National School Lunch Act to remove the requirement that schools participating in the school lunch program offer students specified types of fluid milk (while retaining the requirement that they offer fluid milk).
+
+	</summary>
+</bill>

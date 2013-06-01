@@ -1,0 +1,77 @@
+<bill session="103" type="h" number="5155" updated="2010-04-19T12:34:49-04:00">
+	<state datetime="1994-10-19">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-19" /></status>
+
+	<introduced datetime="1994-10-03"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the transfer of naval vessels to certain foreign countries.</title>
+	</titles>
+	<sponsor id="404996"/>
+	<cosponsors>
+		<cosponsor id="400536" joined="1994-10-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-03"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-10-03"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-10-03"  state="REPORTED"><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-10-04T22:19:00-04:00"><text>Mr. Andrews (NJ) moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-10-04T22:19:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10827-10828"/></action>
+		<action datetime="1994-10-04T22:19:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-04T22:24:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Walker objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed until Oct. 5. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1994-10-05T18:43:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10921"/></action>
+		<vote how="by voice vote" type="vote" datetime="1994-10-05T18:43:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-05T18:44:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-06"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-07" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S14676"/></vote>
+		<topresident datetime="1994-10-07" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-12"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-14" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-19" ><text>Signed by President.</text></signed>
+		<enacted number="103-378" type="public" datetime="1994-10-19"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-378.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="American military assistance"/>
+		<term name="Amphibious ships"/>
+		<term name="Argentina"/>
+		<term name="Arms sales"/>
+		<term name="Buy American"/>
+		<term name="Chile"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Defense policy"/>
+		<term name="East Asia"/>
+		<term name="Europe"/>
+		<term name="Export controls"/>
+		<term name="Foreign aid"/>
+		<term name="Foreign trade"/>
+		<term name="Latin America"/>
+		<term name="Leases"/>
+		<term name="Maintenance and repair"/>
+		<term name="Malaysia"/>
+		<term name="Military posture"/>
+		<term name="Shipbuilding"/>
+		<term name="Spain"/>
+		<term name="Surplus government property"/>
+		<term name="Taiwan"/>
+		<term name="Trade"/>
+		<term name="Transportation"/>
+		<term name="Venezuela"/>
+		<term name="Weapons systems"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Introduced.
+Authorizes the Secretary of the Navy to transfer to: (1) Argentina the tank landing ship Schenectady; (2) Chile the tank landing ships Newport and San Bernardino; (3) Malaysia the tank landing ship Spartanburg County; (4) Spain the tank landing ship Harlan County; (5) Taiwan the tank landing ships Manitowoc and Sumter; and (6) Venezuela the tank landing ships Peoria and Barbour County. Waives certain congressional notification requirements with respect to such transfers. Requires recipients to bear transfer costs. Expresses the sense of the Congress that the Secretary should request that each country receiving a vessel under this Act have any needed vessel repair or refurbishment performed at shipyards located in the United States, including U.S. Navy shipyards. Provides transfer conditions.
+
+	</summary>
+</bill>

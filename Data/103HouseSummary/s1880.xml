@@ -1,0 +1,57 @@
+<bill session="103" type="s" number="1880" updated="2012-07-17T05:28:34-04:00">
+	<state datetime="1994-08-01">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-08-01" /></status>
+
+	<introduced datetime="1994-03-01"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide that the National Education Commission on Time and Learning shall terminate on September 30, 1994.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+		<cosponsor id="408597" joined="1994-07-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-01" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2168-2169)</text></action>
+		<action datetime="1994-03-01" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<action datetime="1994-03-21"><committee name="Committee on Labor and Human Resources"/><text>Referred to Subcommittee on Education, Arts, Humanities.</text></action>
+		<action datetime="1994-07-15"><text>Senate Committee on Labor and Human Resources discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S9128"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-07-15" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text></vote>
+		<action datetime="1994-07-19"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-07-19T12:03:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-07-19T13:56:00-04:00"><text>Mr. Kildee asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1994-07-19T13:56:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H5807"/></action>
+		<vote how="without objection" type="vote2" datetime="1994-07-19T13:57:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-07-19T13:57:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-07-19" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-07-21" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-08-01" ><text>Signed by President.</text></signed>
+		<enacted number="103-290" type="public" datetime="1994-08-01"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-290.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Discharged" />
+		<committee code="" name="Senate Labor and Human Resources" subcommittee="Education, Arts and Humanities" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Academic performance"/>
+		<term name="Educational facilities"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Elementary education"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Government operations and politics"/>
+		<term name="Secondary education"/>
+		<term name="Teachers"/>
+		<term name="Year round schools"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/1/1994--Introduced.
+Terminates the National Commission on Time and Learning on September 30, 1994.
+
+	</summary>
+</bill>

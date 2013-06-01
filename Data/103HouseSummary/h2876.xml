@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="2876" updated="2012-07-17T05:35:44-04:00">
+	<state datetime="1993-11-22">PASS_BACK:SENATE</state>
+	<status><vote2 datetime="1993-11-22" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-08-05"/>
+	<titles>
+		<title type="short" as="introduced">National Aeronautics and Space Administration Management Reorganization Act of 1993</title>
+		<title type="short" as="passed senate">National Aeronautics and Space Administration Management Reorganization Act of 1993</title>
+		<title type="official" as="introduced">To promote and support management reorganization of the National Aeronautics and Space Administration.</title>
+	</titles>
+	<sponsor id="400572"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-05" state="REFERRED"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-08-05"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-08-06T16:53:00-04:00"><text>Committee on Science, Space and Technology discharged.</text></action>
+		<action datetime="1993-08-06T16:53:00-04:00"><text>Committee on Post Office and Civil Service discharged.</text></action>
+		<action datetime="1993-08-06T16:53:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H6356-6358"/></action>
+		<action datetime="1993-08-06T16:53:00-04:00"><text>Mr. Hall (TX) asked unanimous consent to discharge from committees and consider.</text></action>
+		<vote how="without objection" type="vote" datetime="1993-08-06T16:54:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-08-06T16:54:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-08-06"><text>Received in the Senate and read twice and referred to the Committee on Commerce.</text></action>
+		<action datetime="1993-11-22"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-22"><text>Senate Committee on Commerce discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S16984"/></action>
+		<action datetime="1993-11-22"><text>Measure laid before Senate.</text></action>
+		<action datetime="1993-11-22"><text>Amendment SP 1239 proposed by Senator Biden for Senator Glenn.</text></action>
+		<action datetime="1993-11-22"><text>Amendment SP 1239 agreed to in Senate by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-11-22" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+	</actions>
+	<committees>
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Discharged" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2800" />
+	</relatedbills>
+	<subjects>
+		<term name="Space sciences"/>
+		<term name="Civil service retirement"/>
+		<term name="Dismissal wage"/>
+		<term name="Early retirement"/>
+		<term name="Federal employees"/>
+		<term name="Federal officials"/>
+		<term name="National Aeronautics and Space Administration"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1239"/>
+	</amendments>
+	<summary>
+	11/22/1993--Passed Senate amended. National Aeronautics and Space Administration Management Reorganization Act of 1993 - Directs the Administrator of the National Aeronautics and Space Administration (NASA) to establish a separation pay program to encourage eligible employees to voluntarily retire or resign from NASA.
+
+	</summary>
+</bill>

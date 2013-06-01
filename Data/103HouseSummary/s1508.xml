@@ -1,0 +1,48 @@
+<bill session="103" type="s" number="1508" updated="2010-04-19T18:25:34-04:00">
+	<state datetime="1993-10-26">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-10-26" /></status>
+
+	<introduced datetime="1993-09-30"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the definition of a rural community for eligibility for economic recovery funds, and for other purposes.</title>
+	</titles>
+	<sponsor id="300076"/>
+	<cosponsors>
+		<cosponsor id="405212" joined="1993-09-30"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-09-30" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S12846-12847"/></vote>
+		<action datetime="1993-10-04T12:02:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-10-04T12:50:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-10-04"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-10-06T18:17:00-04:00"><text>Mr. Volkmer asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1993-10-06T18:17:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H7509-7510"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-10-06T18:18:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-10-06T18:18:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-10-06" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-10-14" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-10-26" ><text>Signed by President.</text></signed>
+		<enacted number="103-115" type="public" datetime="1993-10-26"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-115.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3172" />
+	</relatedbills>
+	<subjects>
+		<term name="Forests and forestry"/>
+		<term name="Diversification in industry"/>
+		<term name="Lumber trade"/>
+		<term name="National forests"/>
+		<term name="Rural economic development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/1993--Introduced.
+Amends the Food, Agriculture, Conservation, and Trade Act of 1990 to redefine &quot;rural community&quot; for purposes of assistance programs for forest-dependent rural communities.
+
+	</summary>
+</bill>

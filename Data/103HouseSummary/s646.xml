@@ -1,0 +1,69 @@
+<bill session="103" type="s" number="646" updated="2012-07-17T05:54:41-04:00">
+	<state datetime="1993-06-29">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-06-29" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-03-24"/>
+	<titles>
+		<title type="short" as="introduced">International Fusion Energy Act of 1993</title>
+		<title type="short" as="passed senate">International Fusion Energy Act of 1993</title>
+		<title type="official" as="introduced">A bill to establish within the Department of Energy an international fusion energy program, and for other purposes.</title>
+	</titles>
+	<sponsor id="406084"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3653-3654)</text></action>
+		<action datetime="1993-03-24" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-05-06"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 103-104.</text></action>
+		<calendar datetime="1993-05-19"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1993-06-22"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments. With written report No. 103-62. Additional views filed.</text></action>
+		<calendar under="General Orders" number="100" datetime="1993-06-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 100.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-06-29" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with amendments by Voice Vote.</text><reference label="consideration" ref="CR S8270-8272"/></vote>
+		<action datetime="1993-06-30T10:05:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-06-30"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-06-30"><text>Referred jointly to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1993-06-30"><text>Referred jointly to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-06-30"><text>Referred jointly to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-07-12"><committee name="Committee on Energy and Natural Resources"/><text>Referred to the Subcommittee on International Security, International Organizations and Human Rights.</text></action>
+		<action datetime="1993-07-20"><committee name="Committee on Energy and Natural Resources"/><text>Referred to the Subcommittee on Energy.</text></action>
+		<action datetime="1993-09-03"><committee name="Committee on Energy and Natural Resources"/><text>Referred to the Subcommittee on Energy and Power.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Energy" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="HSIF-03" name="House Energy and Commerce" subcommittee="Energy and Power" activity="Referral" />
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Security, International Organizations, and Human Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Nuclear energy"/>
+		<term name="Electric utilities"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Executive reorganization"/>
+		<term name="International affairs"/>
+		<term name="International cooperation in science"/>
+		<term name="Negotiations"/>
+		<term name="Nuclear energy research"/>
+		<term name="Nuclear fusion"/>
+		<term name="Nuclear industry"/>
+		<term name="Nuclear reactors"/>
+		<term name="Nuclear research"/>
+		<term name="Research and development"/>
+		<term name="Science, technology, communications"/>
+		<term name="Treaties"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/29/1993--Passed Senate amended. International Fusion Energy Act of 1993 - Establishes the Office of the International Fusion Negotiator, whose head shall represent the United States in international negotiations regarding the International Thermonuclear Experimental Reactor (ITER). Directs the Secretary of Energy to redirect and refocus the Department of Energy (DOE) magnetic fusion program towards implementation of ITER, and a fusion demonstration reactor. Outlines ITER program requirements and management plan. Authorizes the Negotiator to enter into international agreements regarding ITER implementation and cost sharing. Requires the Negotiator to submit an annual status report to the Congress on such agreements. Authorizes appropriations.
+
+	</summary>
+</bill>

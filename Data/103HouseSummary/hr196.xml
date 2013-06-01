@@ -1,0 +1,44 @@
+<bill session="103" type="hr" number="196" updated="2010-04-19T13:29:25-04:00">
+	<state datetime="1993-06-15T19:02:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-06-15T19:02:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-06-14"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 2333) to authorize appropriations for the Department of State, the United States Information Agency, and related agencies, to authorize appropriations for foreign assistance programs, and for other purposes, and the bill (H.R. 2404) to authorize appropriations for foreign assistance programs, and for other purposes.</title>
+	</titles>
+	<sponsor id="400538"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-14T18:39:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-130, by Mr. Hall (OH).</text></action>
+		<action datetime="1993-06-14T18:39:00-04:00"><text>Rule provides for consideration of H.R. 2333 and H.R. 2404 with 1 hour of general debate. Upon adoption of this rule it shall be in order for the Speaker to declare the House resolved into the Committee of the Whole House for the separate consideration of the bills. All points of order against consideration of the bills shall be waived. At the conclusion of general debate on each bill, the Committee of the Whole shall rise without motion. No further consideration of either bill shall be in order except pursuant to a subsequent order of the House.</text></action>
+		<calendar datetime="1993-06-14T18:40:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 50.</text></calendar>
+		<action datetime="1993-06-15T18:05:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H3569-3575"/></action>
+		<action datetime="1993-06-15T18:06:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-06-15T19:02:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-06-15T19:02:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1993-06-15T19:02:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2333" />
+		<bill relation="unknown" session="103" type="h" number="2333" />
+		<bill relation="unknown" session="103" type="h" number="2404" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Foreign relations"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/14/1993--Introduced.
+Sets forth the rule for the consideration of: (1) H.R. 2333 (authorizing appropriations for the Department of State, the United States Information Agency, related agencies, and foreign assistance programs); and (2) H.R. 2404 (authorizing appropriations for foreign assistance programs).
+
+	</summary>
+</bill>

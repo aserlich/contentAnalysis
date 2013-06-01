@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="2485" updated="2010-04-19T05:39:02-04:00">
+	<state datetime="1993-06-22">REFERRED</state>
+	<status><introduced datetime="1993-06-22"/></status>
+
+	<introduced datetime="1993-06-22"/>
+	<titles>
+		<title type="official" as="introduced">To suspend temporarily the duty on Bisphenol AF.</title>
+	</titles>
+	<sponsor id="400332"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-22"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-06-30"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1994-02-23"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="813" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Chemicals"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/22/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1995, the duty on 4,4 (trifluoro-1 (trifluoromethyl) ethylidene) diphenol or 2,2-bis(4-hydroxyphenyl) hexafluoropropane (bisphenol AF).
+
+	</summary>
+</bill>

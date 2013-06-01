@@ -1,0 +1,47 @@
+<bill session="103" type="s" number="207" updated="2012-07-17T05:07:06-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="popular" as="">Earnings Test Elimination</title>
+		<title type="short" as="introduced">Older Americans' Freedom to Work Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend title II of the Social Security Act to eliminate the earnings test for individuals who have attained retirement age.</title>
+	</titles>
+	<sponsor id="300069"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-03-02"/>
+		<cosponsor id="300052" joined="1993-04-19"/>
+		<cosponsor id="300036" joined="1993-11-20"/>
+		<cosponsor id="300079" joined="1993-02-16"/>
+		<cosponsor id="402675" joined="1993-03-17"/>
+		<cosponsor id="400562" joined="1993-02-16"/>
+		<cosponsor id="406256" joined="1993-02-16"/>
+		<cosponsor id="300023" joined="1993-02-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S717)</text></action>
+		<action datetime="1993-01-26" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="300" />
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Earnings"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Older workers"/>
+		<term name="Retirement income"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Older Americans' Freedom to Work Act of 1993 - Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to remove the limitation on the amount of outside income which beneficiaries who have attained retirement age may earn without incurring a reduction in benefits.
+
+	</summary>
+</bill>

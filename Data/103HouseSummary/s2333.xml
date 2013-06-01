@@ -1,0 +1,38 @@
+<bill session="103" type="s" number="2333" updated="2012-07-17T05:27:08-04:00">
+	<state datetime="1994-08-11">REPORTED</state>
+	<status><calendar datetime="1994-08-11" /></status>
+
+	<introduced datetime="1994-07-28"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize the Secretary of Transportation to issue a certificate of documentation with appropriate endorsement for employment in the coastwise trade for the vessel SHAMROCK V.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+		<cosponsor id="300059" joined="1994-07-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-28" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S10056)</text></action>
+		<action datetime="1994-07-28" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<calendar datetime="1994-08-11"  state="REPORTED"><committee name="Committee on Commerce"/><text>Committee on Commerce. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action datetime="1994-08-19"><text>Committee on Commerce. Reported to Senate by Senator Hollings with an amendment. With written report No. 103-346.</text></action>
+		<calendar under="General Orders" number="588" datetime="1994-08-19" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 588.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Ships"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/28/1994--Introduced.
+Authorizes the Secretary of Transportation to issue a certificate of documentation for a named vessel for employment in the coastwise trade.
+
+	</summary>
+</bill>

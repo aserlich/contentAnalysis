@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="4268" updated="2010-04-19T10:16:11-04:00">
+	<state datetime="1994-04-20">REFERRED</state>
+	<status><introduced datetime="1994-04-20"/></status>
+
+	<introduced datetime="1994-04-20"/>
+	<titles>
+		<title type="short" as="introduced">Federal Retirement Reform Act</title>
+		<title type="official" as="introduced">To amend certain provisions of title 5, United States Code, relating to the age and service requirements for entitlement to an immediate annuity under the Civil Service Retirement System or the Federal Employees' Retirement System, and for other purposes.</title>
+	</titles>
+	<sponsor id="400370"/>
+	<cosponsors>
+		<cosponsor id="400015" joined="1994-04-20"/>
+		<cosponsor id="400036" joined="1994-04-20"/>
+		<cosponsor id="408618" joined="1994-04-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-20"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-04-26"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Annuities"/>
+		<term name="Civil service pensions"/>
+		<term name="Civil service retirement"/>
+		<term name="Congress"/>
+		<term name="Congressional salaries and pensions"/>
+		<term name="Early retirement"/>
+		<term name="Government employees"/>
+		<term name="Pensions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/20/1994--Introduced.
+Federal Retirement Reform Act - Amends Federal law to revise age and service requirements for entitlement to an immediate annuity as well as deferred retirement (and deferred annuities) for Federal employees under the Civil Service (CSRS) and the Federal Employees' (FERS) Retirement Systems, and for Members of Congress.
+
+	</summary>
+</bill>

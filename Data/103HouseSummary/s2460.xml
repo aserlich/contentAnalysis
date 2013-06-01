@@ -1,0 +1,58 @@
+<bill session="103" type="s" number="2460" updated="2012-07-17T06:06:19-04:00">
+	<state datetime="1994-09-26">REFERRED</state>
+	<status><introduced datetime="1994-09-26"/></status>
+
+	<introduced datetime="1994-09-26"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend for an additional two years the period during which medicare select policies may be issued.</title>
+	</titles>
+	<sponsor id="402412"/>
+	<cosponsors>
+		<cosponsor id="300059" joined="1994-10-05"/>
+		<cosponsor id="300043" joined="1994-10-05"/>
+		<cosponsor id="402675" joined="1994-10-06"/>
+		<cosponsor id="400562" joined="1994-10-05"/>
+		<cosponsor id="300037" joined="1994-09-29"/>
+		<cosponsor id="300061" joined="1994-10-03"/>
+		<cosponsor id="300072" joined="1994-10-05"/>
+		<cosponsor id="409917" joined="1994-10-05"/>
+		<cosponsor id="403669" joined="1994-09-26"/>
+		<cosponsor id="404219" joined="1994-10-05"/>
+		<cosponsor id="403346" joined="1994-10-05"/>
+		<cosponsor id="403171" joined="1994-10-05"/>
+		<cosponsor id="300046" joined="1994-10-05"/>
+		<cosponsor id="400561" joined="1994-10-05"/>
+		<cosponsor id="300010" joined="1994-10-05"/>
+		<cosponsor id="400566" joined="1994-10-06"/>
+		<cosponsor id="300054" joined="1994-10-05"/>
+		<cosponsor id="407992" joined="1994-10-05"/>
+		<cosponsor id="300026" joined="1994-10-03"/>
+		<cosponsor id="405310" joined="1994-10-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-26" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S13351)</text></action>
+		<action datetime="1994-09-26" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="5082" />
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Health"/>
+		<term name="Health insurance"/>
+		<term name="Health maintenance organizations"/>
+		<term name="Medicare"/>
+		<term name="Peer review organizations (Medicine)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/26/1994--Introduced.
+Amends the Omnibus Budget Reconciliation Act of 1990 to extend from three years to five years the period during which Medicare select policies may be issued.
+
+	</summary>
+</bill>

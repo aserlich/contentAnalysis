@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="2916" updated="2010-04-19T06:45:55-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="short" as="introduced">Older Americans Preventive Health Act of 1993</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for coverage of a comprehensive health assessment and certain immunizations under part B of the medicare program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400028"/>
+	<cosponsors>
+		<cosponsor id="400380" joined="1993-10-26"/>
+		<cosponsor id="400143" joined="1993-10-26"/>
+		<cosponsor id="407044" joined="1993-10-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-13"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-09-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Authorization"/>
+		<term name="Cancer"/>
+		<term name="Diphtheria"/>
+		<term name="Health education"/>
+		<term name="Medical care"/>
+		<term name="Medical screening"/>
+		<term name="Medical tests"/>
+		<term name="Medicare"/>
+		<term name="Poor"/>
+		<term name="Preventive medicine"/>
+		<term name="Tuberculosis"/>
+		<term name="Vaccination"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Older Americans Preventive Health Act of 1993 - Amends title XVIII (Medicare) of the Social Security Act to provide for coverage of a comprehensive health assessment and certain immunizations under Medicare part B (Supplementary Medical Insurance). Amends the Public Health Service Act to authorize additional appropriations for the provision of education and information regarding cancer to health professionals and the public.
+
+	</summary>
+</bill>

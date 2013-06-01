@@ -1,0 +1,57 @@
+<bill session="103" type="h" number="3596" updated="2010-04-19T08:31:20-04:00">
+	<state datetime="1993-11-20">REFERRED</state>
+	<status><introduced datetime="1993-11-20"/></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="short" as="introduced">Movement Disorders Research Amendments of 1993</title>
+		<title type="official" as="introduced">To amend the Public Health Service Act to provide for the establishment by the National Institutes of Health of research centers regarding movement disorders.</title>
+	</titles>
+	<sponsor id="400359"/>
+	<cosponsors>
+		<cosponsor id="400505" joined="1994-07-28"/>
+		<cosponsor id="400126" joined="1994-06-21"/>
+		<cosponsor id="400064" joined="1993-11-20"/>
+		<cosponsor id="405775" joined="1994-06-21"/>
+		<cosponsor id="400180" joined="1994-06-16"/>
+		<cosponsor id="400603" joined="1994-06-16"/>
+		<cosponsor id="400574" joined="1994-07-26"/>
+		<cosponsor id="400262" joined="1994-06-16"/>
+		<cosponsor id="400402" joined="1994-06-16"/>
+		<cosponsor id="400057" joined="1994-06-16"/>
+		<cosponsor id="400299" joined="1994-06-16"/>
+		<cosponsor id="400599" joined="1994-06-16"/>
+		<cosponsor id="406790" joined="1994-07-26"/>
+		<cosponsor id="400100" joined="1994-06-16"/>
+		<cosponsor id="400537" joined="1994-06-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-20"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-01-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2046" />
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Budgets"/>
+		<term name="Federal aid to medical research"/>
+		<term name="Hereditary diseases"/>
+		<term name="Medicine"/>
+		<term name="Nervous system diseases"/>
+		<term name="Research centers"/>
+		<term name="Science policy"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+Movement Disorders Research Amendments of 1993 - Amends the Public Health Service Act to authorize the Director of the National Institutes of Health (NIH), acting through the Directors of the appropriate national research institutes, to make grants to, or enter into contracts with, public or nonprofit private entities for the development and operation of centers to conduct basic and clinical research on movement disorders. Requires this Act to be carried out with funds otherwise appropriated for NIH activities.
+
+	</summary>
+</bill>

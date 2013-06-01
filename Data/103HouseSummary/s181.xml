@@ -1,0 +1,48 @@
+<bill session="103" type="s" number="181" updated="2012-07-17T06:08:28-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="short" as="introduced">Black Bear Protection Act</title>
+		<title type="official" as="introduced">A bill to prohibit the export of American black bear viscera, and for other purposes.</title>
+	</titles>
+	<sponsor id="300072"/>
+	<cosponsors>
+		<cosponsor id="300092" joined="1993-10-18"/>
+		<cosponsor id="300031" joined="1993-07-20"/>
+		<cosponsor id="406084" joined="1994-02-01"/>
+		<cosponsor id="300155" joined="1993-09-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S692-693)</text></action>
+		<action datetime="1993-01-26" state="REFERRED"><text>Read twice and referred to the Committee on Banking.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="55" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Bears"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Data banks"/>
+		<term name="Environmental protection"/>
+		<term name="Export controls"/>
+		<term name="Exports"/>
+		<term name="Imports"/>
+		<term name="Protection of animals"/>
+		<term name="Trade negotiations"/>
+		<term name="Wildlife conservation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Black Bear Protection Act - Directs the Secretary of Commerce under the Export Administration Act of 1979 to prohibit the export of American black bear viscera. Requires the Secretary of the Interior to report to the Congress on the American black bear viscera trade. Requires the United States Trade Representative to discuss issues involving such trade with countries that are the leading importers of such products.
+
+	</summary>
+</bill>

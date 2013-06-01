@@ -1,0 +1,86 @@
+<bill session="103" type="s" number="433" updated="2012-07-17T04:48:39-04:00">
+	<state datetime="1993-12-02">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-02" /></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize and direct the Secretary of the Interior to convey certain lands in Cameron Parish, Louisiana, and for other purposes.</title>
+	</titles>
+	<sponsor id="406084"/>
+	<cosponsors>
+		<cosponsor id="300012" joined="1993-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2034)</text></action>
+		<action datetime="1993-02-24" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-02-25"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1993-03-02"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<calendar datetime="1993-03-03"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-03-11"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 103-18.</text></action>
+		<calendar under="General Orders" number="32" datetime="1993-03-11" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 32.</text></calendar>
+		<action datetime="1993-03-25"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S3681-3682"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-03-25" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with amendments by Voice Vote.</text></vote>
+		<action datetime="1993-03-25T14:15:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-03-25T16:02:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-05-05"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-06-15"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-07-13"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-10-14"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-10-14"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-11-10"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-11-10" ><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-11-15T13:36:00-05:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-365.</text></action>
+		<calendar number="199" datetime="1993-11-15T13:36:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 199.</text></calendar>
+		<action datetime="1993-11-15T16:09:00-05:00"><text>Mr. Vento moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-15T16:10:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9620-9622"/></action>
+		<action datetime="1993-11-15T16:10:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote2" datetime="1993-11-15T16:13:00-05:00" where="h" result="pass"  state="PASS_BACK:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-15T16:13:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-16"><text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text></action>
+		<action datetime="1993-11-17"><text>Senate agreed to the House amendment by Voice Vote.</text><reference label="consideration" ref="CR S15958"/></action>
+		<topresident datetime="1993-11-17" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-11-18"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-11-20" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-02" ><text>Signed by President.</text></signed>
+		<enacted number="103-175" type="public" datetime="1993-12-02"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-175.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1139" />
+		<bill relation="unknown" session="103" type="h" number="1139" />
+		<bill relation="unknown" session="103" type="h" number="1139" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Armed forces and national security"/>
+		<term name="Army posts"/>
+		<term name="California"/>
+		<term name="Coast guard"/>
+		<term name="Education"/>
+		<term name="Educational facilities"/>
+		<term name="Harbors"/>
+		<term name="Higher education"/>
+		<term name="Land transfers"/>
+		<term name="Leases"/>
+		<term name="Louisiana"/>
+		<term name="Port authorities"/>
+		<term name="Radio broadcasting"/>
+		<term name="Rent"/>
+		<term name="Research centers"/>
+		<term name="Science, technology, communications"/>
+		<term name="Transportation and public works"/>
+	</subjects>
+	<amendments>
+		<amendment number="s267"/>
+		<amendment number="s268"/>
+	</amendments>
+	<summary>
+	11/15/1993--Passed House amended. Directs the Secretary of the Interior to convey certain lands located in Cameron Parish, Louisiana, to the West Cameron Port Commission for use as a public port facility or for other public purposes, subject to reversion to the United States if such lands cease to be operated for such purposes, retention of the Calcasieu Pass Radio Beacon Site for the Coast Guard, retention of a U.S. permit for installation and maintenance of a tide gauge and height restrictions for a radio tower, and a reservation of minerals. Authorizes the Secretary to negotiate and enter into leases for all or part of the Letterman-LAIR complex at the Presidio of San Francisco to be used for scientific, research, or educational purposes. Requires the Secretary to use the proceeds from such lease for five years after the enactment of this Act for the preservation, restoration, operation, maintenance, improvement, repair, and related expenses incurred with respect to Presidio properties.
+
+	</summary>
+</bill>

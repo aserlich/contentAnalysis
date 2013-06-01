@@ -1,0 +1,40 @@
+<bill session="103" type="h" number="2233" updated="2010-04-19T05:00:06-04:00">
+	<state datetime="1993-05-20">REFERRED</state>
+	<status><introduced datetime="1993-05-20"/></status>
+
+	<introduced datetime="1993-05-20"/>
+	<titles>
+		<title type="official" as="introduced">To deny, under certain conditions, most-favored-nation treatment to the products of countries that engage in nuclear explosive device testing.</title>
+	</titles>
+	<sponsor id="400387"/>
+	<cosponsors>
+		<cosponsor id="400354" joined="1993-05-20"/>
+		<cosponsor id="400314" joined="1993-05-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-20"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-28"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Arms control"/>
+		<term name="Arms control agreements"/>
+		<term name="Most favored nation principle"/>
+		<term name="Nuclear weapons"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to require the President to deny most-favored-nation treatment to the products of countries that engage in nuclear explosive device testing during any period in which the United States is: (1) observing a moratorium on such testing; or (2) party to a nuclear explosive test ban treaty.
+
+	</summary>
+</bill>

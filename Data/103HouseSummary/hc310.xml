@@ -1,0 +1,46 @@
+<bill session="103" type="hc" number="310" updated="2010-04-18T21:49:27-04:00">
+	<state datetime="1994-10-06">REFERRED</state>
+	<status><introduced datetime="1994-10-06"/></status>
+
+	<introduced datetime="1994-10-06"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress that any comprehensive health care reform legislation that is enacted should not take effect until the legislation is approved through a national referendum.</title>
+	</titles>
+	<sponsor id="401854"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-06"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-10-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-10-20"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Comprehensive health care"/>
+		<term name="Congress"/>
+		<term name="Elections"/>
+		<term name="Health care reform"/>
+		<term name="Health insurance"/>
+		<term name="Health policy"/>
+		<term name="Legislation"/>
+		<term name="Politics and government"/>
+		<term name="Referendum"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/6/1994--Introduced.
+Declares that it is the sense of the Congress that health care reform legislation that is enacted should not take effect until approved in a national referendum.
+
+	</summary>
+</bill>

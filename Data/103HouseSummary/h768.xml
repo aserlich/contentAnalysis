@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="768" updated="2010-04-19T01:03:50-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to require certain States to contribute to other States' shares of cleanup costs.</title>
+	</titles>
+	<sponsor id="403873"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1993-02-24"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Hazardous waste disposal"/>
+		<term name="Interstate relations"/>
+		<term name="Liability for toxic substances pollution damages"/>
+		<term name="Transboundary pollution"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Amends the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to authorize a State in which a remedial action is being conducted at a hazardous waste facility to recover costs associated with such action from the State in which the waste was generated.
+
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="1115" updated="2012-07-17T04:14:51-04:00">
+	<state datetime="1993-06-16">REFERRED</state>
+	<status><introduced datetime="1993-06-16"/></status>
+
+	<introduced datetime="1993-06-16"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Fair Labor Standards Act of 1938 to ensure that minimum wage requirements do not apply to inmates with respect to work done for the incarcerating entity, and for other purposes.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="406188" joined="1993-08-05"/>
+		<cosponsor id="402727" joined="1993-07-01"/>
+		<cosponsor id="407254" joined="1993-08-05"/>
+		<cosponsor id="400557" joined="1993-06-16"/>
+		<cosponsor id="300046" joined="1993-10-27"/>
+		<cosponsor id="300037" joined="1993-06-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-16" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S7378-7380)</text></action>
+		<action datetime="1993-06-16" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<action datetime="1993-10-28"><committee name="Committee on Labor and Human Resources"/><text>Committee on Labor and Human Resources. Hearings held. Hearings printed: S.Hrg. 103-385.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Hours of labor"/>
+		<term name="Minimum wages"/>
+		<term name="Prison labor"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/16/1993--Introduced.
+Amends the Fair Labor Standards Act of 1938 to exclude from coverage as employees under such Act, and to exempt from minimum wage requirements, inmates of penal or correctional institutions.
+
+	</summary>
+</bill>

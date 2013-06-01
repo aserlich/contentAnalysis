@@ -1,0 +1,63 @@
+<bill session="103" type="h" number="406" updated="2010-04-19T00:03:27-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to modify the involuntary conversion rules for certain disaster-related conversions.</title>
+	</titles>
+	<sponsor id="400387"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1993-07-13"/>
+		<cosponsor id="400126" joined="1993-01-05"/>
+		<cosponsor id="400295" joined="1993-03-02"/>
+		<cosponsor id="400170" joined="1993-02-18"/>
+		<cosponsor id="410496" joined="1993-01-26"/>
+		<cosponsor id="300087" joined="1993-02-18"/>
+		<cosponsor id="400003" joined="1993-01-05"/>
+		<cosponsor id="400511" joined="1993-03-02"/>
+		<cosponsor id="407772" joined="1993-01-05"/>
+		<cosponsor id="403364" joined="1993-01-05"/>
+		<cosponsor id="400436" joined="1993-02-18"/>
+		<cosponsor id="407141" joined="1993-01-05"/>
+		<cosponsor id="400256" joined="1993-03-24"/>
+		<cosponsor id="400595" joined="1993-02-18"/>
+		<cosponsor id="400554" joined="1993-01-05"/>
+		<cosponsor id="400357" joined="1993-01-26"/>
+		<cosponsor id="400163" joined="1993-01-26"/>
+		<cosponsor id="400516" joined="1993-01-26"/>
+		<cosponsor id="400314" joined="1993-04-20"/>
+		<cosponsor id="411488" joined="1993-07-20"/>
+		<cosponsor id="403776" joined="1993-01-26"/>
+		<cosponsor id="400278" joined="1993-01-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Capital gains tax"/>
+		<term name="Disaster relief"/>
+		<term name="Disasters"/>
+		<term name="Home ownership"/>
+		<term name="Housing"/>
+		<term name="Property insurance"/>
+		<term name="Real property"/>
+		<term name="Tax exclusion"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends the Internal Revenue Code to provide special rules with respect to the nonrecognition of gain for principal residences compulsorily or involuntarily converted as a result of a presidentially-declared disaster. Requires the nonrecognition of gain of insurance proceeds for the contents of such residences. Allows insurance proceeds from personal property and real property to be lumped together into one common fund. Extends the time to replace a principal residence from two years to four years.
+
+	</summary>
+</bill>

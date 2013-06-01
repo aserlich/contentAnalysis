@@ -1,0 +1,43 @@
+<bill session="103" type="hj" number="123" updated="2010-04-18T22:10:17-04:00">
+	<state datetime="1993-02-24">REFERRED</state>
+	<status><introduced datetime="1993-02-24"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to provide for a balanced budget for the United States Government.</title>
+	</titles>
+	<sponsor id="408364"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24"><text>Sponsor introductory remarks on measure. (CR H870-874)</text></action>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-03-01"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1994-03-17"><committee name="House Committee on Judiciary"/><text>See H.J.Res.103.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hj" number="103" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Balanced budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Constitutional amendments"/>
+		<term name="Government spending reductions"/>
+		<term name="Record votes"/>
+		<term name="Veto"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Constitutional Amendment - Prohibits outlays for any fiscal year (except those for repayment of debt principal) from exceeding receipts (except those derived from borrowing) for that fiscal year. Directs the President to submit a balanced budget to the Congress. Requires the Congress, whenever actual outlays exceed actual receipts for any fiscal year, to provide by law for the repayment of the excess in the ensuing fiscal year. Requires a sequestration of all outlays to eliminate a budget deficit within 15 days after Congress adjourns, if the Congress fails to provide by law for repayment. Waives these provisions for any fiscal year only if the Congress so provides by law by a majority roll call vote of each House. Subjects such waiver to presidential veto.
+
+	</summary>
+</bill>

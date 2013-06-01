@@ -1,0 +1,61 @@
+<bill session="103" type="s" number="464" updated="2012-07-17T06:01:48-04:00">
+	<state datetime="1993-10-06">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-10-06" /></status>
+
+	<introduced datetime="1993-02-25"/>
+	<titles>
+		<title type="official" as="introduced">A bill to redesignate the Pulaski Post Office located at 111 West College Street in Pulaski, Tennessee, as the &quot;Ross Bass Post Office&quot;.</title>
+	</titles>
+	<sponsor id="409580"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-25" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2146-2147)</text></action>
+		<action datetime="1993-02-25" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<calendar datetime="1993-06-24"  state="REPORTED"><committee name="Committee on Governmental Affairs"/><text>Committee on Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-06-30"><text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="123" datetime="1993-06-30" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 123.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-07-01" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S8552-8553"/></vote>
+		<action datetime="1993-07-13T12:02:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-07-13"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-07-13"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-07-15"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Postal Operations and Services.</text></action>
+		<action datetime="1993-08-04"><committee name="House Committee on Post Office and Civil Service"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-08-04" ><committee name="House Committee on Post Office and Civil Service"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-08-04"><committee name="House Committee on Post Office and Civil Service"/><text>Subcommittee on Postal Operations and Services Discharged.</text></action>
+		<action datetime="1993-09-21T15:08:00-04:00"><text>Miss Collins (MI) moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-09-21T15:09:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6805-6806"/></action>
+		<action datetime="1993-09-21T15:09:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-09-21T15:12:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Burton objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<vote how="roll" type="vote2" roll="440" datetime="1993-09-21T17:55:00-04:00" where="h" result="pass" suspension="1"  state="PASSED:BILL"><text>On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 420 - 3 (Roll no. 440).</text></vote>
+		<action datetime="1993-09-21T17:55:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-09-21" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-09-24" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-10-06" ><text>Signed by President.</text></signed>
+		<enacted number="103-97" type="public" datetime="1993-10-06"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-97.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Postal Operations and Services" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Commemorations"/>
+		<term name="Names"/>
+		<term name="Postal facilities"/>
+		<term name="Tennessee"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/25/1993--Introduced.
+Designates the building in Pulaski, Tennessee, that houses the primary operations of the United States Postal Service as the Ross Bass Post Office Building.
+
+	</summary>
+</bill>

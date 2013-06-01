@@ -1,0 +1,50 @@
+<bill session="103" type="s" number="1489" updated="2012-07-17T05:34:12-04:00">
+	<state datetime="1993-09-23">REFERRED</state>
+	<status><introduced datetime="1993-09-23"/></status>
+
+	<introduced datetime="1993-09-23"/>
+	<titles>
+		<title type="official" as="introduced">A bill to redesignate the J. Edgar Hoover Federal Bureau of Investigation Building located at Ninth and Pennsylvania Avenue, NW Washington, D.C., as the Federal Bureau of Investigation Building.</title>
+	</titles>
+	<sponsor id="407663"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="1993-09-29"/>
+		<cosponsor id="300037" joined="1993-09-23"/>
+		<cosponsor id="300031" joined="1993-09-23"/>
+		<cosponsor id="407992" joined="1993-09-23"/>
+		<cosponsor id="300001" joined="1993-09-29"/>
+		<cosponsor id="300026" joined="1993-09-23"/>
+		<cosponsor id="300082" joined="1993-11-10"/>
+		<cosponsor id="300011" joined="1993-09-23"/>
+		<cosponsor id="300017" joined="1993-09-29"/>
+		<cosponsor id="300042" joined="1993-09-23"/>
+		<cosponsor id="300051" joined="1993-09-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-23" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S12447)</text></action>
+		<action datetime="1993-09-23" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3181" />
+		<bill relation="unknown" session="103" type="h" number="3181" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Department of Justice"/>
+		<term name="District of Columbia"/>
+		<term name="Federal office buildings"/>
+		<term name="Names"/>
+		<term name="Signs and symbols"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/23/1993--Introduced.
+Redesignates the J. Edgar Hoover Federal Bureau of Investigation Building located at Ninth Street and Pennsylvania Avenue, N.W., Washington, D.C., as the Federal Bureau of Investigation Building.
+
+	</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="102" updated="2010-04-18T23:15:55-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">National Voter Registration Enhancement Act of 1993</title>
+		<title type="official" as="introduced">To encourage increased voter registration for Federal, State, and local elections, and for other purposes.</title>
+	</titles>
+	<sponsor id="407676"/>
+	<cosponsors>
+		<cosponsor id="300083" joined="1993-01-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Sponsor introductory remarks on measure. (CR E55)</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-01-19"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Elections.</text></action>
+		<action datetime="1993-02-12"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="HSHA-08" name="House Administration" subcommittee="Elections" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Elections"/>
+		<term name="Block grants"/>
+		<term name="Congressional elections"/>
+		<term name="Driver licenses"/>
+		<term name="Election administration"/>
+		<term name="Federal preemption"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Fraud"/>
+		<term name="Presidential elections"/>
+		<term name="Public corruption"/>
+		<term name="State laws"/>
+		<term name="Voter registration"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+National Voter Registration Enhancement Act of 1993 - Title I: Voter Registration Enhancement - Authorizes appropriations to the Attorney General for block grants to States to enhance voter registration for elections for Federal office, including registration at State departments of motor vehicles. Makes the Attorney General and the chief election officials of each State responsible for coordination of respective Federal and State functions. Title II: Public Corruption - Sets forth criminal penalties for using interstate commerce to defraud citizens of the honest services of government officials or for fraudulently conducted elections.
+
+	</summary>
+</bill>

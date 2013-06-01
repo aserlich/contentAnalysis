@@ -1,0 +1,71 @@
+<bill session="103" type="hr" number="277" updated="2010-04-19T13:42:14-04:00">
+	<state datetime="1993-10-15">REFERRED</state>
+	<status><introduced datetime="1993-10-15"/></status>
+
+	<introduced datetime="1993-10-15"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives respecting unfunded mandates.</title>
+	</titles>
+	<sponsor id="400505"/>
+	<cosponsors>
+		<cosponsor id="400327" joined="1993-10-26"/>
+		<cosponsor id="400428" joined="1993-11-04"/>
+		<cosponsor id="404503" joined="1993-10-15"/>
+		<cosponsor id="406873" joined="1993-10-26"/>
+		<cosponsor id="402657" joined="1993-10-15"/>
+		<cosponsor id="400113" joined="1994-04-20"/>
+		<cosponsor id="400322" joined="1993-10-15"/>
+		<cosponsor id="401033" joined="1993-10-26"/>
+		<cosponsor id="400323" joined="1993-10-26"/>
+		<cosponsor id="400055" joined="1993-11-22"/>
+		<cosponsor id="404869" joined="1993-10-26"/>
+		<cosponsor id="400010" joined="1994-02-03"/>
+		<cosponsor id="300083" joined="1993-10-15"/>
+		<cosponsor id="401854" joined="1993-10-26"/>
+		<cosponsor id="401153" joined="1993-10-26"/>
+		<cosponsor id="400070" joined="1993-10-26"/>
+		<cosponsor id="400340" joined="1994-04-20"/>
+		<cosponsor id="400586" joined="1993-10-15"/>
+		<cosponsor id="410695" joined="1993-10-26"/>
+		<cosponsor id="401134" joined="1993-10-15"/>
+		<cosponsor id="401417" joined="1993-11-04"/>
+		<cosponsor id="400012" joined="1993-11-04"/>
+		<cosponsor id="400283" joined="1993-10-15"/>
+		<cosponsor id="409627" joined="1993-11-04"/>
+		<cosponsor id="400150" joined="1993-10-26"/>
+		<cosponsor id="410565" joined="1993-10-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-15"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-10-17"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Human Resources and Intergovernmental Relations.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Government Operations"/><text>See H.R.4771.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Human Resources and Intergovernmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="140" />
+		<bill relation="unknown" session="103" type="h" number="4771" />
+	</relatedbills>
+	<subjects>
+		<term name="Intergovernmental relations"/>
+		<term name="Congress"/>
+		<term name="Costs"/>
+		<term name="Economic policy"/>
+		<term name="Federal-local relations"/>
+		<term name="Federal-state relations"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="Legislation"/>
+		<term name="Regulatory reform"/>
+		<term name="State and local government"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/15/1993--Introduced.
+Declares that steps must be taken to alleviate the financial impact of unfunded Federal mandates on State, county, and municipal governments.
+
+	</summary>
+</bill>

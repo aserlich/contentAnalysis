@@ -1,0 +1,53 @@
+<bill session="103" type="s" number="1897" updated="2012-07-17T04:43:14-04:00">
+	<state datetime="1994-08-02">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-08-02" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-03-07"/>
+	<titles>
+		<title type="short" as="introduced">Santa Fe National Forest Boundary Adjustment Act of 1994</title>
+		<title type="short" as="reported to senate">Santa Fe National Forest Boundary Adjustment Act of 1994</title>
+		<title type="short" as="passed senate">Sante Fe National Forest Boundary Adjustment Act of 1994</title>
+		<title type="official" as="introduced">A bill to expand the boundary of the Santa Fe National Forest, and for other purposes.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+		<cosponsor id="300036" joined="1994-03-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-07" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2423)</text></action>
+		<action datetime="1994-03-07" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-03-08"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1994-04-13"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of Agriculture, Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-04-21"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed: S.Hrg. 103-720.</text></action>
+		<calendar datetime="1994-06-15"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-07-07"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston under the authority of the order of Jun 27, 94 with an amendment in the nature of a substitute. With written report No. 103-304.</text></action>
+		<calendar under="General Orders" number="510" datetime="1994-07-07" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 510.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-08-02" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text><reference label="consideration" ref="CR S10271"/></vote>
+		<action datetime="1994-08-03"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-08-03T12:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-08-03T12:51:00-04:00"><text>Held at the desk.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3964" />
+		<bill relation="unknown" session="103" type="h" number="3964" />
+	</relatedbills>
+	<subjects>
+		<term name="Forests and forestry"/>
+		<term name="Easements"/>
+		<term name="Land transfers"/>
+		<term name="National forests"/>
+		<term name="New Mexico"/>
+		<term name="Public lands and natural resources"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/2/1994--Passed Senate amended. Sante Fe National Forest Boundary Adjustment Act of 1994 - Authorizes the Secretaries of the Interior and of Agriculture to acquire specified lands and interests therein for inclusion within the Sante Fe National Forest in New Mexico. Withdraws such lands from all public land, mining, and mineral and geothermal leasing laws. Requires the Secretary of Agriculture (Secretary) to identify such appropriate lands within the boundaries of the Forest which are suitable for transfer to the Secretary of the Interior, to be administered by the Bureau of Land Management. Transfers administrative jurisdiction over: (1) such lands to the Secretary of the Interior; and (2) the lands acquired by the Secretary of the Interior to the Secretary. Modifies the boundaries of the Forest to include the transferred and acquired lands. Requires the Secretary to administer such lands in accordance with the laws, rules, and regulations applicable to the National Forest System and to manage such lands to preserve and maintain the natural and scenic resources of the area. Prohibits the Secretary from conveying such added lands. Authorizes appropriations.
+
+	</summary>
+</bill>

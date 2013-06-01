@@ -1,0 +1,42 @@
+<bill session="103" type="hr" number="179" updated="2010-04-19T13:26:42-04:00">
+	<state datetime="1993-05-25T13:15:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-05-25T13:15:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-05-20"/>
+	<titles>
+		<title type="official" as="introduced">Waiving points of order against the conference report to accompany the bill (S. 1) to amend the Public Health Service Act to revise and extend the programs of the National Institutes of Health, and for other purposes, and against consideration of such conference report.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-20T14:37:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-101, by Ms. Slaughter.</text></action>
+		<action datetime="1993-05-20T14:37:00-04:00"><text>Rule provides for consideration of the conference report to S. 1. All points of order against the conference report and against its consideration are waived.</text></action>
+		<calendar datetime="1993-05-20T14:37:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 43.</text></calendar>
+		<action datetime="1993-05-25T13:02:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H2729-2730"/></action>
+		<action datetime="1993-05-25T13:02:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-05-25T13:15:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-05-25T13:15:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1993-05-25T13:15:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="House rules and procedure"/>
+		<term name="Medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/1993--Introduced.
+Waives points of order against the consideration of the conference report on S. 1 (amending the Public Health Service Act to revise and extend programs of the National Institutes of Health).
+
+	</summary>
+</bill>

@@ -1,0 +1,115 @@
+<bill session="103" type="h" number="1873" updated="2010-04-19T04:04:12-04:00">
+	<state datetime="1994-08-01">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-08-01" /></status>
+
+	<introduced datetime="1993-04-27"/>
+	<titles>
+		<title type="official" as="introduced">To require certain payments made to victims of Nazi persecution to be disregarded in determining eligibility for and the amount of benefits or services based on need.</title>
+	</titles>
+	<sponsor id="400425"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-05-12"/>
+		<cosponsor id="400580" joined="1993-09-27"/>
+		<cosponsor id="404083" joined="1993-05-20"/>
+		<cosponsor id="400122" joined="1993-05-20"/>
+		<cosponsor id="400246" joined="1993-05-20"/>
+		<cosponsor id="406768" joined="1993-05-04"/>
+		<cosponsor id="411040" joined="1993-05-04"/>
+		<cosponsor id="400170" joined="1993-04-29"/>
+		<cosponsor id="400268" joined="1993-05-04"/>
+		<cosponsor id="402890" joined="1993-04-29"/>
+		<cosponsor id="400612" joined="1993-05-12"/>
+		<cosponsor id="400124" joined="1993-05-04"/>
+		<cosponsor id="300087" joined="1993-04-27"/>
+		<cosponsor id="400003" joined="1993-05-04"/>
+		<cosponsor id="400084" joined="1993-04-29"/>
+		<cosponsor id="400370" joined="1993-05-04"/>
+		<cosponsor id="400106" joined="1993-04-29"/>
+		<cosponsor id="400143" joined="1993-04-29"/>
+		<cosponsor id="411725" joined="1993-05-20"/>
+		<cosponsor id="400511" joined="1993-05-04"/>
+		<cosponsor id="409954" joined="1993-05-20"/>
+		<cosponsor id="407772" joined="1993-04-29"/>
+		<cosponsor id="411947" joined="1993-04-29"/>
+		<cosponsor id="403364" joined="1993-05-12"/>
+		<cosponsor id="404097" joined="1993-05-12"/>
+		<cosponsor id="409829" joined="1993-06-14"/>
+		<cosponsor id="407153" joined="1993-05-20"/>
+		<cosponsor id="400103" joined="1993-05-12"/>
+		<cosponsor id="300156" joined="1993-05-20"/>
+		<cosponsor id="400140" joined="1993-04-27"/>
+		<cosponsor id="400251" joined="1993-04-29"/>
+		<cosponsor id="400536" joined="1993-04-27"/>
+		<cosponsor id="400081" joined="1993-04-29"/>
+		<cosponsor id="400193" joined="1993-05-12"/>
+		<cosponsor id="400256" joined="1993-04-29"/>
+		<cosponsor id="400615" joined="1993-06-14"/>
+		<cosponsor id="404190" joined="1993-05-04"/>
+		<cosponsor id="409633" joined="1993-04-29"/>
+		<cosponsor id="400201" joined="1993-06-14"/>
+		<cosponsor id="400554" joined="1993-04-29"/>
+		<cosponsor id="400438" joined="1993-07-22"/>
+		<cosponsor id="400025" joined="1993-04-27"/>
+		<cosponsor id="409052" joined="1993-04-29"/>
+		<cosponsor id="400278" joined="1993-05-04"/>
+		<cosponsor id="400243" joined="1993-04-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-27"><text>Sponsor introductory remarks on measure. (CR E1047-1048)</text></action>
+		<action datetime="1993-04-27"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-04-28"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Human Resources and Intergovernmental Relations.</text></action>
+		<action datetime="1993-11-10"><committee name="House Committee on Government Operations" subcommittee="Human Resources and Intergovernmental Relations"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-02-22"><committee name="House Committee on Government Operations" subcommittee="Human Resources and Intergovernmental Relations"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-02-22"><committee name="House Committee on Government Operations" subcommittee="Human Resources and Intergovernmental Relations"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1994-06-29"><committee name="House Committee on Government Operations"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-06-29"  state="REPORTED"><committee name="House Committee on Government Operations"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-07-12T18:40:00-04:00"><text>Mr. Towns moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-07-12T18:41:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5528-5531"/></action>
+		<action datetime="1994-07-12T18:41:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-07-12T18:55:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-07-12T18:55:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-07-14"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-07-19" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S9259-9261"/></vote>
+		<topresident datetime="1994-07-19" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-07-20"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-07-21" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-08-01" ><text>Signed by President.</text></signed>
+		<enacted number="103-286" type="public" datetime="1994-08-01"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-286.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, Markup" />
+		<committee code="" name="House Government Operations" subcommittee="Human Resources and Intergovernmental Relations" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="827" />
+	</relatedbills>
+	<subjects>
+		<term name="Public welfare"/>
+		<term name="Budgets"/>
+		<term name="Claims"/>
+		<term name="Compensation for victims of crime"/>
+		<term name="Criminal justice"/>
+		<term name="Federal aid programs"/>
+		<term name="Government information"/>
+		<term name="Housing"/>
+		<term name="Income"/>
+		<term name="Information services"/>
+		<term name="International affairs"/>
+		<term name="Jewish holocaust (1939-1945)"/>
+		<term name="National socialism"/>
+		<term name="Public assistance programs"/>
+		<term name="Rent subsidies"/>
+		<term name="Rental housing"/>
+		<term name="Reparations"/>
+		<term name="Social security"/>
+		<term name="Social security eligibility"/>
+		<term name="Welfare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/12/1994--Passed House amended. Disregards payments made to victims of Nazi persecution in determining eligibility for and the amount of need-based benefits and services under any Federal or federally assisted program. Requires any agency of government that has not disregarded such payments in determining eligibility for a Federal or federally assisted program to make a good faith effort to notify any individual who may have been denied benefits or services eligibility under the program of the individual's potential eligibility for such benefits or services. Directs the Secretary of Housing and Urban Development (HUD) to repay qualified individuals any additional rent paid under HUD housing programs because of failure to disregard reparation payments.
+
+	</summary>
+</bill>

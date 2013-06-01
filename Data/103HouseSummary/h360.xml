@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="360" updated="2010-04-18T23:55:59-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make permanent the provisions permitting tax-exempt treatment for certain qualified small issue bonds.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+		<cosponsor id="400414" joined="1993-02-22"/>
+		<cosponsor id="400364" joined="1993-03-16"/>
+		<cosponsor id="400080" joined="1993-03-16"/>
+		<cosponsor id="400295" joined="1993-02-22"/>
+		<cosponsor id="407351" joined="1993-02-22"/>
+		<cosponsor id="411040" joined="1993-02-22"/>
+		<cosponsor id="405855" joined="1993-03-16"/>
+		<cosponsor id="400612" joined="1993-02-22"/>
+		<cosponsor id="400084" joined="1993-02-22"/>
+		<cosponsor id="400264" joined="1993-02-22"/>
+		<cosponsor id="404869" joined="1993-03-16"/>
+		<cosponsor id="400386" joined="1993-02-22"/>
+		<cosponsor id="400395" joined="1993-03-16"/>
+		<cosponsor id="405524" joined="1993-02-22"/>
+		<cosponsor id="400204" joined="1993-02-22"/>
+		<cosponsor id="407044" joined="1993-02-22"/>
+		<cosponsor id="411997" joined="1993-02-22"/>
+		<cosponsor id="400075" joined="1993-03-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Agricultural economics"/>
+		<term name="Farms"/>
+		<term name="Industrial development bonds"/>
+		<term name="Manufacturing industries"/>
+		<term name="Tax-exempt securities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Amends the Internal Revenue Code to make permanent the provisions permitting small issues of tax-exempt bonds to finance manufacturing facilities and farm property.
+
+	</summary>
+</bill>

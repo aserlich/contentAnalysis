@@ -1,0 +1,69 @@
+<bill session="103" type="sr" number="270" updated="2010-04-19T22:41:10-04:00">
+	<state datetime="1994-10-05">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-10-05" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-09-28"/>
+	<titles>
+		<title type="official" as="introduced">A resolution to express the sense of the Senate concerning U.S. relations with Taiwan.</title>
+	</titles>
+	<sponsor id="300150"/>
+	<cosponsors>
+		<cosponsor id="409917" joined="1994-09-28"/>
+		<cosponsor id="407254" joined="1994-09-29"/>
+		<cosponsor id="401874" joined="1994-09-28"/>
+		<cosponsor id="408597" joined="1994-09-28"/>
+		<cosponsor id="402675" joined="1994-10-07"/>
+		<cosponsor id="400564" joined="1994-09-28"/>
+		<cosponsor id="300154" joined="1994-09-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-28"><text>Referred to the Committee on Foreign Relations.</text></action>
+		<calendar datetime="1994-09-29"  state="REPORTED"><committee name="Committee on Foreign Relations"/><text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-09-29"><text>Committee on Foreign Relations. Reported to Senate by Senator Pell without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="696" datetime="1994-09-29" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 696.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-10-05" where="s" result="pass"  state="PASSED:SIMPLERES"><text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text><reference label="consideration" ref="CR S14234-14235"/></vote>
+	</actions>
+	<committees>
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Ambassadors"/>
+		<term name="Annexation (International law)"/>
+		<term name="Arms sales"/>
+		<term name="Cabinet officers"/>
+		<term name="China"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Defense policy"/>
+		<term name="Diplomacy"/>
+		<term name="East Asia"/>
+		<term name="Executive departments"/>
+		<term name="Foreign policy"/>
+		<term name="Foreign trade"/>
+		<term name="Government employees"/>
+		<term name="International affairs"/>
+		<term name="International agencies"/>
+		<term name="International economic relations"/>
+		<term name="International finance"/>
+		<term name="International monetary system"/>
+		<term name="Multilateral development banks"/>
+		<term name="Recognition (International law)"/>
+		<term name="Taiwan"/>
+		<term name="Trade"/>
+		<term name="United Nations delegations"/>
+		<term name="United Nations membership"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/28/1994--Introduced.
+Expresses the sense of the Senate that U.S. policy toward Taiwan should: (1) welcome the President of the Republic of China on Taiwan and other high-level Government officials to the United States; (2) allow unrestricted office calls by all representatives of Taiwan in the United States to all U.S. departments and agencies; (3) send cabinet-level officials to Taiwan on a regular basis; (4) support a proposal in the United Nations for formal observer status for Taiwan, a proposal for its full admission into a wide range of international organizations, and participation of the President of the Republic of China on Taiwan in the Asia Pacific Economic Cooperation forum; (5) change the name of Taiwan's representative office in the United States to the &quot;Taipei Representative Office&quot;; (6) approve defensive arms sales to Taiwan based solely on Taiwan's self-defense needs; (7) require advice and consent of the Senate for the highest level U.S. representative in Taiwan; (8) upgrade the status of the existing American Institute in Taiwan; (9) include a report by the Secretary of State to specified congressional committees on U.S. relations with Taiwan; and (10) raise U.S. concerns about the People's Republic of China's threat to forcefully reunify with Taiwan.
+
+	</summary>
+</bill>

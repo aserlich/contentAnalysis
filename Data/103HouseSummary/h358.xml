@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="358" updated="2010-04-18T23:55:40-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">National Commission to Support Law Enforcement Act</title>
+		<title type="official" as="introduced">To create a National Commission to support law enforcement.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-03-11"/>
+		<cosponsor id="400122" joined="1994-01-26"/>
+		<cosponsor id="400143" joined="1993-03-11"/>
+		<cosponsor id="411350" joined="1993-03-11"/>
+		<cosponsor id="407141" joined="1993-05-04"/>
+		<cosponsor id="402152" joined="1993-03-11"/>
+		<cosponsor id="410407" joined="1993-03-11"/>
+		<cosponsor id="400025" joined="1993-03-11"/>
+		<cosponsor id="400075" joined="1993-03-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+		<action datetime="1994-04-21"><committee name="House Committee on Judiciary"/><text>See H.R.4092.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4092" />
+	</relatedbills>
+	<subjects>
+		<term name="Law enforcement"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to law enforcement agencies"/>
+		<term name="Law enforcement officers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+National Commission to Support Law Enforcement Act - Reestablishes the National Commission to Support Law Enforcement to study and recommend changes regarding law enforcement agencies and law enforcement issues on the Federal, State, and local levels. (Repeals provisions of the Crime Control Act of 1990 and the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1991 with respect to the establishment and termination of such a Commission.)
+
+	</summary>
+</bill>

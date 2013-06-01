@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="1974" updated="2010-04-19T04:19:58-04:00">
+	<state datetime="1993-05-04">REFERRED</state>
+	<status><introduced datetime="1993-05-04"/></status>
+
+	<introduced datetime="1993-05-04"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 49, United States Code, to provide that the Administrator of the Federal Aviation Administration shall be appointed for a term of 7 years.</title>
+	</titles>
+	<sponsor id="400435"/>
+	<cosponsors>
+		<cosponsor id="400180" joined="1993-10-06"/>
+		<cosponsor id="406768" joined="1993-06-15"/>
+		<cosponsor id="406799" joined="1993-06-15"/>
+		<cosponsor id="402325" joined="1993-05-04"/>
+		<cosponsor id="400583" joined="1993-10-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-04"><text>Sponsor introductory remarks on measure. (CR E1129)</text></action>
+		<action datetime="1993-05-04"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-05-17"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Aviation.</text></action>
+		<action datetime="1994-06-09"><committee name="House Committee on Public Works + Transportation"/><text>See H.R.2739.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-05" name="House Public Works and Transportation" subcommittee="Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2739" />
+	</relatedbills>
+	<subjects>
+		<term name="Commercial aviation"/>
+		<term name="Department of Transportation"/>
+		<term name="Executive departments"/>
+		<term name="Federal officials"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/4/1993--Introduced.
+Amends Federal law to provide that the term of service of the Administrator of the Federal Aviation Administration shall be for seven years.
+
+	</summary>
+</bill>

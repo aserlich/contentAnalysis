@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="587" updated="2010-04-19T00:33:38-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="short" as="introduced">Federal Reserve Reform Act of 1993</title>
+		<title type="official" as="introduced">To modernize the Federal Reserve System and to provide for prompt disclosure of certain decisions of the Federal Open Market Committee.</title>
+	</titles>
+	<sponsor id="404996"/>
+	<cosponsors>
+		<cosponsor id="400612" joined="1993-07-29"/>
+		<cosponsor id="400300" joined="1993-01-26"/>
+		<cosponsor id="400417" joined="1994-09-22"/>
+		<cosponsor id="407772" joined="1994-03-21"/>
+		<cosponsor id="400193" joined="1993-07-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Sponsor introductory remarks on measure. (CR E168-171)</text></action>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-02-12"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Economic Growth and Credit Formation.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Banking, Finance, and Urban Affairs" subcommittee="Economic Growth and Credit Formation" activity="Referral" />
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Banks and banking"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Auditing"/>
+		<term name="Congressional investigations"/>
+		<term name="Federal budgets"/>
+		<term name="Federal officials"/>
+		<term name="Federal reserve system"/>
+		<term name="Foreign banks and banking"/>
+		<term name="Monetary policy"/>
+		<term name="Open market operations"/>
+		<term name="Presidential appointments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Federal Reserve Reform Act of 1993 - Amends the Federal Reserve Act to require the Federal Open Market Committee to consult with the Secretary of the Treasury, the Director of the Office of Management and Budget, and the chairman of the Council of Economic Advisers prior to the President's submission of the budget. Directs the President to appoint the Chairman and Vice Chairman of the Board of Governors of the Federal Reserve System (the Board). Mandates that any change in the intermediate targets for monetary policy adopted by the Federal Open Market Committee shall be publicly disclosed on the date of its adoption. Prohibits the Comptroller General from auditing written communications among members of the Board, including Federal Reserve System personnel, with respect to transactions with a foreign central bank, foreign government, or nonprivate international financing organization. Mandates that the estimated receipts and proposed expenditures of the Board and all Federal Reserve Banks be transmitted by the President (without change) with the budget submitted to the Congress.
+
+	</summary>
+</bill>

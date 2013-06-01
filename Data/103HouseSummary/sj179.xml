@@ -1,0 +1,56 @@
+<bill session="103" type="sj" number="179" updated="2010-04-19T21:51:29-04:00">
+	<state datetime="1994-05-31">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-05-31" /></status>
+
+	<introduced datetime="1994-03-26"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution to designate the week of June 12 through 19, 1994, as &quot;National Men's Health Week&quot;.</title>
+	</titles>
+	<sponsor id="403515"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1994-03-26"/>
+		<cosponsor id="407663" joined="1994-03-26"/>
+		<cosponsor id="408597" joined="1994-04-19"/>
+		<cosponsor id="402675" joined="1994-03-26"/>
+		<cosponsor id="300010" joined="1994-03-26"/>
+		<cosponsor id="402727" joined="1994-05-10"/>
+		<cosponsor id="402412" joined="1994-04-14"/>
+		<cosponsor id="300157" joined="1994-03-26"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1994-03-26" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Voice Vote.</text><reference label="consideration" ref="CR S4036"/></vote>
+		<action datetime="1994-04-12T12:03:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-04-12"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-04-12"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-05-24T13:28:00-04:00"><text>Committee on Post Office and Civil Service discharged.</text></action>
+		<action datetime="1994-05-24T13:28:00-04:00"><text>Mr. Wynn asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-05-24T13:28:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H3905-3906"/></action>
+		<vote how="without objection" type="vote2" datetime="1994-05-24T13:29:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-05-24T13:29:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-05-24" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-05-26" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-05-31" ><text>Signed by President.</text></signed>
+		<enacted number="103-264" type="public" datetime="1994-05-31"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-264.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="209" />
+	</relatedbills>
+	<subjects>
+		<term name="Special weeks"/>
+		<term name="Commemorations"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Men"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/26/1994--Introduced.
+Designates June 12 through 19, 1994, as National Men's Health Week.
+
+	</summary>
+</bill>

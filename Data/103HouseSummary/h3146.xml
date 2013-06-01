@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="3146" updated="2010-04-19T07:21:37-04:00">
+	<state datetime="1993-09-28">REFERRED</state>
+	<status><introduced datetime="1993-09-28"/></status>
+
+	<introduced datetime="1993-09-28"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Clean Air Act to provide greater State flexibility in automobile inspection and maintenance programs, and for other purposes.</title>
+	</titles>
+	<sponsor id="403545"/>
+	<cosponsors>
+		<cosponsor id="400113" joined="1994-01-25"/>
+		<cosponsor id="400322" joined="1994-02-10"/>
+		<cosponsor id="400567" joined="1993-09-29"/>
+		<cosponsor id="406343" joined="1994-01-25"/>
+		<cosponsor id="400551" joined="1993-11-19"/>
+		<cosponsor id="400083" joined="1993-09-29"/>
+		<cosponsor id="409633" joined="1993-11-03"/>
+		<cosponsor id="401081" joined="1994-01-25"/>
+		<cosponsor id="300096" joined="1993-10-28"/>
+		<cosponsor id="411997" joined="1993-10-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-28"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Motor vehicle pollution control"/>
+		<term name="Ozone"/>
+		<term name="Planning"/>
+		<term name="State laws"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/28/1993--Introduced.
+Amends the Clean Air Act to remove a requirement that vehicle inspection and maintenance programs for Serious ozone nonattainment areas be operated on a centralized basis.
+
+	</summary>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="103" type="h" number="2896" updated="2010-04-19T06:42:50-04:00">
+	<state datetime="1993-08-05">REFERRED</state>
+	<status><introduced datetime="1993-08-05"/></status>
+
+	<introduced datetime="1993-08-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to permit penalty-free distributions from qualified retirement plans for unemployed individuals.</title>
+	</titles>
+	<sponsor id="400332"/>
+	<cosponsors>
+		<cosponsor id="400428" joined="1994-01-25"/>
+		<cosponsor id="410147" joined="1994-03-02"/>
+		<cosponsor id="400289" joined="1994-01-25"/>
+		<cosponsor id="400099" joined="1993-10-20"/>
+		<cosponsor id="400160" joined="1993-10-07"/>
+		<cosponsor id="400126" joined="1994-03-02"/>
+		<cosponsor id="400122" joined="1993-11-10"/>
+		<cosponsor id="406768" joined="1994-02-23"/>
+		<cosponsor id="400084" joined="1994-02-23"/>
+		<cosponsor id="400585" joined="1994-03-02"/>
+		<cosponsor id="404097" joined="1993-10-27"/>
+		<cosponsor id="406799" joined="1993-09-28"/>
+		<cosponsor id="400343" joined="1993-10-20"/>
+		<cosponsor id="400140" joined="1993-09-08"/>
+		<cosponsor id="400012" joined="1993-09-28"/>
+		<cosponsor id="300096" joined="1993-09-08"/>
+		<cosponsor id="407669" joined="1994-05-03"/>
+		<cosponsor id="403864" joined="1993-10-14"/>
+		<cosponsor id="411997" joined="1993-10-07"/>
+		<cosponsor id="400243" joined="1993-10-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-05"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="475" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Individual retirement accounts"/>
+		<term name="Pension funds"/>
+		<term name="Tax exclusion"/>
+		<term name="Tax penalties"/>
+		<term name="Tax-deferred compensation plans"/>
+		<term name="Unemployed"/>
+		<term name="Unemployment insurance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/1993--Introduced.
+Amends the Internal Revenue Code to allow penalty-free withdrawals from retirement plans by individuals who are unemployed, if: (1) such individuals have received unemployment compensation for 12 consecutive weeks; and (2) distributions are made in the year during which such compensation was paid or the succeeding year.
+
+	</summary>
+</bill>

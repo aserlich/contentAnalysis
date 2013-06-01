@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="589" updated="2010-04-19T00:33:59-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="official" as="introduced">To provide for the liquidation or reliquidation of certain entries of dog and cat treats as free of certain duties.</title>
+	</titles>
+	<sponsor id="400192"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-04-07"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1993-09-30"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from Treasury.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="147" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Dogs"/>
+		<term name="Food"/>
+		<term name="Illinois"/>
+		<term name="Pets"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Directs the Secretary of the Treasury to liquidate or reliquidate as duty-free, and provide for the refund of duties on, certain entries of dog and cat treats in the Chicago, Illinois, Customs District.
+
+	</summary>
+</bill>

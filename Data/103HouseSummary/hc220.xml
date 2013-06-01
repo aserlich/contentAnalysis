@@ -1,0 +1,41 @@
+<bill session="103" type="hc" number="220" updated="2010-04-18T21:35:22-04:00">
+	<state datetime="1994-03-09">REFERRED</state>
+	<status><introduced datetime="1994-03-09"/></status>
+
+	<introduced datetime="1994-03-09"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress on the need for accurate guidelines for breast cancer screening for women ages 40-49.</title>
+	</titles>
+	<sponsor id="300091"/>
+	<cosponsors>
+		<cosponsor id="409633" joined="1994-03-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-09"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-04-26"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Breast cancer"/>
+		<term name="Mammography"/>
+		<term name="Medical screening"/>
+		<term name="Medical tests"/>
+		<term name="Medicine"/>
+		<term name="Women"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/9/1994--Introduced.
+Expresses the sense of the Congress concerning: (1) the need for adequate breast cancer screenings for women between the ages of 40 through 49; and (2) the National Cancer Institute's recent statement regarding such screenings.
+
+	</summary>
+</bill>

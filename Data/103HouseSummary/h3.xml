@@ -1,0 +1,213 @@
+<bill session="103" type="h" number="3" updated="2010-04-18T23:00:15-04:00">
+	<state datetime="1993-11-22T13:36:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-22T13:36:00-05:00" where="h" result="pass" how="roll" roll="605"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="popular" as="">Campaign Spending Limits bill</title>
+		<title type="short" as="introduced">Congressional Campaign Spending Limit and Election Reform Act of 1993</title>
+		<title type="short" as="passed house">House of Representatives Campaign Spending Limit and Election Reform Act of 1993</title>
+		<title type="official" as="introduced">To amend the Federal Election Campaign Act of 1971 to provide for a voluntary system of spending limits and benefits for congressional election campaigns, and for other purposes.</title>
+	</titles>
+	<sponsor id="400585"/>
+	<cosponsors>
+		<cosponsor id="400580" joined="1993-01-05"/>
+		<cosponsor id="400553" joined="1993-05-05"/>
+		<cosponsor id="400126" joined="1993-05-27"/>
+		<cosponsor id="400080" joined="1993-01-05"/>
+		<cosponsor id="400064" joined="1993-01-05"/>
+		<cosponsor id="400129" joined="1993-09-09"/>
+		<cosponsor id="400170" joined="1993-05-05"/>
+		<cosponsor id="400885" joined="1993-01-05"/>
+		<cosponsor id="400538" joined="1993-01-26"/>
+		<cosponsor id="401014" joined="1993-01-05"/>
+		<cosponsor id="404013" joined="1993-01-05"/>
+		<cosponsor id="410496" joined="1993-01-05"/>
+		<cosponsor id="400612" joined="1993-01-05"/>
+		<cosponsor id="400146" joined="1993-01-05"/>
+		<cosponsor id="400300" joined="1993-11-04"/>
+		<cosponsor id="400527" joined="1993-01-05"/>
+		<cosponsor id="400543" joined="1993-03-10"/>
+		<cosponsor id="410589" joined="1993-01-05"/>
+		<cosponsor id="300081" joined="1993-09-23"/>
+		<cosponsor id="406284" joined="1993-01-05"/>
+		<cosponsor id="400262" joined="1993-01-05"/>
+		<cosponsor id="410567" joined="1993-01-05"/>
+		<cosponsor id="409954" joined="1993-03-10"/>
+		<cosponsor id="400387" joined="1993-01-05"/>
+		<cosponsor id="411947" joined="1993-03-10"/>
+		<cosponsor id="407306" joined="1993-01-05"/>
+		<cosponsor id="400001" joined="1993-01-26"/>
+		<cosponsor id="408618" joined="1993-01-26"/>
+		<cosponsor id="400103" joined="1993-01-05"/>
+		<cosponsor id="409650" joined="1993-01-05"/>
+		<cosponsor id="404220" joined="1993-03-18"/>
+		<cosponsor id="406082" joined="1993-10-28"/>
+		<cosponsor id="400251" joined="1993-09-30"/>
+		<cosponsor id="400178" joined="1993-03-18"/>
+		<cosponsor id="400211" joined="1993-01-05"/>
+		<cosponsor id="400189" joined="1993-01-05"/>
+		<cosponsor id="403403" joined="1993-01-05"/>
+		<cosponsor id="400357" joined="1993-01-05"/>
+		<cosponsor id="409400" joined="1993-01-05"/>
+		<cosponsor id="400240" joined="1993-01-05"/>
+		<cosponsor id="400301" joined="1993-01-05"/>
+		<cosponsor id="400223" joined="1993-01-05"/>
+		<cosponsor id="300058" joined="1993-01-26"/>
+		<cosponsor id="400278" joined="1993-01-05"/>
+		<cosponsor id="405507" joined="1993-01-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-01-21"><text>Sponsor introductory remarks on measure. (CR E134)</text></action>
+		<action datetime="1993-02-02"><text>Sponsor introductory remarks on measure. (CR H315-316)</text></action>
+		<action datetime="1993-11-10"><committee name="House Committee on House Administration"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-11-10"  state="REPORTED"><committee name="House Committee on House Administration"/><text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 12 - 7.</text></calendar>
+		<action datetime="1993-11-17T22:59:00-05:00"><text>Reported (Amended) by the Committee on House Administration. H. Rept. 103-375, Part I.</text></action>
+		<action datetime="1993-11-17"><text>Referred sequentially to the House Committee on Judiciary for a period ending not later than Nov. 19, 1993 for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee pursuant to clause 1(l), rule X.</text></action>
+		<calendar number="212" datetime="1993-11-19T21:53:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 212.</text></calendar>
+		<action datetime="1993-11-19T21:53:00-05:00"><text>Committee on Judiciary discharged.</text></action>
+		<action datetime="1993-11-20T20:22:00-05:00"><text>Rules Committee Resolution H. Res. 319 Reported to House. Rule provides for consideration of H.R. 3 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. A specified amendment is in order. It shall be in order to consider as an original bill for the purpose of amendment the amendment in the nature of a substitute recommended by the Committee on House Administration now printed in the bill, modified by the amendment printed in part 1 of the report accompanying this resolution. No other amendment shall be in order except those amendments printed in part 2 of the report, to be considered in the order and manner specified in the report. After passage of H.R. 3, it shall be in order to take the bill S. 3 from the Speaker's table, move to strike all after the enacting clause and insert the text of H.R. 3. If the motion is adopted, and the Senate bill, as amended, is passed, it shall be in or...</text></action>
+		<action datetime="1993-11-21T21:44:00-05:00"><text>Rule H. Res. 319 passed House.</text></action>
+		<action datetime="1993-11-22T09:46:00-05:00"><text>Considered under the provisions of rule H. Res. 319.</text><reference label="consideration" ref="CR H10655-10700"/></action>
+		<action datetime="1993-11-22T09:46:00-05:00"><text>Rule provides for consideration of H.R. 3 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. A specified amendment is in order. It shall be in order to consider as an original bill for the purpose of amendment the amendment in the nature of a substitute recommended by the Committee on House Administration now printed in the bill, modified by the amendment printed in part 1 of the report accompanying this resolution. No other amendment shall be in order except those amendments printed in part 2 of the report, to be considered in the order and manner specified in the report. After passage of H.R. 3, it shall be in order to take the bill S. 3 from the Speaker's table, move to strike all after the enacting clause and insert the text of H.R. 3. If the motion is adopted, and the Senate bill, as amended, is passed, it shall be in or...</text></action>
+		<action datetime="1993-11-22T09:47:00-05:00"><text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 319 and Rule XXIII.</text></action>
+		<action datetime="1993-11-22T09:47:00-05:00"><text>The Speaker designated the Honorable David R. Obey to act as Chairman of the Committee.</text></action>
+		<action datetime="1993-11-22T09:47:00-05:00"><text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate.</text></action>
+		<action datetime="1993-11-22T11:00:00-05:00"><text>DEBATE - Pursuant to the provisions of H. Res. 319, the Committee of the Whole proceeded with one hour of debate on the substitute amendment.</text></action>
+		<action datetime="1993-11-22T11:57:00-05:00"><text>DEBATE - The Committee of the Whole resumed debate on the Thomas (CA) amendment.</text></action>
+		<action datetime="1993-11-22T13:01:00-05:00"><text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3.</text></action>
+		<action datetime="1993-11-22T13:01:00-05:00"><text>The previous question was ordered without objection.</text></action>
+		<action datetime="1993-11-22T13:01:00-05:00"><text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text></action>
+		<action datetime="1993-11-22T13:02:00-05:00"><text>Mrs. Fowler moved to recommit to House Administration.</text></action>
+		<action datetime="1993-11-22T13:02:00-05:00"><text>The previous question was ordered without objection.</text></action>
+		<action datetime="1993-11-22T13:19:00-05:00"><text>On motion to recommit Failed by recorded vote: 190 - 240 (Roll no. 604).</text></action>
+		<vote how="roll" type="vote" roll="605" datetime="1993-11-22T13:36:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed by the Yeas and Nays: 255 - 175 (Roll no. 605).</text></vote>
+		<action datetime="1993-11-22T13:36:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-22T13:37:00-05:00"><text>Laid on the table. See S. 3 for further action.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hr" number="319" />
+		<bill relation="rule" session="103" type="hr" number="319" />
+		<bill relation="superseded" session="103" type="s" number="3" />
+	</relatedbills>
+	<subjects>
+		<term name="Elections"/>
+		<term name="Actions and defenses"/>
+		<term name="Administrative procedure"/>
+		<term name="Age (Law)"/>
+		<term name="Aliens"/>
+		<term name="Auditing"/>
+		<term name="Bankruptcy"/>
+		<term name="Budget deficits"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Business and politics"/>
+		<term name="Business records"/>
+		<term name="Campaign contributors"/>
+		<term name="Campaign debates"/>
+		<term name="Campaign funds"/>
+		<term name="Charitable contributions"/>
+		<term name="Children"/>
+		<term name="Civil rights"/>
+		<term name="Communications"/>
+		<term name="Computers and government"/>
+		<term name="Congress"/>
+		<term name="Congressional allowances"/>
+		<term name="Congressional candidates"/>
+		<term name="Congressional elections (House)"/>
+		<term name="Congressional elections (Senate)"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Constitution"/>
+		<term name="Constitutional amendments"/>
+		<term name="Constitutional law"/>
+		<term name="Corporations"/>
+		<term name="Credit"/>
+		<term name="Credit cards"/>
+		<term name="Criminal justice"/>
+		<term name="Data banks"/>
+		<term name="Deaf"/>
+		<term name="Defense policy"/>
+		<term name="Disabled"/>
+		<term name="Economic policy"/>
+		<term name="Equal time rule"/>
+		<term name="Executive departments"/>
+		<term name="Federal Election Commission"/>
+		<term name="Federal budgets"/>
+		<term name="Federal officials"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Finance"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Franking privilege"/>
+		<term name="Fraud"/>
+		<term name="Fund raising"/>
+		<term name="Government aircraft"/>
+		<term name="Government employees"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Government spending reductions"/>
+		<term name="Government trust funds"/>
+		<term name="House of Representatives"/>
+		<term name="Immigration"/>
+		<term name="Income tax"/>
+		<term name="Indexing (Economic policy)"/>
+		<term name="Injunctions"/>
+		<term name="Judicial review"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Labor"/>
+		<term name="Labor union finances"/>
+		<term name="Labor union political activities"/>
+		<term name="Law"/>
+		<term name="Legislation"/>
+		<term name="Loans"/>
+		<term name="Lobbying"/>
+		<term name="Members of Congress (House)"/>
+		<term name="Military aircraft"/>
+		<term name="Money"/>
+		<term name="Parties to actions"/>
+		<term name="Political action committees"/>
+		<term name="Political advertising"/>
+		<term name="Political consultants"/>
+		<term name="Political crimes"/>
+		<term name="Political parties"/>
+		<term name="Politics and government"/>
+		<term name="Postal rates and revenues"/>
+		<term name="Presidential candidates"/>
+		<term name="Presidential elections"/>
+		<term name="Presidents"/>
+		<term name="Primaries"/>
+		<term name="Public corruption"/>
+		<term name="Public opinion polls"/>
+		<term name="Public service advertising"/>
+		<term name="Radio in politics"/>
+		<term name="Referendum"/>
+		<term name="Salaries"/>
+		<term name="State and local government"/>
+		<term name="Supreme Court"/>
+		<term name="Tax-exempt organizations"/>
+		<term name="Taxation"/>
+		<term name="Technology"/>
+		<term name="Telecommunication"/>
+		<term name="Telephone"/>
+		<term name="Television in politics"/>
+		<term name="Transportation"/>
+		<term name="Travel costs"/>
+		<term name="Vice Presidential candidates"/>
+		<term name="Volunteer workers in politics"/>
+		<term name="Voter registration"/>
+		<term name="Voting"/>
+		<term name="Voting of the handicapped"/>
+	</subjects>
+	<amendments>
+		<amendment number="h413"/>
+		<amendment number="h414"/>
+	</amendments>
+	<summary>
+	11/22/1993--Passed House amended. TABLE OF CONTENTS: Title I: Control of Congressional Campaign Spending Subtitle A: Senate Election Campaign Spending Limits and Benefits Subtitle B: General Provisions Title II: Independent Expenditures Title III: Expenditures Subtitle A: Personal Loans; Credit Subtitle B: Provisions Relating to Soft Money of Political Parties Subtitle C: Soft Money of Persons Other Than Political Parties Title IV: Contributions Title V: Reporting Requirements Title VI: Federal Election Commission Title VII: Miscellaneous Title VIII: Effective Dates; Authorizations House of Representatives Campaign Spending Limit and Election Reform Act of 1993 - Title I: Control of Congressional Campaign Spending - Subtitle A: (Reserved) Subtitle B: Expenditure Limitations, Contribution Limitations, and Voter Communication Vouchers for Eligible House of Representatives Candidates - Amends the Federal Election Campaign Act (FECA) to limit an eligible House of Representatives candidate (candidate) to aggregate election cycle expenditures of $600,000. Permits a candidate to spend: (1) an additional $200,000 in a runoff election; (2) $600,000 in a special election; and (3) an additional $200,000 in a closely contested primary. Waives such limits for a candidate whose opponent is not participating in such spending limitations and receives contributions or makes expenditures in excess of 25 percent of election cycle limits. Exempts from such limits legal, tax, accounting, and fund raising costs. Sets forth graduated civil penalties for different levels of excess expenditures. Limits a candidate's personal campaign contributions in an election cycle to $50,000. Waives such limits in the case of a nonparticipating opponent who exceeds such limits. States that the Federal Election Commission (Commission) shall determine a candidate's eligibility to participate in the voluntary program spending and contribution limits established by this Act. Entitles an eligible candidate to up to $200,000 in voter communication vouchers. Sets forth eligibility requirements, including: (1) having raised at least ten percent of contributions from individual contributions; and (2) general election ballot qualification of both the candidate and his or her opponent. Permits voucher use to purchase: (1) broadcast time; (2) print advertisements; (3) voter contact campaign materials; and (4) postage. Increases voucher amounts available to a candidate who has at least $10,000 in independent expenditures made against him or her or in favor of another candidate. Prohibits conversion of voucher funds for personal or family use. Requires a candidate's television commercials to permit closed captioning. Requires the Commission to examine and audit for FECA compliance five percent of all House candidates. Provides for judicial review of Commission actions and requires Commission reports to the House. (Sec. 122) Provides for the registration of eligible candidates. Title II: Limitations on Political Committees and Large Donor Contributions That May Be Accepted by House of Representatives Candidates - Amends FECA to limit a candidate to accepting in a election cycle not more than $200,000 in aggregate from each of: (1) political parties; and (2) persons other than political parties whose contributions total more than $200. Sets forth graduated civil monetary penalties for acceptance of low, medium, and large excess contributions. Requires annual limit indexing. Title III: Independent Expenditures - Amends FECA to define &quot;independent expenditure&quot; as an expenditure for an advertisement or other communication that: (1) contains express advocacy; and (2) is made without the participation or cooperation of a candidate or a candidate's representative. Excludes from the meaning of &quot;independent expenditure&quot; any expenditure by: (1) a political committee of a political party; (2) persons who communicate or receive information about activities that have a purpose of influencing a candidate's election; and (3) persons with other specified relationships with a candidate or candidate's agents in the same election cycle. Defines &quot;express advocacy&quot; as any communication that when taken as a whole: (1) expresses support for or opposition to a specific candidate, a specific group of candidates, or candidates of a particular political party; or (2) suggests taking action with respect to an election, such as voting for or against, contributing to, or participating in campaign activity. (Sec. 302) Sets forth reporting requirements for certain independent expenditures. (Sec. 303) Amends the Communications Act of 1934 to require a broadcast or cable station to notify a candidate and offer equal broadcast opportunity if an independent communications expenditure has been made against such candidate. Title IV: Contributions and Expenditures By Political Party Committees - Amends FECA to define: &quot;generic campaign activity&quot; as a campaign activity on behalf of a party rather than a candidate; and (2) &quot;State Party Grass Roots Fund&quot; as a segregated State fund on behalf of a Federal candidate. (Sec. 402) Permits maximum contributions to a State Party Grassroots Fund of: (1) $20,000 by an individual; and (2) $15,000 from a multicandidate committee. Establishes an overall $60,000 annual limit on individual contributions, including specified limits for: (1) candidates and their political committees; and (2) State committees. (Sec. 403) Subjects to certain limitations, prohibitions, and reporting requirements any amount (&quot;soft money&quot;) solicited, received, or expended directly or indirectly by a national, State, district, or local committee of a political party (including any subordinate committee) with respect to an activity (such as voter registration and get-out-the vote activities, among others) which, in whole or in part, is in connection with an election to Federal office. Prohibits a national political party committee and a congressional campaign committee from soliciting or accepting contributions not subject to FECA limitations, prohibitions, and reporting requirements. (Sec. 404) Requires: (1) a national committee and a congressional campaign committee to report all receipts and disbursements whether or not in connection with a Federal election; and (2) any other political committee to report all receipts and disbursements in connection with a Federal election. (Sec. 405) Prohibits Federal candidates and officeholders from soliciting contributions not subject to FECA. (Sec. 406) Permits an authorized political committee to contribute up to $10,000 annually to the congressional campaign committees of a political party. (Sec. 407) Increases permitted annual multicandidate political committee contributions to national political party committees to $25,000. (Sec. 409) Permits individuals to contribute up to $20,000 annually to State party political committees. Title V: Contributions - Amends FECA to prohibit any person from acting as a conduit or intermediary for contributions to a candidate. Permits joint fund raising by two or more candidates or fund raising by one candidate for another candidate. Defines &quot;conduit or intermediary&quot; but excludes from such definition candidates or their representatives, professional fund raisers, certain volunteer fund raisers, and persons transmitting a spouse's contribution. (Sec. 502) Treats contributions by a dependent not of voting age as having been made by the individual on whom that dependent is a dependent. (Sec. 503) Prohibits a candidate from accepting more than $100 in cash contributions from any one person. (Sec. 504) Aggregates State and local committee contributions for purposes of political party committee contribution limits. (Sec. 505) Prohibits false contribution solicitations. (Sec. 506) Exempts certain advance payments made by campaign volunteers or workers from the definition of &quot;contribution.&quot; (Sec. 507) Considers corporation or labor union expenditures for candidate appearances or debates, voter guides, or voting records directed to the general public as contributions, with specified exemptions. (Sec. 508) Prohibits specified election-related activities by foreign nations. Title VI: Reporting Requirements - Amends FECA to require all Federal candidates and authorized committees to aggregate information on their financial activity reports on an election cycle basis (instead of a calendar year basis, as at present). (Sec. 602) Requires candidates to report any expenditure in excess of the reporting threshold made to a person who provides services or materials for the candidate, whether the payment was made directly or indirectly under subcontract to another person providing personal or consulting services. (Sec. 603) Reduces from $200 to $100 the threshold for reporting certain information by persons other than political committees. (Sec. 604) Requires the Commission to maintain computerized indices of all contributions of at least $200. (Sec. 607) Prohibits an unauthorized political committee from using a candidate's name so as to suggest the candidate has authorized such committee. (Sec 609) Provides for the simultaneous registration of a candidate's statement of candidacy and principal campaign committee organization. Title VII: Federal Election Commission - Amends FECA to authorize the Commission to appear as amici curiae or on its own behalf in any action related to its statutory duties. (Sec. 702) Requires the Commission to make specified public service announcements regarding the Make Democracy Work Election Fund. (Sec. 703) Grants the Commission injunctive relief authority. (Sec. 704) Establishes expedited complaint resolution procedures. Title VIII: Ballot Initiative Committees - Amends FECA to define a ballot initiative political committee as any committee, club, association or other group of persons which makes ballot initiative expenditures or receives ballot initiative contributions exceeding $1,000 during a calendar year in order to influence the outcome of any ballot initiative involving specified Federal issues voted on at the State, commonwealth, territory, or District of Columbia level. (Sec. 802) Excludes ballot initiative contributions and expenditures from the usual meaning of contributions and expenditures under FECA. (Sec. 804) Makes the political committee organizational and reporting requirements (and attendant civil penalties) under FECA applicable to ballot initiative committees. Title IX: Miscellaneous - Amends the Communications Act of 1934 to require a broadcast station to make broadcast time available to candidates in the last 30 (currently 45) days before a primary and the last 45 (currently 60) days before a general election, at the lowest unit charge of the station for the same amount of time (currently, the same class and amount of time) for the same period on the same date. Prohibits broadcasters from preempting advertisements sold to political candidates at the lowest unit rate, unless the preemption is beyond the broadcaster's control. (Sec. 903) Directs the Commission to study and report to the Congress on the feasibility of developing telephonic voting for persons with disabilities. Title X: House of Representatives Campaign Election Funding and Related Matters - Amends FECA to establish in the Treasury the Make Democracy Work Election Fund. Title XI: Effective Dates; Severability - States that the provisions of this Act shall take effect on the date of enactment of this Act, unless otherwise provided for, but shall not apply to any election occurring before January 1, 1995. (Sec. 1102) Provides, with a specified exception, for severability of the provisions of this Act. (Sec. 1103) Provides for direct appeal to, and expedited review by, the Supreme Court from any judicial determination of unconstitutionality arising under this Act. (Sec. 1104) Provides for budget neutrality.
+
+	</summary>
+</bill>

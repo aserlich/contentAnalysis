@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="1335" updated="2012-07-17T06:29:39-04:00">
+	<state datetime="1993-08-06">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-08-06" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-07-30"/>
+	<titles>
+		<title type="official" as="introduced">A bill for the relief of the Menominee Indian Tribe of Wisconsin.</title>
+	</titles>
+	<sponsor id="300061"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-30" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S10000)</text></action>
+		<action datetime="1993-07-30" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-08-06"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-08-06" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text></vote>
+		<action datetime="1993-09-20"><text>Senate vitiated previous passage.</text></action>
+		<action datetime="1993-09-20"><text>Previous action of discharging the Committee on the Judiciary vitiated by Unanimous Consent.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Claims"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/30/1993--Introduced.
+Authorizes and directs the Secretary of the Treasury to pay to the Menominee Tribe of Wisconsin a sum in full satisfaction of any claims regarding specified damages that the Tribe may have against the United States.
+
+	</summary>
+</bill>

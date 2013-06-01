@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="2851" updated="2010-04-19T06:35:46-04:00">
+	<state datetime="1993-08-03">REFERRED</state>
+	<status><introduced datetime="1993-08-03"/></status>
+
+	<introduced datetime="1993-08-03"/>
+	<titles>
+		<title type="short" as="introduced">Medical Liability Improvement Act of 1993</title>
+		<title type="official" as="introduced">To impose certain requirements on the resolution of medical malpractice liability claims, to amend the Internal Revenue Code of 1986 to require persons making certain medical malpractice payments to report such payments to the Secretary of the Treasury, and for other purposes.</title>
+	</titles>
+	<sponsor id="400401"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-03"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-08-03"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-09"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+		<action datetime="1994-08-02"><committee name="House Committee on Judiciary"/><text>See H.R.3600.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3600" />
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Damages"/>
+		<term name="Evidence (Law)"/>
+		<term name="Federal preemption"/>
+		<term name="Income tax"/>
+		<term name="Law"/>
+		<term name="Legal fees"/>
+		<term name="Limitation of actions"/>
+		<term name="Malpractice"/>
+		<term name="Medicine"/>
+		<term name="Obstetrics"/>
+		<term name="State and local government"/>
+		<term name="State laws"/>
+		<term name="Tax returns"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/3/1993--Introduced.
+Medical Liability Improvement Act of 1993 - Sets forth provisions concerning, with respect to medical malpractice liability claims: (1) limitations on attorney's fees; (2) limitations on noneconomic damages; (3) the statute of limitations; (4) periodic payments for future losses; (5) mandatory offsets for damages paid by a collateral source; (6) certain obstetric services; (7) joint and several liability; and (8) preemption of inconsistent State law. Amends the Internal Revenue Code to require the reporting of certain medical malpractice payments.
+
+	</summary>
+</bill>

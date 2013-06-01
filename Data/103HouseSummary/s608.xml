@@ -1,0 +1,53 @@
+<bill session="103" type="s" number="608" updated="2012-07-17T05:16:39-04:00">
+	<state datetime="1993-05-25">REPORTED</state>
+	<status><calendar datetime="1993-05-25" /></status>
+
+	<introduced datetime="1993-03-17"/>
+	<titles>
+		<title type="short" as="introduced">Armored Car Industry Reciprocity Act of 1993</title>
+		<title type="official" as="introduced">A bill entitled the &quot;Armored Car Industry Reciprocity Act of 1993&quot;.</title>
+	</titles>
+	<sponsor id="403962"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-17" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3051-3052)</text></action>
+		<action datetime="1993-03-17" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<calendar datetime="1993-05-25"  state="REPORTED"><committee name="Committee on Commerce"/><text>Committee on Commerce. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1993-06-24"><text>Committee on Commerce. Reported to Senate by Senator Hollings with amendments. With written report No. 103-67.</text></action>
+		<calendar under="General Orders" number="107" datetime="1993-06-24" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 107.</text></calendar>
+		<action datetime="1993-06-30"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S8379-8380"/></action>
+		<action datetime="1993-06-30"><text>Senate incorporated this measure in H.R. 1189 as an amendment.</text></action>
+		<action datetime="1993-06-30"><text>Senate passed companion measure H.R. 1189 in lieu of this measure by Voice Vote.</text></action>
+		<action datetime="1993-06-30"><text>Indefinitely postponed by Senate by Unanimous Consent.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="superseded" session="103" type="h" number="1189" />
+		<bill relation="unknown" session="103" type="h" number="1189" />
+		<bill relation="unknown" session="103" type="h" number="1189" />
+	</relatedbills>
+	<subjects>
+		<term name="Firearms"/>
+		<term name="Accident prevention"/>
+		<term name="Criminal justice information"/>
+		<term name="Employee training"/>
+		<term name="Federal preemption"/>
+		<term name="Government paperwork"/>
+		<term name="Interstate relations"/>
+		<term name="Licenses"/>
+		<term name="Police training"/>
+		<term name="Private police"/>
+		<term name="State laws"/>
+	</subjects>
+	<amendments>
+		<amendment number="s562"/>
+	</amendments>
+	<summary>
+	6/30/1993--Indefinitely postponed in Senate. Armored Car Industry Reciprocity Act of 1993 - Provides for reciprocity of weapons licenses issued to armored car company crew members among States (including the District of Columbia) that require the crew members to provide satisfactory information on an annual basis that: (1) the crew member has received classroom and range training in weapons safety and marksmanship during the current year by a qualified instructor for each weapon that the crew member is licensed to carry; and (2) the receipt or possession of a weapon by the crew member would not violate Federal law, determined on the basis of a criminal record background check conducted during the current year.
+
+	</summary>
+</bill>

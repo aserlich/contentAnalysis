@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="3387" updated="2010-04-19T07:58:45-04:00">
+	<state datetime="1993-10-27">REFERRED</state>
+	<status><introduced datetime="1993-10-27"/></status>
+
+	<introduced datetime="1993-10-27"/>
+	<titles>
+		<title type="official" as="introduced">To suspend temporarily the duty on Neurolite (complete dosage kits).</title>
+	</titles>
+	<sponsor id="400269"/>
+	<cosponsors>
+		<cosponsor id="400291" joined="1993-10-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-27"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-10-29"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-12-13"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1994-05-16"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Drugs"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/27/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1994, the duty on Neurolite (complete dosage kits).
+
+	</summary>
+</bill>

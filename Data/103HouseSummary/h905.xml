@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="905" updated="2010-04-19T01:27:02-04:00">
+	<state datetime="1993-02-16">REFERRED</state>
+	<status><introduced datetime="1993-02-16"/></status>
+
+	<introduced datetime="1993-02-16"/>
+	<titles>
+		<title type="official" as="introduced">To require the Bureau of Labor Statistics to collect and report unemployment and related statistics by congressional districts.</title>
+	</titles>
+	<sponsor id="400306"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-16"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor"/>
+		<term name="Congressional districts"/>
+		<term name="Government paperwork"/>
+		<term name="Labor statistics"/>
+		<term name="Unemployment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/16/1993--Introduced.
+Amends Federal law relating to collection, collation, and reporting of labor statistics to direct the Bureau of Labor Statistics to collect and report unemployment and related statistics by congressional districts.
+
+	</summary>
+</bill>

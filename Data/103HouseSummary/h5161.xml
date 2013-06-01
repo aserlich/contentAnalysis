@@ -1,0 +1,74 @@
+<bill session="103" type="h" number="5161" updated="2010-04-19T12:35:44-04:00">
+	<state datetime="1994-11-02">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-11-02" /></status>
+
+	<introduced datetime="1994-10-04"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Omnibus Budget Reconciliation Act of 1993 to permit the prompt sharing of timber sale receipts of the Forest Service and the Bureau of Land Management.</title>
+	</titles>
+	<sponsor id="400109"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1994-10-04"/>
+		<cosponsor id="411040" joined="1994-10-04"/>
+		<cosponsor id="400117" joined="1994-10-04"/>
+		<cosponsor id="410567" joined="1994-10-04"/>
+		<cosponsor id="404375" joined="1994-10-04"/>
+		<cosponsor id="400100" joined="1994-10-04"/>
+		<cosponsor id="300100" joined="1994-10-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-04"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-10-04"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+		<action datetime="1994-10-04"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-10-04"><committee name="House Committee on Natural Resources"/><text>Late Referral to the Subcommittee on National Parks, Forests and Public Lands (Nov 21, 94).</text></action>
+		<action datetime="1994-10-05T11:23:00-04:00"><text>Committee on Agriculture discharged.</text></action>
+		<action datetime="1994-10-05T11:23:00-04:00"><text>Committee on Natural Resources discharged.</text></action>
+		<action datetime="1994-10-05T11:23:00-04:00"><text>Mr. Dicks asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-10-05T11:23:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10861"/></action>
+		<vote how="without objection" type="vote" datetime="1994-10-05T11:24:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-10-05T11:24:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-06"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-08" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S15031"/></vote>
+		<topresident datetime="1994-10-08" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-12"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-24" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-11-02" ><text>Signed by President.</text></signed>
+		<enacted number="103-443" type="public" datetime="1994-11-02"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-443.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, Discharged" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Forests and forestry"/>
+		<term name="Animals"/>
+		<term name="Budgets"/>
+		<term name="California"/>
+		<term name="Endangered animals"/>
+		<term name="Environmental protection"/>
+		<term name="Federal-local relations"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="Local finance"/>
+		<term name="National forests"/>
+		<term name="Natural resources"/>
+		<term name="Oregon"/>
+		<term name="Owls"/>
+		<term name="Public lands"/>
+		<term name="Revenue sharing"/>
+		<term name="State and local government"/>
+		<term name="Timber sales"/>
+		<term name="Washington State"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/4/1994--Introduced.
+Amends the Omnibus Budget Reconciliation Act of 1993 with respect to the sharing of timber sale receipts of the Forest Service and the Bureau of Land Management.
+
+	</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="2040" updated="2010-04-19T04:30:17-04:00">
+	<state datetime="1993-05-06">REFERRED</state>
+	<status><introduced datetime="1993-05-06"/></status>
+
+	<introduced datetime="1993-05-06"/>
+	<titles>
+		<title type="short" as="introduced">Commission on the Dual-Use Application of Facilities and Resources at White Sands Missile Range Act</title>
+		<title type="official" as="introduced">To establish a commission on the commercial application of certain defense-related facilities, equipment, processes, and technologies.</title>
+	</titles>
+	<sponsor id="400534"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-06"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-05-11"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Research and Technology.</text></action>
+		<action datetime="1993-05-11"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Acquisition.</text></action>
+		<action datetime="1993-05-11"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Research and Technology" activity="Referral" />
+		<committee code="" name="House Armed Services" subcommittee="Military Acquisition" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="614" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Commercialization"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Conversion of industries"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Laboratories"/>
+		<term name="Military research"/>
+		<term name="Missile bases"/>
+		<term name="New Mexico"/>
+		<term name="Research and development"/>
+		<term name="Technology transfer"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/6/1993--Introduced.
+Commission on the Dual-Use Application of Facilities and Resources at White Sands Missile Range Act - Establishes the Commission on the Dual-Use Application of Facilities and Resources at White Sands Missile Range to study and report to the congressional defense committees on the manner in which the defense-related equipment, facilities, processes, and technologies at White Sands Missile Range in New Mexico may be utilized by the private sector. Terminates the Commission one year after its members are appointed. Authorizes appropriations.
+
+	</summary>
+</bill>

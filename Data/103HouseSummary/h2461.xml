@@ -1,0 +1,102 @@
+<bill session="103" type="h" number="2461" updated="2010-04-19T05:35:21-04:00">
+	<state datetime="1994-10-07">PASS_BACK:SENATE</state>
+	<status><vote2 datetime="1994-10-07" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-06-18"/>
+	<titles>
+		<title type="short" as="passed senate">Paperwork Reduction Act of 1994</title>
+		<title type="official" as="introduced">To amend the Federal Property and Administrative Services Act of 1949 to authorize the transfer to States of surplus personal property for donation to nonprofit providers of necessaries to impoverished families and individuals.</title>
+	</titles>
+	<sponsor id="404996"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-09-08"/>
+		<cosponsor id="407351" joined="1993-06-22"/>
+		<cosponsor id="400543" joined="1993-11-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-18"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-06-18"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1994-06-29"><committee name="House Committee on Government Operations" subcommittee="Legislation and National Security"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-06-29"><committee name="House Committee on Government Operations" subcommittee="Legislation and National Security"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1994-06-29"><committee name="House Committee on Government Operations"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-06-29"  state="REPORTED"><committee name="House Committee on Government Operations"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-08-03T17:56:00-04:00"><text>Reported by the Committee on Government Operations. H. Rept. 103-656.</text></action>
+		<calendar number="356" datetime="1994-08-03T17:56:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 356.</text></calendar>
+		<action datetime="1994-09-27T17:26:00-04:00"><text>Mr. Conyers moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-09-27T17:27:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9877-9878"/></action>
+		<action datetime="1994-09-27T17:27:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-09-27T17:34:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1994-09-27T17:34:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-09-28"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-07"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S14681"/></action>
+		<action datetime="1994-10-07"><text>Amendment SP 2649 proposed by Senator Breaux for Senator Nunn.</text></action>
+		<action datetime="1994-10-07"><text>Amendment SP 2649 agreed to in Senate by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-07" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1994-10-07"><text>See also S. 560.</text></action>
+		<action datetime="1994-11-29"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, Markup, Reporting" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="560" />
+	</relatedbills>
+	<subjects>
+		<term name="Government paperwork"/>
+		<term name="Administrative procedure"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Citizen participation"/>
+		<term name="Civil liberties"/>
+		<term name="Computer security measures"/>
+		<term name="Computers and government"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Electronic data processing"/>
+		<term name="Employee training"/>
+		<term name="Executive departments"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal budgets"/>
+		<term name="Federal employees"/>
+		<term name="Gifts"/>
+		<term name="Government and business"/>
+		<term name="Government employees"/>
+		<term name="Government information"/>
+		<term name="Government procurement"/>
+		<term name="Government publicity"/>
+		<term name="Information networks"/>
+		<term name="Information services"/>
+		<term name="Information technology"/>
+		<term name="International affairs"/>
+		<term name="International cooperation"/>
+		<term name="Job training"/>
+		<term name="Labor"/>
+		<term name="Management information systems"/>
+		<term name="Office of Management and Budget"/>
+		<term name="Politics and government"/>
+		<term name="Poor"/>
+		<term name="Public assistance programs"/>
+		<term name="Public contracts"/>
+		<term name="Public records"/>
+		<term name="Records management"/>
+		<term name="Regulatory impact statements"/>
+		<term name="Regulatory reform"/>
+		<term name="Right of privacy"/>
+		<term name="Standards"/>
+		<term name="Statistical services"/>
+		<term name="Statistics"/>
+		<term name="Strategic planning"/>
+		<term name="Surplus government property"/>
+		<term name="Technology"/>
+		<term name="Welfare"/>
+	</subjects>
+	<amendments>
+		<amendment number="s2649"/>
+	</amendments>
+	<summary>
+	10/7/1994--Passed Senate amended. Amends the Federal Property and Administrative Services Act of 1949 to add providers of assistance to families or individuals whose annual incomes are below the poverty line to the list of organizations eligible to receive surplus personal property allocated by the Administrator of the General Services Administration. Paperwork Reduction Act of 1994 - Revises the Paperwork Reduction Act of 1980, including to: (1) extend its purview to educational and nonprofit institutions, Federal contractors, and tribal governments; (2) replace the Federal Information Locator System with an agency-based electronic Government Information Locator Service to identify the major information systems, holdings, and dissemination products of each agency; and (3) reauthorize the Office of Information and Regulatory Affairs in the Office of Management and Budget through FY 1999.
+
+	</summary>
+</bill>

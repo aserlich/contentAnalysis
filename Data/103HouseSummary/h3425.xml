@@ -1,0 +1,142 @@
+<bill session="103" type="h" number="3425" updated="2010-04-19T08:04:45-04:00">
+	<state datetime="1993-11-04">REPORTED</state>
+	<status><calendar datetime="1993-11-04" /></status>
+
+	<introduced datetime="1993-11-03"/>
+	<titles>
+		<title type="short" as="introduced">Department of Environmental Protection Act</title>
+		<title type="short" as="reported to house">Department of Environmental Protection Act</title>
+		<title type="official" as="introduced">To redesignate the Environmental Protection Agency as the Department of Environmental Protection, and for other purposes.</title>
+	</titles>
+	<sponsor id="400080"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="1993-11-03"/>
+		<cosponsor id="400428" joined="1993-11-03"/>
+		<cosponsor id="402763" joined="1993-11-03"/>
+		<cosponsor id="400414" joined="1993-11-03"/>
+		<cosponsor id="400160" joined="1993-11-03"/>
+		<cosponsor id="406431" joined="1993-11-03"/>
+		<cosponsor id="400380" joined="1993-11-03"/>
+		<cosponsor id="400156" joined="1993-11-03"/>
+		<cosponsor id="408109" joined="1993-11-03"/>
+		<cosponsor id="400332" joined="1993-11-03"/>
+		<cosponsor id="410496" joined="1993-11-03"/>
+		<cosponsor id="400506" joined="1993-11-03"/>
+		<cosponsor id="400306" joined="1993-11-03"/>
+		<cosponsor id="400409" joined="1993-11-03"/>
+		<cosponsor id="400370" joined="1993-11-03"/>
+		<cosponsor id="410589" joined="1993-11-03"/>
+		<cosponsor id="400524" joined="1993-11-03"/>
+		<cosponsor id="400312" joined="1993-11-03"/>
+		<cosponsor id="404375" joined="1993-11-10"/>
+		<cosponsor id="400231" joined="1993-11-03"/>
+		<cosponsor id="404401" joined="1993-11-03"/>
+		<cosponsor id="411350" joined="1993-11-03"/>
+		<cosponsor id="400048" joined="1993-11-03"/>
+		<cosponsor id="400205" joined="1993-11-03"/>
+		<cosponsor id="407153" joined="1993-11-03"/>
+		<cosponsor id="400110" joined="1993-11-10"/>
+		<cosponsor id="400035" joined="1993-11-03"/>
+		<cosponsor id="407817" joined="1993-11-03"/>
+		<cosponsor id="400594" joined="1993-11-03"/>
+		<cosponsor id="400436" joined="1993-11-03"/>
+		<cosponsor id="400251" joined="1993-11-03"/>
+		<cosponsor id="400614" joined="1993-11-03"/>
+		<cosponsor id="400350" joined="1993-11-03"/>
+		<cosponsor id="300091" joined="1993-11-03"/>
+		<cosponsor id="400604" joined="1993-11-03"/>
+		<cosponsor id="400536" joined="1993-11-03"/>
+		<cosponsor id="405524" joined="1993-11-03"/>
+		<cosponsor id="400357" joined="1993-11-03"/>
+		<cosponsor id="400150" joined="1993-11-03"/>
+		<cosponsor id="407044" joined="1993-11-03"/>
+		<cosponsor id="407669" joined="1993-11-03"/>
+		<cosponsor id="406554" joined="1993-11-03"/>
+		<cosponsor id="400425" joined="1993-11-03"/>
+		<cosponsor id="402762" joined="1993-11-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-03"><text>Sponsor introductory remarks on measure. (CR E2750-2752)</text></action>
+		<action datetime="1993-11-03"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Government Operations" subcommittee="Legislation and National Security"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Government Operations" subcommittee="Legislation and National Security"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Government Operations"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-11-04"  state="REPORTED"><committee name="House Committee on Government Operations"/><text>Ordered to be Reported (Amended) by the Yeas and Nays: 31 - 11.</text></calendar>
+		<action datetime="1993-11-10T19:54:00-05:00"><text>Reported (Amended) by the Committee on Government Operations. H. Rept. 103-355.</text></action>
+		<calendar number="192" datetime="1993-11-10T19:54:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 192.</text></calendar>
+		<action datetime="1993-11-17T22:48:00-05:00"><text>Rules Committee Resolution H. Res. 312 Reported to House. Rule provides for consideration of H.R. 3425 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Upon adoption of this resolution the Speaker may declare the declare the House resolved into the Committee of the Whole House for consideration of the bill. All points of order against consideration of the bill shall be waived. Measure will be read by section. Bill is closed to amendments. It shall be in order to consider the amendment in the nature of a substitute recommended by the Committee on Government Operations now printed in the bill. All points of order against the substitute shall be waived. No amendment to the substitute shall be in order except the amendments printed in the report accompanying this resolution, to be offered in the order and manner specified in the report and not subject to further amendment. A...</text></action>
+		<action datetime="1994-02-02"><text>Sponsor introductory remarks on measure. (CR H166)</text></action>
+		<action datetime="1994-02-02T17:24:00-05:00"><text>Rule H. Res. 312 failed passage of House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, Markup, Reporting" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="103" type="hr" number="312" />
+		<bill relation="unknown" session="103" type="h" number="109" />
+		<bill relation="unknown" session="103" type="h" number="824" />
+		<bill relation="unknown" session="103" type="h" number="824" />
+		<bill relation="unknown" session="103" type="h" number="2601" />
+		<bill relation="unknown" session="103" type="s" number="171" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Administrative procedure"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Civil rights"/>
+		<term name="Claims"/>
+		<term name="Conflict of interests"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Copyright"/>
+		<term name="Cost control"/>
+		<term name="Cost effectiveness"/>
+		<term name="Discrimination"/>
+		<term name="Discrimination in law enforcement"/>
+		<term name="Economic policy"/>
+		<term name="Environmental Protection Agency"/>
+		<term name="Environmental health"/>
+		<term name="Environmental law enforcement"/>
+		<term name="Executive departments"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Fraud"/>
+		<term name="Freedom of information"/>
+		<term name="Gifts"/>
+		<term name="Government consultants"/>
+		<term name="Government contractors"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Government procurement"/>
+		<term name="Government service contracts"/>
+		<term name="Hazardous substances"/>
+		<term name="Hazardous waste disposal"/>
+		<term name="Information services"/>
+		<term name="Information technology"/>
+		<term name="Intellectual property"/>
+		<term name="Interest"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="Liability for toxic substances pollution damages"/>
+		<term name="Patents"/>
+		<term name="Presidential appointments"/>
+		<term name="Presidents"/>
+		<term name="Public contracts"/>
+		<term name="Risk assessment"/>
+		<term name="State and local government"/>
+		<term name="Statistical services"/>
+		<term name="Statistics"/>
+		<term name="Technology"/>
+		<term name="Transportation"/>
+		<term name="Travel costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/10/1993--Reported to House amended. TABLE OF CONTENTS: Title I: Redesignation of Environmental Protection Agency as Department of Environmental Protection Title II: Administrative Provisions Department of Environmental Protection Act - Title I: Redesignation of Environmental Protection Agency as Department of Environmental Protection - Redesignates the Environmental Protection Agency (EPA) as the Department of Environmental Protection to be headed by a Secretary of the Environment. (Sec. 109) Requires the Secretary to establish a permanent information resources management steering committee and to designate a Chief Information Officer. (Sec. 110) Directs the Secretary to develop policies for encouraging greater public access to departmental information and to maintain a public access system that provides an inventory of the Department's information services and other holdings. (Sec. 111) Establishes a Bureau of Environmental Statistics, an Office of Environmental Justice, an Advisory Committee on Environmental Justice, and an Office of Environmental Risk. Requires the Director of the Office of Environmental Justice to promote environmental justice for all people wherever they are located or work in the United States and regardless of income, race, ethnicity, or national origin. Provides that any requirements imposed on State or local governments by the Bureau or the Office of Environmental Justice to conduct activities shall only apply if the Federal Government pays the direct costs of the activities. (Sec. 114) Requires the Secretary to: (1) provide for the acquisition and development of the best credible and unbiased scientific information; and (2) implement peer review and quality assurance guidelines. (Sec. 115) Establishes conflict-of-interest reporting requirements for members of Department advisory committees who are not Federal employees. (Sec. 116) Permits the Department to enter into an umbrella contract only if the contract: (1) does not exceed five years (ten years for a response action contract or a longer period under unusual and compelling circumstances); (2) is awarded pursuant to full and open competition, except under specified conditions; and (3) does not authorize the contractor to procure items on behalf of the Federal Government, other than items procured under and for response action contracts and in which the Government has all rights and interests. Defines an &quot;umbrella contract&quot; as a contract that: (1) provides for the performance of specific advisory and assistance services but does not procure or specify a firm quantity of services; (2) provides for services to be supplied in response to Federal task orders; (3) requires the contractor to provide a stated amount of effort over a given period of time; and (4) has a maximum potential value of at least $1 million, is not a fixed price contract, and is for a period longer than one year. Lists subcontracting requirements. (Sec. 117) Declares that it shall be the policy of the Department to prevent the transfer of inherently governmental functions to private sector contractors. (Sec. 118) Disallows indirect costs incurred by a Department contractor if a cost submitted is unallowable because it is in violation of a cost principle in the Federal Acquisition Regulation or other law. Applies this requirement to contracts in excess of $100,000 other than fixed-price contracts without cost incentives. Prescribes penalties for the submission of unallowable costs. (Sec. 119) Lists unallowable costs as costs of entertainment, gifts, or recreation for contractor employees. Title II: Administrative Provisions - Sets forth provisions governing: (1) the acquisition of copyrights and patents by the Secretary; (2) the acceptance of gifts; (3) the departmental seal; and (4) the use of existing stationery, forms, and other EPA supplies.
+
+	</summary>
+</bill>

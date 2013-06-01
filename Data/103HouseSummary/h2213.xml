@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="2213" updated="2010-04-19T04:57:01-04:00">
+	<state datetime="1993-05-20">REFERRED</state>
+	<status><introduced datetime="1993-05-20"/></status>
+
+	<introduced datetime="1993-05-20"/>
+	<titles>
+		<title type="official" as="introduced">To provide that excess amounts from official allowances of Members of the House of Representatives be returned to the Treasury for deficit reduction or for the purpose of making the amounts available for small business loans and investments.</title>
+	</titles>
+	<sponsor id="404296"/>
+	<cosponsors>
+		<cosponsor id="400526" joined="1994-09-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-20"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-05-25"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Accounts.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Accounts" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Budget deficits"/>
+		<term name="Congressional allowances"/>
+		<term name="Federal budgets"/>
+		<term name="Government lending"/>
+		<term name="Government trust funds"/>
+		<term name="Members of Congress (House)"/>
+		<term name="Small business"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/1993--Introduced.
+Requires any amount remaining in an official allowance of a Member of the House of Representatives at the end of the session of Congress or other period for which the allowance is made available to be returned to the Treasury for deficit reduction or for deposit in the business loan and investment fund, as designated by the Member involved.
+
+	</summary>
+</bill>

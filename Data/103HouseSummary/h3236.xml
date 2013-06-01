@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="3236" updated="2010-04-19T07:35:27-04:00">
+	<state datetime="1993-10-07">REFERRED</state>
+	<status><introduced datetime="1993-10-07"/></status>
+
+	<introduced datetime="1993-10-07"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 23, United States Code, to authorize a State to include in highway construction contracts a guaranty or warranty clause for materials and workmanship.</title>
+	</titles>
+	<sponsor id="401310"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="1993-10-12"/>
+		<cosponsor id="400553" joined="1993-11-17"/>
+		<cosponsor id="404083" joined="1993-10-12"/>
+		<cosponsor id="400183" joined="1993-10-12"/>
+		<cosponsor id="403364" joined="1993-10-12"/>
+		<cosponsor id="400140" joined="1993-10-12"/>
+		<cosponsor id="400178" joined="1993-11-17"/>
+		<cosponsor id="400357" joined="1993-11-17"/>
+		<cosponsor id="400599" joined="1993-11-17"/>
+		<cosponsor id="404009" joined="1993-11-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-07"><text>Sponsor introductory remarks on measure. (CR E2381)</text></action>
+		<action datetime="1993-10-07"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+		<action datetime="1994-05-11"><committee name="House Committee on Public Works + Transportation"/><text>See H.R.4385.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4385" />
+	</relatedbills>
+	<subjects>
+		<term name="Roads and highways"/>
+		<term name="Federal aid highway program"/>
+		<term name="Government contractors"/>
+		<term name="Highway engineering"/>
+		<term name="Highway maintenance"/>
+		<term name="Public contracts"/>
+		<term name="Warranties"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1993--Introduced.
+Authorizes a State highway department to include a clause in a contract for the construction of a Federal-aid highway which requires the contractor to guarantee or warrant materials and workmanship. Makes such a clause applicable to a specific construction product or feature but not to routine maintenance.
+
+	</summary>
+</bill>

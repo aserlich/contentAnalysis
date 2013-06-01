@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="375" updated="2010-04-18T23:58:24-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To deny funds to programs that do not allow the Secretary of Defense access to students on campuses or to certain student information for recruiting purposes.</title>
+	</titles>
+	<sponsor id="410147"/>
+	<cosponsors>
+		<cosponsor id="400397" joined="1993-01-05"/>
+		<cosponsor id="411247" joined="1993-01-05"/>
+		<cosponsor id="400611" joined="1993-01-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1993-02-02"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Postsecondary Education and Training.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Postsecondary Education and Training" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Budgets"/>
+		<term name="College students"/>
+		<term name="Defense policy"/>
+		<term name="Directories"/>
+		<term name="Education"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Federal aid to education"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Higher education"/>
+		<term name="Recruiting and enlistment"/>
+		<term name="School administration"/>
+		<term name="Student records"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Prohibits Federal funds from being made available to any agency, institution, organization, or entity (agency) that denies the Secretary of Defense, for military recruitment purposes: (1) entry to campuses or access to students on campuses; or (2) access to directory information pertaining to students unless an objection has been raised to the release of such information pursuant to this Act. Requires any educational agency that releases directory information to: (1) give public notice of the categories of such information to be released; and (2) allow a reasonable period of time after such notice has been given for a student or a parent (in the case of an individual younger than 18 years of age) to inform the agency that any or all of such information should not be released without obtaining prior consent from such student or parent. Specifies that nothing in this Act shall be construed to require students to attend recruitment events.
+
+	</summary>
+</bill>

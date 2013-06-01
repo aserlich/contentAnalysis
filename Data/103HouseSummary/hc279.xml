@@ -1,0 +1,78 @@
+<bill session="103" type="hc" number="279" updated="2010-04-18T21:44:39-04:00">
+	<state datetime="1994-10-04T19:08:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-04T19:08:00-04:00" where="h" result="pass" how="roll" roll="478"/></status>
+
+	<introduced datetime="1994-08-05"/>
+	<titles>
+		<title type="official" as="introduced">Condemning the July 13, 1994, sinking of the &quot;13th of March&quot;, a tugboat carrying 72 unarmed Cuban citizens, by vessels of the Cuban Government.</title>
+	</titles>
+	<sponsor id="400272"/>
+	<cosponsors>
+		<cosponsor id="400015" joined="1994-08-21"/>
+		<cosponsor id="400380" joined="1994-08-05"/>
+		<cosponsor id="400122" joined="1994-08-21"/>
+		<cosponsor id="400170" joined="1994-08-05"/>
+		<cosponsor id="400344" joined="1994-08-05"/>
+		<cosponsor id="400585" joined="1994-08-21"/>
+		<cosponsor id="400106" joined="1994-08-05"/>
+		<cosponsor id="400511" joined="1994-08-05"/>
+		<cosponsor id="400231" joined="1994-08-21"/>
+		<cosponsor id="300156" joined="1994-08-05"/>
+		<cosponsor id="400536" joined="1994-08-05"/>
+		<cosponsor id="400107" joined="1994-08-05"/>
+		<cosponsor id="400299" joined="1994-08-05"/>
+		<cosponsor id="400595" joined="1994-09-27"/>
+		<cosponsor id="400163" joined="1994-08-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-05"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-08-08"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Requested from State.</text></action>
+		<action datetime="1994-08-17"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Western Hemisphere Affairs.</text></action>
+		<action datetime="1994-08-17"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on International Security, International Organizations and Human Rights.</text></action>
+		<action datetime="1994-09-21"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Received from State.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Foreign Affairs"/><text>Subcommittee on International Security, International Organizations and Human Rights Discharged.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Foreign Affairs"/><text>Subcommittee on Western Hemisphere Affairs Discharged.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T16:17:00-04:00"><text>Mr. Menendez moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action datetime="1994-10-03T16:17:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10578-10588"/></action>
+		<action datetime="1994-10-03T16:17:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-03T16:45:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1994-10-04T19:00:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10736"/></action>
+		<vote how="roll" type="vote" roll="478" datetime="1994-10-04T19:08:00-04:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 478).</text></vote>
+		<action datetime="1994-10-04T19:08:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-05"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Referred to the Committee on Foreign Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup" />
+		<committee code="HSFA-07" name="House Foreign Affairs" subcommittee="Western Hemisphere Affairs" activity="Referral, Discharged" />
+		<committee code="" name="House Foreign Affairs" subcommittee="International Security, International Organizations, and Human Rights" activity="Referral, Discharged" />
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Cuba"/>
+		<term name="Emigration"/>
+		<term name="Foreign policy"/>
+		<term name="Human rights"/>
+		<term name="Immigration"/>
+		<term name="International affairs"/>
+		<term name="Latin America"/>
+		<term name="Marine safety"/>
+		<term name="Political prisoners"/>
+		<term name="Transportation"/>
+		<term name="Tugboats"/>
+		<term name="United Nations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/4/1994--Passed House amended. Condemns the Cuban Government for deliberately sinking the &quot;13th of March,&quot; a tugboat carrying 72 unarmed Cuban citizens, on July 18, 1994, causing the death of approximately 40 Cuban citizens, including over 20 children. Urges the President to direct the U.S. Representative to the United Nations (UN) to urge: (1) the Security Council to adopt a resolution that condemns the sinking and provides for a full internationally supervised investigation; and (2) the UN High Commissioner for Human Rights to investigate such sinking. Urges the Cuban Government to release from prison and cease intimidation measures against all survivors, identify all individuals missing, recover the bodies of the dead, and return such bodies to their families.
+
+	</summary>
+</bill>

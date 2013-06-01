@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="3062" updated="2010-04-19T07:08:30-04:00">
+	<state datetime="1993-09-14">REFERRED</state>
+	<status><introduced datetime="1993-09-14"/></status>
+
+	<introduced datetime="1993-09-14"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Controlled Substances Act to eliminate a Federal entitlement to legal representation in death penalty cases.</title>
+	</titles>
+	<sponsor id="404068"/>
+	<cosponsors>
+		<cosponsor id="400113" joined="1994-08-12"/>
+		<cosponsor id="400104" joined="1994-01-26"/>
+		<cosponsor id="400567" joined="1993-09-27"/>
+		<cosponsor id="411997" joined="1993-11-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-14"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-09-14"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-10-05"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1993-11-15"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Capital punishment"/>
+		<term name="Legal assistance to the poor"/>
+		<term name="Narcotic traffic"/>
+		<term name="Organized crime"/>
+		<term name="Right to counsel"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/14/1993--Introduced.
+Amends the Controlled Substances Act to repeal a Federal entitlement to legal representation, for criminal defendants unable to afford counsel, in death penalty cases.
+
+	</summary>
+</bill>

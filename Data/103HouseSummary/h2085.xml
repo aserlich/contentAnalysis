@@ -1,0 +1,40 @@
+<bill session="103" type="h" number="2085" updated="2010-04-19T04:37:11-04:00">
+	<state datetime="1993-05-12">REFERRED</state>
+	<status><introduced datetime="1993-05-12"/></status>
+
+	<introduced datetime="1993-05-12"/>
+	<titles>
+		<title type="official" as="introduced">To temporarily suspend the duty on N-((4-chlorophenyl)amino)carbonyl)-2-difluorobenzamide, and for other purposes.</title>
+	</titles>
+	<sponsor id="400205"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-12"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-17"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1993-09-22"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="803" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Chemicals"/>
+		<term name="Insect control"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/12/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1998, the duty on: (1) N-(((4-chlorophenyl)- amino) carbonyl)-2-difluorobenzamide (diflubenzuron); and (2) mixtures of N-(((4-chlorophenyl) amino)-carbonyl)-2-difluorobenzamide (diflubenzuron) and inert substances.
+
+	</summary>
+</bill>

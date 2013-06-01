@@ -1,0 +1,91 @@
+<bill session="103" type="sj" number="196" updated="2012-07-17T05:31:13-04:00">
+	<state datetime="1994-08-26">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-08-26" /></status>
+
+	<introduced datetime="1994-05-25"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution designating September 16, 1994, as &quot;National POW/MIA Recognition Day&quot; and authorizing display of the National League of Families POW/MIA flag.</title>
+	</titles>
+	<sponsor id="300155"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1994-07-21"/>
+		<cosponsor id="300052" joined="1994-07-22"/>
+		<cosponsor id="300056" joined="1994-06-21"/>
+		<cosponsor id="300060" joined="1994-08-01"/>
+		<cosponsor id="300059" joined="1994-07-21"/>
+		<cosponsor id="403142" joined="1994-07-21"/>
+		<cosponsor id="300037" joined="1994-07-12"/>
+		<cosponsor id="408252" joined="1994-08-01"/>
+		<cosponsor id="300089" joined="1994-07-21"/>
+		<cosponsor id="300031" joined="1994-07-21"/>
+		<cosponsor id="300029" joined="1994-08-01"/>
+		<cosponsor id="406256" joined="1994-07-21"/>
+		<cosponsor id="300017" joined="1994-08-01"/>
+		<cosponsor id="300057" joined="1994-07-21"/>
+		<cosponsor id="300009" joined="1994-06-21"/>
+		<cosponsor id="400564" joined="1994-06-21"/>
+		<cosponsor id="407254" joined="1994-07-21"/>
+		<cosponsor id="300023" joined="1994-07-22"/>
+		<cosponsor id="300154" joined="1994-08-01"/>
+		<cosponsor id="300069" joined="1994-07-21"/>
+		<cosponsor id="300026" joined="1994-06-21"/>
+		<cosponsor id="300008" joined="1994-08-01"/>
+		<cosponsor id="300064" joined="1994-08-01"/>
+		<cosponsor id="300073" joined="1994-07-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-25" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1994-08-02"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text></action>
+		<action datetime="1994-08-02"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S10355"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-08-02" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment and with a preamble by Voice Vote.</text></vote>
+		<action datetime="1994-08-03"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-08-03T12:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-08-03"><text>Referred jointly to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-08-03"><text>Referred jointly to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1994-08-12T14:15:00-04:00"><text>Committee on Post Office and Civil Service discharged.</text></action>
+		<action datetime="1994-08-12T14:15:00-04:00"><text>Committee on Veterans' Affairs discharged.</text></action>
+		<action datetime="1994-08-12T14:16:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H8034-8036"/></action>
+		<action datetime="1994-08-12T14:16:00-04:00"><text>Mr. Wynn asked unanimous consent to discharge from committees and consider.</text></action>
+		<vote how="without objection" type="vote2" datetime="1994-08-12T14:31:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-08-12T14:31:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-08-12" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-08-17" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-08-26" ><text>Signed by President.</text></signed>
+		<enacted number="103-320" type="public" datetime="1994-08-26"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-320.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged" />
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Special days"/>
+		<term name="Armed forces and national security"/>
+		<term name="Capitol (Washington, D.C.)"/>
+		<term name="Cemeteries and funerals"/>
+		<term name="Commemorations"/>
+		<term name="District of Columbia"/>
+		<term name="Emblems"/>
+		<term name="Federal office buildings"/>
+		<term name="Flags"/>
+		<term name="Memorial Day"/>
+		<term name="Missing in action"/>
+		<term name="National monuments"/>
+		<term name="Prisoners of war"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Veterans Day"/>
+		<term name="Vietnam veterans"/>
+		<term name="White House (Washington, D.C.)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/25/1994--Introduced.
+Designates September 16, 1994, as National POW/MIA Recognition Day. Requires the display of the National League of Families POW/MIA flag at: (1) all national cemeteries and the National Vietnam Veterans Memorial on May 30, 1994 (Memorial Day), September 16, 1994 (National POW/MIA Recognition Day), and November 11, 1994 (Veterans Day); and (2) the White House, the Capitol Building, and the buildings containing the primary offices of the Secretaries of State, Defense, and Veterans Affairs and the Director of the Selective Service System on September 16, 1994 (National POW/MIA Recognition Day).
+
+	</summary>
+</bill>

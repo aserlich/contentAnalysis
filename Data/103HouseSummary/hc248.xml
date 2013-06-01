@@ -1,0 +1,57 @@
+<bill session="103" type="hc" number="248" updated="2010-04-18T21:39:47-04:00">
+	<state datetime="1994-08-10">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1994-08-10" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-05-11"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the printing of eulogies and encomiums of the late President of the United States, Richard M. Nixon, as expressed in the House of Representatives and the Senate.</title>
+	</titles>
+	<sponsor id="407676"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-11"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1994-05-17"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+		<action datetime="1994-06-28"><committee name="House Committee on House Administration" subcommittee="Personnel and Police"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-06-28"><committee name="House Committee on House Administration" subcommittee="Personnel and Police"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<calendar datetime="1994-06-30"  state="REPORTED"><committee name="House Committee on House Administration"/><text>Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-08-03T15:31:00-04:00"><text>Committee on House Administration discharged.</text></action>
+		<action datetime="1994-08-03T15:31:00-04:00"><text>Mr. Manton asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-08-03T15:33:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H6733"/></action>
+		<vote how="without objection" type="vote" datetime="1994-08-03T15:34:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On agreeing to the resolution Agreed to without objection.</text></vote>
+		<action datetime="1994-08-03T15:34:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1994-08-03T15:34:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-08-08"><text>Received in the Senate and referred to the Committee on Rules.</text></action>
+		<action datetime="1994-08-10"><text>Senate Committee on Rules discharged by Unanimous Consent.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-08-10" where="s" result="pass"  state="PASSED:CONCURRENTRES"><text>Resolution agreed to in Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S11184"/></vote>
+		<action datetime="1994-08-11"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, Discharged" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral, Markup, Reporting" />
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="California"/>
+		<term name="Cemeteries and funerals"/>
+		<term name="Commemorations"/>
+		<term name="Congress"/>
+		<term name="Congressional publications"/>
+		<term name="Congressional tributes"/>
+		<term name="Government information"/>
+		<term name="Nixon Administration"/>
+		<term name="Presidents"/>
+	</subjects>
+	<amendments>
+		<amendment number="h813"/>
+	</amendments>
+	<summary>
+	8/3/1994--Passed House amended. Provides for the printing as a House document of the eulogies and encomiums for the late President of the United States, Richard M. Nixon, as expressed in the House of Representatives and the Senate, together with the text of his funeral services.
+
+	</summary>
+</bill>

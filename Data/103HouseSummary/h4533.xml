@@ -1,0 +1,104 @@
+<bill session="103" type="h" number="4533" updated="2010-04-19T10:57:53-04:00">
+	<state datetime="1994-10-05T18:27:00-04:00">PROV_KILL:SUSPENSIONFAILED</state>
+	<status><vote datetime="1994-10-05T18:27:00-04:00" where="h" result="fail" how="roll" roll="489"/></status>
+
+	<introduced datetime="1994-05-26"/>
+	<titles>
+		<title type="short" as="introduced">National Park Service Entrepreneurial Management Reform Act</title>
+		<title type="short" as="reported to house">National Park Service Entrepreneurial Management Reform Act of 1994</title>
+		<title type="official" as="introduced">To promote entrepreneurial management of the National Park Service, and for other purposes.</title>
+	</titles>
+	<sponsor id="400612"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-26"><text>Sponsor introductory remarks on measure. (CR E1119)</text></action>
+		<action datetime="1994-05-26"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-05-26"><committee name="House Committee on Natural Resources"/><text>Late Referral to the Subcommittee on National Parks, Forests and Public Lands (Jul 11, 94).</text></action>
+		<action datetime="1994-06-10"><text>Hearings Held by the Subcommittee on National Parks, Forests and Public Lands Prior to Referral.</text></action>
+		<action datetime="1994-07-21"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-07-21"><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T20:11:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-793.</text></action>
+		<calendar number="439" datetime="1994-10-03T20:11:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 439.</text></calendar>
+		<action datetime="1994-10-03T20:34:00-04:00"><text>Mr. Vento moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-03T20:34:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10668-10670"/></action>
+		<action datetime="1994-10-03T20:34:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-03T20:40:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed until Oct. 4.</text></action>
+		<action datetime="1994-10-04T19:35:00-04:00"><text>Considered as unfinished business. (CR H10739-10740)</text></action>
+		<vote how="roll" type="vote" roll="482" datetime="1994-10-04T19:42:00-04:00" where="h" result="fail" suspension="1"  state="PROV_KILL:SUSPENSIONFAILED"><text>On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays (2/3 required): 238 - 174 (Roll No. 482).</text></vote>
+		<action datetime="1994-10-04T19:42:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-04T21:51:00-04:00"><text>Mr. Vento moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-04T21:52:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10802-10804"/></action>
+		<action datetime="1994-10-04T21:52:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-04T21:55:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed until Oct. 5.</text></action>
+		<action datetime="1994-10-05T18:18:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10919"/></action>
+		<vote how="roll" type="vote" roll="489" datetime="1994-10-05T18:27:00-04:00" where="h" result="fail" suspension="1" ><text>On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays (2/3 required): 242 - 174 (Roll No. 489).</text></vote>
+		<action datetime="1994-10-05T18:27:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2121" />
+		<bill relation="unknown" session="103" type="s" number="2121" />
+	</relatedbills>
+	<subjects>
+		<term name="Parks"/>
+		<term name="Administrative procedure"/>
+		<term name="Aged"/>
+		<term name="Arrest"/>
+		<term name="Blind"/>
+		<term name="Budgets"/>
+		<term name="California"/>
+		<term name="Collection of accounts"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Conservation of natural resources"/>
+		<term name="Criminal justice"/>
+		<term name="Damages"/>
+		<term name="Department of the Interior"/>
+		<term name="Destruction of property"/>
+		<term name="Disabled"/>
+		<term name="Education"/>
+		<term name="Environmental protection"/>
+		<term name="Executive departments"/>
+		<term name="Fees"/>
+		<term name="Finance"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Forfeiture"/>
+		<term name="Fund raising"/>
+		<term name="Gifts"/>
+		<term name="Government service contracts"/>
+		<term name="Government trust funds"/>
+		<term name="Idaho"/>
+		<term name="Infrastructure"/>
+		<term name="Labor"/>
+		<term name="Law"/>
+		<term name="Licenses"/>
+		<term name="Mass rapid transit"/>
+		<term name="Montana"/>
+		<term name="National parks"/>
+		<term name="Natural resources"/>
+		<term name="Outdoor recreation"/>
+		<term name="Public contracts"/>
+		<term name="Public lands"/>
+		<term name="Sports"/>
+		<term name="Surety and fidelity"/>
+		<term name="Transportation"/>
+		<term name="User charges"/>
+		<term name="Vandalism"/>
+		<term name="Volunteer workers"/>
+		<term name="Wyoming"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Reported to House amended. National Park Service Entrepreneurial Management Reform Act of 1994 - Amends the Land and Water Conservation Fund Act of 1965 to increase fees for admission to units of the National Park System (NPS) and other specified areas. Makes receipts from admission available, subject to appropriation, for authorized resource protection, rehabilitation, and conservation projects. (Sec. 2) Requires the Secretary of the Interior to establish a pilot project at Yosemite National Park that utilizes incentives, including waiving or reducing admission fees, to encourage use of public transit which serves the purpose of reducing vehicular traffic within such park. Revises provisions regarding the issuance of lifetime admission permits, including a limitation that such a permit entitles only the permittee and the accompanying spouse to free admission. Directs the Secretary to report to the Congress respecting areas where the Secretary determines that admission fees would be appropriate but where such fees are prohibited by law, and areas where such fees are authorized but not being collected. Increases the penalty for violations of rules and regulations regarding admission and special recreation use fees. Modifies provisions regarding the use of fees collected. Requires that specified receipts be covered into a special National Park Renewal Fund. Makes such funds available for resource protection, research, interpretation, and maintenance activities related to resource protection and visitor enjoyment in areas managed by the National Park Service. Repeals a requirement that qualified public or private entities selling annual admission permits reimburse the United States for the full amount to be received from the sale of such permits when or before the agency delivers the permits to such entity for sale. Directs the Secretary to establish reasonable fees for nonrecreational uses of NPS units that require special arrangements. Prohibits charging an admission or recreation use fee for entrance into, or use of, any federally owned area operated and maintained by a Federal agency which is used for outdoor recreation purposes, except as provided for by such Act. (Sec. 3) Authorizes the Secretary to: (1) negotiate and enter into agreements with State or local governments, individuals, or other entities for the purpose of sharing costs or services in carrying out authorized functions and responsibilities of the Secretary with respect to NPS units; and (2) provide, subject to appropriation, the Federal funding share from any funds available to the National Park Service in carrying out such agreements. (Sec. 4) Requires any funds payable to the United States as restitution for damages to national park resources or property to be paid to the Secretary and made available for improvement, protection, or rehabilitation of damaged resources or property.
+
+	</summary>
+</bill>

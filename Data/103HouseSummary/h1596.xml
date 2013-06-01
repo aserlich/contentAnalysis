@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="1596" updated="2010-04-19T03:20:37-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 10, United States Code, to provide that certain individuals who would otherwise be eligible for military retired pay for nonregular service but who did not serve on active duty during a period of conflict may be paid such retired pay if they served in the United States merchant marine during or immediately after World War II.</title>
+	</titles>
+	<sponsor id="400231"/>
+	<cosponsors>
+		<cosponsor id="400036" joined="1994-03-22"/>
+		<cosponsor id="407124" joined="1994-02-10"/>
+		<cosponsor id="400124" joined="1993-04-01"/>
+		<cosponsor id="400524" joined="1994-03-22"/>
+		<cosponsor id="401383" joined="1994-04-18"/>
+		<cosponsor id="409829" joined="1993-11-09"/>
+		<cosponsor id="300014" joined="1993-06-23"/>
+		<cosponsor id="400182" joined="1994-07-20"/>
+		<cosponsor id="400252" joined="1994-05-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-04-06"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-04-06"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Merchant marine"/>
+		<term name="Merchant seamen"/>
+		<term name="Military pensions"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Entitles to military retired pay certain persons who were members of the U.S. merchant marine during and immediately after World War II. Directs the Secretary of the military department concerned, within 60 days after the enactment of this Act, to make lump-sum payments of such accrued pay to such persons.
+
+	</summary>
+</bill>

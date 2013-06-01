@@ -1,0 +1,63 @@
+<bill session="103" type="h" number="1183" updated="2012-07-17T04:30:23-04:00">
+	<state datetime="1994-07-05">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-07-05" /></status>
+
+	<introduced datetime="1993-03-02"/>
+	<titles>
+		<title type="official" as="introduced">To validate conveyances of certain lands in the State of California that form part of the right-of-way granted by the United States to the Central Pacific Railway Company.</title>
+	</titles>
+	<sponsor id="400113"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-02" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-05-06"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-05-06"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-06-16"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-06-16"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-06-21T11:43:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-143.</text></action>
+		<calendar number="1" datetime="1993-06-21T11:47:00-04:00" calendar="Private" ><text>Placed on the Private Calendar, Calendar No. 1.</text></calendar>
+		<action datetime="1993-06-21T12:34:00-04:00"><text>Mr. Vento moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-06-21T12:34:00-04:00"><text>Considered under suspension of the rules.</text></action>
+		<action datetime="1993-06-21T12:34:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-06-21T12:35:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-06-21T12:36:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-06-22"><text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-06-23"><committee name="House Committee on Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1994-02-15"><committee name="House Committee on Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-03-03"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee on Public Lands, National Parks. Hearings held.</text></action>
+		<calendar datetime="1994-05-11" ><committee name="House Committee on Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-05-25"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 103-277.</text></action>
+		<calendar under="General Orders" number="448" datetime="1994-05-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 448.</text></calendar>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-06-16" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text></vote>
+		<topresident datetime="1994-06-16" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-06-21"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-06-23" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-07-05" ><text>Signed by President.</text></signed>
+		<enacted number="103-2" type="private" datetime="1994-07-05"  state="ENACTED:SIGNED"><text>Became Private Law No: 103-2.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Real property"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/2/1993--Introduced.
+Railroad Right-of-Way Conveyance Validation Act - Validates conveyances of certain lands in San Joaquin and Nevada Counties, California, that form part of the right-of-way granted by the United States to the Central Pacific Railway Company.
+
+	</summary>
+</bill>

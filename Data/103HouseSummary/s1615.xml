@@ -1,0 +1,52 @@
+<bill session="103" type="s" number="1615" updated="2012-07-17T04:36:11-04:00">
+	<state datetime="1993-11-03">REFERRED</state>
+	<status><introduced datetime="1993-11-03"/></status>
+
+	<introduced datetime="1993-11-03"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 relating to the treatment of livestock sold on account of weather-related conditions.</title>
+	</titles>
+	<sponsor id="300031"/>
+	<cosponsors>
+		<cosponsor id="408898" joined="1993-11-03"/>
+		<cosponsor id="300048" joined="1993-11-03"/>
+		<cosponsor id="403669" joined="1993-11-03"/>
+		<cosponsor id="406188" joined="1993-11-03"/>
+		<cosponsor id="300026" joined="1993-11-03"/>
+		<cosponsor id="300037" joined="1993-11-03"/>
+		<cosponsor id="300051" joined="1993-11-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-03" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S14958)</text></action>
+		<action datetime="1993-11-03" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+		<action datetime="1994-10-05"><committee name="Committee on Finance"/><text>Subcommittee on Energy and Agricultural Taxation. Hearings held. Hearings printed: S.Hrg. 103-1025.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+		<committee code="" name="Senate Finance" subcommittee="Energy and Agricultural Taxation" activity="Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Agricultural economics"/>
+		<term name="Agriculture and food"/>
+		<term name="Disaster relief"/>
+		<term name="Emergency management"/>
+		<term name="Floods"/>
+		<term name="Livestock"/>
+		<term name="Tax deferral"/>
+		<term name="Tax exclusion"/>
+		<term name="Taxation"/>
+		<term name="Weather"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/3/1993--Introduced.
+Amends the Internal Revenue Code to apply the special treatment of livestock sold or involuntarily converted on account of drought conditions to livestock sold or converted because of drought, flood, or other weather-related conditions.
+
+	</summary>
+</bill>

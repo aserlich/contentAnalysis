@@ -1,0 +1,48 @@
+<bill session="103" type="s" number="1999" updated="2012-07-17T05:12:59-04:00">
+	<state datetime="1994-03-25">REFERRED</state>
+	<status><introduced datetime="1994-03-25"/></status>
+
+	<introduced datetime="1994-03-25"/>
+	<titles>
+		<title type="short" as="introduced">Lower East Side Tenement Museum National Historic Site Act of 1994</title>
+		<title type="official" as="introduced">A bill to establish the Lower East Side Tenement Museum National Historic Site.</title>
+	</titles>
+	<sponsor id="400563"/>
+	<cosponsors>
+		<cosponsor id="403142" joined="1994-03-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-25" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3981-3982)</text></action>
+		<action datetime="1994-03-25" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-03-28"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1994-05-05"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of Agriculture, Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1994-05-17"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed: S.Hrg. 103-775.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4158" />
+	</relatedbills>
+	<subjects>
+		<term name="Historic sites"/>
+		<term name="Apartment houses"/>
+		<term name="Arts, culture, religion"/>
+		<term name="Commemorations"/>
+		<term name="History"/>
+		<term name="Housing and community development"/>
+		<term name="Immigrants"/>
+		<term name="Immigration"/>
+		<term name="Museums"/>
+		<term name="New York City"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/25/1994--Introduced.
+Lower East Side Tenement Museum National Historic Site Act of 1994 - Designates the Lower East Side Tenement Museum at 97 Orchard Street, New York, New York, as a National Historic Site. Authorizes the Secretary of the Interior to acquire the Site with donated or appropriated funds, to enter into cooperative agreements with the Museum designed to assure preservation and interpretation of the Site, and to acquire properties owned, operated, or required by the Museum. Authorizes appropriations.
+
+	</summary>
+</bill>

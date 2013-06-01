@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="484" updated="2010-04-19T00:16:31-04:00">
+	<state datetime="1993-01-06">REFERRED</state>
+	<status><introduced datetime="1993-01-06"/></status>
+
+	<introduced datetime="1993-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Capital Budgeting Act of 1993</title>
+		<title type="official" as="introduced">To improve budgetary information by requiring that the unified budget presented by the President contain information which facilitates consideration of choices between spending which is consumption oriented, spending which is of a development character, and spending which is in the nature of a capital investment, and for other purposes.</title>
+	</titles>
+	<sponsor id="410821"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-06"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1050" />
+		<bill relation="unknown" session="103" type="h" number="1182" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Balanced budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Capital budgets"/>
+		<term name="Capital investments"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Economic growth"/>
+		<term name="Education"/>
+		<term name="Federal aid to education"/>
+		<term name="Federal aid to research"/>
+		<term name="Government trust funds"/>
+		<term name="House rules and procedure"/>
+		<term name="Infrastructure (Economics)"/>
+		<term name="Investment of public funds"/>
+		<term name="Legislation"/>
+		<term name="Manpower training programs"/>
+		<term name="Productivity in government"/>
+		<term name="Research and development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/1993--Introduced.
+Capital Budgeting Act of 1993 - Amends Federal law to require that the budget the President submits to the Congress be a unified budget comprising an operating budget and an investment budget (divided into federally-owned capital and developmental inestments), each presented separately for unified funds, general funds, trust funds, and enterprise funds.
+
+	</summary>
+</bill>

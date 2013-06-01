@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="2783" updated="2010-04-19T06:25:15-04:00">
+	<state datetime="1993-07-28">REFERRED</state>
+	<status><introduced datetime="1993-07-28"/></status>
+
+	<introduced datetime="1993-07-28"/>
+	<titles>
+		<title type="official" as="introduced">To direct the Secretary of Transportation to conduct a study of the Brooklyn waterfront, New York City, New York.</title>
+	</titles>
+	<sponsor id="400289"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-28"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-08-09"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1993-08-09"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1286" />
+	</relatedbills>
+	<subjects>
+		<term name="Public works"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Container ships"/>
+		<term name="Harbors"/>
+		<term name="Land use"/>
+		<term name="Marine terminals"/>
+		<term name="Marine transportation"/>
+		<term name="New Jersey"/>
+		<term name="New York City"/>
+		<term name="Railroad freight operations"/>
+		<term name="Transportation planning"/>
+		<term name="Tunnels"/>
+		<term name="Waterfronts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/28/1993--Introduced.
+Directs the Secretary of Transportation to study the feasibility of establishing a major container feeder port at the Brooklyn waterfront, New York City, New York.
+
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="103" type="h" number="3945" updated="2010-04-19T09:25:46-04:00">
+	<state datetime="1994-03-02">REFERRED</state>
+	<status><introduced datetime="1994-03-02"/></status>
+
+	<introduced datetime="1994-03-02"/>
+	<titles>
+		<title type="official" as="introduced">Providing for a 5-year extension of patent numbered 4,062,141 (relating to a waterfowl decoy).</title>
+	</titles>
+	<sponsor id="400316"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-02"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-03-04"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Patents"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/2/1994--Introduced.
+Directs the Secretary of Commerce to renew a specified patent for a period of five years.
+
+	</summary>
+</bill>

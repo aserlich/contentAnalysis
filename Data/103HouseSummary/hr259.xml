@@ -1,0 +1,43 @@
+<bill session="103" type="hr" number="259" updated="2010-04-19T13:39:25-04:00">
+	<state datetime="1993-09-29T13:53:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-09-29T13:53:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-09-28"/>
+	<titles>
+		<title type="official" as="introduced">Waiving points of order against the conference report to accompany the bill (H.R. 2295) making appropriations for foreign operations, export financing, and related programs for the fiscal year ending September 30, 1994, and making supplemental appropriations for such programs for the fiscal year ending September 30, 1993, and for other purposes.</title>
+	</titles>
+	<sponsor id="403403"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-28T18:55:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-259, by Mr. Derrick.</text></action>
+		<action datetime="1993-09-28T18:55:00-04:00"><text>Rule provides for consideration of the conference report to H.R. 2295. Waiving all points of order against the conference report and against its consideration.</text></action>
+		<calendar datetime="1993-09-28T18:56:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 89.</text></calendar>
+		<action datetime="1993-09-29T13:43:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H7199-7200"/></action>
+		<action datetime="1993-09-29T13:44:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-09-29T13:52:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-09-29T13:53:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1993-09-29T13:53:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2295" />
+		<bill relation="unknown" session="103" type="h" number="2295" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Foreign relations"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/28/1993--Introduced.
+Waives points of order against the consideration of the conference report on H.R. 2295 (making appropriations for foreign operations, export financing, and related programs for FY 1993 and 1994).
+
+	</summary>
+</bill>

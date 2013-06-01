@@ -1,0 +1,36 @@
+<bill session="103" type="h" number="4011" updated="2010-04-19T09:36:08-04:00">
+	<state datetime="1994-03-10">REFERRED</state>
+	<status><introduced datetime="1994-03-10"/></status>
+
+	<introduced datetime="1994-03-10"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Anil K. Sharma.</title>
+	</titles>
+	<sponsor id="409400"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-10"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-03-22"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Immigration"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/10/1994--Introduced.
+Waives the two-year foreign residence requirement for a named individual and deems him eligible to apply for any benefit under the Immigration and Nationality Act for which he qualifies.
+
+	</summary>
+</bill>

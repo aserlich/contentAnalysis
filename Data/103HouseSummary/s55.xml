@@ -1,0 +1,97 @@
+<bill session="103" type="s" number="55" updated="2012-07-17T05:36:32-04:00">
+	<state datetime="1993-05-05">REPORTED</state>
+	<status><calendar datetime="1993-05-05" /></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="popular" as="">Striker Replacement bill</title>
+		<title type="official" as="introduced">A bill to amend the National Labor Relations Act and the Railway Labor Act to prevent discrimination based on participation in labor disputes.</title>
+	</titles>
+	<sponsor id="407663"/>
+	<cosponsors>
+		<cosponsor id="300016" joined="1993-02-25"/>
+		<cosponsor id="300056" joined="1993-01-21"/>
+		<cosponsor id="409580" joined="1993-01-21"/>
+		<cosponsor id="300060" joined="1993-01-21"/>
+		<cosponsor id="300059" joined="1993-01-21"/>
+		<cosponsor id="300043" joined="1993-02-03"/>
+		<cosponsor id="406084" joined="1993-03-03"/>
+		<cosponsor id="405212" joined="1993-01-21"/>
+		<cosponsor id="401709" joined="1993-01-21"/>
+		<cosponsor id="409225" joined="1993-01-21"/>
+		<cosponsor id="300011" joined="1993-01-21"/>
+		<cosponsor id="409917" joined="1993-01-21"/>
+		<cosponsor id="300066" joined="1993-01-21"/>
+		<cosponsor id="300086" joined="1993-01-21"/>
+		<cosponsor id="300008" joined="1993-01-21"/>
+		<cosponsor id="300001" joined="1993-01-21"/>
+		<cosponsor id="300026" joined="1993-04-21"/>
+		<cosponsor id="400563" joined="1993-01-21"/>
+		<cosponsor id="300073" joined="1993-01-21"/>
+		<cosponsor id="300065" joined="1994-01-26"/>
+		<cosponsor id="300037" joined="1993-04-21"/>
+		<cosponsor id="300067" joined="1993-01-21"/>
+		<cosponsor id="407786" joined="1993-01-21"/>
+		<cosponsor id="300031" joined="1993-01-21"/>
+		<cosponsor id="300017" joined="1993-01-21"/>
+		<cosponsor id="300005" joined="1993-01-21"/>
+		<cosponsor id="300051" joined="1993-01-21"/>
+		<cosponsor id="300084" joined="1993-01-28"/>
+		<cosponsor id="300009" joined="1994-04-13"/>
+		<cosponsor id="408597" joined="1993-01-21"/>
+		<cosponsor id="300034" joined="1993-01-21"/>
+		<cosponsor id="411818" joined="1993-01-21"/>
+		<cosponsor id="400561" joined="1993-01-21"/>
+		<cosponsor id="404598" joined="1993-01-21"/>
+		<cosponsor id="403962" joined="1993-02-24"/>
+		<cosponsor id="300076" joined="1993-02-03"/>
+		<cosponsor id="400566" joined="1993-01-21"/>
+		<cosponsor id="407992" joined="1993-01-21"/>
+		<cosponsor id="300064" joined="1993-01-21"/>
+		<cosponsor id="300042" joined="1993-01-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S470-472)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<action datetime="1993-03-30"><committee name="Committee on Labor and Human Resources"/><text>Subcommittee on Labor. Hearings held. Hearings printed: S.Hrg. 103-80.</text></action>
+		<calendar datetime="1993-05-05"  state="REPORTED"><text>Committee on Labor and Human Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-07-27"><text>Committee on Labor and Human Resources. Reported to Senate by Senator Kennedy without amendment. With written report No. 103-110. Minority views filed.</text></action>
+		<calendar under="General Orders" number="162" datetime="1993-07-27" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 162.</text></calendar>
+		<action datetime="1994-07-01"><text>Motion to proceed to consideration of measure made in Senate.</text><reference label="consideration" ref="CR S8380"/></action>
+		<action datetime="1994-07-01"><text>Cloture motion on the motion to proceed presented in Senate.</text><reference label="consideration" ref="CR S8380"/></action>
+		<action datetime="1994-07-11"><text>Motion to proceed considered in Senate.</text><reference label="consideration" ref="CR S8447-8458, S8469-8484, S8486-8490"/></action>
+		<action datetime="1994-07-11"><text>Second cloture motion on the motion to proceed presented in Senate.</text><reference label="consideration" ref="CR S8484"/></action>
+		<action datetime="1994-07-12"><text>Motion to proceed considered in Senate.</text><reference label="consideration" ref="CR S8495-8545"/></action>
+		<action datetime="1994-07-12"><text>Cloture not invoked in Senate by Yea-Nay Vote. 53-47. Record Vote No: 188.</text><reference label="consideration" ref="CR S8524"/></action>
+		<action datetime="1994-07-13"><text>Motion to proceed considered in Senate.</text><reference label="consideration" ref="CR S8833-8847"/></action>
+		<action datetime="1994-07-13"><text>Second cloture on the motion to proceed not invoked in Senate by Yea-Nay Vote. 53-46. Record Vote No: 189.</text><reference label="consideration" ref="CR S8844"/></action>
+		<action datetime="1994-07-13"><text>Motion to proceed to consideration of measure withdrawn in Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S8847"/></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Labor and Human Resources" subcommittee="Labor" activity="Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5" />
+		<bill relation="unknown" session="103" type="h" number="5" />
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Collective bargaining"/>
+		<term name="Discrimination in employment"/>
+		<term name="Employee rights"/>
+		<term name="Labor disputes"/>
+		<term name="Labor unions"/>
+		<term name="Railroad employees"/>
+		<term name="Replacement workers"/>
+		<term name="Unfair labor practices"/>
+	</subjects>
+	<amendments>
+		<amendment number="s2237"/>
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Amends the National Labor Relations Act to make it an unfair labor practice for an employer to promise, threaten, or take other action to hire a permanent replacement for an employee who: (1) at the beginning of a labor dispute was in a bargaining unit in which a labor organization either was the certified or recognized exclusive representative or was seeking to be so certified or recognized, on the basis of written authorizations by a majority of unit employees; and (2) in connection with that dispute has engaged in concerted activities for collective bargaining or other mutual aid and protection through that labor organization. Makes it also an unfair labor practice for an employer to withhold or deny any other employment right or privilege to such an employee who is working for or has unconditionally offered to return to work for the employer, out of preference for any other individual based on that individual's performing, having performed, or having indicated a willingness to perform bargaining unit work for the employer during the dispute. Amends the Railway Labor Act to prohibit any carrier or its officer or agent from discriminating against an employee in a craft or class in any of the above ways prohibited to employers under the National Labor Relations Act.
+
+	</summary>
+</bill>

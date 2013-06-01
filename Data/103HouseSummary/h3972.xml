@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="3972" updated="2010-04-19T09:30:03-04:00">
+	<state datetime="1994-03-08">REFERRED</state>
+	<status><introduced datetime="1994-03-08"/></status>
+
+	<introduced datetime="1994-03-08"/>
+	<titles>
+		<title type="official" as="introduced">To designate the visitors center at Warm Springs Dam, California, as the &quot;Milt Brandt Visitors Center&quot;.</title>
+	</titles>
+	<sponsor id="404978"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-08"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-03-21"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Public Works + Transportation"/><text>See H.R.4460.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4460" />
+	</relatedbills>
+	<subjects>
+		<term name="Public buildings"/>
+		<term name="California"/>
+		<term name="Commemorations"/>
+		<term name="Dams"/>
+		<term name="Emergency management"/>
+		<term name="Flood control"/>
+		<term name="Names"/>
+		<term name="Water resources"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/8/1994--Introduced.
+Designates the visitors center at the Warms Springs Dam component of the project for flood control, Russian River, Dry Creek, California, as the Milt Brandt Visitors Center.
+
+	</summary>
+</bill>

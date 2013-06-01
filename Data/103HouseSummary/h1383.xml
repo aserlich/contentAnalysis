@@ -1,0 +1,73 @@
+<bill session="103" type="h" number="1383" updated="2010-04-19T02:46:37-04:00">
+	<state datetime="1993-03-17">REFERRED</state>
+	<status><introduced datetime="1993-03-17"/></status>
+
+	<introduced datetime="1993-03-17"/>
+	<titles>
+		<title type="short" as="introduced">Biennial Budget Act of 1993</title>
+		<title type="official" as="introduced">To provide for a two-year Federal budget cycle, and for other purposes.</title>
+	</titles>
+	<sponsor id="400334"/>
+	<cosponsors>
+		<cosponsor id="400149" joined="1993-09-08"/>
+		<cosponsor id="404083" joined="1993-09-08"/>
+		<cosponsor id="400524" joined="1993-09-08"/>
+		<cosponsor id="400604" joined="1993-09-23"/>
+		<cosponsor id="400601" joined="1993-09-23"/>
+		<cosponsor id="400012" joined="1993-09-08"/>
+		<cosponsor id="407669" joined="1993-10-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-17"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-03-17"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-03-22"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2221" />
+		<bill relation="identical" session="103" type="s" number="1477" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Appropriations"/>
+		<term name="Auditing"/>
+		<term name="Authorization"/>
+		<term name="Budget deficits"/>
+		<term name="Budgets"/>
+		<term name="Capital investments"/>
+		<term name="Congress"/>
+		<term name="Congressional Research Service"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional budget process"/>
+		<term name="Congressional committees"/>
+		<term name="Congressional investigations"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Congressional-executive relations"/>
+		<term name="Executive departments"/>
+		<term name="Federal budget process"/>
+		<term name="Government consultants"/>
+		<term name="Government service contracts"/>
+		<term name="House rules and procedure"/>
+		<term name="Legislation"/>
+		<term name="Legislative resolutions"/>
+		<term name="Limitation of debate"/>
+		<term name="Presidential messages"/>
+		<term name="Presidents"/>
+		<term name="Public contracts"/>
+		<term name="Public debt"/>
+		<term name="Senate rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/17/1993--Introduced.
+Biennial Budget Act of 1993 - Amends the Congressional Budget Act of 1974 to revise the Federal and congressional budget processes by establishing a two-year budgeting and appropriations cycle and timetable. Defines the budget biennium as the two consecutive fiscal years beginning on October 1 of any odd-numbered year. Devotes the first session of any Congress to the budget resolution and to appropriations decisions, retaining current deadlines in most cases. Changes certain deadlines to conform to the biennial scheme. Devotes each second session to authorization activity, subject to specified deadlines. Requires the Director of the Congressional Budget Office (CBO) to issue four-year projections of congressional budget action. (Current projections are on a five-year basis.) Amends provisions relating to the reconciliation process to: (1) increase from 20 to 100 hours the time of debate permitted in the Senate with respect to reconciliation measures; and (2) make it out of order in both the House and the Senate to consider any reconciliation legislation changing any provision of law other than one relating to new budget or spending authority, revenues, or the public debt limit. Conforms provisions governing the President's budget to the biennial framework. Directs the heads of Federal executive agencies, the Comptroller General, and the Directors of the Congressional Budget Office, the Office of Technology Assessment, and the Congressional Research Service to provide studies, analyses, reports, and other documentation concerning program administration to assist the standing committees of the House and the Senate having jurisdiction over the programs in question. Amends the Rules of the House of Representatives to conform to the biennial framework.
+
+	</summary>
+</bill>

@@ -1,0 +1,133 @@
+<bill session="103" type="s" number="412" updated="2012-07-17T04:26:21-04:00">
+	<state datetime="1993-12-03">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-03" /></status>
+
+	<introduced datetime="1993-02-18"/>
+	<titles>
+		<title type="popular" as="">Truck Undercharge bill</title>
+		<title type="short" as="introduced">Undercharge Equity Act of 1992</title>
+		<title type="short" as="passed house">Negotiated Rates Act of 1993</title>
+		<title type="short" as="passed senate">Undercharge Equity Act of 1993</title>
+		<title type="short" as="enacted">Negotiated Rates Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend title 49, United States Code, regarding the collection of certain payments for shipments via motor common carriers of property and nonhousehold goods freight forwarders, and for other purposes.</title>
+	</titles>
+	<sponsor id="403962"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="1993-04-05"/>
+		<cosponsor id="300052" joined="1993-02-18"/>
+		<cosponsor id="300060" joined="1993-03-24"/>
+		<cosponsor id="400562" joined="1993-03-31"/>
+		<cosponsor id="300037" joined="1993-02-18"/>
+		<cosponsor id="300015" joined="1993-02-18"/>
+		<cosponsor id="408420" joined="1993-02-18"/>
+		<cosponsor id="300049" joined="1993-05-26"/>
+		<cosponsor id="400559" joined="1993-02-18"/>
+		<cosponsor id="403968" joined="1993-04-20"/>
+		<cosponsor id="300072" joined="1993-03-19"/>
+		<cosponsor id="300029" joined="1993-05-19"/>
+		<cosponsor id="406256" joined="1993-06-24"/>
+		<cosponsor id="408898" joined="1993-02-18"/>
+		<cosponsor id="403346" joined="1993-07-01"/>
+		<cosponsor id="408597" joined="1993-03-09"/>
+		<cosponsor id="408939" joined="1993-02-18"/>
+		<cosponsor id="407254" joined="1993-06-24"/>
+		<cosponsor id="300070" joined="1993-03-25"/>
+		<cosponsor id="300023" joined="1993-03-29"/>
+		<cosponsor id="403171" joined="1993-02-18"/>
+		<cosponsor id="300157" joined="1993-04-05"/>
+		<cosponsor id="400561" joined="1993-02-18"/>
+		<cosponsor id="300010" joined="1993-02-18"/>
+		<cosponsor id="406188" joined="1993-02-18"/>
+		<cosponsor id="401604" joined="1993-05-19"/>
+		<cosponsor id="300069" joined="1993-02-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-18" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1919-1920)</text></action>
+		<action datetime="1993-02-18" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<calendar datetime="1993-05-25"  state="REPORTED"><committee name="Committee on Commerce"/><text>Committee on Commerce. Ordered to be reported with amendments favorably.</text></calendar>
+		<calendar under="General Orders" number="120" datetime="1993-06-29" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 120.</text></calendar>
+		<action datetime="1993-06-29"><text>Committee on Commerce. Reported to Senate by Senator Hollings with amendments. With written report No. 103-79.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-07-01" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text><reference label="consideration" ref="CR S8570-8575"/></vote>
+		<action datetime="1993-07-13T12:02:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-07-13"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-07-13"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-07-26"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+		<action datetime="1993-11-15T19:29:00-05:00"><text>Committee on Public Works + Transportation discharged.</text></action>
+		<action datetime="1993-11-15T19:29:00-05:00"><text>Mr. Rahall asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1993-11-15T19:29:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H9658-9659"/></action>
+		<action datetime="1993-11-15T19:29:00-05:00"><text>The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H.R. 2121. Agreed to without objection.</text></action>
+		<vote how="without objection" type="vote2" datetime="1993-11-15T19:30:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-11-15T19:30:00-05:00"><text>A similar measure H.R. 2121 was laid on the table without objection.</text></action>
+		<action datetime="1993-11-15T19:30:00-05:00"><text>The title of the measure was amended to that of similar measure H.R. 2121. Agreed to without objection.</text></action>
+		<action datetime="1993-11-15T19:30:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-18"><text>Message on House action received in Senate and at desk: House amendments to Senate bill.</text></action>
+		<action datetime="1993-11-19"><text>Senate agreed to the House amendments by Voice Vote. (consideration: 11/18/93 CR S16183-16187)</text></action>
+		<topresident datetime="1993-11-19" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-11-20"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-11-23" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-03" ><text>Signed by President.</text></signed>
+		<enacted number="103-180" type="public" datetime="1993-12-03"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-180.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Discharged" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1710" />
+		<bill relation="unknown" session="103" type="h" number="2021" />
+		<bill relation="supersedes" session="103" type="h" number="2121" />
+		<bill relation="unknown" session="103" type="h" number="2121" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Actions and defenses"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Auditing"/>
+		<term name="Bankruptcy"/>
+		<term name="Business records"/>
+		<term name="Charities"/>
+		<term name="Claims"/>
+		<term name="Collection of accounts"/>
+		<term name="Commerce"/>
+		<term name="Commercial arbitration"/>
+		<term name="Common carriers"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Consumer education"/>
+		<term name="Consumer protection"/>
+		<term name="Contracts"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Environmental protection"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Fraud"/>
+		<term name="Freight forwarders"/>
+		<term name="Freight rates"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Independent regulatory commissions"/>
+		<term name="Interstate Commerce Commission"/>
+		<term name="Interstate commerce"/>
+		<term name="Jurisdiction"/>
+		<term name="Labor and employment"/>
+		<term name="Law"/>
+		<term name="Limitation of actions"/>
+		<term name="Motor carrier rates"/>
+		<term name="Motor transportation"/>
+		<term name="Pension funds"/>
+		<term name="Recycling of waste products"/>
+		<term name="Restrictive trade practices"/>
+		<term name="Small business"/>
+		<term name="Surety and fidelity"/>
+		<term name="Tax-exempt organizations"/>
+		<term name="Trucking"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/15/1993--Passed House amended. Negotiated Rates Act of 1993 - Amends Federal transportation law to authorize persons against whom a claim is made by a motor carrier of property (other than a household goods carrier), or by a nonhousehold goods freight forwarder for the collection of rates or charges in addition to the rates originally collected by such carrier or freight forwarder, to elect to satisfy such claim pursuant to a specified formula upon showing that the carrier or forwarder is no longer transporting property or is transporting property for the purpose of avoiding application of this Act. Requires that the claimant have been offered a rate other than the one legally on file with the Interstate Commerce Commission (ICC), have tendered freight in reasonable reliance upon the offered rate, the carrier or forwarder did not properly or timely file a tariff for the rate or failed to execute a valid contract for transportation services, such rate was collected by the carrier or forwarder, and the carrier or forwarder demands additional payment of a higher rate filed in a tariff. Sets forth as elective satisfaction of such claims payment of the following percentages of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid: (1) 20 percent for shipment 10,000 lbs. or less; (2) 15 percent for shipments over 10,000 lbs.; and (3) five percent where the payor is a public warehouseman. Provides that claims against persons from whom the additional applicable tariff rate is sought shall not be liable for the difference between the motor carrier's rate and the rate originally billed and paid if: (1) such person is a small business or charitable organization; or (2) the transported cargo is recyclable material. Makes it an unreasonable and unlawful practice to charge the difference between the applicable filed rate and any rate for a transportation service negotiated before September 30, 1990, if the charging carrier or freight forwarder is no longer transporting property between certain places or is transporting property between such places in order tp avoid application of this provision. Grants the ICC jurisdiction to determine the unreasonable practice. Denies use of the negotiated rate dispute resolution procedure to any person seeking an administrative enforcement by the ICC. (Sec. 3) Shortens the statute of limitations for the filing of claims by: (1) a motor common carrier or freight forwarder for recovery of transportation or service charges; and (2) any person to recover overcharges by a motor carrier. (Sec. 4) Permits motor carriers and shippers to resolve by mutual consent, subject to ICC review and approval, any overcharge and undercharge claims resulting from billing errors or incorrect tariff provisions arising from the inadvertent failure to properly and timely file and maintain agreed upon rates, rules, or classifications. (Sec. 5) Prohibits a tariff filed with the ICC from being held invalid solely on the basis that it: (1) uses a numerical or alpha account code to designate customers or describe the applicability of rates; or (2) does not show a specific rate or designate customers or describe the applicability of rates. (Sec. 6) Requires a motor contract carrier to enter into a written agreement (separate from a bill of lading or receipt) for the provision of transportation services. Sets forth both civil and criminal penalties for violations of this requirement. (Sec. 7) Requires the ICC to issue regulations prohibiting any motor carrier from reducing a rate set forth in its tariff or contract for any person but the one paying for the transportation service. Requires motor carriers to disclose actual rates, charges, or allowances for such transportation service. Prohibits persons from causing a motor carrier to present false or misleading information with respect to such rates, charges, or allowances. Sets forth civil penalties for knowingly paying, accepting, or soliciting reduced rates in violation of regulations. (Sec. 8) Grants the ICC jurisdiction to resolve disputes arising with respect to certain motor carriers as to whether transportation is provided as a motor common carrier or as a motor contract carrier. Declares that nothing in this Act shall be construed as limiting U.S. bankruptcy laws, including the jurisdiction of bankruptcy courts, or the applicability of the Employee Retirement Income Security Act of 1974, with respect to bankrupt carriers.
+
+	</summary>
+</bill>

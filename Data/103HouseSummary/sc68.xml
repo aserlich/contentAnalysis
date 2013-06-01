@@ -1,0 +1,54 @@
+<bill session="103" type="sc" number="68" updated="2010-04-19T21:21:36-04:00">
+	<state datetime="1994-06-30T00:08:00-04:00">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1994-06-30T00:08:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="1994-05-04"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution to authorize printing of Senator Robert C. Byrd's Addresses to the United States Senate on the History of Roman Constitutionalism.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1994-05-04" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text><reference label="consideration" ref="CR S5206"/></vote>
+		<action datetime="1994-05-05T11:26:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-05-05"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1994-05-05"><committee name="House Committee on House Administration"/><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-05-09"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+		<action datetime="1994-06-28"><committee name="House Committee on House Administration" subcommittee="Personnel and Police"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-06-28"><committee name="House Committee on House Administration" subcommittee="Personnel and Police"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1994-06-30T00:07:00-04:00"><committee name="House Committee on House Administration"/><text>Committee on House Administration discharged.</text></action>
+		<action datetime="1994-06-30T00:07:00-04:00"><committee name="House Committee on House Administration"/><text>Mr. Rose asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-06-30T00:07:00-04:00"><committee name="House Committee on House Administration"/><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H5441"/></action>
+		<vote how="without objection" type="vote2" datetime="1994-06-30T00:08:00-04:00" where="h" result="pass"  state="PASSED:CONCURRENTRES"><committee name="House Committee on House Administration"/><text>On agreeing to the resolution Agreed to without objection.</text></vote>
+		<action datetime="1994-06-30T00:08:00-04:00"><committee name="House Committee on House Administration"/><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, Discharged" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Senate"/>
+		<term name="Congress"/>
+		<term name="Congressional publications"/>
+		<term name="Constitution"/>
+		<term name="Constitutional law"/>
+		<term name="Government information"/>
+		<term name="History"/>
+		<term name="Law"/>
+		<term name="Members of Congress (Senate)"/>
+		<term name="Senate leadership"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/4/1994--Introduced.
+Authorizes the printing as a Senate document of U.S. Senator Robert C. Byrd's Addresses to the United States Senate on the History of Roman Constitutionalism, delivered between May 5 and October 18, 1993.
+
+	</summary>
+</bill>

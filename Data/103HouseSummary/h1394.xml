@@ -1,0 +1,75 @@
+<bill session="103" type="h" number="1394" updated="2012-07-17T06:22:52-04:00">
+	<state datetime="1994-03-21T12:59:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-03-21T12:59:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-03-17"/>
+	<titles>
+		<title type="short" as="introduced">National Oceanic and Atmospheric Administration Great Lakes Improvements Act</title>
+		<title type="short" as="passed house">National Oceanic and Atmospheric Administration Great Lakes Improvements Act</title>
+		<title type="official" as="introduced">To improve coordination of National Oceanic and Atmospheric Administration Great Lakes activities.</title>
+	</titles>
+	<sponsor id="400391"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1993-04-20"/>
+		<cosponsor id="400414" joined="1993-05-18"/>
+		<cosponsor id="400211" joined="1993-04-20"/>
+		<cosponsor id="400350" joined="1993-09-09"/>
+		<cosponsor id="400150" joined="1993-08-05"/>
+		<cosponsor id="402762" joined="1993-05-27"/>
+		<cosponsor id="400527" joined="1993-06-17"/>
+		<cosponsor id="400359" joined="1993-07-23"/>
+		<cosponsor id="400243" joined="1993-04-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-17" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E669)</text></action>
+		<action datetime="1993-03-17" state="REFERRED"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-03-22"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Oceanography, Gulf of Mexico, and the Outer Continental Shelf.</text></action>
+		<action datetime="1993-03-22"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Commerce.</text></action>
+		<action datetime="1994-03-10"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Oceanography, Gulf of Mexico, and the Outer Continental Shelf"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-03-10"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Oceanography, Gulf of Mexico, and the Outer Continental Shelf"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-03-16"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-03-16"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-03-21T12:57:00-05:00"><text>Mr. Studds moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-03-21T12:58:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1610-1611"/></action>
+		<action datetime="1994-03-21T12:58:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-03-21T12:59:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-03-21T12:59:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-03-23"><text>Received in the Senate and read twice and referred to the Committee on Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Oceanography, Gulf of Mexico and the Outer Continental Shelf" activity="Referral, Markup, Reporting" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Appropriations"/>
+		<term name="Canada"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Department of Commerce"/>
+		<term name="Ecological research"/>
+		<term name="Economics and public finance"/>
+		<term name="Environmental assessment"/>
+		<term name="Environmental monitoring"/>
+		<term name="Executive reorganization"/>
+		<term name="Government operations and politics"/>
+		<term name="Great Lakes"/>
+		<term name="International affairs"/>
+		<term name="International environmental cooperation"/>
+		<term name="Science, technology, communications"/>
+		<term name="Treaties"/>
+		<term name="Water pollution measurement"/>
+		<term name="Water quality"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/21/1994--Passed House amended. National Oceanic and Atmospheric Administration Great Lakes Improvements Act - Establishes a Great Lakes Office of the National Oceanic and Atmospheric Administration in the District of Columbia area to promote and coordinate Administration research, monitoring, and assessment work in the Great Lakes region consistent with Great Lakes Water Quality Agreement goals. Establishes reporting requirements subject to the availability of appropriations. Authorizes appropriations through FY 1998.
+
+	</summary>
+</bill>

@@ -1,0 +1,57 @@
+<bill session="103" type="h" number="4935" updated="2010-04-19T12:00:50-04:00">
+	<state datetime="1994-08-10">REFERRED</state>
+	<status><introduced datetime="1994-08-10"/></status>
+
+	<introduced datetime="1994-08-10"/>
+	<titles>
+		<title type="official" as="introduced">To provide that recipients of export promotion assistance should meet certain requirements.</title>
+	</titles>
+	<sponsor id="406082"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-10"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-08-10"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-08-24"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Economic Policy, Trade and Environment.</text></action>
+		<action datetime="1994-08-30"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Economic Policy, Trade, and Environment" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Commerce, Consumer Protection, and Competitiveness" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="American investments"/>
+		<term name="Business"/>
+		<term name="Economic policy"/>
+		<term name="Exports"/>
+		<term name="Foreign corporations"/>
+		<term name="Foreign investments"/>
+		<term name="Foreign trade promotion"/>
+		<term name="Intellectual property"/>
+		<term name="International corporations"/>
+		<term name="International finance"/>
+		<term name="Job creation"/>
+		<term name="Joint ventures"/>
+		<term name="Labor"/>
+		<term name="Manufacturing industries"/>
+		<term name="Reciprocity"/>
+		<term name="Research and development"/>
+		<term name="Science policy"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/10/1994--Introduced.
+Prohibits the Secretary of Commerce (Secretary) from providing export promotion assistance to any person unless the person: (1) has made investments in the United States in research, development, and manufacturing; or (2) employs people in the United States and the company is either U.S.-owned or U.S.-incorporated with a parent company incorporated in a country which the Secretary determines affords U.S. companies investment opportunities (including joint ventures) and adequate protection for the intellectual property rights of U.S.-owned companies.
+
+	</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="103" type="s" number="1678" updated="2012-07-17T05:38:43-04:00">
+	<state datetime="1993-11-18">REFERRED</state>
+	<status><introduced datetime="1993-11-18"/></status>
+
+	<introduced datetime="1993-11-18"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Immigration and Nationality Act to provide that public ceremonies for the admission of new citizens shall be conducted solely in English.</title>
+	</titles>
+	<sponsor id="403968"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-11-18"/>
+		<cosponsor id="403669" joined="1993-11-18"/>
+		<cosponsor id="409923" joined="1993-11-18"/>
+		<cosponsor id="300070" joined="1993-11-18"/>
+		<cosponsor id="402675" joined="1994-03-11"/>
+		<cosponsor id="300023" joined="1994-02-22"/>
+		<cosponsor id="300015" joined="1994-02-22"/>
+		<cosponsor id="300154" joined="1993-11-18"/>
+		<cosponsor id="300049" joined="1993-11-18"/>
+		<cosponsor id="300157" joined="1993-11-18"/>
+		<cosponsor id="403962" joined="1993-11-18"/>
+		<cosponsor id="300089" joined="1993-11-18"/>
+		<cosponsor id="300029" joined="1993-11-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-18" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S16220-16221)</text></action>
+		<action datetime="1993-11-18" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1994-02-03"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Immigration and Refugee Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Immigration and Refugee Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2859" />
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Citizenship"/>
+		<term name="English language"/>
+		<term name="Naturalization"/>
+		<term name="Oaths"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/18/1993--Introduced.
+Amends the Immigration and Nationality Act to require that public ceremonies for the admission of new citizens be conducted solely in English.
+
+	</summary>
+</bill>

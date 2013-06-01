@@ -1,0 +1,69 @@
+<bill session="103" type="h" number="3394" updated="2010-04-19T07:59:50-04:00">
+	<state datetime="1993-10-27">REFERRED</state>
+	<status><introduced datetime="1993-10-27"/></status>
+
+	<introduced datetime="1993-10-27"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 5, United States Code, to require disclosure of information by the Congress.</title>
+	</titles>
+	<sponsor id="406431"/>
+	<cosponsors>
+		<cosponsor id="400298" joined="1994-01-25"/>
+		<cosponsor id="400381" joined="1993-10-27"/>
+		<cosponsor id="400149" joined="1993-10-27"/>
+		<cosponsor id="400156" joined="1994-01-25"/>
+		<cosponsor id="400036" joined="1993-10-27"/>
+		<cosponsor id="400332" joined="1993-10-27"/>
+		<cosponsor id="400161" joined="1993-10-27"/>
+		<cosponsor id="400370" joined="1993-10-27"/>
+		<cosponsor id="400037" joined="1993-10-27"/>
+		<cosponsor id="300083" joined="1993-10-27"/>
+		<cosponsor id="400205" joined="1993-10-27"/>
+		<cosponsor id="400560" joined="1993-10-27"/>
+		<cosponsor id="412001" joined="1993-10-27"/>
+		<cosponsor id="300085" joined="1993-10-27"/>
+		<cosponsor id="407669" joined="1994-01-25"/>
+		<cosponsor id="404009" joined="1994-01-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-27"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-10-27"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-11-01"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Information, Justice, Transportation and Agriculture.</text></action>
+		<action datetime="1993-11-02"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+		<action datetime="1994-07-25"><committee name="House Committee on Government Operations"/><text>See H.R.4822.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Information, Justice, Transportation, and Agriculture" activity="Referral" />
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="107" />
+		<bill relation="unknown" session="103" type="h" number="4822" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Administrative law judges"/>
+		<term name="Administrative remedies"/>
+		<term name="Claims"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional investigations"/>
+		<term name="Damages"/>
+		<term name="Freedom of information"/>
+		<term name="Government information"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Jurisdiction"/>
+		<term name="Law"/>
+		<term name="Legal fees"/>
+		<term name="Magistrates"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/27/1993--Introduced.
+Applies the Freedom of Information Act to the legislative branch. Establishes the Disclosure Review Board in the legislative branch to decide complaints relating to disclosure of information withheld by a legislative agency. Requires Board members to be appointed by the Speaker and minority leader of the House of Representatives and the minority and majority leaders of the Senate from among Federal retired administrative law judges. Authorizes a Board member to assess reasonable attorney's fees and other litigation costs incurred in any case in which the complainant substantially prevails under this Act against the United States. Requires the Board to designate one of its members to serve a one-year term as the Complaint Referral Officer. Requires such officer to appoint individuals to serve as Investigation Counsels to investigate and determine unresolved complaints received alleging failure by the legislative agency to make material available as required by this Act and to determine whether there is reasonable cause to believe that any such complaint is true. Requires the Investigation Counsel to meet U.S. magistrate qualifications.
+
+	</summary>
+</bill>

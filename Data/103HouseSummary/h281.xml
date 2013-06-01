@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="281" updated="2010-04-18T23:43:27-04:00">
+	<state datetime="1993-01-05">REFERRED</state>
+	<status><introduced datetime="1993-01-05"/></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Fair Wage Act of 1993</title>
+		<title type="official" as="introduced">To amend the Fair Labor Standards Act of 1938 to provide that the minimum wage rate under that Act will be indexed to the cost of living in the same manner as Social Security benefits are indexed.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+		<cosponsor id="400580" joined="1993-03-25"/>
+		<cosponsor id="400126" joined="1993-03-25"/>
+		<cosponsor id="400295" joined="1993-01-05"/>
+		<cosponsor id="400612" joined="1993-03-25"/>
+		<cosponsor id="402750" joined="1993-01-05"/>
+		<cosponsor id="400306" joined="1993-01-05"/>
+		<cosponsor id="400300" joined="1993-03-25"/>
+		<cosponsor id="400409" joined="1993-01-05"/>
+		<cosponsor id="400387" joined="1993-01-05"/>
+		<cosponsor id="403364" joined="1993-01-05"/>
+		<cosponsor id="400025" joined="1993-01-05"/>
+		<cosponsor id="400314" joined="1993-01-05"/>
+		<cosponsor id="411488" joined="1993-03-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-02-02"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor Standards, Occupational Health and Safety.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-10" name="House Education and Labor" subcommittee="Labor Standards, Occupational Health and Safety" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Indexing (Economic policy)"/>
+		<term name="Minimum wages"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Fair Wage Act of 1993 - Amends the Fair Labor Standards Act of 1938 to provide that the minimum wage rate under such Act will be indexed to the cost of living in the same manner as benefits are indexed under specified provisions of the Social Security Act.
+
+	</summary>
+</bill>

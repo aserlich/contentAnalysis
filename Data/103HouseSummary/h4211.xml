@@ -1,0 +1,58 @@
+<bill session="103" type="h" number="4211" updated="2010-04-19T10:07:22-04:00">
+	<state datetime="1994-04-14">REFERRED</state>
+	<status><introduced datetime="1994-04-14"/></status>
+
+	<introduced datetime="1994-04-14"/>
+	<titles>
+		<title type="short" as="introduced">Biotechnology Competitiveness Act of 1994</title>
+		<title type="official" as="introduced">To provide for the coordination within the Federal Government of biotechnology research and development.</title>
+	</titles>
+	<sponsor id="401547"/>
+	<cosponsors>
+		<cosponsor id="400160" joined="1994-05-02"/>
+		<cosponsor id="400091" joined="1994-04-25"/>
+		<cosponsor id="400124" joined="1994-04-14"/>
+		<cosponsor id="400524" joined="1994-06-08"/>
+		<cosponsor id="400117" joined="1994-05-02"/>
+		<cosponsor id="400057" joined="1994-06-08"/>
+		<cosponsor id="412001" joined="1994-05-09"/>
+		<cosponsor id="409627" joined="1994-04-25"/>
+		<cosponsor id="410887" joined="1994-04-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-14"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-04-14"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1994-04-19"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Technology, Environment and Aviation.</text></action>
+		<action datetime="1994-04-21"><text>Sponsor introductory remarks on measure. (CR H2590)</text></action>
+		<action datetime="1994-04-26"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Technology, Environment and Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Science"/>
+		<term name="Biotechnology"/>
+		<term name="Budgets"/>
+		<term name="Economic policy"/>
+		<term name="Federal aid to research"/>
+		<term name="Federal budgets"/>
+		<term name="Research and development"/>
+		<term name="Science policy"/>
+		<term name="Sustainable development"/>
+		<term name="Technology"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/14/1994--Introduced.
+Biotechnology Competitiveness Act of 1994 - Requires the Director of the Office of Science and Technology Policy to provide for Federal coordination of biotechnology research and development.
+
+	</summary>
+</bill>

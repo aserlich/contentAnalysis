@@ -1,0 +1,76 @@
+<bill session="103" type="h" number="617" updated="2012-07-17T04:13:04-04:00">
+	<state datetime="1993-03-02T15:54:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-03-02T15:54:00-05:00" where="h" result="pass" how="roll" roll="47"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="short" as="introduced">Limited Partnership Rollup Reform Act of 1993</title>
+		<title type="short" as="passed house">Limited Partnership Rollup Reform Act of 1993</title>
+		<title type="official" as="introduced">To amend the Securities Exchange Act of 1934 to protect investors in limited partnerships in rollup transactions, and for other purposes.</title>
+	</titles>
+	<sponsor id="400253"/>
+	<cosponsors>
+		<cosponsor id="404068" joined="1993-01-26"/>
+		<cosponsor id="400081" joined="1993-01-26"/>
+		<cosponsor id="400291" joined="1993-01-26"/>
+		<cosponsor id="400110" joined="1993-01-26"/>
+		<cosponsor id="300100" joined="1993-01-26"/>
+		<cosponsor id="400283" joined="1993-01-26"/>
+		<cosponsor id="410589" joined="1993-01-26"/>
+		<cosponsor id="409966" joined="1993-01-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E158, E164)</text></action>
+		<action datetime="1993-01-26" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-01"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+		<action datetime="1993-02-03"><committee name="House Committee on Energy and Commerce" subcommittee="Telecommunications and Finance"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-02-18"><committee name="House Committee on Energy and Commerce" subcommittee="Telecommunications and Finance"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-02-18"><committee name="House Committee on Energy and Commerce" subcommittee="Telecommunications and Finance"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1993-02-23"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-02-23"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-02-25T11:23:00-05:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 103-21.</text></action>
+		<calendar number="10" datetime="1993-02-25T11:23:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 10.</text></calendar>
+		<action datetime="1993-03-02T14:29:00-05:00"><text>Mr. Markey moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-03-02T14:30:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H942-947"/></action>
+		<action datetime="1993-03-02T14:30:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-03-02T14:53:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1993-03-02T15:46:00-05:00"><text>Considered as unfinished business. (CR H950-951)</text></action>
+		<vote how="roll" type="vote" roll="47" datetime="1993-03-02T15:54:00-05:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 408 - 6 (Roll No. 47).</text></vote>
+		<action datetime="1993-03-02T15:54:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-03-03"><text>Received in the Senate and read twice and referred to the Committee on Banking.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="424" />
+	</relatedbills>
+	<subjects>
+		<term name="Securities"/>
+		<term name="Administrative procedure"/>
+		<term name="Brokers"/>
+		<term name="Conflict of interests"/>
+		<term name="Corporate reorganizations"/>
+		<term name="Independent regulatory commissions"/>
+		<term name="Information disclosure (Securities law)"/>
+		<term name="Investment analysis"/>
+		<term name="Investors"/>
+		<term name="Limited partnerships"/>
+		<term name="Partnerships"/>
+		<term name="Securities and Exchange Commission"/>
+		<term name="Securities regulation"/>
+		<term name="Stock exchanges"/>
+		<term name="Stockholders"/>
+		<term name="Stockholders' voting"/>
+		<term name="Tender offers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/2/1993--Passed House amended. Limited Partnership Rollup Reform Act of 1993 - Amends the Securities Exchange Act of 1934 to revise proxy solicitation rules with respect to limited partnership rollup transactions (in which general partners combine several limited partnerships into one unit that trades on a stock exchange, or a single limited partnership is reorganized so that some or all of the investors receive new securities or securities in another entity). Requires the Securities and Exchange Commission (SEC) to prescribe proxy rules to: (1) permit dissenting shareholders in a proposed rollup to contact, without filing soliciting material with the SEC, other limited partners before the transaction date in order to determine whether to solicit proxies, consents, or authorizations in opposition to the proposed transaction; (2) require the issuer to provide a shareholder (limited partner) with a list of all limited and general partners involved in the proposed rollup; (3) prohibit the direct or indirect payment of any person providing solicitation services (a broker-dealer) on the basis of whether the solicited proxies, consents or authorizations either approve or disapprove the proposed transaction, or the transaction is approved or completed; (4) require the rollup soliciting material to be clear, concise, and understandable and summarize all effects of the proposed transaction, its risks, conflicts of interest, changes in voting rights and ownership interests, dissenters' rights, and other pertinent information; (5) provide that the soliciting material contain an opinion by an outside person on the fairness of the proposed transaction to shareholders; and (6) give each shareholder at least 60 days to review the soliciting material. Authorizes the SEC to grant exemptions from these requirements. Excludes transactions involving certain kinds of limited partnerships from the meaning of limited partnership rollup transaction. Requires the rules of a national securities association to prevent association members from participating in any rollup transaction unless it protects specified rights of dissenting limited partners (including the use of an independent committee to protect the interests of limited partners, when determined necessary by the association). Requires a national securities exchange to prohibit the listing of any security resulting from a rollup transaction, and the rules of a national securities association to prohibit the authorization for quotation on an association-sponsored automated interdealer quotation system of any security the SEC designates as a national market system security resulting from a rollup transaction, unless such dissenters' rights were provided for.
+
+	</summary>
+</bill>

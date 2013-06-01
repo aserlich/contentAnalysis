@@ -1,0 +1,57 @@
+<bill session="103" type="h" number="2668" updated="2012-07-17T04:42:51-04:00">
+	<state datetime="1993-08-02T16:54:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-08-02T16:54:00-04:00" where="h" result="pass" how="roll" roll="389"/></status>
+
+	<introduced datetime="1993-07-20"/>
+	<titles>
+		<title type="short" as="introduced">Community Investment Demonstration Act of 1993</title>
+		<title type="short" as="passed house">Community Investment Demonstration Act of 1993</title>
+		<title type="official" as="introduced">To establish a demonstration program to provide affordable rental housing for low-income families, and for other purposes.</title>
+	</titles>
+	<sponsor id="404634"/>
+	<cosponsors>
+		<cosponsor id="400533" joined="1993-07-20"/>
+		<cosponsor id="406420" joined="1993-08-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-20" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E1813-1814)</text></action>
+		<action datetime="1993-07-20" state="REFERRED"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1993-08-02T15:14:00-04:00"><text>Mr. Gonzalez moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-08-02T15:15:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5624-5630"/></action>
+		<action datetime="1993-08-02T15:15:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-08-02T15:51:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1993-08-02T16:34:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5635"/></action>
+		<vote how="roll" type="vote" roll="389" datetime="1993-08-02T16:54:00-04:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 309 - 106 (Roll no. 389).</text></vote>
+		<action datetime="1993-08-02T16:54:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-08-03" state="REFERRED"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Housing and Community Development.</text></action>
+		<action datetime="1993-08-03" state="PASS_OVER:HOUSE"><text>Received in the Senate and read twice and referred to the Committee on Banking.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral" />
+		<committee code="HSBA-04" name="House Banking, Finance, and Urban Affairs" subcommittee="Housing and Community Development" activity="Referral" />
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Housing and community development"/>
+		<term name="Apartment houses"/>
+		<term name="Congressional investigations"/>
+		<term name="Federal aid to housing"/>
+		<term name="Government operations and politics"/>
+		<term name="Low-income housing"/>
+		<term name="Pension funds"/>
+		<term name="Public housing"/>
+		<term name="Rent subsidies"/>
+		<term name="Rental housing"/>
+		<term name="Residential rehabilitation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/2/1993--Passed House amended. Community Investment Demonstration Act of 1993 - Directs the Secretary of Housing and Urban Development to carry out a community investment demonstration program through FY 1998 to provide project-based rental assistance (under section 8 of the United States Housing Act of 1937) on behalf of low-income families in specified housing that is constructed, rehabilitated, or acquired pursuant to a loan or other financing from an eligible pension fund. Prohibits for the first six months any single pension fund from receiving more than half the authorized assistance. Requires the General Accounting Office to evaluate the program's effectiveness. Obligates specified funds for the program from section 8 amounts under the United States Housing Act of 1937.
+
+	</summary>
+</bill>

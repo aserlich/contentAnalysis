@@ -1,0 +1,58 @@
+<bill session="103" type="h" number="2338" updated="2010-04-19T05:16:27-04:00">
+	<state datetime="1993-06-08">REFERRED</state>
+	<status><introduced datetime="1993-06-08"/></status>
+
+	<introduced datetime="1993-06-08"/>
+	<titles>
+		<title type="short" as="introduced">Aviation Revitalization Act of 1993</title>
+		<title type="official" as="introduced">To amend the Federal Aviation Act of 1958 to provide emergency relief to the United States airline industry by facilitating financing for investment in new aircraft and by encouraging the retirement of older, noisier, and less efficient aircraft, and for other purposes.</title>
+	</titles>
+	<sponsor id="407141"/>
+	<cosponsors>
+		<cosponsor id="400122" joined="1993-07-19"/>
+		<cosponsor id="406768" joined="1993-07-01"/>
+		<cosponsor id="400333" joined="1993-07-19"/>
+		<cosponsor id="300087" joined="1994-01-25"/>
+		<cosponsor id="400143" joined="1993-07-19"/>
+		<cosponsor id="403364" joined="1993-07-14"/>
+		<cosponsor id="402152" joined="1993-07-27"/>
+		<cosponsor id="408476" joined="1993-07-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-08"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-06-21"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Aviation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-05" name="House Public Works and Transportation" subcommittee="Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1053" />
+		<bill relation="unknown" session="103" type="s" number="1053" />
+	</relatedbills>
+	<subjects>
+		<term name="Commercial aviation"/>
+		<term name="Administrative fees"/>
+		<term name="Aircraft industry"/>
+		<term name="Airlines"/>
+		<term name="Auditing"/>
+		<term name="Aviation agreements"/>
+		<term name="Commercial aircraft"/>
+		<term name="Environmental protection"/>
+		<term name="Federal aid to transportation"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Fees"/>
+		<term name="Financial statements"/>
+		<term name="Foreign trade"/>
+		<term name="Noise"/>
+		<term name="Trade agreements"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/8/1993--Introduced.
+Aviation Revitalization Act of 1993 - Amends the Federal Aviation Act of 1958 to authorize the Secretary of Transportation (Secretary) to guarantee loans to eligible air carriers to finance the acquisition of new aircraft and encourage the retirement of older or Stage two aircraft.
+
+	</summary>
+</bill>

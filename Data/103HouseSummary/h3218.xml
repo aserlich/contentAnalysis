@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="3218" updated="2010-04-19T07:32:40-04:00">
+	<state datetime="1993-10-05">REFERRED</state>
+	<status><introduced datetime="1993-10-05"/></status>
+
+	<introduced datetime="1993-10-05"/>
+	<titles>
+		<title type="popular" as="">Early Out bill</title>
+		<title type="short" as="introduced">Federal Workforce Restructuring Act of 1993</title>
+		<title type="official" as="introduced">To amend title 5, United States Code, to eliminate narrow restrictions on employee training; to provide a temporary voluntary separation incentive, and for other purposes.</title>
+	</titles>
+	<sponsor id="402626"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-05"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-10-05"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+		<action datetime="1993-10-05"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Civil Service.</text></action>
+		<action datetime="1993-10-13"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-10-13"><committee name="House Committee on Post Office and Civil Service" subcommittee="Civil Service"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-10-19"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-10-20"><committee name="House Committee on Post Office and Civil Service" subcommittee="Civil Service"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-10-20"><committee name="House Committee on Post Office and Civil Service" subcommittee="Civil Service"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-11-29"><committee name="House Committee on Post Office and Civil Service"/><text>See H.R.3345.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Civil Service" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3345" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Civil service retirement"/>
+		<term name="Dismissal wage"/>
+		<term name="Early retirement"/>
+		<term name="Employee training"/>
+		<term name="Executive departments"/>
+		<term name="Government trust funds"/>
+		<term name="Layoffs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/5/1993--Introduced.
+Federal Workforce Restructuring Act of 1993 - Amends Federal civil service law to eliminate various restrictions on employee training and authorize certain Federal agencies to establish temporary programs to offer a lump sum financial incentive (the lesser of $25,000 or the amount of an employee's severance pay) to selected groups of employees in order to encourage them to voluntarily separate from an agency, whether by retirement or resignation, in order to assist agency heads in restructuring their workforce. Provides for repayment of separation incentives if the employee rejoins the Federal Government within a certain period of time. Requires Federal agencies to pay a specified contribution to the Civil Service Retirement and Disability Fund based on the final rate of basic pay of each agency employee who retires early. Expresses the sense of the Congress that: (1) employment in the executive branch should be reduced by not less than one full-time equivalent position for each two employees who are paid voluntary separation incentives under this Act; and (2) each agency should adjust its employment levels to achieve such result.
+
+	</summary>
+</bill>

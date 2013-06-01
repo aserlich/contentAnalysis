@@ -1,0 +1,40 @@
+<bill session="103" type="s" number="498" updated="2012-07-17T04:39:29-04:00">
+	<state datetime="1993-03-03">REFERRED</state>
+	<status><introduced datetime="1993-03-03"/></status>
+
+	<introduced datetime="1993-03-03"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend section 365 of title 11, United States Code, relating to protection of assignees of executory contracts and unexpired leases approved by court order in cases reversed on appeal.</title>
+	</titles>
+	<sponsor id="300061"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-03" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2359-2360)</text></action>
+		<action datetime="1993-03-03" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-03-05"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Bankruptcy"/>
+		<term name="Appellate procedure"/>
+		<term name="Contracts"/>
+		<term name="Debtor and creditor"/>
+		<term name="Leases"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/3/1993--Introduced.
+Amends Federal bankruptcy law to provide that if a court-approved assignment of an executory contract or unexpired lease is later modified on appeal, the assignment is not consequently vitiated with respect to a good faith assignee unless the assignment was stayed pending appeal.
+
+	</summary>
+</bill>

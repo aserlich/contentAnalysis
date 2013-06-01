@@ -1,0 +1,47 @@
+<bill session="103" type="hr" number="45" updated="2010-04-19T13:05:45-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="official" as="introduced">Providing that the House of Representatives should defeat any legislation designed to stimulate the economy during fiscal year 1993 or 1994 if that legislation would also increase the size of the annual budget deficit for that year.</title>
+	</titles>
+	<sponsor id="400150"/>
+	<cosponsors>
+		<cosponsor id="410147" joined="1993-02-02"/>
+		<cosponsor id="400161" joined="1993-02-02"/>
+		<cosponsor id="406863" joined="1993-02-02"/>
+		<cosponsor id="400365" joined="1993-02-02"/>
+		<cosponsor id="400359" joined="1993-02-03"/>
+		<cosponsor id="400206" joined="1993-02-04"/>
+		<cosponsor id="400056" joined="1993-02-04"/>
+		<cosponsor id="400601" joined="1993-02-03"/>
+		<cosponsor id="401081" joined="1993-02-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Economic growth"/>
+		<term name="Economic policy"/>
+		<term name="Legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Expresses the sense of the House of Representatives that any legislation that would provide a short-term economic stimulus to the economy, but would also increase the budget deficit for FY 1993 or 1994, should not be enacted into law.
+
+	</summary>
+</bill>

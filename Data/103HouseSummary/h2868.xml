@@ -1,0 +1,74 @@
+<bill session="103" type="h" number="2868" updated="2012-07-17T06:28:46-04:00">
+	<state datetime="1994-05-25">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-05-25" /></status>
+
+	<introduced datetime="1993-08-04"/>
+	<titles>
+		<title type="official" as="introduced">To designate the Federal building located at 600 Camp Street in New Orleans, Louisiana, as the &quot;John Minor Wisdom United States Courthouse&quot;.</title>
+		<title type="official" as="amended by senate">&quot;An Act to designate the Federal building located at 600 Camp Street in New Orleans, Louisiana, as the 'John Minor Wisdom United States Court of Appeals Building', and for other purposes.&quot;.</title>
+	</titles>
+	<sponsor id="400201"/>
+	<cosponsors>
+		<cosponsor id="406863" joined="1993-08-04"/>
+		<cosponsor id="400397" joined="1993-08-04"/>
+		<cosponsor id="405258" joined="1993-08-04"/>
+		<cosponsor id="400012" joined="1993-08-04"/>
+		<cosponsor id="400261" joined="1993-08-04"/>
+		<cosponsor id="404067" joined="1993-08-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-04" state="REFERRED"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-08-16"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Public Buildings and Grounds.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-11-04"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-11-09"><committee name="House Committee on Public Works + Transportation"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-11-09"  state="REPORTED"><committee name="House Committee on Public Works + Transportation"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-11-10T14:46:00-05:00"><text>Reported by the Committee on Public Works + Transportation. H. Rept. 103-346.</text></action>
+		<calendar number="118" datetime="1993-11-10T14:47:00-05:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 118.</text></calendar>
+		<action datetime="1993-11-15T13:02:00-05:00"><text>Mr. Traficant moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-11-15T13:03:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9578-9581"/></action>
+		<action datetime="1993-11-15T13:03:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-15T13:15:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-15T13:15:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-16"><text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar datetime="1994-01-27" ><committee name="House Committee on Public Works + Transportation"/><text>Committee on Environment and Public Works. Ordered to be reported in lieu of S. 1582 without amendment favorably.</text></calendar>
+		<action datetime="1994-01-28"><text>Committee on Environment and Public Works. Reported to Senate by Senator Baucus without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="358" datetime="1994-01-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 358.</text></calendar>
+		<action datetime="1994-02-01"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S525"/></action>
+		<action datetime="1994-02-01"><text>Amendment SP 1355 proposed by Senator Kerry for Senator Johnston.</text></action>
+		<action datetime="1994-02-01"><text>Amendment SP 1355 agreed to in Senate by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-02-01" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text></vote>
+		<action datetime="1994-02-03"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-05-10T12:35:00-04:00"><text>Mr. Mineta moved that the House suspend the rules and agree to the Senate amendments.</text></action>
+		<action datetime="1994-05-10T12:35:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="pingpong" datetime="1994-05-10T12:43:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.</text><reference label="consideration" ref="CR H3203"/></vote>
+		<action datetime="1994-05-10T12:43:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-05-10" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-05-13" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-05-25" ><text>Signed by President.</text></signed>
+		<enacted number="103-256" type="public" datetime="1994-05-25"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-256.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Public Buildings and Grounds" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1582" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Commemorations"/>
+		<term name="Courthouses"/>
+		<term name="Louisiana"/>
+		<term name="Names"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1355"/>
+	</amendments>
+	<summary>
+	2/1/1994--Passed Senate amended. Designates the Federal building located at 600 Camp Street, New Orleans, Louisiana, as the John Minor Wisdom United States Court of Appeals Building.
+
+	</summary>
+</bill>

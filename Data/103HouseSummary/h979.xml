@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="979" updated="2010-04-19T01:39:55-04:00">
+	<state datetime="1993-02-18">REFERRED</state>
+	<status><introduced datetime="1993-02-18"/></status>
+
+	<introduced datetime="1993-02-18"/>
+	<titles>
+		<title type="official" as="introduced">To amend title II of the Social Security Act to expand current restrictions on payment of benefits to prisoners to include payments to individuals confined to public institutions pursuant to court order based on a verdict that the individual is not guilty of a criminal offense by reason of insanity or a similar finding.</title>
+	</titles>
+	<sponsor id="405939"/>
+	<cosponsors>
+		<cosponsor id="400058" joined="1994-01-25"/>
+		<cosponsor id="402890" joined="1993-10-13"/>
+		<cosponsor id="401446" joined="1993-10-13"/>
+		<cosponsor id="400076" joined="1993-10-13"/>
+		<cosponsor id="402454" joined="1994-03-17"/>
+		<cosponsor id="400286" joined="1994-04-28"/>
+		<cosponsor id="406790" joined="1994-01-25"/>
+		<cosponsor id="401774" joined="1993-09-30"/>
+		<cosponsor id="411488" joined="1994-03-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-18"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+		<action datetime="1993-09-21"><committee name="House Committee on Ways and Means" subcommittee="Social Security"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-04-28"><committee name="House Committee on Ways and Means"/><text>See H.R.4278.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4278" />
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Mental illness"/>
+		<term name="Mentally handicapped"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Prisoners"/>
+		<term name="Social security eligibility"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/18/1993--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to expand current restrictions on the payment to prisoners of OASDI benefits to include payments of OASDI benefits to individuals confined to public institutions after having been found not guilty of a criminal offense by reason of insanity or other mental disorder.
+
+	</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="103" type="s" number="880" updated="2012-07-17T05:21:28-04:00">
+	<state datetime="1993-05-04">REFERRED</state>
+	<status><introduced datetime="1993-05-04"/></status>
+
+	<introduced datetime="1993-05-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to clarify the treatment of interest income and rental expense in connection with safe harbor leases involving rural electric cooperatives.</title>
+	</titles>
+	<sponsor id="401604"/>
+	<cosponsors>
+		<cosponsor id="408939" joined="1993-05-04"/>
+		<cosponsor id="300079" joined="1993-05-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5455)</text></action>
+		<action datetime="1993-05-04" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Accounting"/>
+		<term name="Cooperative societies"/>
+		<term name="Depreciation and amortization"/>
+		<term name="Interest"/>
+		<term name="Leases"/>
+		<term name="Rent"/>
+		<term name="Rural electrification"/>
+		<term name="Tax administration"/>
+		<term name="Tax-exempt organizations"/>
+		<term name="Telephone"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/4/1993--Introduced.
+Requires interest income from certain qualified leased property transactions of rural electric cooperatives to be offset by rental expenses of such transactions before allocating income or expense to members and nonmembers of such cooperatives for purposes of the accelerated cost recovery system of the Internal Revenue Code.
+
+	</summary>
+</bill>

@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="454" updated="2012-07-17T04:03:50-04:00">
+	<state datetime="1993-08-02T13:43:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-08-02T13:43:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Full Faith and Credit for Child Support Orders Act</title>
+		<title type="short" as="passed house">Full Faith and Credit for Child Support Orders Act</title>
+		<title type="official" as="introduced">To provide that a State court may not modify an order of another State court requiring the payment of child support unless the recipient of child support payments resides in the State in which the modification is sought, or consents to seeking the modification in such other State court.</title>
+	</titles>
+	<sponsor id="400140"/>
+	<cosponsors>
+		<cosponsor id="400223" joined="1993-06-30"/>
+		<cosponsor id="400436" joined="1993-02-02"/>
+		<cosponsor id="400269" joined="1993-03-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-06" state="REFERRED"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+		<action datetime="1993-03-11"><committee name="House Committee on Judiciary" subcommittee="Administrative Law and Governmental Relations"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-03-11"><committee name="House Committee on Judiciary" subcommittee="Administrative Law and Governmental Relations"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-07-27"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-07-27"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1993-08-02T12:07:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-206.</text></action>
+		<calendar number="117" datetime="1993-08-02T12:08:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 117.</text></calendar>
+		<action datetime="1993-08-02T13:37:00-04:00"><text>Mr. Brooks moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-08-02T13:37:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5571-5572"/></action>
+		<vote how="by voice vote" type="vote" datetime="1993-08-02T13:43:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-08-02T13:43:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-08-03"><text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-08-16"><committee name="House Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral, Markup, Reporting" />
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Law"/>
+		<term name="Child support"/>
+		<term name="Interstate relations"/>
+		<term name="Jurisdiction"/>
+		<term name="State courts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/2/1993--Passed House amended. Full Faith and Credit for Child Support Orders Act - Amends the Federal judicial code to declare that State authorities shall enforce any child support order according to its terms and shall not modify it, except in certain circumstances, if such order is made consistent with this Act by another State court. Confers continuing, exclusive jurisdiction upon the court of a State which has made such child support order and which is either the child's State or the State of one of the contestants. Authorizes a State court to modify a child support order made by the court of another State if: (1) it has jurisdiction to make such an order; and (2) the court of the other State no longer has continuing, exclusive jurisdiction because it is no longer the child's State or the residence of any contestant or each contestant has filed written consent for the State to modify the order and assume continuing, exclusive jurisdiction of such order. Grants the court of a State which no longer has continuing, exclusive jurisdiction of a child support order authority to enforce it with respect to non-modifiable obligations and unsatisfied obligations which accrued before the date on which a modification was made by another State in accordance with this Act.
+
+	</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="3589" updated="2010-04-19T08:30:14-04:00">
+	<state datetime="1993-11-20">REFERRED</state>
+	<status><introduced datetime="1993-11-20"/></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="official" as="introduced">To designate the lock and dam numbered 4 on the Red River Waterway in Louisiana as the &quot;Russell B. Long Lock and Dam&quot;.</title>
+	</titles>
+	<sponsor id="400261"/>
+	<cosponsors>
+		<cosponsor id="400397" joined="1993-11-20"/>
+		<cosponsor id="406863" joined="1993-11-20"/>
+		<cosponsor id="400012" joined="1993-11-20"/>
+		<cosponsor id="400201" joined="1993-11-20"/>
+		<cosponsor id="405258" joined="1993-11-20"/>
+		<cosponsor id="404067" joined="1993-11-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-20"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-12-03"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Public Works + Transportation"/><text>See H.R.4460.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4460" />
+	</relatedbills>
+	<subjects>
+		<term name="Water"/>
+		<term name="Commemorations"/>
+		<term name="Dams"/>
+		<term name="Louisiana"/>
+		<term name="Names"/>
+		<term name="Rivers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+Designates the lock and dam numbered 4 on the Red River Waterway in Louisiana as the Russell B. Long Lock and Dam.
+
+	</summary>
+</bill>

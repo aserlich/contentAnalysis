@@ -1,0 +1,71 @@
+<bill session="103" type="h" number="1522" updated="2012-07-17T06:28:38-04:00">
+	<state datetime="1993-07-13T13:31:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-07-13T13:31:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-03-30"/>
+	<titles>
+		<title type="short" as="introduced">Panama Canal Commission Authorization Act for Fiscal Year 1994</title>
+		<title type="short" as="reported to house">Panama Canal Commission Authorization Act for Fiscal Year 1994</title>
+		<title type="short" as="passed house">Panama Canal Commission Authorization Act for Fiscal Year 1994</title>
+		<title type="official" as="introduced">To authorize expenditures for fiscal year 1994 for the operation and maintenance of the Panama Canal, and for other purposes.</title>
+	</titles>
+	<sponsor id="400397"/>
+	<cosponsors>
+		<cosponsor id="410496" joined="1993-03-30"/>
+		<cosponsor id="404068" joined="1993-03-30"/>
+		<cosponsor id="400076" joined="1993-03-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-30" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E815-816)</text></action>
+		<action datetime="1993-03-30" state="REFERRED"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-03-31"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Coast Guard and Navigation.</text></action>
+		<action datetime="1993-03-31"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Coast Guard and Navigation"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-05-20"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Coast Guard and Navigation"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-05-20"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Coast Guard and Navigation"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-05-26"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-05-26"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-06-24T17:24:00-04:00"><text>Reported (Amended) by the Committee on Merchant Marine and Fisheries. H. Rept. 103-154.</text></action>
+		<calendar number="86" datetime="1993-06-24T17:24:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 86.</text></calendar>
+		<action datetime="1993-07-13T13:27:00-04:00"><text>Mr. Studds moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-07-13T13:27:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4525-4527"/></action>
+		<action datetime="1993-07-13T13:27:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-07-13T13:31:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-07-13T13:31:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-07-14"><text>Received in the Senate and read twice and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Coast Guard and Navigation" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Navigation"/>
+		<term name="Alien labor"/>
+		<term name="Americans employed in foreign countries"/>
+		<term name="Authorization"/>
+		<term name="Buy American"/>
+		<term name="Congressional oversight"/>
+		<term name="Employee-management relations in government"/>
+		<term name="Ethics"/>
+		<term name="Federal employees"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Government operations and politics"/>
+		<term name="Government vehicles"/>
+		<term name="Grievance arbitration"/>
+		<term name="Grievance procedures"/>
+		<term name="Interoceanic canals"/>
+		<term name="Panama Canal"/>
+		<term name="Panama Canal Commission"/>
+		<term name="Treaties"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/13/1993--Passed House amended. Panama Canal Commission Authorization Act for Fiscal Year 1994 - Authorizes expenditures by the Panama Canal Commission for the operation, maintenance, and improvement of the Panama Canal. Authorizes certain expenditures for administrative expenses, limiting reception and representation expenses of the Board, Secretary, and Administrator of the Commission. Authorizes the purchase of passenger motor vehicles for replacement only, requiring that certain vehicles purchased be built in the United States. Gives Congress' consent (as required under the Constitution) for Commission employees to accept civil employment with agencies and organizations affiliated with the Government of Panama. Requires that the employment be approved by the Commission's ethics official and the Commission's Administrator. Amends the Panama Canal Act of 1979 to require that certain negotiated grievance and binding arbitration procedures under Federal law be available as if Commission employees were not excluded from specified adverse personnel actions provisions.
+
+	</summary>
+</bill>

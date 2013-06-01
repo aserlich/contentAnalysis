@@ -1,0 +1,80 @@
+<bill session="103" type="h" number="3397" updated="2010-04-19T08:00:18-04:00">
+	<state datetime="1993-10-28">REFERRED</state>
+	<status><introduced datetime="1993-10-28"/></status>
+
+	<introduced datetime="1993-10-28"/>
+	<titles>
+		<title type="short" as="introduced">Presidential FEMA Reform Act of 1993</title>
+		<title type="official" as="introduced">To direct the President to establish a commission for making recommendations to improve the Federal emergency management system.</title>
+	</titles>
+	<sponsor id="400008"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-11-18"/>
+		<cosponsor id="400428" joined="1993-10-28"/>
+		<cosponsor id="400414" joined="1994-01-26"/>
+		<cosponsor id="400364" joined="1993-11-18"/>
+		<cosponsor id="400289" joined="1994-01-26"/>
+		<cosponsor id="400272" joined="1994-02-23"/>
+		<cosponsor id="400596" joined="1994-03-09"/>
+		<cosponsor id="400380" joined="1994-04-12"/>
+		<cosponsor id="400122" joined="1994-07-21"/>
+		<cosponsor id="401033" joined="1993-11-18"/>
+		<cosponsor id="400106" joined="1994-01-26"/>
+		<cosponsor id="400143" joined="1993-11-18"/>
+		<cosponsor id="403308" joined="1994-01-26"/>
+		<cosponsor id="400402" joined="1994-06-22"/>
+		<cosponsor id="400144" joined="1993-11-18"/>
+		<cosponsor id="400539" joined="1994-10-07"/>
+		<cosponsor id="407306" joined="1994-08-03"/>
+		<cosponsor id="407153" joined="1994-07-21"/>
+		<cosponsor id="411065" joined="1994-03-09"/>
+		<cosponsor id="400057" joined="1994-03-09"/>
+		<cosponsor id="408618" joined="1994-03-09"/>
+		<cosponsor id="400178" joined="1994-06-22"/>
+		<cosponsor id="400378" joined="1994-01-26"/>
+		<cosponsor id="402626" joined="1994-07-21"/>
+		<cosponsor id="401310" joined="1994-08-10"/>
+		<cosponsor id="400211" joined="1994-08-03"/>
+		<cosponsor id="400107" joined="1994-07-21"/>
+		<cosponsor id="400189" joined="1993-10-28"/>
+		<cosponsor id="400906" joined="1994-04-12"/>
+		<cosponsor id="400554" joined="1994-02-23"/>
+		<cosponsor id="409627" joined="1994-01-26"/>
+		<cosponsor id="400286" joined="1993-11-18"/>
+		<cosponsor id="400599" joined="1994-02-23"/>
+		<cosponsor id="300096" joined="1994-06-22"/>
+		<cosponsor id="400611" joined="1993-11-18"/>
+		<cosponsor id="400516" joined="1994-08-19"/>
+		<cosponsor id="400075" joined="1994-04-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-28"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-10-28"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-11-02"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+		<action datetime="1993-11-02"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1993-11-12"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-06" name="House Armed Services" subcommittee="Oversight and Investigations" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Disasters"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Emergency management"/>
+		<term name="Presidential commissions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/28/1993--Introduced.
+Presidential FEMA Reform Act of 1993 - Directs the President to establish a commission to review the Federal emergency management system and to report to him and the Congress on recommendations for improving the system.
+
+	</summary>
+</bill>

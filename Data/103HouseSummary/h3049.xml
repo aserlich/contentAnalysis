@@ -1,0 +1,61 @@
+<bill session="103" type="h" number="3049" updated="2010-04-19T07:06:31-04:00">
+	<state datetime="1993-09-30">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-09-30" /></status>
+
+	<introduced datetime="1993-09-13"/>
+	<titles>
+		<title type="official" as="introduced">To extend the current interim exemption under the Marine Mammal Protection Act for commercial fisheries until April 1, 1994.</title>
+	</titles>
+	<sponsor id="410496"/>
+	<cosponsors>
+		<cosponsor id="400359" joined="1993-09-13"/>
+		<cosponsor id="404068" joined="1993-09-21"/>
+		<cosponsor id="400440" joined="1993-09-13"/>
+		<cosponsor id="410887" joined="1993-09-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-13"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-09-14"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1993-09-14"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Commerce.</text></action>
+		<action datetime="1993-09-15"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-09-15"  state="REPORTED"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-09-15"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Subcommittee on Environment and Natural Resources Discharged.</text></action>
+		<action datetime="1993-09-21T15:24:00-04:00"><text>Mr. Studds moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-09-21T15:25:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6808-6809"/></action>
+		<action datetime="1993-09-21T15:25:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-09-21T15:36:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Solomon objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1993-09-21T18:21:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6832"/></action>
+		<vote how="roll" type="vote" roll="444" datetime="1993-09-21T18:29:00-04:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 421 - 6 (Roll no. 444).</text></vote>
+		<action datetime="1993-09-21T18:29:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-09-22" where="s" result="pass"  state="PASSED:BILL"><text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S12263"/></vote>
+		<topresident datetime="1993-09-22" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-09-23"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-09-24" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-09-30" ><text>Signed by President.</text></signed>
+		<enacted number="103-86" type="public" datetime="1993-09-30"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-86.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Fisheries"/>
+		<term name="Animals"/>
+		<term name="Environmental protection"/>
+		<term name="Fishing boats"/>
+		<term name="Licenses"/>
+		<term name="Marine mammal protection"/>
+		<term name="Marine resources"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/13/1993--Introduced.
+Amends the Marine Mammal Protection Act of 1972 to extend the termination date of the interim exemption regarding the incidental taking of marine mammals in the course of commercial fishing operations by persons using vessels of the United States and foreign vessels which have valid fishing permits under specified provisions of the Act.
+
+	</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="103" type="hc" number="42" updated="2010-04-18T21:07:11-04:00">
+	<state datetime="1993-02-17">REFERRED</state>
+	<status><introduced datetime="1993-02-17"/></status>
+
+	<introduced datetime="1993-02-17"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress that the job opportunities and basic skills training program (JOBS) should be fully funded.</title>
+	</titles>
+	<sponsor id="406284"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-04-21"/>
+		<cosponsor id="400364" joined="1993-05-27"/>
+		<cosponsor id="400122" joined="1994-02-03"/>
+		<cosponsor id="400170" joined="1993-05-05"/>
+		<cosponsor id="400409" joined="1993-05-05"/>
+		<cosponsor id="404213" joined="1993-04-21"/>
+		<cosponsor id="400143" joined="1993-04-21"/>
+		<cosponsor id="403364" joined="1993-06-16"/>
+		<cosponsor id="404097" joined="1993-05-12"/>
+		<cosponsor id="400347" joined="1993-05-12"/>
+		<cosponsor id="400178" joined="1993-04-28"/>
+		<cosponsor id="400201" joined="1993-05-27"/>
+		<cosponsor id="400357" joined="1993-04-21"/>
+		<cosponsor id="400204" joined="1993-04-28"/>
+		<cosponsor id="400438" joined="1993-07-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-17"><text>Sponsor introductory remarks on measure. (CR E343)</text></action>
+		<action datetime="1993-02-17"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Aid to dependent children"/>
+		<term name="Federal budgets"/>
+		<term name="Manpower training programs"/>
+		<term name="Public assistance programs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/17/1993--Introduced.
+Expresses the sense of the Congress that the jobs opportunities and basic skills training program (JOBS) should be fully funded.
+
+	</summary>
+</bill>

@@ -1,0 +1,84 @@
+<bill session="103" type="h" number="1919" updated="2010-04-19T04:11:21-04:00">
+	<state datetime="1993-07-27">REPORTED</state>
+	<status><calendar datetime="1993-07-27" /></status>
+
+	<introduced datetime="1993-04-29"/>
+	<titles>
+		<title type="short" as="introduced">High-Speed Rail Development Act of 1993</title>
+		<title type="short" as="reported to house">High-Speed Rail Development Act of 1993</title>
+		<title type="official" as="introduced">To establish a program to facilitate development of high-speed rail transportation in the United States, and for other purposes.</title>
+	</titles>
+	<sponsor id="400110"/>
+	<cosponsors>
+		<cosponsor id="402763" joined="1993-04-29"/>
+		<cosponsor id="400414" joined="1993-04-29"/>
+		<cosponsor id="300018" joined="1993-04-29"/>
+		<cosponsor id="411040" joined="1993-04-29"/>
+		<cosponsor id="300038" joined="1993-04-29"/>
+		<cosponsor id="407899" joined="1993-04-29"/>
+		<cosponsor id="409442" joined="1993-04-29"/>
+		<cosponsor id="410567" joined="1993-04-29"/>
+		<cosponsor id="407141" joined="1993-04-29"/>
+		<cosponsor id="404190" joined="1993-04-29"/>
+		<cosponsor id="402325" joined="1993-04-29"/>
+		<cosponsor id="409627" joined="1993-04-29"/>
+		<cosponsor id="300100" joined="1993-04-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-29"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Hearings Held by the Subcommittee on Transportation and Hazardous Materials Prior to Referral.</text></action>
+		<action datetime="1993-05-05"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-07-27"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-07-27"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported (Amended) by the Yeas and Nays: 28 - 16.</text></calendar>
+		<action datetime="1993-09-28T12:49:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 103-258.</text></action>
+		<calendar number="146" datetime="1993-09-28T12:50:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 146.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="839" />
+		<bill relation="unknown" session="103" type="s" number="839" />
+	</relatedbills>
+	<subjects>
+		<term name="Railroads"/>
+		<term name="Administrative procedure"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Buy American"/>
+		<term name="Construction industries"/>
+		<term name="Construction workers"/>
+		<term name="Department of Transportation"/>
+		<term name="Executive departments"/>
+		<term name="Federal aid to transportation"/>
+		<term name="Foreign trade"/>
+		<term name="Government contractors"/>
+		<term name="Government spending reductions"/>
+		<term name="Highspeed trains"/>
+		<term name="Infrastructure"/>
+		<term name="Labor"/>
+		<term name="Minimum wages"/>
+		<term name="Public contracts"/>
+		<term name="Railroad employees"/>
+		<term name="Railroad engineering"/>
+		<term name="Railroad finance"/>
+		<term name="Railroad passenger traffic"/>
+		<term name="Railroad research"/>
+		<term name="Research and development"/>
+		<term name="Technology"/>
+		<term name="Trade"/>
+		<term name="Transportation"/>
+		<term name="Transportation planning"/>
+		<term name="Wages"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/28/1993--Reported to House amended. TABLE OF CONTENTS: Title I: High-Speed Rail Development Title II: Labor Protection High-Speed Rail Development Act of 1993 - Title I: High-Speed Rail Development - Amends the Railroad Revitalization and Regulatory Reform Act of 1976 to authorize the Governor of a State to petition the Secretary of Transportation (Secretary) for designation of a proposed corridor for high-speed rail assistance. Requires an applicant to submit a corridor master plan for the Secretary's approval. Authorizes the Secretary to provide finance assistance for plan preparation and for funding improvements. Authorizes the Secretary to conduct research and development of high-speed rail technologies for commercial application in high-speed service in the United States. Requires applicants receiving high-speed rail assistance to comply with Buy American requirements. Requires the Secretary to issue and publish in the Federal Register a list of conditions to be imposed to protect the interests of railroad employees who may be adversely affected as a result of the provision of high-speed rail assistance under this Act. Authorizes appropriations. Amends the Rail Passenger Service Act to decrease the authorization of appropriations for FY 1994 for capital acquisition and development for the Northeast Corridor. Authorizes appropriations for FY 1995. Title II: Labor Protection - Amends the Railroad Revitalization and Regulatory Reform Act of 1976 to require the Secretary to ensure that all workers employed by contractors and subcontractors in the construction of high-speed rail projects be paid wages at rates not less than those prevailing on similar construction in the locality as determined in accordance with the Davis-Bacon Act. Conditions approval of financial assistance upon adequate assurance that required labor standards will be maintained on the construction work.
+
+	</summary>
+</bill>

@@ -1,0 +1,65 @@
+<bill session="103" type="hc" number="278" updated="2010-04-18T21:44:30-04:00">
+	<state datetime="1994-10-05T18:46:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-05T18:46:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-08-05"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress regarding United States policy towards Vietnam.</title>
+	</titles>
+	<sponsor id="400003"/>
+	<cosponsors>
+		<cosponsor id="409954" joined="1994-08-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-05"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Asia and the Pacific.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Foreign Affairs" subcommittee="Asia and the Pacific"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Foreign Affairs" subcommittee="Asia and the Pacific"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1994-08-20"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Requested from State.</text></action>
+		<action datetime="1994-09-13"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Received from State.</text></action>
+		<action datetime="1994-10-03"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-10-03"  state="REPORTED"><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-10-04T22:49:00-04:00"><text>Mr. Andrews (NJ) moved to suspend the rules and agree to the resolution.</text></action>
+		<action datetime="1994-10-04T22:50:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10832-10835"/></action>
+		<action datetime="1994-10-04T22:50:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-04T23:03:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Walker objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed until Oct. 5. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1994-10-05T18:46:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10921"/></action>
+		<vote how="by voice vote" type="vote" datetime="1994-10-05T18:46:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-05T18:46:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-06"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Referred to the Committee on Foreign Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup" />
+		<committee code="HSFA-05" name="House Foreign Affairs" subcommittee="Asia and the Pacific" activity="Referral, Markup, Reporting" />
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Defense policy"/>
+		<term name="Democracy"/>
+		<term name="Diplomacy"/>
+		<term name="East Asia"/>
+		<term name="Elections"/>
+		<term name="Foreign policy"/>
+		<term name="International affairs"/>
+		<term name="International broadcasting"/>
+		<term name="Missing in action"/>
+		<term name="Prisoners of war"/>
+		<term name="Radio broadcasting"/>
+		<term name="Telecommunication"/>
+		<term name="Vietnam"/>
+		<term name="Vietnamese Conflict"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/1994--Introduced.
+Expresses the sense of the Congress that: (1) progress towards the fullest possible accounting for the Americans missing and unaccounted for remains central to our Nation's foreign policy toward Vietnam; (2) such accounting must remain the index by which further progress in relations must be judged; (3) the primary functions of the U.S. Government liaison office in Vietnam should be to facilitate accounting efforts and to establish a section to assist families and friends in their efforts to ascertain the status of their loved ones; and (4) the United States should support the process of nonviolent democratic reform in Vietnam and should increase its support for Voice of America programming in Vietnam.
+
+	</summary>
+</bill>

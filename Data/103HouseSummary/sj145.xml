@@ -1,0 +1,75 @@
+<bill session="103" type="sj" number="145" updated="2012-07-17T06:23:22-04:00">
+	<state datetime="1993-10-29">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-10-29" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-10-19"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution to designate the period commencing on November 21, 1993, and ending on November 27, 1993, and the period commencing on November 20, 1994, and ending on November 26, 1994, each as &quot;National Adoption Week&quot;.</title>
+	</titles>
+	<sponsor id="300052"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-11-01"/>
+		<cosponsor id="300056" joined="1993-11-01"/>
+		<cosponsor id="406084" joined="1993-11-01"/>
+		<cosponsor id="401709" joined="1993-11-01"/>
+		<cosponsor id="400559" joined="1993-11-01"/>
+		<cosponsor id="401874" joined="1993-11-01"/>
+		<cosponsor id="300089" joined="1993-11-01"/>
+		<cosponsor id="300082" joined="1993-11-01"/>
+		<cosponsor id="409917" joined="1993-11-01"/>
+		<cosponsor id="300066" joined="1993-11-01"/>
+		<cosponsor id="300086" joined="1993-11-01"/>
+		<cosponsor id="300053" joined="1993-11-01"/>
+		<cosponsor id="300154" joined="1993-11-01"/>
+		<cosponsor id="300001" joined="1993-11-01"/>
+		<cosponsor id="407663" joined="1993-11-01"/>
+		<cosponsor id="403142" joined="1993-11-01"/>
+		<cosponsor id="300067" joined="1993-11-01"/>
+		<cosponsor id="300029" joined="1993-11-01"/>
+		<cosponsor id="403515" joined="1993-11-01"/>
+		<cosponsor id="300084" joined="1993-11-01"/>
+		<cosponsor id="403669" joined="1993-11-01"/>
+		<cosponsor id="300009" joined="1993-11-01"/>
+		<cosponsor id="408898" joined="1993-11-01"/>
+		<cosponsor id="403346" joined="1993-11-01"/>
+		<cosponsor id="408597" joined="1993-11-01"/>
+		<cosponsor id="300099" joined="1993-11-01"/>
+		<cosponsor id="300034" joined="1993-11-01"/>
+		<cosponsor id="300023" joined="1993-11-01"/>
+		<cosponsor id="400565" joined="1993-11-01"/>
+		<cosponsor id="300157" joined="1993-11-01"/>
+		<cosponsor id="404598" joined="1993-11-01"/>
+		<cosponsor id="300054" joined="1993-11-01"/>
+		<cosponsor id="300064" joined="1993-11-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-19" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S13923)</text></action>
+		<action datetime="1993-10-19" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-10-29"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S14703"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-10-29" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment and with a preamble by Voice Vote.</text></vote>
+		<action datetime="1993-11-01T12:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-01"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-11-01"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hj" number="257" />
+		<bill relation="unknown" session="103" type="hj" number="257" />
+	</relatedbills>
+	<subjects>
+		<term name="Special weeks"/>
+		<term name="Adoption"/>
+		<term name="Commemorations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/19/1993--Introduced.
+Designates November 21 through 27, 1993, and November 20 through 26, 1994, as National Adoption Week.
+
+	</summary>
+</bill>

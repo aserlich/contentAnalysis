@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="3776" updated="2010-04-19T08:59:21-04:00">
+	<state datetime="1994-02-02">REFERRED</state>
+	<status><introduced datetime="1994-02-02"/></status>
+
+	<introduced datetime="1994-02-02"/>
+	<titles>
+		<title type="short" as="introduced">House Speaker's Staff Reduction Act</title>
+		<title type="official" as="introduced">To reduce the Speaker of the House's spending on salaries and expenses.</title>
+	</titles>
+	<sponsor id="400649"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-02"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1994-02-11"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Accounts.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Accounts" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Appropriations"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Congressional allowances"/>
+		<term name="Congressional employees"/>
+		<term name="Congressional leadership"/>
+		<term name="Congressional salaries and pensions"/>
+		<term name="Government employees"/>
+		<term name="Government spending reductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1994--Introduced.
+House Speaker's Staff Reduction Act - Reduces the appropriation for staff salaries and expenses of the Speaker of the House of Representatives by 20 percent beginning in FY 1995. Requires a reduction of at least $280,000 and places a $1,115,000 ceiling on the Speaker's spending for staff salaries and expenses.
+
+	</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="2382" updated="2010-04-19T05:23:01-04:00">
+	<state datetime="1993-06-10">REFERRED</state>
+	<status><introduced datetime="1993-06-10"/></status>
+
+	<introduced datetime="1993-06-10"/>
+	<titles>
+		<title type="short" as="introduced">Bovine Somatotropin Marketing Equivalency Act of 1993</title>
+		<title type="official" as="introduced">To prohibit the use of bovine somatotropin in intrastate, interstate, or international commerce until equivalent marketing practices for the use of bovine somatotropin are established with the marketing practices of other major milk or dairy products exporting nations.</title>
+	</titles>
+	<sponsor id="400300"/>
+	<cosponsors>
+		<cosponsor id="400357" joined="1993-06-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-10"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-07-16"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="954" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Cattle"/>
+		<term name="Congressional oversight"/>
+		<term name="Dairy industry"/>
+		<term name="Foreign trade"/>
+		<term name="Hormones"/>
+		<term name="Milk"/>
+		<term name="Recombinant DNA"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/10/1993--Introduced.
+Bovine Somatotropin Marketing Equivalency Act of 1993 - Amends the Federal Food, Drug, and Cosmetic Act to define bovine somatotropin for purposes of such Act. Prohibits its use in intrastate, interstate, or international commerce until the President certifies that the U.S. dairy industry has established equivalent marketing practices (for bovine somatotropin) with those of one or more major milk and dairy exporting countries.
+
+	</summary>
+</bill>

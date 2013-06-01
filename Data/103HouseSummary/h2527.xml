@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="2527" updated="2010-04-19T05:45:31-04:00">
+	<state datetime="1993-06-24">REFERRED</state>
+	<status><introduced datetime="1993-06-24"/></status>
+
+	<introduced datetime="1993-06-24"/>
+	<titles>
+		<title type="official" as="introduced">To forgive the repayment to the Government of advance deficiency payments received by producers who are prevented from planting a crop due to damaging weather or related condition.</title>
+	</titles>
+	<sponsor id="400599"/>
+	<cosponsors>
+		<cosponsor id="400126" joined="1993-07-20"/>
+		<cosponsor id="400323" joined="1993-07-20"/>
+		<cosponsor id="400316" joined="1993-07-20"/>
+		<cosponsor id="401153" joined="1993-07-20"/>
+		<cosponsor id="400357" joined="1993-11-22"/>
+		<cosponsor id="300058" joined="1993-07-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-24"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-06-28"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on General Farm Commodities.</text></action>
+		<action datetime="1993-06-28"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="General Farm Commodities" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural price supports"/>
+		<term name="Cotton"/>
+		<term name="Disaster relief"/>
+		<term name="Feed grain program"/>
+		<term name="Rice"/>
+		<term name="Wheat"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/24/1993--Introduced.
+Delays Government reimbursement of certain advance deficiency payments received by 1993 producers of wheat, feed grains, upland cotton, and rice for the portion of such crops that was not planted because of damaging weather or related condition.
+
+	</summary>
+</bill>

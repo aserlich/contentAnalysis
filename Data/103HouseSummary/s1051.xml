@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="1051" updated="2012-07-17T06:08:16-04:00">
+	<state datetime="1993-05-27">REFERRED</state>
+	<status><introduced datetime="1993-05-27"/></status>
+
+	<introduced datetime="1993-05-27"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Dependent Hospital Relief Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to extend the period during which medicare-dependent, small rural hospitals receive additional payments under the medicare program for the operating costs of inpatient hospital services, to revise the criteria for determining whether hospitals are eligible for such additional payments, and to provide additional payments under the medicare program to other medicare-dependent hospitals.</title>
+	</titles>
+	<sponsor id="400562"/>
+	<cosponsors>
+		<cosponsor id="300046" joined="1993-05-27"/>
+		<cosponsor id="401709" joined="1993-06-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-27" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6763-6764)</text></action>
+		<action datetime="1993-05-27" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="953" />
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Health"/>
+		<term name="Hospital care"/>
+		<term name="Hospitals"/>
+		<term name="Medicare"/>
+		<term name="Prospective payment systems (Medical care)"/>
+		<term name="Puerto Rico"/>
+		<term name="Rural hospitals"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/27/1993--Introduced.
+Medicare Dependent Hospital Relief Act of 1993 - Amends title XVIII (Medicare) of the Social Security Act to: (1) extend the period during which Medicare-dependent, small rural hospitals receive additional payments under Medicare for the operating costs of inpatient hospital services; (2) revise the criteria for determining whether hospitals are eligible for such additional payments; and (3) provide for additional payments under Medicare to other Medicare-dependent hospitals.
+
+	</summary>
+</bill>

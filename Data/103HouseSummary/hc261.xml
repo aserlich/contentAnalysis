@@ -1,0 +1,61 @@
+<bill session="103" type="hc" number="261" updated="2010-04-18T21:41:50-04:00">
+	<state datetime="1994-07-20">PASSED:CONCURRENTRES</state>
+	<status><vote2 datetime="1994-07-20" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-06-24"/>
+	<titles>
+		<title type="official" as="introduced">To honor the United States astronauts who flew in space as part of the program of the National Aeronautics and Space Administration to reach and explore the Moon.</title>
+	</titles>
+	<sponsor id="400165"/>
+	<cosponsors>
+		<cosponsor id="400099" joined="1994-06-24"/>
+		<cosponsor id="401014" joined="1994-06-24"/>
+		<cosponsor id="400091" joined="1994-07-19"/>
+		<cosponsor id="400084" joined="1994-06-24"/>
+		<cosponsor id="400117" joined="1994-07-12"/>
+		<cosponsor id="400206" joined="1994-06-24"/>
+		<cosponsor id="400520" joined="1994-07-12"/>
+		<cosponsor id="400395" joined="1994-06-24"/>
+		<cosponsor id="400035" joined="1994-06-24"/>
+		<cosponsor id="400043" joined="1994-06-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-24"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1994-06-30"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Space.</text></action>
+		<action datetime="1994-07-13"><committee name="House Committee on Science, Space and Technology" subcommittee="Space"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-07-13"><committee name="House Committee on Science, Space and Technology" subcommittee="Space"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1994-07-19T12:40:00-04:00"><committee name="House Committee on Science, Space and Technology"/><text>Mr. Hall (TX) moved to suspend the rules and agree to the resolution.</text></action>
+		<action datetime="1994-07-19T12:40:00-04:00"><committee name="House Committee on Science, Space and Technology"/><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5783-5784"/></action>
+		<action datetime="1994-07-19T12:40:00-04:00"><committee name="House Committee on Science, Space and Technology"/><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-07-19T12:45:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><committee name="House Committee on Science, Space and Technology"/><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1994-07-19T12:45:00-04:00"><committee name="House Committee on Science, Space and Technology"/><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-07-20" where="s" result="pass"  state="PASSED:CONCURRENTRES"><committee name="House Committee on Science, Space and Technology"/><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote.</text><reference label="consideration" ref="CR S9332"/></vote>
+		<action datetime="1994-07-21"><committee name="House Committee on Science, Space and Technology"/><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Space" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congressional tributes"/>
+		<term name="Astronauts"/>
+		<term name="Commemorations"/>
+		<term name="Congress"/>
+		<term name="Lunar exploration"/>
+		<term name="Lunar flight"/>
+		<term name="Project Apollo"/>
+		<term name="Project Gemini"/>
+		<term name="Space activities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/24/1994--Introduced.
+Declares that specified U.S. astronauts who flew in space as part of the National Aeronautics and Space Administration program to reach and explore the moon shall carry the honorary title Space Emissary and shall be referred to as &quot;The Honorable.&quot;
+
+	</summary>
+</bill>

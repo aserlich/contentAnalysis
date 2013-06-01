@@ -1,0 +1,86 @@
+<bill session="103" type="h" number="643" updated="2010-04-19T00:42:48-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="official" as="introduced">To raise grazing fees on public lands, and for other purposes.</title>
+	</titles>
+	<sponsor id="410589"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1993-05-05"/>
+		<cosponsor id="400553" joined="1993-04-21"/>
+		<cosponsor id="406873" joined="1993-06-30"/>
+		<cosponsor id="400414" joined="1993-11-02"/>
+		<cosponsor id="400289" joined="1993-05-12"/>
+		<cosponsor id="400210" joined="1993-02-17"/>
+		<cosponsor id="400155" joined="1993-02-25"/>
+		<cosponsor id="400149" joined="1993-05-19"/>
+		<cosponsor id="408052" joined="1993-05-05"/>
+		<cosponsor id="406431" joined="1993-06-09"/>
+		<cosponsor id="400156" joined="1993-04-21"/>
+		<cosponsor id="400584" joined="1994-04-13"/>
+		<cosponsor id="401014" joined="1993-04-02"/>
+		<cosponsor id="400332" joined="1993-03-25"/>
+		<cosponsor id="406420" joined="1993-07-13"/>
+		<cosponsor id="400578" joined="1993-04-21"/>
+		<cosponsor id="400370" joined="1993-05-05"/>
+		<cosponsor id="300081" joined="1993-05-05"/>
+		<cosponsor id="400216" joined="1994-02-02"/>
+		<cosponsor id="400359" joined="1993-04-21"/>
+		<cosponsor id="406482" joined="1993-06-18"/>
+		<cosponsor id="404097" joined="1993-05-12"/>
+		<cosponsor id="400533" joined="1993-04-02"/>
+		<cosponsor id="400520" joined="1993-08-06"/>
+		<cosponsor id="407153" joined="1994-01-25"/>
+		<cosponsor id="408618" joined="1993-04-21"/>
+		<cosponsor id="400103" joined="1993-05-19"/>
+		<cosponsor id="407817" joined="1993-11-22"/>
+		<cosponsor id="400594" joined="1993-04-21"/>
+		<cosponsor id="400140" joined="1993-04-21"/>
+		<cosponsor id="412001" joined="1993-03-25"/>
+		<cosponsor id="403190" joined="1993-04-21"/>
+		<cosponsor id="400251" joined="1994-01-25"/>
+		<cosponsor id="400378" joined="1993-04-21"/>
+		<cosponsor id="300091" joined="1993-04-02"/>
+		<cosponsor id="400591" joined="1993-05-05"/>
+		<cosponsor id="400604" joined="1993-04-21"/>
+		<cosponsor id="400269" joined="1993-04-21"/>
+		<cosponsor id="402152" joined="1993-04-21"/>
+		<cosponsor id="409627" joined="1994-07-25"/>
+		<cosponsor id="400334" joined="1993-01-26"/>
+		<cosponsor id="400223" joined="1993-05-19"/>
+		<cosponsor id="411488" joined="1994-01-25"/>
+		<cosponsor id="410565" joined="1993-04-21"/>
+		<cosponsor id="411997" joined="1993-04-02"/>
+		<cosponsor id="400243" joined="1993-05-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Sponsor introductory remarks on measure. (CR E176-177)</text></action>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-02-18"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior, USDA.</text></action>
+		<action datetime="1993-04-20"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1602" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands"/>
+		<term name="Fees"/>
+		<term name="Grazing"/>
+		<term name="National forests"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Establishes a fair market value livestock grazing fee structure for public lands based on base value and forage value (as defined by this Act).
+
+	</summary>
+</bill>

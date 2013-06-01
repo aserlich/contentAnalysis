@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="1350" updated="2010-04-19T02:41:36-04:00">
+	<state datetime="1993-03-16">REFERRED</state>
+	<status><introduced datetime="1993-03-16"/></status>
+
+	<introduced datetime="1993-03-16"/>
+	<titles>
+		<title type="official" as="introduced">To grant a Federal charter to VietNow.</title>
+	</titles>
+	<sponsor id="400169"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="1993-03-16"/>
+		<cosponsor id="400414" joined="1993-03-16"/>
+		<cosponsor id="411677" joined="1993-03-16"/>
+		<cosponsor id="400126" joined="1993-03-16"/>
+		<cosponsor id="406431" joined="1993-03-16"/>
+		<cosponsor id="400113" joined="1993-03-16"/>
+		<cosponsor id="406768" joined="1993-03-16"/>
+		<cosponsor id="400170" joined="1993-03-16"/>
+		<cosponsor id="401547" joined="1993-03-16"/>
+		<cosponsor id="409570" joined="1993-03-16"/>
+		<cosponsor id="400581" joined="1993-03-16"/>
+		<cosponsor id="400143" joined="1993-03-16"/>
+		<cosponsor id="400017" joined="1993-03-16"/>
+		<cosponsor id="409633" joined="1993-03-16"/>
+		<cosponsor id="400204" joined="1993-03-16"/>
+		<cosponsor id="403864" joined="1993-03-16"/>
+		<cosponsor id="400516" joined="1993-03-16"/>
+		<cosponsor id="400537" joined="1993-03-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-16"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-03-19"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal incorporation"/>
+		<term name="Veterans' organizations"/>
+		<term name="Vietnam veterans"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/16/1993--Introduced.
+Grants a Federal charter to VietNow (a nonprofit corporation organized under the laws of Illinois).
+
+	</summary>
+</bill>

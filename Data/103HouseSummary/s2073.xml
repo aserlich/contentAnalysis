@@ -1,0 +1,87 @@
+<bill session="103" type="s" number="2073" updated="2012-07-17T04:27:50-04:00">
+	<state datetime="1994-10-22">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-22" /></status>
+
+	<introduced datetime="1994-05-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the United States courthouse that is scheduled to be constructed in Concord, New Hampshire, as the &quot;Warren B. Rudman United States Courthouse&quot;, and for other purposes.</title>
+	</titles>
+	<sponsor id="300155"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="1994-07-20"/>
+		<cosponsor id="409923" joined="1994-07-20"/>
+		<cosponsor id="300060" joined="1994-06-21"/>
+		<cosponsor id="300059" joined="1994-05-17"/>
+		<cosponsor id="403142" joined="1994-07-20"/>
+		<cosponsor id="402675" joined="1994-07-21"/>
+		<cosponsor id="300067" joined="1994-06-21"/>
+		<cosponsor id="300049" joined="1994-05-04"/>
+		<cosponsor id="400559" joined="1994-07-27"/>
+		<cosponsor id="300089" joined="1994-07-27"/>
+		<cosponsor id="300029" joined="1994-07-20"/>
+		<cosponsor id="403515" joined="1994-06-21"/>
+		<cosponsor id="300082" joined="1994-06-21"/>
+		<cosponsor id="409917" joined="1994-05-17"/>
+		<cosponsor id="300057" joined="1994-07-21"/>
+		<cosponsor id="402412" joined="1994-07-20"/>
+		<cosponsor id="300099" joined="1994-05-17"/>
+		<cosponsor id="408597" joined="1994-05-17"/>
+		<cosponsor id="300070" joined="1994-06-21"/>
+		<cosponsor id="300053" joined="1994-06-21"/>
+		<cosponsor id="300023" joined="1994-07-27"/>
+		<cosponsor id="300010" joined="1994-07-20"/>
+		<cosponsor id="300069" joined="1994-07-27"/>
+		<cosponsor id="300008" joined="1994-05-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5188-5189)</text></action>
+		<action datetime="1994-05-04" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar datetime="1994-08-12"  state="REPORTED"><committee name="Committee on Environment and Public Works"/><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-08-12"><text>Committee on Environment and Public Works. Reported to Senate by Senator Baucus without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="568" datetime="1994-08-12" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 568.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-08-17" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S11972"/></vote>
+		<action datetime="1994-08-18T12:34:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-08-18"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-08-18"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-09-01"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Public Buildings and Grounds.</text></action>
+		<action datetime="1994-10-07T18:50:00-04:00"><text>Committee on Public Works + Transportation discharged.</text></action>
+		<action datetime="1994-10-07T18:50:00-04:00"><text>Mr. Traficant asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-10-07T18:55:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H11341-11342"/></action>
+		<vote how="without objection" type="vote2" datetime="1994-10-07T18:55:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-10-07T18:56:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-07T18:56:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1994-10-07"><text>Message on House action received in Senate and at the desk: House amendments to Senate bill.</text></action>
+		<action datetime="1994-10-08"><text>Senate agreed to the House amendments by Voice Vote. (consideration: CR 10/7/94 S14960)</text></action>
+		<topresident datetime="1994-10-08" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-10-12"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-10-18" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-22" ><text>Signed by President.</text></signed>
+		<enacted number="103-404" type="public" datetime="1994-10-22"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-404.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Discharged" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Public Buildings and Grounds" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4576" />
+		<bill relation="unknown" session="103" type="h" number="4577" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Commemorations"/>
+		<term name="Courthouses"/>
+		<term name="District of Columbia"/>
+		<term name="Federal office buildings"/>
+		<term name="Kentucky"/>
+		<term name="Names"/>
+		<term name="New Hampshire"/>
+	</subjects>
+	<amendments>
+		<amendment number="h938"/>
+	</amendments>
+	<summary>
+	10/7/1994--Passed House amended. Designates: (1) the United States courthouse to be constructed in Concord, New Hampshire, as the Warren B. Rudman United States Courthouse; and (2) the Federal building located at the northeast corner of the intersection of 14th Street and Independence Avenue, Southwest, Washington, D. C., as the Jamie L. Whitten Federal Building; and (3) the Federal building and United States courthouse located at 242 East Main Street in Bowling Green, Kentucky, as the William H. Natcher Federal Building and United States Courthouse.
+
+	</summary>
+</bill>

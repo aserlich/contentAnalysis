@@ -1,0 +1,46 @@
+<bill session="103" type="s" number="626" updated="2012-07-17T06:17:38-04:00">
+	<state datetime="1993-03-22">REFERRED</state>
+	<status><introduced datetime="1993-03-22"/></status>
+
+	<introduced datetime="1993-03-22"/>
+	<titles>
+		<title type="official" as="introduced">A bill to establish a system of State-based electronic libraries, and for other purposes.</title>
+	</titles>
+	<sponsor id="400561"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="1993-03-22"/>
+		<cosponsor id="403962" joined="1993-03-22"/>
+		<cosponsor id="300031" joined="1993-03-22"/>
+		<cosponsor id="400563" joined="1993-03-22"/>
+		<cosponsor id="300067" joined="1993-03-22"/>
+		<cosponsor id="405212" joined="1993-03-22"/>
+		<cosponsor id="401709" joined="1993-03-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-22" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3363-3365)</text></action>
+		<action datetime="1993-03-22" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Libraries"/>
+		<term name="Computer networks"/>
+		<term name="Computer software"/>
+		<term name="Data banks"/>
+		<term name="Federal aid to libraries"/>
+		<term name="Information services"/>
+		<term name="Information storage and retrieval systems"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/22/1993--Introduced.
+Authorizes the National Science Foundation to make grants to States to develop electronic libraries.
+
+	</summary>
+</bill>

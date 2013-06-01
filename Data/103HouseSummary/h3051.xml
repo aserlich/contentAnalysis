@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="3051" updated="2010-04-19T07:06:49-04:00">
+	<state datetime="1993-10-08">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-10-08" /></status>
+
+	<introduced datetime="1993-09-13"/>
+	<titles>
+		<title type="official" as="introduced">To provide that certain property located in the State of Oklahoma owned by an Indian housing authority for the purpose of providing low-income housing shall be treated as Federal property under the Act of September 30, 1950 (Public Law 874, 81st Congress).</title>
+	</titles>
+	<sponsor id="401774"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-13"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-09-21T15:21:00-04:00"><text>Mr. Kildee moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-09-21T15:21:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6807-6808"/></action>
+		<action datetime="1993-09-21T15:21:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-09-21T15:24:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Solomon objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1993-09-21T18:13:00-04:00"><text>Considered as unfinished business.</text></action>
+		<vote how="roll" type="vote" roll="443" datetime="1993-09-21T18:21:00-04:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 358 - 69 (Roll no. 443).</text></vote>
+		<action datetime="1993-09-21T18:21:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-09-22"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-09-23" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S12463"/></vote>
+		<topresident datetime="1993-09-23" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-09-24"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-09-29" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-10-08" ><text>Signed by President.</text></signed>
+		<enacted number="103-102" type="public" datetime="1993-10-08"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-102.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Housing"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal aid to housing"/>
+		<term name="Indian housing"/>
+		<term name="Indian lands"/>
+		<term name="Low-income housing"/>
+		<term name="Oklahoma"/>
+		<term name="Payments in lieu of taxes"/>
+		<term name="Public lands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/13/1993--Introduced.
+Treates certain Indian low-income housing in Oklahoma as Federal property.
+
+	</summary>
+</bill>

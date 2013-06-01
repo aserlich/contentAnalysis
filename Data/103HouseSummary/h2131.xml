@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="2131" updated="2010-04-19T04:44:15-04:00">
+	<state datetime="1993-05-17">REFERRED</state>
+	<status><introduced datetime="1993-05-17"/></status>
+
+	<introduced datetime="1993-05-17"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Defense Base Closure and Realignment Act of 1990 to require that testimony before the Defense Base Closure and Realignment Commission be given under oath.</title>
+	</titles>
+	<sponsor id="400264"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-17"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-05-19"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Installations and Facilities.</text></action>
+		<action datetime="1993-05-19"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Installations and Facilities" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2237" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Military base closures"/>
+		<term name="Oaths"/>
+		<term name="Public meetings of administrative bodies"/>
+		<term name="Witnesses"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/17/1993--Introduced.
+Amends the Defense Base Closure and Realignment Act of 1990 to require that all testimony at public hearings conducted by the Defense Base Closure and Realignment Commission be presented under oath.
+
+	</summary>
+</bill>

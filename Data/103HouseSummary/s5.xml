@@ -1,0 +1,152 @@
+<bill session="103" type="s" number="5" updated="2012-07-17T06:28:21-04:00">
+	<state datetime="1993-01-26">REPORTED</state>
+	<status><calendar datetime="1993-01-26" /></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="popular" as="">Family &amp; Medical Leave bill</title>
+		<title type="short" as="introduced">Family and Medical Leave Act of 1993</title>
+		<title type="official" as="introduced">A bill to grant family and temporary medical leave under certain circumstances.</title>
+	</titles>
+	<sponsor id="300034"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="1993-01-21"/>
+		<cosponsor id="300060" joined="1993-01-21"/>
+		<cosponsor id="300059" joined="1993-01-21"/>
+		<cosponsor id="300043" joined="1993-01-21"/>
+		<cosponsor id="400557" joined="1993-01-21"/>
+		<cosponsor id="405212" joined="1993-01-21"/>
+		<cosponsor id="401709" joined="1993-01-21"/>
+		<cosponsor id="409225" joined="1993-01-21"/>
+		<cosponsor id="300082" joined="1993-01-21"/>
+		<cosponsor id="300011" joined="1993-01-21"/>
+		<cosponsor id="409917" joined="1993-01-21"/>
+		<cosponsor id="300066" joined="1993-01-21"/>
+		<cosponsor id="300086" joined="1993-01-21"/>
+		<cosponsor id="300008" joined="1993-01-21"/>
+		<cosponsor id="300001" joined="1993-01-21"/>
+		<cosponsor id="400563" joined="1993-01-21"/>
+		<cosponsor id="300073" joined="1993-01-21"/>
+		<cosponsor id="407663" joined="1993-01-21"/>
+		<cosponsor id="403142" joined="1993-01-21"/>
+		<cosponsor id="402675" joined="1993-01-21"/>
+		<cosponsor id="300067" joined="1993-01-21"/>
+		<cosponsor id="407786" joined="1993-01-21"/>
+		<cosponsor id="408420" joined="1993-01-21"/>
+		<cosponsor id="300061" joined="1993-01-21"/>
+		<cosponsor id="300092" joined="1993-01-21"/>
+		<cosponsor id="300031" joined="1993-01-21"/>
+		<cosponsor id="300017" joined="1993-01-21"/>
+		<cosponsor id="300005" joined="1993-02-24"/>
+		<cosponsor id="300084" joined="1993-01-21"/>
+		<cosponsor id="300051" joined="1993-01-21"/>
+		<cosponsor id="300057" joined="1993-01-21"/>
+		<cosponsor id="300009" joined="1993-01-21"/>
+		<cosponsor id="404219" joined="1993-01-21"/>
+		<cosponsor id="403346" joined="1993-01-21"/>
+		<cosponsor id="402412" joined="1993-01-21"/>
+		<cosponsor id="408597" joined="1993-01-21"/>
+		<cosponsor id="411818" joined="1993-02-24"/>
+		<cosponsor id="400561" joined="1993-01-21"/>
+		<cosponsor id="403962" joined="1993-01-21"/>
+		<cosponsor id="300010" joined="1993-01-21"/>
+		<cosponsor id="404598" joined="1993-02-24"/>
+		<cosponsor id="300076" joined="1993-01-21"/>
+		<cosponsor id="400566" joined="1993-01-21"/>
+		<cosponsor id="407992" joined="1993-01-21"/>
+		<cosponsor id="300064" joined="1993-01-21"/>
+		<cosponsor id="300042" joined="1993-01-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S259-260)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<action datetime="1993-01-22"><committee name="Committee on Labor and Human Resources"/><text>Subcommittee on Children, Family, Drugs, Alcohol. Hearings held. Hearings printed: S.Hrg. 103-18.</text></action>
+		<calendar datetime="1993-01-26"  state="REPORTED"><text>Committee on Labor and Human Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-01-27"><text>Committee on Labor and Human Resources. Reported to Senate by Senator Kennedy without amendment. With written report No. 103-3. Minority views filed.</text></action>
+		<calendar under="General Orders" number="3" datetime="1993-01-27" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 3.</text></calendar>
+		<action datetime="1993-02-02"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S985-1028"/></action>
+		<action datetime="1993-02-03"><text>Considered by Senate.</text><reference label="consideration" ref="CR S1090-1130, S1134-1140, S1142-1143"/></action>
+		<action datetime="1993-02-03"><text>Cloture motion presented in Senate.</text><reference label="consideration" ref="CR S1143"/></action>
+		<action datetime="1993-02-04"><text>Considered by Senate.</text><reference label="consideration" ref="CR S1254-1259, S1262-1349"/></action>
+		<action datetime="1993-02-04"><text>Senate incorporated this measure in H.R. 1 as an amendment.</text></action>
+		<action datetime="1993-02-04"><text>Senate passed companion measure H.R. 1 in lieu of this measure by Yea-Nay Vote. 71-27. Record Vote No: 11.</text></action>
+		<action datetime="1993-02-04"><text>Indefinitely postponed by Senate by Voice Vote.</text><reference label="consideration" ref="CR S1512"/></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Labor and Human Resources" subcommittee="Children, Family, Drugs and Alcoholism" activity="Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="superseded" session="103" type="h" number="1" />
+		<bill relation="unknown" session="103" type="h" number="1" />
+		<bill relation="unknown" session="103" type="h" number="1" />
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Actions and defenses"/>
+		<term name="Adoption"/>
+		<term name="Caregivers"/>
+		<term name="Child health"/>
+		<term name="Congressional employees"/>
+		<term name="Congressional hearings"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Damages"/>
+		<term name="Discrimination in employment"/>
+		<term name="Employee benefit plans"/>
+		<term name="Employee rights"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal employees"/>
+		<term name="Foster home care"/>
+		<term name="Gay military personnel"/>
+		<term name="Gay rights"/>
+		<term name="Government employees' health insurance"/>
+		<term name="Health"/>
+		<term name="Health insurance"/>
+		<term name="House of Representatives"/>
+		<term name="Injunctions"/>
+		<term name="Leave of absence"/>
+		<term name="Legal fees"/>
+		<term name="Limitation of actions"/>
+		<term name="Maternity leave"/>
+		<term name="Military law"/>
+		<term name="Parental leave"/>
+		<term name="Parents"/>
+		<term name="Private schools"/>
+		<term name="School districts"/>
+		<term name="School personnel"/>
+		<term name="Senate"/>
+		<term name="Sick leave"/>
+		<term name="Small business"/>
+		<term name="Teachers"/>
+		<term name="Transfer of employees"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1"/>
+		<amendment number="s2"/>
+		<amendment number="s3"/>
+		<amendment number="s4"/>
+		<amendment number="s5"/>
+		<amendment number="s6"/>
+		<amendment number="s7"/>
+		<amendment number="s8"/>
+		<amendment number="s9"/>
+		<amendment number="s10"/>
+		<amendment number="s11"/>
+		<amendment number="s12"/>
+		<amendment number="s13"/>
+		<amendment number="s14"/>
+		<amendment number="s15"/>
+		<amendment number="s16"/>
+		<amendment number="s17"/>
+		<amendment number="s18"/>
+		<amendment number="s19"/>
+		<amendment number="s20"/>
+		<amendment number="s21"/>
+		<amendment number="s22"/>
+	</amendments>
+	<summary>
+	2/4/1993--Indefinitely postponed in Senate. TABLE OF CONTENTS: Title I: General Requirements for Leave Title II: Leave for Civil Service Employees Title III: Commission on Leave Title IV: Miscellaneous Provisions Title V: Coverage of Congressional Employees Title VI: Sense of Congress Family and Medical Leave Act of 1993 - Title I: General Requirements for Leave - Establishes certain requirements for unpaid family and medical leave for permanent employees. (Sec. 101) Makes employees eligible for such leave if they have been employed, by the employer from whom leave is sought, for at least: (1) a total of 12 months; and (2) 1,250 hours of service during the previous 12-month period. (Excludes from such coverage: (1) employees at worksites at which the employer employs less than 50 persons, if the total number of employees of that employer within 75 miles of that worksite is less than 50; and (2) Federal officers and employees covered under title II of this Act.) (Sec. 102) Entitles employees to 12 workweeks of leave during any 12-month period because of: (1) the birth of their child; (2) the placement of a child for their adoption or foster care; (3) their care of a child, spouse, or parent who has a serious health condition; or (4) their own serious health condition which makes them unable to perform the functions of their position. Conditions such leave for the birth or placement of a child as follows: (1) the entitlement ends 12 months after the birth or placement; and (2) such leave may not be taken intermittently unless employee and employer agree otherwise. Allows intermittent leave for necessary medical treatment of an employee or family member. Allows the employer to require a temporary transfer to an equivalent alternative position that better accommodates such intermittent leave. Allows all leave under this title: (1) to be taken on a reduced leave schedule, upon agreement with the employer; and (2) to consist of unpaid leave, except under specified conditions when substitution of certain types of paid leave may be elected or required. Does not require an employer to provide paid sick or medical leave in any situation in which the employer would not normally provide any such paid leave. Requires employees to: (1) give at least 30 days' notice of the need for leave to which they are entitled under this Act, when foreseeable; and (2) make a reasonable effort to schedule medical treatment or supervision so as not to disrupt unduly the employer's operations, subject to approval of the health care provider. Allows limitation of the dual aggregate leave entitlement to 12 weeks in any 12-month period, in the case of spouses employed by the same employer, if such leave is for the birth or placement of a child or for the care of a sick parent. (Sec. 103) Sets forth conditions of certification for leave entitlements under this Act. (Sec. 104) Requires restoration of the employee to his or her position or an equivalent position upon return from such leave. Allows an employer to deny such restoration to certain highly compensated employees, under specified conditions (the highest paid ten percent of the employer's employees within a 75-mile radius of a facility; the denial must be necessary to prevent substantial and grievous economic injury to the employer's operations). Requires maintenance of employee health benefits during such leave. (Sec. 105) Prohibits interference with or discrimination against employees exercising rights under this title. (Sec. 106) Sets forth the investigative authority of the Secretary of Labor under this title. (Sec. 107) Provides for enforcement of this Act. Provides for administrative and civil actions. Makes an employer who violates this title's prohibitions against interference or discrimination liable for damages in the amount of: (1) any wages, salary, employment benefits, or other compensation denied or lost; (2) (where such compensation has not been denied or lost) any actual monetary losses, such as the cost of providing care; (3) interest on such losses; and (4) liquidated damages under certain conditions. Makes such employers also liable for appropriate equitable relief, including, without limitation, employment, reinstatement, and promotion. Sets forth provisions for attorney's fees, limitation of actions, and injunctions, other equitable relief, and the Solicitor of Labor's role in such litigation. (Sec. 108) Sets forth special rules concerning employees of local educational agencies and of private elementary and secondary schools. (Sec. 109) Sets forth requirements for posting notice and for fines. Title II: Leave for Civil Service Employees - (Sec. 201) Entitles eligible civil service employees to family and temporary medical leave for specified periods. Allows up to 12 administrative workweeks of leave without pay (or substituted paid leave) in any 12-month period for: (1) family leave (i.e., leave because of the birth or placement of a child or care of a sick spouse, child, or parent); or (2) temporary medical leave for a serious health condition that makes the employee unable to perform the functions of their position. Sets forth: (1) requirements for employees to give prior notice; (2) certification provisions; (3) protections for job position and health insurance benefits; and (4) prohibitions against coercion. Requires the Office of Personnel Management to prescribe regulations for this title which are consistent with the regulations prescribed by the Secretary of Labor under title I of this Act. Title III: Commission on Leave - (Sec. 301) Establishes the Commission on Leave. (Sec. 302) Requires the Commission to conduct a comprehensive study of: (1) existing and proposed leave policies; (2) the potential costs, benefits, and impact on productivity of such policies on employers; and (3) alternative and equivalent State enforcement of this Act with respect to employees of local educational agencies and private schools. Requires the Commission to report on such study to the Congress within two years after the Commission first meets. (Sec. 306) Terminates the Commission within 30 days after its report to the Congress. Title IV: Miscellaneous Provisions - (Sec. 401 and Sec. 402) Sets forth the effect of this Act on other laws and existing employment benefits. (Sec. 403) Provides that nothing in this Act shall be construed to discourage employers from adopting more generous leave policies. (Sec. 404) Directs the Secretary of Labor to prescribe regulations to carry out this title (except those provisions applicable to the Senate) within 60 days. Title V: Coverage of Congressional Employees - (Sec. 501) Applies the rights and protections established under specified provisions of title I of this Act to Senate employees. Makes specified provisions of the Government Employee Rights Act of 1991 applicable, with certain exceptions. Provides that allegations shall be considered by the Office of Senate Fair Employment Practices or another entity designated by the Senate. Requires such Office to ensure that Senate employees are informed of their rights under this Act. (Sec. 502) Applies the rights and protections under title I of this Act to employees of the House of Representatives, except for the exemption concerning highly compensated employees. Requires that the remedies and procedures under the Fair Employment Practices Resolution be applied in administering such coverage. Title VI: Sense of Congress - Expresses the sense of the Congress that: (1) the Secretary of Defense shall conduct a comprehensive review of current departmental policy with respect to the service of homosexuals in the armed forces, including specified considerations, and report, with recommendations, to the the President and the Congress by July 15, 1993; and (2) the Senate Committee on Armed Services shall conduct comprehensive hearings on such policy and oversight hearings on such Secretary's recommendations.
+
+	</summary>
+</bill>

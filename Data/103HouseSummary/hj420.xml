@@ -1,0 +1,44 @@
+<bill session="103" type="hj" number="420" updated="2010-04-18T22:58:24-04:00">
+	<state datetime="1994-09-30">REFERRED</state>
+	<status><introduced datetime="1994-09-30"/></status>
+
+	<introduced datetime="1994-09-30"/>
+	<titles>
+		<title type="official" as="introduced">To approve the location of a Thomas Paine Memorial.</title>
+	</titles>
+	<sponsor id="400246"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-30"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-10-06"><committee name="House Committee on Natural Resources"/><text>Late Referral to the Subcommittee on National Parks, Forests and Public Lands (Nov 21, 94).</text></action>
+		<action datetime="1994-10-07"><committee name="House Committee on Natural Resources"/><text>See S.J.Res.227.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="sj" number="227" />
+		<bill relation="unknown" session="103" type="sj" number="227" />
+	</relatedbills>
+	<subjects>
+		<term name="Monuments and memorials"/>
+		<term name="American Revolution"/>
+		<term name="Armed forces"/>
+		<term name="Commemorations"/>
+		<term name="District of Columbia"/>
+		<term name="History"/>
+		<term name="Military history"/>
+		<term name="Veterans"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/1994--Introduced.
+Approves a specified location on Federal land in the District of Columbia for a Thomas Paine Memorial.
+
+	</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="103" type="h" number="989" updated="2010-04-19T01:41:30-04:00">
+	<state datetime="1993-02-18">REFERRED</state>
+	<status><introduced datetime="1993-02-18"/></status>
+
+	<introduced datetime="1993-02-18"/>
+	<titles>
+		<title type="official" as="introduced">To provide that the State Health Insurance Program of Hawaii is eligible for reimbursement from certain funds appropriated to the Public Health and Social Services Emergency Fund, and for other purposes.</title>
+	</titles>
+	<sponsor id="400554"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-18"><text>Sponsor introductory remarks on measure. (CR H698-699)</text></action>
+		<action datetime="1993-02-18"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-03-01"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="140" />
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Government trust funds"/>
+		<term name="Hawaii"/>
+		<term name="Health insurance"/>
+		<term name="State finance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/18/1993--Introduced.
+Makes expenses incurred during the year after enactment of this Act by the State of Hawaii for operating its State Health Insurance Program eligible for reimbursement from funds appropriated to the Public Health and Social Services Emergency Fund under a specified public law and subsequent appropriations Acts.
+
+	</summary>
+</bill>

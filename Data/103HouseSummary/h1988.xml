@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="1988" updated="2010-04-19T04:22:11-04:00">
+	<state datetime="1993-05-05">REFERRED</state>
+	<status><introduced datetime="1993-05-05"/></status>
+
+	<introduced datetime="1993-05-05"/>
+	<titles>
+		<title type="short" as="introduced">Right to View Professional Sports Act of 1993</title>
+		<title type="official" as="introduced">To amend title 17, United States Code, and the Communications Act of 1934 with respect to the public performance, by means of the display of video programming at places of public accommodation, of games between professional sports teams.</title>
+	</titles>
+	<sponsor id="400243"/>
+	<cosponsors>
+		<cosponsor id="400554" joined="1993-07-26"/>
+		<cosponsor id="400310" joined="1994-04-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-05-05"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-06"><text>Sponsor introductory remarks on measure. (CR E1173)</text></action>
+		<action datetime="1993-05-07"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+		<action datetime="1993-06-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Copyright"/>
+		<term name="Cable television"/>
+		<term name="Communication satellites"/>
+		<term name="Copyright infringement"/>
+		<term name="Fees"/>
+		<term name="Hotels, motels, etc."/>
+		<term name="Professional sports"/>
+		<term name="Restaurants"/>
+		<term name="Television broadcasting of sports"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/5/1993--Introduced.
+Right to View Professional Sports Act of 1993 - Exempts from copyright infringement public performance by means of the display of video programming at a place of public accommodation of any game between professional sports teams, if a reasonable fee is paid to the copyright owners for such performance. Requires the Copyright Royalty Tribunal to determine, adjust, and publish such reasonable fees taking into account the average fair market price for comparable programming provided by cable systems and satellite carriers to other places of public accommodation in the same local geographic area. Amends the Communications Act of 1934 to make provisions relating to prohibition of specified practices of unauthorized publication or use of communications inapplicable to the interception, receipt, and display of video programming at a place of public accommodation of any game between professional sports teams if the copyright owners for public performance of such game receive a reasonable fee from the owner or operator of the place of public accommodation.
+
+	</summary>
+</bill>

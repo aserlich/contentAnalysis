@@ -1,0 +1,75 @@
+<bill session="103" type="s" number="1913" updated="2010-04-19T19:28:32-04:00">
+	<state datetime="1994-04-06">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-04-06" /></status>
+
+	<introduced datetime="1994-03-09"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend certain compliance dates for pesticide safety training and labeling requirements.</title>
+	</titles>
+	<sponsor id="300023"/>
+	<cosponsors>
+		<cosponsor id="300029" joined="1994-03-11"/>
+		<cosponsor id="406256" joined="1994-03-11"/>
+		<cosponsor id="408898" joined="1994-03-09"/>
+		<cosponsor id="300010" joined="1994-03-17"/>
+		<cosponsor id="406188" joined="1994-03-09"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1994-03-09" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S2624-2625"/></vote>
+		<action datetime="1994-03-10T10:01:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-03-10"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-03-10"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-03-17T18:36:00-05:00"><text>Committee on Agriculture discharged.</text></action>
+		<action datetime="1994-03-17T18:36:00-05:00"><text>Mr. de la Garza asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1994-03-17T18:38:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H1507-1508"/></action>
+		<vote how="without objection" type="vote2" datetime="1994-03-17T18:38:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-03-17T18:39:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-03-17"><text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text></action>
+		<action datetime="1994-03-24"><text>Senate agreed to the House amendment by Voice Vote.</text><reference label="consideration" ref="CR S3804"/></action>
+		<topresident datetime="1994-03-24" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-03-25"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-03-25" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-04-06" ><text>Signed by President.</text></signed>
+		<enacted number="103-231" type="public" datetime="1994-04-06"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-231.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Administrative procedure"/>
+		<term name="Agricultural accidents and safety"/>
+		<term name="Agricultural labor"/>
+		<term name="Agriculture"/>
+		<term name="Clothing industry"/>
+		<term name="Consumer education"/>
+		<term name="Consumers"/>
+		<term name="Employee training"/>
+		<term name="Environmental Protection Agency"/>
+		<term name="Executive departments"/>
+		<term name="Government information"/>
+		<term name="Government publications"/>
+		<term name="Hazardous substances"/>
+		<term name="Information services"/>
+		<term name="Irrigation"/>
+		<term name="Job training"/>
+		<term name="Labeling"/>
+		<term name="Labor"/>
+		<term name="Medicine"/>
+		<term name="Occupational health and safety"/>
+		<term name="Pesticide regulation"/>
+		<term name="Pesticides"/>
+		<term name="State and local government"/>
+		<term name="Water resources"/>
+	</subjects>
+	<amendments>
+		<amendment number="h472"/>
+	</amendments>
+	<summary>
+	3/17/1994--Passed House amended. Provides that, until January 1, 1995, it shall not be a misuse to use any pesticide product in a manner inconsistent with specified Federal regulations governing worker protection and pesticide safety that are subject to a compliance date of April 15, 1994. Makes this delay in compliance inapplicable to specific worker protection requirements that appear directly on the label of the pesticide product. Permits workers, until January 1, 1995, to enter areas treated with a pesticide product during the restricted entry interval specified on the product label to perform tasks related to the production of agricultural plants if the agricultural employer ensures that: (1) no hand labor activity is performed; (2) no entry is allowed for the first four hours following the application of the product; (3) no entry is allowed until any inhalation exposure level listed on the product labeling has been reached; and (4) the personal protective equipment specified on the product labeling for early entry is provided in clean and operating condition to the worker. Authorizes employers, for irrigation work for which the only contact with treated surfaces is to the feet, lower legs, hands, and arms, to provide coveralls and chemical resistant gloves and footwear instead of specified protective equipment. Provides that, until January 1, 1995, crop advisors shall not be considered workers or handlers and shall not be subject to Federal regulations governing worker protection and pesticide safety requirements. Directs the Administrator of the Environmental Protection Agency to: (1) develop and distribute pesticide safety training materials that convey, at a minimum, information set forth in specified Federal regulations; and (2) assist the appropriate Federal, State, and tribal agencies in implementing required pesticide safety training programs.
+
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="4346" updated="2010-04-19T10:28:27-04:00">
+	<state datetime="1994-05-04">REFERRED</state>
+	<status><introduced datetime="1994-05-04"/></status>
+
+	<introduced datetime="1994-05-04"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit the Secretary of Defense from transporting across State lines chemical munitions in the chemical weapons stockpile, and for other purposes.</title>
+	</titles>
+	<sponsor id="409829"/>
+	<cosponsors>
+		<cosponsor id="408364" joined="1994-06-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-04"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-05-10"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Acquisition.</text></action>
+		<action datetime="1994-05-10"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Acquisition" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Chemical weapons"/>
+		<term name="Defense policy"/>
+		<term name="Hazardous substances"/>
+		<term name="Military bases"/>
+		<term name="Transportation"/>
+		<term name="Transportation of hazardous substances"/>
+		<term name="Weapons systems"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/4/1994--Introduced.
+Prohibits the Secretary of Defense from transporting across State lines any chemical munition that is part of the chemical weapons stockpile. Directs the Secretary to transport to the nearest chemical munitions stockpile facility any chemical munitions discovered or that otherwise come under the Secretary's control and that do not constitute part of the stockpile.
+
+	</summary>
+</bill>

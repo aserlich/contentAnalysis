@@ -1,0 +1,74 @@
+<bill session="103" type="s" number="1527" updated="2012-07-17T05:06:26-04:00">
+	<state datetime="1994-02-10">REPORTED</state>
+	<status><calendar datetime="1994-02-10" /></status>
+
+	<introduced datetime="1993-10-07"/>
+	<titles>
+		<title type="short" as="introduced">Fair Trade in Financial Services Act of 1993</title>
+		<title type="short" as="reported to senate">Fair Trade in Financial Services Act of 1994</title>
+		<title type="official" as="introduced">A bill to provide for fair trade in financial services.</title>
+	</titles>
+	<sponsor id="409225"/>
+	<cosponsors>
+		<cosponsor id="409580" joined="1993-10-07"/>
+		<cosponsor id="300060" joined="1993-10-07"/>
+		<cosponsor id="300036" joined="1993-10-07"/>
+		<cosponsor id="403142" joined="1993-10-07"/>
+		<cosponsor id="300086" joined="1993-10-07"/>
+		<cosponsor id="400557" joined="1993-10-07"/>
+		<cosponsor id="300010" joined="1993-11-08"/>
+		<cosponsor id="300076" joined="1993-10-07"/>
+		<cosponsor id="300089" joined="1993-10-07"/>
+		<cosponsor id="300011" joined="1993-10-07"/>
+		<cosponsor id="300017" joined="1993-10-07"/>
+		<cosponsor id="300064" joined="1994-01-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-07" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S13272-13275)</text></action>
+		<action datetime="1993-10-07" state="REFERRED"><text>Read twice and referred to the Committee on Banking.</text></action>
+		<action datetime="1993-10-26"><committee name="Committee on Banking"/><text>Committee on Banking. Hearings held. Hearings printed: S.Hrg. 103-396.</text></action>
+		<calendar datetime="1994-02-10"  state="REPORTED"><committee name="Committee on Banking"/><text>Committee on Banking. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-03-15"><text>Committee on Banking. Reported to Senate by Senator Riegle with an amendment in the nature of a substitute. With written report No. 103-235.</text></action>
+		<calendar under="General Orders" number="385" datetime="1994-03-15" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 385.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3248" />
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="American investments"/>
+		<term name="Bank holding companies"/>
+		<term name="Brokers"/>
+		<term name="Commerce"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Corporate mergers"/>
+		<term name="Economics and public finance"/>
+		<term name="Financial services"/>
+		<term name="Foreign banks and banking"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Governmental investigations"/>
+		<term name="International banking"/>
+		<term name="International competitiveness"/>
+		<term name="Investment advisers"/>
+		<term name="Nontariff trade barriers"/>
+		<term name="Reciprocity"/>
+		<term name="Securities industry"/>
+		<term name="Securities regulation"/>
+		<term name="Trade agreements"/>
+		<term name="Trade negotiations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/15/1994--Reported to Senate amended. Fair Trade in Financial Services Act of 1994 - Amends the International Banking Act of 1978 to direct the Secretary of the Treasury (the Secretary) to: (1) identify the extent to which a foreign country denies national treatment to U.S. banking and securities organizations; and (2) determine whether such denial has a significant adverse effect upon them. Authorizes the Secretary to: (1) publish the determinations of adverse effect in the Federal Register; and (2) subsequently recommend to Federal banking agencies and the Securities and Exchange Commission (SEC) that they deny, under specified circumstances, applications filed by entities of such identified countries. Prohibits a financial services organization of such a country from commencing any line of business in the United States in which, as of the Secretary's publication date, it was not engaged, or conduct business from any location at which the organization did not conduct business as of that date. Requires securities organizations from those countries to notify the SEC and gain its approval before acquiring control of any registered domestic securities organization. Prescribes guidelines for the Secretary to initiate negotiations with foreign countries that deny national treatment for U.S. banking and securities organizations. Requires the Secretary to submit a biennial status report to the Congress. Amends the Omnibus Trade and Competitiveness Act of 1988 to direct the Secretary to investigate and report to the President and the Congress on: (1) the extent of the interdependence of U.S. financial services sectors and certain foreign countries; and (2) the economic and strategic consequences of that interdependence for the United States.
+
+	</summary>
+</bill>

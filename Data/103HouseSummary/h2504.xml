@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="2504" updated="2010-04-19T05:41:58-04:00">
+	<state datetime="1993-06-23">REFERRED</state>
+	<status><introduced datetime="1993-06-23"/></status>
+
+	<introduced datetime="1993-06-23"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 10, United States Code, to require the Secretary of Defense to adopt centralized procedures for providing notice to victims and witnesses of the status of prisoners in military correctional facilities.</title>
+	</titles>
+	<sponsor id="300062"/>
+	<cosponsors>
+		<cosponsor id="400377" joined="1993-06-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-23"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-06-25"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-06-25"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Criminal justice information systems"/>
+		<term name="Information services"/>
+		<term name="Military prisons"/>
+		<term name="Prisoners"/>
+		<term name="Victims of crimes"/>
+		<term name="Witnesses"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/23/1993--Introduced.
+Directs the Secretary of Defense to prescribe procedures and implement a centralized system for providing notice of the status of offenders confined in military correctional facilities to witnesses and victims.
+
+	</summary>
+</bill>

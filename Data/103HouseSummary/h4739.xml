@@ -1,0 +1,66 @@
+<bill session="103" type="h" number="4739" updated="2010-04-19T11:30:20-04:00">
+	<state datetime="1994-07-13">REFERRED</state>
+	<status><introduced datetime="1994-07-13"/></status>
+
+	<introduced datetime="1994-07-13"/>
+	<titles>
+		<title type="short" as="introduced">Congressional Occupational Safety and Health Act</title>
+		<title type="official" as="introduced">To extend certain requirements and standards under the Occupational Safety and Health Act of 1970 to the legislative branch.</title>
+	</titles>
+	<sponsor id="402152"/>
+	<cosponsors>
+		<cosponsor id="400553" joined="1994-07-28"/>
+		<cosponsor id="400246" joined="1994-07-29"/>
+		<cosponsor id="408109" joined="1994-08-05"/>
+		<cosponsor id="402890" joined="1994-07-22"/>
+		<cosponsor id="400578" joined="1994-07-26"/>
+		<cosponsor id="400416" joined="1994-07-29"/>
+		<cosponsor id="407306" joined="1994-07-22"/>
+		<cosponsor id="400615" joined="1994-07-22"/>
+		<cosponsor id="404190" joined="1994-08-01"/>
+		<cosponsor id="406024" joined="1994-08-19"/>
+		<cosponsor id="300058" joined="1994-07-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-13"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1994-07-13"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1994-07-19"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+		<action datetime="1994-08-04"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor Standards, Occupational Health and Safety.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-10" name="House Education and Labor" subcommittee="Labor Standards, Occupational Health and Safety" activity="Referral" />
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional employees"/>
+		<term name="Congressional privileges and immunities"/>
+		<term name="Government consultants"/>
+		<term name="Government employees"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Government procurement"/>
+		<term name="Government service contracts"/>
+		<term name="Health policy"/>
+		<term name="Health surveys"/>
+		<term name="Labor"/>
+		<term name="Medical care"/>
+		<term name="Medicine"/>
+		<term name="Occupational health and safety"/>
+		<term name="Public contracts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/13/1994--Introduced.
+Congressional Occupational Safety and Health Act - Requires each employing authority in the legislative branch to comply with employer duties and occupational safety and health standards under the Occupational Safety and Health Act of 1970. Directs the Comptroller General to procure by contract the services of an expert consultant in identification and correction of workplace safety and health hazards. Requires biennial reports. Limits contract authority under this Act to the extent and amounts provided in advance in appropriation Acts.
+
+	</summary>
+</bill>

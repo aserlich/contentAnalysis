@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="3996" updated="2010-04-19T09:33:47-04:00">
+	<state datetime="1994-03-10">REFERRED</state>
+	<status><introduced datetime="1994-03-10"/></status>
+
+	<introduced datetime="1994-03-10"/>
+	<titles>
+		<title type="official" as="introduced">To suspend for the period January 1, 1994, to April 30, 1994, the duty on frozen onions.</title>
+	</titles>
+	<sponsor id="400085"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-10"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-03-14"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1994-04-05"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1994-06-23"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Agriculture"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Frozen food"/>
+		<term name="Tariff"/>
+		<term name="Trade"/>
+		<term name="Vegetables and vegetable trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/10/1994--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through April 30, 1994, the duty on frozen onions.
+
+	</summary>
+</bill>

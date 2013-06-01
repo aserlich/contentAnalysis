@@ -1,0 +1,97 @@
+<bill session="103" type="h" number="2632" updated="2010-04-19T06:01:51-04:00">
+	<state datetime="1993-12-03">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-03" /></status>
+
+	<introduced datetime="1993-07-14"/>
+	<titles>
+		<title type="short" as="introduced">Patent and Trademark Office Authorization Act of 1993</title>
+		<title type="short" as="passed house">Patent and Trademark Office Authorization Act of 1993</title>
+		<title type="short" as="passed senate">Patent and Trademark Office Authorization Act of 1993</title>
+		<title type="short" as="enacted">Patent and Trademark Office Authorization Act of 1993</title>
+		<title type="official" as="introduced">To authorize appropriations for the Patent and Trademark Office in the Department of Commerce for fiscal year 1994.</title>
+	</titles>
+	<sponsor id="405775"/>
+	<cosponsors>
+		<cosponsor id="407899" joined="1993-07-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-14"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-07-19"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Intellectual Property and Judicial Administration.</text></action>
+		<action datetime="1993-07-28"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-08-05"><committee name="House Committee on Judiciary" subcommittee="Intellectual Property and Judicial Administration"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-10-06"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-10-06"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1993-10-12T12:03:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 103-285.</text></action>
+		<calendar number="157" datetime="1993-10-12T12:04:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 157.</text></calendar>
+		<action datetime="1993-10-12T14:22:00-04:00"><text>Mr. Brooks moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-10-12T14:23:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7697-7698"/></action>
+		<action datetime="1993-10-12T14:23:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-10-12T14:31:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-10-12T14:31:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-10-14"><text>Received in the Senate.</text></action>
+		<calendar under="General Orders" number="240" datetime="1993-10-20" calendar="Senate Legislative" ><text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 240.</text></calendar>
+		<action datetime="1993-11-11"><text>Measure laid before Senate. (consideration: CR 11/10/1993 S15633-15634)</text></action>
+		<action datetime="1993-11-11"><text>Amendment SP 1161 proposed by Senator Ford for Senator Glenn.</text></action>
+		<action datetime="1993-11-11"><text>Amendment SP 1161 agreed to in Senate by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-11-11" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment by Voice Vote. (consideration: CR 11/10/1993 S15633-15634)</text></vote>
+		<action datetime="1993-11-15"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-19T17:15:00-05:00"><text>Mr. Brooks asked unanimous consent that the House agree with amendments to the Senate amendment.</text></action>
+		<action datetime="1993-11-19T17:16:00-05:00"><text>On motion that the House agree with amendments to the Senate amendment Agreed to without objection.</text><reference label="consideration" ref="CR H10256-10257"/></action>
+		<action datetime="1993-11-19T17:16:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-19T17:16:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-11-19"><text>Message on House action received in Senate and at desk: House amendment to Senate amendment.</text></action>
+		<action datetime="1993-11-20"><text>Senate agreed to the House amendments to the Senate amendment by Voice Vote.</text><reference label="consideration" ref="CR S16866-16867"/></action>
+		<topresident datetime="1993-11-20" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-11-22"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-11-23" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-03" ><text>Signed by President.</text></signed>
+		<enacted number="103-179" type="public" datetime="1993-12-03"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-179.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="HSJU-03" name="House Judiciary" subcommittee="Intellectual Property and Judicial Administration" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3379" />
+	</relatedbills>
+	<subjects>
+		<term name="Patents"/>
+		<term name="Administrative procedure"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Department of Commerce"/>
+		<term name="Diet"/>
+		<term name="Drug industry"/>
+		<term name="Electronic data processing"/>
+		<term name="Emblems"/>
+		<term name="Executive departments"/>
+		<term name="Fees"/>
+		<term name="Foreign trade"/>
+		<term name="Government procurement"/>
+		<term name="Intellectual property"/>
+		<term name="International affairs"/>
+		<term name="Medical care"/>
+		<term name="Medical supplies"/>
+		<term name="Medicine"/>
+		<term name="Oils and fats"/>
+		<term name="Patent agreements"/>
+		<term name="Patent licenses"/>
+		<term name="Private legislation"/>
+		<term name="Public contracts"/>
+		<term name="Trade"/>
+		<term name="Trademarks"/>
+		<term name="Veterans"/>
+		<term name="Veterans' organizations"/>
+		<term name="Women"/>
+		<term name="Women veterans"/>
+		<term name="Women's organizations"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1161"/>
+	</amendments>
+	<summary>
+	11/19/1993--House agreed to Senate amendment with amendment. Patent and Trademark Office Authorization Act of 1993 - Authorizes appropriations to the Patent and Trademark Office for FY 1994. Sets the trademark fee at $245 and prohibits any adjustments to such fee before October 1, 1994. Amends the Drug Price Competition and Patent Term Restoration Act of 1984 to authorize the owner of record of the patent or its agent to submit an application to the Commissioner of Patents and Trademarks for an interim extension of such patent if the owner or agent expects that the regulatory review period that began for the product involved may extend beyond such expiration. Directs the Commissioner to issue to the applicant a certificate of interim extension for a maximum one-year period, subject to specified conditions. Limits an applicant to four subsequent interim extensions and to one extension in some cases. Requires applications for such extensions to be made during the period beginning 60 days before, and ending 30 days before, the expiration of the preceding interim extension. Terminates such interim extension at the end of the 60-day period beginning on the date on which the product involved receives permission for commercial marketing or use, unless within such period, the applicant notifies the Commissioner of such permission and submits any additional information not previously contained in the interim extension application. Extends such patent for at least five years from the date of the expiration of the original patent term or, in certain circumstances, from the date on which the product involved receives approval for commercial marketing or use. Limits the rights derived from the extended patents during the period of interim extension in the case of a patent which claims a: (1) product, to any use then under regulatory review; (2) method of using a product, to any use claimed by the patent then under regulatory review; and (3) method of manufacturing a product, to the method of manufacturing as used to make the product then under regulatory review. Extends the terms of certain patents for the badges of the American Legion, the American Legion Women's Auxiliary, and the Sons of the American Legion.
+
+	</summary>
+</bill>

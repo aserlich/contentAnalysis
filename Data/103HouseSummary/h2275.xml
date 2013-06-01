@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="2275" updated="2010-04-19T05:06:38-04:00">
+	<state datetime="1993-05-26">REFERRED</state>
+	<status><introduced datetime="1993-05-26"/></status>
+
+	<introduced datetime="1993-05-26"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to treat ventilators, aspirators, and certain other items as miscellaneous items of durable medical equipment for purposes of determining the amount of payment for such items under part B of the medicare program.</title>
+	</titles>
+	<sponsor id="406482"/>
+	<cosponsors>
+		<cosponsor id="411040" joined="1993-06-10"/>
+		<cosponsor id="400520" joined="1994-07-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-26"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-05-26"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-28"><text>Sponsor introductory remarks on measure. (CR E1401)</text></action>
+		<action datetime="1993-06-02"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-07-01"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Medical care"/>
+		<term name="Medical supplies"/>
+		<term name="Medicare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/26/1993--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to treat ventilators, aspirators, and certain other items as miscellaneous items of durable medical equipment for purposes of determining payment for such items under Medicare part B (Supplementary Medical Insurance).
+
+	</summary>
+</bill>

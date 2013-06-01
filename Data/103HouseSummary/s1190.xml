@@ -1,0 +1,43 @@
+<bill session="103" type="s" number="1190" updated="2012-07-17T05:10:18-04:00">
+	<state datetime="1993-07-01">REFERRED</state>
+	<status><introduced datetime="1993-07-01"/></status>
+
+	<introduced datetime="1993-07-01"/>
+	<titles>
+		<title type="short" as="introduced">America Cares Act</title>
+		<title type="official" as="introduced">A bill to require the Secretary of Health and Human Services to establish an America Cares Program to provide for the establishment of demonstration projects for the provision of vouchers and cash contributions for goods and services for homeless individuals, to provide technical assistance and public information, and for other purposes.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+		<cosponsor id="300043" joined="1993-07-01"/>
+		<cosponsor id="300067" joined="1993-08-06"/>
+		<cosponsor id="300051" joined="1993-07-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-01" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8458-8459)</text></action>
+		<action datetime="1993-07-01" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<action datetime="1993-07-21"><committee name="Committee on Labor and Human Resources"/><text>Committee on Labor and Human Resources. Hearings held. Hearings printed: S.Hrg. 103-209.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Grants-in-aid"/>
+		<term name="Homeless"/>
+		<term name="Nonprofit organizations"/>
+		<term name="Public assistance programs"/>
+		<term name="Retail trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/1/1993--Introduced.
+America Cares Act - Directs the Secretary of Health and Human Services to establish the America Cares Program to make grants for homeless assistance demonstration projects.
+
+	</summary>
+</bill>

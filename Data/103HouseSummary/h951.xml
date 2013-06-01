@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="951" updated="2010-04-19T01:34:51-04:00">
+	<state datetime="1993-02-17">REFERRED</state>
+	<status><introduced datetime="1993-02-17"/></status>
+
+	<introduced datetime="1993-02-17"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to provide for the payment of the cemetery plot allowance for veterans eligible for burial in a national cemetery but interred in a State veterans cemetery, and for other purposes.</title>
+	</titles>
+	<sponsor id="409570"/>
+	<cosponsors>
+		<cosponsor id="400364" joined="1993-04-26"/>
+		<cosponsor id="408556" joined="1993-04-26"/>
+		<cosponsor id="400609" joined="1993-04-05"/>
+		<cosponsor id="400048" joined="1993-04-26"/>
+		<cosponsor id="407141" joined="1993-11-10"/>
+		<cosponsor id="402152" joined="1993-04-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-17"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-02-25"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Housing and Memorial Affairs.</text></action>
+		<action datetime="1993-03-04"><committee name="House Committee on Veterans' Affairs" subcommittee="Housing and Memorial Affairs"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Veterans' Affairs" subcommittee="Housing and Memorial Affairs"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Veterans' Affairs" subcommittee="Housing and Memorial Affairs"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Veterans' Affairs" subcommittee="Housing and Memorial Affairs" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Veterans"/>
+		<term name="Grants-in-aid"/>
+		<term name="Military cemeteries and funerals"/>
+		<term name="Veterans' benefits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/17/1993--Introduced.
+Directs the Secretary of Veterans Affairs to pay to a State a $150 plot allowance in the case of each veteran who is eligible for burial in a national cemetery but is buried in a State veterans' cemetery. Increases from 50 to 65 percent of the total value of land dedicated to State cemetery purposes the amount authorized for grants to States for aid in establishing, expanding, or improving State cemeteries.
+
+	</summary>
+</bill>

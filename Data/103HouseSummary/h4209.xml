@@ -1,0 +1,36 @@
+<bill session="103" type="h" number="4209" updated="2010-04-19T10:07:03-04:00">
+	<state datetime="1994-04-13">REFERRED</state>
+	<status><introduced datetime="1994-04-13"/></status>
+
+	<introduced datetime="1994-04-13"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of William P. Van Keymeulen.</title>
+	</titles>
+	<sponsor id="411178"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-13"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-04-19"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Immigration"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/13/1994--Introduced.
+Waives certain naturalization requirements under the Immigration and Nationality Act with regard to a named individual.
+
+	</summary>
+</bill>

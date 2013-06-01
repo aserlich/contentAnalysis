@@ -1,0 +1,62 @@
+<bill session="103" type="h" number="5139" updated="2012-07-17T06:03:37-04:00">
+	<state datetime="1994-10-05T18:16:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-05T18:16:00-04:00" where="h" result="pass" how="roll" roll="488"/></status>
+
+	<introduced datetime="1994-09-30"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 39, United States Code, to provide for procedures under which persons involuntarily separated by the United States Postal Service as a result of having been improperly arrested by the Postal Inspection Service on narcotics charges may seek reemployment.</title>
+	</titles>
+	<sponsor id="402626"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-30" state="REFERRED"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-10-04T21:18:00-04:00"><text>Mr. Clay moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-10-04T21:18:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10793-10796"/></action>
+		<action datetime="1994-10-04T21:19:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-04T21:35:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed until Oct. 5.</text></action>
+		<action datetime="1994-10-05T18:05:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10918-10919"/></action>
+		<vote how="roll" type="vote" roll="488" datetime="1994-10-05T18:16:00-04:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 300 - 117 (Roll no. 488).</text></vote>
+		<action datetime="1994-10-05T18:16:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-06"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Postal service"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Arrest"/>
+		<term name="Civil service pensions"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Dismissal of employees"/>
+		<term name="Drug abuse"/>
+		<term name="Employee rights"/>
+		<term name="Federal employees"/>
+		<term name="Government operations and politics"/>
+		<term name="Informers"/>
+		<term name="Labor and employment"/>
+		<term name="Law"/>
+		<term name="Limitation of actions"/>
+		<term name="Narcotic traffic"/>
+		<term name="Postal employees"/>
+		<term name="Salaries"/>
+		<term name="United States Postal Service"/>
+		<term name="Wage restitution"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/1994--Introduced.
+Requires the Judicial Officer of the Postal Service to establish procedures under which specified individuals involuntarily separated from the Postal Service may seek reemployment. Lists such individuals as persons separated as a result of having been arrested by the Postal Inspection Service: (1) after December 31, 1983; (2) pursuant to any investigation in which paid confidential informants were used; and (3) for violating any law prohibiting the use, sale, or possession of controlled substances. Authorizes an individual to petition for reemployment only if the individual was not convicted of the violation and has exhausted all administrative procedures for seeking reemployment within a specified time frame. Requires petitions to be considered by a panel of administrative law judges. Authorizes a panel to require the Postal Service to reemploy the petitioner if the petitioner was improperly arrested due to the actions of the Inspection Service or its informants. Requires the position in which the petitioner is reemployed to be reasonably similar to the position from which the petitioner was separated and the pay to be equivalent. Provides for back pay and retroactive contributions to the Civil Service Retirement and Disability Fund for reemployed individuals.
+
+	</summary>
+</bill>

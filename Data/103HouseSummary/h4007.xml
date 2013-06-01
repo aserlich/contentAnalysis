@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="4007" updated="2010-04-19T09:35:30-04:00">
+	<state datetime="1994-03-10">REFERRED</state>
+	<status><introduced datetime="1994-03-10"/></status>
+
+	<introduced datetime="1994-03-10"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Water Supply Act of 1958 to provide for the funding of capital improvements at the Washington Aqueduct, and for other purposes.</title>
+	</titles>
+	<sponsor id="400283"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1994-03-23"/>
+		<cosponsor id="400295" joined="1994-03-10"/>
+		<cosponsor id="400409" joined="1994-04-13"/>
+		<cosponsor id="400438" joined="1994-04-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-10"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-03-11"><committee name="House Committee on Public Works + Transportation"/><text>Sponsor introductory remarks on measure. (CR E418, E425)</text></action>
+		<action datetime="1994-03-24"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action datetime="1994-06-20"><committee name="House Committee on Public Works + Transportation" subcommittee="Water Resources and Environment"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1886" />
+		<bill relation="unknown" session="103" type="s" number="1886" />
+	</relatedbills>
+	<subjects>
+		<term name="Water"/>
+		<term name="Budgets"/>
+		<term name="District of Columbia"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Government lending"/>
+		<term name="Infrastructure"/>
+		<term name="Maryland"/>
+		<term name="Potable water"/>
+		<term name="Virginia"/>
+		<term name="Water rates"/>
+		<term name="Water resources"/>
+		<term name="Water supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/10/1994--Introduced.
+Amends the Water Supply Act of 1958 to allow the Chief of Engineers of the Army Corps of Engineers to borrow funds from the Federal Financing Bank to finance capital improvements at the Washington Aqueduct. Requires loan repayment by Aqueduct users.
+
+	</summary>
+</bill>

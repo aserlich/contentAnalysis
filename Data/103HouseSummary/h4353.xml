@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="4353" updated="2010-04-19T10:29:33-04:00">
+	<state datetime="1994-05-05">REFERRED</state>
+	<status><introduced datetime="1994-05-05"/></status>
+
+	<introduced datetime="1994-05-05"/>
+	<titles>
+		<title type="short" as="introduced">Consumer Information Privacy Act</title>
+		<title type="official" as="introduced">To require businesses who compile consumer lists for sale to other businesses to notify consumers on the list of the sales of the list.</title>
+	</titles>
+	<sponsor id="404401"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1994-05-20"/>
+		<cosponsor id="400553" joined="1994-06-23"/>
+		<cosponsor id="406873" joined="1994-05-20"/>
+		<cosponsor id="407669" joined="1994-08-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-05"><text>Sponsor introductory remarks on measure. (CR E860)</text></action>
+		<action datetime="1994-05-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-05-16"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+		<action datetime="1994-08-03"><text>Sponsor introductory remarks on measure. (CR E1524)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Consumer protection"/>
+		<term name="Business"/>
+		<term name="Civil liberties"/>
+		<term name="Consumer education"/>
+		<term name="Consumers"/>
+		<term name="Restrictive trade practices"/>
+		<term name="Right of privacy"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/5/1994--Introduced.
+Consumer Information Privacy Act - Requires businesses that compile consumer lists for sale to other businesses to notify such consumers of the sale of such lists. Declares that violations of this Act constitute an unfair or deceptive act or practice subject to enforcement under the Federal Trade Commission Act.
+
+	</summary>
+</bill>

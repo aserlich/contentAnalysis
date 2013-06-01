@@ -1,0 +1,57 @@
+<bill session="103" type="h" number="756" updated="2010-04-19T01:01:48-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Federal Transit Fair Share Act of 1993</title>
+		<title type="official" as="introduced">To provide for the utilization of the latest available census data in certain laws related to urban mass transportation.</title>
+	</titles>
+	<sponsor id="401014"/>
+	<cosponsors>
+		<cosponsor id="400596" joined="1993-02-17"/>
+		<cosponsor id="400156" joined="1993-02-03"/>
+		<cosponsor id="400170" joined="1993-02-03"/>
+		<cosponsor id="405855" joined="1993-02-03"/>
+		<cosponsor id="400344" joined="1993-02-23"/>
+		<cosponsor id="400388" joined="1993-02-17"/>
+		<cosponsor id="400574" joined="1993-02-23"/>
+		<cosponsor id="400106" joined="1993-02-03"/>
+		<cosponsor id="400511" joined="1993-02-03"/>
+		<cosponsor id="400048" joined="1993-02-03"/>
+		<cosponsor id="404520" joined="1993-02-03"/>
+		<cosponsor id="406082" joined="1993-02-03"/>
+		<cosponsor id="400107" joined="1993-02-17"/>
+		<cosponsor id="406790" joined="1993-02-17"/>
+		<cosponsor id="400369" joined="1993-02-03"/>
+		<cosponsor id="400583" joined="1993-02-17"/>
+		<cosponsor id="408661" joined="1993-02-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="304" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation"/>
+		<term name="Block grants"/>
+		<term name="Census"/>
+		<term name="Federal aid to transportation"/>
+		<term name="Mass rapid transit"/>
+		<term name="Population statistics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Federal Transit Fair Share Act of 1993 - Amends the Federal Transit Act to base the apportionment of Federal transportation funds for certain urban and nonurban mass transportation programs on census estimates prepared by the Department of Commerce. (Currently, the apportionment is based only on the latest available Federal census.)
+
+	</summary>
+</bill>

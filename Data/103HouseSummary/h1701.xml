@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="1701" updated="2010-04-19T03:36:56-04:00">
+	<state datetime="1993-04-27">REPORTED</state>
+	<status><calendar datetime="1993-04-27" /></status>
+
+	<introduced datetime="1993-04-05"/>
+	<titles>
+		<title type="short" as="reported to house">Drinking Water and Public Health Enhancement Amendments of 1993</title>
+		<title type="official" as="introduced">To amend title XVI of the Public Health Service Act (the Safe Drinking Water Act) to establish State revolving funds to provide for drinking water treatment facilities, and for other purposes.</title>
+	</titles>
+	<sponsor id="400425"/>
+	<cosponsors>
+		<cosponsor id="400110" joined="1993-04-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-04-19"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+		<action datetime="1993-04-19"><committee name="House Committee on Energy and Commerce" subcommittee="Health and the Environment"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-04-21"><committee name="House Committee on Energy and Commerce" subcommittee="Health and the Environment"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-04-21"><committee name="House Committee on Energy and Commerce" subcommittee="Health and the Environment"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-04-27"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-05-27T16:37:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 103-114.</text></action>
+		<calendar number="59" datetime="1993-05-27T16:38:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 59.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Water"/>
+		<term name="Alaska"/>
+		<term name="Environmental protection"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal aid to water pollution control"/>
+		<term name="Indian lands"/>
+		<term name="Medical care"/>
+		<term name="Potable water"/>
+		<term name="Revolving funds"/>
+		<term name="Water quality"/>
+		<term name="Water supply"/>
+		<term name="Water treatment plants"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/27/1993--Reported to House amended. Drinking Water and Public Health Enhancement Amendments of 1993 - Amends the Safe Drinking Water Act to direct the Administrator of the Environmental Protection Agency to enter into agreements with States having primary enforcement responsibility for public water systems to make capitalization grants to be deposited in drinking water treatment revolving funds. Permits such funds to be used only for providing financial assistance to public water systems for expenditures that will facilitate compliance with national primary drinking water regulations. Allocates 15 percent of amounts in such funds solely for assistance to systems which regularly serve fewer than 10,000 individuals. Permits assistance to systems not owned by governmental agencies, nonprofit organizations, or Indian tribes based on public health and financial needs and repayment ability. Sets forth requirements for agreements, including that no financial assistance will be provided to a public water system if expenses could be avoided or significantly reduced by consolidation of such system with another system. Sets forth provisions concerning State contributions to grants and fund administration. Directs the Administrator to conduct and report to the Congress on a financial needs assessment of all public water systems. Authorizes the Administrator to make grants to Indian tribes and Alaskan Native villages which are ineligible for funding under this Act for public water system expenditures. Authorizes appropriations.
+
+	</summary>
+</bill>

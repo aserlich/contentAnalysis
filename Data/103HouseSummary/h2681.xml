@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="2681" updated="2010-04-19T06:09:30-04:00">
+	<state datetime="1993-07-20">REFERRED</state>
+	<status><introduced datetime="1993-07-20"/></status>
+
+	<introduced datetime="1993-07-20"/>
+	<titles>
+		<title type="short" as="introduced">False Identification Act of 1993</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, regarding false identification documents.</title>
+	</titles>
+	<sponsor id="400438"/>
+	<cosponsors>
+		<cosponsor id="411677" joined="1994-05-17"/>
+		<cosponsor id="406768" joined="1994-05-17"/>
+		<cosponsor id="406482" joined="1994-05-17"/>
+		<cosponsor id="400329" joined="1994-03-22"/>
+		<cosponsor id="400035" joined="1994-03-22"/>
+		<cosponsor id="404190" joined="1994-03-22"/>
+		<cosponsor id="400119" joined="1994-05-17"/>
+		<cosponsor id="400537" joined="1994-03-22"/>
+		<cosponsor id="400075" joined="1994-03-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-20"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-08-09"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Communications"/>
+		<term name="Criminal justice"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Fraud"/>
+		<term name="Identification devices"/>
+		<term name="Postal crimes"/>
+		<term name="Sentences (Criminal procedure)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/20/1993--Introduced.
+False Identification Act of 1993 - Amends the Federal criminal code to reduce the minimum number of documents to three (currently, five) for certain offenses involving fraud and related activity in connection with identification documents. Sets criminal penalties for knowingly sending through the mails any unverified identification document which bears a birth date purporting to be that of the individual named in the document, showing such individual to be 21 years of age or older, when in fact that individual has not attained age 21.
+
+	</summary>
+</bill>

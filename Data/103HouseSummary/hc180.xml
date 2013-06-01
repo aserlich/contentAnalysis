@@ -1,0 +1,75 @@
+<bill session="103" type="hc" number="180" updated="2010-04-18T21:29:00-04:00">
+	<state datetime="1994-02-22T14:37:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-02-22T14:37:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-11-15"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress with respect to the South Pacific region.</title>
+	</titles>
+	<sponsor id="400003"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="1993-11-15"/>
+		<cosponsor id="400236" joined="1993-11-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-15"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-11-16"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Asia and the Pacific.</text></action>
+		<action datetime="1993-11-16"><committee name="House Committee on Foreign Affairs" subcommittee="Asia and the Pacific"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-11-16"><committee name="House Committee on Foreign Affairs" subcommittee="Asia and the Pacific"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-11-18"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Requested from State.</text></action>
+		<action datetime="1994-02-01"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Received from State.</text></action>
+		<action datetime="1994-02-09"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-02-09"  state="REPORTED"><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1994-02-22T14:31:00-05:00"><text>Mr. Faleomavaega moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action datetime="1994-02-22T14:32:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H553-555"/></action>
+		<action datetime="1994-02-22T14:32:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-02-22T14:37:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-02-22T14:38:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-02-23"><text>Received in the Senate and referred to the Committee on Foreign Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup" />
+		<committee code="HSFA-05" name="House Foreign Affairs" subcommittee="Asia and the Pacific" activity="Referral, Markup, Reporting" />
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="American economic assistance"/>
+		<term name="American investments"/>
+		<term name="American military assistance"/>
+		<term name="Biological diversity conservation"/>
+		<term name="Conferences"/>
+		<term name="Congress"/>
+		<term name="Congress and foreign policy"/>
+		<term name="Conservation of natural resources"/>
+		<term name="Democracy"/>
+		<term name="East Asia"/>
+		<term name="Environmental protection"/>
+		<term name="Executive departments"/>
+		<term name="Foreign aid"/>
+		<term name="Foreign policy"/>
+		<term name="Foreign trade"/>
+		<term name="Greenhouse effect"/>
+		<term name="International affairs"/>
+		<term name="International environmental cooperation"/>
+		<term name="International finance"/>
+		<term name="International fishery management"/>
+		<term name="Marine resources"/>
+		<term name="Natural resources"/>
+		<term name="Oceania"/>
+		<term name="South Pacific area"/>
+		<term name="Sustainable development"/>
+		<term name="Trade"/>
+		<term name="Treaties"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/22/1994--Passed House amended. Expresses the sense of the Congress that: (1) it is in the national interest for the United States to remain actively engaged in the South Pacific region as a means of supporting important U.S. commercial and strategic interests and to encourage the consolidation of democratic values; and (2) notwithstanding current fiscal constraints, the executive branch, particularly the Department of State, should work actively with the Congress to continue foreign assistance provided to the region and to encourage the active participation in the region of other international donors. Declares that the United States: (1) should encourage economic, trade, and investment relationships with the countries of the South Pacific; (2) should seek to maintain its diplomatic presence in the South Pacific region; (3) has interests in preserving the natural resources and biodiversity of the region and is uniquely positioned to promote sustainable development; (4) should cooperate closely with regional governments to strengthen sustainable management principles and practices as they apply to the region's fisheries resources; (5) should avail itself of the opportunity for contact with leaders of all South Pacific countries through regular ministerial/cabinet level meetings; and (6) should take an active interest in the proposed Joint Declaration of Cooperation between the United States and certain Pacific Island governments.
+
+	</summary>
+</bill>

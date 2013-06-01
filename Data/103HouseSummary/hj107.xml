@@ -1,0 +1,38 @@
+<bill session="103" type="hj" number="107" updated="2010-04-18T22:07:44-04:00">
+	<state datetime="1993-02-16">REFERRED</state>
+	<status><introduced datetime="1993-02-16"/></status>
+
+	<introduced datetime="1993-02-16"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States repealing the 22nd article of amendment, thereby removing the restrictions on the number of terms an individual may serve as President.</title>
+	</titles>
+	<sponsor id="400268"/>
+	<cosponsors>
+		<cosponsor id="400370" joined="1994-09-21"/>
+		<cosponsor id="400378" joined="1994-03-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-16"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-18"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Economic and Commercial Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Economic and Commercial Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Presidents"/>
+		<term name="Constitutional amendments"/>
+		<term name="Presidential term of office"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/16/1993--Introduced.
+Constitutional Amendment - Repeals the 22d amendment to the Constitution (limitation on presidential terms).
+
+	</summary>
+</bill>

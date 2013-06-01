@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="3792" updated="2010-04-19T09:01:52-04:00">
+	<state datetime="1994-02-03">REFERRED</state>
+	<status><introduced datetime="1994-02-03"/></status>
+
+	<introduced datetime="1994-02-03"/>
+	<titles>
+		<title type="official" as="introduced">To provide that a nongovernmental person may use a private express for the private carriage of certain letters and packets without being penalized by the Postal Service, and for other purposes.</title>
+	</titles>
+	<sponsor id="408976"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-03"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-02-07"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Postal Operations and Services.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Postal Operations and Services" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1541" />
+	</relatedbills>
+	<subjects>
+		<term name="Postal service"/>
+		<term name="Communications"/>
+		<term name="Criminal justice"/>
+		<term name="Express service"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Postal crimes"/>
+		<term name="Transportation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1994--Introduced.
+Prohibits the U.S. Postal Service or the Attorney General from fining or otherwise penalizing any person who transmits by private express or other unlawful means, delivers to any agent thereof, or deposits at any appointed place any letter or packet. Amends the Federal criminal code to conform with this Act.
+
+	</summary>
+</bill>

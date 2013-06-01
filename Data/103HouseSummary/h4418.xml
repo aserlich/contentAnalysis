@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="4418" updated="2010-04-19T10:39:42-04:00">
+	<state datetime="1994-05-12">REFERRED</state>
+	<status><introduced datetime="1994-05-12"/></status>
+
+	<introduced datetime="1994-05-12"/>
+	<titles>
+		<title type="short" as="introduced">Private Property Rights Act of 1994</title>
+		<title type="official" as="introduced">To require Federal agencies to prepare private property taking impact analyses, and for other purposes.</title>
+	</titles>
+	<sponsor id="300083"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-12"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-05-12"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-05-18"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1994-06-24"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2006" />
+	</relatedbills>
+	<subjects>
+		<term name="Real property"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Civil liberties"/>
+		<term name="Economic impact statements"/>
+		<term name="Economic policy"/>
+		<term name="Eminent domain"/>
+		<term name="Executive departments"/>
+		<term name="Government regulation"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Land use"/>
+		<term name="Law"/>
+		<term name="Limitation of actions"/>
+		<term name="Natural resources"/>
+		<term name="Politics and government"/>
+		<term name="Regulatory impact statements"/>
+		<term name="Right of property"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/12/1994--Introduced.
+Private Property Rights Act of 1994 - States that the Congress declares that it is the policy of the Federal Government to use all practicable means and measures to minimize Federal takings of private property. Directs Federal agencies to certify to the Attorney General that a private property taking impact analysis has been completed before initiating any action which could result in a taking or diminution of use or value of private property. Requires that the policies, regulations, and public laws of the United States be interpreted and administered in accordance with the policies under this Act. Specifies the content of such an analysis and requires a copy to be transmitted to the owner of the affected property, as well as made available to the public. Creates a rebuttable presumption that unmodified analyses five years or older are outdated for purposes of any agency action or administrative or judicial proceeding. Sets the statute of limitations for court actions for enforcing this Act.
+
+	</summary>
+</bill>

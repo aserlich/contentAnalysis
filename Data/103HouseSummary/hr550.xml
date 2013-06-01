@@ -1,0 +1,44 @@
+<bill session="103" type="hr" number="550" updated="2010-04-19T14:24:34-04:00">
+	<state datetime="1994-09-29T14:39:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-09-29T14:39:00-04:00" where="h" result="pass" how="roll" roll="449"/></status>
+
+	<introduced datetime="1994-09-27"/>
+	<titles>
+		<title type="official" as="introduced">Waiving points of order against the conference report to accompany the bill (S. 349) to provide for the disclosure of lobbying activities to influence the Federal Government, and for other purposes.</title>
+	</titles>
+	<sponsor id="400143"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-27T18:54:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-755, by Mr. Frost.</text></action>
+		<action datetime="1994-09-27T18:54:00-04:00"><text>Rule provides for consideration of the conference report to S. 349.</text></action>
+		<calendar datetime="1994-09-27T18:54:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 226.</text></calendar>
+		<action datetime="1994-09-29T11:59:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H10267-10279"/></action>
+		<action datetime="1994-09-29T12:02:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1994-09-29T12:37:00-04:00"><text>DEBATE - The House continued with debate.</text></action>
+		<action datetime="1994-09-29T14:14:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="roll" type="vote" roll="449" datetime="1994-09-29T14:39:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 216 - 205 (Roll no. 449).</text></vote>
+		<action datetime="1994-09-29T14:39:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="349" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congress"/>
+		<term name="Federal officials"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/27/1994--Introduced.
+Waives points of order against the consideration of the conference report on S. 349 (disclosure of lobbying activities).
+
+	</summary>
+</bill>

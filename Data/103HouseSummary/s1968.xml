@@ -1,0 +1,40 @@
+<bill session="103" type="s" number="1968" updated="2012-07-17T05:34:41-04:00">
+	<state datetime="1994-03-24">REFERRED</state>
+	<status><introduced datetime="1994-03-24"/></status>
+
+	<introduced datetime="1994-03-24"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to permit the tax-free rollover of certain payments made by employers to separated employees.</title>
+	</titles>
+	<sponsor id="300012"/>
+	<cosponsors>
+		<cosponsor id="406084" joined="1994-03-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3687-3688)</text></action>
+		<action datetime="1994-03-24" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3903" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Dismissal wage"/>
+		<term name="Individual retirement accounts"/>
+		<term name="Labor and employment"/>
+		<term name="Tax exclusion"/>
+		<term name="Tax-deferred compensation plans"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/24/1994--Introduced.
+Amends the Internal Revenue Code to exclude from gross income qualified separation payments transferred to individual retirement accounts.
+
+	</summary>
+</bill>

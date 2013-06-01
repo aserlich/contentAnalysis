@@ -1,0 +1,57 @@
+<bill session="103" type="h" number="1737" updated="2010-04-19T03:42:46-04:00">
+	<state datetime="1993-04-20">REFERRED</state>
+	<status><introduced datetime="1993-04-20"/></status>
+
+	<introduced datetime="1993-04-20"/>
+	<titles>
+		<title type="official" as="introduced">Prohibiting the manufacture, sale, delivery, or importation of school buses that do not have seat belts, and for other purposes.</title>
+	</titles>
+	<sponsor id="405939"/>
+	<cosponsors>
+		<cosponsor id="408052" joined="1994-06-17"/>
+		<cosponsor id="400122" joined="1994-06-09"/>
+		<cosponsor id="400333" joined="1994-05-26"/>
+		<cosponsor id="400129" joined="1994-06-29"/>
+		<cosponsor id="400306" joined="1994-06-29"/>
+		<cosponsor id="400143" joined="1994-06-29"/>
+		<cosponsor id="411725" joined="1994-07-13"/>
+		<cosponsor id="400502" joined="1994-07-19"/>
+		<cosponsor id="407153" joined="1994-06-23"/>
+		<cosponsor id="400614" joined="1994-06-17"/>
+		<cosponsor id="400536" joined="1994-07-14"/>
+		<cosponsor id="400425" joined="1994-08-12"/>
+		<cosponsor id="400243" joined="1994-06-15"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-20"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-04-20"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-05-03"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+		<action datetime="1993-06-22"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Motor vehicles"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Foreign trade"/>
+		<term name="Import restrictions"/>
+		<term name="Motor vehicle safety"/>
+		<term name="School buses"/>
+		<term name="Seat belts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/20/1993--Introduced.
+Prohibits the manufacture, sale, delivery, or importation of school buses that are not equipped with seat belts (with particular emphasis on the use of an Aaron Gordon type flight attendant double shoulder harness mechanism or other appropriate safety restraint device providing equal or greater passenger safety). Sets forth civil penalties.
+
+	</summary>
+</bill>

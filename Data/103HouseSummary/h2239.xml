@@ -1,0 +1,62 @@
+<bill session="103" type="h" number="2239" updated="2012-07-17T05:05:54-04:00">
+	<state datetime="1993-07-20T19:12:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-07-20T19:12:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-05-24"/>
+	<titles>
+		<title type="short" as="introduced">Securities and Exchange Commission Authorization Act of 1993</title>
+		<title type="short" as="passed house">Securities and Exchange Commission Authorization Act of 1993</title>
+		<title type="official" as="introduced">To authorize appropriations for the Securities and Exchange Commission, and for other purposes.</title>
+	</titles>
+	<sponsor id="400110"/>
+	<cosponsors>
+		<cosponsor id="404068" joined="1993-05-24"/>
+		<cosponsor id="400253" joined="1993-05-24"/>
+		<cosponsor id="407899" joined="1993-05-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-24" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Energy and Commerce" subcommittee="Telecommunications and Finance"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Energy and Commerce" subcommittee="Telecommunications and Finance"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1993-06-29"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-06-29"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-07-15T18:24:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 103-179.</text></action>
+		<calendar number="101" datetime="1993-07-15T18:24:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 101.</text></calendar>
+		<action datetime="1993-07-20T18:51:00-04:00"><text>Mr. Markey moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-07-20T18:52:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4826-4831"/></action>
+		<action datetime="1993-07-20T18:52:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-07-20T19:12:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-07-20T19:12:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-07-21"><text>Received in the Senate and read twice and referred to the Committee on Banking.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral, Markup, Reporting" />
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Securities"/>
+		<term name="Administrative fees"/>
+		<term name="Authorization"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Independent regulatory commissions"/>
+		<term name="International competitiveness"/>
+		<term name="Securities and Exchange Commission"/>
+		<term name="Securities industry"/>
+		<term name="Securities regulation"/>
+		<term name="Stock exchanges"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/20/1993--Passed House amended. Securities and Exchange Commission Authorization Act of 1993 - Amends the Securities Exchange Act of 1934 to authorize appropriations for the Securities and Exchange Commission (SEC) for FY 1994 and 1995. Requires the SEC to adjust annually the rates of registration, transaction, proxy filing, and other related fees in order to secure a total amount of collections that offsets the amounts appropriated to it (and the applicable surplus amounts if any). Prescribes a fee adjustment mechanism. Exempts such fee determinations and adjustments from judicial review. Requires the SEC to submit explanatory reports to the Congress before the effective date of any adjustment. Directs the SEC to study and report to the Congress on the structure and procedures for such fee collection.
+
+	</summary>
+</bill>

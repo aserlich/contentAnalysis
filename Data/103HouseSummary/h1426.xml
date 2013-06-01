@@ -1,0 +1,78 @@
+<bill session="103" type="h" number="1426" updated="2012-07-17T04:51:24-04:00">
+	<state datetime="1994-08-23">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-08-23" /></status>
+
+	<introduced datetime="1993-03-18"/>
+	<titles>
+		<title type="short" as="introduced">Indian Dams Safety Act of 1993</title>
+		<title type="short" as="reported to house">Indian Dams Safety Act of 1993</title>
+		<title type="short" as="passed house">Indian Dams Safety Act of 1994</title>
+		<title type="short" as="enacted">Indian Dams Safety Act of 1994</title>
+		<title type="official" as="introduced">To provide for the maintenance of dams located on Indian lands by the Bureau of Indian Affairs or through contracts with Indian tribes.</title>
+	</titles>
+	<sponsor id="409205"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-18" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-03-19" state="REPORTED"><text>Sponsor introductory remarks on measure. (CR E720-721)</text></action>
+		<action datetime="1993-04-13" state="REFERRED"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Native American Affairs.</text></action>
+		<action datetime="1993-07-02"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-07-12"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1993-07-30"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-07-30"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1993-09-22"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-09-22"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-07-14T15:31:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-600.</text></action>
+		<calendar number="331" datetime="1994-07-14T15:31:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 331.</text></calendar>
+		<action datetime="1994-07-25T13:11:00-04:00"><text>Mr. Johnson (SD) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-07-25T13:11:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6176-6178"/></action>
+		<action datetime="1994-07-25T13:11:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-07-25T13:17:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-07-25T13:17:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-07-26"><text>Received in the Senate and read twice and referred to the Committee on Indian Affairs.</text></action>
+		<action datetime="1994-08-11"><text>Senate Committee on Indian Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S11320"/></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-08-11" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text></vote>
+		<topresident datetime="1994-08-11" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-08-12"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-08-12" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-08-23" ><text>Signed by President.</text></signed>
+		<enacted number="103-302" type="public" datetime="1994-08-23"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-302.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="" name="Senate Indian Affairs" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="442" />
+		<bill relation="unknown" session="103" type="s" number="442" />
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Dams"/>
+		<term name="Department of the Interior"/>
+		<term name="Federal employees"/>
+		<term name="Government operations and politics"/>
+		<term name="Indian lands"/>
+		<term name="Infrastructure"/>
+		<term name="Labor and employment"/>
+		<term name="Maintenance and repair"/>
+		<term name="Minorities"/>
+		<term name="New Mexico"/>
+		<term name="Risk assessment"/>
+		<term name="Science, technology, communications"/>
+		<term name="Transfer of employees"/>
+		<term name="Water resources development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/25/1994--Passed House amended. Indian Dams Safety Act of 1994 - Directs the Secretary of the Interior to: (1) establish a dam safety maintenance program within the Bureau of Indian Affairs (BIA) in order to maintain each dam on Indian lands in a satisfactory condition; (2) perform necessary repair and rehabilitation work to bring any unsatisfactory dam to satisfactory condition and to then place the dam under the program's maintenance; and (3) develop a maintenance action plan, with priority given to dams with high or significant risk ratings. Directs the Secretary to develop a comprehensive list of dams on Indian lands describing conditions of: (1) dam safety; (2) risk hazard; and (3) maintenance deficiencies. Authorizes the Secretary to: (1) obtain technical assistance from other agencies and departments; and (2) contract with appropriate Indian tribes to carry out the program. States that the dam safety program (of 1980) and the program established by this Act shall be under BIA direction. Authorizes appropriations.
+
+	</summary>
+</bill>

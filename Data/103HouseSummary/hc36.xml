@@ -1,0 +1,49 @@
+<bill session="103" type="hc" number="36" updated="2010-04-18T21:06:13-04:00">
+	<state datetime="1993-02-04">REFERRED</state>
+	<status><introduced datetime="1993-02-04"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of Congress that any economic stimulus package that is passed by the 103d Congress should include the permanent extension of the mortgage revenue bond and low-income housing tax credit programs.</title>
+	</titles>
+	<sponsor id="407044"/>
+	<cosponsors>
+		<cosponsor id="400333" joined="1993-02-16"/>
+		<cosponsor id="400354" joined="1993-03-23"/>
+		<cosponsor id="406284" joined="1993-02-16"/>
+		<cosponsor id="400312" joined="1993-03-29"/>
+		<cosponsor id="400536" joined="1993-03-15"/>
+		<cosponsor id="400221" joined="1993-05-17"/>
+		<cosponsor id="409633" joined="1993-03-02"/>
+		<cosponsor id="411178" joined="1993-03-15"/>
+		<cosponsor id="400163" joined="1993-03-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Economic growth"/>
+		<term name="Housing"/>
+		<term name="Legislation"/>
+		<term name="Low-income housing"/>
+		<term name="Mortgage loans"/>
+		<term name="Tax credits"/>
+		<term name="Tax-exempt securities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Declares that any economic growth package passed by the 103d Congress should include the permanent extension of the mortgage revenue bond and low-income housing tax credit programs.
+
+	</summary>
+</bill>

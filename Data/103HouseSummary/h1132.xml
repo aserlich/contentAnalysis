@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="1132" updated="2010-04-19T02:04:56-04:00">
+	<state datetime="1993-02-24">REFERRED</state>
+	<status><introduced datetime="1993-02-24"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="short" as="introduced">Barnegat Bay Marine Environmental Improvement Act</title>
+		<title type="official" as="introduced">To improve the environmental protection of Barnegat Bay, New Jersey.</title>
+	</titles>
+	<sponsor id="400359"/>
+	<cosponsors>
+		<cosponsor id="405775" joined="1993-02-24"/>
+		<cosponsor id="400380" joined="1993-02-24"/>
+		<cosponsor id="400584" joined="1993-02-24"/>
+		<cosponsor id="406420" joined="1993-02-24"/>
+		<cosponsor id="400312" joined="1993-02-24"/>
+		<cosponsor id="404401" joined="1993-02-24"/>
+		<cosponsor id="400533" joined="1993-02-24"/>
+		<cosponsor id="400308" joined="1993-02-24"/>
+		<cosponsor id="300156" joined="1993-03-09"/>
+		<cosponsor id="412001" joined="1993-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-02-24"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-03-08"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1993-03-08"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from EPA.</text></action>
+		<action datetime="1993-03-08"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="HSPW-02" name="House Public Works and Transportation" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Estuarine area conservation"/>
+		<term name="New Jersey"/>
+		<term name="Water pollution control"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Barnegat Bay Marine Environmental Improvement Act - Amends the Federal Water Pollution Control Act to require the Administrator of the Environmental Protection Agency to give priority consideration to the inclusion of Barnegat Bay, New Jersey, in the National Estuary Program.
+
+	</summary>
+</bill>

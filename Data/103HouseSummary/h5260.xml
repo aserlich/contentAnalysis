@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="5260" updated="2010-04-19T12:50:58-04:00">
+	<state datetime="1994-10-07">REFERRED</state>
+	<status><introduced datetime="1994-10-07"/></status>
+
+	<introduced datetime="1994-10-07"/>
+	<titles>
+		<title type="short" as="introduced">Ozark Wild Horses Protection Act</title>
+		<title type="official" as="introduced">To provide for the protection of wild horses within the Ozark National Scenic Riverways and prohibit the removal of such horses.</title>
+	</titles>
+	<sponsor id="403864"/>
+	<cosponsors>
+		<cosponsor id="400377" joined="1994-10-07"/>
+		<cosponsor id="405033" joined="1994-10-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-10-07"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-10-07"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1994-10-07"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1994-11-21"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Animals"/>
+		<term name="Environmental protection"/>
+		<term name="Horses"/>
+		<term name="Missouri"/>
+		<term name="Protection of animals"/>
+		<term name="Public lands"/>
+		<term name="Water resources"/>
+		<term name="Wild rivers"/>
+		<term name="Wildlife conservation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/1994--Introduced.
+Ozark Wild Horses Protection Act - Revises provisions setting forth the purposes for establishing the Ozark National Scenic Riverways, Missouri, to include the protection and preservation of free-roaming horses. Prohibits the Secretary of the Interior from removing or allowing or assisting in the removal of, free-roaming horses from Federal lands within the boundaries of the Riverways, except in medical emergencies or natural disasters.
+
+	</summary>
+</bill>

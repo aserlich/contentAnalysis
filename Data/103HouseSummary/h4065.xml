@@ -1,0 +1,57 @@
+<bill session="103" type="h" number="4065" updated="2010-04-19T09:44:39-04:00">
+	<state datetime="1994-03-17">REFERRED</state>
+	<status><introduced datetime="1994-03-17"/></status>
+
+	<introduced datetime="1994-03-17"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Higher Education Act of 1965 to make adjustments in the calculation of need for student assistance for dislocated workers, and for other purposes.</title>
+	</titles>
+	<sponsor id="406082"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="1994-03-24"/>
+		<cosponsor id="400160" joined="1994-03-17"/>
+		<cosponsor id="408052" joined="1994-03-17"/>
+		<cosponsor id="411040" joined="1994-03-17"/>
+		<cosponsor id="400585" joined="1994-05-19"/>
+		<cosponsor id="400143" joined="1994-03-24"/>
+		<cosponsor id="400082" joined="1994-03-24"/>
+		<cosponsor id="400057" joined="1994-03-24"/>
+		<cosponsor id="400436" joined="1994-03-17"/>
+		<cosponsor id="400178" joined="1994-04-28"/>
+		<cosponsor id="400615" joined="1994-04-14"/>
+		<cosponsor id="400595" joined="1994-03-17"/>
+		<cosponsor id="400291" joined="1994-03-24"/>
+		<cosponsor id="400163" joined="1994-04-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-17"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1994-04-04"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Postsecondary Education and Training.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Postsecondary Education and Training" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Budgets"/>
+		<term name="Dislocated workers"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Higher education"/>
+		<term name="Income"/>
+		<term name="Job training"/>
+		<term name="Labor"/>
+		<term name="Student aid"/>
+		<term name="Student loan funds"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/17/1994--Introduced.
+Amends the Higher Education Act of 1965 to revise the formula for calculation of need for student assistance for dislocated workers by defining their income as that for the year for which the determination is made.
+
+	</summary>
+</bill>

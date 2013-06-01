@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="4046" updated="2010-04-19T09:41:38-04:00">
+	<state datetime="1994-03-16">REFERRED</state>
+	<status><introduced datetime="1994-03-16"/></status>
+
+	<introduced datetime="1994-03-16"/>
+	<titles>
+		<title type="official" as="introduced">To amend subchapter II of chapter 73 of title 10, United States Code, to prevent cost-of-living increases in the survivor annuity contributions of uniformed services retirees from becoming effective before related cost-of-living increases in retired pay become payable.</title>
+	</titles>
+	<sponsor id="400509"/>
+	<cosponsors>
+		<cosponsor id="400391" joined="1994-06-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-16"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1994-03-21"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1994-03-21"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1817" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Annuities"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Defense policy"/>
+		<term name="Military dependents"/>
+		<term name="Military pensions"/>
+		<term name="Pensions"/>
+		<term name="Survivors' benefits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/16/1994--Introduced.
+Provides that pay reductions for cost of living increases in contributions to the military Survivor Benefit Plan shall not be effective until the initial payment date of related cost of living increases in military retired or retainer pay.
+
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="103" type="hr" number="233" updated="2010-04-19T13:35:17-04:00">
+	<state datetime="1993-08-04T19:08:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-08-04T19:08:00-04:00" where="h" result="pass" how="roll" roll="401"/></status>
+
+	<introduced datetime="1993-08-03"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 2401) to authorize appropriations for fiscal year 1994 for military activities of the Department of Defense, to prescribe military personnel strengths for fiscal year 1994, and for other purposes.</title>
+	</titles>
+	<sponsor id="400143"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-03T18:41:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-211, by Mr. Frost.</text></action>
+		<action datetime="1993-08-03T18:41:00-04:00"><text>Rule provides for consideration of H.R. 2401 with 2 hours of general debate. Upon adoption of this resolution, the Speaker may declare the House resolved into the Committee of the Whole House for consideration of the bill. All points of order against the bill shall be waived. After general debate, the Committee shall rise without motion. No further consideration shall be in order except pursuant to a subsequent order of the House.</text></action>
+		<calendar datetime="1993-08-03T18:41:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 75.</text></calendar>
+		<action datetime="1993-08-04T17:22:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H5783-5792"/></action>
+		<action datetime="1993-08-04T17:22:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-08-04T18:51:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 250 - 175 (Roll no. 400).</text></action>
+		<vote how="roll" type="vote" roll="401" datetime="1993-08-04T19:08:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by recorded vote: 248 - 173 (Roll no. 401).</text></vote>
+		<action datetime="1993-08-04T19:09:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2401" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Armed forces"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/3/1993--Introduced.
+Sets forth the rule for consideration of H.R. 2401 (armed forces funding).
+
+	</summary>
+</bill>

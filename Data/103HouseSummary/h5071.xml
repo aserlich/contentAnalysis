@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="5071" updated="2010-04-19T12:22:02-04:00">
+	<state datetime="1994-09-21">REFERRED</state>
+	<status><introduced datetime="1994-09-21"/></status>
+
+	<introduced datetime="1994-09-21"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Federal Aviation Administration Authorization Act of 1994 to delay the effective date of trucking deregulation for 1 year.</title>
+	</titles>
+	<sponsor id="400534"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1994-10-05"/>
+		<cosponsor id="400327" joined="1994-10-05"/>
+		<cosponsor id="411677" joined="1994-10-05"/>
+		<cosponsor id="407351" joined="1994-09-29"/>
+		<cosponsor id="411166" joined="1994-10-05"/>
+		<cosponsor id="400307" joined="1994-10-05"/>
+		<cosponsor id="400527" joined="1994-09-29"/>
+		<cosponsor id="409205" joined="1994-09-21"/>
+		<cosponsor id="400110" joined="1994-10-05"/>
+		<cosponsor id="400247" joined="1994-09-29"/>
+		<cosponsor id="400906" joined="1994-10-05"/>
+		<cosponsor id="407399" joined="1994-10-05"/>
+		<cosponsor id="401774" joined="1994-09-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-21"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-10-03"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2485" />
+		<bill relation="unknown" session="103" type="s" number="2485" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation"/>
+		<term name="Deregulation"/>
+		<term name="Federal preemption"/>
+		<term name="Motor carrier rates"/>
+		<term name="Politics and government"/>
+		<term name="State and local government"/>
+		<term name="State laws"/>
+		<term name="Trucking"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/21/1994--Introduced.
+Amends the Federal Aviation Administration Authorization Act of 1994 to delay the effective date of trucking deregulation from January 1, 1995, to January 1, 1996.
+
+	</summary>
+</bill>

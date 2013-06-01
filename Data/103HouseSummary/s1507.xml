@@ -1,0 +1,109 @@
+<bill session="103" type="s" number="1507" updated="2010-10-13T17:42:58-04:00">
+	<state datetime="1993-12-20">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-20" /></status>
+
+	<introduced datetime="1993-09-30"/>
+	<titles>
+		<title type="short" as="introduced">Higher Education Technical Amendments Act of 1993</title>
+		<title type="short" as="passed house">Higher Education Technical Amendments of 1993</title>
+		<title type="short" as="enacted">Higher Education Technical Amendments of 1993</title>
+		<title type="official" as="introduced">A bill to make technical amendments to the Higher Education Amendments of 1992 and the Higher Education Act of 1965, and for other purposes.</title>
+	</titles>
+	<sponsor id="408597"/>
+	<cosponsors>
+		<cosponsor id="300057" joined="1993-09-30"/>
+	</cosponsors>
+	<actions>
+		<calendar datetime="1993-09-30"  state="REPORTED"><text>Introduced in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 218.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-10-07" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S13254-13256"/></vote>
+		<action datetime="1993-10-13"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-10-13T10:02:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-10-13T11:56:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-11-02T12:31:00-05:00"><text>Mr. Ford (MI) asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1993-11-02T12:31:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H8684-8685"/></action>
+		<action datetime="1993-11-02T12:32:00-05:00"><text>The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H.R. 3376. Agreed to without objection.</text></action>
+		<vote how="without objection" type="vote2" datetime="1993-11-02T12:32:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-11-02T12:32:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-02T12:32:00-05:00"><text>A similar measure H.R. 3376 was laid on the table without objection.</text></action>
+		<action datetime="1993-11-02T12:32:00-05:00"><text>The title of the measure was amended to that of similar measure H.R. 3376. Agreed to without objection.</text></action>
+		<action datetime="1993-11-03"><text>Message on House action received in Senate and at desk: House amendments to Senate bill.</text></action>
+		<action datetime="1993-11-20"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S13254-13256"/></action>
+		<action datetime="1993-11-20"><text>Senate agreed to the House amendments with an amendment (SP 1227) by Voice Vote. (consideration: CR 11/19/1993 S16586-16593)</text></action>
+		<action datetime="1993-11-20T17:03:00-05:00"><text>Mr. Ford (MI) asked unanimous consent that the House agree to the Senate amendment to the House amendments.</text></action>
+		<action datetime="1993-11-20T17:05:00-05:00"><text>On motion that the House agree to the Senate amendment to the House amendments Agreed to without objection.</text><reference label="consideration" ref="CR H10412-10421"/></action>
+		<action datetime="1993-11-20T17:05:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-20"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-11-20" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-12-08" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-20" ><text>Signed by President.</text></signed>
+		<enacted number="103-208" type="public" datetime="1993-12-20"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-208.</text></enacted>
+		<action datetime="1994-02-09"><text>Sponsor introductory remarks on measure. (CR S1275-1276)</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="supersedes" session="103" type="h" number="3376" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Accounting"/>
+		<term name="Accreditation (Education)"/>
+		<term name="Administrative procedure"/>
+		<term name="Aliens"/>
+		<term name="Bank accounts"/>
+		<term name="Bankruptcy"/>
+		<term name="Clinics"/>
+		<term name="Collection of accounts"/>
+		<term name="College costs"/>
+		<term name="Colleges"/>
+		<term name="Community health services"/>
+		<term name="Consumer credit"/>
+		<term name="Correspondence schools and courses"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Department of Education"/>
+		<term name="Divorcees"/>
+		<term name="Education of Indians"/>
+		<term name="Exchange of persons programs"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to adult education"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Federal aid to libraries"/>
+		<term name="Federal aid to medical education"/>
+		<term name="Federal aid to vocational education"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Fees"/>
+		<term name="Graduate education"/>
+		<term name="Hawaii"/>
+		<term name="Humanities"/>
+		<term name="Identification devices"/>
+		<term name="Income"/>
+		<term name="Interest"/>
+		<term name="Interest rates"/>
+		<term name="Libraries"/>
+		<term name="Marshall Islands"/>
+		<term name="Medical care"/>
+		<term name="Medical education"/>
+		<term name="Medical residents"/>
+		<term name="Migrant labor"/>
+		<term name="Names"/>
+		<term name="Palau Islands"/>
+		<term name="Poor"/>
+		<term name="Prisoners"/>
+		<term name="Regional educational laboratories"/>
+		<term name="Scholarships"/>
+		<term name="Social security"/>
+		<term name="Student aid"/>
+		<term name="Student employment"/>
+		<term name="Student loan funds"/>
+		<term name="Teacher education"/>
+		<term name="Territories (U.S.)"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1227"/>
+	</amendments>
+	<summary>
+	11/20/1993--Senate agreed to House amendment with amendment. Higher Education Technical Amendments of 1993 - Amends the Higher Education Act of 1965 to make certain technical corrections and conforming amendments.
+
+	</summary>
+</bill>

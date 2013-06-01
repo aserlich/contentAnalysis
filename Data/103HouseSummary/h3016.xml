@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="3016" updated="2010-04-19T07:01:22-04:00">
+	<state datetime="1993-08-06">REFERRED</state>
+	<status><introduced datetime="1993-08-06"/></status>
+
+	<introduced datetime="1993-08-06"/>
+	<titles>
+		<title type="official" as="introduced">To provide that individuals shall not be required to repay certain overpayments of emergency unemployment compensation.</title>
+	</titles>
+	<sponsor id="300100"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-08-06"/>
+		<cosponsor id="404083" joined="1993-08-06"/>
+		<cosponsor id="411040" joined="1994-01-25"/>
+		<cosponsor id="404375" joined="1993-08-06"/>
+		<cosponsor id="400539" joined="1993-08-06"/>
+		<cosponsor id="400050" joined="1993-08-06"/>
+		<cosponsor id="410407" joined="1993-08-06"/>
+		<cosponsor id="400100" joined="1993-08-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-08-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-08-16"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Unemployment insurance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/1993--Introduced.
+Provides that individuals shall not be required to repay certain overpayments of emergency unemployment compensation.
+
+	</summary>
+</bill>

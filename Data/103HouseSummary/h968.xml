@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="968" updated="2010-04-19T01:38:07-04:00">
+	<state datetime="1993-02-18">REFERRED</state>
+	<status><introduced datetime="1993-02-18"/></status>
+
+	<introduced datetime="1993-02-18"/>
+	<titles>
+		<title type="short" as="introduced">Comprehensive Early Childhood Education Act of 1995</title>
+		<title type="official" as="introduced">To amend the Federal Insecticide, Fungicide and Rodenticide Act with respect to the authorization for appropriations.</title>
+	</titles>
+	<sponsor id="403308"/>
+	<cosponsors>
+		<cosponsor id="400389" joined="1993-02-18"/>
+		<cosponsor id="300083" joined="1993-02-18"/>
+		<cosponsor id="410084" joined="1993-02-18"/>
+		<cosponsor id="400536" joined="1993-05-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-18"><text>Sponsor introductory remarks on measure. (CR E380-381)</text></action>
+		<action datetime="1993-02-18"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Department Operations and Nutrition.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from EPA.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Department Operations and Nutrition" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Authorization"/>
+		<term name="Pesticide regulation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/18/1993--Introduced.
+Amends the Federal Insecticide, Fungicide, and Rodenticide Act to authorize appropriations for FY 1994 through 1997.
+
+	</summary>
+</bill>

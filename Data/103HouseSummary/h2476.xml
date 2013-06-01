@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="2476" updated="2010-04-19T05:37:39-04:00">
+	<state datetime="1993-06-22">REFERRED</state>
+	<status><introduced datetime="1993-06-22"/></status>
+
+	<introduced datetime="1993-06-22"/>
+	<titles>
+		<title type="short" as="introduced">American Shipyard Worker Protection Act</title>
+		<title type="official" as="introduced">To prohibit the Department of Defense from contracting with foreign contractors for ship repair until a certification is made to Congress.</title>
+	</titles>
+	<sponsor id="400008"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1993-10-07"/>
+		<cosponsor id="405775" joined="1993-06-22"/>
+		<cosponsor id="411040" joined="1993-06-22"/>
+		<cosponsor id="404978" joined="1993-06-22"/>
+		<cosponsor id="400436" joined="1993-06-22"/>
+		<cosponsor id="400572" joined="1993-06-22"/>
+		<cosponsor id="400278" joined="1993-06-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-22"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-06-25"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Readiness.</text></action>
+		<action datetime="1993-06-25"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-03" name="House Armed Services" subcommittee="Readiness" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Buy American"/>
+		<term name="Congressional oversight"/>
+		<term name="Defense contracts"/>
+		<term name="Foreign trade"/>
+		<term name="Maintenance and repair"/>
+		<term name="National security"/>
+		<term name="Shipbuilding"/>
+		<term name="Warships"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/22/1993--Introduced.
+American Shipyard Worker Protection Act - Prohibits the Secretary of the Navy from contracting with a foreign nation or firm for the overhaul, repair, or maintenance of vessels unless the Secretary of Defense certifies to specifid congressional committees that: (1) the work was unplanned and of an emergency nature; or (2) there is a compelling national security or economic reason for the work to be done by the foreign nation or firm.
+
+	</summary>
+</bill>

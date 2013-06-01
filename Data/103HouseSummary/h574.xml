@@ -1,0 +1,52 @@
+<bill session="103" type="h" number="574" updated="2010-04-19T00:31:30-04:00">
+	<state datetime="1993-04-27">REPORTED</state>
+	<status><calendar datetime="1993-04-27" /></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="short" as="introduced">Financial Fraud Detection and Disclosure Act</title>
+		<title type="official" as="introduced">To amend the Securities Exchange Act of 1934 to impose additional fraud detection and disclosure obligations on auditors of public companies.</title>
+	</titles>
+	<sponsor id="300100"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="1993-01-26"/>
+		<cosponsor id="400397" joined="1993-03-23"/>
+		<cosponsor id="400110" joined="1993-01-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Sponsor introductory remarks on measure. (CR E158, 164)</text></action>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-02-02"><text>Sponsor introductory remarks on measure. (CR E235-236)</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+		<action datetime="1993-02-18"><committee name="House Committee on Energy and Commerce" subcommittee="Telecommunications and Finance"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Energy and Commerce" subcommittee="Telecommunications and Finance"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-03-18"><committee name="House Committee on Energy and Commerce" subcommittee="Telecommunications and Finance"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1993-04-27"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-04-27"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Securities"/>
+		<term name="Accounting"/>
+		<term name="Auditing"/>
+		<term name="Financial statements"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Information disclosure (Securities law)"/>
+		<term name="Securities fraud"/>
+		<term name="Securities regulation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Financial Fraud Detection and Disclosure Act - Amends the Securities Exchange Act of 1934 to include within statutorily mandated audit requirements specified fraud detection and disclosure procedures to be followed by an independent public accountant. Authorizes the Securities and Exchange Commission to impose civil penalties for willful violations of this Act by an independent public accountant.
+
+	</summary>
+</bill>

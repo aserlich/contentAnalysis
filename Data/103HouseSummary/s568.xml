@@ -1,0 +1,79 @@
+<bill session="103" type="s" number="568" updated="2012-07-17T06:01:58-04:00">
+	<state datetime="1993-05-25">REPORTED</state>
+	<status><calendar datetime="1993-05-25" /></status>
+
+	<introduced datetime="1993-03-11"/>
+	<titles>
+		<title type="short" as="introduced">Telemarketing and Consumer Fraud and Abuse Prevention Act</title>
+		<title type="short" as="reported to senate">Telemarketing and Consumer Fraud and Abuse Prevention Act</title>
+		<title type="official" as="introduced">A bill to strengthen the authority of the Federal Trade Commission regarding fraud committed in connection with sales made with a telephone, and for other purposes.</title>
+	</titles>
+	<sponsor id="400557"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="1993-05-04"/>
+		<cosponsor id="300071" joined="1993-03-11"/>
+		<cosponsor id="400559" joined="1993-03-11"/>
+		<cosponsor id="300037" joined="1993-04-20"/>
+		<cosponsor id="300015" joined="1993-04-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-11" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2792-2795)</text></action>
+		<action datetime="1993-03-11" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<action datetime="1993-03-18"><committee name="Committee on Commerce"/><text>Subcommittee on Consumer. Hearings held. Hearings printed: S.Hrg. 103-54.</text></action>
+		<calendar datetime="1993-05-25"  state="REPORTED"><text>Committee on Commerce. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1993-06-29"><text>Committee on Commerce. Reported to Senate by Senator Hollings with an amendment in the nature of a substitute. With written report No. 103-80.</text></action>
+		<calendar under="General Orders" number="121" datetime="1993-06-29" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 121.</text></calendar>
+		<action datetime="1993-06-30"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S8375-8379"/></action>
+		<action datetime="1993-06-30"><text>The committee substitute agreed to by Unanimous Consent.</text></action>
+		<action datetime="1993-06-30"><text>Senate incorporated this measure in H.R. 868 as an amendment.</text></action>
+		<action datetime="1993-06-30"><text>Senate passed companion measure H.R. 868 in lieu of this measure by Voice Vote.</text><reference label="consideration" ref="CR S8375"/></action>
+		<action datetime="1993-06-30"><text>Returned to the Calendar. Calendar No. 121.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Commerce, Science, and Transportation" subcommittee="Consumer" activity="Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="superseded" session="103" type="h" number="868" />
+		<bill relation="unknown" session="103" type="h" number="868" />
+	</relatedbills>
+	<subjects>
+		<term name="Consumer protection"/>
+		<term name="Actions and defenses"/>
+		<term name="Administrative procedure"/>
+		<term name="Bank records"/>
+		<term name="Citizen lawsuits"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Contempt of court"/>
+		<term name="Credit cards"/>
+		<term name="Damages"/>
+		<term name="Deceptive advertising"/>
+		<term name="District courts"/>
+		<term name="Evidence (Law)"/>
+		<term name="Federal Trade Commission"/>
+		<term name="Finance and financial sector"/>
+		<term name="Forfeiture"/>
+		<term name="Fraud"/>
+		<term name="Government paperwork"/>
+		<term name="Health"/>
+		<term name="Independent regulatory commissions"/>
+		<term name="Information services"/>
+		<term name="Injunctions"/>
+		<term name="Jurisdiction"/>
+		<term name="Legal fees"/>
+		<term name="Life care communities"/>
+		<term name="Restrictive trade practices"/>
+		<term name="Right of privacy"/>
+		<term name="Sales promotion"/>
+		<term name="Searches and seizures"/>
+		<term name="Subpoena"/>
+		<term name="Telemarketing"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/29/1993--Reported to Senate amended. Telemarketing and Consumer Fraud and Abuse Prevention Act - Requires the Federal Trade Commission (FTC) to prescribe rules regarding telemarketing activities and prohibiting fraudulent telemarketing acts or practices. Sets forth provisions concerning actions by States and by private persons to enforce compliance with such regulations. Provides for the establishment of a clearinghouse for inquiries made to Federal agencies concerning telemarketing. Amends the Right to Financial Privacy Act of 1978 to permit a financial institution, upon application of a Government authority, to delay notifying a customer of the release of a customer's records if, by court order, it is found that notifying the customer will result in the dissipation or destruction of assets subject to seizure under any U.S. law by reason of having been obtained in violation of law. Amends the Federal Trade Commission Act to authorize the FTC to bring a criminal contempt action for violations of orders obtained in false advertising cases under such Act. Directs the FTC to conduct a study of unfair or deceptive acts or practices engaged in by life care homes.
+
+	</summary>
+</bill>

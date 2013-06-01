@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="2104" updated="2010-04-19T04:40:05-04:00">
+	<state datetime="1993-05-12">REFERRED</state>
+	<status><introduced datetime="1993-05-12"/></status>
+
+	<introduced datetime="1993-05-12"/>
+	<titles>
+		<title type="official" as="introduced">To provide duty-free entry privileges to participants in, and other individuals associated with, the XXVI Summer Olympiad in Atlanta, Georgia, and for other purposes.</title>
+	</titles>
+	<sponsor id="400240"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-12"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-06-02"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-10-05"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1993-10-26"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from ITC.</text></action>
+		<action datetime="1994-03-23"><committee name="House Committee on Ways and Means"/><text>For Further Action See H.R.4066.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4066" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Athletes"/>
+		<term name="Georgia"/>
+		<term name="Olympic games"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/12/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to grant duty-free treatment, through October 4, 1996, of the personal effects of, and other articles sought by, participants, their families and associated members, and officials involved in the XXVI Summer Olympiad and associated Cultural Olympiad in Atlanta, Georgia.
+
+	</summary>
+</bill>

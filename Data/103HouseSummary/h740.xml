@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="740" updated="2010-04-19T00:58:57-04:00">
+	<state datetime="1993-02-02">REFERRED</state>
+	<status><introduced datetime="1993-02-02"/></status>
+
+	<introduced datetime="1993-02-02"/>
+	<titles>
+		<title type="short" as="introduced">Federal Anti-Stalker Act of 1993</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, to provide Federal penalties for stalking.</title>
+	</titles>
+	<sponsor id="400348"/>
+	<cosponsors>
+		<cosponsor id="400113" joined="1993-05-26"/>
+		<cosponsor id="400192" joined="1993-05-26"/>
+		<cosponsor id="407558" joined="1993-05-26"/>
+		<cosponsor id="406343" joined="1993-05-26"/>
+		<cosponsor id="400533" joined="1993-05-26"/>
+		<cosponsor id="400438" joined="1993-05-26"/>
+		<cosponsor id="400163" joined="1993-05-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-02"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Crime and Criminal Justice.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-08" name="House Judiciary" subcommittee="Crime and Criminal Justice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and criminals"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Stalking"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1993--Introduced.
+Federal Anti-Stalker Act of 1993 - Amends the Federal criminal code to set penalties for stalking (i.e., willfully, maliciously, and repeatedly following or harassing another person and making credible threats with the intent to place that person in reasonable fear of death or serious bodily injury of that person or a member of that person's immediate family).
+
+	</summary>
+</bill>

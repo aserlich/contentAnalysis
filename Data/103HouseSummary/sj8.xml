@@ -1,0 +1,46 @@
+<bill session="103" type="sj" number="8" updated="2012-07-17T04:32:08-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="popular" as="">Balanced Budget Amendment</title>
+		<title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution relating to a Federal balanced budget.</title>
+	</titles>
+	<sponsor id="300157"/>
+	<cosponsors>
+		<cosponsor id="403346" joined="1993-01-21"/>
+		<cosponsor id="409923" joined="1993-01-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S617-618)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-02-04"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Constitution.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Constitution" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Balanced budgets"/>
+		<term name="Constitutional amendments"/>
+		<term name="Deficit financing"/>
+		<term name="Income tax"/>
+		<term name="Legislation"/>
+		<term name="Record votes"/>
+		<term name="Tax rates"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Constitutional Amendment - Requires a balanced Federal budget, unless a three-fifths roll call vote of both Houses of Congress provides for a specific excess of outlays over receipts. Prohibits any bill raising taxes from becoming law unless by a majority roll call vote of both Houses.
+
+	</summary>
+</bill>

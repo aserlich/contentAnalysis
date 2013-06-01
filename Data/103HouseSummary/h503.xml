@@ -1,0 +1,40 @@
+<bill session="103" type="h" number="503" updated="2010-04-19T00:19:40-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">To repeal the mandatory 20 percent income tax withholding on eligible rollover distributions which are not rolled over.</title>
+	</titles>
+	<sponsor id="403190"/>
+	<cosponsors>
+		<cosponsor id="400078" joined="1993-02-18"/>
+		<cosponsor id="400388" joined="1993-04-05"/>
+		<cosponsor id="300087" joined="1993-01-21"/>
+		<cosponsor id="400283" joined="1993-02-04"/>
+		<cosponsor id="405258" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="501" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Individual retirement accounts"/>
+		<term name="Tax-deferred compensation plans"/>
+		<term name="Withholding tax"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Repeals provisions of the Unemployment Compensation Amendments of 1992 which require 20 percent income tax withholding on eligible rollover distributions of pension plans which are not rolled over into eligible retirement plans. Requires the Internal Revenue Code to be applied as if such provisions had never been enacted.
+
+	</summary>
+</bill>

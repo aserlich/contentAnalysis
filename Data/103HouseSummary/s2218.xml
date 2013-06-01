@@ -1,0 +1,54 @@
+<bill session="103" type="s" number="2218" updated="2012-07-17T05:49:22-04:00">
+	<state datetime="1994-08-10">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-08-10" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-06-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide authorization of appropriations for the Federal Emergency Food and Shelter Program for the fiscal years 1995 and 1996.</title>
+	</titles>
+	<sponsor id="404598"/>
+	<cosponsors>
+		<cosponsor id="300001" joined="1994-06-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S7245-7246)</text></action>
+		<action datetime="1994-06-21" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<calendar datetime="1994-08-02"  state="REPORTED"><committee name="Committee on Governmental Affairs"/><text>Committee on Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-08-05"><text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="544" datetime="1994-08-05" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 544.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1994-08-10" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S11185"/></vote>
+		<action datetime="1994-08-11"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-08-11T11:25:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-08-11"><text>Referred to the House Committee on Banking, Finance + Urban Affrs.</text></action>
+		<action datetime="1994-08-30"><committee name="House Committee on Banking, Finance + Urban Affrs"/><text>Referred to the Subcommittee on Housing and Community Development.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee" />
+		<committee code="HSBA-04" name="House Banking, Finance, and Urban Affairs" subcommittee="Housing and Community Development" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Agriculture and food"/>
+		<term name="Authorization"/>
+		<term name="Economics and public finance"/>
+		<term name="Federal aid to housing"/>
+		<term name="Food relief"/>
+		<term name="Grants-in-aid"/>
+		<term name="Homeless"/>
+		<term name="Housing and community development"/>
+		<term name="Public assistance programs"/>
+		<term name="Shelters for the homeless"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/21/1994--Introduced.
+Amends the Stewart B. McKinney Homeless Assistance Act to authorize appropriations for the emergency food and shelter program.
+
+	</summary>
+</bill>

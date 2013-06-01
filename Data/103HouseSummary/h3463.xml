@@ -1,0 +1,47 @@
+<bill session="103" type="h" number="3463" updated="2010-04-19T08:10:40-04:00">
+	<state datetime="1993-11-08">REFERRED</state>
+	<status><introduced datetime="1993-11-08"/></status>
+
+	<introduced datetime="1993-11-08"/>
+	<titles>
+		<title type="official" as="introduced">To amend part E of title IV of the Social Security Act to facilitate the placement of foster children in permanent kinship care arrangements.</title>
+	</titles>
+	<sponsor id="400251"/>
+	<cosponsors>
+		<cosponsor id="406466" joined="1994-02-23"/>
+		<cosponsor id="400333" joined="1994-02-23"/>
+		<cosponsor id="407153" joined="1994-03-16"/>
+		<cosponsor id="400269" joined="1994-05-11"/>
+		<cosponsor id="408476" joined="1994-02-23"/>
+		<cosponsor id="400554" joined="1994-03-16"/>
+		<cosponsor id="400100" joined="1994-02-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-08"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-11-09"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Adoption"/>
+		<term name="Children"/>
+		<term name="Custody of children"/>
+		<term name="Families"/>
+		<term name="Federal aid to child welfare"/>
+		<term name="Foster home care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/8/1993--Introduced.
+Amends part E (Foster Care and Adoption Assistance) of title IV of the Social Security Act to give States the option of deeming as adoption the placement of a child who was under State supervised foster care with a blood relative given legal custody of the child.
+
+	</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="103" type="s" number="2413" updated="2012-07-17T04:06:24-04:00">
+	<state datetime="1994-08-23">REFERRED</state>
+	<status><introduced datetime="1994-08-23"/></status>
+
+	<introduced datetime="1994-08-23"/>
+	<titles>
+		<title type="official" as="introduced">A bill for the relief of Richard M. Sakakida.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="1994-08-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-23" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S12381-12384)</text></action>
+		<action datetime="1994-08-23" state="REFERRED"><text>Read twice and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Military medals, decorations, etc."/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/23/1994--Introduced.
+Directs the Secretary of the Army to review the military records of a named individual to determine whether the award of a medal for heroism for action in the Philippines during World War II is appropriate.
+
+	</summary>
+</bill>

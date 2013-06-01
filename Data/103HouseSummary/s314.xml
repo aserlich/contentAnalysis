@@ -1,0 +1,51 @@
+<bill session="103" type="s" number="314" updated="2012-07-17T04:35:23-04:00">
+	<state datetime="1993-06-09">REPORTED</state>
+	<status><calendar datetime="1993-06-09" /></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize appropriations for the National Historical Publications and Records Commission for fiscal year 1994 through fiscal year 1999.</title>
+		<title type="official" as="amended by senate">An Act to authorize appropriations for the National Historical Publications and Records Commission for fiscal years 1994 and 1995.</title>
+	</titles>
+	<sponsor id="300086"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="1993-02-17"/>
+		<cosponsor id="408597" joined="1993-02-04"/>
+		<cosponsor id="405212" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1393)</text></action>
+		<action datetime="1993-02-04" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<calendar datetime="1993-06-09"  state="REPORTED"><committee name="Committee on Governmental Affairs"/><text>Committee on Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1993-09-20"><text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn with an amendment in the nature of a substitute and an amendment to the title. With written report No. 103-145.</text></action>
+		<calendar under="General Orders" number="207" datetime="1993-09-20" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 207.</text></calendar>
+		<action datetime="1994-03-17"><text>Senate incorporated this measure in H.R. 2139 as an amendment.</text></action>
+		<action datetime="1994-03-17"><text>Senate passed companion measure H.R. 2139 in lieu of this measure by Voice Vote.</text></action>
+		<action datetime="1994-03-17"><text>Indefinitely postponed by Senate by Unanimous Consent.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1063" />
+		<bill relation="superseded" session="103" type="h" number="2139" />
+		<bill relation="unknown" session="103" type="h" number="2139" />
+		<bill relation="unknown" session="103" type="h" number="2139" />
+	</relatedbills>
+	<subjects>
+		<term name="Government paperwork"/>
+		<term name="Archives"/>
+		<term name="Authorization"/>
+		<term name="Government operations and politics"/>
+		<term name="National Archives and Records Administration"/>
+		<term name="Public records"/>
+		<term name="Records management"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/20/1993--Reported to Senate amended. Extends through FY 1995 the authorization of appropriations for the National Historical Publications and Records Commission.
+
+	</summary>
+</bill>

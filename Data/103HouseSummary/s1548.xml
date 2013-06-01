@@ -1,0 +1,52 @@
+<bill session="103" type="s" number="1548" updated="2012-07-17T04:47:37-04:00">
+	<state datetime="1993-11-01">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-11-01" /></status>
+
+	<introduced datetime="1993-10-14"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the National Wool Act of 1954 to reduce the subsidies that wool and mohair producers receive for the 1994 and 1995 marketing years and to eliminate the wool and mohair programs for the 1996 and subsequent marketing years, and for other purposes.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="409580" joined="1993-11-22"/>
+		<cosponsor id="300070" joined="1993-10-14"/>
+		<cosponsor id="300042" joined="1993-10-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-14" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-10-15"><text>Senate Committee on Agriculture discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S13520"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-10-15" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Voice Vote.</text></vote>
+		<action datetime="1993-10-15T10:09:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-10-15"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-10-15T11:59:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-10-15T13:03:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H8020-8021"/></action>
+		<action datetime="1993-10-15T13:03:00-04:00"><text>Mr. de la Garza asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<vote how="without objection" type="vote2" datetime="1993-10-15T13:07:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-10-15T13:07:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-10-15" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-10-20" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-11-01" ><text>Signed by President.</text></signed>
+		<enacted number="103-130" type="public" datetime="1993-11-01"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-130.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural price supports"/>
+		<term name="Goats"/>
+		<term name="Wool"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/14/1993--Introduced.
+Amends the National Wool Act of 1954 to: (1) reduce wool and mohair support payments for marketing years 1994 and 1995; and (2) eliminate wool and mohair price supports beginning in 1996.
+
+	</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="103" type="s" number="707" updated="2012-07-17T04:25:09-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="official" as="introduced">A bill to suspend temporarily the duty on 2-Hydroxy-4-Methoxy Benzophenone Sulfonic Acid.</title>
+	</titles>
+	<sponsor id="406084"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1648" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Chemicals"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 1997, the duty on 2-hydroxy-4-methoxy benzophenone sulfonic acid.
+
+	</summary>
+</bill>

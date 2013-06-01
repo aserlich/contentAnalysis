@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="2003" updated="2010-04-19T04:24:31-04:00">
+	<state datetime="1993-05-05">REFERRED</state>
+	<status><introduced datetime="1993-05-05"/></status>
+
+	<introduced datetime="1993-05-05"/>
+	<titles>
+		<title type="short" as="introduced">National Presidential Debates Act of 1993</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to require any major or minor party general election candidate who receives amounts from the Presidential Election Campaign Fund to participate in debates with other such candidates.</title>
+	</titles>
+	<sponsor id="400253"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-05"><text>Sponsor introductory remarks on measure. (CR E1166)</text></action>
+		<action datetime="1993-05-05"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-05-10"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Elections.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="HSHA-08" name="House Administration" subcommittee="Elections" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Elections"/>
+		<term name="Campaign debates"/>
+		<term name="Campaign funds"/>
+		<term name="Government trust funds"/>
+		<term name="Presidential candidates"/>
+		<term name="Presidential elections"/>
+		<term name="Vice Presidential candidates"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/5/1993--Introduced.
+National Presidential Debates Act of 1993 - Amends the Internal Revenue Code to require as a condition of eligibility to receive payments from the Presidential Election Campaign Fund that major or minority presidential candidates agree to participate in at least three debates sponsored by a nonpartisan entity. Requires a corresponding agreement by vice-presidential candidates, but for a minimum of only one debate.
+
+	</summary>
+</bill>

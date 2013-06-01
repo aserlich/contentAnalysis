@@ -1,0 +1,76 @@
+<bill session="103" type="h" number="1926" updated="2012-07-17T04:47:59-04:00">
+	<state datetime="1993-11-21T16:02:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-21T16:02:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-04-29"/>
+	<titles>
+		<title type="short" as="introduced">National Narcotics Leadership Act Amendments Act of 1993</title>
+		<title type="short" as="passed house">National Narcotics Leadership Act Amendments Act of 1993</title>
+		<title type="official" as="introduced">To amend the National Narcotics Leadership Act of 1988 to extend and authorize appropriations for the Office of National Drug Control Policy.</title>
+	</titles>
+	<sponsor id="400080"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-29" state="REFERRED"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-04-30"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-11-19"><committee name="House Committee on Government Operations"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-11-19"  state="REPORTED"><committee name="House Committee on Government Operations"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1993-11-21T15:49:00-05:00"><text>Mr. Conyers moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-21T15:49:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10534-10536"/></action>
+		<action datetime="1993-11-21T15:49:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-21T16:02:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-21T16:02:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-21T16:02:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-11-22"><text>Received in the Senate.</text></action>
+		<action datetime="1993-11-23"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, Markup" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Drugs"/>
+		<term name="Authorization"/>
+		<term name="Campaign funds"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Costs"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Drug abuse"/>
+		<term name="Drug law enforcement"/>
+		<term name="Drugs and employment"/>
+		<term name="Economics and public finance"/>
+		<term name="Executive Office of the President"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal officials"/>
+		<term name="Government consultants"/>
+		<term name="Government employees' political activities"/>
+		<term name="Government operations and politics"/>
+		<term name="Health"/>
+		<term name="Hospitals"/>
+		<term name="Labor and employment"/>
+		<term name="Narcotic addicts"/>
+		<term name="Narcotic traffic"/>
+		<term name="Peer review organizations (Medicine)"/>
+		<term name="Pregnant women"/>
+		<term name="Presidential appointments"/>
+		<term name="Reprogramming of appropriated funds"/>
+		<term name="Science, technology, communications"/>
+		<term name="Technology assessment"/>
+		<term name="Treatment and rehabilitation of narcotic addicts"/>
+		<term name="Women"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/21/1993--Passed House amended. National Narcotics Leadership Act Amendments of 1993 - Amends the National Narcotics Leadership Act of 1988 to authorize the Director for National Drug Control Policy to require the budget submission to the Office of Management and Budget by any National Drug Control Program agency to include funding requests for specific initiatives that are consistent with the President's priorities for the National Drug Control Strategy and certifications made regarding the adequacy of such request to implement the objectives of the Strategy for the relevant year. (Sec. 3) Requires the Director to report to the Congress on a quarterly basis regarding the need for any reprogramming or transfer of appropriated funds for Program activities in an amount greater than $5 million. Prohibits a Federal officer in the Office of National Drug Control Policy who is appointed by the President from participating in Federal election campaign activities, except that such an official is not thereby prohibited from making contributions to individual candidates. (Sec. 4) Revises provisions regarding the Strategy to: (1) include long-range goals for reducing the consequences of drug abuse; and (2) require the Director to include an evaluation of the effectiveness of Federal drug control during the preceding year. Specifies that such evaluation shall include an assessment of Federal drug control efforts, including: (1) an assessment of the reduction of drug use, drug availability, and associated consequences (such as the burdens drug users place on hospital emergency rooms); and (2) a determination of the status of U.S. drug treatment. Requires: (1) the Director to include with the Strategy specified information regarding assessment of drug use measurement, identification of factors restricting the availability of treatment, and proposed remedies to make such treatment available and to report to the President and the Congress on drug use and availability in the United States; and (2) Federal agencies responsible for the collection or estimation of drug-related information to cooperate with the Director to satisfy such requirements. (Sec. 5) Designates the Director as a member of the National Security Council. (Sec. 6) Requires: (1) the Director to identify and support, through interagency agreements or grants that are subjected to peer review by independent advisory boards, the application of technology to expanding the effectiveness or availability of drug treatment; and (2) the Director of the Advanced Research Project Agency to assist and support the Office and its Director. Repeals provisions of the Act pertaining to an executive reorganization study. (Sec. 7) Authorizes the Director to pay the expenses for assemblage of individuals providing consultation in developing the Strategy. (Sec. 8) Authorizes appropriations. (Sec. 9) Terminates the Office on September 30, 1994.
+
+	</summary>
+</bill>

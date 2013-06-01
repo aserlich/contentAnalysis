@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="627" updated="2010-05-20T21:58:35-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="official" as="introduced">To deny funds to educational programs that allow corporal punishment.</title>
+	</titles>
+	<sponsor id="400306"/>
+	<cosponsors>
+		<cosponsor id="400591" joined="1994-08-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-02-11"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Elementary, Secondary and Vocational Education.</text></action>
+		<action datetime="1993-02-11"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Select Education and Civil Rights.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="" name="House Education and Labor" subcommittee="Elementary, Secondary, and Vocational Education" activity="Referral" />
+		<committee code="HSED-04" name="House Education and Labor" subcommittee="Select Education and Civil Rights" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Child welfare"/>
+		<term name="Federal aid to education"/>
+		<term name="Punishment"/>
+		<term name="School discipline"/>
+		<term name="Students' rights"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Amends the General Education Provisions Act to deny funds to educational programs of entities that have policies allowing an individual to inflict corporal punishment or bodily pain upon a child as a form of punishment. (Makes exceptions for reasonable and necessary uses of physical restraint to: (1) protect self, a child, or others from physical injury; (2) obtain possession of a weapon or other dangerous object; or (3) protect property from serious damage.)
+
+	</summary>
+</bill>

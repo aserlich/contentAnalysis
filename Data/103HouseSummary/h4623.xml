@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="4623" updated="2010-04-19T11:12:16-04:00">
+	<state datetime="1994-06-22">REFERRED</state>
+	<status><introduced datetime="1994-06-22"/></status>
+
+	<introduced datetime="1994-06-22"/>
+	<titles>
+		<title type="official" as="introduced">Entitled, &quot;The Anti-Hypocrisy Deficit Reduction Act&quot;, to provide for anti-hypocritical adjustments for fiscal year 1994.</title>
+	</titles>
+	<sponsor id="400300"/>
+	<cosponsors>
+		<cosponsor id="400527" joined="1994-06-22"/>
+		<cosponsor id="409578" joined="1994-06-22"/>
+		<cosponsor id="409829" joined="1994-06-22"/>
+		<cosponsor id="400050" joined="1994-06-23"/>
+		<cosponsor id="400614" joined="1994-06-22"/>
+		<cosponsor id="403403" joined="1994-06-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-22"><text>Referred to the House Committee on Appropriations.</text></action>
+		<action datetime="1994-06-22"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-06-29"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAP" name="House Appropriations" activity="Referral, In Committee" />
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Balanced budgets"/>
+		<term name="Budget deficits"/>
+		<term name="Budgets"/>
+		<term name="Congressional budget"/>
+		<term name="Executive impoundment of appropriated funds"/>
+		<term name="Government spending reductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/22/1994--Introduced.
+Reduces discretionary spending limits for FY 1994 through 1999 by the amount of rescissions under this Act.
+
+	</summary>
+</bill>

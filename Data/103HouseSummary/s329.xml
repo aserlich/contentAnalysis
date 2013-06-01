@@ -1,0 +1,47 @@
+<bill session="103" type="s" number="329" updated="2012-07-17T05:57:59-04:00">
+	<state datetime="1993-05-25">REPORTED</state>
+	<status><calendar datetime="1993-05-25" /></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Campaign Advertising and Disclosure Act of 1993</title>
+		<title type="short" as="reported to senate">Campaign Advertising and Disclosure Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend section 315 of the Communications Act of 1934 with respect to the purchase and use of broadcasting time by candidates for public office, and for other purposes.</title>
+	</titles>
+	<sponsor id="403171"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="1993-02-04"/>
+		<cosponsor id="300053" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1415-1418)</text></action>
+		<action datetime="1993-02-04" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+		<action datetime="1993-05-13"><committee name="Committee on Commerce"/><text>Subcommittee on Communications. Hearings held. Hearings printed: S.Hrg. 103-345.</text></action>
+		<calendar datetime="1993-05-25"  state="REPORTED"><text>Committee on Commerce. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action datetime="1993-12-09"><text>Committee on Commerce. Reported to Senate by Senator Hollings under the authority of the order of Nov 17, 93 with an amendment. With written report No. 103-216.</text></action>
+		<calendar under="General Orders" number="343" datetime="1993-12-09" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 343.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Commerce, Science, and Transportation" subcommittee="Communications" activity="Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Election candidates"/>
+		<term name="Political action committees"/>
+		<term name="Political advertising"/>
+		<term name="Radio in politics"/>
+		<term name="Science, technology, communications"/>
+		<term name="Television in politics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/9/1993--Reported to Senate amended. Campaign Advertising and Disclosure Act of 1993 - Amends the Communications Act of 1934 to: (1) reduce the period during which broadcast media rates for candidates may not exceed the lowest unit charge for the same time class and amount of time; (2) limit the cost to qualified candidates of broadcasting time for pre-election political advertising to the lowest rate charged for any time in the same period; and (3) prohibit any broadcast licensee from preempting the use of any such time purchased by a qualified candidate. Amends the Federal Election Campaign Act of 1971 to mandate certain aural and visual political advertising requirements which unambiguously identify the candidate, the candidate's authorized political committee or its agents, and in the broadcast media the sponsor of such political advertising.
+
+	</summary>
+</bill>

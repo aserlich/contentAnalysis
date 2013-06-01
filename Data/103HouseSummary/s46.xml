@@ -1,0 +1,42 @@
+<bill session="103" type="s" number="46" updated="2012-07-17T04:57:43-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide that a justice or judge convicted of a felony shall be suspended from office without pay.</title>
+	</titles>
+	<sponsor id="300157"/>
+	<cosponsors>
+		<cosponsor id="401874" joined="1993-06-30"/>
+		<cosponsor id="300082" joined="1993-10-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S456)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-02-04"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Law"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Impeachments"/>
+		<term name="Judicial corruption"/>
+		<term name="Judicial tenure"/>
+		<term name="Supreme Court justices"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Amends the Federal judicial code to provide that any justice of the Supreme Court, circuit judge, or district judge convicted of a felony shall be suspended from office without pay pending the disposition of impeachment proceedings.
+
+	</summary>
+</bill>

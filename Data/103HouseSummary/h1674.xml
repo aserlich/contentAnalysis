@@ -1,0 +1,41 @@
+<bill session="103" type="h" number="1674" updated="2010-04-19T03:32:49-04:00">
+	<state datetime="1993-04-02">REFERRED</state>
+	<status><introduced datetime="1993-04-02"/></status>
+
+	<introduced datetime="1993-04-02"/>
+	<titles>
+		<title type="official" as="introduced">To amend title II of the Social Security Act to eliminate the reductions in social security benefits which are presently required in the case of spouses and surviving spouses who are also receiving certain Government pensions.</title>
+	</titles>
+	<sponsor id="404375"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-02"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-04-06"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1897" />
+		<bill relation="identical" session="103" type="h" number="1897" />
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Civil service pensions"/>
+		<term name="Married people"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Widowers"/>
+		<term name="Widows"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/2/1993--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to eliminate the requirement that the amount of monthly benefits payable to a spouse, surviving spouse, or parent be reduced by the amount such individual receives in monthly payments from a Federal or State pension plan.
+
+	</summary>
+</bill>

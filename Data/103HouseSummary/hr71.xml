@@ -1,0 +1,45 @@
+<bill session="103" type="hr" number="71" updated="2010-04-19T13:09:49-04:00">
+	<state datetime="1993-02-04T23:43:00-05:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-02-04T23:43:00-05:00" where="h" result="pass" how="roll" roll="29"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">Relating to the consideration of the Senate amendment to the bill (H.R. 1) to grant family and temporary medical leave under certain circumstances.</title>
+	</titles>
+	<sponsor id="400155"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04T22:14:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-13, by Mr. Gordon.</text></action>
+		<action datetime="1993-02-04T22:14:00-05:00"><text>Rule provides for consideration of senate amedment to H.R. 1. Upon adoption of this resolution, the bill shall be taken from the Speaker's table to the end that the Senate amendment shall be agreed to.</text></action>
+		<action datetime="1993-02-04T22:14:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H557-569"/></action>
+		<action datetime="1993-02-04T22:14:00-05:00"><text>Mr. Walker raised a point of order against the consideration of the measure. Mr. Walker stated that the self-enacting provision in the resolution, disposing of a Senate amendment to a House bill, is a violation of rule XX of the rules of the House which require the consideration of such amendments to be entertained in the Committee of the Whole. The Chair stated that the point of order was not well taken.</text></action>
+		<calendar datetime="1993-02-04T22:24:00-05:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 10.</text></calendar>
+		<action datetime="1993-02-04T22:26:00-05:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-02-04T23:31:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 227 - 172 (Roll no. 28).</text></action>
+		<vote how="roll" type="vote" roll="29" datetime="1993-02-04T23:43:00-05:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 247 - 152 (Roll no. 29).</text></vote>
+		<action datetime="1993-02-04T23:44:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1" />
+		<bill relation="unknown" session="103" type="h" number="1" />
+		<bill relation="unknown" session="103" type="h" number="1" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="House rules and procedure"/>
+		<term name="Labor"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Provides that upon the adoption of this resolution the Senate amendments to H.R. 1 (family and temporary medical leave) are agreed to by the House of Representatives.
+
+	</summary>
+</bill>

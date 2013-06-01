@@ -1,0 +1,41 @@
+<bill session="103" type="s" number="1272" updated="2012-07-17T06:00:31-04:00">
+	<state datetime="1993-07-21">REFERRED</state>
+	<status><introduced datetime="1993-07-21"/></status>
+
+	<introduced datetime="1993-07-21"/>
+	<titles>
+		<title type="short" as="introduced">Independent Sales Representatives Bankruptcy Reform Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend section 507(a)(3) of title 11, United States Code, to give priority to certain claims of persons that are independent sales representatives.</title>
+	</titles>
+	<sponsor id="300023"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S9188)</text></action>
+		<action datetime="1993-07-21" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-08-16"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2091" />
+	</relatedbills>
+	<subjects>
+		<term name="Bankruptcy"/>
+		<term name="Claims"/>
+		<term name="Debtor and creditor"/>
+		<term name="Sales personnel"/>
+		<term name="Self-employed"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/21/1993--Introduced.
+Independent Sales Representatives Bankruptcy Reform Act of 1993 - Amends Federal bankruptcy law to include the claims and expenses of an independent sales representative among those entitled to statutory priority status.
+
+	</summary>
+</bill>

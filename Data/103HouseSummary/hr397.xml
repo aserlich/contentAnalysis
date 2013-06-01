@@ -1,0 +1,43 @@
+<bill session="103" type="hr" number="397" updated="2010-04-19T14:00:48-04:00">
+	<state datetime="1994-03-24T13:35:00-05:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-03-24T13:35:00-05:00" where="h" result="pass" how="roll" roll="89"/></status>
+
+	<introduced datetime="1994-03-23"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of a certain motion to suspend the rules.</title>
+	</titles>
+	<sponsor id="400143"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-23T19:38:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-452, by Mr. Frost.</text></action>
+		<action datetime="1994-03-23T19:38:00-05:00"><text>Rule provides for consideration of S. 349. Upon the adoption of this resolution it shall be in order at any time on the legislative day of Thursday, Mar. 24, 1994, for the Speaker to entertain a motion that the House suspend the rules and pass the bill S. 394 as amended, and that the House insist upon its amendment thereto, and request a conference with the Senate thereon.</text></action>
+		<calendar datetime="1994-03-23T19:38:00-05:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 144.</text></calendar>
+		<action datetime="1994-03-24T12:02:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H1966-1976"/></action>
+		<action datetime="1994-03-24T12:02:00-05:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1994-03-24T13:12:00-05:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="roll" type="vote" roll="89" datetime="1994-03-24T13:35:00-05:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 221 - 202 (Roll no. 89).</text></vote>
+		<action datetime="1994-03-24T13:35:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="349" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congress"/>
+		<term name="Federal officials"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/23/1994--Introduced.
+Makes it in order for the Speaker, at any time on the legislative day of March 24, 1994, to entertain a motion that the House suspend the rules and pass S. 349 (providing for the disclosure of lobbying activities to influence the Federal Government) as amended, insist on the House amendment thereto, and request a conference with the Senate thereon.
+
+	</summary>
+</bill>

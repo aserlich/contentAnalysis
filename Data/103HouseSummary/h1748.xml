@@ -1,0 +1,39 @@
+<bill session="103" type="h" number="1748" updated="2010-04-19T03:44:29-04:00">
+	<state datetime="1993-04-20">REFERRED</state>
+	<status><introduced datetime="1993-04-20"/></status>
+
+	<introduced datetime="1993-04-20"/>
+	<titles>
+		<title type="official" as="introduced">Relating to the tariff treatment of certain plastic flat goods.</title>
+	</titles>
+	<sponsor id="400365"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-20"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-04-22"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1395" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Leather industry"/>
+		<term name="Plastics"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/20/1993--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to provide a duty with respect to certain plastic flat goods with an outer surface area of not less than 20 percent leather.
+
+	</summary>
+</bill>

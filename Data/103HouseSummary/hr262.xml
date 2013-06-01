@@ -1,0 +1,43 @@
+<bill session="103" type="hr" number="262" updated="2010-04-19T13:39:52-04:00">
+	<state datetime="1993-10-06T13:10:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1993-10-06T13:10:00-04:00" where="h" result="pass" how="roll" roll="483"/></status>
+
+	<introduced datetime="1993-09-28"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the consideration of the bill (H.R. 1845) to establish the Biological Survey in the Department of the Interior.</title>
+	</titles>
+	<sponsor id="400538"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-28T19:11:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-262, by Mr. Hall (OH).</text></action>
+		<action datetime="1993-09-28T19:11:00-04:00"><text>Rule provides for consideration of H.R. 1845 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. In lieu of the committee amendments now printed in the bill, it shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute printed in the report of the Committee on Rules accompanying this resolution. Measure will be read by section. Bill is open to amendments.</text></action>
+		<calendar datetime="1993-09-28T19:12:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 92.</text></calendar>
+		<action datetime="1993-10-06T12:19:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H7468-7473"/></action>
+		<action datetime="1993-10-06T12:21:00-04:00"><text>MODIFICATION OF TEXT OF H. RES. 262 - Mr. Hall of Ohio asked unanimous consent that the text of H. Res. 262 be modified to reflect correction of a drafting error that inadvertantly allocated one hour of general debate on H.R. 1845 when the intent of the Committee on Rules had been to allocate one hour and fifteen minutes of general debate. Agreed to without objection.</text></action>
+		<action datetime="1993-10-06T12:22:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1993-10-06T12:47:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="roll" type="vote" roll="483" datetime="1993-10-06T13:10:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 238 - 188 (Roll no. 483).</text></vote>
+		<action datetime="1993-10-06T13:10:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1845" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Environmental protection"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/28/1993--Introduced.
+Sets forth the rule for the consideration of H.R. 1845 (establishment of the Biological Survey in the Department of the Interior).
+
+	</summary>
+</bill>

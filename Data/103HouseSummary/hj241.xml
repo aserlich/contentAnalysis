@@ -1,0 +1,37 @@
+<bill session="103" type="hj" number="241" updated="2010-04-18T22:29:24-04:00">
+	<state datetime="1993-07-27">REFERRED</state>
+	<status><introduced datetime="1993-07-27"/></status>
+
+	<introduced datetime="1993-07-27"/>
+	<titles>
+		<title type="official" as="introduced">To ensure all residents equal access to quality health care services if a managed competition health plan is enacted.</title>
+	</titles>
+	<sponsor id="400387"/>
+	<cosponsors>
+		<cosponsor id="404083" joined="1993-11-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-27"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-09-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medical care"/>
+		<term name="Health insurance"/>
+		<term name="Members of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/27/1993--Introduced.
+Declares that all Members of the Congress and their families should enroll in the lowest bidding accountable health plan (large groups of providers) in their home of record.
+
+	</summary>
+</bill>

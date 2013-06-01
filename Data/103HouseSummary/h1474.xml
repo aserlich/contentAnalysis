@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="1474" updated="2010-04-19T03:01:22-04:00">
+	<state datetime="1994-09-28">REPORTED</state>
+	<status><calendar datetime="1994-09-28" /></status>
+
+	<introduced datetime="1993-03-24"/>
+	<titles>
+		<title type="official" as="introduced">To increase the irrigable acreage for the San Angelo Federal reclamation project, Texas, and for other purposes.</title>
+	</titles>
+	<sponsor id="400381"/>
+	<cosponsors>
+		<cosponsor id="400389" joined="1994-02-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-24"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-04-13"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Subcommittee on Oversight and Investigations Discharged.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T20:35:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 103-810.</text></action>
+		<calendar number="455" datetime="1994-10-03T20:35:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 455.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Oversight and Investigations" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1146" />
+	</relatedbills>
+	<subjects>
+		<term name="Water"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Irrigation"/>
+		<term name="Reclamation of land"/>
+		<term name="Texas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/24/1993--Introduced.
+Deposit Insurance Funds Management Improvement Act of 1995 - Amends the Federal Deposit Insurance Act regarding a risk-based assessment system for insured depository institutions to mandate that the designated reserve ratio for each insurance fund be: (1) at least 1.25 percent of the estimated insured deposits of its members; and (2) set at an amount which the Board of Directors (the Board) of the Federal Deposit Insurance Corporation determines will provide for an appropriate amount of reserves against losses which may reasonably be expected to be incurred without resulting in an excessive buildup in the fund. Declares that the Board's authority to make semiannual assessments to maintain the reserve ratio at the designated reserve ratio includes authority to reduce such assessments by any appropriate amount if the reserve ratio of the insurance fund is equal to or greater than the minimum designated reserve ratio of such fund. Authorizes the Board, in setting the semiannual assessment rates for insured depository institutions, to consider any risk to the safety and soundness of any deposit insurance fund, its members, or the deposit insurance system as a whole which is posed by any difference between the assessment rate for Savings Associate Insurance Fund members and the assessment rate for Bank Insurance Fund members. Repeals the minimum assessment requirement for any insured deposit insurance fund.
+
+	</summary>
+</bill>

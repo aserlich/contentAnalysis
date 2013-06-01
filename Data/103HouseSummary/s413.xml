@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="413" updated="2012-07-17T04:38:28-04:00">
+	<state datetime="1993-02-24">REFERRED</state>
+	<status><introduced datetime="1993-02-24"/></status>
+
+	<introduced datetime="1993-02-24"/>
+	<titles>
+		<title type="popular" as="">Elimination of COLA for Members of Congress</title>
+		<title type="official" as="introduced">A bill to provide that the cost of living adjustment to increase the rate of pay for Members of Congress in calendar year 1994 shall not take effect.</title>
+	</titles>
+	<sponsor id="400566"/>
+	<cosponsors>
+		<cosponsor id="300048" joined="1993-02-24"/>
+		<cosponsor id="300064" joined="1993-11-23"/>
+		<cosponsor id="300051" joined="1993-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1996)</text></action>
+		<action datetime="1993-02-24" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional salaries and pensions"/>
+		<term name="Cost of living adjustments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/1993--Introduced.
+Eliminates the cost of living pay adjustment for Members of Congress for FY 1994.
+
+	</summary>
+</bill>

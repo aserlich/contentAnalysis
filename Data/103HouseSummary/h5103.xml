@@ -1,0 +1,65 @@
+<bill session="103" type="h" number="5103" updated="2012-07-17T04:54:01-04:00">
+	<state datetime="1994-10-03T19:34:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-03T19:34:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-09-26"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 31, United States Code, to provide for an Executive Director of the General Accounting Office Personnel Appeals Board, and for other purposes.</title>
+	</titles>
+	<sponsor id="407351"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-26" state="REFERRED"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Civil Service.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on Post Office and Civil Service" subcommittee="Civil Service"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on Post Office and Civil Service" subcommittee="Civil Service"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1994-10-03T19:29:00-04:00"><committee name="House Committee on Post Office and Civil Service"/><text>Mr. McCloskey moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-03T19:29:00-04:00"><committee name="House Committee on Post Office and Civil Service"/><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10614"/></action>
+		<action datetime="1994-10-03T19:29:00-04:00"><committee name="House Committee on Post Office and Civil Service"/><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-10-03T19:34:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><committee name="House Committee on Post Office and Civil Service"/><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-03T19:34:00-04:00"><committee name="House Committee on Post Office and Civil Service"/><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-04"><committee name="House Committee on Post Office and Civil Service"/><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><committee name="House Committee on Post Office and Civil Service"/><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Civil Service" activity="Referral, Markup, Reporting" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congressional agencies"/>
+		<term name="Administrative remedies"/>
+		<term name="Americans employed in foreign countries"/>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Congress"/>
+		<term name="Congressional employees"/>
+		<term name="Disciplining of employees"/>
+		<term name="Discrimination in employment"/>
+		<term name="Federal employees"/>
+		<term name="Federal officials"/>
+		<term name="Government attorneys"/>
+		<term name="Government employees' health insurance"/>
+		<term name="Government employees' political activities"/>
+		<term name="Government operations and politics"/>
+		<term name="Health"/>
+		<term name="Labor and employment"/>
+		<term name="Law"/>
+		<term name="Personnel management"/>
+		<term name="Promotions"/>
+		<term name="Rating of employees"/>
+		<term name="Salaries"/>
+		<term name="Whistle blowing"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Passed House amended. Instructs the Comptroller General to appoint as the Executive Director of the General Accounting Office (GAO) Personnel Appeals Board (the Board) an individual that the Chairman of that Board selects. Modifies the pay rate guidelines for the Board's General Counsel. Authorizes the Comptroller General to enter into interagency agreements with the Department of State and other executive agencies to permit GAO to participate in health care programs for Federal employees stationed or performing temporary duty abroad.
+
+	</summary>
+</bill>

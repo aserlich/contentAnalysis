@@ -1,0 +1,76 @@
+<bill session="103" type="h" number="4462" updated="2012-07-17T04:19:41-04:00">
+	<state datetime="1994-09-28">REPORTED</state>
+	<status><calendar datetime="1994-09-28" /></status>
+
+	<introduced datetime="1994-05-19"/>
+	<titles>
+		<title type="short" as="introduced">Indian Federal Recognition Administrative Procedures Act of 1994</title>
+		<title type="short" as="passed house">Indian Federal Recognition Administrative Procedures Act of 1994</title>
+		<title type="official" as="introduced">To provide for administrative procedures to extend Federal recognition to certain Indian groups, and for other purposes.</title>
+	</titles>
+	<sponsor id="409205"/>
+	<cosponsors>
+		<cosponsor id="300097" joined="1994-05-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-19" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E988)</text></action>
+		<action datetime="1994-05-19" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-07-11"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Native American Affairs.</text></action>
+		<action datetime="1994-07-14"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1994-07-22"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Subcommittee on Native American Affairs Discharged.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T13:35:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-782.</text></action>
+		<calendar number="429" datetime="1994-10-03T13:36:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 429.</text></calendar>
+		<action datetime="1994-10-03T13:44:00-04:00"><text>Mr. Richardson moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-03T13:45:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10478-10483, H10612-10613"/></action>
+		<action datetime="1994-10-03T13:45:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-03T13:56:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. McCandless objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1994-10-03T19:13:00-04:00"><text>Considered as unfinished business.</text></action>
+		<action datetime="1994-10-03T19:21:00-04:00"><text>On motion to suspend the rules and pass the bill, as Agreed to by recorded vote (2/3 required): 337 - 54 (Roll no. 461).</text></action>
+		<action datetime="1994-10-03T19:21:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-04"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-08"><text>Read twice and referred to the Committee on Indian Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Referral, Hearings, Discharged" />
+		<committee code="" name="Senate Indian Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2549" />
+		<bill relation="unknown" session="103" type="h" number="2549" />
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Advice and consent of the Senate"/>
+		<term name="Archives"/>
+		<term name="Congress"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Economics and public finance"/>
+		<term name="Federal advisory bodies"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Indian lands"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Law"/>
+		<term name="Legal fees"/>
+		<term name="Library of Congress"/>
+		<term name="Minorities"/>
+		<term name="Presidential appointments"/>
+		<term name="Presidential commissions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Passed House amended. Indian Federal Recognition Administrative Procedures Act of 1994 - Establishes the Commission on Indian Recognition which shall assume the Department of the Interior's authority to recognize a petitioning Indian group's tribal status. Sets forth operating and petitioning procedures. Requires the Commission to publish an annual list of recognized Indian tribes. Authorizes the Secretary of Health and Human Services to award petition assistance grants. Authorizes appropriations.
+
+	</summary>
+</bill>

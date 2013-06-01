@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="321" updated="2012-07-17T05:34:26-04:00">
+	<state datetime="1993-02-04">REFERRED</state>
+	<status><introduced datetime="1993-02-04"/></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide a credit against tax for employers who provide on-site day-care facilities for dependents of their employees, and for other purposes.</title>
+	</titles>
+	<sponsor id="403346"/>
+	<cosponsors>
+		<cosponsor id="300066" joined="1993-02-17"/>
+		<cosponsor id="300056" joined="1993-03-30"/>
+		<cosponsor id="406084" joined="1993-04-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1401-1402)</text></action>
+		<action datetime="1993-02-04" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1993" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Day care"/>
+		<term name="Employee benefit plans"/>
+		<term name="Tax credits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Amends the Internal Revenue Code to make available to an employer an income tax credit for expenses paid or incurred to acquire, construct, rehabilitate, or expand a qualified on-site day care facility operated by the employer for the care of enrollees, at least 30 percent of whom must be dependents of the employer's employees. Terminates the credit after December 31, 1996.
+
+	</summary>
+</bill>

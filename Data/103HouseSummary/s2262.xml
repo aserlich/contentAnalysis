@@ -1,0 +1,47 @@
+<bill session="103" type="s" number="2262" updated="2012-07-17T04:35:00-04:00">
+	<state datetime="1994-07-01">REFERRED</state>
+	<status><introduced datetime="1994-07-01"/></status>
+
+	<introduced datetime="1994-07-01"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Elwha River Ecosystem and Fisheries Restoration Act to provide greater flexibility in the expenditure of funds, and for other purposes.</title>
+	</titles>
+	<sponsor id="300076"/>
+	<cosponsors>
+		<cosponsor id="401709" joined="1994-07-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-01" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8385-8386)</text></action>
+		<action datetime="1994-07-01" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1994-07-27"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Water and Power. Hearings held.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee" />
+		<committee code="SSEG-3" name="Senate Energy and Natural Resources" subcommittee="Water and Power" activity="Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4909" />
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Anadromous fishes"/>
+		<term name="Animals"/>
+		<term name="Economics and public finance"/>
+		<term name="Ecosystem management"/>
+		<term name="Environmental protection"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Fishery management"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Rivers"/>
+		<term name="Washington State"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/1/1994--Introduced.
+Amends the Elwha River Ecosystem and Fisheries Restoration Act to remove requirements that Act funds appropriated to the Secretary of the Interior be spent through the Assistant Secretary of the Interior for Fish, Wildlife, and Parks and Act funds appropriated to the Secretary of Commerce be spent through the National Marine Fisheries Service.
+
+	</summary>
+</bill>

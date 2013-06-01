@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="4913" updated="2010-04-19T11:57:23-04:00">
+	<state datetime="1994-08-05">REFERRED</state>
+	<status><introduced datetime="1994-08-05"/></status>
+
+	<introduced datetime="1994-08-05"/>
+	<titles>
+		<title type="short" as="introduced">Emergency Spending Control Act of 1994</title>
+		<title type="official" as="introduced">To ensure that no extraneous items are included in any bill containing an emergency designation.</title>
+	</titles>
+	<sponsor id="400389"/>
+	<cosponsors>
+		<cosponsor id="408618" joined="1994-08-05"/>
+		<cosponsor id="400590" joined="1994-08-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-05"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-08-05"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1994-08-08"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1994-08-17"><committee name="House Committee on Government Operations"/><text>Provisions of Measure Contained in H.R.4906.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Appropriations"/>
+		<term name="Budget deficits"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Government spending reductions"/>
+		<term name="House rules and procedure"/>
+		<term name="Legislation"/>
+		<term name="Legislative resolutions"/>
+		<term name="Off-budget expenditures"/>
+		<term name="Senate rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/1994--Introduced.
+Emergency Spending Control Act of 1994 - Amends the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act) to limit emergency appropriations and legislation to the matter of emergency. Allows such a statute to contain other offsetting provisions that reduce spending or non-emergency appropriations for the designated emergency. Makes it out of order in the House of Representatives or the Senate to consider any bill or joint resolution containing an emergency designation, if the legislation provides an appropriation for any other item or matter.
+
+	</summary>
+</bill>

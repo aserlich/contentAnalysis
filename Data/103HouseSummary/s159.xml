@@ -1,0 +1,52 @@
+<bill session="103" type="s" number="159" updated="2012-07-17T05:52:59-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to repeal the luxury excise tax.</title>
+	</titles>
+	<sponsor id="403515"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1993-01-21"/>
+		<cosponsor id="403669" joined="1993-01-21"/>
+		<cosponsor id="300150" joined="1993-01-21"/>
+		<cosponsor id="300071" joined="1993-01-21"/>
+		<cosponsor id="300052" joined="1993-01-21"/>
+		<cosponsor id="409923" joined="1993-01-21"/>
+		<cosponsor id="403142" joined="1993-01-26"/>
+		<cosponsor id="400562" joined="1993-01-21"/>
+		<cosponsor id="300015" joined="1993-01-21"/>
+		<cosponsor id="406188" joined="1993-01-21"/>
+		<cosponsor id="300089" joined="1993-01-21"/>
+		<cosponsor id="300079" joined="1993-01-21"/>
+		<cosponsor id="300155" joined="1993-01-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S588)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Boats and boating"/>
+		<term name="Excise tax"/>
+		<term name="Fur trade"/>
+		<term name="General aviation aircraft"/>
+		<term name="Jewelry trade"/>
+		<term name="Motor vehicles"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Amends the Internal Revenue code to repeal the luxury excise tax on passenger vehicles, boats, aircraft, jewelry, and furs.
+
+	</summary>
+</bill>

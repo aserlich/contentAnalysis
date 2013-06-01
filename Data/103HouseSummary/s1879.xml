@@ -1,0 +1,45 @@
+<bill session="103" type="s" number="1879" updated="2012-07-17T05:26:30-04:00">
+	<state datetime="1994-02-28">REFERRED</state>
+	<status><introduced datetime="1994-02-28"/></status>
+
+	<introduced datetime="1994-02-28"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide disaster assistance to producers for certain losses due to freezing conditions in 1994, and for other purposes.</title>
+	</titles>
+	<sponsor id="300023"/>
+	<cosponsors>
+		<cosponsor id="300069" joined="1994-02-28"/>
+		<cosponsor id="408939" joined="1994-06-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-28" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2034)</text></action>
+		<action datetime="1994-02-28" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1994-07-29"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Agricultural Production.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Agricultural Production and Stabilization of Prices" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Agricultural economics"/>
+		<term name="Dairy industry"/>
+		<term name="Disaster relief"/>
+		<term name="Emergency management"/>
+		<term name="Livestock"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Trees"/>
+		<term name="Weather"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/28/1994--Introduced.
+Amends Federal law to provide disaster assistance for orchard, forest, livestock, and dairy losses suffered in 1994 due to certain freezing conditions.
+
+	</summary>
+</bill>

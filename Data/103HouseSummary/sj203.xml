@@ -1,0 +1,38 @@
+<bill session="103" type="sj" number="203" updated="2012-07-17T05:40:13-04:00">
+	<state datetime="1994-06-23">REFERRED</state>
+	<status><introduced datetime="1994-06-23"/></status>
+
+	<introduced datetime="1994-06-23"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution designating July 12, 1994, as &quot;Public Health Awareness Day&quot;.</title>
+	</titles>
+	<sponsor id="300059"/>
+	<cosponsors>
+		<cosponsor id="406188" joined="1994-06-23"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-23" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S7585)</text></action>
+		<action datetime="1994-06-23" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="hr" number="464" />
+	</relatedbills>
+	<subjects>
+		<term name="Special days"/>
+		<term name="Commemorations"/>
+		<term name="Health"/>
+		<term name="Public health"/>
+		<term name="Public health personnel"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/23/1994--Introduced.
+Designates July 12, 1994, as Public Health Awareness Day.
+
+	</summary>
+</bill>

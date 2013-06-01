@@ -1,0 +1,79 @@
+<bill session="103" type="h" number="3456" updated="2012-07-17T05:08:58-04:00">
+	<state datetime="1993-11-16T14:17:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-16T14:17:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-11-04"/>
+	<titles>
+		<title type="short" as="introduced">Surviving Spouses' Benefits Act of 1993</title>
+		<title type="short" as="passed house">Surviving Spouses' Benefits Act of 1993</title>
+		<title type="official" as="introduced">To amend title 38, United States Code, to restore certain benefits eligibility to unremarried surviving spouses of veterans.</title>
+	</titles>
+	<sponsor id="409966"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1993-11-10"/>
+		<cosponsor id="400329" joined="1993-11-10"/>
+		<cosponsor id="407838" joined="1993-11-04"/>
+		<cosponsor id="400030" joined="1993-11-10"/>
+		<cosponsor id="400504" joined="1993-11-04"/>
+		<cosponsor id="409219" joined="1993-11-10"/>
+		<cosponsor id="400610" joined="1993-11-04"/>
+		<cosponsor id="400906" joined="1993-11-04"/>
+		<cosponsor id="405313" joined="1993-11-10"/>
+		<cosponsor id="400422" joined="1993-11-04"/>
+		<cosponsor id="400127" joined="1993-11-04"/>
+		<cosponsor id="408556" joined="1993-11-10"/>
+		<cosponsor id="400219" joined="1993-11-04"/>
+		<cosponsor id="400126" joined="1993-11-04"/>
+		<cosponsor id="408476" joined="1993-11-10"/>
+		<cosponsor id="400118" joined="1993-11-04"/>
+		<cosponsor id="400028" joined="1993-11-10"/>
+		<cosponsor id="400388" joined="1993-11-04"/>
+		<cosponsor id="400389" joined="1993-11-10"/>
+		<cosponsor id="410695" joined="1993-11-04"/>
+		<cosponsor id="400380" joined="1993-11-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-04" state="REFERRED"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-11-09"><committee name="House Committee on Veterans' Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-11-09"  state="REPORTED"><committee name="House Committee on Veterans' Affairs"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1993-11-10T17:21:00-05:00"><text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 103-350.</text></action>
+		<calendar number="189" datetime="1993-11-10T17:21:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 189.</text></calendar>
+		<action datetime="1993-11-16T14:08:00-05:00"><text>Mr. Montgomery moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1993-11-16T14:09:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9731-9733"/></action>
+		<action datetime="1993-11-16T14:09:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-16T14:17:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-16T14:17:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-18"><text>Read twice and referred to the Committee on Veterans.</text></action>
+		<action datetime="1994-10-07" state="REPORTED"><committee name="House Committee on Veterans' Affairs"/><text>See H.R.5244.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5244" />
+		<bill relation="unknown" session="103" type="h" number="5244" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Cemeteries and funerals"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Divorcees"/>
+		<term name="Economics and public finance"/>
+		<term name="Families"/>
+		<term name="Labor and employment"/>
+		<term name="Military dependents"/>
+		<term name="Remarriage"/>
+		<term name="Survivors' benefits"/>
+		<term name="Veterans' benefits"/>
+		<term name="Veterans' disability compensation"/>
+		<term name="Veterans' pensions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/16/1993--Passed House amended. Surviving Spouses' Benefits Act of 1993 - Provides for the surviving spouse of a veteran who has remarried where that marriage has subsequently been terminated by death or divorce: (1) a special death gratuity, subject to reduction due to the receipt of various other benefits; and (2) restoration of pension eligibility that was terminated due to remarriage. Restores national cemetery burial eligibility for such surviving spouses. Limits the FY 1995 cost of living adjustments in the rates of veterans' disability compensation and dependency and indemnity compensation (DIC) to an increase equal to the percentage increase in benefits payable under title II (Old Age, Survivors and Disability Insurance) of the Social Security Act as of December 1, 1994. Limits FY 1995 DIC increases to 50 percent of the new law increase for such fiscal year.
+
+	</summary>
+</bill>

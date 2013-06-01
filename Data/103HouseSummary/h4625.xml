@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="4625" updated="2010-04-19T11:12:34-04:00">
+	<state datetime="1994-06-22">REFERRED</state>
+	<status><introduced datetime="1994-06-22"/></status>
+
+	<introduced datetime="1994-06-22"/>
+	<titles>
+		<title type="short" as="introduced">Egg Products Inspection Act Technical Amendments of 1994</title>
+		<title type="official" as="introduced">To make technical corrections to the Egg Products Inspection Act.</title>
+	</titles>
+	<sponsor id="400030"/>
+	<cosponsors>
+		<cosponsor id="400502" joined="1994-06-22"/>
+		<cosponsor id="406920" joined="1994-06-22"/>
+		<cosponsor id="400221" joined="1994-06-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-22"><text>Sponsor introductory remarks on measure. (CR E1283)</text></action>
+		<action datetime="1994-06-22"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-06-24"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Livestock.</text></action>
+		<action datetime="1994-06-24"><committee name="House Committee on Agriculture"/><text>Executive Comment Requested from USDA.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="HSAG-03" name="House Agriculture" subcommittee="Livestock" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Food"/>
+		<term name="Agriculture"/>
+		<term name="Agriculture in foreign trade"/>
+		<term name="Food adulteration and inspection"/>
+		<term name="Food safety"/>
+		<term name="Foreign trade"/>
+		<term name="Import restrictions"/>
+		<term name="Labeling"/>
+		<term name="Poultry industry"/>
+		<term name="Refrigeration"/>
+		<term name="Storage"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/22/1994--Introduced.
+Egg Products Inspection Act Technical Amendments of 1994 - Amends the Egg Products Inspection Act with regard to egg shell temperature and handling (with exceptions for small producers). Subjects imported eggs to similar requirements.
+
+	</summary>
+</bill>

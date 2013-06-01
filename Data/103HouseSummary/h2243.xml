@@ -1,0 +1,126 @@
+<bill session="103" type="h" number="2243" updated="2012-07-17T04:25:12-04:00">
+	<state datetime="1994-08-26">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-08-26" /></status>
+
+	<introduced datetime="1993-05-24"/>
+	<titles>
+		<title type="popular" as="">Authorization bill FY94, Federal Trade Commission</title>
+		<title type="popular" as="">Federal Trade Commission FY94 Authorization bill</title>
+		<title type="short" as="introduced">Federal Trade Commission Act Amendments of 1993</title>
+		<title type="short" as="passed senate">Federal Trade Commission Act Amendments of 1993</title>
+		<title type="short" as="enacted">Federal Trade Commission Act Amendments of 1994</title>
+		<title type="official" as="introduced">To amend the Federal Trade Commission Act to extend the authorization of appropriations in such Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="410567"/>
+	<cosponsors>
+		<cosponsor id="400110" joined="1993-05-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-24" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E1336-1337)</text></action>
+		<action datetime="1993-05-24" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-05-26"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Transportation and Hazardous Materials.</text></action>
+		<action datetime="1993-05-26"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Energy and Commerce" subcommittee="Transportation and Hazardous Materials"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1993-06-08"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-06-08"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-06-17T17:42:00-04:00"><text>Reported by the Committee on Energy and Commerce. H. Rept. 103-138.</text></action>
+		<calendar number="76" datetime="1993-06-17T17:43:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 76.</text></calendar>
+		<action datetime="1993-06-21T12:27:00-04:00"><text>Mr. Swift moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-06-21T12:27:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3844-3846"/></action>
+		<action datetime="1993-06-21T12:27:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-06-21T12:33:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-06-21T12:33:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-06-22"><text>Received in the Senate and read twice and referred to the Committee on Commerce.</text></action>
+		<action datetime="1993-09-22"><text>Senate Committee on Commerce discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S12260"/></action>
+		<action datetime="1993-09-22"><text>Measure laid before Senate by unanimous consent.</text></action>
+		<action datetime="1993-09-22"><text>Senate struck all after the Enacting Clause and substituted the language of S. 1179 amended.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-09-22" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate in lieu of S. 1179 with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-09-27"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-09-29T15:04:00-04:00"><text>Mr. Swift asked unanimous consent that the House disagree to the Senate amendment, and request a conference.</text><reference label="consideration" ref="CR H7209"/></action>
+		<action datetime="1993-09-29T15:04:00-04:00"><text>On motion that the House disagree to the Senate amendment, and request a conference Agreed to without objection.</text></action>
+		<action datetime="1993-09-29T15:04:00-04:00"><text>The Speaker appointed conferees: Dingell, Swift, Manton, Moorhead, and Oxley.</text></action>
+		<action datetime="1993-09-29T15:04:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-09-29"><text>Message on House action received in Senate and at desk: House requests a conference.</text></action>
+		<action datetime="1993-10-05"><text>Senate insists on its amendment agrees to request for a conference, appoints conferees Hollings; Ford; Bryan; Danforth; Gorton.</text><reference label="consideration" ref="CR S13087"/></action>
+		<action datetime="1993-10-06"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-07-20"><text>Conferees agreed to file conference report.</text></action>
+		<action datetime="1994-07-21T17:02:00-04:00"><text>Conference report H. Rept. 103-617 filed.</text><reference label="text of conference report" ref="CR H6006-6009"/></action>
+		<action datetime="1994-07-22"><text>Conference papers: Senate report and managers' statement held at the desk in Senate.</text></action>
+		<action datetime="1994-07-25T12:17:00-04:00"><text>Mr. Swift moved to suspend the rules and agree to the conference report, H. Rept. 103-617.</text><reference label="consideration" ref="CR H6162-6165"/></action>
+		<action datetime="1994-07-25T12:17:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-07-25T12:34:00-04:00"><text>Motions to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-07-25T12:34:00-04:00"><text>On motion to suspend the rules and agree to the conference report Agreed to by voice vote.</text></action>
+		<action datetime="1994-07-26"><text>Conference papers: message on House action held at the desk in Senate.</text></action>
+		<vote how="by Voice Vote" type="conference" datetime="1994-08-11" where="s" result="pass" ><text>Senate agreed to conference report by Voice Vote.</text><reference label="consideration" ref="CR S11317"/></vote>
+		<topresident datetime="1994-08-11" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-08-12"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-08-15" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-08-26" ><text>Signed by President.</text></signed>
+		<enacted number="103-312" type="public" datetime="1994-08-26"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-312.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Transportation and Hazardous Materials" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="supersedes" session="103" type="s" number="1179" />
+		<bill relation="unknown" session="103" type="s" number="1179" />
+		<bill relation="unknown" session="103" type="s" number="1179" />
+	</relatedbills>
+	<subjects>
+		<term name="Commerce"/>
+		<term name="Actions and defenses"/>
+		<term name="Administrative procedure"/>
+		<term name="Agricultural cooperatives"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural price supports"/>
+		<term name="Agriculture and food"/>
+		<term name="Antitrust actions"/>
+		<term name="Antitrust law"/>
+		<term name="Authorization"/>
+		<term name="Civil procedure"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Consent decrees"/>
+		<term name="Consumer credit"/>
+		<term name="Corporate divestiture"/>
+		<term name="Crime and law enforcement"/>
+		<term name="Deceptive advertising"/>
+		<term name="Economics and public finance"/>
+		<term name="Evidence (Law)"/>
+		<term name="Expert witnesses"/>
+		<term name="Federal Trade Commission"/>
+		<term name="Federal employees"/>
+		<term name="Federal-state relations"/>
+		<term name="Fees"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Government operations and politics"/>
+		<term name="Governmental investigations"/>
+		<term name="Independent regulatory commissions"/>
+		<term name="Injunctions"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Law"/>
+		<term name="Legal fees"/>
+		<term name="Loans"/>
+		<term name="Marketing of farm produce"/>
+		<term name="Parties to actions"/>
+		<term name="Price discrimination"/>
+		<term name="Price fixing"/>
+		<term name="Price policy"/>
+		<term name="Productivity in government"/>
+		<term name="Prosecution"/>
+		<term name="Resale price maintenance"/>
+		<term name="Restrictive trade practices"/>
+		<term name="State laws"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/21/1994--Conference report filed in House. Federal Trade Commission Act Amendments of 1994 - Amends the Federal Trade Commission Act to deny authority to the Federal Trade Commission (FTC) to study, investigate, or prosecute agricultural cooperatives for any action not in violation of antitrust Acts, or to study or investigate agricultural marketing orders. (Sec. 3) Repeals the authority of the FTC to pay attorney fees, expert witness fees, and other costs of participating in a rulemaking proceeding. (Sec. 4) Prohibits the FTC from instituting a civil action, in cases involving consent orders, to obtain civil penalties for unfair or deceptive acts or practices. Permits: (1) a district court to review certain FTC determinations of law which find an act or practice unfair or deceptive; (2) the FTC to issue a notice of proposed rulemaking for certain rules only where it has reason to believe that the unfair or deceptive acts or practices are prevalent; and (3) the FTC to issue civil investigative demands for physical evidence. (Sec. 6) Revises the effective dates for cease and desist orders issued by the FTC. (Sec. 9) Requires that an unfair act or practice cause or be likely to cause substantial injury to consumers which is not reasonably avoidable by consumers themselves and not outweighed by countervailing benefits to consumers or to competition. (Sec. 10) Authorizes a district court to: (1) summon any person, partnership, or corporation without regard to whether they reside or transact business in the district in which a suit claiming false advertisement is brought; and (2) serve process in any district. Specifies requirements for the service of process. (Sec. 11) Prohibits the FTC from using any authorized funds for the purpose of submitting statements to, appearing before, or intervening in the proceedings of, any Federal or State agency or legislative body concerning proposed rules or legislation that the agency or legislative body is considering, without notifying specified congressional committees as soon as possible. (Sec. 12) Directs the FTC to: (1) conduct an evaluation of the level of its personnel resources and the manner in which such resources are allocated; and (2) review its statutory responsibilities to identify matters within its jurisdiction where Federal enforcement is particularly necessary or desirable and those areas that might more effectively be enforced at the State or local level. (Sec. 14) Authorizes appropriations for FY 1994 through 1996.
+
+	</summary>
+</bill>

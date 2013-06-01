@@ -1,0 +1,67 @@
+<bill session="103" type="h" number="175" updated="2012-07-17T04:30:22-04:00">
+	<state datetime="1993-11-17">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-11-17" /></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 18, United States Code, to authorize the Federal Bureau of Investigation to obtain certain telephone subscriber information.</title>
+	</titles>
+	<sponsor id="403776"/>
+	<cosponsors>
+		<cosponsor id="400192" joined="1993-01-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05" state="REFERRED"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-02-10"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+		<action datetime="1993-03-17"><committee name="House Committee on Judiciary" subcommittee="Civil and Constitutional Rights"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-03-17"><committee name="House Committee on Judiciary" subcommittee="Civil and Constitutional Rights"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-03-24"><committee name="House Committee on Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-03-24"  state="REPORTED"><committee name="House Committee on Judiciary"/><text>Ordered to be Reported.</text></calendar>
+		<action datetime="1993-03-29T12:05:00-05:00"><text>Reported by the Committee on Judiciary. H. Rept. 103-46.</text></action>
+		<calendar number="22" datetime="1993-03-29T12:06:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 22.</text></calendar>
+		<action datetime="1993-03-29T15:34:00-05:00"><text>Mr. Brooks moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-03-29T15:34:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1648-1650, H1661-1662"/></action>
+		<action datetime="1993-03-29T15:34:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1993-03-29T15:51:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1993-03-29T17:06:00-05:00"><text>Considered as unfinished business.</text></action>
+		<vote how="roll" type="vote" roll="111" datetime="1993-03-29T17:14:00-05:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 367 - 6 (Roll no. 111).</text></vote>
+		<action datetime="1993-03-29T17:14:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-03-31"><text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Judiciary"/><text>Referred to Subcommittee on Technology and the Law.</text></action>
+		<action datetime="1993-11-04"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S15086"/></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-11-04" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text></vote>
+		<topresident datetime="1993-11-04" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-11-08"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-11-09" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-11-17" ><text>Signed by President.</text></signed>
+		<enacted number="103-142" type="public" datetime="1993-11-17"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-142.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral, Markup, Reporting" />
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+		<committee code="" name="Senate Judiciary" subcommittee="Technology and the Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Business records"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Counterintelligence"/>
+		<term name="Criminal investigation"/>
+		<term name="Foreign agents"/>
+		<term name="Science, technology, communications"/>
+		<term name="Telephone"/>
+		<term name="Terrorism"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/1993--Introduced.
+Authorizes the Director of the Federal Bureau of Investigation or his designee in a position not lower than Deputy Assistant Director to request: (1) the name, address, length of service, and toll billing records of a person or entity (person) if the Director certifies in writing to the wire or electronic communication service provider that such information is relevant to an authorized foreign counterintelligence investigation and that there are specific, articulable facts giving reason to believe that the person is a foreign power or agent (current law does not specify the type of information sought or the position of the designee); and (2) the name, address, and length of service of a person if the Director certifies that the information sought is relevant to an authorized foreign counterintelligence investigation and that there are specific and articulable facts giving reason to believe that communication facilities registered in the name of the person have been used in communication with an individual who is or has been engaged in international terrorism or clandestine intelligence activities, or with a foreign power or agent concerning international terrorism or clandestine intelligence activities, that involve or may involve a violation of U.S. criminal statutes. Requires the Director to report semi-annually to the House and Senate Judiciary Committees concerning requests for information under this Act.
+
+	</summary>
+</bill>

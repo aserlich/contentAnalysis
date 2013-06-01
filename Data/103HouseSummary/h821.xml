@@ -1,0 +1,84 @@
+<bill session="103" type="h" number="821" updated="2012-07-17T05:43:37-04:00">
+	<state datetime="1994-05-04">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-05-04" /></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to extend eligibility for burial in national cemeteries to persons who have 20 years of service creditable for retired pay as members of a reserve component of the Armed Forces.</title>
+	</titles>
+	<sponsor id="400037"/>
+	<cosponsors>
+		<cosponsor id="409205" joined="1993-07-27"/>
+		<cosponsor id="409578" joined="1993-07-14"/>
+		<cosponsor id="400332" joined="1993-07-14"/>
+		<cosponsor id="407838" joined="1993-07-27"/>
+		<cosponsor id="408618" joined="1993-07-27"/>
+		<cosponsor id="400055" joined="1993-06-10"/>
+		<cosponsor id="400030" joined="1993-07-27"/>
+		<cosponsor id="408556" joined="1993-07-27"/>
+		<cosponsor id="400104" joined="1993-06-10"/>
+		<cosponsor id="400219" joined="1993-07-27"/>
+		<cosponsor id="408476" joined="1993-07-27"/>
+		<cosponsor id="400056" joined="1993-05-26"/>
+		<cosponsor id="400516" joined="1993-07-21"/>
+		<cosponsor id="400389" joined="1993-02-04"/>
+		<cosponsor id="410695" joined="1993-03-03"/>
+		<cosponsor id="405313" joined="1993-07-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04" state="REFERRED"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action datetime="1993-02-09"><committee name="House Committee on Veterans' Affairs"/><text>Referred to the Subcommittee on Housing and Memorial Affairs.</text></action>
+		<action datetime="1993-06-10"><committee name="House Committee on Veterans' Affairs" subcommittee="Housing and Memorial Affairs"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-07-22"><committee name="House Committee on Veterans' Affairs" subcommittee="Housing and Memorial Affairs"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-07-22"><committee name="House Committee on Veterans' Affairs" subcommittee="Housing and Memorial Affairs"/><text>Forwarded by Subcommittee to Full Committee.</text></action>
+		<action datetime="1993-07-27"><committee name="House Committee on Veterans' Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-07-27"  state="REPORTED"><committee name="House Committee on Veterans' Affairs"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1993-07-29T19:44:00-04:00"><text>Reported by the Committee on Veterans' Affairs. H. Rept. 103-197.</text></action>
+		<calendar number="109" datetime="1993-07-29T19:44:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 109.</text></calendar>
+		<action datetime="1993-08-02T12:45:00-04:00"><text>Mr. Montgomery moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1993-08-02T12:46:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5562-5566"/></action>
+		<action datetime="1993-08-02T12:46:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-08-02T13:04:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1993-08-02T13:04:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-08-03"><text>Received in the Senate and read twice and referred to the Committee on Veterans.</text></action>
+		<action datetime="1993-11-11"><text>Senate Committee on Veterans discharged by Unanimous Consent.</text></action>
+		<action datetime="1993-11-11"><text>Measure laid before Senate.</text></action>
+		<action datetime="1993-11-11"><text>Senate struck all after the Enacting Clause and substituted the language of S. 1620.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1993-11-11" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate in lieu of S. 1620 with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-11-15"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-04-18T12:31:00-04:00"><text>House agreed to Senate amendment with amendments pursuant to H. Res. 406.</text><reference label="consideration" ref="CR H2377"/></action>
+		<action datetime="1994-04-19"><text>Message on House action received in Senate and at desk: House amendments to amendments.</text></action>
+		<vote how="by Voice Vote" type="pingpong" datetime="1994-04-20" where="s" result="pass"  state="PASSED:BILL"><text>Senate agreed to House amendments to Senate amendment by Voice Vote.</text><reference label="consideration" ref="CR S4591-4592"/></vote>
+		<topresident datetime="1994-04-20" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-04-21"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-04-22" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-05-04" ><text>Signed by President.</text></signed>
+		<enacted number="103-240" type="public" datetime="1994-05-04"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-240.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Veterans' Affairs" subcommittee="Housing and Memorial Affairs" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hr" number="406" />
+		<bill relation="unknown" session="103" type="hr" number="406" />
+		<bill relation="supersedes" session="103" type="s" number="1620" />
+		<bill relation="unknown" session="103" type="s" number="1620" />
+		<bill relation="unknown" session="103" type="s" number="1620" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Armed forces reserves"/>
+		<term name="Cemeteries and funerals"/>
+		<term name="Military dependents"/>
+		<term name="Veterans' benefits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/18/1994--House agreed to Senate amendment with amendment. Provides eligibility for burial in national cemeteries for an individual (and his or her dependents) who was entitled to retired pay as a member of the reserves (at least 20 years of service in the reserves) or who would have been entitled to retired pay but for the fact that such person was under 60 years of age.
+
+	</summary>
+</bill>

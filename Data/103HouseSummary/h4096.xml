@@ -1,0 +1,64 @@
+<bill session="103" type="h" number="4096" updated="2010-04-19T09:49:31-04:00">
+	<state datetime="1994-03-21">REFERRED</state>
+	<status><introduced datetime="1994-03-21"/></status>
+
+	<introduced datetime="1994-03-21"/>
+	<titles>
+		<title type="official" as="introduced">To ensure that certain unresolved commercial disputes between American firms and Saudi Arabia are resolved satisfactorily.</title>
+	</titles>
+	<sponsor id="400502"/>
+	<cosponsors>
+		<cosponsor id="400160" joined="1994-05-25"/>
+		<cosponsor id="408052" joined="1994-05-25"/>
+		<cosponsor id="400500" joined="1994-05-25"/>
+		<cosponsor id="400359" joined="1994-05-25"/>
+		<cosponsor id="400511" joined="1994-05-25"/>
+		<cosponsor id="401854" joined="1994-05-25"/>
+		<cosponsor id="400140" joined="1994-10-07"/>
+		<cosponsor id="401417" joined="1994-05-25"/>
+		<cosponsor id="400201" joined="1994-05-25"/>
+		<cosponsor id="400204" joined="1994-05-25"/>
+		<cosponsor id="407669" joined="1994-05-25"/>
+		<cosponsor id="400611" joined="1994-10-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-21"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1994-04-04"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Europe and the Middle East.</text></action>
+		<action datetime="1994-04-04"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Economic Policy, Trade and Environment.</text></action>
+		<action datetime="1994-04-18"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Requested from State, Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Europe and the Middle East" activity="Referral" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Economic Policy, Trade, and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Business"/>
+		<term name="Claims"/>
+		<term name="Commercial arbitration"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Diplomacy"/>
+		<term name="Foreign policy"/>
+		<term name="Foreign trade"/>
+		<term name="Government liability (International law)"/>
+		<term name="International affairs"/>
+		<term name="Law"/>
+		<term name="Middle East and North Africa"/>
+		<term name="Public contracts"/>
+		<term name="Saudi Arabia"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/21/1994--Introduced.
+Encourages the President to take steps to ensure that certain unresolved American commercial claims against Saudi Arabia are resolved satisfactorily. Declares that such steps should include the issuance of a diplomatic demarche requesting that American firms be quickly and justly compensated for damage resulting from contract disputes with Saudi Arabia.
+
+	</summary>
+</bill>

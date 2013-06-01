@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="3662" updated="2010-04-19T08:41:38-04:00">
+	<state datetime="1993-11-22">REFERRED</state>
+	<status><introduced datetime="1993-11-22"/></status>
+
+	<introduced datetime="1993-11-22"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Ethics in Government Act of 1978 to require that Members, officers, and employees of Congress required to file reports under this Act disclose in those reports additional information relating to travel financed by persons with any interest in legislation before the Congress, and for other purposes.</title>
+	</titles>
+	<sponsor id="400269"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-11-22"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-11-23"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Accounts.</text></action>
+		<action datetime="1993-12-01"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+		<action datetime="1993-12-03"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Civil Service.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Accounts" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Civil Service" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional employees"/>
+		<term name="Congressional ethics"/>
+		<term name="Congressional officers"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Congressional travel"/>
+		<term name="Financial disclosure"/>
+		<term name="Government information"/>
+		<term name="Government paperwork"/>
+		<term name="Legislation"/>
+		<term name="Lobbying"/>
+		<term name="Members of Congress"/>
+		<term name="Politics and government"/>
+		<term name="Travel costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/22/1993--Introduced.
+Amends the Ethics in Government Act of 1978 (the Act) to require a Member, officer, or employee of the Congress, to include in required reports the following information regarding travel by that individual or a member of that individual's immediate family: (1) a list of travel financed by any person with any interest in legislation before the Congress; (2) the name and address of each person with an interest in such legislation and the travel that person financed; (3) an itemization of expenses incurred or reimbursed respecting that travel, including copies of all vouchers and receipts; and (4) the reason for that travel, including any specific legislation or policy concerns. Amends the Federal Regulation of Lobbying Act to require a lobbyist to include in each report required to be filed under such Act: (1) a list of all travel by any individual who is a Member, officer, or employee of the Congress required to file a report under the Ethics in Government Act of 1978 or by a member of that individual's immediate family, that was financed by that lobbyist during the preceding calendar quarter; (2) an itemization of expenses respecting that travel that were paid by that lobbyist; and (3) the reason for that travel, including any specific legislation or policy concerns.
+
+	</summary>
+</bill>

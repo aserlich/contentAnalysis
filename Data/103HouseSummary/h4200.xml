@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="4200" updated="2010-04-19T10:05:39-04:00">
+	<state datetime="1994-04-13">REFERRED</state>
+	<status><introduced datetime="1994-04-13"/></status>
+
+	<introduced datetime="1994-04-13"/>
+	<titles>
+		<title type="official" as="introduced">To amend chapter 84 of title 5, United States Code, to provide that annuities for Members of Congress be computed under the same formula as applies to Federal employees generally, and for other purposes.</title>
+	</titles>
+	<sponsor id="400154"/>
+	<cosponsors>
+		<cosponsor id="404083" joined="1994-08-10"/>
+		<cosponsor id="407124" joined="1994-08-10"/>
+		<cosponsor id="400050" joined="1994-08-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-04-13"><text>Sponsor introductory remarks on measure. (CR E634)</text></action>
+		<action datetime="1994-04-13"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-04-22"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Annuities"/>
+		<term name="Congressional salaries and pensions"/>
+		<term name="Members of Congress"/>
+		<term name="Payroll deductions"/>
+		<term name="Pensions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/13/1994--Introduced.
+Amends Federal employees' retirement law to compute annuities for Members of Congress under the same formula as applies to Federal employees generally. Subjects Members to the same guidelines as apply to Federal employees with respect to deductions from pay and Government contributions for retirement plans.
+
+	</summary>
+</bill>

@@ -1,0 +1,121 @@
+<bill session="103" type="h" number="2099" updated="2010-04-19T04:39:19-04:00">
+	<state datetime="1993-05-12">REFERRED</state>
+	<status><introduced datetime="1993-05-12"/></status>
+
+	<introduced datetime="1993-05-12"/>
+	<titles>
+		<title type="short" as="introduced">Equity for Congress Act</title>
+		<title type="official" as="introduced">To require the Congress to comply with the laws which it requires others to comply with.</title>
+	</titles>
+	<sponsor id="400591"/>
+	<cosponsors>
+		<cosponsor id="400509" joined="1993-06-30"/>
+		<cosponsor id="400553" joined="1993-05-12"/>
+		<cosponsor id="400183" joined="1993-05-12"/>
+		<cosponsor id="400156" joined="1993-05-12"/>
+		<cosponsor id="406768" joined="1993-05-12"/>
+		<cosponsor id="407465" joined="1993-05-12"/>
+		<cosponsor id="407124" joined="1993-05-12"/>
+		<cosponsor id="400127" joined="1993-05-12"/>
+		<cosponsor id="400574" joined="1993-06-30"/>
+		<cosponsor id="400578" joined="1993-06-30"/>
+		<cosponsor id="401033" joined="1993-05-12"/>
+		<cosponsor id="407558" joined="1993-05-12"/>
+		<cosponsor id="400010" joined="1993-05-12"/>
+		<cosponsor id="406482" joined="1993-05-12"/>
+		<cosponsor id="410974" joined="1993-06-30"/>
+		<cosponsor id="300085" joined="1993-06-30"/>
+		<cosponsor id="400615" joined="1993-06-30"/>
+		<cosponsor id="400649" joined="1993-05-12"/>
+		<cosponsor id="409627" joined="1993-05-12"/>
+		<cosponsor id="400599" joined="1993-05-12"/>
+		<cosponsor id="401081" joined="1993-06-30"/>
+		<cosponsor id="400516" joined="1993-06-30"/>
+		<cosponsor id="400075" joined="1993-06-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-20"><text>Sponsor introductory remarks on measure. (CR H1912)</text></action>
+		<action datetime="1993-05-12"><text>Sponsor introductory remarks on measure. (CR H2433)</text></action>
+		<action datetime="1993-05-12"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-05-12"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-05-12"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-05-12"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-12"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-05-12"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-05-13"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Personnel and Police.</text></action>
+		<action datetime="1993-05-13"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Libraries and Memorials.</text></action>
+		<action datetime="1993-05-14"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Information, Justice, Transportation and Agriculture.</text></action>
+		<action datetime="1993-05-24"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Public Buildings and Grounds.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Select Education and Civil Rights.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor Standards, Occupational Health and Safety.</text></action>
+		<action datetime="1993-06-24"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Civil and Constitutional Rights.</text></action>
+		<action datetime="1994-07-25"><committee name="House Committee on Government Operations"/><text>See H.R.4822.</text></action>
+		<action datetime="1994-07-25"><committee name="House Committee on Judiciary"/><text>For Further Action See H.R.4822.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+		<committee code="HSED-04" name="House Education and Labor" subcommittee="Select Education and Civil Rights" activity="Referral" />
+		<committee code="HSED-10" name="House Education and Labor" subcommittee="Labor Standards, Occupational Health and Safety" activity="Referral" />
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Information, Justice, Transportation, and Agriculture" activity="Referral" />
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Personnel and Police" activity="Referral" />
+		<committee code="" name="House Administration" subcommittee="Libraries and Memorials" activity="Referral" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Civil and Constitutional Rights" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Public Buildings and Grounds" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="107" />
+		<bill relation="unknown" session="103" type="h" number="4822" />
+		<bill relation="identical" session="103" type="s" number="579" />
+		<bill relation="unknown" session="103" type="s" number="1161" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Actions and defenses"/>
+		<term name="Administrative remedies"/>
+		<term name="Age and employment"/>
+		<term name="Age discrimination"/>
+		<term name="Class actions (Civil procedure)"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional employees"/>
+		<term name="Congressional ethics"/>
+		<term name="Congressional voting"/>
+		<term name="Damages"/>
+		<term name="Discrimination in employment"/>
+		<term name="Employee-management relations in government"/>
+		<term name="Employment of the handicapped"/>
+		<term name="Equality before the law"/>
+		<term name="Federal employees"/>
+		<term name="Freedom of information"/>
+		<term name="Hours of labor"/>
+		<term name="House rules and procedure"/>
+		<term name="Leave of absence"/>
+		<term name="Legislation"/>
+		<term name="Legislative resolutions"/>
+		<term name="Minimum wages"/>
+		<term name="Occupational health and safety"/>
+		<term name="Older workers"/>
+		<term name="Overtime"/>
+		<term name="Parental leave"/>
+		<term name="Racial discrimination"/>
+		<term name="Right of privacy"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Sick leave"/>
+		<term name="Special prosecutors"/>
+		<term name="Unfair labor practices"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/12/1993--Introduced.
+Equity for Congress Act - Makes applicable to the Congress the following Federal laws: (1) with respect to employment title VII of the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967, the National Labor Relations Act, sections 1977 and 1977A of the Revised Statutes, the Fair Labor Standards Act of 1938, the Occupational Safety and Health Act of 1970, and the Family and Medical Leave Act of 1993; (2) with respect to conduct regarding matters other than employment Americans with Disabilities Act of 1990; and (3) with respect to information in its possession, the Privacy Act of 1974; and (4) specified provisions of Federal law relating to independent counsel. Amends the Standing Rules of the Senate and the Rules of the House of Representatives to require a three-fifths' vote in each House before it considers legislation that creates a requirement of general applicability but exempts the Congress from such provisions.
+
+	</summary>
+</bill>

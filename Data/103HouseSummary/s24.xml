@@ -1,0 +1,135 @@
+<bill session="103" type="s" number="24" updated="2012-07-17T05:09:15-04:00">
+	<state datetime="1994-06-30">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-06-30" /></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="short" as="introduced">Independent Counsel Reauthorization Act of 1993</title>
+		<title type="short" as="passed house">Independent Counsel Reauthorization Act of 1994</title>
+		<title type="short" as="reported to senate">Independent Counsel Reauthorization Act of 1993</title>
+		<title type="short" as="passed senate">Independent Counsel Reauthorization Act of 1993</title>
+		<title type="short" as="enacted">Independent Counsel Reauthorization Act of 1994</title>
+		<title type="official" as="introduced">A bill to reauthorize the Independent Counsel Law for an additional 5 years, and for other purposes.</title>
+	</titles>
+	<sponsor id="300066"/>
+	<cosponsors>
+		<cosponsor id="403346" joined="1993-02-16"/>
+		<cosponsor id="402727" joined="1993-01-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S423-424)</text></action>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<action datetime="1993-03-19" state="REPORTED"><text>Sponsor introductory remarks on measure. (CR S3285-3286)</text></action>
+		<action datetime="1993-05-14" state="REFERRED"><committee name="Committee on Governmental Affairs"/><text>Committee on Governmental Affairs. Hearings held. Hearings printed: S.Hrg. 103-437.</text></action>
+		<calendar datetime="1993-06-24"  state="REPORTED"><committee name="Committee on Governmental Affairs"/><text>Committee on Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1993-07-20"><text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn with an amendment in the nature of a substitute. With written report No. 103-101. Additional and minority views filed.</text></action>
+		<calendar under="General Orders" number="145" datetime="1993-07-20" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 145.</text></calendar>
+		<action datetime="1993-11-17"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S15840-15841, S15843-15844, S15846-15879, S15884-15891"/></action>
+		<action datetime="1993-11-17"><text>The committee substitute as amended agreed to by Voice Vote.</text></action>
+		<action datetime="1993-11-18"><text>Considered by Senate.</text><reference label="consideration" ref="CR S15971-15975"/></action>
+		<vote how="roll" type="vote" roll="383" datetime="1993-11-18" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Yea-Nay Vote. 76-21. Record Vote No: 383.</text></vote>
+		<action datetime="1993-11-20T10:00:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-20T11:10:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-11-20"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-02-10T14:59:00-05:00"><text>Considered under the provisions of rule H. Res. 352.</text><reference label="consideration" ref="CR H441-442"/></action>
+		<action datetime="1994-02-10T14:59:00-05:00"><text>The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H.R. 811. Agreed to without objection.</text></action>
+		<vote how="without objection" type="vote2" datetime="1994-02-10T14:59:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1994-02-10T15:00:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-02-10T15:00:00-05:00"><text>A similar measure H.R. 811 was laid on the table without objection.</text></action>
+		<action datetime="1994-02-10T15:00:00-05:00"><text>Mr. Brooks moved that the House insist upon its amendment, and request a conference.</text></action>
+		<action datetime="1994-02-10T15:01:00-05:00"><text>On motion that the House insist upon its amendment, and request a conference Agreed to by voice vote.</text><reference label="consideration" ref="CR H442"/></action>
+		<action datetime="1994-02-10T15:01:00-05:00"><text>The Speaker appointed conferees: Brooks, Bryant, Glickman, Frank (MA), Fish, Hyde, and Gekas.</text></action>
+		<action datetime="1994-02-10T15:01:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-02-10"><text>Message on House action received in Senate and at desk: House amendment to Senate bill and House requests a conference.</text></action>
+		<action datetime="1994-02-24"><text>Senate disagreed to the House amendment by Voice Vote.</text></action>
+		<action datetime="1994-02-24"><text>Senate agreed to request for conference. Appointed conferees. Glenn; Levin; Pryor; Cohen; Stevens.</text><reference label="consideration" ref="CR S1879-1880"/></action>
+		<action datetime="1994-02-28"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-05-17"><text>Conferees agreed to file conference report.</text></action>
+		<action datetime="1994-05-18"><text>Conference papers: Senate report and managers' statement held at the desk in Senate.</text></action>
+		<action datetime="1994-05-19T11:35:00-04:00"><text>Conference report H. Rept. 103-511 filed.</text><reference label="text of conference report" ref="CR H3697-3704"/></action>
+		<action datetime="1994-05-24T21:37:00-04:00"><text>Rules Committee Resolution H. Res. 439 Reported to House. Rule provides for consideration of the conference report to S. 24. Waiving all points of order against the conference report and against its consideration.</text></action>
+		<action datetime="1994-05-25"><text>Conference report considered in Senate.</text></action>
+		<vote how="by Voice Vote" type="conference" datetime="1994-05-25" where="s" result="pass" ><text>Senate agreed to conference report by Voice Vote.</text><reference label="consideration" ref="CR S6378"/></vote>
+		<action datetime="1994-05-25"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-06-21T14:00:00-04:00"><text>Rule H. Res. 439 passed House.</text></action>
+		<action datetime="1994-06-21T14:01:00-04:00"><text>Mr. Brooks brought up conference report H. Rept. 103-511 for consideration under the provisions of H. Res. 439.</text></action>
+		<action datetime="1994-06-21T14:02:00-04:00"><text>DEBATE - The House proceeded with one hour of general debate.</text></action>
+		<action datetime="1994-06-21T14:51:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="roll" type="conference" roll="258" datetime="1994-06-21T15:13:00-04:00" where="h" result="pass" ><text>On agreeing to the conference report Agreed to by the Yeas and Nays: 317 - 105 (Roll no. 258).</text><reference label="consideration" ref="CR H4748"/></vote>
+		<action datetime="1994-06-21T15:13:00-04:00"><text>Motions to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-06-21" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-06-24" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-06-30" ><text>Signed by President.</text></signed>
+		<enacted number="103-270" type="public" datetime="1994-06-30"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-270.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="HSJU" name="House Judiciary" activity="Other legislative involvement" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="103" type="hr" number="439" />
+		<bill relation="supersedes" session="103" type="h" number="811" />
+		<bill relation="unknown" session="103" type="h" number="811" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Administrative procedure"/>
+		<term name="Armed forces and national security"/>
+		<term name="Auditing"/>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Classified defense information"/>
+		<term name="Conflict of interests"/>
+		<term name="Congress"/>
+		<term name="Congressional ethics"/>
+		<term name="Congressional investigations"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Cost control"/>
+		<term name="Criminal investigation"/>
+		<term name="Department of Justice"/>
+		<term name="Disabled"/>
+		<term name="Discrimination in employment"/>
+		<term name="Ethics"/>
+		<term name="Executive Office of the President"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal employees"/>
+		<term name="Federal officials"/>
+		<term name="Financial disclosure"/>
+		<term name="General Services Administration"/>
+		<term name="Government attorneys"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Government publications"/>
+		<term name="Governmental investigations"/>
+		<term name="Labor and employment"/>
+		<term name="Law"/>
+		<term name="Legal fees"/>
+		<term name="Members of Congress"/>
+		<term name="Mentally handicapped"/>
+		<term name="Misconduct in office"/>
+		<term name="Official secrets"/>
+		<term name="Physically handicapped"/>
+		<term name="Presidential appointments"/>
+		<term name="Prosecution"/>
+		<term name="Removal of officials"/>
+		<term name="Salaries"/>
+		<term name="Special prosecutors"/>
+		<term name="Transfer of employees"/>
+		<term name="Travel costs"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1205"/>
+		<amendment number="s1206"/>
+		<amendment number="s1207"/>
+		<amendment number="s1208"/>
+		<amendment number="s1209"/>
+		<amendment number="s1210"/>
+		<amendment number="s1211"/>
+		<amendment number="s1212"/>
+		<amendment number="s1213"/>
+		<amendment number="s1214"/>
+	</amendments>
+	<summary>
+	5/19/1994--Conference report filed in House. Independent Counsel Reauthorization Act of 1994 - Amends the Federal judicial code to reauthorize the independent counsel law for an additional five years. Requires an independent counsel to: (1) conduct all activities with due regard for expense, authorize only reasonable and lawful expenditures, and (promptly upon taking office) assign to a specific employee the duty of certifying that counsel expenditures are reasonable and made in accordance with law; and (2) comply with the established policies of the Department of Justice (DOJ) regarding expenditures of funds, except to the extent that compliance would be inconsistent with the purposes of the Act. Directs: (1) the Director of the Administrative Office of the United States Courts to provide administrative support and guidance to each independent counsel; and (2) the Administrator of General Services to provide office space as well. Sets forth provisions on counsel: (1) per diem expenses; (2) employee pay comparability; (3) compliance with DOJ policies; (4) reports; and (5) reappointment. Provides for audits by the Comptroller General. Confers responsibility on DOJ and the Office of Government Ethics for enforcing standards of conduct applicable to independent counsels. Gives the Attorney General (AG) up to 30 days to determine whether a preliminary investigation is warranted under the law. Revises recusal, disclosure, and attorney's fees requirements. Allows DOJ personnel to be detailed to the staff of the independent counsel upon request. Modifies provisions governing the AG's authority to use the independent counsel process in criminal cases involving Members of Congress and in cases where the subject matter raises conflict of interest concerns. Narrows mandatory postemployment coverage under the law for certain individuals. Amends the physical or mental disability grounds for removal of an independent counsel to allow such grounds only if not prohibited by law protecting disabled persons from discrimination on the basis of such disability. Requires the President to submit a report to the Congress on White House Office personnel.
+
+	</summary>
+</bill>

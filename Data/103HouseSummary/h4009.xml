@@ -1,0 +1,61 @@
+<bill session="103" type="h" number="4009" updated="2010-04-19T09:35:49-04:00">
+	<state datetime="1994-03-10">REFERRED</state>
+	<status><introduced datetime="1994-03-10"/></status>
+
+	<introduced datetime="1994-03-10"/>
+	<titles>
+		<title type="short" as="introduced">Forest Service Equity Study Act of 1994</title>
+		<title type="official" as="introduced">To authorize a study of the equity of Forest Service funding allocations among the nine regions of the National Forest System.</title>
+	</titles>
+	<sponsor id="409205"/>
+	<cosponsors>
+		<cosponsor id="400534" joined="1994-03-10"/>
+		<cosponsor id="400226" joined="1994-03-10"/>
+		<cosponsor id="300062" joined="1994-03-10"/>
+		<cosponsor id="400504" joined="1994-03-10"/>
+		<cosponsor id="403875" joined="1994-03-10"/>
+		<cosponsor id="409633" joined="1994-03-10"/>
+		<cosponsor id="400310" joined="1994-03-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-10"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-03-11"><text>Sponsor introductory remarks on measure. (CR E419)</text></action>
+		<action datetime="1994-03-14"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Forests and forestry"/>
+		<term name="Agriculture"/>
+		<term name="Animals"/>
+		<term name="Budgets"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Ecosystem management"/>
+		<term name="Endangered species"/>
+		<term name="Environmental protection"/>
+		<term name="Federal budgets"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Forest conservation"/>
+		<term name="Forest ecology"/>
+		<term name="National forests"/>
+		<term name="Natural resources"/>
+		<term name="Public lands"/>
+		<term name="Range management"/>
+		<term name="Water resources"/>
+		<term name="Watershed management"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/10/1994--Introduced.
+Forest Service Equity Study Act of 1994 - Directs the Secretary of Agriculture to study the equity of funding allocations among the National Forest System regions. Authorizes appropriations.
+
+	</summary>
+</bill>

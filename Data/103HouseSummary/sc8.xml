@@ -1,0 +1,44 @@
+<bill session="103" type="sc" number="8" updated="2010-04-19T21:12:17-04:00">
+	<state datetime="1993-01-28">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-01-28" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-01-28"/>
+	<titles>
+		<title type="official" as="introduced">An original concurrent resolution to allow another member of the Committee on Rules and Administration of the Senate to serve on the Joint Committee on the Library in place of the Chairman of the Committee.</title>
+	</titles>
+	<sponsor id="404219"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar datetime="1993-01-28"  state="REPORTED"><text>Committee on Rules ordered to be reported an original measure.</text></calendar>
+		<action datetime="1993-01-28"><text>Committee on Rules. Original measure reported to Senate by Senator Ford. Without written report.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-01-28" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Resolution agreed to in Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S960"/></vote>
+		<action datetime="1993-02-02"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-02-02T12:03:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-02-02"><text>Referred to the House Committee on House Administration.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSRA" name="Senate Rules and Administration" activity="Origin, Reporting, Markup" />
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Senate"/>
+		<term name="Congressional committee chairmen"/>
+		<term name="Congressional committee membership"/>
+		<term name="Congressional committees (Senate)"/>
+		<term name="Congressional joint committees"/>
+		<term name="Members of Congress (Senate)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/1993--Introduced.
+Authorizes the Chairman of the Senate Committee on Rules and Administration to designate another member of the Committee to serve on the Joint Committee of the Congress on the Library in his or her place.
+
+	</summary>
+</bill>

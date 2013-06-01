@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="595" updated="2010-04-19T00:34:59-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 32, United States Code, to provide that performance of honor guard functions at funerals for veterans by members of the National Guard may be recognized as a Federal function for National Guard purposes.</title>
+	</titles>
+	<sponsor id="400210"/>
+	<cosponsors>
+		<cosponsor id="400183" joined="1993-06-24"/>
+		<cosponsor id="407153" joined="1993-10-05"/>
+		<cosponsor id="400586" joined="1993-05-26"/>
+		<cosponsor id="400544" joined="1993-09-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1993-10-06"><committee name="House Committee on Armed Services"/><text>Unfavorable Executive Comment Received from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Defense budgets"/>
+		<term name="Military cemeteries and funerals"/>
+		<term name="National Guard"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Permits the performance of honor guard functions by members of the National Guard at funerals for veterans to be treated as Federal functions for which appropriated funds may be used.
+
+	</summary>
+</bill>

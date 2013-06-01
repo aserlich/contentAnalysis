@@ -1,0 +1,54 @@
+<bill session="103" type="h" number="3305" updated="2010-04-19T07:46:05-04:00">
+	<state datetime="1993-10-19">REFERRED</state>
+	<status><introduced datetime="1993-10-19"/></status>
+
+	<introduced datetime="1993-10-19"/>
+	<titles>
+		<title type="short" as="introduced">Consular Review Act of 1993</title>
+		<title type="official" as="introduced">To amend the Immigration and Nationality Act to establish a Board of Visa Appeals within the Department of State to review decisions of consular officers concerning visa applications, revocations and cancellations.</title>
+	</titles>
+	<sponsor id="400140"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1994-04-12"/>
+		<cosponsor id="400133" joined="1994-05-04"/>
+		<cosponsor id="400580" joined="1994-04-12"/>
+		<cosponsor id="400272" joined="1994-05-05"/>
+		<cosponsor id="400239" joined="1994-05-04"/>
+		<cosponsor id="408364" joined="1994-05-04"/>
+		<cosponsor id="411947" joined="1993-10-19"/>
+		<cosponsor id="400331" joined="1994-05-04"/>
+		<cosponsor id="400107" joined="1994-05-04"/>
+		<cosponsor id="400301" joined="1994-03-02"/>
+		<cosponsor id="400314" joined="1993-10-19"/>
+		<cosponsor id="400100" joined="1994-07-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-19"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-10-21"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on International Law, Immigration, and Refugees.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSJU-01" name="House Judiciary" subcommittee="International Law, Immigration, and Refugees" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Administrative remedies"/>
+		<term name="Aliens"/>
+		<term name="Department of State"/>
+		<term name="Executive reorganization"/>
+		<term name="Fees"/>
+		<term name="Foreign service"/>
+		<term name="Visas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/19/1993--Introduced.
+Consular Review Act of 1993 - Amends the Immigration and Nationality Act to establish within the Department of State a Board of Visa Appeals to review, and revise if appropriate, consular determinations of alien excludability and visa denial or revocation. Authorizes specified interested parties to act on behalf of an alien seeking Board review.
+
+	</summary>
+</bill>

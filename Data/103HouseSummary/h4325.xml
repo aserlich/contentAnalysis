@@ -1,0 +1,59 @@
+<bill session="103" type="h" number="4325" updated="2010-04-19T10:25:13-04:00">
+	<state datetime="1994-05-03">REFERRED</state>
+	<status><introduced datetime="1994-05-03"/></status>
+
+	<introduced datetime="1994-05-03"/>
+	<titles>
+		<title type="official" as="introduced">To exclude certain retirement accounts for purposes of determining eligibility to receive food stamp benefits, aid to families with dependent children, supplemental security income benefits, and medicaid benefits.</title>
+	</titles>
+	<sponsor id="400542"/>
+	<cosponsors>
+		<cosponsor id="401494" joined="1994-08-11"/>
+		<cosponsor id="411040" joined="1994-08-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-03"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action datetime="1994-05-03"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-05-05"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Human Resources.</text></action>
+		<action datetime="1994-05-26"><committee name="House Committee on Agriculture"/><text>Referred to the Subcommittee on Department Operations and Nutrition.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+		<committee code="" name="House Agriculture" subcommittee="Department Operations and Nutrition" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-03" name="House Ways and Means" subcommittee="Human Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public welfare"/>
+		<term name="Aid to dependent children"/>
+		<term name="Annuities"/>
+		<term name="Children"/>
+		<term name="Families"/>
+		<term name="Food"/>
+		<term name="Food stamps"/>
+		<term name="Health policy"/>
+		<term name="Individual retirement accounts"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Pension funds"/>
+		<term name="Pensions"/>
+		<term name="Public assistance programs"/>
+		<term name="Retirement income"/>
+		<term name="Social security"/>
+		<term name="Social security eligibility"/>
+		<term name="Supplemental security income program"/>
+		<term name="Tax-deferred compensation plans"/>
+		<term name="Welfare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/3/1994--Introduced.
+Amends the Food Stamp Act of 1977 and the Social Security Act to instruct the Secretary of Health and Human Services to exclude specified retirement assets for purposes of determining eligibility for benefits under: (1) the food stamp program; (2) the program of Aid to Families with Dependent Children; and (3) the Supplemental Security Income Program.
+
+	</summary>
+</bill>

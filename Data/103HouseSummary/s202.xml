@@ -1,0 +1,53 @@
+<bill session="103" type="s" number="202" updated="2010-04-19T15:02:10-04:00">
+	<state datetime="1993-02-08">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-02-08" /></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the Federal Judiciary Building in Washington, D.C., as the Thurgood Marshall Federal Judiciary Building.</title>
+	</titles>
+	<sponsor id="400563"/>
+	<cosponsors>
+		<cosponsor id="300005" joined="1993-01-26"/>
+		<cosponsor id="300059" joined="1993-01-26"/>
+		<cosponsor id="300086" joined="1993-01-26"/>
+		<cosponsor id="407786" joined="1993-01-26"/>
+		<cosponsor id="400566" joined="1993-01-26"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-01-26" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S683"/></vote>
+		<action datetime="1993-01-27T12:29:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-01-27T12:29:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-01-27T12:30:00-05:00"><text>Mr. Mineta asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1993-01-27T12:32:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H262-266"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-01-27T12:57:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-01-27T12:57:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-01-27" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-01-27" ><text>Presented to President.</text></topresident>
+		<action datetime="1993-01-27"><text>Message on House action received in Senate.</text></action>
+		<signed datetime="1993-02-08" ><text>Signed by President.</text></signed>
+		<enacted number="103-4" type="public" datetime="1993-02-08"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-4.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public buildings"/>
+		<term name="Courthouses"/>
+		<term name="District of Columbia"/>
+		<term name="Federal office buildings"/>
+		<term name="Names"/>
+		<term name="Supreme Court justices"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Designates the Federal Judiciary Building in Washington, D.C., as the Thurgood Marshall Federal Judiciary Building.
+
+	</summary>
+</bill>

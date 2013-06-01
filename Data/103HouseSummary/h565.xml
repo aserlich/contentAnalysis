@@ -1,0 +1,77 @@
+<bill session="103" type="h" number="565" updated="2010-04-19T00:30:05-04:00">
+	<state datetime="1993-01-25">REFERRED</state>
+	<status><introduced datetime="1993-01-25"/></status>
+
+	<introduced datetime="1993-01-25"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Congressional Budget Act of 1974 to reform the Federal budget process, and for other purposes.</title>
+	</titles>
+	<sponsor id="400226"/>
+	<cosponsors>
+		<cosponsor id="410147" joined="1993-02-16"/>
+		<cosponsor id="400161" joined="1993-02-16"/>
+		<cosponsor id="400176" joined="1993-02-16"/>
+		<cosponsor id="406863" joined="1993-03-03"/>
+		<cosponsor id="400370" joined="1993-03-03"/>
+		<cosponsor id="400581" joined="1993-02-16"/>
+		<cosponsor id="407558" joined="1993-02-16"/>
+		<cosponsor id="400017" joined="1993-02-16"/>
+		<cosponsor id="400551" joined="1993-02-16"/>
+		<cosponsor id="400504" joined="1993-02-16"/>
+		<cosponsor id="400343" joined="1993-02-16"/>
+		<cosponsor id="408618" joined="1993-02-16"/>
+		<cosponsor id="400083" joined="1993-02-16"/>
+		<cosponsor id="400604" joined="1993-02-16"/>
+		<cosponsor id="400569" joined="1993-02-16"/>
+		<cosponsor id="400012" joined="1993-02-16"/>
+		<cosponsor id="409633" joined="1993-02-16"/>
+		<cosponsor id="411997" joined="1993-02-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-25"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-01-25"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1993-02-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1993-04-29"><committee name="House Committee on Government Operations"/><text>See H.R.1578.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1578" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Appropriations"/>
+		<term name="Authorization"/>
+		<term name="Budget deficits"/>
+		<term name="Congressional budget process"/>
+		<term name="Congressional committees"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional voting"/>
+		<term name="Costs"/>
+		<term name="Deficit financing"/>
+		<term name="Economic impact statements"/>
+		<term name="Entitlements"/>
+		<term name="Executive impoundment of appropriated funds"/>
+		<term name="Expedited congressional procedure"/>
+		<term name="Federal aid programs"/>
+		<term name="Federal budget process"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="House rules and procedure"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="Legislation"/>
+		<term name="Legislative resolutions"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Sunset legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/25/1993--Introduced.
+TABLE OF CONTENTS: Title I: Biennial Budget Cycle Title II: Binding Budget Resolution Title III: Enhanced Rescissions Title IV: Supermajority Points of Order Title I: Biennial Budget Cycle - Amends the Congressional Budget Act of 1974, the Congressional Budget and Impoundment Control Act of 1974, the Rules of the House of Representatives and other Federal law to revise the Federal budget process by establishing a two-year timetable. Title II: Binding Budget Resolution- Replaces the concurrent resolution on the budget with a joint resolution on the budget. Title III: Enhanced Rescissions - Modifies the rescission process and provides for expedited consideration in the House and Senate of certain proposed rescissions. Title IV: Supermajority Points of Order - Allows any point of order which concerns the congressional budget process, fiscal procedures, and budget agreement enforcement provisions to be waived or suspended in the House of Representatives by a three-fifths vote in the House.
+
+	</summary>
+</bill>

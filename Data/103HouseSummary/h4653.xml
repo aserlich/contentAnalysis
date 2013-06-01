@@ -1,0 +1,87 @@
+<bill session="103" type="h" number="4653" updated="2010-10-13T13:52:05-04:00">
+	<state datetime="1994-10-19">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-19" /></status>
+
+	<introduced datetime="1994-06-27"/>
+	<titles>
+		<title type="short" as="introduced">Mohegan Nation of Connecticut Land Claims Settlement Act of 1994</title>
+		<title type="short" as="passed senate">Mohegan Nation of Connecticut Land Claims Settlement Act of 1994</title>
+		<title type="short" as="enacted">Mohegan Nation of Connecticut Land Claims Settlement Act of 1994</title>
+		<title type="official" as="introduced">To settle Indian land claims within the State of Connecticut, and for other purposes.</title>
+	</titles>
+	<sponsor id="400585"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-27"><text>Sponsor introductory remarks on measure. (CR E1334-1335)</text></action>
+		<action datetime="1994-06-27"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-06-27"><committee name="House Committee on Natural Resources"/><text>Late Referral to the Subcommittee on Native American Affairs (Aug 30, 94).</text></action>
+		<action datetime="1994-06-30"><text>Hearings Held by the Subcommittee on Native American Affairs Prior to Referral.</text></action>
+		<action datetime="1994-07-22"><text>Subcommittee Consideration and Mark-up Session Held and Forwarded to Full Committee by the Subcommittee on Native American Affairs Prior to Referral (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-07-22"><committee name="House Committee on Natural Resources"/><text>Favorable Executive Comment Received from Interior.</text></action>
+		<action datetime="1994-07-27"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-07-27"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-08-05T18:21:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-676.</text></action>
+		<calendar number="367" datetime="1994-08-05T18:22:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 367.</text></calendar>
+		<action datetime="1994-08-08T16:38:00-04:00"><text>Mr. Richardson moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-08-08T16:38:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7157-7159"/></action>
+		<action datetime="1994-08-08T16:38:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-08-08T16:38:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-08-08T16:39:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-08-09"><text>Received in the Senate.</text></action>
+		<calendar under="General Orders" number="553" datetime="1994-08-10" calendar="Senate Legislative" ><text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 553.</text></calendar>
+		<action datetime="1994-10-03"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S13961"/></action>
+		<action datetime="1994-10-03"><text>Senate struck all after the Enacting Clause and substituted the language of S. 2329.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-03" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate in lieu of S. 2329 with an amendment by Voice Vote.</text></vote>
+		<action datetime="1994-10-04"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-04T21:47:00-04:00"><text>Mr. Gejdenson moved that the House suspend the rules and agree to the Senate amendment.</text></action>
+		<action datetime="1994-10-04T21:47:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-04T21:50:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Walker objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed until Oct. 5. The point of no quorum was withdrawn.</text></action>
+		<action datetime="1994-10-04T21:50:00-04:00"><text>House considered Senate amendment under suspension of the rules.</text><reference label="consideration" ref="CR H10800-10802"/></action>
+		<vote how="by voice vote" type="pingpong" datetime="1994-10-05T18:18:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.</text><reference label="consideration" ref="CR H10919"/></vote>
+		<action datetime="1994-10-05T18:18:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-10-05" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-10-11" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-19" ><text>Signed by President.</text></signed>
+		<enacted number="103-377" type="public" datetime="1994-10-19"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-377.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Hearings, Markup" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="2329" />
+		<bill relation="supersedes" session="103" type="s" number="2329" />
+		<bill relation="unknown" session="103" type="s" number="2329" />
+		<bill relation="unknown" session="103" type="s" number="2329" />
+	</relatedbills>
+	<subjects>
+		<term name="Indians"/>
+		<term name="Connecticut"/>
+		<term name="Criminal justice"/>
+		<term name="Environmental protection"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Gambling"/>
+		<term name="Indian claims"/>
+		<term name="Indian lands"/>
+		<term name="Indian law enforcement"/>
+		<term name="Judicial review"/>
+		<term name="Jurisdiction"/>
+		<term name="Land transfers"/>
+		<term name="Law"/>
+		<term name="Limitation of actions"/>
+		<term name="Minorities"/>
+		<term name="Natural resources"/>
+		<term name="Sports"/>
+		<term name="State and local government"/>
+		<term name="State government-Indian relations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Passed Senate amended. Mohegan Nation of Connecticut Land Claims Settlement Act of 1994 - Provides for the settlement of land claims between the Mohegan Tribe and the State of Connecticut and its subdivisions. Ratifies the Agreement between the Tribe and the Town of Montville. Authorizes the Secretary of the Interior to take and hold certain lands in trust for the Mohegan Tribe as its initial reservation upon satisfaction of certain environmental requirements. Extends Connecticut criminal jurisdiction over the Mohegan Reservation.
+
+	</summary>
+</bill>

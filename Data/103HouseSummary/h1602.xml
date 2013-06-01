@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="1602" updated="2010-04-19T03:21:34-04:00">
+	<state datetime="1993-04-01">REFERRED</state>
+	<status><introduced datetime="1993-04-01"/></status>
+
+	<introduced datetime="1993-04-01"/>
+	<titles>
+		<title type="short" as="introduced">Public Rangeland Grazing Reform Act of 1993</title>
+		<title type="official" as="introduced">To reform the management of grazing on the public range lands.</title>
+	</titles>
+	<sponsor id="400612"/>
+	<cosponsors>
+		<cosponsor id="408052" joined="1993-11-22"/>
+		<cosponsor id="400594" joined="1994-02-24"/>
+		<cosponsor id="403190" joined="1993-04-01"/>
+		<cosponsor id="400251" joined="1994-02-24"/>
+		<cosponsor id="400189" joined="1994-02-24"/>
+		<cosponsor id="400240" joined="1993-11-22"/>
+		<cosponsor id="400301" joined="1993-11-22"/>
+		<cosponsor id="411997" joined="1993-11-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-01"><text>Sponsor introductory remarks on measure. (CR E873-874)</text></action>
+		<action datetime="1993-04-01"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-04-20"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-04-20"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="643" />
+		<bill relation="unknown" session="103" type="h" number="1750" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands"/>
+		<term name="Conservation of natural resources"/>
+		<term name="Environmental protection"/>
+		<term name="Fees"/>
+		<term name="Grazing"/>
+		<term name="Licenses"/>
+		<term name="National forests"/>
+		<term name="Range management"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/1993--Introduced.
+Public Rangeland Grazing Reform Act of 1993 - Amends the Federal Land Policy Management Act of 1976 to direct the Secretary of Agriculture, with respect to National Forest lands in the 16 contiguous Western States, and the Secretary of the Interior, with respect to public domain lands, where domestic livestock grazing is permitted under applicable law, to establish and implement an annual domestic livestock grazing fee equal to fair market value, based on a specified formula. Sets forth provisions regarding: (1) alternative fees; (2) abolition of grazing advisory boards; and (3) the U.S. share of receipts. Amends the Taylor Grazing Act to revise provisions concerning the use of moneys received from grazing activities to provide for specified payments to local governments and to limit the uses of such moneys. Sets forth provisions regarding: (1) the term of grazing permits; and (2) non-grazing uses. Prohibits subleasing (i.e., the grazing, on public lands or on National Forest lands covered by a grazing permit, of domestic livestock which is not both owned and controlled by the holder of of the grazing permit).
+
+	</summary>
+</bill>

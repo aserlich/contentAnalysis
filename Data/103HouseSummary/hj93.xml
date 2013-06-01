@@ -1,0 +1,47 @@
+<bill session="103" type="hj" number="93" updated="2010-04-18T22:05:27-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Alexander Vraciu.</title>
+	</titles>
+	<sponsor id="405939"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-02-04"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-02-04"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+		<action datetime="1993-08-24"><committee name="House Committee on Armed Services"/><text>Unfavorable Executive Comment Received from Navy.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Commemorations"/>
+		<term name="Congress"/>
+		<term name="Congressional Medal of Honor"/>
+		<term name="Defense policy"/>
+		<term name="Military medals, decorations, etc."/>
+		<term name="Naval aviation"/>
+		<term name="Naval personnel"/>
+		<term name="Officer personnel"/>
+		<term name="Veterans"/>
+		<term name="World War II"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Waives time limitations relating to the award of a medal of honor to a named individual for heroic service to the Nation during World War II.
+
+	</summary>
+</bill>

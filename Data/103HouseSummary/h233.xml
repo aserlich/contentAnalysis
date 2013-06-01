@@ -1,0 +1,58 @@
+<bill session="103" type="h" number="233" updated="2010-04-18T23:36:09-04:00">
+	<state datetime="1994-09-28">REPORTED</state>
+	<status><calendar datetime="1994-09-28" /></status>
+
+	<introduced datetime="1993-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To apply certain provisions of the Wild and Scenic Rivers Act to a segment of the North Fork of the Payette River in Idaho.</title>
+	</titles>
+	<sponsor id="406605"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-05"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-01-26"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-02-09"><committee name="House Committee on Natural Resources"/><text>Executive Comment Requested from Interior, USDA.</text></action>
+		<action datetime="1993-12-29"><committee name="House Committee on Natural Resources"/><text>Favorable Executive Comment Received from USDA.</text></action>
+		<action datetime="1994-07-19"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T20:23:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 103-804.</text></action>
+		<calendar number="450" datetime="1994-10-03T20:23:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 450.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="4746" />
+	</relatedbills>
+	<subjects>
+		<term name="Wilderness areas"/>
+		<term name="Dams"/>
+		<term name="Electric power transmission"/>
+		<term name="Energy"/>
+		<term name="Energy policy"/>
+		<term name="Hydroelectric power"/>
+		<term name="Idaho"/>
+		<term name="Infrastructure"/>
+		<term name="Law"/>
+		<term name="Licenses"/>
+		<term name="Public lands"/>
+		<term name="Reservoirs"/>
+		<term name="State and local government"/>
+		<term name="State laws"/>
+		<term name="Water resources"/>
+		<term name="Water resources development"/>
+		<term name="Wild rivers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Reported to House amended. Makes certain protections under the Wild and Scenic Rivers Act regarding the placing of restrictions on water resources construction projects licensed by the Federal Energy Regulatory Commission applicable to a segment of the North Fork of the Payette River in Idaho. Makes this Act effective for as long as Idaho law prohibits development of hydroelectric projects and other water resource projects on or directly affecting such segment.
+
+	</summary>
+</bill>

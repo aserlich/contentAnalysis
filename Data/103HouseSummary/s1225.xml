@@ -1,0 +1,85 @@
+<bill session="103" type="s" number="1225" updated="2012-07-17T05:27:58-04:00">
+	<state datetime="1994-10-22">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-22" /></status>
+
+	<introduced datetime="1993-07-14"/>
+	<titles>
+		<title type="short" as="introduced">United States-Mexico Border Health Commission Act</title>
+		<title type="short" as="passed senate">United States-Mexico Border Health Commission Act</title>
+		<title type="short" as="enacted">United States-Mexico Border Health Commission Act</title>
+		<title type="official" as="introduced">A bill to authorize and encourage the President to conclude an agreement with Mexico to establish a United States-Mexico Border Health Commission.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="1993-07-14"/>
+		<cosponsor id="300054" joined="1994-09-21"/>
+		<cosponsor id="409917" joined="1993-07-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-07-14" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8713-8714)</text></action>
+		<action datetime="1993-07-14" state="REFERRED"><text>Read twice and referred to the Committee on Foreign Relations.</text></action>
+		<calendar datetime="1994-09-22"  state="REPORTED"><committee name="Committee on Foreign Relations"/><text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1994-09-22"><text>Committee on Foreign Relations. Reported to Senate by Senator Pell without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="616" datetime="1994-09-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 616.</text></calendar>
+		<action datetime="1994-09-30"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S13847-13849"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-09-30" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1994-10-03"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-03T12:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-10-03T16:30:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="1994-10-03T17:20:00-04:00"><text>Mr. Waxman moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-10-03T17:21:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10605-10609"/></action>
+		<action datetime="1994-10-03T17:21:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-03T17:41:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1994-10-04T19:19:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10738"/></action>
+		<vote how="roll" type="vote2" roll="480" datetime="1994-10-04T19:27:00-04:00" where="h" result="fail" suspension="1"  state="PROV_KILL:SUSPENSIONFAILED"><text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays (2/3 required): 246 - 169 (Roll No. 480).</text></vote>
+		<action datetime="1994-10-04T19:27:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-04T22:15:00-04:00"><text>Mr. Dingell moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-10-04T22:16:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10825-10827"/></action>
+		<action datetime="1994-10-04T22:16:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-10-04T22:17:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed until Oct. 5.</text></action>
+		<action datetime="1994-10-05T18:35:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10920-10921"/></action>
+		<vote how="roll" type="vote2" roll="491" datetime="1994-10-05T18:43:00-04:00" where="h" result="pass" suspension="1"  state="PASSED:BILL"><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 308 - 103 (Roll no. 491).</text></vote>
+		<action datetime="1994-10-05T18:43:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-10-05" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-10-13" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-22" ><text>Signed by President.</text></signed>
+		<enacted number="103-400" type="public" datetime="1994-10-22"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-400.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2305" />
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Arizona"/>
+		<term name="Boundaries"/>
+		<term name="California"/>
+		<term name="Collection of accounts"/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Environmental health"/>
+		<term name="Environmental protection"/>
+		<term name="Health"/>
+		<term name="Health education"/>
+		<term name="Health insurance"/>
+		<term name="Health surveys"/>
+		<term name="International agencies"/>
+		<term name="Latin America"/>
+		<term name="Medical research"/>
+		<term name="Mexico"/>
+		<term name="New Mexico"/>
+		<term name="Preventive medicine"/>
+		<term name="Science, technology, communications"/>
+		<term name="Texas"/>
+		<term name="Treaties"/>
+	</subjects>
+	<amendments>
+		<amendment number="s2606"/>
+	</amendments>
+	<summary>
+	9/30/1994--Passed Senate amended. United States-Mexico Border Health Commission Act - Authorizes the President to conclude an agreement with Mexico to establish a binational commission to be known as the United States-Mexico Border Health Commission. Declares that it should be the duty of the Commission to: (1) conduct a needs assessment in the U.S.-Mexican border area to identify and resolve health problems that affect the general population of the area; and (2) formulate recommendations for a fair method by which the government of one country could reimburse a public or private entity in the other country for the cost of a health care service furnished to a citizen of the first country who is unable to pay for the service. Permits the Commission to establish one border health office in each of the States of Texas, New Mexico, Arizona, and California.
+
+	</summary>
+</bill>

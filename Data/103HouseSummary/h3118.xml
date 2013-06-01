@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="3118" updated="2010-04-19T07:17:14-04:00">
+	<state datetime="1993-09-22">REFERRED</state>
+	<status><introduced datetime="1993-09-22"/></status>
+
+	<introduced datetime="1993-09-22"/>
+	<titles>
+		<title type="official" as="introduced">Concerning treatment of the Centennial Bridge, Rock Island, Illinois, under title 23, United States Code.</title>
+	</titles>
+	<sponsor id="400126"/>
+	<cosponsors>
+		<cosponsor id="300038" joined="1993-09-23"/>
+		<cosponsor id="409570" joined="1993-09-22"/>
+		<cosponsor id="400082" joined="1993-09-23"/>
+		<cosponsor id="400236" joined="1993-09-22"/>
+		<cosponsor id="400243" joined="1993-09-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-22"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-10-04"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+		<action datetime="1993-10-13"><committee name="House Committee on Public Works + Transportation"/><text>See H.R.3276.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="3276" />
+		<bill relation="unknown" session="103" type="s" number="1555" />
+	</relatedbills>
+	<subjects>
+		<term name="Roads and highways"/>
+		<term name="Bridges"/>
+		<term name="Federal aid highway program"/>
+		<term name="Illinois"/>
+		<term name="Iowa"/>
+		<term name="Toll roads"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/22/1993--Introduced.
+Provides that the Federal participation agreement for the Centennial Bridge, Rock Island, Illinois, shall be treated as if such agreement had been entered into before the effective date of title I of the Intermodal Surface Transportation Efficiency Act of 1991 and may be modified accordingly.
+
+	</summary>
+</bill>

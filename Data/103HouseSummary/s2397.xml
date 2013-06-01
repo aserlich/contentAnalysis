@@ -1,0 +1,41 @@
+<bill session="103" type="s" number="2397" updated="2012-07-17T04:56:33-04:00">
+	<state datetime="1994-08-16">REFERRED</state>
+	<status><introduced datetime="1994-08-16"/></status>
+
+	<introduced datetime="1994-08-16"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate Building Number 137 of the Tuscaloosa Veterans' Medical Center in Tuscaloosa, Alabama, as the &quot;Claude Harris, Jr. Building&quot;.</title>
+	</titles>
+	<sponsor id="300089"/>
+	<cosponsors>
+		<cosponsor id="405310" joined="1994-08-16"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-16" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S11901)</text></action>
+		<action datetime="1994-08-16" state="REFERRED"><text>Read twice and referred to the Committee on Veterans.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4948" />
+		<bill relation="identical" session="103" type="h" number="4949" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Alabama"/>
+		<term name="Armed forces and national security"/>
+		<term name="Commemorations"/>
+		<term name="Health"/>
+		<term name="Names"/>
+		<term name="Veterans' hospitals"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/16/1994--Introduced.
+Designates Building Number 137 of the Tuscaloosa Veterans' Medical Center in Tuscaloosa, Alabama, as the Claude Harris, Jr. Building.
+
+	</summary>
+</bill>

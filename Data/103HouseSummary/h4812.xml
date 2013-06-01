@@ -1,0 +1,67 @@
+<bill session="103" type="h" number="4812" updated="2010-10-13T13:51:38-04:00">
+	<state datetime="1994-08-25">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-08-25" /></status>
+
+	<introduced datetime="1994-07-21"/>
+	<titles>
+		<title type="official" as="introduced">To direct the Administrator of General Services to acquire by transfer the Old U.S. Mint in San Francisco, California, and for other purposes.</title>
+	</titles>
+	<sponsor id="407772"/>
+	<cosponsors>
+		<cosponsor id="400314" joined="1994-07-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-21"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-07-25"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Public Buildings and Grounds.</text></action>
+		<action datetime="1994-07-26"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-07-26"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-07-26"><committee name="House Committee on Public Works + Transportation" subcommittee="Public Buildings and Grounds"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1994-07-28"><committee name="House Committee on Public Works + Transportation"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-07-28"  state="REPORTED"><committee name="House Committee on Public Works + Transportation"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-08-01T12:33:00-04:00"><text>Reported by the Committee on Public Works + Transportation. H. Rept. 103-634.</text></action>
+		<calendar number="346" datetime="1994-08-01T12:33:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 346.</text></calendar>
+		<action datetime="1994-08-08T13:25:00-04:00"><text>Mr. Traficant moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-08-08T13:26:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7115-7116"/></action>
+		<action datetime="1994-08-08T13:26:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-08-08T13:35:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1994-08-08T13:35:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<calendar under="General Orders" number="548" datetime="1994-08-09" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 548.</text></calendar>
+		<action datetime="1994-08-11"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S11320"/></action>
+		<action datetime="1994-08-11"><text>Amendment SP 2551 proposed by Senator Gorton for Senator McCain.</text></action>
+		<action datetime="1994-08-11"><text>Amendment SP 2551 agreed to in Senate by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-08-11" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1994-08-12"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-08-16T13:47:00-04:00"><text>Mr. Traficant moved that the House suspend the rules and agree to the Senate amendment.</text></action>
+		<action datetime="1994-08-16T13:48:00-04:00"><text>DEBATE - The House proceeded wtih forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="pingpong" datetime="1994-08-16T13:56:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.</text><reference label="consideration" ref="CR H8449"/></vote>
+		<action datetime="1994-08-16T13:56:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-08-16" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-08-18" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-08-25" ><text>Signed by President.</text></signed>
+		<enacted number="103-310" type="public" datetime="1994-08-25"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-310.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Public Buildings and Grounds" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="2185" />
+		<bill relation="unknown" session="103" type="s" number="2185" />
+	</relatedbills>
+	<subjects>
+		<term name="Public buildings"/>
+		<term name="California"/>
+		<term name="Coins and coinage"/>
+		<term name="Infrastructure"/>
+		<term name="Land transfers"/>
+		<term name="Maintenance and repair"/>
+		<term name="Public lands"/>
+	</subjects>
+	<amendments>
+		<amendment number="s2551"/>
+	</amendments>
+	<summary>
+	8/11/1994--Passed Senate amended. Directs the Administrator of General Services to take necessary action to acquire by transfer, without consideration, the &quot;Old U.S. Mint&quot; at Fifth and Mission Streets, San Francisco, California. Declares that nothing in this Act shall be construed to force the General Services Administration to repair the Old U.S. Mint before repairs to other Federal buildings in greater need of repair.
+
+	</summary>
+</bill>

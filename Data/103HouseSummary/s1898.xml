@@ -1,0 +1,47 @@
+<bill session="103" type="s" number="1898" updated="2012-07-17T05:04:25-04:00">
+	<state datetime="1994-03-08">REFERRED</state>
+	<status><introduced datetime="1994-03-08"/></status>
+
+	<introduced datetime="1994-03-08"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to make permanent the section 170(e)(5) rules pertaining to gifts of publicly traded stock to certain private foundations, and for other purposes.</title>
+	</titles>
+	<sponsor id="409225"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="1994-09-13"/>
+		<cosponsor id="407254" joined="1994-08-09"/>
+		<cosponsor id="300029" joined="1994-07-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-08" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2475)</text></action>
+		<action datetime="1994-03-08" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2418" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Charitable contributions"/>
+		<term name="Excise tax"/>
+		<term name="Finance and financial sector"/>
+		<term name="Foundations"/>
+		<term name="Gifts"/>
+		<term name="Stocks"/>
+		<term name="Tax administration"/>
+		<term name="Tax deductions"/>
+		<term name="Tax penalties"/>
+		<term name="Tax-exempt organizations"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/8/1994--Introduced.
+Amends the Internal Revenue Code to make permanent the special rules for gifts or qualified appreciated stock to certain tax-exempt private foundations for purposes of the itemized deduction of charitable contributions. Includes grants to certain foreign organizations as qualified distributions by private foundations for purposes of the tax on failure to distribute income.
+
+	</summary>
+</bill>

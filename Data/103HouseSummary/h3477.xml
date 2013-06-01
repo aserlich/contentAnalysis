@@ -1,0 +1,48 @@
+<bill session="103" type="h" number="3477" updated="2010-04-19T08:12:49-04:00">
+	<state datetime="1993-11-09">REFERRED</state>
+	<status><introduced datetime="1993-11-09"/></status>
+
+	<introduced datetime="1993-11-09"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit defense contractors from being reimbursed by the Federal Government for certain environmental response costs.</title>
+	</titles>
+	<sponsor id="400251"/>
+	<cosponsors>
+		<cosponsor id="404375" joined="1993-11-22"/>
+		<cosponsor id="400350" joined="1993-11-22"/>
+		<cosponsor id="400299" joined="1993-11-21"/>
+		<cosponsor id="400357" joined="1993-11-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-09"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-11-22"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Installations and Facilities.</text></action>
+		<action datetime="1993-11-22"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Installations and Facilities" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Defense contracts"/>
+		<term name="Defense policy"/>
+		<term name="Environmental protection"/>
+		<term name="Government contractors"/>
+		<term name="Government liability"/>
+		<term name="Indemnity"/>
+		<term name="Law"/>
+		<term name="Liability for environmental damages"/>
+		<term name="Public contracts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/9/1993--Introduced.
+Prohibits defense contractors from being reimbursed by the Government for environmental response costs at facilities owned or operated by the contractor or at which the contractor is liable in whole or part for the environmental response action.
+
+	</summary>
+</bill>

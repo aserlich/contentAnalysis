@@ -1,0 +1,51 @@
+<bill session="103" type="h" number="4480" updated="2010-04-19T10:49:28-04:00">
+	<state datetime="1994-05-24">REFERRED</state>
+	<status><introduced datetime="1994-05-24"/></status>
+
+	<introduced datetime="1994-05-24"/>
+	<titles>
+		<title type="short" as="introduced">Weir Farm National Historic Site Expansion Act of 1994</title>
+		<title type="official" as="introduced">To expand the boundary of the Weir Farm National Historic Site in the State of Connecticut.</title>
+	</titles>
+	<sponsor id="404296"/>
+	<cosponsors>
+		<cosponsor id="400370" joined="1994-05-24"/>
+		<cosponsor id="400585" joined="1994-05-24"/>
+		<cosponsor id="406284" joined="1994-05-24"/>
+		<cosponsor id="400205" joined="1994-05-24"/>
+		<cosponsor id="400103" joined="1994-05-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-24"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-07-11"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1994-10-06"><committee name="House Committee on Natural Resources"/><text>Provisions of Measure Incorporated into H.R.1348.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2064" />
+		<bill relation="unknown" session="103" type="s" number="2064" />
+	</relatedbills>
+	<subjects>
+		<term name="Historic sites"/>
+		<term name="Commemorations"/>
+		<term name="Connecticut"/>
+		<term name="Farms"/>
+		<term name="History"/>
+		<term name="Humanities"/>
+		<term name="Land transfers"/>
+		<term name="National parks"/>
+		<term name="Painting"/>
+		<term name="Public lands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/24/1994--Introduced.
+Weir Farm National Historic Site Expansion Act of 1994 - Amends the Weir Farm National Historic Site Establishment Act of 1990 to expand the boundary of the Weir Farm National Historic Site in Connecticut to include specified lands.
+
+	</summary>
+</bill>

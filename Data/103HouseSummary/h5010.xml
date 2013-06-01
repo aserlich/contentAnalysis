@@ -1,0 +1,44 @@
+<bill session="103" type="h" number="5010" updated="2010-04-19T12:12:39-04:00">
+	<state datetime="1994-08-21">REFERRED</state>
+	<status><introduced datetime="1994-08-21"/></status>
+
+	<introduced datetime="1994-08-21"/>
+	<titles>
+		<title type="official" as="introduced">To require that certain Government consumer information publication that are distributed without charge include a statement that are financed by the taxpayers of the United States.</title>
+	</titles>
+	<sponsor id="400010"/>
+	<cosponsors>
+		<cosponsor id="410147" joined="1994-10-07"/>
+		<cosponsor id="404296" joined="1994-08-21"/>
+		<cosponsor id="403545" joined="1994-08-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-21"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-08-24"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Information, Justice, Transportation and Agriculture.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Information, Justice, Transportation, and Agriculture" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government paperwork"/>
+		<term name="Consumer education"/>
+		<term name="Consumers"/>
+		<term name="Executive departments"/>
+		<term name="Finance"/>
+		<term name="Government information"/>
+		<term name="Government publications"/>
+		<term name="Government publicity"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/21/1994--Introduced.
+Requires that any Federal executive branch consumer information publication distributed without charge contain a prominent statement that its printing and distribution is financed by U.S. taxpayers.
+
+	</summary>
+</bill>

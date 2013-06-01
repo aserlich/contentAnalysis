@@ -1,0 +1,72 @@
+<bill session="103" type="h" number="4047" updated="2010-04-19T09:41:48-04:00">
+	<state datetime="1994-03-16">REFERRED</state>
+	<status><introduced datetime="1994-03-16"/></status>
+
+	<introduced datetime="1994-03-16"/>
+	<titles>
+		<title type="short" as="introduced">Fairness in Medicaid Funding Act of 1994</title>
+		<title type="official" as="introduced">To amend title XIX of the Social Security Act to improve the Federal medical assistance percentage used under the medicaid program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400509"/>
+	<cosponsors>
+		<cosponsor id="400273" joined="1994-03-16"/>
+		<cosponsor id="400126" joined="1994-06-09"/>
+		<cosponsor id="400596" joined="1994-03-16"/>
+		<cosponsor id="400510" joined="1994-03-16"/>
+		<cosponsor id="400156" joined="1994-03-16"/>
+		<cosponsor id="400170" joined="1994-03-16"/>
+		<cosponsor id="405855" joined="1994-03-16"/>
+		<cosponsor id="401014" joined="1994-03-16"/>
+		<cosponsor id="400344" joined="1994-03-16"/>
+		<cosponsor id="300038" joined="1994-04-19"/>
+		<cosponsor id="400388" joined="1994-03-16"/>
+		<cosponsor id="400574" joined="1994-03-16"/>
+		<cosponsor id="409570" joined="1994-05-19"/>
+		<cosponsor id="400028" joined="1994-03-16"/>
+		<cosponsor id="400106" joined="1994-03-16"/>
+		<cosponsor id="400511" joined="1994-03-16"/>
+		<cosponsor id="411947" joined="1994-05-19"/>
+		<cosponsor id="400048" joined="1994-03-16"/>
+		<cosponsor id="404520" joined="1994-03-16"/>
+		<cosponsor id="406082" joined="1994-03-16"/>
+		<cosponsor id="400439" joined="1994-03-16"/>
+		<cosponsor id="400350" joined="1994-05-19"/>
+		<cosponsor id="400604" joined="1994-06-09"/>
+		<cosponsor id="400107" joined="1994-03-16"/>
+		<cosponsor id="406790" joined="1994-03-16"/>
+		<cosponsor id="400369" joined="1994-03-16"/>
+		<cosponsor id="400583" joined="1994-03-16"/>
+		<cosponsor id="408661" joined="1994-03-16"/>
+		<cosponsor id="400243" joined="1994-05-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-16"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-04-26"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="1266" />
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Federal-state relations"/>
+		<term name="Health policy"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="Medicaid"/>
+		<term name="Medical care"/>
+		<term name="Public assistance programs"/>
+		<term name="State and local government"/>
+		<term name="Welfare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/16/1994--Introduced.
+Fairness in Medicaid Funding Act of 1994 - Amends title XIX (Medicaid) of the Social Security Act to change the Federal medical assistance percentage used under the Medicaid program. Bases payments to the States for administration costs on the Federal medical assistance percentage.
+
+	</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="536" updated="2010-05-20T21:56:10-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Rural Hospital Amendments of 1993</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to extend and revise programs to assist rural hospitals under part A of the medicare program.</title>
+	</titles>
+	<sponsor id="300083"/>
+	<cosponsors>
+		<cosponsor id="400150" joined="1993-04-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-01-21"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-26"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-02-03"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Hospitals"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Prospective payment systems (Medical care)"/>
+		<term name="Rural hospitals"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Medicare Rural Hospital Amendments of 1993 - Amends title XVIII (Medicare) of the Social Security Act to extend and revise programs to assist rural hospitals under Medicare part A (Hospital Insurance). Authorizes appropriations. Amends the Omnibus Budget Reconciliation Act of 1987 to reauthorize and extend the rural transition grant program. Amends the Omnibus Budget Reconciliation Act of 1989 to extend regional referral centers. Revises Medicare-dependent, small rural hospital provisions under Medicare. Requires the Secretary of Health and Human Services to provide rural referral centers and Medicare-dependent, small rural hospitals which have been reclassified as urban the opportunity to decline such reclassification.
+
+	</summary>
+</bill>

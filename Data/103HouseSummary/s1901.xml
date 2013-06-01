@@ -1,0 +1,45 @@
+<bill session="103" type="s" number="1901" updated="2012-07-17T06:26:36-04:00">
+	<state datetime="1994-03-17">REPORTED</state>
+	<status><calendar datetime="1994-03-17" /></status>
+
+	<introduced datetime="1994-03-08"/>
+	<titles>
+		<title type="official" as="introduced">A bill to require the Secretary of Agriculture to issue regulations authorizing the purchase and eradication of swine infected with or exposed to brucellosis, and for other purposes.</title>
+	</titles>
+	<sponsor id="300154"/>
+	<cosponsors>
+		<cosponsor id="300048" joined="1994-03-08"/>
+		<cosponsor id="403968" joined="1994-03-08"/>
+		<cosponsor id="300051" joined="1994-03-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-08" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2476-2478)</text></action>
+		<action datetime="1994-03-08" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1994-03-17"><text>Senate Committee on Agriculture discharged by Unanimous Consent.</text></action>
+		<calendar datetime="1994-03-17"  state="REPORTED"><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 389.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="4044" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Administrative procedure"/>
+		<term name="Animal diseases"/>
+		<term name="Animals"/>
+		<term name="Department of Agriculture"/>
+		<term name="Government operations and politics"/>
+		<term name="Health"/>
+		<term name="Swine"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/8/1994--Introduced.
+Requires the Secretary of Agriculture to issue regulations authorizing the purchase and eradication of swine infected with brucellosis.
+
+	</summary>
+</bill>

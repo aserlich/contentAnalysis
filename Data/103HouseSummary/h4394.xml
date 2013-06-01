@@ -1,0 +1,116 @@
+<bill session="103" type="h" number="4394" updated="2012-07-17T05:03:43-04:00">
+	<state datetime="1994-10-03T15:53:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-10-03T15:53:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-05-11"/>
+	<titles>
+		<title type="short" as="introduced">Comprehensive One-Call Notification Act of 1994</title>
+		<title type="short" as="passed house">Comprehensive One-Call Notification Act of 1994</title>
+		<title type="official" as="introduced">To provide for the establishment of mandatory State-operated comprehensive one-call systems to protect natural gas and hazardous liquid pipelines and all other underground facilities from being damaged by any excavations, and for other purposes.</title>
+	</titles>
+	<sponsor id="400308"/>
+	<cosponsors>
+		<cosponsor id="400612" joined="1994-09-20"/>
+		<cosponsor id="401417" joined="1994-07-21"/>
+		<cosponsor id="300156" joined="1994-07-21"/>
+		<cosponsor id="406466" joined="1994-08-01"/>
+		<cosponsor id="404375" joined="1994-09-30"/>
+		<cosponsor id="300055" joined="1994-09-20"/>
+		<cosponsor id="400584" joined="1994-07-21"/>
+		<cosponsor id="400008" joined="1994-08-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-11" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-05-11" state="REPORTED"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1994-05-23"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+		<action datetime="1994-05-27" state="REFERRED"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Energy and Power.</text></action>
+		<action datetime="1994-05-27"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Telecommunications and Finance.</text></action>
+		<action datetime="1994-08-04"><committee name="House Committee on Energy and Commerce" subcommittee="Energy and Power"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-08-04"><committee name="House Committee on Energy and Commerce" subcommittee="Energy and Power"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-08-05"><committee name="House Committee on Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-08-05"  state="REPORTED"><committee name="House Committee on Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-08-05"><committee name="House Committee on Energy and Commerce"/><text>Subcommittee on Telecommunications and Finance Discharged.</text></action>
+		<action datetime="1994-09-22"><committee name="House Committee on Public Works + Transportation" subcommittee="Surface Transportation"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on Public Works + Transportation" subcommittee="Surface Transportation"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-09-27"><committee name="House Committee on Public Works + Transportation" subcommittee="Surface Transportation"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Public Works + Transportation"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28" ><committee name="House Committee on Public Works + Transportation"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-09-29T15:41:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 103-765, Part I.</text></action>
+		<action datetime="1994-09-30T13:16:00-04:00"><text>Reported (Amended) by the Committee on Public Works + Transportation. H. Rept. 103-765, Part II.</text></action>
+		<calendar number="415" datetime="1994-09-30T13:17:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 415.</text></calendar>
+		<action datetime="1994-10-03T15:43:00-04:00"><text>Mr. Sharp moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-10-03T15:44:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10569-10573"/></action>
+		<action datetime="1994-10-03T15:44:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-10-03T15:53:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-10-03T15:53:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-10-03"><text>Received in the Senate.</text></action>
+		<action datetime="1994-10-04"><text>Sponsor introductory remarks on measure. (CR E2050-2051)</text></action>
+		<action datetime="1994-10-08"><text>Read twice and referred to the Committee on Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting" />
+		<committee code="HSIF-03" name="House Energy and Commerce" subcommittee="Energy and Power" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Telecommunications and Finance" activity="Referral, Discharged" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="5248" />
+		<bill relation="unknown" session="103" type="h" number="5248" />
+		<bill relation="unknown" session="103" type="s" number="2101" />
+	</relatedbills>
+	<subjects>
+		<term name="Energy"/>
+		<term name="Accident prevention"/>
+		<term name="Accidents"/>
+		<term name="Automobile drivers"/>
+		<term name="Buy American"/>
+		<term name="Citizen lawsuits"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Economics and public finance"/>
+		<term name="Emergency communication systems"/>
+		<term name="Emergency management"/>
+		<term name="Employee training"/>
+		<term name="Energy policy"/>
+		<term name="Environmental protection"/>
+		<term name="Excavation"/>
+		<term name="Federal aid highway program"/>
+		<term name="Federal aid to transportation"/>
+		<term name="Fees"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Gas pipelines"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Grants-in-aid"/>
+		<term name="Information services"/>
+		<term name="Injunctions"/>
+		<term name="Labor and employment"/>
+		<term name="Law"/>
+		<term name="Licenses"/>
+		<term name="Motor vehicle safety"/>
+		<term name="Pipelines"/>
+		<term name="Public service advertising"/>
+		<term name="Railroad maintenance and repair"/>
+		<term name="Relocation"/>
+		<term name="Safety measures"/>
+		<term name="Science, technology, communications"/>
+		<term name="Technological innovations"/>
+		<term name="Technology assessment"/>
+		<term name="Telephone"/>
+		<term name="Transportation and public works"/>
+		<term name="Transportation of hazardous substances"/>
+		<term name="Transportation research"/>
+		<term name="Truck drivers"/>
+		<term name="Underground utility lines"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/1994--Passed House amended. Comprehensive One-Call Notification Act of 1994 - Directs the Secretary of Transportation to provide for the establishment of a nationwide toll-free telephone number to be used by State one-call (call before you dig) notification systems. Requires each State to consider whether to adopt a comprehensive statewide one-call notification program containing all elements required under this Act. Outlines required elements of the program, including prior notification of any intended excavations and its application to all excavators and underground facility operators. Provides an exception. Provides penalties for violations of the requirements of the program, as well as enforcement procedures. Directs the Secretary to make grants to States (or to operators of State notification systems) which have elected to establish and maintain a notification system with all required elements. Allows grants for alternative programs if they are at least as protective of the public health and safety and environment as a State program under this Act. Directs the Secretary to: (1) coordinate the implementation of this Act with Federal pipeline safety requirements; (2) review and report to the Congress on the achievement of the purposes of this Act; and (3) develop and make available to States a model State one-call notification program, with suggested elements. Requires each State to provide an initial and annual status reports on progress made in implementing a State program. Directs the Secretary to report annually to the Congress on accidents caused by routine railroad maintenance. Allows States to implement more protective notification systems than that required under this Act. Directs the Secretary to consult with other agencies as to the availability and affordability of technologies which will help relocate pipelines from above-ground and remote locations. Directs the Secretary to carry out a study under the vision waiver study program which would include drivers who failed to qualify under the original study program due to application time limits and the failure to learn of the program in a timely manner. Expresses the sense of the Congress that, to the greatest extent practicable, all equipment and products purchased with funds made available under this Act should be American-made. Requires notification of such preference to the recipients of assistance under this Act.
+
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="103" type="hr" number="178" updated="2010-04-19T13:26:32-04:00">
+	<state datetime="1993-05-19">REFERRED</state>
+	<status><introduced datetime="1993-05-19"/></status>
+
+	<introduced datetime="1993-05-19"/>
+	<titles>
+		<title type="official" as="introduced">Referring the bill (H.R. 2196) for the relief of John W. Ruth, Sr., to the chief judge of the United States Court of Federal Claims.</title>
+	</titles>
+	<sponsor id="400116"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-19"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-05-24"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Claims"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/19/1993--Introduced.
+Refers a specified bill for the relief of a named individual to the chief judge of the United States Court of Federal Claims.
+
+	</summary>
+</bill>

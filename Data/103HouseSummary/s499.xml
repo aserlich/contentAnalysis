@@ -1,0 +1,41 @@
+<bill session="103" type="s" number="499" updated="2012-07-17T04:42:26-04:00">
+	<state datetime="1993-03-04">REFERRED</state>
+	<status><introduced datetime="1993-03-04"/></status>
+
+	<introduced datetime="1993-03-04"/>
+	<titles>
+		<title type="short" as="introduced">Life Imprisonment for Egregious Recidivist Act of 1993</title>
+		<title type="official" as="introduced">A bill to amend title 18, United States Code, to provide mandatory life imprisonment for persons convicted of a third violent felony.</title>
+	</titles>
+	<sponsor id="300069"/>
+	<cosponsors>
+		<cosponsor id="400564" joined="1994-02-28"/>
+		<cosponsor id="300071" joined="1993-04-19"/>
+		<cosponsor id="300052" joined="1993-05-11"/>
+		<cosponsor id="300082" joined="1993-03-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2416)</text></action>
+		<action datetime="1993-03-04" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="93" />
+	</relatedbills>
+	<subjects>
+		<term name="Criminal procedure"/>
+		<term name="Recidivists"/>
+		<term name="Sentences (Criminal procedure)"/>
+		<term name="Violence"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/4/1993--Introduced.
+Life Imprisonment for Egregious Recidivist Act of 1993 - Amends the Federal criminal code to require the court, in the case of a conviction for a Federal violent felony, to sentence the defendant to life imprisonment if the defendant has previously been convicted of two other violent felonies. Specifies that this provision shall not be construed to prevent the imposition of the death penalty.
+
+	</summary>
+</bill>

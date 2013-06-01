@@ -1,0 +1,40 @@
+<bill session="103" type="s" number="2485" updated="2012-07-17T04:15:03-04:00">
+	<state datetime="1994-09-30">REFERRED</state>
+	<status><introduced datetime="1994-09-30"/></status>
+
+	<introduced datetime="1994-09-30"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Federal Aviation Administration Authorization Act of 1994 to delay the effective date of trucking deregulation for 1 year.</title>
+	</titles>
+	<sponsor id="300036"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="1994-09-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-30" state="REFERRED"><text>Read twice and referred to the Committee on Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="5071" />
+		<bill relation="unknown" session="103" type="h" number="5071" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Deregulation"/>
+		<term name="Federal preemption"/>
+		<term name="Government operations and politics"/>
+		<term name="Motor carrier rates"/>
+		<term name="State laws"/>
+		<term name="Trucking"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/1994--Introduced.
+Amends the Federal Aviation Administration Authorization Act of 1994 to delay the effective date of trucking deregulation from January 1, 1995, to January 1, 1996.
+
+	</summary>
+</bill>

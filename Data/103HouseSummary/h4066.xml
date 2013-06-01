@@ -1,0 +1,68 @@
+<bill session="103" type="h" number="4066" updated="2010-04-19T09:44:48-04:00">
+	<state datetime="1994-04-30">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-04-30" /></status>
+
+	<introduced datetime="1994-03-17"/>
+	<titles>
+		<title type="official" as="introduced">To suspend temporarily the duty on the personal effects of participants in, and certain other individuals associated with, the 1994 World Cup Soccer Games, the 1994 World Rowing Championships, the 1995 Special Olympics World Games, the 1996 Summer Olympics, and the 1996 Paralympics.</title>
+	</titles>
+	<sponsor id="409422"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1994-03-17"/>
+		<cosponsor id="409154" joined="1994-03-17"/>
+		<cosponsor id="400085" joined="1994-03-17"/>
+		<cosponsor id="406284" joined="1994-03-17"/>
+		<cosponsor id="400205" joined="1994-03-17"/>
+		<cosponsor id="404520" joined="1994-03-17"/>
+		<cosponsor id="400240" joined="1994-03-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-03-17"><text>Sponsor introductory remarks on measure. (CR E464-465)</text></action>
+		<action datetime="1994-03-17"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1994-03-23"><committee name="House Committee on Ways and Means"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-03-23"  state="REPORTED"><committee name="House Committee on Ways and Means"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-03-24T18:09:00-05:00"><text>Reported by the Committee on Ways and Means. H. Rept. 103-454.</text></action>
+		<calendar number="251" datetime="1994-03-24T18:10:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 251.</text></calendar>
+		<action datetime="1994-04-12T12:44:00-04:00"><text>Mr. Rostenkowski moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-04-12T12:45:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2181-2184"/></action>
+		<action datetime="1994-04-12T12:45:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<action datetime="1994-04-12T12:53:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="1994-04-12T16:02:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2200"/></action>
+		<vote how="roll" type="vote" roll="96" datetime="1994-04-12T16:28:00-04:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 406 - 1 (Roll No. 96).</text></vote>
+		<action datetime="1994-04-12T16:28:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-04-13"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-04-14" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S4378-4379"/></vote>
+		<topresident datetime="1994-04-14" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1994-04-19"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1994-04-20" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-04-30" ><text>Signed by President.</text></signed>
+		<enacted number="103-237" type="public" datetime="1994-04-30"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-237.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2104" />
+		<bill relation="unknown" session="103" type="h" number="2897" />
+		<bill relation="unknown" session="103" type="h" number="3938" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Aliens"/>
+		<term name="Athletes"/>
+		<term name="Athletics"/>
+		<term name="Disabled"/>
+		<term name="Equipment and supplies"/>
+		<term name="Olympic games"/>
+		<term name="Sports"/>
+		<term name="Tariff"/>
+		<term name="Trade"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/12/1994--Passed House amended. Amends the Harmonized Tariff Schedule of the United States to grant duty-free treatment, through November 30, 1996, of the personal effects of participants, their families and associated members, and officials, and related equipment, materials, and other specified articles not intended for sale or distribution to the public, involved in the 1994 FIFA World Cup Games, the 1994 World Rowing Championships, the 1995 Special Olympics World Games, the XXVI Summer Olympiad, and the 1996 Atlanta Paralympic Games.
+
+	</summary>
+</bill>

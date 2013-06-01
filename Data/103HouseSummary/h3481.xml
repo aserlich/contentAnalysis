@@ -1,0 +1,55 @@
+<bill session="103" type="h" number="3481" updated="2010-04-19T08:13:26-04:00">
+	<state datetime="1993-11-09">REFERRED</state>
+	<status><introduced datetime="1993-11-09"/></status>
+
+	<introduced datetime="1993-11-09"/>
+	<titles>
+		<title type="short" as="introduced">Pension Restoration Act of 1993</title>
+		<title type="official" as="introduced">To provide participants in private pension plans which were terminated before September 1, 1974, the nonforfeitable pension benefits which were lost by reason of the termination, and for other purposes.</title>
+	</titles>
+	<sponsor id="400520"/>
+	<cosponsors>
+		<cosponsor id="405939" joined="1994-03-21"/>
+		<cosponsor id="400539" joined="1993-11-09"/>
+		<cosponsor id="402626" joined="1994-03-21"/>
+		<cosponsor id="400299" joined="1993-11-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-09"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action datetime="1993-12-09"><committee name="House Committee on Education and Labor"/><text>Referred to the Subcommittee on Labor-Management Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and Labor" activity="Referral, In Committee" />
+		<committee code="HSED-02" name="House Education and Labor" subcommittee="Labor-Management Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Employment"/>
+		<term name="Administrative remedies"/>
+		<term name="Annuities"/>
+		<term name="Executive departments"/>
+		<term name="Government corporations"/>
+		<term name="Government trust funds"/>
+		<term name="Income tax"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Labor"/>
+		<term name="Pension Benefit Guaranty Corporation"/>
+		<term name="Pension funds"/>
+		<term name="Pension trust guaranty insurance"/>
+		<term name="Pensions"/>
+		<term name="Revolving funds"/>
+		<term name="Survivors' benefits"/>
+		<term name="Tax returns"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/9/1993--Introduced.
+Pension Restoration Act of 1993 - Establishes a Federal annuity program, administered by the Pension Benefit Guaranty Corporation, to compensate participants in private pension plans which were terminated before September 1, 1974, for nonforfeitable pension benefits lost by reason of the termination. Sets forth provisions for such annuity program, relating to: (1) entitlement; (2) computation; (3) applications; (4) administrative appeals; (5) judicial review; (6) payment; (7) interagency coordination and cooperation; and (8) regulations. Provides for use of certain funds under the Employee Retirement Income Security Act of 1974 (ERISA) to pay such annuities and the administrative costs of such program.
+
+	</summary>
+</bill>

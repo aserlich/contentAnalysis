@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="3849" updated="2010-04-19T09:10:49-04:00">
+	<state datetime="1994-02-10">REFERRED</state>
+	<status><introduced datetime="1994-02-10"/></status>
+
+	<introduced datetime="1994-02-10"/>
+	<titles>
+		<title type="official" as="introduced">To amend section 3730 of title 31, United States Code, to limit the amount a private party may be awarded in an action under such section.</title>
+	</titles>
+	<sponsor id="400116"/>
+	<cosponsors>
+		<cosponsor id="408839" joined="1994-02-24"/>
+		<cosponsor id="400018" joined="1994-03-02"/>
+		<cosponsor id="410887" joined="1994-03-16"/>
+		<cosponsor id="407669" joined="1994-06-08"/>
+		<cosponsor id="411997" joined="1994-03-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-02-10"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1994-08-18"><committee name="House Committee on Judiciary"/><text>Referred to the Subcommittee on Administrative Law and Governmental Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Administrative Law and Governmental Relations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Claims"/>
+		<term name="Damages"/>
+		<term name="Fraud"/>
+		<term name="Law"/>
+		<term name="Popular actions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/1994--Introduced.
+Amends Federal monetary law concerning civil qui tam actions for false claims brought by a private party to limit to $1 million the amount such private party may be awarded.
+
+	</summary>
+</bill>

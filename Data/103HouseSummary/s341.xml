@@ -1,0 +1,85 @@
+<bill session="103" type="s" number="341" updated="2012-07-17T05:06:24-04:00">
+	<state datetime="1994-05-19">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-05-19" /></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for a land exchange between the Secretary of Agriculture and Eagle and Pitkin Counties in Colorado, and for other purposes.</title>
+	</titles>
+	<sponsor id="300017"/>
+	<cosponsors>
+		<cosponsor id="401874" joined="1993-02-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1448)</text></action>
+		<action datetime="1993-02-04" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-02-05"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1993-02-10"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of Agriculture, Department of the Interior, and Office of Management and Budget.</text></action>
+		<action datetime="1993-02-25"><committee name="Committee on Energy and Natural Resources"/><text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed: S.Hrg. 103-19.</text></action>
+		<calendar datetime="1993-05-19"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="1993-06-22"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments. With written report No. 103-61.</text></action>
+		<calendar under="General Orders" number="99" datetime="1993-06-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 99.</text></calendar>
+		<vote how="by Voice Vote" type="vote" datetime="1993-06-29" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with amendments by Voice Vote.</text><reference label="consideration" ref="CR S8269-8270"/></vote>
+		<action datetime="1993-06-30T10:05:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1993-06-30"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-06-30"><text>Referred jointly to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-06-30"><text>Referred jointly to the House Committee on Agriculture.</text></action>
+		<action datetime="1993-07-02"><committee name="Committee on Energy and Natural Resources"/><text>Referred to the Subcommittee on Specialty Crops and Natural Resources.</text></action>
+		<action datetime="1993-08-06"><committee name="Committee on Energy and Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="1993-08-13"><committee name="Committee on Energy and Natural Resources"/><text>Executive Comment Requested from Interior.</text></action>
+		<action datetime="1993-09-30"><committee name="Committee on Energy and Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1993-11-04"><committee name="Committee on Energy and Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1993-11-04"><committee name="Committee on Energy and Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text></action>
+		<action datetime="1994-03-02"><committee name="Committee on Energy and Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-03-02" ><committee name="Committee on Energy and Natural Resources"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-03-10T19:52:00-05:00"><text>Reported by the Committee on Natural Resources. H. Rept. 103-432, Part I.</text></action>
+		<action datetime="1994-05-10T13:01:00-04:00"><text>Mr. Vento moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="1994-05-10T13:02:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3209-3211"/></action>
+		<action datetime="1994-05-10T13:02:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote2" datetime="1994-05-10T13:06:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text></vote>
+		<action datetime="1994-05-10T13:06:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-05-10" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-05-12" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-05-19" ><text>Signed by President.</text></signed>
+		<enacted number="103-255" type="public" datetime="1994-05-19"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-255.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral, Hearings" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSII-10" name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands" activity="Referral, Hearings, Markup, Reporting" />
+		<committee code="HSAG" name="House Agriculture" activity="Referral" />
+		<committee code="" name="House Agriculture" subcommittee="Specialty Crops and Natural Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="1199" />
+		<bill relation="unknown" session="103" type="h" number="1199" />
+		<bill relation="unknown" session="103" type="h" number="1199" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Claims"/>
+		<term name="Colorado"/>
+		<term name="Department of Agriculture"/>
+		<term name="Easements"/>
+		<term name="Executive reorganization"/>
+		<term name="General Services Administration"/>
+		<term name="Government operations and politics"/>
+		<term name="Irrigation"/>
+		<term name="Land transfers"/>
+		<term name="National forests"/>
+		<term name="Nurseries (Horticulture)"/>
+		<term name="Open space lands"/>
+		<term name="Real estate appraisal"/>
+		<term name="Rivers"/>
+		<term name="Water rights"/>
+		<term name="Wilderness areas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/29/1993--Passed Senate amended. Authorizes Eagle and Pitkin Counties in Colorado to offer for exchange with the United States specified lands of the White River National Forest. Requires the Secretary of Agriculture to convey to the Counties all rights of the United States to specified lands of the Mt. Sopris Tree Nursery (MSTN). Requires the Secretary, in the deed of conveyance to the Counties, to provide that all rights in and to lands and water rights conveyed shall revert to the United States in the event that such lands or water rights are sold or otherwise conveyed by the Counties or are used other than for public purposes. Declares that the lands exchanged between the United States and the Counties are deemed to be of approximately equal value, without any need for cash equalization, as based upon a specified statement of value prepared by Forest Service appraisers. Provides that: (1) the National Forest inholdings acquired by the United States pursuant to this Act shall become a part of the White River, Gunnison, and Arapaho National Forests, or a part of an appropriate existing wilderness area; and (2) the Quiet Title Act shall be the sole legal remedy of any party claiming any rights in or to any National Forest inholdings conveyed by the Counties to the United States pursuant to this Act. Requires the Counties to reimburse the United States for National Forest inholdings that the United States acquires under this Act that are lost in a final title determination adverse to the United States. Allocates and provides for the management of the existing water rights in the MSTN, including water well and irrigation ditch rights adjudicated under Colorado law, together with the right to administer, maintain, access, and further develop such rights. Transfers the White River National Forest Headquarters and administrative offices in Glenwood Springs, Colorado, from the jurisdiction of the U.S. General Services Administration to that of the Secretary, who shall retain such facilities.
+
+	</summary>
+</bill>

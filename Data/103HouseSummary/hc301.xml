@@ -1,0 +1,44 @@
+<bill session="103" type="hc" number="301" updated="2010-04-18T21:48:07-04:00">
+	<state datetime="1994-09-30">REFERRED</state>
+	<status><introduced datetime="1994-09-30"/></status>
+
+	<introduced datetime="1994-09-30"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress regarding entitlements.</title>
+	</titles>
+	<sponsor id="408364"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-09-30"><text>Sponsor introductory remarks on measure. (CR E2010)</text></action>
+		<action datetime="1994-09-30"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-10-04T19:59:00-04:00"><text>Rules Committee Resolution H. Res. 563 Reported to House. Rule provides for consideration of H. Con. Res. 301 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Providing for the consideration in the Committee of the Whole. Measure will be read by section. Specified amendments are in order. The question on adopting the amendment numbered 1 in the report of the Committee on Rules accomanying this resolution shall be considered as pending without intervening motion or debate. No other amendment shall be in order except those printed in the report, if offered in the order and manner specified. All poiints of order against the amendments shall be waived.</text></action>
+		<action datetime="1994-10-05T11:20:00-04:00"><text>Rule H. Res. 563 failed passage of House.</text></action>
+		<action datetime="1994-10-19"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="103" type="hr" number="563" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Budgets"/>
+		<term name="Children"/>
+		<term name="Entitlements"/>
+		<term name="Government spending reductions"/>
+		<term name="Public debt"/>
+		<term name="Social services"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/1994--Introduced.
+Expresses the sense of the Congress that current trends in entitlement spending are not sustainable and Congress must act to resolve the long-term imbalance of the entitlement promises and available funds to ensure that today's debt does not fall unfairly on America's children.
+
+	</summary>
+</bill>

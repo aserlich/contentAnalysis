@@ -1,0 +1,45 @@
+<bill session="103" type="s" number="1455" updated="2012-07-17T05:27:10-04:00">
+	<state datetime="1993-09-14">REFERRED</state>
+	<status><introduced datetime="1993-09-14"/></status>
+
+	<introduced datetime="1993-09-14"/>
+	<titles>
+		<title type="official" as="introduced">A bill to protect the integrity of the Point Reyes National Seashore and the Golden Gate National Recreation Area (GGNRA), and for other purposes.</title>
+	</titles>
+	<sponsor id="300011"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-14" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S11685)</text></action>
+		<action datetime="1993-09-14" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-09-15"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="3079" />
+	</relatedbills>
+	<subjects>
+		<term name="Parks"/>
+		<term name="California"/>
+		<term name="Development rights transfer"/>
+		<term name="Easements"/>
+		<term name="Environmental protection"/>
+		<term name="Estuaries"/>
+		<term name="Land transfers"/>
+		<term name="National recreation areas"/>
+		<term name="National seashores"/>
+		<term name="Trails"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/14/1993--Introduced.
+Expands the Point Reyes National Seashore in California. Authorizes the Secretary of the Interior to: (1) acquire certain lands within such area (including development rights and conservation easements) with the consent of the owner (unless the Secretary determines that the lands are subject to, or threatened with, uses which are having or would have an adverse impact on the area); and (2) negotiate for the acquisition of lands specifically for trail purposes. Authorizes appropriations. Adds specified lands to the Golden Gate National Recreation Area.
+
+	</summary>
+</bill>

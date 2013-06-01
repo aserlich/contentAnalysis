@@ -1,0 +1,40 @@
+<bill session="103" type="h" number="3073" updated="2010-04-19T07:10:13-04:00">
+	<state datetime="1993-09-14">REFERRED</state>
+	<status><introduced datetime="1993-09-14"/></status>
+
+	<introduced datetime="1993-09-14"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 10, United States Code, to expand eligibility for commissary benefits for persons qualified for certain retired pay but under age 60.</title>
+	</titles>
+	<sponsor id="400554"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-09-14"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-09-17"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Readiness.</text></action>
+		<action datetime="1993-09-17"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-03" name="House Armed Services" subcommittee="Readiness" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Defense policy"/>
+		<term name="Post exchanges"/>
+		<term name="Retired military personnel"/>
+		<term name="Veterans"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/14/1993--Introduced.
+Provides full eligibility (currently limited to 12 days per year) for commissary benefits for persons who would be eligible for military retired pay but for the fact that the person is under 60 years of age.
+
+	</summary>
+</bill>

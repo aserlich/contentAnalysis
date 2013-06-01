@@ -1,0 +1,65 @@
+<bill session="103" type="h" number="477" updated="2010-04-19T00:15:22-04:00">
+	<state datetime="1993-01-06">REFERRED</state>
+	<status><introduced datetime="1993-01-06"/></status>
+
+	<introduced datetime="1993-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Customs Inspector Benefit Reform Act of 1993</title>
+		<title type="official" as="introduced">To reform Customs Service operations, and for other purposes.</title>
+	</titles>
+	<sponsor id="400333"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="1993-03-31"/>
+		<cosponsor id="400527" joined="1993-04-28"/>
+		<cosponsor id="410567" joined="1993-03-31"/>
+		<cosponsor id="400316" joined="1993-05-27"/>
+		<cosponsor id="400511" joined="1993-04-28"/>
+		<cosponsor id="400251" joined="1993-11-22"/>
+		<cosponsor id="400357" joined="1993-03-31"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-06"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1993-01-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-01-19"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+		<action datetime="1993-08-10"><committee name="House Committee on Ways and Means"/><text>See H.R.2264.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="2264" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Administrative fees"/>
+		<term name="Airline passenger traffic"/>
+		<term name="Awards, medals, prizes"/>
+		<term name="Canada"/>
+		<term name="Civil service pensions"/>
+		<term name="Civil service retirement"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Customs administration"/>
+		<term name="Department of the Treasury"/>
+		<term name="Federal employees"/>
+		<term name="Language and languages"/>
+		<term name="Law enforcement officers"/>
+		<term name="Mexico"/>
+		<term name="Overtime"/>
+		<term name="Passenger ships"/>
+		<term name="Pay equity"/>
+		<term name="Salaries"/>
+		<term name="User charges"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/1993--Introduced.
+Customs Inspector Benefit Reform Act of 1993 - Amends Federal law to revise the pay system for U.S. customs inspectors. Amends the Tariff Act of 1930 to prohibit merchandise or passengers from foreign places, or merchandise being transported from one port to another, from being unladen from carrying vehicles during overtime hours (currently, at night). Authorizes cash awards to customs officers for foreign language proficiency. Amends the Consolidated Omnibus Budget Reconciliation Act of 1985 (COBRA) to provide for reimbursement of appropriations from the Customs User Fee Account (Account) for agency retirement contributions. Amends Federal law with regard to the treatment of certain pay of customs officers for retirement purposes. Revises COBRA congressional reporting requirements respecting Account reimbursements. Requires additional General Accounting Office reports to the Congress concerning the financing of overtime inspectional services through user fees. Authorizes hazardous duty differentials to be paid to customs officers. Makes certain customs employees eligible for the special rates and locality pay adjustments under the Federal Employees Pay Comparability Act of 1990 that are applicable to Federal law enforcement officers. Authorizes the Commissioner of Customs to designate customs inspectors and canine officers as arduous enforcement positions. Sets forth staffing requirements. Amends Federal law to add rules for determining creditable service for retirement purposes.
+
+	</summary>
+</bill>

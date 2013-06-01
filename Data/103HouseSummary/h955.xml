@@ -1,0 +1,43 @@
+<bill session="103" type="h" number="955" updated="2010-04-19T01:35:37-04:00">
+	<state datetime="1993-02-17">REFERRED</state>
+	<status><introduced datetime="1993-02-17"/></status>
+
+	<introduced datetime="1993-02-17"/>
+	<titles>
+		<title type="official" as="introduced">To exempt semiconductors from the country of origin marking requirements under the Tariff Act of 1930.</title>
+	</titles>
+	<sponsor id="400567"/>
+	<cosponsors>
+		<cosponsor id="408725" joined="1994-03-18"/>
+		<cosponsor id="407772" joined="1993-03-25"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-17"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-02-23"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action datetime="1993-03-10"><text>Sponsor introductory remarks on measure. (CR E561)</text></action>
+		<action datetime="1993-04-12"><committee name="House Committee on Ways and Means"/><text>Executive Comment Requested from Treasury, Commerce, ITC, USTR.</text></action>
+		<action datetime="1994-03-23"><committee name="House Committee on Ways and Means"/><text>Executive Comment Received from Treasury.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-04" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="417" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade"/>
+		<term name="Labeling"/>
+		<term name="Packaging"/>
+		<term name="Semiconductors"/>
+		<term name="Tariff"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/17/1993--Introduced.
+Amends the Tariff Act of 1930 to exempt semiconductors from the country of origin marking requirements under such Act.
+
+	</summary>
+</bill>

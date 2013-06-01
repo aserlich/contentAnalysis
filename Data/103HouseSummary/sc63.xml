@@ -1,0 +1,281 @@
+<bill session="103" type="sc" number="63" updated="2010-04-19T21:20:49-04:00">
+	<state datetime="1994-03-17">REPORTED</state>
+	<status><calendar datetime="1994-03-17" /></status>
+
+	<introduced datetime="1994-03-18"/>
+	<titles>
+		<title type="official" as="introduced">An original concurrent resolution setting forth the congressional budget for the United States Government for the fiscal years 1995, 1996, 1997, 1998, and 1999.</title>
+	</titles>
+	<sponsor id="409580"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar datetime="1994-03-17"  state="REPORTED"><text>Committee on Budget ordered to be reported an original measure.</text></calendar>
+		<action datetime="1994-03-18"><text>Committee on Budget. Original measure reported to Senate by Senator Sasser under the authority of the order of Mar 17, 94. With written report No. 103-238. Additional and minority views filed.</text></action>
+		<calendar under="General Orders" number="390" datetime="1994-03-18" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 390.</text></calendar>
+		<action datetime="1994-03-22"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S3403-3415, S3421-3437"/></action>
+		<action datetime="1994-03-23"><text>Considered by Senate.</text><reference label="consideration" ref="CR S3477-3510, S3512-3515, S3517-3531, S3536-3540"/></action>
+		<action datetime="1994-03-24"><text>Considered by Senate.</text><reference label="consideration" ref="CR S3571-3615, S3617-3618, S3631-3667"/></action>
+		<action datetime="1994-03-24"><text>Motion to recommit to Senate Committee on Budget made in Senate.</text></action>
+		<action datetime="1994-03-24"><text>Motion to recommit to Senate Committee on Budget rejected in Senate by Yea-Nay Vote. 28-70. Record Vote No: 79.</text><reference label="consideration" ref="CR S3659"/></action>
+		<action datetime="1994-03-25"><text>Considered by Senate.</text><reference label="consideration" ref="CR S3817-3845"/></action>
+		<action datetime="1994-03-25"><text>Senate incorporated this measure in H.CON.RES. 218 as an amendment.</text></action>
+		<action datetime="1994-03-25"><text>Senate passed companion measure H.CON.RES. 218 in lieu of this measure by Yea-Nay Vote. 57-40. Record Vote No: 82.</text></action>
+		<action datetime="1994-03-25"><text>Returned to the Calendar. Calendar No. 390.</text><reference label="consideration" ref="CR S3860"/></action>
+		<action datetime="1994-05-12"><text>Indefinitely postponed by Senate by Unanimous Consent.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBU" name="Senate Budget" activity="Origin, Reporting, Markup" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hc" number="218" />
+		<bill relation="superseded" session="103" type="hc" number="218" />
+		<bill relation="unknown" session="103" type="hc" number="218" />
+		<bill relation="unknown" session="103" type="hc" number="218" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Administrative procedure"/>
+		<term name="Aggression"/>
+		<term name="Aliens"/>
+		<term name="American military assistance"/>
+		<term name="Arms sales"/>
+		<term name="Balanced budgets"/>
+		<term name="Banks and banking"/>
+		<term name="Birth control"/>
+		<term name="Block grants"/>
+		<term name="Budget deficits"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Campaign funds"/>
+		<term name="Central Europe"/>
+		<term name="Child nutrition"/>
+		<term name="Child support"/>
+		<term name="Children"/>
+		<term name="Civil service pensions"/>
+		<term name="Congress"/>
+		<term name="Congressional budget"/>
+		<term name="Congressional budget process"/>
+		<term name="Congressional committees (Senate)"/>
+		<term name="Continental shelf"/>
+		<term name="Corporation taxes"/>
+		<term name="Cost effectiveness"/>
+		<term name="Costs"/>
+		<term name="Courthouses"/>
+		<term name="Criminal justice"/>
+		<term name="Day care"/>
+		<term name="Defense budgets"/>
+		<term name="Defense economics"/>
+		<term name="Defense policy"/>
+		<term name="Department of Energy"/>
+		<term name="Department of Justice"/>
+		<term name="Department of the Treasury"/>
+		<term name="Deposit insurance"/>
+		<term name="Diesel motor"/>
+		<term name="Drug abuse"/>
+		<term name="Drug law enforcement"/>
+		<term name="Eastern Europe"/>
+		<term name="Economic growth"/>
+		<term name="Economic policy"/>
+		<term name="Economic warfare"/>
+		<term name="Education"/>
+		<term name="Elections"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Elementary education"/>
+		<term name="Emergency medical services"/>
+		<term name="Employee health benefits"/>
+		<term name="Energy"/>
+		<term name="Energy assistance for the poor"/>
+		<term name="Energy policy"/>
+		<term name="Energy security"/>
+		<term name="Entitlements"/>
+		<term name="Environmental protection"/>
+		<term name="Estonia"/>
+		<term name="Europe"/>
+		<term name="Excise tax"/>
+		<term name="Executive departments"/>
+		<term name="Families"/>
+		<term name="Federal aid highway program"/>
+		<term name="Federal aid to Indians"/>
+		<term name="Federal aid to child health services"/>
+		<term name="Federal aid to child welfare"/>
+		<term name="Federal aid to education"/>
+		<term name="Federal aid to health facilities"/>
+		<term name="Federal aid to law enforcement agencies"/>
+		<term name="Federal aid to maternal health services"/>
+		<term name="Federal aid to transportation"/>
+		<term name="Federal employees"/>
+		<term name="Federal installations"/>
+		<term name="Federal receipts and expenditures"/>
+		<term name="Federal-local relations"/>
+		<term name="Federal-state relations"/>
+		<term name="Federally-guaranteed loans"/>
+		<term name="Finance"/>
+		<term name="Food"/>
+		<term name="Foreign aid"/>
+		<term name="Foreign corporations"/>
+		<term name="Foreign policy"/>
+		<term name="Foreign trade"/>
+		<term name="Fuel"/>
+		<term name="Furniture industry"/>
+		<term name="Government attorneys"/>
+		<term name="Government consultants"/>
+		<term name="Government corporations"/>
+		<term name="Government employees"/>
+		<term name="Government lending"/>
+		<term name="Government property"/>
+		<term name="Government spending reductions"/>
+		<term name="Government trust funds"/>
+		<term name="Hazardous substances"/>
+		<term name="Health care reform"/>
+		<term name="Health insurance"/>
+		<term name="Health policy"/>
+		<term name="Homeless"/>
+		<term name="House rules and procedure"/>
+		<term name="Household workers"/>
+		<term name="Illegal aliens"/>
+		<term name="Immigration"/>
+		<term name="Imprisonment"/>
+		<term name="Income tax"/>
+		<term name="Indian medical care"/>
+		<term name="Infrastructure"/>
+		<term name="Intergovernmental fiscal relations"/>
+		<term name="International affairs"/>
+		<term name="International finance"/>
+		<term name="International military forces"/>
+		<term name="Job hunting"/>
+		<term name="Job training"/>
+		<term name="Labor"/>
+		<term name="Latvia"/>
+		<term name="Law"/>
+		<term name="Law enforcement officers"/>
+		<term name="Layoffs"/>
+		<term name="Legislation"/>
+		<term name="Legislative amendments"/>
+		<term name="Legislative resolutions"/>
+		<term name="Liability for toxic substances pollution damages"/>
+		<term name="Literacy programs"/>
+		<term name="Lithuania"/>
+		<term name="Location of industries"/>
+		<term name="Manpower training programs"/>
+		<term name="Marine resources"/>
+		<term name="Married people"/>
+		<term name="Medical care"/>
+		<term name="Medical economics"/>
+		<term name="Medicare"/>
+		<term name="Medicine"/>
+		<term name="Merchant marine"/>
+		<term name="Military intervention"/>
+		<term name="Military research"/>
+		<term name="Mines and mineral resources"/>
+		<term name="Minorities"/>
+		<term name="Missouri"/>
+		<term name="Narcotic traffic"/>
+		<term name="National Aeronautics and Space Administration"/>
+		<term name="Natural resources"/>
+		<term name="Ocean mining"/>
+		<term name="Off-budget expenditures"/>
+		<term name="Office equipment and supplies"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Parole"/>
+		<term name="Pension Benefit Guaranty Corporation"/>
+		<term name="Pension trust guaranty insurance"/>
+		<term name="Pensions"/>
+		<term name="Plant shutdowns"/>
+		<term name="Preschool education"/>
+		<term name="Presidential commissions"/>
+		<term name="Preventive medicine"/>
+		<term name="Prisoners"/>
+		<term name="Public assistance programs"/>
+		<term name="Public contracts"/>
+		<term name="Public debt"/>
+		<term name="Refugee policy"/>
+		<term name="Refugees"/>
+		<term name="Regulatory reform"/>
+		<term name="Rehabilitation of criminals"/>
+		<term name="Research and development"/>
+		<term name="Russia"/>
+		<term name="Russian Republic"/>
+		<term name="Science policy"/>
+		<term name="Secondary education"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Social security"/>
+		<term name="Social security taxes"/>
+		<term name="Solid wastes"/>
+		<term name="Sovereignty"/>
+		<term name="Space activities"/>
+		<term name="Space programs"/>
+		<term name="Space warfare"/>
+		<term name="State and local government"/>
+		<term name="Sulphur"/>
+		<term name="Tax administration"/>
+		<term name="Tax expenditures"/>
+		<term name="Tax havens"/>
+		<term name="Tax incentives"/>
+		<term name="Tax rates"/>
+		<term name="Taxation"/>
+		<term name="Taxpayers"/>
+		<term name="Technology"/>
+		<term name="Teenage pregnancy"/>
+		<term name="Trade"/>
+		<term name="Trade agreements"/>
+		<term name="Transportation"/>
+		<term name="Treatment and rehabilitation of narcotic addicts"/>
+		<term name="Unemployment insurance"/>
+		<term name="United Nations finances"/>
+		<term name="Vaccination"/>
+		<term name="Water resources"/>
+		<term name="Water supply"/>
+		<term name="Weapons systems"/>
+		<term name="Welfare"/>
+		<term name="Women"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1557"/>
+		<amendment number="s1558"/>
+		<amendment number="s1559"/>
+		<amendment number="s1560"/>
+		<amendment number="s1561"/>
+		<amendment number="s1562"/>
+		<amendment number="s1563"/>
+		<amendment number="s1564"/>
+		<amendment number="s1565"/>
+		<amendment number="s1566"/>
+		<amendment number="s1567"/>
+		<amendment number="s1568"/>
+		<amendment number="s1569"/>
+		<amendment number="s1570"/>
+		<amendment number="s1571"/>
+		<amendment number="s1572"/>
+		<amendment number="s1573"/>
+		<amendment number="s1574"/>
+		<amendment number="s1577"/>
+		<amendment number="s1578"/>
+		<amendment number="s1579"/>
+		<amendment number="s1580"/>
+		<amendment number="s1582"/>
+		<amendment number="s1583"/>
+		<amendment number="s1584"/>
+		<amendment number="s1585"/>
+		<amendment number="s1586"/>
+		<amendment number="s1587"/>
+		<amendment number="s1588"/>
+		<amendment number="s1589"/>
+		<amendment number="s1590"/>
+		<amendment number="s1591"/>
+		<amendment number="s1592"/>
+		<amendment number="s1593"/>
+		<amendment number="s1597"/>
+		<amendment number="s1598"/>
+		<amendment number="s1599"/>
+		<amendment number="s1600"/>
+		<amendment number="s1601"/>
+		<amendment number="s1602"/>
+	</amendments>
+	<summary>
+	3/18/1994--Introduced.
+TABLE OF CONTENTS: Title I: Levels and Amounts Title II: Budgetary Procedures Title III: Sense of Congress Provisions Title I: Levels and Amounts - Establishes the budget for FY 1995 and sets forth appropriate budgetary levels for FY 1996 through 1999. (Sec. 2) Sets forth recommended budgetary levels of Federal revenues, new budget authority, budget outlays, deficits, public debt, and credit activity. (Sec. 3) Sets forth the increase in the public debt subject to limitation. Displays Federal retirement trust fund balances. Sets forth Social Security trust fund revenues and outlays for Senate enforcement purposes. (Sec. 6) Sets forth funding levels for each major functional category. Title II: Budgetary Procedures - Expresses the sense of the Congress that: (1) the Government should sell assets from time to time; and (2) the amounts realized from such sales will not recur on an annual basis and do not reduce the demand for credit. (Sec. 22) Limits the levels of social security outlays and revenues for this resolution to the current services levels. (Sec 23) Establishes Senate enforcement procedures to continue pay-as-you-go enforcement procedures through FY 2003. (Sec. 24) Allows budget authority and outlay allocations for legislation that increases funding for certain purposes when legislation has been reported that will not, if enacted, increase the deficit for FY 1995 through 1999. Describes such purposes as funding: (1) to improve the well-being of families through welfare or other reforms, to provide for services to support or protect children, or to improve the health, nutrition or care of children; (2) to provide comprehensive training or job search assistance or to reform unemployment compensation; (3) to make continuing improvements in ongoing health care programs and comprehensive health care reform; (4) to preserve and rebuild the United States maritime industry; (5) to reform the financing of Federal elections; (6) to implement trade-related legislation; (7) for reforms relating to the Pension Benefit Guaranty Corporation; (8) to provide for simplified collection of employment taxes on domestic services; (9) to reform the Comprehensive Environmental Response, Compensation, and Liability Act of 1980; (10) to consolidate the supervision of depository institutions insured under the Federal Deposit Insurance Act; and (11) to preserve United States energy security. (Sec. 25) Establishes Senate enforcement procedures to extend the system of discretionary spending limits to budget resolutions for FY 1996 through 1998 and enforce pay-as-you-go spending. Title III: Sense of Congress Provisions - Expresses the sense of the Senate with respect to budgetary accounting of health care reform, reimbursing State and local governments for illegal immigration costs, using Blue Chip projections for economic assumptions, and the cost to State and local governments of unfunded Federal mandates.
+
+	</summary>
+</bill>

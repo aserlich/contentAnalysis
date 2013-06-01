@@ -1,0 +1,39 @@
+<bill session="103" type="s" number="547" updated="2012-07-17T06:23:12-04:00">
+	<state datetime="1993-03-10">REFERRED</state>
+	<status><introduced datetime="1993-03-10"/></status>
+
+	<introduced datetime="1993-03-10"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend section 365 of title 11, United States Code, relating to unexpired leases of personal property in chapter 11 cases.</title>
+	</titles>
+	<sponsor id="300061"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-10" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2643)</text></action>
+		<action datetime="1993-03-10" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-04-20"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Bankruptcy"/>
+		<term name="Contracts"/>
+		<term name="Leases"/>
+		<term name="Trusts and trustees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/10/1993--Introduced.
+Amends Federal bankruptcy law to require a trustee in bankruptcy in a chapter 11 case to timely perform all obligations of the debtor on unexpired leases for personal property (including leases for equipment) during the period between the filing of a bankruptcy petition and the time the executory contract or lease is assumed or rejected.
+
+	</summary>
+</bill>

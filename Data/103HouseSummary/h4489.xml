@@ -1,0 +1,209 @@
+<bill session="103" type="h" number="4489" updated="2012-07-17T04:08:20-04:00">
+	<state datetime="1994-10-05">PASS_BACK:SENATE</state>
+	<status><vote2 datetime="1994-10-05" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-05-25"/>
+	<titles>
+		<title type="short" as="introduced">National Aeronautics and Space Administration Authorization Act, Fiscal Years 1995 and 1996</title>
+		<title type="short" as="passed house">National Aeronautics and Space Administration Authorization and Space Policy Act, Fiscal Year 1995</title>
+		<title type="short" as="passed senate">Aeronautics and Space Policy Act of 1994</title>
+		<title type="short" as="passed senate">National Aeronautics and Space Administration Consistency in Budgeting Act of 1994</title>
+		<title type="official" as="introduced">To authorize appropriations to the National Aeronautics and Space Administration for human space flight, science, aeronautics, and technology, mission support, and Inspector General, and for other purposes.</title>
+		<title type="official" as="amended by senate">An act to amend the National Aeronautics and Space Act of 1958, and for other purposes.</title>
+	</titles>
+	<sponsor id="400572"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-25" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E1065)</text></action>
+		<action datetime="1994-05-25" state="REFERRED"><text>Referred to the House Committee on Science, Space and Technology.</text></action>
+		<action datetime="1994-06-02"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Space.</text></action>
+		<action datetime="1994-06-02"><committee name="House Committee on Science, Space and Technology"/><text>Referred to the Subcommittee on Technology, Environment and Aviation.</text></action>
+		<action datetime="1994-07-12"><committee name="House Committee on Science, Space and Technology" subcommittee="Technology, Environment and Aviation"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-07-12"><committee name="House Committee on Science, Space and Technology" subcommittee="Technology, Environment and Aviation"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<action datetime="1994-07-13"><committee name="House Committee on Science, Space and Technology" subcommittee="Space"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-07-13"><committee name="House Committee on Science, Space and Technology" subcommittee="Space"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text></action>
+		<calendar datetime="1994-07-20"  state="REPORTED"><committee name="House Committee on Science, Space and Technology"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="1994-07-20"><committee name="House Committee on Science, Space and Technology"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-08-03T13:50:00-04:00"><text>Reported (Amended) by the Committee on Science, Space and Technology. H. Rept. 103-654.</text></action>
+		<calendar number="354" datetime="1994-08-03T13:51:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 354.</text></calendar>
+		<action datetime="1994-08-08T12:33:00-04:00"><text>Mr. Brown (CA) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-08-08T12:34:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7097-7108"/></action>
+		<action datetime="1994-08-08T12:34:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-08-08T12:45:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-08-08T12:45:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-08-09"><text>Received in the Senate and read twice and referred to the Committee on Commerce.</text></action>
+		<calendar datetime="1994-09-23" ><committee name="House Committee on Science, Space and Technology"/><text>Committee on Commerce. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1994-09-28"><text>Committee on Commerce. Reported to Senate by Senator Hollings with an amendment in the nature of a substitute and an amendment to the title. Without written report.</text></action>
+		<calendar under="General Orders" number="674" datetime="1994-09-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 674.</text></calendar>
+		<action datetime="1994-10-05"><text>Measure laid before Senate.</text></action>
+		<action datetime="1994-10-05"><text>Amendment SP 2615 proposed by Senator Ford for Senator Rockefeller.</text></action>
+		<action datetime="1994-10-05"><text>Amendment SP 2615 agreed to in Senate by Voice Vote.</text></action>
+		<action datetime="1994-10-05"><text>The committee substitute as amended agreed to by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-05" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text><reference label="consideration" ref="CR S14222-14229"/></vote>
+		<action datetime="1994-10-06"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Space" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Science, Space and Technology" subcommittee="Technology, Environment and Aviation" activity="Referral, Markup, Reporting" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Space sciences"/>
+		<term name="Actions and defenses"/>
+		<term name="Advertising"/>
+		<term name="Aeronautics"/>
+		<term name="Aerospace industries"/>
+		<term name="Agricultural education"/>
+		<term name="Agriculture and food"/>
+		<term name="Armed forces and national security"/>
+		<term name="Astronautics"/>
+		<term name="Astronomical research"/>
+		<term name="Authorization"/>
+		<term name="Bone diseases"/>
+		<term name="Breast cancer"/>
+		<term name="Building construction"/>
+		<term name="Buy American"/>
+		<term name="CIS countries"/>
+		<term name="Classified defense information"/>
+		<term name="Climate change and greenhouse gases"/>
+		<term name="Commerce"/>
+		<term name="Commercialization"/>
+		<term name="Communication in science"/>
+		<term name="Communication satellites"/>
+		<term name="Computer networks"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Construction costs"/>
+		<term name="Cost accounting"/>
+		<term name="Cost control"/>
+		<term name="Cost effectiveness"/>
+		<term name="Data banks"/>
+		<term name="Department of Commerce"/>
+		<term name="Depressed areas"/>
+		<term name="Disabled"/>
+		<term name="Dismissal wage"/>
+		<term name="Early retirement"/>
+		<term name="Earth resources satellites"/>
+		<term name="Earth science research"/>
+		<term name="Earth sciences"/>
+		<term name="Economics and public finance"/>
+		<term name="Education"/>
+		<term name="Educational policy"/>
+		<term name="Employee motivation"/>
+		<term name="Engineering"/>
+		<term name="Engineers"/>
+		<term name="Engines"/>
+		<term name="Environmental protection"/>
+		<term name="Environmental research"/>
+		<term name="Equipment and supplies"/>
+		<term name="Estonia"/>
+		<term name="Europe"/>
+		<term name="Farm lands"/>
+		<term name="Federal aid to higher education"/>
+		<term name="Federal aid to research"/>
+		<term name="Federal budgets"/>
+		<term name="Federal employees"/>
+		<term name="Federal installations"/>
+		<term name="Finance and financial sector"/>
+		<term name="Foreign corporations"/>
+		<term name="Foreign trade and international finance"/>
+		<term name="Government and business"/>
+		<term name="Government consultants"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Government procurement"/>
+		<term name="Government service contracts"/>
+		<term name="Government spending reductions"/>
+		<term name="Health"/>
+		<term name="Higher education"/>
+		<term name="Industry-university relations"/>
+		<term name="Information networks"/>
+		<term name="Information services"/>
+		<term name="Information storage and retrieval systems"/>
+		<term name="Injunctions"/>
+		<term name="Inspectors general"/>
+		<term name="International affairs"/>
+		<term name="International competitiveness"/>
+		<term name="International cooperation in astronautics"/>
+		<term name="Labor and employment"/>
+		<term name="Laboratories"/>
+		<term name="Land transfers"/>
+		<term name="Latvia"/>
+		<term name="Launch vehicles"/>
+		<term name="Law"/>
+		<term name="Leave of absence"/>
+		<term name="Licenses"/>
+		<term name="Life sciences"/>
+		<term name="Lithuania"/>
+		<term name="Mars (Planet)"/>
+		<term name="Mathematics"/>
+		<term name="Medical research"/>
+		<term name="Military base closures"/>
+		<term name="Minorities"/>
+		<term name="Minority business enterprises"/>
+		<term name="Minority education"/>
+		<term name="Mississippi"/>
+		<term name="National Aeronautics and Space Administration"/>
+		<term name="Negotiations"/>
+		<term name="Official secrets"/>
+		<term name="Ohio"/>
+		<term name="Ovarian cancer"/>
+		<term name="Physics"/>
+		<term name="Promotions"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Radar"/>
+		<term name="Reciprocity"/>
+		<term name="Remote sensing"/>
+		<term name="Reprogramming of appropriated funds"/>
+		<term name="Research and development"/>
+		<term name="Research and development contracts"/>
+		<term name="Research centers"/>
+		<term name="Research grants"/>
+		<term name="Robots"/>
+		<term name="Rockets (Aeronautics)"/>
+		<term name="Russia"/>
+		<term name="Russian Republic"/>
+		<term name="Science, technology, communications"/>
+		<term name="Scientific education"/>
+		<term name="Small business"/>
+		<term name="Solar system"/>
+		<term name="Sovereignty"/>
+		<term name="Space activities"/>
+		<term name="Space agreements"/>
+		<term name="Space communication"/>
+		<term name="Space exploration"/>
+		<term name="Space flight"/>
+		<term name="Space industrialization"/>
+		<term name="Space policy"/>
+		<term name="Space programs"/>
+		<term name="Space shuttles"/>
+		<term name="Space stations"/>
+		<term name="Spacecraft"/>
+		<term name="Supersonic aircraft"/>
+		<term name="Technological innovations"/>
+		<term name="Technology assessment"/>
+		<term name="Technology transfer"/>
+		<term name="Test facilities"/>
+		<term name="Texas"/>
+		<term name="Transfer of employees"/>
+		<term name="Transportation and public works"/>
+		<term name="Women"/>
+		<term name="Women scientists"/>
+		<term name="Women's education"/>
+		<term name="Women's health"/>
+	</subjects>
+	<amendments>
+		<amendment number="s2615"/>
+	</amendments>
+	<summary>
+	10/5/1994--Passed Senate amended. TABLE OF CONTENTS: Title I: National Aeronautics and Space Administration Subtitle A: Special Authority and Limitations Subtitle B: Aeronautics Title II: Commercial Space Launch Amendments Title III: Revisions to Land Remote Sensing Policy Act of 1992 Title IV: Technology Investment Policy for Aeronautics and Space Title V: National Aeronautics and Space Administration Budget Aeronautics and Space Policy Act of 1994 - Title I: National Aeronautics and Space Administration - Subtitle A: Special Authority and Limitations - Directs the Administrator of the National Aeronautics and Space Administration (NASA) to submit to specified congressional committees a detailed operating plan for obligating FY 1995 funds. Provides authority for reprogramming and imposes a limitation on funding uses. Authorizes a land conveyance in Clear Lake, Texas. Authorizes the Administrator to accept land conveyances from Cleveland and Brook Park, Ohio, for a Visitor Center for the Lewis Research Center. (Sec. 108) Requires NASA to give consideration to geographical distribution of research and development funds whenever feasible. (Sec. 110) Expresses the sense of the Congress that, when consistent with NASA goals, depressed community sites should be selected for new NASA programs. (Sec. 111) Requires the establishment with the Office of Space Access and Technology a program of expedited technology procurement to demonstrate how innovative technology can rapidly be brought to bear on NASA space missions. Requires: (1) use of nongovernmental sector expertise to the maximum extent practicable, through the use of existing special appointment procedures; and (2) integration of existing commercial, non-development, and off-the-shelf hardware and services. Requires coordination of NASA resources in the areas of procurement, commercial programs, and advanced technology. (Sec. 112) Directs the Administrator to coordinate with other Federal agencies all NASA education activities to encourage participation of women, minorities who are underrepresented in science, engineering, and mathematics, and persons with disabilities. (Sec. 113) Requires independent cost analysis of specified new NASA projects costing more than $100 million. (Sec. 114) Prohibits obligation of funds for the Small Spacecraft Technology Initiative to duplicate private sector activities. (Sec. 115) Expresses the sense of the Senate that NASA should seek joint scientific activities with Russia, with an initial focus on robotic exploration of Mars. (Sec. 116)) Authorizes the use of specified unobligated funds to establish a Visitor Center for the Lewis Research Center, under specified circumstances. (Sec. 117) Prohibits the Consortium for International Earth Science Information Network from obligating more than a specified amount of funds for new building construction. (Sec. 118) Amends the Global Change Research Act of 1990 to require NASA to develop a Global Change Data and Information System to design a system to process, archive, and distribute data from the Global Change Research Program. Sets forth design specifications and operating responsibilities. (Sec. 119) Requires the National Science and Technology Council, through its Committee on Environment and Natural Resources, to submit to the Congress a plan for access to declassified data from classified archives and systems for global change research. (Sec. 120) Directs the Administrator to study the feasibility of a University Innovative Research Program which uses institutions of higher education to help meet NASA research and development needs by stimulating non-duplicative technology transfer between education and industry and encouraging participation by minority and disadvantaged persons in technological innovation. (Sec. 121) Directs the Administrator to study and report to Congress on the convergence of the NASA Tracking and Data Relay Satellite System (TDRSS) with commercial communications satellite systems. (Sec. 122) Requires NASA to report to Congress on: (1) specific space shuttle cost reduction initiatives; and (2) a plan for an advanced launch technology program. (Sec. 124) Expresses the sense of the Congress that NASA should pursue life and microgravity sciences research related to the causes of breast and ovarian cancers, bone-related diseases, and other women's health issues. (Sec. 125) Requires NASA to transmit annually to the Congress a report containing a complete accounting of all costs of the space station, including cash and other payments to Russia. Requires the Administrator to obtain quarterly financial reports from the Russian Space Agency. (Sec. 126) Requires NASA to purchase private sector space science data to the maximum extent practicable. (Sec. 127) Establishes a five-year cooperative initiative between NASA and the Department of Agriculture to make remote sensing agricultural information available to farmers. (Sec. 128) Requires an assessment and report to the Congress on methods of maximizing, based on various funding levels, opportunities for human and robotic space exploration, using space vehicles and platforms. (Sec. 129) Requires NASA, in coordination with the Department of Defense and foreign space agencies, to catalogue certain comets and asteroids. Subtitle B: Aeronautics - Declares it is U.S. policy that: (1) revitalizing national aeronautical facilities shall be a major element of Federal investment in aeronautical research and development; and (2) industry and government cost-sharing for facilities construction and use shall be investigated to achieve goals within a constrained Federal budget. (Sec. 152) Directs the President to identify and assess all domestic and foreign aeronautics facilities and determine the risk to U.S. industry competitiveness due to potential unintended transfer of technology. (Sec. 153) Requires the President to work with domestic industries to develop a prioritized strategy for Federal investment in aeronautics research, technology, and facilities. (Sec. 154) Requires the President to develop a site selection plan for the location of new aeronautics research facilitates. Details site selection factors. (Sec. 155) Directs NASA to develop an aeronautical basic research investment plan and work with other Federal agencies to prioritize aeronautical technologies research to enhance U.S. competitiveness. Title II: Commercial Space Launch Amendments - Amends Federal law with regard to commercial space launch activities to extend the authority of the Secretary of Transportation to license commercial reentry vehicles. Requires an annual report to the Congress by the Secretary of Transportation describing licensing activities and reviewing the effectiveness of the Office of Commercial Space Transportation. Limits the launching of obtrusive space advertising. Requests the President to negotiate with foreign launching nations to reach an agreement prohibiting obtrusive outer space advertising. Title III: Revisions to Land Remote Sensing Policy Act of 1992 - Amends the Land Remote Sensing Policy Act of 1992 with respect to management and licensing of commercial remote sensing satellites. Title IV: Technology Investment Policy for Aeronautics and Space - Declares U.S. policy and goals regarding technology investment, commercialization, and the competitive capability of the U.S. aerospace industry. Amends the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1989 to require NASA to work with industry in compatible areas of technology development. (Sec. 405) Directs NASA to establish a competitive program of funding research and development projects proposed by industry-led consortia, alliances, or other entities, for the purpose of advancing aeronautics and space technologies. Prescribes cost-sharing and financing mechanisms. (Sec. 407) Prescribes the role of NASA procurement in technology investment and requires coordination with other Federal technology and technology transfer programs. (Sec. 409) Requires NASA's annual budget submission to provide specified funding, milestone, and projection information on interagency technology projects. (Sec. 410) Directs coordination of technology investment activities with the Small Business Innovation Research activities of NASA. (Sec. 411) Requires NASA to provide personnel incentives, including promotions and bonuses, to staff to encourage technology innovations and development. Title V: National Aeronautics and Space Administration Budget - National Aeronautics and Space Administration Consistency in Budgeting Act of 1994 - Requires the Administrator of NASA to submit annually to Congress a five-year program plan of expenditures consistent with proposed appropriations.
+
+	</summary>
+</bill>

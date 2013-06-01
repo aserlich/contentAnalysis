@@ -1,0 +1,45 @@
+<bill session="103" type="h" number="636" updated="2010-04-19T00:41:36-04:00">
+	<state datetime="1993-01-26">REFERRED</state>
+	<status><introduced datetime="1993-01-26"/></status>
+
+	<introduced datetime="1993-01-26"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 10, United States Code, to restore the CHAMPUS eligibility of certain members and former members of the uniformed services, and their dependents, who are currently excluded from benefits under CHAMPUS because of their entitlement to hospital insurance benefits under medicare.</title>
+	</titles>
+	<sponsor id="410529"/>
+	<cosponsors>
+		<cosponsor id="406863" joined="1993-09-28"/>
+		<cosponsor id="400012" joined="1993-10-13"/>
+		<cosponsor id="411178" joined="1993-02-18"/>
+		<cosponsor id="407044" joined="1994-07-19"/>
+		<cosponsor id="405258" joined="1993-11-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-26"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Forces and Personnel.</text></action>
+		<action datetime="1993-01-28"><committee name="House Committee on Armed Services"/><text>Executive Comment Requested from DOD.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="HSAS-02" name="House Armed Services" subcommittee="Military Forces and Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Military dependents"/>
+		<term name="Military medicine"/>
+		<term name="Retired military personnel"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/1993--Introduced.
+Amends the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) to include under such coverage otherwise eligible persons who are also entitled to Medicare benefits. Prohibits a benefit from being paid under CHAMPUS to the extent that it is also a covered benefit for such individual under title XVIII (Medicare) of the Social Security Act.
+
+	</summary>
+</bill>

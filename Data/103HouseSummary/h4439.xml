@@ -1,0 +1,56 @@
+<bill session="103" type="h" number="4439" updated="2010-04-19T10:43:02-04:00">
+	<state datetime="1994-09-28">REPORTED</state>
+	<status><calendar datetime="1994-09-28" /></status>
+
+	<introduced datetime="1994-05-17"/>
+	<titles>
+		<title type="official" as="introduced">To expand the scope of the Belle Fourche irrigation project, and for other purposes.</title>
+	</titles>
+	<sponsor id="300058"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-17"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-05-17"><committee name="House Committee on Natural Resources"/><text>Late Referral to the Subcommittee on Oversight and Investigations (Jul 11, 94).</text></action>
+		<action datetime="1994-05-24"><text>Hearings Held by the Subcommittee on Oversight and Investigations Prior to Referral.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Subcommittee on Oversight and Investigations Discharged.</text></action>
+		<action datetime="1994-09-28"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-09-28"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="1994-10-03T19:18:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 103-787.</text></action>
+		<calendar number="433" datetime="1994-10-03T19:19:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 433.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Oversight and Investigations" activity="Hearings, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1786" />
+	</relatedbills>
+	<subjects>
+		<term name="Water"/>
+		<term name="Agriculture"/>
+		<term name="Bridges"/>
+		<term name="Budgets"/>
+		<term name="Collection of accounts"/>
+		<term name="Construction costs"/>
+		<term name="Dams"/>
+		<term name="Environmental protection"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Irrigation"/>
+		<term name="Missouri River development"/>
+		<term name="Public contracts"/>
+		<term name="Transportation"/>
+		<term name="User charges"/>
+		<term name="Water conservation"/>
+		<term name="Water resources"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/17/1994--Introduced.
+Authorizes additional rehabilitation activities for the Belle Fourche irrigation project within the Pick-Sloan Missouri Basin program. Limits the Federal share of the cost of all such rehabilitation activities. Extends to 40 years from July 1, 1995, the repayment period for the construction and rehabilitation costs of such project which are assigned to the irrigation project's users. Provides the rates of assessable charges after such date based upon land acreage irrigated. Allows such charges to be periodically amended by the Secretary of the Interior. Authorizes additional appropriations for the project due to fluctuations in construction costs. Requires appropriate amendment of the contract between the Secretary and the Belle Fourche irrigation district to reflect changes made by this Act.
+
+	</summary>
+</bill>

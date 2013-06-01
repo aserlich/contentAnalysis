@@ -1,0 +1,94 @@
+<bill session="103" type="sj" number="209" updated="2012-07-17T05:17:55-04:00">
+	<state datetime="1994-10-06">PASS_OVER:SENATE</state>
+	<status><vote datetime="1994-10-06" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1994-07-12"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution designating November 21, 1994, as &quot;National Military Families Recognition Day&quot;.</title>
+	</titles>
+	<sponsor id="300023"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="1994-07-25"/>
+		<cosponsor id="300150" joined="1994-08-05"/>
+		<cosponsor id="300071" joined="1994-08-05"/>
+		<cosponsor id="300052" joined="1994-08-04"/>
+		<cosponsor id="300056" joined="1994-07-25"/>
+		<cosponsor id="300059" joined="1994-08-05"/>
+		<cosponsor id="406084" joined="1994-08-04"/>
+		<cosponsor id="409225" joined="1994-08-16"/>
+		<cosponsor id="300082" joined="1994-08-04"/>
+		<cosponsor id="406256" joined="1994-07-25"/>
+		<cosponsor id="300011" joined="1994-08-04"/>
+		<cosponsor id="400564" joined="1994-07-25"/>
+		<cosponsor id="300036" joined="1994-08-04"/>
+		<cosponsor id="300086" joined="1994-08-04"/>
+		<cosponsor id="300053" joined="1994-07-25"/>
+		<cosponsor id="300154" joined="1994-07-25"/>
+		<cosponsor id="300069" joined="1994-07-25"/>
+		<cosponsor id="300008" joined="1994-08-05"/>
+		<cosponsor id="300001" joined="1994-07-25"/>
+		<cosponsor id="300026" joined="1994-08-04"/>
+		<cosponsor id="400563" joined="1994-08-05"/>
+		<cosponsor id="300073" joined="1994-08-04"/>
+		<cosponsor id="407663" joined="1994-08-05"/>
+		<cosponsor id="403142" joined="1994-07-25"/>
+		<cosponsor id="402675" joined="1994-08-05"/>
+		<cosponsor id="407786" joined="1994-08-16"/>
+		<cosponsor id="300037" joined="1994-07-25"/>
+		<cosponsor id="300015" joined="1994-08-05"/>
+		<cosponsor id="300092" joined="1994-08-05"/>
+		<cosponsor id="300029" joined="1994-08-05"/>
+		<cosponsor id="403515" joined="1994-07-25"/>
+		<cosponsor id="300005" joined="1994-08-11"/>
+		<cosponsor id="408898" joined="1994-07-25"/>
+		<cosponsor id="403669" joined="1994-07-25"/>
+		<cosponsor id="403346" joined="1994-07-25"/>
+		<cosponsor id="300159" joined="1994-07-25"/>
+		<cosponsor id="300099" joined="1994-07-25"/>
+		<cosponsor id="408597" joined="1994-08-04"/>
+		<cosponsor id="402004" joined="1994-08-05"/>
+		<cosponsor id="407254" joined="1994-07-25"/>
+		<cosponsor id="300046" joined="1994-07-25"/>
+		<cosponsor id="400565" joined="1994-08-04"/>
+		<cosponsor id="300157" joined="1994-08-04"/>
+		<cosponsor id="300010" joined="1994-07-25"/>
+		<cosponsor id="404598" joined="1994-07-25"/>
+		<cosponsor id="300076" joined="1994-08-04"/>
+		<cosponsor id="401604" joined="1994-08-04"/>
+		<cosponsor id="400566" joined="1994-08-11"/>
+		<cosponsor id="402727" joined="1994-07-25"/>
+		<cosponsor id="300054" joined="1994-08-05"/>
+		<cosponsor id="405310" joined="1994-08-04"/>
+		<cosponsor id="300064" joined="1994-08-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-07-12" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8824)</text></action>
+		<action datetime="1994-07-12" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1994-10-06"><text>Senate Committee on Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S14407"/></action>
+		<vote how="by Voice Vote" type="vote" datetime="1994-10-06" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment and with a preamble by Voice Vote.</text></vote>
+		<action datetime="1994-10-07"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1994-10-07T02:09:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="1994-10-07T02:10:00-04:00"><text>Held at the desk.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hj" number="188" />
+	</relatedbills>
+	<subjects>
+		<term name="Special days"/>
+		<term name="Armed forces and national security"/>
+		<term name="Commemorations"/>
+		<term name="Families"/>
+		<term name="Military dependents"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/12/1994--Introduced.
+Designates November 21, 1994, as National Military Families Recognition Day.
+
+	</summary>
+</bill>

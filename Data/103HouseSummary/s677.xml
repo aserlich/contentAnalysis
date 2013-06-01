@@ -1,0 +1,44 @@
+<bill session="103" type="s" number="677" updated="2012-07-17T05:22:27-04:00">
+	<state datetime="1994-04-14">REPORTED</state>
+	<status><calendar datetime="1994-04-14" /></status>
+
+	<introduced datetime="1993-03-30"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize the establishment on the grounds of the Edward Hines, Jr., Department of Veterans Affairs Hospital, Hines, Illinois, of a facility to provide temporary accommodations for family members of severely ill children being treated at a nearby university medical center.</title>
+	</titles>
+	<sponsor id="409917"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-30" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S4027)</text></action>
+		<action datetime="1993-03-30" state="REFERRED"><text>Read twice and referred to the Committee on Veterans.</text></action>
+		<action datetime="1994-03-24"><committee name="Committee on Veterans"/><text>Committee on Veterans. Hearings held.</text></action>
+		<calendar datetime="1994-04-14"  state="REPORTED"><committee name="Committee on Veterans"/><text>Committee on Veterans. Provisions of measure incorporated into measure S. 1626 ordered to be reported.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="1626" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Child health"/>
+		<term name="Families"/>
+		<term name="Health"/>
+		<term name="Hospital care"/>
+		<term name="Illinois"/>
+		<term name="Medical centers"/>
+		<term name="Nonprofit organizations"/>
+		<term name="Veterans' hospitals"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/30/1993--Introduced.
+Authorizes the Secretary of Veterans Affairs to enter into an agreement to permit the Caring Place of Loyola, Inc., an Illinois nonprofit organization, to establish on the grounds of the Edward Hines, Jr., Department of Veterans Affairs Hospital in Hines, Illinois, a facility for providing temporary accommodations for family members of severely ill children being treated at the Loyola University of Chicago Medical Center.
+
+	</summary>
+</bill>

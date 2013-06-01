@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="3605" updated="2010-04-19T08:32:46-04:00">
+	<state datetime="1993-11-21">REFERRED</state>
+	<status><introduced datetime="1993-11-21"/></status>
+
+	<introduced datetime="1993-11-21"/>
+	<titles>
+		<title type="short" as="introduced">Mowa Band of Choctaw Indians Recognition Act</title>
+		<title type="official" as="introduced">To provide Federal recognition of the Mowa Band of Choctaw Indians of Alabama.</title>
+	</titles>
+	<sponsor id="400502"/>
+	<cosponsors>
+		<cosponsor id="400030" joined="1994-02-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-11-21"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-01-21"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Native American Affairs.</text></action>
+		<action datetime="1994-05-17"><committee name="House Committee on Natural Resources" subcommittee="Native American Affairs"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-09-30"><committee name="House Committee on Natural Resources"/><text>Provisions of Measure Included in H.R.4228.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="923" />
+		<bill relation="unknown" session="103" type="h" number="923" />
+		<bill relation="unknown" session="103" type="h" number="923" />
+		<bill relation="identical" session="103" type="s" number="282" />
+	</relatedbills>
+	<subjects>
+		<term name="Indians"/>
+		<term name="Alabama"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Indian claims"/>
+		<term name="Indian lands"/>
+		<term name="Minorities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/21/1993--Introduced.
+Mowa Band of Choctaw Indians Recognition Act - Extends Federal recognition and associated services and benefits to the Mowa Band of Choctaw Indians of Alabama. Restores Federal rights and privileges abrogated by earlier statutes. Approves and ratifies the cession to the United States of all historical tribal lands of the Band. Extinguishes all specified claims against the United States, a State or local government, or any other person or entity, by the Band arising subsequent to such cession, and based upon any interest in or right involving the land. Prohibits the Band from using its Federal recognition to assert any historical land claim. Transfers all interests in lands held by the Band to the United States, to be held in trust for the benefit of the Band.
+
+	</summary>
+</bill>

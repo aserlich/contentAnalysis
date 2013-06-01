@@ -1,0 +1,57 @@
+<bill session="103" type="s" number="336" updated="2012-07-17T05:30:16-04:00">
+	<state datetime="1993-03-03">REPORTED</state>
+	<status><calendar datetime="1993-03-03" /></status>
+
+	<introduced datetime="1993-02-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Stock Raising Homestead Act to resolve certain problems regarding subsurface estates, and for other purposes.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S1443)</text></action>
+		<action datetime="1993-02-04" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-02-05"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Mineral Resources Development.</text></action>
+		<action datetime="1993-03-02"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text></action>
+		<calendar datetime="1993-03-03"  state="REPORTED"><committee name="Committee on Energy and Natural Resources"/><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="1993-03-17"><text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. 103-21.</text></action>
+		<calendar under="General Orders" number="35" datetime="1993-03-17" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 35.</text></calendar>
+		<action datetime="1993-04-01"><text>Indefinitely postponed by Senate by Voice Vote.</text><reference label="consideration" ref="CR S4250"/></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Energy and Natural Resources" subcommittee="Mineral Resources Development and Production" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="239" />
+		<bill relation="unknown" session="103" type="h" number="239" />
+	</relatedbills>
+	<subjects>
+		<term name="Mines and mineral resources"/>
+		<term name="Actions and defenses"/>
+		<term name="Administrative fees"/>
+		<term name="Damages"/>
+		<term name="Environmental protection"/>
+		<term name="Government paperwork"/>
+		<term name="Homestead law"/>
+		<term name="Land transfers"/>
+		<term name="Land use"/>
+		<term name="Mining claims"/>
+		<term name="Negligence"/>
+		<term name="Prospecting"/>
+		<term name="Public lands and natural resources"/>
+		<term name="Reclamation of land"/>
+		<term name="Surety and fidelity"/>
+		<term name="User charges"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/1993--Introduced.
+Amends Federal law regarding stock-raising homesteads to require a written notice to the surface owner and the Secretary of the Interior (the Secretary) before a person may enter lands for exploration purposes or to locate a mining claim. Provides for an authorized exploration period during which exploring and locating a mining claim may be conducted with specified negligible surface disruption. Limits the total acreage that may be covered at any time by notices of intention to locate a claim. Prohibits any mineral exploration or development activities without the surface owner's written consent (unless the Secretary of the Interior (the Secretary) has authorized them according to prescribed guidelines). Prohibits the Secretary from authorizing any mineral activities unless a plan of operations has been submitted meeting specified criteria. Directs the Secretary to submit such plan of operations for the surface owner's comments and modifications before determining whether it complies with this Act. Requires the person submitting a plan to pay a fee to the surface owner for the use of surface during mineral activities. Requires reclamation of land to return it to a condition capable of supporting the uses which it was capable of supporting before surface disturbance. Authorizes any surface owner to request an inspection if such owner has reason to believe that he may be adversely affected due to any violation of an approved plan of operations. Provides for enforcement through a civil action by the surface owner. Requires the Secretary to simplify the procedure for surface owners who apply to obtain title to interests in Federal lands.
+
+	</summary>
+</bill>

@@ -1,0 +1,61 @@
+<bill session="103" type="h" number="4909" updated="2010-04-19T11:56:46-04:00">
+	<state datetime="1994-08-05">REFERRED</state>
+	<status><introduced datetime="1994-08-05"/></status>
+
+	<introduced datetime="1994-08-05"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Elwha River Ecosystem and Fisheries Restoration Act to provide greater flexibility in the expenditure of funds, and for other purposes.</title>
+	</titles>
+	<sponsor id="400109"/>
+	<cosponsors>
+		<cosponsor id="410567" joined="1994-08-05"/>
+		<cosponsor id="400278" joined="1994-08-05"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1994-08-05"><committee name="House Committee on Energy and Commerce"/><text>Provisions included in H.R.4752.</text></action>
+		<action datetime="1994-08-05"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-08-05"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1994-08-08"><committee name="House Committee on Natural Resources"/><text>Provisions of Measure Included in H.R.4752 (Sec. 7).</text></action>
+		<action datetime="1994-08-08"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1994-08-08"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Fisheries Management.</text></action>
+		<action datetime="1994-08-08"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Commerce.</text></action>
+		<action datetime="1994-08-11"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Energy and Power.</text></action>
+		<action datetime="1994-11-21"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="HSIF-03" name="House Energy and Commerce" subcommittee="Energy and Power" activity="Referral" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Oversight and Investigations" activity="Referral" />
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Fisheries Management" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="2262" />
+	</relatedbills>
+	<subjects>
+		<term name="Water"/>
+		<term name="Anadromous fishes"/>
+		<term name="Animals"/>
+		<term name="Budgets"/>
+		<term name="Ecosystem management"/>
+		<term name="Environmental protection"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Fishery management"/>
+		<term name="Marine resources"/>
+		<term name="Natural resources"/>
+		<term name="Rivers"/>
+		<term name="Washington State"/>
+		<term name="Water resources"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/1994--Introduced.
+Amends the Elwha River Ecosystem and Fisheries Restoration Act to remove requirements that Act funds appropriated to the Secretary of the Interior be spent through the Assistant Secretary of the Interior for Fish, Wildlife, and Parks and Act funds appropriated to the Secretary of Commerce be spent through the National Marine Fisheries Service.
+
+	</summary>
+</bill>

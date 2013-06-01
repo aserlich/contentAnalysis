@@ -1,0 +1,47 @@
+<bill session="103" type="s" number="2250" updated="2012-07-17T05:58:51-04:00">
+	<state datetime="1994-06-30">REFERRED</state>
+	<status><introduced datetime="1994-06-30"/></status>
+
+	<introduced datetime="1994-06-30"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to permit tax-exempt financing of certain transportation facilities.</title>
+	</titles>
+	<sponsor id="300011"/>
+	<cosponsors>
+		<cosponsor id="300043" joined="1994-06-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-30" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8100-8101)</text></action>
+		<action datetime="1994-06-30" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Docks"/>
+		<term name="Finance and financial sector"/>
+		<term name="Freight"/>
+		<term name="Harbors"/>
+		<term name="Infrastructure"/>
+		<term name="Interest"/>
+		<term name="Leases"/>
+		<term name="Railroad freight operations"/>
+		<term name="Railroad yards"/>
+		<term name="Tax deductions"/>
+		<term name="Tax-exempt securities"/>
+		<term name="Taxation"/>
+		<term name="Transportation and public works"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/30/1994--Introduced.
+Amends the Internal Revenue Code to permit tax-exempt financing of transportation facilities used in connection with the transport of cargo to or from docks and wharves.
+
+	</summary>
+</bill>

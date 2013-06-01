@@ -1,0 +1,45 @@
+<bill session="103" type="hr" number="509" updated="2010-04-19T14:18:09-04:00">
+	<state datetime="1994-08-09T14:24:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="1994-08-09T14:24:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1994-08-05"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of a joint resolution and a bill relating to most-favored-nation treatment for the People's Republic of China.</title>
+	</titles>
+	<sponsor id="400527"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-08-05T15:00:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 103-673, by Mr. Bonior.</text></action>
+		<action datetime="1994-08-05T15:00:00-04:00"><text>Rule provides for consideration of H.J. Res. 373 and H.R. 4590 with 1 hour and 20 minutes of general debate. Previous question shall be considered as ordered without intervening motions. Waiving all points of order against consideration of the joints resolution and against its consideration in the House. After disposition of the joint resolution, it shall be in order to consider H.R. 4590 in the Committee of the Whole, with up to one hour of general debate. Specified amendments are in order. No amendment to H.R. 4590 shall be in order except those amendments printed in part 2 of the report accompanying this resolution, if offered in the order and manner specified. If more than one of the amendments in the report is adopted, only the last such amendment shall be considered as finally adopted and reported to the House. The previous question shall be considered as ordered on H.R. 4590 and any amendment thereto without intervening mo...</text></action>
+		<calendar datetime="1994-08-05T15:01:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 206.</text></calendar>
+		<action datetime="1994-08-09T13:18:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H7211-7220"/></action>
+		<action datetime="1994-08-09T13:22:00-04:00"><text>DEBATE - The House proceeded with one hour of debate.</text></action>
+		<action datetime="1994-08-09T14:24:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-08-09T14:24:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1994-08-09T14:24:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="hj" number="373" />
+		<bill relation="unknown" session="103" type="hj" number="373" />
+		<bill relation="unknown" session="103" type="h" number="4590" />
+	</relatedbills>
+	<subjects>
+		<term name="House of Representatives"/>
+		<term name="Congress"/>
+		<term name="Foreign trade"/>
+		<term name="House rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/1994--Introduced.
+Sets forth the rule for the consideration of H.J. Res. 373 and H.R. 4590 (conditions on most-favored-nation treatment for the People's Republic of China).
+
+	</summary>
+</bill>

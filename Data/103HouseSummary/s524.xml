@@ -1,0 +1,44 @@
+<bill session="103" type="s" number="524" updated="2012-07-17T05:13:08-04:00">
+	<state datetime="1993-03-05">REFERRED</state>
+	<status><introduced datetime="1993-03-05"/></status>
+
+	<introduced datetime="1993-03-05"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the Pittsburgh Aviary in Pittsburgh, Pennsylvania, as the National Aviary in Pittsburgh.</title>
+	</titles>
+	<sponsor id="411818"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-05" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2497)</text></action>
+		<action datetime="1993-03-05" state="REFERRED"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action datetime="1993-03-05"><committee name="Committee on Energy and Natural Resources"/><text>Referred to Subcommittee on Public Lands, National Parks.</text></action>
+		<action datetime="1993-07-27"><text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text></action>
+		<action datetime="1993-07-27"><text>Referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Discharged" />
+		<committee code="SSEG-4" name="Senate Energy and Natural Resources" subcommittee="Public Lands, National Parks and Forests" activity="Referral" />
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="927" />
+	</relatedbills>
+	<subjects>
+		<term name="Animals"/>
+		<term name="Birds"/>
+		<term name="Commemorations"/>
+		<term name="Names"/>
+		<term name="Pennsylvania"/>
+		<term name="Zoos"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/5/1993--Introduced.
+Designates the Pittsburgh Aviary in Pittsburgh, Pennsylvania, as the National Aviary in Pittsburgh.
+
+	</summary>
+</bill>

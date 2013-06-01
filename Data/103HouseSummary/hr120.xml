@@ -1,0 +1,45 @@
+<bill session="103" type="hr" number="120" updated="2010-04-19T13:17:21-04:00">
+	<state datetime="1993-03-09">REFERRED</state>
+	<status><introduced datetime="1993-03-09"/></status>
+
+	<introduced datetime="1993-03-09"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives against the enactment of any reduction or delay in cost-of-living adjustments for beneficiaries under title II of the Social Security Act.</title>
+	</titles>
+	<sponsor id="400028"/>
+	<cosponsors>
+		<cosponsor id="400219" joined="1993-03-09"/>
+		<cosponsor id="407320" joined="1993-03-09"/>
+		<cosponsor id="400113" joined="1993-03-09"/>
+		<cosponsor id="400331" joined="1993-03-09"/>
+		<cosponsor id="406799" joined="1993-03-09"/>
+		<cosponsor id="412001" joined="1993-03-09"/>
+		<cosponsor id="403864" joined="1993-03-09"/>
+		<cosponsor id="300058" joined="1993-03-09"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-09"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-03-11"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Cost of living adjustments"/>
+		<term name="Government spending reductions"/>
+		<term name="Old age, survivors and disability insurance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/9/1993--Introduced.
+Expresses the sense of the House of Representatives against the enactment of any reduction or delay in cost-of-living adjustments for beneficiaries under title II (Old Age, Survivors and Disability Insurance) of the Social Security Act.
+
+	</summary>
+</bill>

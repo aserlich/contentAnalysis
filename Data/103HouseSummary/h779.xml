@@ -1,0 +1,49 @@
+<bill session="103" type="h" number="779" updated="2010-04-19T01:05:47-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="official" as="introduced">To reauthorize the Atlantic Tunas Convention Act of 1976.</title>
+	</titles>
+	<sponsor id="407141"/>
+	<cosponsors>
+		<cosponsor id="410496" joined="1993-02-03"/>
+		<cosponsor id="400440" joined="1993-02-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-02-18"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Fisheries Management.</text></action>
+		<action datetime="1993-02-18"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Commerce, State.</text></action>
+		<action datetime="1993-10-20"><committee name="House Committee on Merchant Marine and Fisheries" subcommittee="Fisheries Management"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Fisheries Management" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Fisheries"/>
+		<term name="Atlantic Ocean"/>
+		<term name="Authorization"/>
+		<term name="Environmental protection"/>
+		<term name="Fishery agreements"/>
+		<term name="Fishery management"/>
+		<term name="Foreign trade"/>
+		<term name="International agencies"/>
+		<term name="International environmental cooperation"/>
+		<term name="International fishery management"/>
+		<term name="Marine resources conservation"/>
+		<term name="Tuna fisheries"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Authorizes appropriations to carry out the Atlantic Tunas Convention Act of 1976.
+
+	</summary>
+</bill>

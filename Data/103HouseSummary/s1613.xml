@@ -1,0 +1,46 @@
+<bill session="103" type="s" number="1613" updated="2010-04-19T18:41:51-04:00">
+	<state datetime="1993-11-02">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-11-02" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-11-02"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Three Affiliated Tribes and Standing Rock Sioux Tribe Equitable Compensation Act.</title>
+	</titles>
+	<sponsor id="300026"/>
+	<cosponsors>
+		<cosponsor id="300037" joined="1993-11-02"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-02" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S14865"/></vote>
+		<action datetime="1993-11-03T13:13:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-03"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-03"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1994-01-21"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Native American Affairs.</text></action>
+		<action datetime="1994-02-03"><committee name="House Committee on Natural Resources"/><text>Provisions of Measure Included in H.R.3759.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Native American Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Indians"/>
+		<term name="Dams"/>
+		<term name="Indian claims"/>
+		<term name="Indian lands"/>
+		<term name="Land transfers"/>
+		<term name="North Dakota"/>
+		<term name="Reservoirs"/>
+		<term name="South Dakota"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/2/1993--Introduced.
+Amends the Three Affiliated Tribes and Standing Rock Sioux Tribe Equitable Compensation Act to extend the right of first refusal deadline with respect to specified lands offered to the Standing Rock Sioux Tribe.
+
+	</summary>
+</bill>

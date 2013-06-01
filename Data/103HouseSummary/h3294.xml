@@ -1,0 +1,57 @@
+<bill session="103" type="h" number="3294" updated="2010-04-19T07:44:25-04:00">
+	<state datetime="1993-10-15">REFERRED</state>
+	<status><introduced datetime="1993-10-15"/></status>
+
+	<introduced datetime="1993-10-15"/>
+	<titles>
+		<title type="short" as="introduced">Frontline Medical Education Act</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to include services provided at any Federally-qualified health center by interns and residents in a medical residency training program of a hospital in determining the amount of payment to the hospital under the medicare program for the costs of graduate medical education if the hospital incurs any of the costs of providing the services, and for other purposes.</title>
+	</titles>
+	<sponsor id="400553"/>
+	<cosponsors>
+		<cosponsor id="400262" joined="1993-11-04"/>
+		<cosponsor id="400112" joined="1994-02-03"/>
+		<cosponsor id="400357" joined="1993-11-22"/>
+		<cosponsor id="400283" joined="1993-11-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-15"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-10-15"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-10-19"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-10-21"><text>Sponsor introductory remarks on measure. (CR H8334)</text></action>
+		<action datetime="1993-11-18"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Budgets"/>
+		<term name="Education"/>
+		<term name="Federal aid to health facilities"/>
+		<term name="Federal aid to medical education"/>
+		<term name="Health policy"/>
+		<term name="Higher education"/>
+		<term name="Hospitals"/>
+		<term name="Medical care"/>
+		<term name="Medical personnel"/>
+		<term name="Medical residents"/>
+		<term name="Medicare"/>
+		<term name="Medicine"/>
+		<term name="Prospective payment systems (Medical care)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/15/1993--Introduced.
+Frontline Medical Education Act - Amends title XVIII (Medicare) of the Social Security Act with respect to: (1) services of interns and residents at federally-qualified health centers and Medicare payments for graduate medical education; (2) Medicare payment for direct graduate medical education costs of such centers; and (3) waiver of the application of productivity screens for such centers receiving medical education payments.
+
+	</summary>
+</bill>

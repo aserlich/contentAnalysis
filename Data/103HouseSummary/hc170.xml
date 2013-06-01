@@ -1,0 +1,73 @@
+<bill session="103" type="hc" number="170" updated="2010-04-18T21:27:25-04:00">
+	<state datetime="1993-11-09T20:31:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1993-11-09T20:31:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="1993-10-22"/>
+	<titles>
+		<title type="official" as="introduced">Directing the President pursuant to section 5(c) of the War Powers Resolution to remove United States Armed Forces from Somalia by January 31, 1994.</title>
+	</titles>
+	<sponsor id="400536"/>
+	<cosponsors>
+		<cosponsor id="400610" joined="1993-10-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-10-14"><text>Sponsor introductory remarks on measure. (CR H7833)</text></action>
+		<action datetime="1993-10-22"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-10-26"><text>Sponsor introductory remarks on measure. (CR E2546)</text></action>
+		<action datetime="1993-10-27"><text>Sponsor introductory remarks on measure. (CR H8516, H8518)</text></action>
+		<action datetime="1993-11-03"><committee name="House Committee on Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1993-11-03"  state="REPORTED"><committee name="House Committee on Foreign Affairs"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1993-11-04T17:05:00-05:00"><text>Mr. Hamilton asked unanimous consent that the Committee on Foreign Affairs have until midnight on Nov. 5 to file a report on H. Con. Res. 170. Agreed to without objection.</text></action>
+		<action datetime="1993-11-04T17:50:00-05:00"><text>Rules Committee Resolution H. Res. 293 Reported to House. Rule provides for consideration of H. Con. Res. 170. The amendment in the nature of a substitute recommended by the Committee on Foreign Affairs now printed in the concurrent resolution shall be considered as adopted. The previous question shall be considered as ordered on the concurrent resolution, as so amended, to final adoption without intervening motion except for two amendments made in order by this resolution and a motion to recommit. Specified amendments are in order. If more than one of the amendments printed in the report is adopted, only the last amendment adopted shall be considered as finally adopted. The provisions of sec. 7 of the War Powers Resolution shall not apply during the remainder of the 1st session of the 103rd Congress with respect to Somalia.</text></action>
+		<action datetime="1993-11-05T17:14:00-05:00"><text>Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 103-329. Filed late, pursuant to previous special order.</text></action>
+		<calendar number="180" datetime="1993-11-05T17:15:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 180.</text></calendar>
+		<action datetime="1993-11-08"><text>Sponsor introductory remarks on measure. (CR H8907-8908)</text></action>
+		<action datetime="1993-11-08T16:20:00-05:00"><text>Rule H. Res. 293 passed House.</text></action>
+		<action datetime="1993-11-09T17:16:00-05:00"><text>Considered under the provisions of rule H. Res. 293.</text><reference label="consideration" ref="CR H9039-9062"/></action>
+		<action datetime="1993-11-09T17:16:00-05:00"><text>Rule provides for consideration of H. Con. Res. 170. The amendment in the nature of a substitute recommended by the Committee on Foreign Affairs now printed in the concurrent resolution shall be considered as adopted. The previous question shall be considered as ordered on the concurrent resolution, as so amended, to final adoption without intervening motion except for two amendments made in order by this resolution and a motion to recommit. Specified amendments are in order. If more than one of the amendments printed in the report is adopted, only the last amendment adopted shall be considered as finally adopted. The provisions of sec. 7 of the War Powers Resolution shall not apply during the remainder of the 1st Session of the 103rd Congress with respect to Somalia.</text></action>
+		<action datetime="1993-11-09T17:17:00-05:00"><text>DEBATE - Pursuant to the unanimous consent agreement of Monday, November 8, the House proceeded with one hour of general debate.</text></action>
+		<action datetime="1993-11-09T18:26:00-05:00"><text>Discharged from Union Calendar.</text></action>
+		<action datetime="1993-11-09T18:34:00-05:00"><text>DEBATE - Pursuant to the provisions of H. Res. 293, the House proceeded with 30 minutes of debate on the Gilman amendment.</text></action>
+		<action datetime="1993-11-09T19:35:00-05:00"><text>DEBATE - Pursuant to the provisions of H. Res. 293, the House proceeded with thirty minutes of debate on the Hamilton amendment in the nature of a substitute.</text></action>
+		<action datetime="1993-11-09T20:31:00-05:00"><text>The previous question was ordered pursuant to the rule.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1993-11-09T20:31:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On agreeing to the resolution Agreed to by voice vote.</text></vote>
+		<action datetime="1993-11-09T20:31:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-09T20:31:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="1993-11-10"><text>Received in the Senate and referred to the Committee on Foreign Relations.</text></action>
+		<action datetime="1994-01-25"><committee name="House Committee on Foreign Affairs"/><text>Executive Comment Received from State.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, Reporting" />
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="103" type="hr" number="293" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Armed forces abroad"/>
+		<term name="Congress"/>
+		<term name="Congress and foreign policy"/>
+		<term name="Congressional oversight"/>
+		<term name="Congressional-Presidential relations"/>
+		<term name="Declaration of war"/>
+		<term name="Defense policy"/>
+		<term name="Foreign policy"/>
+		<term name="International military forces"/>
+		<term name="Military intervention"/>
+		<term name="Presidents"/>
+		<term name="Somalia"/>
+		<term name="War and emergency powers"/>
+	</subjects>
+	<amendments>
+		<amendment number="h384"/>
+		<amendment number="h385"/>
+		<amendment number="h386"/>
+		<amendment number="h387"/>
+		<amendment number="h388"/>
+	</amendments>
+	<summary>
+	11/9/1993--Passed House amended. Directs the President, pursuant to the War Powers Resolution, to remove U.S. armed forces from Somalia by March 31, 1994 (unless the President requests and the Congress authorizes a later date), except for a limited number of members of the armed forces sufficient only to protect U.S. diplomatic facilities and citizens and noncombatant personnel to advise the United Nations commander in Somalia.
+
+	</summary>
+</bill>

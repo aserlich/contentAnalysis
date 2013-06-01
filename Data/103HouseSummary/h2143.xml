@@ -1,0 +1,53 @@
+<bill session="103" type="h" number="2143" updated="2010-04-19T04:46:08-04:00">
+	<state datetime="1993-05-18">REFERRED</state>
+	<status><introduced datetime="1993-05-18"/></status>
+
+	<introduced datetime="1993-05-18"/>
+	<titles>
+		<title type="short" as="introduced">Nuclear Regulatory Commission Authorization Act for Fiscal Years 1994 and 1995</title>
+		<title type="official" as="introduced">To authorize appropriations for the Nuclear Regulatory Commission for fiscal years 1994 and 1995.</title>
+	</titles>
+	<sponsor id="406729"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-18"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Natural Resources" subcommittee="Energy and Mineral Resources"/><text>Hearings Held by the Subcommittee on Energy and Mineral Resources Prior to Referral.</text></action>
+		<action datetime="1993-06-15"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Energy and Mineral Resources.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSII-06" name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="2313" />
+	</relatedbills>
+	<subjects>
+		<term name="Nuclear energy"/>
+		<term name="Authorization"/>
+		<term name="Congressional oversight"/>
+		<term name="Energy policy"/>
+		<term name="Environmental protection"/>
+		<term name="Federal aid to research"/>
+		<term name="Government trust funds"/>
+		<term name="Independent regulatory commissions"/>
+		<term name="Inspectors general"/>
+		<term name="Nuclear Regulatory Commission"/>
+		<term name="Nuclear power plants"/>
+		<term name="Nuclear reactors"/>
+		<term name="Nuclear research"/>
+		<term name="Nuclear security measures"/>
+		<term name="Radioactive wastes"/>
+		<term name="Reprogramming of appropriated funds"/>
+		<term name="Research grants"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/18/1993--Introduced.
+Nuclear Regulatory Commission Authorization Act for Fiscal Years 1994 and 1995 - Authorizes appropriations for FY 1994 and 1995 to the Nuclear Regulatory Commission and to its Office of Inspector General. Prescribes allocation guidelines.
+
+	</summary>
+</bill>

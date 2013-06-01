@@ -1,0 +1,50 @@
+<bill session="103" type="s" number="1761" updated="2010-04-19T19:04:50-04:00">
+	<state datetime="1993-11-20">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-11-20" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide early out authority for Forest Service Employees.</title>
+	</titles>
+	<sponsor id="300076"/>
+	<cosponsors>
+		<cosponsor id="405212" joined="1993-11-20"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S16860-16861"/></vote>
+		<action datetime="1993-11-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-21T14:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1994-02-01"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-02-03"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Budgets"/>
+		<term name="Civil service retirement"/>
+		<term name="Department of Agriculture"/>
+		<term name="Dismissal wage"/>
+		<term name="Early retirement"/>
+		<term name="Executive departments"/>
+		<term name="Government employees"/>
+		<term name="Government trust funds"/>
+		<term name="Layoffs"/>
+		<term name="National forests"/>
+		<term name="Natural resources"/>
+		<term name="Public lands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+Grants the Secretary of Agriculture authority to establish a temporary program to offer financial incentives to Forest Service employees in order to encourage them to voluntarily separate from the agency, whether by retirement or resignation, in order to avoid or minimize the need for involuntary separations. Provides for repayment of such incentives if the employee rejoins the Federal Government within a certain period of time. Limits total Forest Service outlays pursuant to the cooperative work trust funds accounts in FY 1994.
+
+	</summary>
+</bill>

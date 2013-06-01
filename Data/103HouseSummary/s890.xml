@@ -1,0 +1,38 @@
+<bill session="103" type="s" number="890" updated="2012-07-17T04:24:00-04:00">
+	<state datetime="1993-05-05">REFERRED</state>
+	<status><introduced datetime="1993-05-05"/></status>
+
+	<introduced datetime="1993-05-05"/>
+	<titles>
+		<title type="official" as="introduced">A bill for the relief of Matt Clawson.</title>
+	</titles>
+	<sponsor id="300029"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-05" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<action datetime="1993-06-24"><committee name="Committee on Judiciary"/><text>Referred to Subcommittee on Courts and Administrative Practice.</text></action>
+		<action datetime="1994-09-22"><committee name="Committee on Judiciary"/><text>Considered by Subcommittee on Courts and Administrative Practice.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="Senate Judiciary" subcommittee="Courts and Administrative Practice" activity="Referral, Markup" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+		<term name="Claims"/>
+		<term name="Real property"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/5/1993--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named individual in full settlement of claims against the United States for losses resulting from reliance on the approval of the Forest Service of his claim for a specified placer mine in the vicinity of Salmon River in Idaho.
+
+	</summary>
+</bill>

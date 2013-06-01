@@ -1,0 +1,85 @@
+<bill session="103" type="h" number="4600" updated="2012-07-17T04:13:53-04:00">
+	<state datetime="1994-07-14T19:11:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="1994-07-14T19:11:00-04:00" where="h" result="pass" how="roll" roll="329"/></status>
+
+	<introduced datetime="1994-06-17"/>
+	<titles>
+		<title type="short" as="introduced">Expedited Rescissions Act of 1994</title>
+		<title type="official" as="introduced">To amend the Congressional Budget and Impoundment Control Act of 1974 to provide for the expedited consideration of certain proposed rescissions of budget authority.</title>
+	</titles>
+	<sponsor id="400386"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1994-06-17" state="REFERRED"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1994-06-17"><text>Referred to the House Committee on Rules.</text></action>
+		<action datetime="1994-06-21"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Legislation and National Security.</text></action>
+		<action datetime="1994-06-23"><committee name="House Committee on Rules"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-06-23"  state="REPORTED"><committee name="House Committee on Rules"/><text>Ordered to be Reported by the Yeas and Nays: 5 - 3.</text></calendar>
+		<action datetime="1994-06-23T19:55:00-04:00"><text>Reported by the Committee on Rules. H. Rept. 103-557, Part I.</text></action>
+		<action datetime="1994-06-28T15:34:00-04:00"><text>Rules Committee Resolution H. Res. 467 Reported to House. Rule provides for consideration of H.R. 4600 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be read by section. Specified amendments are in order. No amendment to the bill shall be in order except those printed in the report of the Committee on Rules accompanying this resolution. Said amendments shall be offered in the order and manner specified in the report, and shall not be subject to amendment except as specified. All points of order against said amendments shall be waived.</text></action>
+		<action datetime="1994-07-14T15:22:00-04:00"><text>Rule H. Res. 467 passed House.</text></action>
+		<action datetime="1994-07-14T15:29:00-04:00"><text>Considered under the provisions of rule H. Res. 467.</text><reference label="consideration" ref="CR H5700-5730"/></action>
+		<action datetime="1994-07-14T15:29:00-04:00"><text>Rule provides for consideration of H.R. 4600 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be read by section. Specified amendments are in order. No amendment to the bill shall be in order except those printed in the report of the Committee on Rules accompanying this resolution. Said amendments shall be offered in the order and manner specified in the report, and shall not be subject to amendment except as specified. All points of order against said amendments shall be waived.</text></action>
+		<action datetime="1994-07-14T15:29:00-04:00"><text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 467 and Rule XXIII.</text></action>
+		<action datetime="1994-07-14T15:29:00-04:00"><text>The Speaker designated the Honorable E de la Garza to act as Chairman of the Committee.</text></action>
+		<action datetime="1994-07-14T15:29:00-04:00"><text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate.</text></action>
+		<action datetime="1994-07-14T16:44:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 467, the Committee of the Whole proceeded with ten minutes of debate on the Derrick amendment.</text></action>
+		<action datetime="1994-07-14T16:53:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 467, the Committee of the Whole proceeded with 30 minutes of debate on the Stenholm amendment.</text></action>
+		<action datetime="1994-07-14T16:59:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 467, the Committee of the Whole proceeded with 30 minutes of debate on the Solomon amendment.</text></action>
+		<action datetime="1994-07-14T18:06:00-04:00"><text>DEBATE - The Committee of the Whole proceeded with the remaining debate on the Stenholm amendment (approximately 24 minutes).</text></action>
+		<action datetime="1994-07-14T18:51:00-04:00"><text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4600.</text></action>
+		<action datetime="1994-07-14T18:52:00-04:00"><text>The previous question was ordered pursuant to the rule.</text></action>
+		<action datetime="1994-07-14T18:53:00-04:00"><text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text></action>
+		<vote how="roll" type="vote" roll="329" datetime="1994-07-14T19:11:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed by recorded vote: 342 - 69 (Roll no. 329).</text></vote>
+		<action datetime="1994-07-14T19:11:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-07-15"><text>Received in the Senate and read twice and referred jointly to the Committees on Budget; Governmental Affairs pursuant to the order of August 4, 1977, with instructions that if one Committee reports, the other Committee have thirty days to report or be discharged.</text></action>
+		<action datetime="1994-10-05"><committee name="House Committee on Rules"/><text>Committee on Budget. Hearings held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral" />
+		<committee code="HSGO-06" name="House Government Operations" subcommittee="Legislation and National Security" activity="Referral" />
+		<committee code="HSRU" name="House Rules" activity="Referral, Markup, Reporting" />
+		<committee code="SSBU" name="Senate Budget" activity="Referral, Hearings, In Committee" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="103" type="hr" number="467" />
+		<bill relation="unknown" session="103" type="h" number="1578" />
+	</relatedbills>
+	<subjects>
+		<term name="Federal budgets"/>
+		<term name="Appropriations"/>
+		<term name="Budget deficits"/>
+		<term name="Congress"/>
+		<term name="Congressional budget"/>
+		<term name="Constitutional law"/>
+		<term name="Economics and public finance"/>
+		<term name="Executive impoundment of appropriated funds"/>
+		<term name="Expedited congressional procedure"/>
+		<term name="Government operations and politics"/>
+		<term name="Government trust funds"/>
+		<term name="House rules and procedure"/>
+		<term name="Income tax"/>
+		<term name="Injunctions"/>
+		<term name="Judicial review"/>
+		<term name="Law"/>
+		<term name="Legislation"/>
+		<term name="Legislative amendments"/>
+		<term name="Legislative resolutions"/>
+		<term name="Members of Congress"/>
+		<term name="Presidential messages"/>
+		<term name="Senate rules and procedure"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+		<amendment number="h756"/>
+		<amendment number="h757"/>
+		<amendment number="h758"/>
+	</amendments>
+	<summary>
+	7/14/1994--Passed House amended. Amends the Congressional Budget and Impoundment Control Act of 1974 to allow the President to transmit to both Houses of the Congress, for expedited consideration, one or more special messages proposing to rescind amounts of budget authority or to repeal any targeted tax benefit provided in a revenue Act. Requires that such special message be accompanied by a draft bill or joint resolution that would, if enacted, only rescind the budget authority or repeal the targeted tax benefit Requires such bill to include a Deficit Reduction Account. Allows the President to place rescinded amounts in such Account. Sets forth House and Senate procedures for the expedited consideration of such a proposal.
+
+	</summary>
+</bill>

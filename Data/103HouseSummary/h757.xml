@@ -1,0 +1,67 @@
+<bill session="103" type="h" number="757" updated="2010-04-19T01:01:58-04:00">
+	<state datetime="1993-02-03">REFERRED</state>
+	<status><introduced datetime="1993-02-03"/></status>
+
+	<introduced datetime="1993-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Environment and Public Works Fair Share Act of 1993</title>
+		<title type="official" as="introduced">To provide for the utilization of the most current census data in certain laws related to the environment and public works.</title>
+	</titles>
+	<sponsor id="401014"/>
+	<cosponsors>
+		<cosponsor id="400596" joined="1993-02-17"/>
+		<cosponsor id="400156" joined="1993-02-03"/>
+		<cosponsor id="400170" joined="1993-02-03"/>
+		<cosponsor id="405855" joined="1993-02-03"/>
+		<cosponsor id="400344" joined="1993-02-23"/>
+		<cosponsor id="400388" joined="1993-02-17"/>
+		<cosponsor id="400574" joined="1993-02-23"/>
+		<cosponsor id="400106" joined="1993-02-03"/>
+		<cosponsor id="400511" joined="1993-02-03"/>
+		<cosponsor id="400048" joined="1993-02-03"/>
+		<cosponsor id="404520" joined="1993-02-03"/>
+		<cosponsor id="406082" joined="1993-02-03"/>
+		<cosponsor id="400107" joined="1993-02-17"/>
+		<cosponsor id="406790" joined="1993-02-17"/>
+		<cosponsor id="400369" joined="1993-02-03"/>
+		<cosponsor id="400583" joined="1993-02-17"/>
+		<cosponsor id="408661" joined="1993-02-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Merchant Marine and Fisheries.</text></action>
+		<action datetime="1993-02-03"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Surface Transportation.</text></action>
+		<action datetime="1993-02-18"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Referred to the Subcommittee on Environment and Natural Resources.</text></action>
+		<action datetime="1993-02-18"><committee name="House Committee on Merchant Marine and Fisheries"/><text>Executive Comment Requested from Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee" />
+		<committee code="" name="House Merchant Marine and Fisheries" subcommittee="Environment and Natural Resources" activity="Referral" />
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Surface Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="s" number="303" />
+	</relatedbills>
+	<subjects>
+		<term name="Public works"/>
+		<term name="Census"/>
+		<term name="Environmental protection"/>
+		<term name="Federal aid highway program"/>
+		<term name="Grants-in-aid"/>
+		<term name="Hunting"/>
+		<term name="Interstate highway system"/>
+		<term name="Population statistics"/>
+		<term name="Traffic accidents and safety"/>
+		<term name="Urban transportation"/>
+		<term name="Wildlife conservation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/1993--Introduced.
+Environment and Public Works Fair Share Act of 1993 - Amends the Federal Aid to Wildlife Restoration Act to require the Federal formula for allocating funds to States under such Act to use the population figures from the latest available estimates prepared by the Department of Commerce for each State (currently, from the latest decennial census). Makes an identical change with respect to the Federal formula used for grants to States for interstate highway systems, Federal-aid urban highways, and highway safety programs (the Federal aid highway program)
+
+	</summary>
+</bill>

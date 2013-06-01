@@ -1,0 +1,58 @@
+<bill session="103" type="h" number="1768" updated="2010-04-19T03:47:36-04:00">
+	<state datetime="1993-04-21">REFERRED</state>
+	<status><introduced datetime="1993-04-21"/></status>
+
+	<introduced datetime="1993-04-21"/>
+	<titles>
+		<title type="short" as="introduced">Essential Access Community Hospital (EACH) Amendments of 1993</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to make miscellaneous and technical changes to the medicare program.</title>
+	</titles>
+	<sponsor id="409966"/>
+	<cosponsors>
+		<cosponsor id="402657" joined="1993-05-19"/>
+		<cosponsor id="400023" joined="1993-04-21"/>
+		<cosponsor id="300068" joined="1993-11-17"/>
+		<cosponsor id="410589" joined="1993-04-21"/>
+		<cosponsor id="300083" joined="1993-04-21"/>
+		<cosponsor id="300097" joined="1993-04-21"/>
+		<cosponsor id="403873" joined="1993-05-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-04-21"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="1993-04-21"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-04-30"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="1993-05-12"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health and the Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health and Environment" activity="Referral" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-02" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social security"/>
+		<term name="Ambulatory care"/>
+		<term name="Community hospitals"/>
+		<term name="Health insurance"/>
+		<term name="Hospital care"/>
+		<term name="Hospitals"/>
+		<term name="Long-term care"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Physicians"/>
+		<term name="Prospective payment systems (Medical care)"/>
+		<term name="Rural hospitals"/>
+		<term name="Rural public health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/21/1993--Introduced.
+Essential Access Community Hospital (EACH) Amendments of 1993 - Amends title XVIII (Medicare) of the Social Security Act to make miscellaneous and technical changes with respect to Medicare's Essential Access Community Hospital Program and other Medicare provisions, including those relating to Medicare part A (Hospital Insurance) deductibles and co-payments. Authorizes appropriations.
+
+	</summary>
+</bill>

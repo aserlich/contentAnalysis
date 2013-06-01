@@ -1,0 +1,44 @@
+<bill session="103" type="s" number="1765" updated="2010-04-19T19:05:28-04:00">
+	<state datetime="1993-11-20">PASS_OVER:SENATE</state>
+	<status><vote datetime="1993-11-20" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="official" as="introduced">To designate the Federal building located at 300 4th Street, Northeast, in the District of Columbia, as the &quot;Daniel Webster Senate Page Residence&quot;, and for other purposes.</title>
+	</titles>
+	<sponsor id="407786"/>
+	<cosponsors>
+		<cosponsor id="300005" joined="1993-11-20"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S16893"/></vote>
+		<action datetime="1993-11-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-21T14:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-21"><text>Referred to the House Committee on Public Works + Transportation.</text></action>
+		<action datetime="1993-12-03"><committee name="House Committee on Public Works + Transportation"/><text>Referred to the Subcommittee on Public Buildings and Grounds.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee" />
+		<committee code="" name="House Public Works and Transportation" subcommittee="Public Buildings and Grounds" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="sr" number="176" />
+	</relatedbills>
+	<subjects>
+		<term name="Public buildings"/>
+		<term name="Commemorations"/>
+		<term name="Congress"/>
+		<term name="Congressional pages"/>
+		<term name="District of Columbia"/>
+		<term name="Names"/>
+		<term name="Senate"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/20/1993--Introduced.
+Designates the Federal building located at 300 4th Street, Northeast, Washington, D.C., as the Daniel Webster Senate Page Residence.
+
+	</summary>
+</bill>

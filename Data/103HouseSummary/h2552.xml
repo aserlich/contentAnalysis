@@ -1,0 +1,46 @@
+<bill session="103" type="h" number="2552" updated="2010-04-19T05:49:30-04:00">
+	<state datetime="1993-06-29">REFERRED</state>
+	<status><introduced datetime="1993-06-29"/></status>
+
+	<introduced datetime="1993-06-29"/>
+	<titles>
+		<title type="official" as="introduced">To require that all Government records that contain information bearing on the last flight and disappearance of Amelia Earhart be transmitted to the Library of Congress and made available to the public.</title>
+	</titles>
+	<sponsor id="400554"/>
+	<cosponsors>
+		<cosponsor id="400001" joined="1993-09-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-06-29"><text>Referred to the House Committee on Government Operations.</text></action>
+		<action datetime="1993-06-29"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="1993-06-30"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Libraries and Memorials.</text></action>
+		<action datetime="1993-07-01"><committee name="House Committee on Government Operations"/><text>Referred to the Subcommittee on Information, Justice, Transportation and Agriculture.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Government Operations" activity="Referral, In Committee" />
+		<committee code="" name="House Government Operations" subcommittee="Information, Justice, Transportation, and Agriculture" activity="Referral" />
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Libraries and Memorials" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="s" number="146" />
+	</relatedbills>
+	<subjects>
+		<term name="Government paperwork"/>
+		<term name="Aircraft pilots"/>
+		<term name="Aviation safety"/>
+		<term name="Congressional agencies"/>
+		<term name="Executive departments"/>
+		<term name="Government information"/>
+		<term name="Libraries"/>
+		<term name="Public records"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/29/1993--Introduced.
+Directs executive agency heads to: (1) search their agency records to identify information relevant to the last flight and disappearance of Amelia Earhart; and (2) transmit it to the Library of Congress, where it shall be made public.
+
+	</summary>
+</bill>

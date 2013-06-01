@@ -1,0 +1,87 @@
+<bill session="103" type="h" number="4361" updated="2012-07-17T04:50:48-04:00">
+	<state datetime="1994-10-22">ENACTED:SIGNED</state>
+	<status><enacted datetime="1994-10-22" /></status>
+
+	<introduced datetime="1994-05-05"/>
+	<titles>
+		<title type="short" as="introduced">Federal Employees Family Friendly Leave Act</title>
+		<title type="short" as="passed senate">Federal Employees Family Friendly Leave Act</title>
+		<title type="short" as="enacted">Federal Employees Family Friendly Leave Act</title>
+		<title type="official" as="introduced">To amend title 5, United States Code, to provide that an employee of the Federal Government may use sick leave to attend to the medical needs of a family member; to modify the voluntary leave transfer program with respect to employees who are members of the same family; and for other purposes.</title>
+		<title type="official" as="amended by senate">An Act to amend chapter 63 of title 5, United States Code, to provide that an employee of the Federal Government may use sick leave to attend to the medical needs of a family member, and for other purposes.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+		<cosponsor id="407772" joined="1994-07-28"/>
+		<cosponsor id="400524" joined="1994-06-08"/>
+		<cosponsor id="400283" joined="1994-09-19"/>
+		<cosponsor id="407672" joined="1994-09-19"/>
+		<cosponsor id="400189" joined="1994-07-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-05" state="REFERRED"><text>Referred to the House Committee on Post Office and Civil Service.</text></action>
+		<action datetime="1994-05-18"><committee name="House Committee on Post Office and Civil Service"/><text>Referred to the Subcommittee on Compensation and Employee Benefits.</text></action>
+		<action datetime="1994-05-18"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="1994-07-26"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="1994-07-26"><committee name="House Committee on Post Office and Civil Service" subcommittee="Compensation and Employee Benefits"/><text>Forwarded by Subcommittee to Full Committee (Amended).</text></action>
+		<action datetime="1994-08-10"><committee name="House Committee on Post Office and Civil Service"/><text>Subcommittee on Compensation and Employee Benefits Discharged.</text></action>
+		<action datetime="1994-08-10"><committee name="House Committee on Post Office and Civil Service"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="1994-08-10"  state="REPORTED"><committee name="House Committee on Post Office and Civil Service"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="1994-09-19T12:38:00-04:00"><text>Reported (Amended) by the Committee on Post Office and Civil Service. H. Rept. 103-722.</text></action>
+		<calendar number="399" datetime="1994-09-19T12:38:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 399.</text></calendar>
+		<action datetime="1994-09-19T13:21:00-04:00"><text>Ms. Norton moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="1994-09-19T13:22:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9177-9179"/></action>
+		<action datetime="1994-09-19T13:22:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate.</text></action>
+		<vote how="by voice vote" type="vote" datetime="1994-09-19T13:28:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action datetime="1994-09-19T13:29:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1994-09-20"><text>Received in the Senate.</text></action>
+		<action datetime="1994-09-22"><text>Read twice and referred to the Committee on Governmental Affairs.</text></action>
+		<action datetime="1994-10-07"><text>Senate Committee on Governmental Affairs discharged by Unanimous Consent.</text></action>
+		<action datetime="1994-10-07"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S14675"/></action>
+		<action datetime="1994-10-07"><text>Amendment SP 2644 proposed by Senator Breaux for Senator Pryor.</text></action>
+		<action datetime="1994-10-07"><text>Amendment SP 2644 agreed to in Senate by Voice Vote.</text></action>
+		<action datetime="1994-10-07"><text>Message on Senate action sent to the House.</text></action>
+		<vote how="by Voice Vote" type="vote2" datetime="1994-10-07" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text></vote>
+		<action datetime="1994-10-08T00:01:00-04:00"><text>Mr. McCloskey asked unanimous consent that the House agree to the Senate amendments.</text></action>
+		<vote how="without objection" type="pingpong" datetime="1994-10-08T00:03:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On motion that the House agree to the Senate amendments Agreed to without objection.</text><reference label="consideration" ref="CR H11425"/></vote>
+		<action datetime="1994-10-08T00:03:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1994-10-08" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1994-10-14" ><text>Presented to President.</text></topresident>
+		<signed datetime="1994-10-22" ><text>Signed by President.</text></signed>
+		<enacted number="103-388" type="public" datetime="1994-10-22"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-388.</text></enacted>
+		<action datetime="1994-11-29"><text>Sponsor introductory remarks on measure. (CR E2311)</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Post Office and Civil Service" subcommittee="Compensation and Employee Benefits" activity="Referral, Hearings, Markup, Discharged, Reporting" />
+		<committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Federal employees"/>
+		<term name="Administrative procedure"/>
+		<term name="Cemeteries and funerals"/>
+		<term name="Congress"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Death and dying"/>
+		<term name="Families"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Health"/>
+		<term name="Labor and employment"/>
+		<term name="Leave of absence"/>
+		<term name="Office of Personnel Management"/>
+		<term name="Parental leave"/>
+		<term name="Part-time employment"/>
+		<term name="Sick leave"/>
+	</subjects>
+	<amendments>
+		<amendment number="s2644"/>
+	</amendments>
+	<summary>
+	10/7/1994--Passed Senate amended. Federal Employees Family Friendly Leave Act - Amends Federal law to allow Federal employees to use a certain amount of sick leave each year to attend to the medical needs, or make arrangements for or attend the funeral, of a family member.
+
+	</summary>
+</bill>

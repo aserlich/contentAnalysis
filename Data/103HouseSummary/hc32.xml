@@ -1,0 +1,39 @@
+<bill session="103" type="hc" number="32" updated="2010-04-18T21:05:34-04:00">
+	<state datetime="1993-02-02">REFERRED</state>
+	<status><introduced datetime="1993-02-02"/></status>
+
+	<introduced datetime="1993-02-02"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress that the Vatican should recognize the State of Israel and should establish diplomatic relations with that country.</title>
+	</titles>
+	<sponsor id="400122"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-02-02"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="1993-02-16"><committee name="House Committee on Foreign Affairs"/><text>Referred to the Subcommittee on Europe and the Middle East.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Europe and the Middle East" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign relations"/>
+		<term name="Catholic Church"/>
+		<term name="Israel"/>
+		<term name="Recognition (International law)"/>
+		<term name="Vatican City"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/1993--Introduced.
+Expresses the sense of the Congress that the Vatican should grant recognition to and establish diplomatic relations with Israel.
+
+	</summary>
+</bill>

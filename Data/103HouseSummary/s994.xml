@@ -1,0 +1,89 @@
+<bill session="103" type="s" number="994" updated="2012-07-17T05:32:44-04:00">
+	<state datetime="1993-12-14">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-14" /></status>
+
+	<introduced datetime="1993-05-20"/>
+	<titles>
+		<title type="short" as="introduced">Fresh Cut Flowers and Fresh Cut Greens Promotion and Information Act of 1993</title>
+		<title type="short" as="passed senate">Fresh Cut Flowers and Fresh Cut Greens Promotion and Information Act of 1993</title>
+		<title type="short" as="enacted">Fresh Cut Flowers and Fresh Cut Greens Promotion and Information Act of 1993</title>
+		<title type="official" as="introduced">A bill to authorize the establishment of a fresh cut flowers and fresh cut greens promotion and consumer information program for the benefit of the floricultural industry and other persons, and for other purposes.</title>
+	</titles>
+	<sponsor id="408939"/>
+	<cosponsors>
+		<cosponsor id="402412" joined="1993-07-20"/>
+		<cosponsor id="402004" joined="1993-11-18"/>
+		<cosponsor id="300070" joined="1993-06-30"/>
+		<cosponsor id="300046" joined="1993-06-17"/>
+		<cosponsor id="300023" joined="1993-05-20"/>
+		<cosponsor id="300154" joined="1993-07-14"/>
+		<cosponsor id="400561" joined="1993-06-22"/>
+		<cosponsor id="401604" joined="1993-11-20"/>
+		<cosponsor id="300072" joined="1993-05-20"/>
+		<cosponsor id="405310" joined="1993-05-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-20" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6249-6950, S6255-6263)</text></action>
+		<action datetime="1993-05-20" state="REFERRED"><text>Read twice and referred to the Committee on Agriculture.</text></action>
+		<action datetime="1993-07-01"><committee name="Committee on Agriculture"/><text>Referred to Subcommittee on Domestic and Foreign Marketing.</text></action>
+		<calendar datetime="1993-11-18"  state="REPORTED"><committee name="Committee on Agriculture"/><text>Committee on Agriculture. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="1993-11-19"><text>Committee on Agriculture. Reported to Senate by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="320" datetime="1993-11-19" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 320.</text></calendar>
+		<action datetime="1993-11-20"><text>Measure laid before Senate.</text><reference label="consideration" ref="CR S16869-16875"/></action>
+		<action datetime="1993-11-20"><text>The committee substitute as amended agreed to by Voice Vote.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Voice Vote.</text></vote>
+		<action datetime="1993-11-21"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-21T14:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-21T17:37:00-05:00"><text>Held at the desk.</text></action>
+		<action datetime="1993-11-21T22:14:00-05:00"><text>Mr. de la Garza asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="1993-11-21T22:14:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10613-10619"/></action>
+		<vote how="without objection" type="vote2" datetime="1993-11-21T22:15:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-11-21T22:16:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="1993-11-21" ><text>Cleared for White House.</text></topresident>
+		<topresident datetime="1993-12-08" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-14" ><text>Signed by President.</text></signed>
+		<enacted number="103-190" type="public" datetime="1993-12-14"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-190.</text></enacted>
+		<action datetime="1994-02-23"><text>By Senator Leahy from Committee on Agriculture filed written report. Report No. 103-229.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Markup, Reporting" />
+		<committee code="" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Domestic and Foreign Marketing and Product Promotion" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1738" />
+		<bill relation="unknown" session="103" type="h" number="3515" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Administrative procedure"/>
+		<term name="Administrative remedies"/>
+		<term name="Agricultural economics"/>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Commerce"/>
+		<term name="Consumer education"/>
+		<term name="Department of Agriculture"/>
+		<term name="Executive reorganization"/>
+		<term name="Federal employees"/>
+		<term name="Fees"/>
+		<term name="Fines (Penalties)"/>
+		<term name="Flowers"/>
+		<term name="Government operations and politics"/>
+		<term name="Injunctions"/>
+		<term name="Judicial review of administrative acts"/>
+		<term name="Law"/>
+		<term name="Marketing of farm produce"/>
+		<term name="Marketing research"/>
+		<term name="Produce trade"/>
+		<term name="Referendum"/>
+		<term name="Right of privacy"/>
+		<term name="Salaries"/>
+		<term name="Trade associations"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1232"/>
+	</amendments>
+	<summary>
+	11/20/1993--Passed Senate amended. Fresh Cut Flowers and Fresh Cut Greens Promotion and Information Act of 1993 - Authorizes the establishment of a program of promotion, consumer information, and research to strengthen the cut flowers and cut greens industry, including the creation of a Fresh Cut Flowers and Fresh Cut Greens Promotion Council. Requires a continuation referendum of handlers within three years of the issuance of the required marketing order. Authorizes appropriations.
+
+	</summary>
+</bill>

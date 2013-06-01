@@ -1,0 +1,61 @@
+<bill session="103" type="s" number="916" updated="2012-07-17T04:47:16-04:00">
+	<state datetime="1993-05-06">REFERRED</state>
+	<status><introduced datetime="1993-05-06"/></status>
+
+	<introduced datetime="1993-05-06"/>
+	<titles>
+		<title type="short" as="introduced">Davis-Bacon Reform Act</title>
+		<title type="official" as="introduced">A bill to amend the Davis-Bacon Act and the Copeland Act to provide new job opportunities, effect significant cost savings by increasing efficiency and economy in Federal procurement, promote small and minority business participation in Federal contracting, increase competition for Federal construction contracts, reduce unnecessary paperwork and reporting requirements, clarify the definition of prevailing wage, and for other purposes.</title>
+	</titles>
+	<sponsor id="300029"/>
+	<cosponsors>
+		<cosponsor id="408898" joined="1993-05-06"/>
+		<cosponsor id="300052" joined="1993-05-06"/>
+		<cosponsor id="300154" joined="1993-11-22"/>
+		<cosponsor id="300048" joined="1993-11-19"/>
+		<cosponsor id="401874" joined="1993-05-19"/>
+		<cosponsor id="403968" joined="1994-05-25"/>
+		<cosponsor id="300079" joined="1993-08-06"/>
+		<cosponsor id="406256" joined="1993-05-06"/>
+		<cosponsor id="300155" joined="1994-09-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-06" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5650-5652)</text></action>
+		<action datetime="1993-05-06" state="REFERRED"><text>Read twice and referred to the Committee on Labor and Human Resources.</text></action>
+		<action datetime="1993-06-17"><text>Sponsor introductory remarks on measure. (CR E1539)</text></action>
+		<action datetime="1993-08-03"><committee name="Committee on Labor and Human Resources"/><text>Referred to Subcommittee on Labor.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee" />
+		<committee code="" name="Senate Labor and Human Resources" subcommittee="Labor" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2042" />
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Business records"/>
+		<term name="Congressional investigations"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Construction industries"/>
+		<term name="Construction workers"/>
+		<term name="Economic impact statements"/>
+		<term name="Government operations and politics"/>
+		<term name="Government paperwork"/>
+		<term name="Minimum wages"/>
+		<term name="Public works"/>
+		<term name="Standards"/>
+		<term name="Unskilled labor"/>
+		<term name="Volunteer workers"/>
+		<term name="Wage restitution"/>
+		<term name="Wages"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/6/1993--Introduced.
+Davis-Bacon Reform Act - Amends the Davis-Bacon Act (the Act) to raise the threshold amount of contracts covered by such Act and related Acts. Requires computation of the prevailing wage for the particular urban or rural subdivision of the State in which the work is to be performed. Requires establishment as the prevailing wage the entire range of wages paid to the corresponding class of workers in an area. Excludes Federal or federally assisted projects from the determination of prevailing wage, unless there is insufficient wage data. Allows use of semi-skilled helpers, on projects covered by the Act, in areas where such use is an identifiable practice. Prohibits contract-splitting to avoid applications of the Act. Applies the Act to local projects only if at least 25 percent of the project costs are paid by Federal funds. Exempts volunteer labor from coverage under the Act. Provides for direct payment of any back pay due to workers under the Act. Amends the Copeland Anti-Kickback Act to revise payroll information reporting requirements. Directs the Secretary of Labor and the Comptroller General to report annually to the appropriate congressional committees on implementation and impact on local wages and on local and national economies of the Davis-Bacon Act and the Copeland Anti-Kickback Act.
+
+	</summary>
+</bill>

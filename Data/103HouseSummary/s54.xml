@@ -1,0 +1,44 @@
+<bill session="103" type="s" number="54" updated="2012-07-17T05:46:34-04:00">
+	<state datetime="1993-01-21">REFERRED</state>
+	<status><introduced datetime="1993-01-21"/></status>
+
+	<introduced datetime="1993-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Communications Act of 1934 and the Federal Election Campaign Act of 1971 to better inform the electorate in Senate elections.</title>
+	</titles>
+	<sponsor id="408597"/>
+	<cosponsors>
+		<cosponsor id="411818" joined="1993-01-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-01-21" state="REFERRED"><text>Read twice and referred to the Committee on Foreign Relations.</text></action>
+		<action datetime="1993-01-28"><text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text></action>
+		<action datetime="1993-01-28"><text>Referred to the Committee on Commerce by unanimous consent.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Congressional candidates"/>
+		<term name="Congressional elections (Senate)"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Equal time rule"/>
+		<term name="Parties to actions"/>
+		<term name="Political advertising"/>
+		<term name="Political parties"/>
+		<term name="Television in politics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/1993--Introduced.
+Amends the Communications Act of 1934 to require television stations to make three hours of broadcast time during a prime time access period available at no charge to each Senatorial campaign committee of a political party. Amends the Federal Election Campaign Act of 1971 to provide for the designation of such committees and the allocation by them of the free broadcast time among the party candidates.
+
+	</summary>
+</bill>

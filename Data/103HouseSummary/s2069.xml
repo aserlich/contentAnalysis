@@ -1,0 +1,69 @@
+<bill session="103" type="s" number="2069" updated="2012-07-17T06:20:37-04:00">
+	<state datetime="1994-06-23">REPORTED</state>
+	<status><calendar datetime="1994-06-23" /></status>
+
+	<introduced datetime="1994-05-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to grant consent of Congress to the Northeast Interstate Dairy Compact.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="402412" joined="1994-05-04"/>
+		<cosponsor id="408597" joined="1994-05-04"/>
+		<cosponsor id="300060" joined="1994-05-04"/>
+		<cosponsor id="300059" joined="1994-05-04"/>
+		<cosponsor id="300034" joined="1994-05-04"/>
+		<cosponsor id="407786" joined="1994-05-04"/>
+		<cosponsor id="300067" joined="1994-05-04"/>
+		<cosponsor id="300049" joined="1994-05-04"/>
+		<cosponsor id="402727" joined="1994-05-04"/>
+		<cosponsor id="300155" joined="1994-05-04"/>
+		<cosponsor id="300057" joined="1994-05-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1994-05-04" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5179-5180)</text></action>
+		<action datetime="1994-05-04" state="REFERRED"><text>Read twice and referred to the Committee on Judiciary.</text></action>
+		<calendar datetime="1994-06-23"  state="REPORTED"><committee name="Committee on Judiciary"/><text>Committee on Judiciary. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action datetime="1994-08-12"><text>Committee on Judiciary. Reported to Senate by Senator Biden with an amendment. With written report No. 103-333. Additional and minority views filed.</text></action>
+		<calendar under="General Orders" number="567" datetime="1994-08-12" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 567.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Interstate compacts"/>
+		<term name="Agricultural economics"/>
+		<term name="Agricultural prices"/>
+		<term name="Agriculture and food"/>
+		<term name="Commerce"/>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Connecticut"/>
+		<term name="Dairy industry"/>
+		<term name="Delaware"/>
+		<term name="Government operations and politics"/>
+		<term name="Interstate commissions"/>
+		<term name="Maine"/>
+		<term name="Marketing of farm produce"/>
+		<term name="Maryland"/>
+		<term name="Massachusetts"/>
+		<term name="Milk"/>
+		<term name="New Hampshire"/>
+		<term name="New Jersey"/>
+		<term name="New York State"/>
+		<term name="Pennsylvania"/>
+		<term name="Rhode Island"/>
+		<term name="Vermont"/>
+		<term name="Virginia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/12/1994--Reported to Senate amended. Interstate Compact - Grants congressional consent to the Northeast Interstate Dairy Compact entered into among the States of Vermont, New Hampshire, Maine, Connecticut, Rhode Island, and Massachusetts to assure the viability of dairy farming in the northeast and to assure consumers of an adequate, local supply of milk. Limits compact regulatory authority to Class I milk. Authorizes Delaware, New Jersey, New York, Pennsylvania, Maryland, and Virginia to join under specified conditions. Requires the Compact commission to remove incentives for overproduction. Sets forth Compact provisions.
+
+	</summary>
+</bill>

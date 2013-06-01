@@ -1,0 +1,58 @@
+<bill session="103" type="s" number="1732" updated="2010-04-19T19:00:16-04:00">
+	<state datetime="1993-12-14">ENACTED:SIGNED</state>
+	<status><enacted datetime="1993-12-14" /></status>
+
+	<introduced datetime="1993-11-20"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend arbitration under the provisions of chapter 44 of title 28, United States Code, and for other purposes.</title>
+	</titles>
+	<sponsor id="405310"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="1993-11-20" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: 11/19/93 CR S16573-16574)</text></vote>
+		<action datetime="1993-11-20T11:38:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="1993-11-20"><text>Referred to the House Committee on Judiciary.</text></action>
+		<action datetime="1993-11-20"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-22"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="1993-11-23T01:55:00-05:00"><text>Committee on Judiciary discharged.</text></action>
+		<action datetime="1993-11-23T01:55:00-05:00"><text>Mr. Brooks asked unanimous consent to discharge from committee and consider.</text></action>
+		<action datetime="1993-11-23T01:55:00-05:00"><text>Considered by unanimous consent. (consideration: 11/22/93 CR H10974-10975)</text></action>
+		<vote how="without objection" type="vote2" datetime="1993-11-23T01:57:00-05:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text></vote>
+		<action datetime="1993-11-23T01:57:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="1993-11-23"><text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text></action>
+		<action datetime="1993-11-24"><text>Senate agreed to the House amendment by Voice Vote.</text><reference label="consideration" ref="CR S17225"/></action>
+		<topresident datetime="1993-11-24" ><text>Cleared for White House.</text></topresident>
+		<action datetime="1993-11-26"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="1993-12-08" ><text>Presented to President.</text></topresident>
+		<signed datetime="1993-12-14" ><text>Signed by President.</text></signed>
+		<enacted number="103-192" type="public" datetime="1993-12-14"  state="ENACTED:SIGNED"><text>Became Public Law No: 103-192.</text></enacted>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="103" type="h" number="1102" />
+	</relatedbills>
+	<subjects>
+		<term name="Courts"/>
+		<term name="Actions and defenses"/>
+		<term name="Alternative dispute resolution"/>
+		<term name="Authorization"/>
+		<term name="Bankruptcy"/>
+		<term name="Budgets"/>
+		<term name="Commercial arbitration"/>
+		<term name="District courts"/>
+		<term name="Finance"/>
+		<term name="Jurisdiction"/>
+		<term name="Law"/>
+	</subjects>
+	<amendments>
+		<amendment number="h423"/>
+	</amendments>
+	<summary>
+	11/23/1993--Passed House amended. Amends the Judicial Improvements and Access to Justice Act to extend through December 31, 1994 (currently November 19, 1993) provisions allowing U.S. district courts to utilize arbitration in any civil action, including adversary proceedings in bankruptcy. Extends through FY 1996 (currently FY 1993) the authorization of appropriations for carrying out such arbitration. Removes the repeal of such arbitration procedures for the period between November 19, 1993, and the date of enactment of this Act.
+
+	</summary>
+</bill>

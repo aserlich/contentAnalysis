@@ -1,0 +1,50 @@
+<bill session="103" type="h" number="2263" updated="2010-04-19T05:04:45-04:00">
+	<state datetime="1993-05-25">REFERRED</state>
+	<status><introduced datetime="1993-05-25"/></status>
+
+	<introduced datetime="1993-05-25"/>
+	<titles>
+		<title type="short" as="introduced">Social Security Tax Fairness Act of 1993</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to reduce the burden of social security taxes on lower and middle income individuals by allowing a refundable credit for a portion of such taxes, and to repeal the limit on the amount of wages subject to the employee OASDI taxes.</title>
+	</titles>
+	<sponsor id="411488"/>
+	<cosponsors>
+		<cosponsor id="400143" joined="1993-07-01"/>
+		<cosponsor id="400316" joined="1993-06-18"/>
+		<cosponsor id="400140" joined="1993-07-01"/>
+		<cosponsor id="400391" joined="1993-07-01"/>
+		<cosponsor id="400357" joined="1993-09-23"/>
+		<cosponsor id="400301" joined="1993-06-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-25"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-06-02"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-01" name="House Ways and Means" subcommittee="Social Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Government trust funds"/>
+		<term name="Income tax"/>
+		<term name="Old age, survivors and disability insurance"/>
+		<term name="Railroad retirement plans"/>
+		<term name="Social security taxes"/>
+		<term name="Tax credits"/>
+		<term name="Tax rates"/>
+		<term name="Tax refunds"/>
+		<term name="Wages"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/25/1993--Introduced.
+Social Security Tax Fairness Act of 1993 - Amends the Internal Revenue Code to allow a refundable credit for a portion of an individual's employee OASDI taxes. Requires payment for the costs of such credit to the general fund of the Treasury from amounts in the Federal Old-Age and Survivors Insurance Trust Fund and the Railroad Retirement Account. Repeals the dollar limitation on the amount of wages subject to employee OASDI taxes.
+
+	</summary>
+</bill>

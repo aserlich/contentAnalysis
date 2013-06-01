@@ -1,0 +1,38 @@
+<bill session="103" type="s" number="945" updated="2012-07-17T06:07:51-04:00">
+	<state datetime="1993-05-12">REFERRED</state>
+	<status><introduced datetime="1993-05-12"/></status>
+
+	<introduced datetime="1993-05-12"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide for the permanent extension of qualified small issue bonds and to except certain expenditures from the limitation of such bonds.</title>
+	</titles>
+	<sponsor id="404598"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="1993-05-12" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="103" type="h" number="2111" />
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="Farms"/>
+		<term name="Industrial development bonds"/>
+		<term name="Manufacturing industries"/>
+		<term name="Rural affairs legislation"/>
+		<term name="Tax-exempt securities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/12/1993--Introduced.
+Amends the Internal Revenue Code to permanently authorize the issuance of qualified small issue bonds issued to finance manufacturing facilities and farm property. Excepts certain expenditures from the monetary limitation on such bonds.
+
+	</summary>
+</bill>

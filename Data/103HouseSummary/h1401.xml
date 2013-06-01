@@ -1,0 +1,42 @@
+<bill session="103" type="h" number="1401" updated="2010-04-19T02:49:38-04:00">
+	<state datetime="1993-03-18">REFERRED</state>
+	<status><introduced datetime="1993-03-18"/></status>
+
+	<introduced datetime="1993-03-18"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to remove United States tax barriers inhibiting competitiveness of United States owned businesses operating in the European Community.</title>
+	</titles>
+	<sponsor id="404520"/>
+	<cosponsors>
+		<cosponsor id="400205" joined="1993-04-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="1993-03-18"><text>Sponsor introductory remarks on measure. (CR E689)</text></action>
+		<action datetime="1993-03-18"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="1993-05-27"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Select Revenue Measures.</text></action>
+		<action datetime="1993-06-24"><committee name="House Committee on Ways and Means" subcommittee="Select Revenue Measures"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSWM-05" name="House Ways and Means" subcommittee="Select Revenue Measures" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Income tax"/>
+		<term name="EEC countries"/>
+		<term name="Foreign corporations"/>
+		<term name="Foreign trade"/>
+		<term name="Tax administration"/>
+		<term name="Taxation of foreign income"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/18/1993--Introduced.
+Amends the Internal Revenue Code to consider the European Community to be a single country for purposes of determining foreign base company sales and services income.
+
+	</summary>
+</bill>
